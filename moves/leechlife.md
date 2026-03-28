@@ -1,0 +1,25 @@
+# Move: Leech-Life
+
+## Pokemon that learn this move
+
+- [#041](pokemon/041.md)
+- [#042](pokemon/042.md)
+- [#046](pokemon/046.md)
+- [#047](pokemon/047.md)
+- [#048](pokemon/048.md)
+- [#049](pokemon/049.md)
+- [#069](pokemon/069.md)
+- [#070](pokemon/070.md)
+- [#167](pokemon/167.md)
+- [#168](pokemon/168.md)
+- [#169](pokemon/169.md)
+- [#290](pokemon/290.md)
+- [#291](pokemon/291.md)
+- [#292](pokemon/292.md)
+- [#402](pokemon/402.md)
+- [#595](pokemon/595.md)
+- [#596](pokemon/596.md)
+- [#616](pokemon/616.md)
+- [#617](pokemon/617.md)
+- [#636](pokemon/636.md)
+- [#637](pokemon/637.md)

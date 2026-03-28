@@ -1,0 +1,26 @@
+# Move: Super-Fang
+
+## Pokemon that learn this move
+
+- [#019](pokemon/019.md)
+- [#020](pokemon/020.md)
+- [#027](pokemon/027.md)
+- [#029](pokemon/029.md)
+- [#030](pokemon/030.md)
+- [#032](pokemon/032.md)
+- [#033](pokemon/033.md)
+- [#161](pokemon/161.md)
+- [#162](pokemon/162.md)
+- [#262](pokemon/262.md)
+- [#264](pokemon/264.md)
+- [#319](pokemon/319.md)
+- [#365](pokemon/365.md)
+- [#399](pokemon/399.md)
+- [#400](pokemon/400.md)
+- [#417](pokemon/417.md)
+- [#431](pokemon/431.md)
+- [#432](pokemon/432.md)
+- [#504](pokemon/504.md)
+- [#505](pokemon/505.md)
+- [#550](pokemon/550.md)
+- [#604](pokemon/604.md)

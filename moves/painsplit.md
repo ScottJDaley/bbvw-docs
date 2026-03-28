@@ -1,0 +1,27 @@
+# Move: Pain-Split
+
+## Pokemon that learn this move
+
+- [#109](pokemon/109.md)
+- [#110](pokemon/110.md)
+- [#121](pokemon/121.md)
+- [#200](pokemon/200.md)
+- [#211](pokemon/211.md)
+- [#317](pokemon/317.md)
+- [#353](pokemon/353.md)
+- [#354](pokemon/354.md)
+- [#442](pokemon/442.md)
+- [#474](pokemon/474.md)
+- [#562](pokemon/562.md)
+- [#563](pokemon/563.md)
+- [#568](pokemon/568.md)
+- [#569](pokemon/569.md)
+- [#577](pokemon/577.md)
+- [#578](pokemon/578.md)
+- [#579](pokemon/579.md)
+- [#592](pokemon/592.md)
+- [#593](pokemon/593.md)
+- [#594](pokemon/594.md)
+- [#607](pokemon/607.md)
+- [#608](pokemon/608.md)
+- [#618](pokemon/618.md)

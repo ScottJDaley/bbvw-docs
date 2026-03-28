@@ -1,0 +1,28 @@
+# Move: Bug-Buzz
+
+## Pokemon that learn this move
+
+- [#012](pokemon/012.md)
+- [#049](pokemon/049.md)
+- [#165](pokemon/165.md)
+- [#166](pokemon/166.md)
+- [#193](pokemon/193.md)
+- [#267](pokemon/267.md)
+- [#269](pokemon/269.md)
+- [#284](pokemon/284.md)
+- [#313](pokemon/313.md)
+- [#314](pokemon/314.md)
+- [#330](pokemon/330.md)
+- [#402](pokemon/402.md)
+- [#414](pokemon/414.md)
+- [#469](pokemon/469.md)
+- [#540](pokemon/540.md)
+- [#588](pokemon/588.md)
+- [#589](pokemon/589.md)
+- [#595](pokemon/595.md)
+- [#596](pokemon/596.md)
+- [#616](pokemon/616.md)
+- [#617](pokemon/617.md)
+- [#636](pokemon/636.md)
+- [#637](pokemon/637.md)
+- [#649](pokemon/649.md)

@@ -1,0 +1,28 @@
+# Move: Night-Shade
+
+## Pokemon that learn this move
+
+- [#092](pokemon/092.md)
+- [#093](pokemon/093.md)
+- [#094](pokemon/094.md)
+- [#163](pokemon/163.md)
+- [#167](pokemon/167.md)
+- [#168](pokemon/168.md)
+- [#177](pokemon/177.md)
+- [#178](pokemon/178.md)
+- [#198](pokemon/198.md)
+- [#302](pokemon/302.md)
+- [#353](pokemon/353.md)
+- [#354](pokemon/354.md)
+- [#355](pokemon/355.md)
+- [#356](pokemon/356.md)
+- [#386](pokemon/386.md)
+- [#477](pokemon/477.md)
+- [#562](pokemon/562.md)
+- [#563](pokemon/563.md)
+- [#592](pokemon/592.md)
+- [#593](pokemon/593.md)
+- [#607](pokemon/607.md)
+- [#608](pokemon/608.md)
+- [#622](pokemon/622.md)
+- [#623](pokemon/623.md)

@@ -1,0 +1,25 @@
+# Move: Flame-Burst
+
+## Pokemon that learn this move
+
+- [#004](pokemon/004.md)
+- [#005](pokemon/005.md)
+- [#006](pokemon/006.md)
+- [#037](pokemon/037.md)
+- [#058](pokemon/058.md)
+- [#126](pokemon/126.md)
+- [#218](pokemon/218.md)
+- [#219](pokemon/219.md)
+- [#240](pokemon/240.md)
+- [#310](pokemon/310.md)
+- [#322](pokemon/322.md)
+- [#323](pokemon/323.md)
+- [#434](pokemon/434.md)
+- [#435](pokemon/435.md)
+- [#494](pokemon/494.md)
+- [#513](pokemon/513.md)
+- [#514](pokemon/514.md)
+- [#607](pokemon/607.md)
+- [#608](pokemon/608.md)
+- [#609](pokemon/609.md)
+- [#631](pokemon/631.md)

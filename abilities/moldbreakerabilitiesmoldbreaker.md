@@ -1,0 +1,21 @@
+# Ability: [Mold-Breaker](#/abilities/moldbreaker)
+
+## Pokemon with this ability
+
+- [#104](pokemon/104.md)
+- [#105](pokemon/105.md)
+- [#127](pokemon/127.md)
+- [#258](pokemon/258.md)
+- [#259](pokemon/259.md)
+- [#260](pokemon/260.md)
+- [#408](pokemon/408.md)
+- [#409](pokemon/409.md)
+- [#529](pokemon/529.md)
+- [#530](pokemon/530.md)
+- [#538](pokemon/538.md)
+- [#539](pokemon/539.md)
+- [#550](pokemon/550.md)
+- [#610](pokemon/610.md)
+- [#611](pokemon/611.md)
+- [#612](pokemon/612.md)
+- [#621](pokemon/621.md)

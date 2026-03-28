@@ -1,0 +1,26 @@
+# Move: Lick
+
+## Pokemon that learn this move
+
+- [#092](pokemon/092.md)
+- [#093](pokemon/093.md)
+- [#094](pokemon/094.md)
+- [#108](pokemon/108.md)
+- [#124](pokemon/124.md)
+- [#143](pokemon/143.md)
+- [#209](pokemon/209.md)
+- [#210](pokemon/210.md)
+- [#216](pokemon/216.md)
+- [#217](pokemon/217.md)
+- [#238](pokemon/238.md)
+- [#336](pokemon/336.md)
+- [#352](pokemon/352.md)
+- [#446](pokemon/446.md)
+- [#463](pokemon/463.md)
+- [#511](pokemon/511.md)
+- [#512](pokemon/512.md)
+- [#513](pokemon/513.md)
+- [#514](pokemon/514.md)
+- [#515](pokemon/515.md)
+- [#516](pokemon/516.md)
+- [#631](pokemon/631.md)

@@ -1,0 +1,26 @@
+# Move: Fire-Spin
+
+## Pokemon that learn this move
+
+- [#004](pokemon/004.md)
+- [#005](pokemon/005.md)
+- [#037](pokemon/037.md)
+- [#077](pokemon/077.md)
+- [#078](pokemon/078.md)
+- [#126](pokemon/126.md)
+- [#136](pokemon/136.md)
+- [#146](pokemon/146.md)
+- [#240](pokemon/240.md)
+- [#244](pokemon/244.md)
+- [#255](pokemon/255.md)
+- [#324](pokemon/324.md)
+- [#338](pokemon/338.md)
+- [#390](pokemon/390.md)
+- [#391](pokemon/391.md)
+- [#392](pokemon/392.md)
+- [#467](pokemon/467.md)
+- [#485](pokemon/485.md)
+- [#607](pokemon/607.md)
+- [#608](pokemon/608.md)
+- [#631](pokemon/631.md)
+- [#637](pokemon/637.md)

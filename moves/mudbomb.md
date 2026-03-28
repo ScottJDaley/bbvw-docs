@@ -1,0 +1,27 @@
+# Move: Mud-Bomb
+
+## Pokemon that learn this move
+
+- [#023](pokemon/023.md)
+- [#024](pokemon/024.md)
+- [#050](pokemon/050.md)
+- [#051](pokemon/051.md)
+- [#060](pokemon/060.md)
+- [#061](pokemon/061.md)
+- [#062](pokemon/062.md)
+- [#088](pokemon/088.md)
+- [#089](pokemon/089.md)
+- [#194](pokemon/194.md)
+- [#195](pokemon/195.md)
+- [#220](pokemon/220.md)
+- [#221](pokemon/221.md)
+- [#259](pokemon/259.md)
+- [#260](pokemon/260.md)
+- [#339](pokemon/339.md)
+- [#340](pokemon/340.md)
+- [#422](pokemon/422.md)
+- [#423](pokemon/423.md)
+- [#453](pokemon/453.md)
+- [#454](pokemon/454.md)
+- [#473](pokemon/473.md)
+- [#618](pokemon/618.md)

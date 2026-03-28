@@ -1,0 +1,27 @@
+# Move: Reversal
+
+## Pokemon that learn this move
+
+- [#019](pokemon/019.md)
+- [#020](pokemon/020.md)
+- [#058](pokemon/058.md)
+- [#106](pokemon/106.md)
+- [#115](pokemon/115.md)
+- [#129](pokemon/129.md)
+- [#214](pokemon/214.md)
+- [#288](pokemon/288.md)
+- [#296](pokemon/296.md)
+- [#297](pokemon/297.md)
+- [#307](pokemon/307.md)
+- [#308](pokemon/308.md)
+- [#447](pokemon/447.md)
+- [#494](pokemon/494.md)
+- [#506](pokemon/506.md)
+- [#507](pokemon/507.md)
+- [#508](pokemon/508.md)
+- [#538](pokemon/538.md)
+- [#539](pokemon/539.md)
+- [#589](pokemon/589.md)
+- [#619](pokemon/619.md)
+- [#620](pokemon/620.md)
+- [#626](pokemon/626.md)

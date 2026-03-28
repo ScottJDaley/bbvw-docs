@@ -1,0 +1,28 @@
+# Move: Seed-Bomb
+
+## Pokemon that learn this move
+
+- [#001](pokemon/001.md)
+- [#103](pokemon/103.md)
+- [#143](pokemon/143.md)
+- [#191](pokemon/191.md)
+- [#224](pokemon/224.md)
+- [#225](pokemon/225.md)
+- [#231](pokemon/231.md)
+- [#273](pokemon/273.md)
+- [#285](pokemon/285.md)
+- [#286](pokemon/286.md)
+- [#317](pokemon/317.md)
+- [#332](pokemon/332.md)
+- [#346](pokemon/346.md)
+- [#387](pokemon/387.md)
+- [#388](pokemon/388.md)
+- [#389](pokemon/389.md)
+- [#455](pokemon/455.md)
+- [#459](pokemon/459.md)
+- [#460](pokemon/460.md)
+- [#511](pokemon/511.md)
+- [#512](pokemon/512.md)
+- [#591](pokemon/591.md)
+- [#597](pokemon/597.md)
+- [#598](pokemon/598.md)

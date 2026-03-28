@@ -1,0 +1,25 @@
+# Move: Foul-Play
+
+## Pokemon that learn this move
+
+- [#052](pokemon/052.md)
+- [#053](pokemon/053.md)
+- [#197](pokemon/197.md)
+- [#198](pokemon/198.md)
+- [#228](pokemon/228.md)
+- [#229](pokemon/229.md)
+- [#274](pokemon/274.md)
+- [#302](pokemon/302.md)
+- [#430](pokemon/430.md)
+- [#434](pokemon/434.md)
+- [#435](pokemon/435.md)
+- [#509](pokemon/509.md)
+- [#510](pokemon/510.md)
+- [#551](pokemon/551.md)
+- [#552](pokemon/552.md)
+- [#553](pokemon/553.md)
+- [#570](pokemon/570.md)
+- [#571](pokemon/571.md)
+- [#574](pokemon/574.md)
+- [#575](pokemon/575.md)
+- [#576](pokemon/576.md)

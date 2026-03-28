@@ -1,0 +1,28 @@
+# Move: Charge
+
+## Pokemon that learn this move
+
+- [#025](pokemon/025.md)
+- [#100](pokemon/100.md)
+- [#101](pokemon/101.md)
+- [#145](pokemon/145.md)
+- [#170](pokemon/170.md)
+- [#171](pokemon/171.md)
+- [#179](pokemon/179.md)
+- [#180](pokemon/180.md)
+- [#181](pokemon/181.md)
+- [#309](pokemon/309.md)
+- [#310](pokemon/310.md)
+- [#311](pokemon/311.md)
+- [#312](pokemon/312.md)
+- [#403](pokemon/403.md)
+- [#404](pokemon/404.md)
+- [#405](pokemon/405.md)
+- [#479](pokemon/479.md)
+- [#522](pokemon/522.md)
+- [#523](pokemon/523.md)
+- [#587](pokemon/587.md)
+- [#599](pokemon/599.md)
+- [#600](pokemon/600.md)
+- [#601](pokemon/601.md)
+- [#642](pokemon/642.md)

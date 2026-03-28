@@ -1,0 +1,27 @@
+# Move: Zap-Cannon
+
+## Pokemon that learn this move
+
+- [#009](pokemon/009.md)
+- [#081](pokemon/081.md)
+- [#082](pokemon/082.md)
+- [#125](pokemon/125.md)
+- [#137](pokemon/137.md)
+- [#179](pokemon/179.md)
+- [#180](pokemon/180.md)
+- [#181](pokemon/181.md)
+- [#205](pokemon/205.md)
+- [#233](pokemon/233.md)
+- [#243](pokemon/243.md)
+- [#299](pokemon/299.md)
+- [#377](pokemon/377.md)
+- [#378](pokemon/378.md)
+- [#379](pokemon/379.md)
+- [#462](pokemon/462.md)
+- [#474](pokemon/474.md)
+- [#476](pokemon/476.md)
+- [#599](pokemon/599.md)
+- [#600](pokemon/600.md)
+- [#601](pokemon/601.md)
+- [#603](pokemon/603.md)
+- [#649](pokemon/649.md)

@@ -1,0 +1,21 @@
+# Ability: [Blaze](#/abilities/blaze)
+
+## Pokemon with this ability
+
+- [#004](pokemon/004.md)
+- [#005](pokemon/005.md)
+- [#006](pokemon/006.md)
+- [#155](pokemon/155.md)
+- [#156](pokemon/156.md)
+- [#157](pokemon/157.md)
+- [#255](pokemon/255.md)
+- [#256](pokemon/256.md)
+- [#257](pokemon/257.md)
+- [#390](pokemon/390.md)
+- [#391](pokemon/391.md)
+- [#392](pokemon/392.md)
+- [#498](pokemon/498.md)
+- [#499](pokemon/499.md)
+- [#500](pokemon/500.md)
+- [#513](pokemon/513.md)
+- [#514](pokemon/514.md)

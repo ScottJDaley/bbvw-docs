@@ -1,0 +1,26 @@
+# Move: Aqua-Jet
+
+## Pokemon that learn this move
+
+- [#008](pokemon/008.md)
+- [#009](pokemon/009.md)
+- [#055](pokemon/055.md)
+- [#086](pokemon/086.md)
+- [#087](pokemon/087.md)
+- [#140](pokemon/140.md)
+- [#141](pokemon/141.md)
+- [#183](pokemon/183.md)
+- [#184](pokemon/184.md)
+- [#318](pokemon/318.md)
+- [#319](pokemon/319.md)
+- [#395](pokemon/395.md)
+- [#418](pokemon/418.md)
+- [#419](pokemon/419.md)
+- [#501](pokemon/501.md)
+- [#502](pokemon/502.md)
+- [#503](pokemon/503.md)
+- [#550](pokemon/550.md)
+- [#564](pokemon/564.md)
+- [#565](pokemon/565.md)
+- [#594](pokemon/594.md)
+- [#647](pokemon/647.md)

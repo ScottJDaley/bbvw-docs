@@ -1,0 +1,26 @@
+# Move: Ominous-Wind
+
+## Pokemon that learn this move
+
+- [#038](pokemon/038.md)
+- [#092](pokemon/092.md)
+- [#093](pokemon/093.md)
+- [#094](pokemon/094.md)
+- [#164](pokemon/164.md)
+- [#177](pokemon/177.md)
+- [#178](pokemon/178.md)
+- [#275](pokemon/275.md)
+- [#284](pokemon/284.md)
+- [#425](pokemon/425.md)
+- [#426](pokemon/426.md)
+- [#442](pokemon/442.md)
+- [#457](pokemon/457.md)
+- [#478](pokemon/478.md)
+- [#479](pokemon/479.md)
+- [#487](pokemon/487.md)
+- [#491](pokemon/491.md)
+- [#521](pokemon/521.md)
+- [#562](pokemon/562.md)
+- [#563](pokemon/563.md)
+- [#592](pokemon/592.md)
+- [#593](pokemon/593.md)

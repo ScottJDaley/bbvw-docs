@@ -1,0 +1,26 @@
+# Move: Sing
+
+## Pokemon that learn this move
+
+- [#035](pokemon/035.md)
+- [#036](pokemon/036.md)
+- [#039](pokemon/039.md)
+- [#040](pokemon/040.md)
+- [#105](pokemon/105.md)
+- [#113](pokemon/113.md)
+- [#131](pokemon/131.md)
+- [#172](pokemon/172.md)
+- [#173](pokemon/173.md)
+- [#174](pokemon/174.md)
+- [#238](pokemon/238.md)
+- [#242](pokemon/242.md)
+- [#298](pokemon/298.md)
+- [#300](pokemon/300.md)
+- [#301](pokemon/301.md)
+- [#333](pokemon/333.md)
+- [#334](pokemon/334.md)
+- [#402](pokemon/402.md)
+- [#441](pokemon/441.md)
+- [#572](pokemon/572.md)
+- [#573](pokemon/573.md)
+- [#648](pokemon/648.md)

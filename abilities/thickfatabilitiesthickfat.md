@@ -1,0 +1,23 @@
+# Ability: [Thick-Fat](#/abilities/thickfat)
+
+## Pokemon with this ability
+
+- [#086](pokemon/086.md)
+- [#087](pokemon/087.md)
+- [#143](pokemon/143.md)
+- [#220](pokemon/220.md)
+- [#221](pokemon/221.md)
+- [#241](pokemon/241.md)
+- [#296](pokemon/296.md)
+- [#297](pokemon/297.md)
+- [#320](pokemon/320.md)
+- [#321](pokemon/321.md)
+- [#325](pokemon/325.md)
+- [#326](pokemon/326.md)
+- [#363](pokemon/363.md)
+- [#364](pokemon/364.md)
+- [#365](pokemon/365.md)
+- [#432](pokemon/432.md)
+- [#446](pokemon/446.md)
+- [#463](pokemon/463.md)
+- [#473](pokemon/473.md)

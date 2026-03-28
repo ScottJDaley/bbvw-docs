@@ -1,0 +1,25 @@
+# Move: Iron-Head
+
+## Pokemon that learn this move
+
+- [#142](pokemon/142.md)
+- [#212](pokemon/212.md)
+- [#303](pokemon/303.md)
+- [#304](pokemon/304.md)
+- [#305](pokemon/305.md)
+- [#306](pokemon/306.md)
+- [#338](pokemon/338.md)
+- [#374](pokemon/374.md)
+- [#379](pokemon/379.md)
+- [#410](pokemon/410.md)
+- [#411](pokemon/411.md)
+- [#485](pokemon/485.md)
+- [#530](pokemon/530.md)
+- [#589](pokemon/589.md)
+- [#597](pokemon/597.md)
+- [#598](pokemon/598.md)
+- [#624](pokemon/624.md)
+- [#625](pokemon/625.md)
+- [#626](pokemon/626.md)
+- [#632](pokemon/632.md)
+- [#638](pokemon/638.md)

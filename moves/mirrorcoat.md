@@ -1,0 +1,27 @@
+# Move: Mirror-Coat
+
+## Pokemon that learn this move
+
+- [#100](pokemon/100.md)
+- [#101](pokemon/101.md)
+- [#202](pokemon/202.md)
+- [#222](pokemon/222.md)
+- [#226](pokemon/226.md)
+- [#245](pokemon/245.md)
+- [#260](pokemon/260.md)
+- [#346](pokemon/346.md)
+- [#350](pokemon/350.md)
+- [#360](pokemon/360.md)
+- [#423](pokemon/423.md)
+- [#428](pokemon/428.md)
+- [#458](pokemon/458.md)
+- [#462](pokemon/462.md)
+- [#471](pokemon/471.md)
+- [#497](pokemon/497.md)
+- [#574](pokemon/574.md)
+- [#575](pokemon/575.md)
+- [#576](pokemon/576.md)
+- [#582](pokemon/582.md)
+- [#583](pokemon/583.md)
+- [#584](pokemon/584.md)
+- [#594](pokemon/594.md)
