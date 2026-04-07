@@ -1,11 +1,2 @@
-- [Home](README.md)
-- Pokémon
-  - [Generation 1](pokemon/gen1.md)
-  - [Generation 2](pokemon/gen2.md)
-  - [Generation 3](pokemon/gen3.md)
-  - [Generation 4](pokemon/gen4.md)
-  - [Generation 5](pokemon/gen5.md)
-- [Routes & Locations](routes/README.md)
-- [Abilities](abilities/README.md)
-- [Moves](moves/README.md)
-- [Items](items/README.md)
+- [Read Me](README)
+- [Example Second Page](second-page)
