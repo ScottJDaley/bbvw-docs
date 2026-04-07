@@ -1,4 +1,4 @@
-# Neutralizing-gas
+# Neutralizing gas
 
 ## Description
 Neutralizes abilities of all Pokémon in battle.

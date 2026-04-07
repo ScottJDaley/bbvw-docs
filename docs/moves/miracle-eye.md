@@ -1,7 +1,7 @@
-# Miracle-eye
+# Miracle eye
 
-**Type:** Psychic  
-**Category:** Status  
+**Type:** <img src="img/types/psychic.png" width="60" />  
+**Category:** <img src="img/types/status.png" width="50" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 40  
@@ -11,5 +11,14 @@ Forces the target to have no evasion, and allows it to be hit by Psychic moves e
 
 ## Learned by
 - [Alakazam](pokemon/alakazam.md)
+- [Beheeyem](pokemon/beheeyem.md)
+- [Elgyem](pokemon/elgyem.md)
+- [Gothita](pokemon/gothita.md)
 - [Kadabra](pokemon/kadabra.md)
+- [Metagross](pokemon/metagross.md)
+- [Metang](pokemon/metang.md)
 - [Mewtwo](pokemon/mewtwo.md)
+- [Natu](pokemon/natu.md)
+- [Sigilyph](pokemon/sigilyph.md)
+- [Smoochum](pokemon/smoochum.md)
+- [Xatu](pokemon/xatu.md)

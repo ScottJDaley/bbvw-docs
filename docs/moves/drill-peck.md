@@ -1,7 +1,7 @@
-# Drill-peck
+# Drill peck
 
-**Type:** Flying  
-**Category:** Physical  
+**Type:** <img src="img/types/flying.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 20  
@@ -12,6 +12,12 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 - [Dodrio](pokemon/dodrio.md)
 - [Doduo](pokemon/doduo.md)
+- [Empoleon](pokemon/empoleon.md)
 - [Fearow](pokemon/fearow.md)
+- [Murkrow](pokemon/murkrow.md)
+- [Natu](pokemon/natu.md)
+- [Piplup](pokemon/piplup.md)
+- [Prinplup](pokemon/prinplup.md)
+- [Skarmory](pokemon/skarmory.md)
 - [Spearow](pokemon/spearow.md)
 - [Zapdos](pokemon/zapdos.md)

@@ -3,37 +3,86 @@
 <img src="img/pokemon/050.png" width="150" />
 
 ## Type
-<span class="type-badge type-ground">ground</span>
+<img src="img/types/ground.png" width="60" />
+
+## Evolution
+No changes from base games.
 
 ## Abilities
-- **Sand Force**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
-- **Arena Trap**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.
+- **[Sand Force](abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+- **[Arena Trap](abilities/arena-trap.md)**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.
+
+## Type Defenses
+| Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
+| --- | --- | --- |
+| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.0%"></div></div> |
-| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
-| Defense | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.5%"></div></div> |
-| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
-| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
-| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
-| **Total** | **265** | |
+| Hp | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.555555555555555%"></div></div> |
+| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Defense | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
+| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
+| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
 
 ## Level Up Moves
-| Level | Move | Type | Cat | Power | Acc | PP |
+| Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Scratch](moves/scratch.md) | Normal | Physical | 40 | 100 | 35 |
-| 1 | [Sand-attack](moves/sand-attack.md) | Ground | Status | - | 100 | 15 |
-| 4 | [Growl](moves/growl.md) | Normal | Status | - | 100 | 40 |
-| 7 | [Astonish](moves/astonish.md) | Ghost | Physical | 30 | 100 | 15 |
-| 12 | [Mud-slap](moves/mud-slap.md) | Ground | Special | 20 | 100 | 10 |
-| 15 | [Magnitude](moves/magnitude.md) | Ground | Physical | - | 100 | 30 |
-| 18 | [Bulldoze](moves/bulldoze.md) | Ground | Physical | 60 | 100 | 20 |
-| 23 | [Sucker-punch](moves/sucker-punch.md) | Dark | Physical | 70 | 100 | 5 |
-| 26 | [Mud-bomb](moves/mud-bomb.md) | Ground | Special | 65 | 85 | 10 |
-| 29 | [Earth-power](moves/earth-power.md) | Ground | Special | 90 | 100 | 10 |
-| 34 | [Dig](moves/dig.md) | Ground | Physical | 80 | 100 | 10 |
-| 37 | [Slash](moves/slash.md) | Normal | Physical | 70 | 100 | 20 |
-| 40 | [Earthquake](moves/earthquake.md) | Ground | Physical | 100 | 100 | 10 |
-| 45 | [Fissure](moves/fissure.md) | Ground | Physical | - | 30 | 5 |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
+| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand attack](moves/sand-attack.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
+| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
+| 7 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Astonish](moves/astonish.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 15 |
+| 12 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud slap](moves/mud-slap.md) | <img src="img/types/special.png" width="30" alt="special" /> | 20 | 100 | 10 |
+| 15 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Magnitude](moves/magnitude.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 30 |
+| 18 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Bulldoze](moves/bulldoze.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| 23 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
+| 26 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud bomb](moves/mud-bomb.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 85 | 10 |
+| 29 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| 34 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Dig](moves/dig.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
+| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| 40 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earthquake](moves/earthquake.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 100 | 10 |
+| 45 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Fissure](moves/fissure.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
+
+## Learnable Moves
+| Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/types/flying.png" width="40" alt="flying" /> | [Aerial ace](moves/aerial-ace.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [Ancient power](moves/ancient-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Attract](moves/attract.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Beat up](moves/beat-up.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Cut](moves/cut.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 95 | 30 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Echoed voice](moves/echoed-voice.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Facade](moves/facade.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
+| <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Final gambit](moves/final-gambit.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Frustration](moves/frustration.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Headbutt](moves/headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Hone claws](moves/hone-claws.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Memento](moves/memento.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
+| <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Rest](moves/rest.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Return](moves/return.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock slide](moves/rock-slide.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 90 | 10 |
+| <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Rock smash](moves/rock-smash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 95 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Round](moves/round.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [Sandstorm](moves/sandstorm.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Screech](moves/screech.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
+| <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow claw](moves/shadow-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Sludge bomb](moves/sludge-bomb.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [Stealth rock](moves/stealth-rock.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/fire.png" width="40" alt="fire" /> | [Sunny day](moves/sunny-day.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 15 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Thief](moves/thief.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 90 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Uproar](moves/uproar.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |

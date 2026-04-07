@@ -1,7 +1,7 @@
-# Mega-kick
+# Mega kick
 
-**Type:** Normal  
-**Category:** Physical  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 120  
 **Accuracy:** 75  
 **PP:** 5  

@@ -1,7 +1,7 @@
 # Charm
 
-**Type:** Fairy  
-**Category:** Status  
+**Type:** <img src="img/types/fairy.png" width="60" />  
+**Category:** <img src="img/types/status.png" width="50" />  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 20  
@@ -10,10 +10,59 @@
 Lowers the target’s Attack by two stages.
 
 ## Learned by
+- [Azurill](pokemon/azurill.md)
 - [Bulbasaur](pokemon/bulbasaur.md)
+- [Buneary](pokemon/buneary.md)
+- [Cleffa](pokemon/cleffa.md)
+- [Cottonee](pokemon/cottonee.md)
+- [Cubchoo](pokemon/cubchoo.md)
+- [Deerling](pokemon/deerling.md)
+- [Duosion](pokemon/duosion.md)
 - [Eevee](pokemon/eevee.md)
+- [Emolga](pokemon/emolga.md)
+- [Finneon](pokemon/finneon.md)
+- [Glameow](pokemon/glameow.md)
+- [Gothita](pokemon/gothita.md)
+- [Gothitelle](pokemon/gothitelle.md)
+- [Gothorita](pokemon/gothorita.md)
+- [Granbull](pokemon/granbull.md)
+- [Happiny](pokemon/happiny.md)
+- [Igglybuff](pokemon/igglybuff.md)
+- [Illumise](pokemon/illumise.md)
+- [Kirlia](pokemon/kirlia.md)
+- [Latias](pokemon/latias.md)
+- [Lillipup](pokemon/lillipup.md)
+- [Lopunny](pokemon/lopunny.md)
+- [Luvdisc](pokemon/luvdisc.md)
+- [Manaphy](pokemon/manaphy.md)
 - [Meowth](pokemon/meowth.md)
+- [Mesprit](pokemon/mesprit.md)
+- [Mime-jr](pokemon/mime-jr.md)
+- [Minccino](pokemon/minccino.md)
+- [Minun](pokemon/minun.md)
+- [Munchlax](pokemon/munchlax.md)
 - [Nidoran-f](pokemon/nidoran-f.md)
 - [Oddish](pokemon/oddish.md)
+- [Pachirisu](pokemon/pachirisu.md)
+- [Petilil](pokemon/petilil.md)
+- [Phanpy](pokemon/phanpy.md)
+- [Phione](pokemon/phione.md)
+- [Pichu](pokemon/pichu.md)
 - [Ponyta](pokemon/ponyta.md)
+- [Purrloin](pokemon/purrloin.md)
+- [Purugly](pokemon/purugly.md)
+- [Ralts](pokemon/ralts.md)
+- [Reuniclus](pokemon/reuniclus.md)
+- [Sawsbuck](pokemon/sawsbuck.md)
+- [Sentret](pokemon/sentret.md)
+- [Shroomish](pokemon/shroomish.md)
+- [Skitty](pokemon/skitty.md)
 - [Snorlax](pokemon/snorlax.md)
+- [Snubbull](pokemon/snubbull.md)
+- [Solosis](pokemon/solosis.md)
+- [Teddiursa](pokemon/teddiursa.md)
+- [Togepi](pokemon/togepi.md)
+- [Togetic](pokemon/togetic.md)
+- [Woobat](pokemon/woobat.md)
+- [Wynaut](pokemon/wynaut.md)
+- [Zigzagoon](pokemon/zigzagoon.md)

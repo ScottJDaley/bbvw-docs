@@ -1,7 +1,7 @@
-# Dragon-rush
+# Dragon rush
 
-**Type:** Dragon  
-**Category:** Physical  
+**Type:** <img src="img/types/dragon.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 100  
 **Accuracy:** 75  
 **PP:** 10  
@@ -10,8 +10,18 @@
 Has a $effect_chance% chance to make the target flinch.
 
 ## Learned by
+- [Aron](pokemon/aron.md)
+- [Bagon](pokemon/bagon.md)
 - [Charmander](pokemon/charmander.md)
+- [Deino](pokemon/deino.md)
 - [Dragonair](pokemon/dragonair.md)
 - [Dragonite](pokemon/dragonite.md)
 - [Dratini](pokemon/dratini.md)
+- [Gabite](pokemon/gabite.md)
+- [Garchomp](pokemon/garchomp.md)
+- [Gible](pokemon/gible.md)
+- [Hydreigon](pokemon/hydreigon.md)
+- [Lugia](pokemon/lugia.md)
 - [Rhyhorn](pokemon/rhyhorn.md)
+- [Swablu](pokemon/swablu.md)
+- [Zweilous](pokemon/zweilous.md)

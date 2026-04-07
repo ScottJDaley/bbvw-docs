@@ -1,7 +1,7 @@
-# Lucky-chant
+# Lucky chant
 
-**Type:** Normal  
-**Category:** Status  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/status.png" width="50" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 30  
@@ -10,7 +10,29 @@
 Prevents the target from scoring critical hits for five turns.
 
 ## Learned by
+- [Audino](pokemon/audino.md)
+- [Castform](pokemon/castform.md)
+- [Cherrim](pokemon/cherrim.md)
+- [Cherubi](pokemon/cherubi.md)
 - [Clefairy](pokemon/clefairy.md)
+- [Corsola](pokemon/corsola.md)
+- [Ducklett](pokemon/ducklett.md)
 - [Exeggcute](pokemon/exeggcute.md)
 - [Gloom](pokemon/gloom.md)
+- [Kirlia](pokemon/kirlia.md)
+- [Luvdisc](pokemon/luvdisc.md)
+- [Mesprit](pokemon/mesprit.md)
+- [Minun](pokemon/minun.md)
+- [Mismagius](pokemon/mismagius.md)
+- [Munna](pokemon/munna.md)
+- [Musharna](pokemon/musharna.md)
+- [Natu](pokemon/natu.md)
 - [Oddish](pokemon/oddish.md)
+- [Pichu](pokemon/pichu.md)
+- [Pidove](pokemon/pidove.md)
+- [Plusle](pokemon/plusle.md)
+- [Ralts](pokemon/ralts.md)
+- [Smoochum](pokemon/smoochum.md)
+- [Spoink](pokemon/spoink.md)
+- [Togepi](pokemon/togepi.md)
+- [Xatu](pokemon/xatu.md)

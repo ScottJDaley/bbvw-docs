@@ -1,7 +1,7 @@
-# Mach-punch
+# Mach punch
 
-**Type:** Fighting  
-**Category:** Physical  
+**Type:** <img src="img/types/fighting.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 30  
@@ -10,4 +10,12 @@
 Inflicts regular damage with no additional effect.
 
 ## Learned by
+- [Breloom](pokemon/breloom.md)
 - [Hitmonchan](pokemon/hitmonchan.md)
+- [Infernape](pokemon/infernape.md)
+- [Ledian](pokemon/ledian.md)
+- [Ledyba](pokemon/ledyba.md)
+- [Magby](pokemon/magby.md)
+- [Monferno](pokemon/monferno.md)
+- [Timburr](pokemon/timburr.md)
+- [Tyrogue](pokemon/tyrogue.md)

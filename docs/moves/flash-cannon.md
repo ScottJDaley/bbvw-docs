@@ -1,7 +1,7 @@
-# Flash-cannon
+# Flash cannon
 
-**Type:** Steel  
-**Category:** Special  
+**Type:** <img src="img/types/steel.png" width="60" />  
+**Category:** <img src="img/types/special.png" width="50" />  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  
@@ -10,12 +10,67 @@
 Has a $effect_chance% chance to lower the target’s Special Defense by one stage.
 
 ## Learned by
+- [Aggron](pokemon/aggron.md)
+- [Arceus](pokemon/arceus.md)
+- [Armaldo](pokemon/armaldo.md)
+- [Bastiodon](pokemon/bastiodon.md)
 - [Blastoise](pokemon/blastoise.md)
+- [Boldore](pokemon/boldore.md)
+- [Bronzong](pokemon/bronzong.md)
+- [Bronzor](pokemon/bronzor.md)
+- [Camerupt](pokemon/camerupt.md)
+- [Cobalion](pokemon/cobalion.md)
+- [Cryogonal](pokemon/cryogonal.md)
+- [Deoxys-normal](pokemon/deoxys-normal.md)
+- [Dialga](pokemon/dialga.md)
+- [Druddigon](pokemon/druddigon.md)
+- [Duosion](pokemon/duosion.md)
+- [Durant](pokemon/durant.md)
+- [Eelektrik](pokemon/eelektrik.md)
+- [Eelektross](pokemon/eelektross.md)
+- [Empoleon](pokemon/empoleon.md)
+- [Ferroseed](pokemon/ferroseed.md)
+- [Ferrothorn](pokemon/ferrothorn.md)
+- [Forretress](pokemon/forretress.md)
+- [Genesect](pokemon/genesect.md)
+- [Gigalith](pokemon/gigalith.md)
+- [Golurk](pokemon/golurk.md)
+- [Heatran](pokemon/heatran.md)
 - [Horsea](pokemon/horsea.md)
+- [Hydreigon](pokemon/hydreigon.md)
+- [Jirachi](pokemon/jirachi.md)
+- [Kingdra](pokemon/kingdra.md)
+- [Klang](pokemon/klang.md)
+- [Klink](pokemon/klink.md)
+- [Klinklang](pokemon/klinklang.md)
+- [Kyurem](pokemon/kyurem.md)
+- [Lucario](pokemon/lucario.md)
 - [Magnemite](pokemon/magnemite.md)
 - [Magneton](pokemon/magneton.md)
+- [Magnezone](pokemon/magnezone.md)
+- [Mawile](pokemon/mawile.md)
+- [Metagross](pokemon/metagross.md)
+- [Metang](pokemon/metang.md)
 - [Mew](pokemon/mew.md)
+- [Octillery](pokemon/octillery.md)
 - [Onix](pokemon/onix.md)
+- [Probopass](pokemon/probopass.md)
+- [Regice](pokemon/regice.md)
+- [Registeel](pokemon/registeel.md)
+- [Reuniclus](pokemon/reuniclus.md)
+- [Rhyperior](pokemon/rhyperior.md)
+- [Roggenrola](pokemon/roggenrola.md)
+- [Scizor](pokemon/scizor.md)
 - [Seadra](pokemon/seadra.md)
+- [Shieldon](pokemon/shieldon.md)
+- [Sigilyph](pokemon/sigilyph.md)
+- [Skarmory](pokemon/skarmory.md)
+- [Solosis](pokemon/solosis.md)
 - [Starmie](pokemon/starmie.md)
 - [Staryu](pokemon/staryu.md)
+- [Steelix](pokemon/steelix.md)
+- [Thundurus-incarnate](pokemon/thundurus-incarnate.md)
+- [Vanillish](pokemon/vanillish.md)
+- [Vanillite](pokemon/vanillite.md)
+- [Vanilluxe](pokemon/vanilluxe.md)
+- [Zekrom](pokemon/zekrom.md)

@@ -1,7 +1,7 @@
-# Spike-cannon
+# Spike cannon
 
-**Type:** Normal  
-**Category:** Physical  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 20  
 **Accuracy:** 100  
 **PP:** 15  
@@ -11,4 +11,5 @@ Hits 2-5 times in one turn.
 
 ## Learned by
 - [Cloyster](pokemon/cloyster.md)
+- [Corsola](pokemon/corsola.md)
 - [Omastar](pokemon/omastar.md)

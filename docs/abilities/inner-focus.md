@@ -1,4 +1,4 @@
-# Inner-focus
+# Inner focus
 
 ## Description
 Prevents flinching.
@@ -6,12 +6,30 @@ Prevents flinching.
 ## Pokemon with this Ability
 - [Abra](pokemon/abra.md)
 - [Alakazam](pokemon/alakazam.md)
+- [Bisharp](pokemon/bisharp.md)
+- [Crobat](pokemon/crobat.md)
+- [Darumaka](pokemon/darumaka.md)
 - [Dragonite](pokemon/dragonite.md)
 - [Drowzee](pokemon/drowzee.md)
+- [Entei](pokemon/entei.md)
 - [Farfetchd](pokemon/farfetchd.md)
+- [Girafarig](pokemon/girafarig.md)
+- [Glalie](pokemon/glalie.md)
 - [Golbat](pokemon/golbat.md)
 - [Hitmonchan](pokemon/hitmonchan.md)
 - [Hypno](pokemon/hypno.md)
 - [Kadabra](pokemon/kadabra.md)
 - [Kangaskhan](pokemon/kangaskhan.md)
+- [Lucario](pokemon/lucario.md)
+- [Mienfoo](pokemon/mienfoo.md)
+- [Mienshao](pokemon/mienshao.md)
+- [Pawniard](pokemon/pawniard.md)
+- [Raikou](pokemon/raikou.md)
+- [Riolu](pokemon/riolu.md)
+- [Sawk](pokemon/sawk.md)
+- [Sneasel](pokemon/sneasel.md)
+- [Snorunt](pokemon/snorunt.md)
+- [Suicune](pokemon/suicune.md)
+- [Throh](pokemon/throh.md)
+- [Umbreon](pokemon/umbreon.md)
 - [Zubat](pokemon/zubat.md)

@@ -1,7 +1,7 @@
-# Quick-guard
+# Quick guard
 
-**Type:** Fighting  
-**Category:** Status  
+**Type:** <img src="img/types/fighting.png" width="60" />  
+**Category:** <img src="img/types/status.png" width="50" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 15  
@@ -10,5 +10,17 @@
 Prevents any priority moves from hitting friendly Pokémon this turn.
 
 ## Learned by
+- [Archen](pokemon/archen.md)
+- [Archeops](pokemon/archeops.md)
+- [Chimchar](pokemon/chimchar.md)
+- [Cobalion](pokemon/cobalion.md)
+- [Escavalier](pokemon/escavalier.md)
 - [Hitmonchan](pokemon/hitmonchan.md)
+- [Hitmontop](pokemon/hitmontop.md)
+- [Keldeo-ordinary](pokemon/keldeo-ordinary.md)
+- [Lucario](pokemon/lucario.md)
+- [Mienfoo](pokemon/mienfoo.md)
 - [Mr-mime](pokemon/mr-mime.md)
+- [Sawk](pokemon/sawk.md)
+- [Terrakion](pokemon/terrakion.md)
+- [Virizion](pokemon/virizion.md)

@@ -1,0 +1,81 @@
+# Shelmet
+
+<img src="img/pokemon/616.png" width="150" />
+
+## Type
+<img src="img/types/bug.png" width="60" />
+
+## Evolution
+- **Next Stage**: Level Up with a Karrablast in the party.
+
+## Abilities
+- **[Hydration](abilities/hydration.md)**: Cures any major status ailment after each turn during rain.
+- **[Overcoat](abilities/overcoat.md)**: Protects against damage from weather.
+
+## Type Defenses
+| Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
+| --- | --- | --- |
+| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+
+## Base Stats
+| Stat | Value | Bar |
+| --- | --- | --- |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Speed | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
+
+## Level Up Moves
+| Level | Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Leech life](moves/leech-life.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
+| 4 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Acid](moves/acid.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 30 |
+| 8 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Bide](moves/bide.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | - | 10 |
+| 13 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Curse](moves/curse.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| 16 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Struggle bug](moves/struggle-bug.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 20 |
+| 20 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Mega drain](moves/mega-drain.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 15 |
+| 25 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Yawn](moves/yawn.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| 28 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| 32 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Acid armor](moves/acid-armor.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| 37 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Giga drain](moves/giga-drain.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 100 | 10 |
+| 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Body slam](moves/body-slam.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 85 | 100 | 15 |
+| 44 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug buzz](moves/bug-buzz.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| 49 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Recover](moves/recover.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| 52 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Guard swap](moves/guard-swap.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| 56 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Final gambit](moves/final-gambit.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 5 |
+
+## Learnable Moves
+| Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Attract](moves/attract.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Baton pass](moves/baton-pass.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
+| <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Encore](moves/encore.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/grass.png" width="40" alt="grass" /> | [Energy ball](moves/energy-ball.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Facade](moves/facade.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Feint](moves/feint.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Frustration](moves/frustration.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Gastro acid](moves/gastro-acid.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
+| <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Guard split](moves/guard-split.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Mind reader](moves/mind-reader.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud slap](moves/mud-slap.md) | <img src="img/types/special.png" width="30" alt="special" /> | 20 | 100 | 10 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Rest](moves/rest.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Return](moves/return.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Round](moves/round.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/bug.png" width="40" alt="bug" /> | [Signal beam](moves/signal-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Sludge bomb](moves/sludge-bomb.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 15 |
+| <img src="img/types/ground.png" width="40" alt="ground" /> | [Spikes](moves/spikes.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 15 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 90 | 10 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [Venoshock](moves/venoshock.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 10 |

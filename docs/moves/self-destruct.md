@@ -1,7 +1,7 @@
-# Self-destruct
+# Self destruct
 
-**Type:** Normal  
-**Category:** Physical  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 200  
 **Accuracy:** 100  
 **PP:** 5  
@@ -10,10 +10,21 @@
 User faints.
 
 ## Learned by
+- [Baltoy](pokemon/baltoy.md)
+- [Bonsly](pokemon/bonsly.md)
+- [Claydol](pokemon/claydol.md)
 - [Electrode](pokemon/electrode.md)
+- [Ferroseed](pokemon/ferroseed.md)
+- [Ferrothorn](pokemon/ferrothorn.md)
+- [Forretress](pokemon/forretress.md)
+- [Genesect](pokemon/genesect.md)
 - [Geodude](pokemon/geodude.md)
 - [Golem](pokemon/golem.md)
 - [Graveler](pokemon/graveler.md)
 - [Koffing](pokemon/koffing.md)
+- [Munchlax](pokemon/munchlax.md)
+- [Pineco](pokemon/pineco.md)
+- [Sudowoodo](pokemon/sudowoodo.md)
+- [Trubbish](pokemon/trubbish.md)
 - [Voltorb](pokemon/voltorb.md)
 - [Weezing](pokemon/weezing.md)

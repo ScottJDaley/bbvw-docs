@@ -1,7 +1,7 @@
-# Air-cutter
+# Air cutter
 
-**Type:** Flying  
-**Category:** Special  
+**Type:** <img src="img/types/flying.png" width="60" />  
+**Category:** <img src="img/types/special.png" width="50" />  
 **Power:** 60  
 **Accuracy:** 95  
 **PP:** 25  
@@ -10,7 +10,19 @@
 Has an increased chance for a critical hit.
 
 ## Learned by
+- [Chatot](pokemon/chatot.md)
+- [Crobat](pokemon/crobat.md)
+- [Ducklett](pokemon/ducklett.md)
 - [Farfetchd](pokemon/farfetchd.md)
 - [Golbat](pokemon/golbat.md)
 - [Pidgey](pokemon/pidgey.md)
+- [Pidove](pokemon/pidove.md)
+- [Sigilyph](pokemon/sigilyph.md)
+- [Skarmory](pokemon/skarmory.md)
+- [Swoobat](pokemon/swoobat.md)
+- [Tornadus-incarnate](pokemon/tornadus-incarnate.md)
+- [Tranquill](pokemon/tranquill.md)
+- [Unfezant](pokemon/unfezant.md)
+- [Wingull](pokemon/wingull.md)
+- [Woobat](pokemon/woobat.md)
 - [Zubat](pokemon/zubat.md)

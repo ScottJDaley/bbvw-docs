@@ -9472,8 +9472,9 @@
       "tm_hm": []
     }
   },
-  "wild_pokemon": {
-    "Route 2": {
+  "wild_pokemon": [
+    {
+      "name": "Route 2",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -9482,47 +9483,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Patrat",
+          "pokemon": "Patrat",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kricketot",
+          "pokemon": "Kricketot",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Caterpie",
+          "pokemon": "Caterpie",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Wurmple",
+          "pokemon": "Wurmple",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Weedle",
+          "pokemon": "Weedle",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Poochyena",
+          "pokemon": "Poochyena",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Meowth",
+          "pokemon": "Meowth",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Spearow",
+          "pokemon": "Spearow",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mankey",
+          "pokemon": "Mankey",
           "rate": 5
         },
         {
@@ -9532,37 +9533,38 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ",  Skitty",
+          "pokemon": "Skitty",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nincada",
+          "pokemon": "Nincada",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Butterfree",
+          "pokemon": "Butterfree",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Beedrill",
+          "pokemon": "Beedrill",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Beautifly",
+          "pokemon": "Beautifly",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Dustox",
+          "pokemon": "Dustox",
           "rate": 5
         }
       ]
     },
-    "Striaton City": {
+    {
+      "name": "Striaton City",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -9581,12 +9583,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Slowpoke",
+          "pokemon": "Slowpoke",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Staryu",
+          "pokemon": "Staryu",
           "rate": 10
         },
         {
@@ -9596,12 +9598,13 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Staryu",
+          "pokemon": "Staryu",
           "rate": 40
         }
       ]
     },
-    "Dreamyard": {
+    {
+      "name": "Dreamyard",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -9610,47 +9613,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Drowzee",
+          "pokemon": "Drowzee",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Spinda",
+          "pokemon": "Spinda",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Natu",
+          "pokemon": "Natu",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Venonat",
+          "pokemon": "Venonat",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Ralts",
+          "pokemon": "Ralts",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Clefairy",
+          "pokemon": "Clefairy",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Jigglypuff",
+          "pokemon": "Jigglypuff",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Nidoran\u2642",
+          "pokemon": "Nidoran\u2642",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Nidoran\u2640",
+          "pokemon": "Nidoran\u2640",
           "rate": 5
         },
         {
@@ -9660,37 +9663,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Hypno",
+          "pokemon": "Hypno",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Clefairy",
+          "pokemon": "Clefairy",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Jigglypuff",
+          "pokemon": "Jigglypuff",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Xatu",
+          "pokemon": "Xatu",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Venomoth",
+          "pokemon": "Venomoth",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kirlia",
+          "pokemon": "Kirlia",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Spinda",
+          "pokemon": "Spinda",
           "rate": 10
         },
         {
@@ -9700,37 +9703,38 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Togepi",
+          "pokemon": "Togepi",
           "rate": 20
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Cleffa",
+          "pokemon": "Cleffa",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Igglybuff",
+          "pokemon": "Igglybuff",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Chingling",
+          "pokemon": "Chingling",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Lunatone",
+          "pokemon": "Lunatone",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Solrock",
+          "pokemon": "Solrock",
           "rate": 5
         }
       ]
     },
-    "Route 3": {
+    {
+      "name": "Route 3",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -9739,42 +9743,42 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Taillow",
+          "pokemon": "Taillow",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shellos",
+          "pokemon": "Shellos",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sunkern",
+          "pokemon": "Sunkern",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Lotad",
+          "pokemon": "Lotad",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Seedot",
+          "pokemon": "Seedot",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shinx",
+          "pokemon": "Shinx",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Abra",
+          "pokemon": "Abra",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Phanpy",
+          "pokemon": "Phanpy",
           "rate": 5
         },
         {
@@ -9784,57 +9788,57 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pidove",
+          "pokemon": "Pidove",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Growlithe",
+          "pokemon": "Growlithe",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Vulpix",
+          "pokemon": "Vulpix",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Hoppip",
+          "pokemon": "Hoppip",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Budew",
+          "pokemon": "Budew",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Marill",
+          "pokemon": "Marill",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Houndour",
+          "pokemon": "Houndour",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Volbeat",
+          "pokemon": "Volbeat",
           "rate": 4
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Illumise",
+          "pokemon": "Illumise",
           "rate": 4
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Lombre",
+          "pokemon": "Lombre",
           "rate": 1
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nuzleaf",
+          "pokemon": "Nuzleaf",
           "rate": 1
         },
         {
@@ -9844,27 +9848,27 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Oshawott",
+          "pokemon": "Oshawott",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Squirtle",
+          "pokemon": "Squirtle",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Totodile",
+          "pokemon": "Totodile",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Mudkip",
+          "pokemon": "Mudkip",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Piplup",
+          "pokemon": "Piplup",
           "rate": 5
         },
         {
@@ -9874,12 +9878,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Psyduck",
+          "pokemon": "Psyduck",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Marill",
+          "pokemon": "Marill",
           "rate": 10
         },
         {
@@ -9889,17 +9893,17 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Azumarill",
+          "pokemon": "Azumarill",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Slowbro",
+          "pokemon": "Slowbro",
           "rate": 5
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Slowking",
+          "pokemon": "Slowking",
           "rate": 5
         },
         {
@@ -9909,17 +9913,17 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Slowpoke",
+          "pokemon": "Slowpoke",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Chinchou",
+          "pokemon": "Chinchou",
           "rate": 5
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Remoraid",
+          "pokemon": "Remoraid",
           "rate": 5
         },
         {
@@ -9929,17 +9933,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Qwilfish",
+          "pokemon": "Qwilfish",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Remoraid",
+          "pokemon": "Remoraid",
           "rate": 10
         }
       ]
     },
-    "Wellspring Cave 1F": {
+    {
+      "name": "Wellspring Cave 1F",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -9948,47 +9953,47 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Zubat",
+          "pokemon": "Zubat",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Geodude",
+          "pokemon": "Geodude",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Roggenrola",
+          "pokemon": "Roggenrola",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Aron",
+          "pokemon": "Aron",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Whismur",
+          "pokemon": "Whismur",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Wooper",
+          "pokemon": "Wooper",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Bronzor",
+          "pokemon": "Bronzor",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Axew",
+          "pokemon": "Axew",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Teddiursa",
+          "pokemon": "Teddiursa",
           "rate": 5
         },
         {
@@ -9998,12 +10003,12 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Diglett",
+          "pokemon": "Diglett",
           "rate": 40
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Gible",
+          "pokemon": "Gible",
           "rate": 20
         },
         {
@@ -10013,7 +10018,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Shellos",
+          "pokemon": "Shellos",
           "rate": 40
         },
         {
@@ -10023,7 +10028,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Gastrodon",
+          "pokemon": "Gastrodon",
           "rate": 40
         },
         {
@@ -10033,12 +10038,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Tentacool",
+          "pokemon": "Tentacool",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Shellder",
+          "pokemon": "Shellder",
           "rate": 10
         },
         {
@@ -10053,37 +10058,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Golbat",
+          "pokemon": "Golbat",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Graveler",
+          "pokemon": "Graveler",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Lairon",
+          "pokemon": "Lairon",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Steelix",
+          "pokemon": "Steelix",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Loudred",
+          "pokemon": "Loudred",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Quagsire",
+          "pokemon": "Quagsire",
           "rate": 10
         },
         {
@@ -10093,7 +10098,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         },
         {
@@ -10103,7 +10108,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Gastrodon",
+          "pokemon": "Gastrodon",
           "rate": 40
         },
         {
@@ -10113,7 +10118,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Gastrodon",
+          "pokemon": "Gastrodon",
           "rate": 40
         },
         {
@@ -10128,7 +10133,8 @@
         }
       ]
     },
-    "Pinwheel Forest": {
+    {
+      "name": "Pinwheel Forest",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -10137,42 +10143,42 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Timburr",
+          "pokemon": "Timburr",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Meditite",
+          "pokemon": "Meditite",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Spinarak",
+          "pokemon": "Spinarak",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Ledyba",
+          "pokemon": "Ledyba",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Machop",
+          "pokemon": "Machop",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Makuhita",
+          "pokemon": "Makuhita",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Croagunk",
+          "pokemon": "Croagunk",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Slakoth",
+          "pokemon": "Slakoth",
           "rate": 5
         },
         {
@@ -10182,42 +10188,42 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sawk",
+          "pokemon": "Sawk",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Dunsparce",
+          "pokemon": "Dunsparce",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Doduo",
+          "pokemon": "Doduo",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Snubbull",
+          "pokemon": "Snubbull",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Aipom",
+          "pokemon": "Aipom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Cubone",
+          "pokemon": "Cubone",
           "rate": 9
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Burmy",
+          "pokemon": "Burmy",
           "rate": 9
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Heracross",
+          "pokemon": "Heracross",
           "rate": 2
         },
         {
@@ -10227,37 +10233,37 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Tepig",
+          "pokemon": "Tepig",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Tyrogue",
+          "pokemon": "Tyrogue",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Riolu",
+          "pokemon": "Riolu",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Charmander",
+          "pokemon": "Charmander",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Cyndaquil",
+          "pokemon": "Cyndaquil",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Torchic",
+          "pokemon": "Torchic",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Chimchar",
+          "pokemon": "Chimchar",
           "rate": 5
         },
         {
@@ -10267,47 +10273,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Petilil",
+          "pokemon": "Petilil",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sewaddle",
+          "pokemon": "Sewaddle",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Venipede",
+          "pokemon": "Venipede",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Oddish",
+          "pokemon": "Oddish",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bellsprout",
+          "pokemon": "Bellsprout",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shroomish",
+          "pokemon": "Shroomish",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Exeggcute",
+          "pokemon": "Exeggcute",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Murkrow",
+          "pokemon": "Murkrow",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Misdreavus",
+          "pokemon": "Misdreavus",
           "rate": 5
         },
         {
@@ -10317,47 +10323,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Roselia",
+          "pokemon": "Roselia",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Swadloon",
+          "pokemon": "Swadloon",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Whirlipede",
+          "pokemon": "Whirlipede",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Gloom",
+          "pokemon": "Gloom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Weepinbell",
+          "pokemon": "Weepinbell",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Carnivine",
+          "pokemon": "Carnivine",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Scyther",
+          "pokemon": "Scyther",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pinsir",
+          "pokemon": "Pinsir",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Vigoroth",
+          "pokemon": "Vigoroth",
           "rate": 5
         },
         {
@@ -10367,42 +10373,42 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Snivy",
+          "pokemon": "Snivy",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Pansage",
+          "pokemon": "Pansage",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Panpour",
+          "pokemon": "Panpour",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Pansear",
+          "pokemon": "Pansear",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Bulbasaur",
+          "pokemon": "Bulbasaur",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Chikorita",
+          "pokemon": "Chikorita",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Treecko",
+          "pokemon": "Treecko",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Turtwig",
+          "pokemon": "Turtwig",
           "rate": 5
         },
         {
@@ -10422,7 +10428,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Poliwag",
+          "pokemon": "Poliwag",
           "rate": 40
         },
         {
@@ -10432,15 +10438,17 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Politoed",
+          "pokemon": "Politoed",
           "rate": 5
         }
       ]
     },
-    "Liberty Garden": {
+    {
+      "name": "Liberty Garden",
       "encounters": []
     },
-    "Route 4": {
+    {
+      "name": "Route 4",
       "encounters": [
         {
           "method": "Sand",
@@ -10449,42 +10457,42 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Sandshrew",
+          "pokemon": "Sandshrew",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Darumaka",
+          "pokemon": "Darumaka",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Scraggy",
+          "pokemon": "Scraggy",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Cacnea",
+          "pokemon": "Cacnea",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Trapinch",
+          "pokemon": "Trapinch",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Vullaby",
+          "pokemon": "Vullaby",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Hippopotas",
+          "pokemon": "Hippopotas",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Elgyem",
+          "pokemon": "Elgyem",
           "rate": 5
         },
         {
@@ -10494,12 +10502,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Clamperl",
+          "pokemon": "Clamperl",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Relicanth",
+          "pokemon": "Relicanth",
           "rate": 10
         },
         {
@@ -10509,17 +10517,17 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Relicanth",
+          "pokemon": "Relicanth",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Huntail",
+          "pokemon": "Huntail",
           "rate": 5
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Gorebyss",
+          "pokemon": "Gorebyss",
           "rate": 5
         },
         {
@@ -10529,12 +10537,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Corphish",
+          "pokemon": "Corphish",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Clamperl",
+          "pokemon": "Clamperl",
           "rate": 10
         },
         {
@@ -10544,17 +10552,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Frillish",
+          "pokemon": "Frillish",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Relicanth",
+          "pokemon": "Relicanth",
           "rate": 10
         }
       ]
     },
-    "Desert Resort": {
+    {
+      "name": "Desert Resort",
       "encounters": [
         {
           "method": "Sand",
@@ -10563,37 +10572,37 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Sandshrew",
+          "pokemon": "Sandshrew",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Darumaka",
+          "pokemon": "Darumaka",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Scraggy",
+          "pokemon": "Scraggy",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Cacnea",
+          "pokemon": "Cacnea",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Dwebble",
+          "pokemon": "Dwebble",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Baltoy",
+          "pokemon": "Baltoy",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Trapinch",
+          "pokemon": "Trapinch",
           "rate": 10
         },
         {
@@ -10603,52 +10612,53 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Darumaka",
+          "pokemon": "Darumaka",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Cacnea",
+          "pokemon": "Cacnea",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Hippopotas",
+          "pokemon": "Hippopotas",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Gligar",
+          "pokemon": "Gligar",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Dwebble",
+          "pokemon": "Dwebble",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Maractus",
+          "pokemon": "Maractus",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Sigilyph",
+          "pokemon": "Sigilyph",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Skarmory",
+          "pokemon": "Skarmory",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Mandibuzz",
+          "pokemon": "Mandibuzz",
           "rate": 5
         }
       ]
     },
-    "Relic Castle": {
+    {
+      "name": "Relic Castle",
       "encounters": [
         {
           "method": "Sand",
@@ -10657,37 +10667,37 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Sandshrew",
+          "pokemon": "Sandshrew",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Rhyhorn",
+          "pokemon": "Rhyhorn",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Numel",
+          "pokemon": "Numel",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Golett",
+          "pokemon": "Golett",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Bronzor",
+          "pokemon": "Bronzor",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Onix",
+          "pokemon": "Onix",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Trapinch",
+          "pokemon": "Trapinch",
           "rate": 10
         },
         {
@@ -10697,47 +10707,47 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Gastly",
+          "pokemon": "Gastly",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Shuppet",
+          "pokemon": "Shuppet",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Duskull",
+          "pokemon": "Duskull",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Bronzor",
+          "pokemon": "Bronzor",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Elgyem",
+          "pokemon": "Elgyem",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Litwick",
+          "pokemon": "Litwick",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Beldum",
+          "pokemon": "Beldum",
           "rate": 4
         },
         {
           "method": "Sand",
-          "pokemon": ", Larvitar",
+          "pokemon": "Larvitar",
           "rate": 4
         },
         {
           "method": "Sand",
-          "pokemon": ", Larvesta",
+          "pokemon": "Larvesta",
           "rate": 2
         },
         {
@@ -10747,47 +10757,47 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Cofagrigus",
+          "pokemon": "Cofagrigus",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Vibrava",
+          "pokemon": "Vibrava",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Hippowdon",
+          "pokemon": "Hippowdon",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Sandslash",
+          "pokemon": "Sandslash",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Claydol",
+          "pokemon": "Claydol",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Sigilyph",
+          "pokemon": "Sigilyph",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Crustle",
+          "pokemon": "Crustle",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Darmanitan",
+          "pokemon": "Darmanitan",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Camerupt",
+          "pokemon": "Camerupt",
           "rate": 5
         },
         {
@@ -10797,47 +10807,47 @@
         },
         {
           "method": "Sand",
-          "pokemon": ", Cofagrigus",
+          "pokemon": "Cofagrigus",
           "rate": 20
         },
         {
           "method": "Sand",
-          "pokemon": ", Vibrava",
+          "pokemon": "Vibrava",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Hippowdon",
+          "pokemon": "Hippowdon",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Sandslash",
+          "pokemon": "Sandslash",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Claydol",
+          "pokemon": "Claydol",
           "rate": 10
         },
         {
           "method": "Sand",
-          "pokemon": ", Sigilyph",
+          "pokemon": "Sigilyph",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Crustle",
+          "pokemon": "Crustle",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Darmanitan",
+          "pokemon": "Darmanitan",
           "rate": 5
         },
         {
           "method": "Sand",
-          "pokemon": ", Camerupt",
+          "pokemon": "Camerupt",
           "rate": 5
         },
         {
@@ -10847,7 +10857,8 @@
         }
       ]
     },
-    "Route 5": {
+    {
+      "name": "Route 5",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -10856,47 +10867,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Gothita",
+          "pokemon": "Gothita",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Koffing",
+          "pokemon": "Koffing",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Trubbish",
+          "pokemon": "Trubbish",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Gulpin",
+          "pokemon": "Gulpin",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Grimer",
+          "pokemon": "Grimer",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Ditto",
+          "pokemon": "Ditto",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mime Jr.",
+          "pokemon": "Mime Jr.",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bonsly",
+          "pokemon": "Bonsly",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pachirisu",
+          "pokemon": "Pachirisu",
           "rate": 5
         },
         {
@@ -10906,47 +10917,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nidorino",
+          "pokemon": "Nidorino",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Rufflet",
+          "pokemon": "Rufflet",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Lickitung",
+          "pokemon": "Lickitung",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Smeargle",
+          "pokemon": "Smeargle",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Minccino",
+          "pokemon": "Minccino",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Miltank",
+          "pokemon": "Miltank",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tauros",
+          "pokemon": "Tauros",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bagon",
+          "pokemon": "Bagon",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Munchlax",
+          "pokemon": "Munchlax",
           "rate": 5
         },
         {
@@ -10956,32 +10967,33 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 20
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Cinccino",
+          "pokemon": "Cinccino",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoqueen",
+          "pokemon": "Nidoqueen",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoking",
+          "pokemon": "Nidoking",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Braviary",
+          "pokemon": "Braviary",
           "rate": 10
         }
       ]
     },
-    "Route 16": {
+    {
+      "name": "Route 16",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -10990,47 +11002,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pineco",
+          "pokemon": "Pineco",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skorupi",
+          "pokemon": "Skorupi",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Electrike",
+          "pokemon": "Electrike",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Combee",
+          "pokemon": "Combee",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Paras",
+          "pokemon": "Paras",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Buneary",
+          "pokemon": "Buneary",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pawniard",
+          "pokemon": "Pawniard",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Drifloon",
+          "pokemon": "Drifloon",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Spoink",
+          "pokemon": "Spoink",
           "rate": 5
         },
         {
@@ -11040,42 +11052,42 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Seviper",
+          "pokemon": "Seviper",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Stunky",
+          "pokemon": "Stunky",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Glameow",
+          "pokemon": "Glameow",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Slugma",
+          "pokemon": "Slugma",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Vespiquen",
+          "pokemon": "Vespiquen",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Parasect",
+          "pokemon": "Parasect",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Girafarig",
+          "pokemon": "Girafarig",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Castform",
+          "pokemon": "Castform",
           "rate": 5
         },
         {
@@ -11085,22 +11097,23 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Bisharp",
+          "pokemon": "Bisharp",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Lopunny",
+          "pokemon": "Lopunny",
           "rate": 10
         }
       ]
     },
-    "Lostlorn Forest": {
+    {
+      "name": "Lostlorn Forest",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -11109,47 +11122,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shelmet",
+          "pokemon": "Shelmet",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Yanma",
+          "pokemon": "Yanma",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pichu",
+          "pokemon": "Pichu",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Psyduck",
+          "pokemon": "Psyduck",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Surskit",
+          "pokemon": "Surskit",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Farfetch'd",
+          "pokemon": "Farfetch'd",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Chatot",
+          "pokemon": "Chatot",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Misdreavus",
+          "pokemon": "Misdreavus",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Murkrow",
+          "pokemon": "Murkrow",
           "rate": 5
         },
         {
@@ -11159,47 +11172,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Accelgor",
+          "pokemon": "Accelgor",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Wormadam",
+          "pokemon": "Wormadam",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mothim",
+          "pokemon": "Mothim",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Masquerain",
+          "pokemon": "Masquerain",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Golduck",
+          "pokemon": "Golduck",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Farfetch'd",
+          "pokemon": "Farfetch'd",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Chatot",
+          "pokemon": "Chatot",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Swadloon",
+          "pokemon": "Swadloon",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Whirlipede",
+          "pokemon": "Whirlipede",
           "rate": 5
         },
         {
@@ -11209,42 +11222,42 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Pikachu",
+          "pokemon": "Pikachu",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Kecleon",
+          "pokemon": "Kecleon",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Whimsicott",
+          "pokemon": "Whimsicott",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Lilligant",
+          "pokemon": "Lilligant",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Zorua",
+          "pokemon": "Zorua",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Eevee",
+          "pokemon": "Eevee",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Mismagius",
+          "pokemon": "Mismagius",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Honchkrow",
+          "pokemon": "Honchkrow",
           "rate": 5
         },
         {
@@ -11264,12 +11277,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Magikarp",
+          "pokemon": "Magikarp",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Goldeen",
+          "pokemon": "Goldeen",
           "rate": 10
         },
         {
@@ -11279,17 +11292,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seaking",
+          "pokemon": "Seaking",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Gyarados",
+          "pokemon": "Gyarados",
           "rate": 10
         }
       ]
     },
-    "Driftveil Drawbidge": {
+    {
+      "name": "Driftveil Drawbidge",
       "encounters": [
         {
           "method": "Bridge, Special",
@@ -11298,27 +11312,28 @@
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Wingull",
+          "pokemon": "Wingull",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Swablu",
+          "pokemon": "Swablu",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Spearow",
+          "pokemon": "Spearow",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Hoppip",
+          "pokemon": "Hoppip",
           "rate": 20
         }
       ]
     },
-    "Driftveil City": {
+    {
+      "name": "Driftveil City",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -11327,12 +11342,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Tentacool",
+          "pokemon": "Tentacool",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Staryu",
+          "pokemon": "Staryu",
           "rate": 10
         },
         {
@@ -11342,12 +11357,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Tentacruel",
+          "pokemon": "Tentacruel",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Lapras",
+          "pokemon": "Lapras",
           "rate": 10
         },
         {
@@ -11357,12 +11372,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Wailmer",
+          "pokemon": "Wailmer",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Mantyke",
+          "pokemon": "Mantyke",
           "rate": 10
         },
         {
@@ -11372,17 +11387,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seadra",
+          "pokemon": "Seadra",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Mantyke",
+          "pokemon": "Mantyke",
           "rate": 10
         }
       ]
     },
-    "Cold Storage": {
+    {
+      "name": "Cold Storage",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -11391,37 +11407,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Herdier",
+          "pokemon": "Herdier",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Snorunt",
+          "pokemon": "Snorunt",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Swinub",
+          "pokemon": "Swinub",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Cubchoo",
+          "pokemon": "Cubchoo",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Buizel",
+          "pokemon": "Buizel",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mienfoo",
+          "pokemon": "Mienfoo",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Taillow",
+          "pokemon": "Taillow",
           "rate": 10
         },
         {
@@ -11431,37 +11447,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Herdier",
+          "pokemon": "Herdier",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Swellow",
+          "pokemon": "Swellow",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Floatzel",
+          "pokemon": "Floatzel",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sneasel",
+          "pokemon": "Sneasel",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Delibird",
+          "pokemon": "Delibird",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Smoochum",
+          "pokemon": "Smoochum",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Piloswine",
+          "pokemon": "Piloswine",
           "rate": 10
         },
         {
@@ -11471,12 +11487,13 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Mienshao",
+          "pokemon": "Mienshao",
           "rate": 10
         }
       ]
     },
-    "Route 6 \u2013 Spring / Summer / Autumn": {
+    {
+      "name": "Route 6 \u2013 Spring / Summer / Autumn",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -11485,47 +11502,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Deerling",
+          "pokemon": "Deerling",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Stantler",
+          "pokemon": "Stantler",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Foongus",
+          "pokemon": "Foongus",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pidgeotto",
+          "pokemon": "Pidgeotto",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Natu",
+          "pokemon": "Natu",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mime Jr.",
+          "pokemon": "Mime Jr.",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bonsly",
+          "pokemon": "Bonsly",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Plusle",
+          "pokemon": "Plusle",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Minun",
+          "pokemon": "Minun",
           "rate": 5
         },
         {
@@ -11535,47 +11552,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sawsbuck",
+          "pokemon": "Sawsbuck",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Stantler",
+          "pokemon": "Stantler",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Foongus",
+          "pokemon": "Foongus",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pidgeotto",
+          "pokemon": "Pidgeotto",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Xatu",
+          "pokemon": "Xatu",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mr. Mime",
+          "pokemon": "Mr. Mime",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sudowoodo",
+          "pokemon": "Sudowoodo",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Plusle",
+          "pokemon": "Plusle",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Minun",
+          "pokemon": "Minun",
           "rate": 5
         },
         {
@@ -11585,17 +11602,17 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Leavanny",
+          "pokemon": "Leavanny",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Unfezant",
+          "pokemon": "Unfezant",
           "rate": 5
         },
         {
@@ -11605,12 +11622,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Goldeen",
+          "pokemon": "Goldeen",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Chinchou",
+          "pokemon": "Chinchou",
           "rate": 10
         },
         {
@@ -11620,12 +11637,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Lanturn",
+          "pokemon": "Lanturn",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Seaking",
+          "pokemon": "Seaking",
           "rate": 10
         },
         {
@@ -11635,7 +11652,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Chinchou",
+          "pokemon": "Chinchou",
           "rate": 40
         },
         {
@@ -11645,7 +11662,7 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Lanturn",
+          "pokemon": "Lanturn",
           "rate": 40
         },
         {
@@ -11655,47 +11672,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Deerling",
+          "pokemon": "Deerling",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Stantler",
+          "pokemon": "Stantler",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Foongus",
+          "pokemon": "Foongus",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pidgeotto",
+          "pokemon": "Pidgeotto",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Natu",
+          "pokemon": "Natu",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mime Jr.",
+          "pokemon": "Mime Jr.",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bonsly",
+          "pokemon": "Bonsly",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Plusle",
+          "pokemon": "Plusle",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Minun",
+          "pokemon": "Minun",
           "rate": 5
         },
         {
@@ -11705,47 +11722,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sawsbuck",
+          "pokemon": "Sawsbuck",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Stantler",
+          "pokemon": "Stantler",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Foongus",
+          "pokemon": "Foongus",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pidgeotto",
+          "pokemon": "Pidgeotto",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Xatu",
+          "pokemon": "Xatu",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mr. Mime",
+          "pokemon": "Mr. Mime",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sudowoodo",
+          "pokemon": "Sudowoodo",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Plusle",
+          "pokemon": "Plusle",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Minun",
+          "pokemon": "Minun",
           "rate": 5
         },
         {
@@ -11755,17 +11772,17 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Leavanny",
+          "pokemon": "Leavanny",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Unfezant",
+          "pokemon": "Unfezant",
           "rate": 5
         },
         {
@@ -11775,12 +11792,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Spheal",
+          "pokemon": "Spheal",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Chinchou",
+          "pokemon": "Chinchou",
           "rate": 10
         },
         {
@@ -11790,12 +11807,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Sealeo",
+          "pokemon": "Sealeo",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Lanturn",
+          "pokemon": "Lanturn",
           "rate": 10
         },
         {
@@ -11805,12 +11822,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Spheal",
+          "pokemon": "Spheal",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Chinchou",
+          "pokemon": "Chinchou",
           "rate": 10
         },
         {
@@ -11820,17 +11837,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Sealeo",
+          "pokemon": "Sealeo",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Lanturn",
+          "pokemon": "Lanturn",
           "rate": 10
         }
       ]
     },
-    "Chargestone Cave": {
+    {
+      "name": "Chargestone Cave",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -11839,37 +11857,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Klink",
+          "pokemon": "Klink",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Elekid",
+          "pokemon": "Elekid",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Magnemite",
+          "pokemon": "Magnemite",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Voltorb",
+          "pokemon": "Voltorb",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Ferroseed",
+          "pokemon": "Ferroseed",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Nosepass",
+          "pokemon": "Nosepass",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Lairon",
+          "pokemon": "Lairon",
           "rate": 10
         },
         {
@@ -11879,7 +11897,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Diglett",
+          "pokemon": "Diglett",
           "rate": 50
         },
         {
@@ -11889,37 +11907,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Klink",
+          "pokemon": "Klink",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Mawile",
+          "pokemon": "Mawile",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sableye",
+          "pokemon": "Sableye",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Tynamo",
+          "pokemon": "Tynamo",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Durant",
+          "pokemon": "Durant",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Nosepass",
+          "pokemon": "Nosepass",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Deino",
+          "pokemon": "Deino",
           "rate": 10
         },
         {
@@ -11929,7 +11947,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Diglett",
+          "pokemon": "Diglett",
           "rate": 50
         },
         {
@@ -11939,47 +11957,47 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Klang",
+          "pokemon": "Klang",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Electabuzz",
+          "pokemon": "Electabuzz",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Magneton",
+          "pokemon": "Magneton",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Electrode",
+          "pokemon": "Electrode",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Ferrothorn",
+          "pokemon": "Ferrothorn",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Durant",
+          "pokemon": "Durant",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Eelektrik",
+          "pokemon": "Eelektrik",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Porygon",
+          "pokemon": "Porygon",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Rotom",
+          "pokemon": "Rotom",
           "rate": 4
         },
         {
@@ -11989,12 +12007,13 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         }
       ]
     },
-    "Route 7 \u2013 All Seasons": {
+    {
+      "name": "Route 7 \u2013 All Seasons",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -12003,47 +12022,47 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Aipom",
+          "pokemon": "Aipom",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Magby",
+          "pokemon": "Magby",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Nincada",
+          "pokemon": "Nincada",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Doduo",
+          "pokemon": "Doduo",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Cubone",
+          "pokemon": "Cubone",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skarmory",
+          "pokemon": "Skarmory",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pachirisu",
+          "pokemon": "Pachirisu",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Torkoal",
+          "pokemon": "Torkoal",
           "rate": 5
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Gligar",
+          "pokemon": "Gligar",
           "rate": 5
         },
         {
@@ -12053,47 +12072,47 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Ambipom",
+          "pokemon": "Ambipom",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Magmar",
+          "pokemon": "Magmar",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Ninjask",
+          "pokemon": "Ninjask",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Dodrio",
+          "pokemon": "Dodrio",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Marowak",
+          "pokemon": "Marowak",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Heatmor",
+          "pokemon": "Heatmor",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bouffalant",
+          "pokemon": "Bouffalant",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Miltank",
+          "pokemon": "Miltank",
           "rate": 5
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tauros",
+          "pokemon": "Tauros",
           "rate": 5
         },
         {
@@ -12103,17 +12122,18 @@
         },
         {
           "method": "Grass, Shaking",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 30
         },
         {
           "method": "Grass, Shaking",
-          "pokemon": ", Gliscor",
+          "pokemon": "Gliscor",
           "rate": 10
         }
       ]
     },
-    "Celestial Tower": {
+    {
+      "name": "Celestial Tower",
       "encounters": [
         {
           "method": "Tower, Normal",
@@ -12122,37 +12142,37 @@
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Elgyem",
+          "pokemon": "Elgyem",
           "rate": 20
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Chingling",
+          "pokemon": "Chingling",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Gastly",
+          "pokemon": "Gastly",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Duskull",
+          "pokemon": "Duskull",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Shuppet",
+          "pokemon": "Shuppet",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Wynaut",
+          "pokemon": "Wynaut",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Bronzor",
+          "pokemon": "Bronzor",
           "rate": 10
         },
         {
@@ -12162,37 +12182,37 @@
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Beheeyem",
+          "pokemon": "Beheeyem",
           "rate": 20
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Chimecho",
+          "pokemon": "Chimecho",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Haunter",
+          "pokemon": "Haunter",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Dusclops",
+          "pokemon": "Dusclops",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Banette",
+          "pokemon": "Banette",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Wobbuffet",
+          "pokemon": "Wobbuffet",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Bronzong",
+          "pokemon": "Bronzong",
           "rate": 10
         },
         {
@@ -12202,32 +12222,33 @@
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Murkrow",
+          "pokemon": "Murkrow",
           "rate": 20
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Drifblim",
+          "pokemon": "Drifblim",
           "rate": 20
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Noctowl",
+          "pokemon": "Noctowl",
           "rate": 20
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Absol",
+          "pokemon": "Absol",
           "rate": 10
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Spiritomb",
+          "pokemon": "Spiritomb",
           "rate": 10
         }
       ]
     },
-    "Route 17": {
+    {
+      "name": "Route 17",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -12236,12 +12257,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Corsola",
+          "pokemon": "Corsola",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Mantyke",
+          "pokemon": "Mantyke",
           "rate": 10
         },
         {
@@ -12251,12 +12272,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Corsola",
+          "pokemon": "Corsola",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Mantine",
+          "pokemon": "Mantine",
           "rate": 10
         },
         {
@@ -12271,7 +12292,7 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Corsola",
+          "pokemon": "Corsola",
           "rate": 40
         },
         {
@@ -12281,37 +12302,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sawk",
+          "pokemon": "Sawk",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Heracross",
+          "pokemon": "Heracross",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Munchlax",
+          "pokemon": "Munchlax",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Dwebble",
+          "pokemon": "Dwebble",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Lickitung",
+          "pokemon": "Lickitung",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kangaskhan",
+          "pokemon": "Kangaskhan",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Tropius",
+          "pokemon": "Tropius",
           "rate": 10
         },
         {
@@ -12321,37 +12342,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sawk",
+          "pokemon": "Sawk",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Heracross",
+          "pokemon": "Heracross",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Munchlax",
+          "pokemon": "Munchlax",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Crustle",
+          "pokemon": "Crustle",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Lickitung",
+          "pokemon": "Lickitung",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kangaskhan",
+          "pokemon": "Kangaskhan",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tropius",
+          "pokemon": "Tropius",
           "rate": 10
         },
         {
@@ -12361,12 +12382,12 @@
         },
         {
           "method": "Shaking Grass",
-          "pokemon": ", Snorlax",
+          "pokemon": "Snorlax",
           "rate": 5
         },
         {
           "method": "Shaking Grass",
-          "pokemon": ", Lickilicky",
+          "pokemon": "Lickilicky",
           "rate": 5
         },
         {
@@ -12376,12 +12397,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Qwilfish",
+          "pokemon": "Qwilfish",
           "rate": 10
         },
         {
@@ -12391,12 +12412,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Qwilfish",
+          "pokemon": "Qwilfish",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Sharpedo",
+          "pokemon": "Sharpedo",
           "rate": 10
         },
         {
@@ -12406,7 +12427,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Horsea",
+          "pokemon": "Horsea",
           "rate": 40
         },
         {
@@ -12416,17 +12437,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seadra",
+          "pokemon": "Seadra",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Tentacruel",
+          "pokemon": "Tentacruel",
           "rate": 10
         }
       ]
     },
-    "P2 Laboratory": {
+    {
+      "name": "P2 Laboratory",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -12435,27 +12457,27 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Klang",
+          "pokemon": "Klang",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Magneton",
+          "pokemon": "Magneton",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Electrode",
+          "pokemon": "Electrode",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kingler",
+          "pokemon": "Kingler",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shuckle",
+          "pokemon": "Shuckle",
           "rate": 10
         },
         {
@@ -12465,7 +12487,7 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Porygon2",
+          "pokemon": "Porygon2",
           "rate": 5
         },
         {
@@ -12475,12 +12497,12 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Tentacool",
+          "pokemon": "Tentacool",
           "rate": 30
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Pelipper",
+          "pokemon": "Pelipper",
           "rate": 10
         },
         {
@@ -12490,12 +12512,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Frillish",
+          "pokemon": "Frillish",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Jellicent",
+          "pokemon": "Jellicent",
           "rate": 10
         },
         {
@@ -12505,7 +12527,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Corphish",
+          "pokemon": "Corphish",
           "rate": 40
         },
         {
@@ -12515,12 +12537,13 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Crawdaunt",
+          "pokemon": "Crawdaunt",
           "rate": 40
         }
       ]
     },
-    "Mistralton Cave 1F \u2013 2F": {
+    {
+      "name": "Mistralton Cave 1F \u2013 2F",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -12529,37 +12552,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Rhyhorn",
+          "pokemon": "Rhyhorn",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Larvitar",
+          "pokemon": "Larvitar",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Bagon",
+          "pokemon": "Bagon",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Beldum",
+          "pokemon": "Beldum",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Gible",
+          "pokemon": "Gible",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Axew",
+          "pokemon": "Axew",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Deino",
+          "pokemon": "Deino",
           "rate": 10
         },
         {
@@ -12569,7 +12592,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Diglett",
+          "pokemon": "Diglett",
           "rate": 50
         },
         {
@@ -12579,37 +12602,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Rhydon",
+          "pokemon": "Rhydon",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Pupitar",
+          "pokemon": "Pupitar",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Shelgon",
+          "pokemon": "Shelgon",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Metang",
+          "pokemon": "Metang",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Gabite",
+          "pokemon": "Gabite",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Fraxure",
+          "pokemon": "Fraxure",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Zweilous",
+          "pokemon": "Zweilous",
           "rate": 10
         },
         {
@@ -12619,12 +12642,13 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         }
       ]
     },
-    "Twist Mountain": {
+    {
+      "name": "Twist Mountain",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -12633,47 +12657,47 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Teddiursa",
+          "pokemon": "Teddiursa",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Cubchoo",
+          "pokemon": "Cubchoo",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sneasel",
+          "pokemon": "Sneasel",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Delibird",
+          "pokemon": "Delibird",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Swinub",
+          "pokemon": "Swinub",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Graveler",
+          "pokemon": "Graveler",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Cryogonal",
+          "pokemon": "Cryogonal",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Gurdurr",
+          "pokemon": "Gurdurr",
           "rate": 5
         },
         {
@@ -12683,7 +12707,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         },
         {
@@ -12693,47 +12717,47 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Ursaring",
+          "pokemon": "Ursaring",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Beartic",
+          "pokemon": "Beartic",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sneasel",
+          "pokemon": "Sneasel",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Delibird",
+          "pokemon": "Delibird",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Piloswine",
+          "pokemon": "Piloswine",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Mawile",
+          "pokemon": "Mawile",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sableye",
+          "pokemon": "Sableye",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Cryogonal",
+          "pokemon": "Cryogonal",
           "rate": 5
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Durant",
+          "pokemon": "Durant",
           "rate": 5
         },
         {
@@ -12743,12 +12767,13 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         }
       ]
     },
-    "Icirrus City, Route 8": {
+    {
+      "name": "Icirrus City, Route 8",
       "encounters": [
         {
           "method": "Puddle, Normal",
@@ -12757,57 +12782,57 @@
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 20
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Croagunk",
+          "pokemon": "Croagunk",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Gulpin",
+          "pokemon": "Gulpin",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Koffing",
+          "pokemon": "Koffing",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Grimer",
+          "pokemon": "Grimer",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Gastrodon-E",
+          "pokemon": "Gastrodon-E",
           "rate": 5
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Quagsire",
+          "pokemon": "Quagsire",
           "rate": 5
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Toxicroak",
+          "pokemon": "Toxicroak",
           "rate": 4
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Swalot",
+          "pokemon": "Swalot",
           "rate": 4
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Weezing",
+          "pokemon": "Weezing",
           "rate": 1
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Muk",
+          "pokemon": "Muk",
           "rate": 1
         },
         {
@@ -12817,7 +12842,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Barboach",
+          "pokemon": "Barboach",
           "rate": 40
         },
         {
@@ -12827,7 +12852,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Seismitoad",
+          "pokemon": "Seismitoad",
           "rate": 40
         },
         {
@@ -12837,7 +12862,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 30
         },
         {
@@ -12847,17 +12872,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Whiscash",
+          "pokemon": "Whiscash",
           "rate": 10
         }
       ]
     },
-    "Moor of Icirrus": {
+    {
+      "name": "Moor of Icirrus",
       "encounters": [
         {
           "method": "Puddle, Normal",
@@ -12866,37 +12892,37 @@
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 20
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Gastrodon-E",
+          "pokemon": "Gastrodon-E",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Toxicroak",
+          "pokemon": "Toxicroak",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Swalot",
+          "pokemon": "Swalot",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Weezing",
+          "pokemon": "Weezing",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Muk",
+          "pokemon": "Muk",
           "rate": 10
         },
         {
           "method": "Puddle, Normal",
-          "pokemon": ", Palpitoad",
+          "pokemon": "Palpitoad",
           "rate": 10
         },
         {
@@ -12906,7 +12932,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Barboach",
+          "pokemon": "Barboach",
           "rate": 40
         },
         {
@@ -12916,7 +12942,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Seismitoad",
+          "pokemon": "Seismitoad",
           "rate": 40
         },
         {
@@ -12926,7 +12952,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 30
         },
         {
@@ -12936,17 +12962,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Stunfisk",
+          "pokemon": "Stunfisk",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Whiscash",
+          "pokemon": "Whiscash",
           "rate": 10
         }
       ]
     },
-    "Dragonspiral Tower": {
+    {
+      "name": "Dragonspiral Tower",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -12955,22 +12982,22 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Deerling",
+          "pokemon": "Deerling",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Druddigon",
+          "pokemon": "Druddigon",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Swablu",
+          "pokemon": "Swablu",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 20
         },
         {
@@ -12980,22 +13007,22 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sawsbuck",
+          "pokemon": "Sawsbuck",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Druddigon",
+          "pokemon": "Druddigon",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Altaria",
+          "pokemon": "Altaria",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 20
         },
         {
@@ -13005,7 +13032,7 @@
         },
         {
           "method": "Grass, Shaking",
-          "pokemon": ", Alakazam",
+          "pokemon": "Alakazam",
           "rate": 10
         },
         {
@@ -13015,7 +13042,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Dratini",
+          "pokemon": "Dratini",
           "rate": 40
         },
         {
@@ -13025,7 +13052,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Dragonair",
+          "pokemon": "Dragonair",
           "rate": 40
         },
         {
@@ -13035,12 +13062,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Dratini",
+          "pokemon": "Dratini",
           "rate": 10
         },
         {
@@ -13050,17 +13077,17 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Dragonair",
+          "pokemon": "Dragonair",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Kingdra",
+          "pokemon": "Kingdra",
           "rate": 9
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Dragonite",
+          "pokemon": "Dragonite",
           "rate": 1
         },
         {
@@ -13070,22 +13097,22 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Snover",
+          "pokemon": "Snover",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Cubchoo",
+          "pokemon": "Cubchoo",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Vanillite",
+          "pokemon": "Vanillite",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 20
         },
         {
@@ -13095,22 +13122,22 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Abomasnow",
+          "pokemon": "Abomasnow",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Beartic",
+          "pokemon": "Beartic",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Vanillish",
+          "pokemon": "Vanillish",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 20
         },
         {
@@ -13120,7 +13147,7 @@
         },
         {
           "method": "Grass, Shaking",
-          "pokemon": ", Alakazam",
+          "pokemon": "Alakazam",
           "rate": 10
         },
         {
@@ -13130,7 +13157,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Dratini",
+          "pokemon": "Dratini",
           "rate": 40
         },
         {
@@ -13140,7 +13167,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Dragonair",
+          "pokemon": "Dragonair",
           "rate": 40
         },
         {
@@ -13150,12 +13177,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Dratini",
+          "pokemon": "Dratini",
           "rate": 10
         },
         {
@@ -13165,17 +13192,17 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Dragonair",
+          "pokemon": "Dragonair",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Kingdra",
+          "pokemon": "Kingdra",
           "rate": 9
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Dragonite",
+          "pokemon": "Dragonite",
           "rate": 1
         },
         {
@@ -13185,12 +13212,12 @@
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Baltoy",
+          "pokemon": "Baltoy",
           "rate": 30
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Golett",
+          "pokemon": "Golett",
           "rate": 30
         },
         {
@@ -13200,12 +13227,13 @@
         },
         {
           "method": "Tower, Normal",
-          "pokemon": ", Golurk",
+          "pokemon": "Golurk",
           "rate": 50
         }
       ]
     },
-    "Route 9": {
+    {
+      "name": "Route 9",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13214,37 +13242,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Duosion",
+          "pokemon": "Duosion",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kirlia",
+          "pokemon": "Kirlia",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Minccino",
+          "pokemon": "Minccino",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pawniard",
+          "pokemon": "Pawniard",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skitty",
+          "pokemon": "Skitty",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Liepard",
+          "pokemon": "Liepard",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Persian",
+          "pokemon": "Persian",
           "rate": 10
         },
         {
@@ -13254,37 +13282,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Luxio",
+          "pokemon": "Luxio",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Hypno",
+          "pokemon": "Hypno",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Cinccino",
+          "pokemon": "Cinccino",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bisharp",
+          "pokemon": "Bisharp",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Garbodor",
+          "pokemon": "Garbodor",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Houndoom",
+          "pokemon": "Houndoom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Granbull",
+          "pokemon": "Granbull",
           "rate": 10
         },
         {
@@ -13294,17 +13322,18 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Gothitelle",
+          "pokemon": "Gothitelle",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Reuniclus",
+          "pokemon": "Reuniclus",
           "rate": 5
         }
       ]
     },
-    "Route 10": {
+    {
+      "name": "Route 10",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13313,37 +13342,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pidgeotto",
+          "pokemon": "Pidgeotto",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Rufflet",
+          "pokemon": "Rufflet",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Vullaby",
+          "pokemon": "Vullaby",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Machoke",
+          "pokemon": "Machoke",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Primeape",
+          "pokemon": "Primeape",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Amoonguss",
+          "pokemon": "Amoonguss",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Tranquill",
+          "pokemon": "Tranquill",
           "rate": 10
         },
         {
@@ -13353,37 +13382,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Braviary",
+          "pokemon": "Braviary",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bouffalant",
+          "pokemon": "Bouffalant",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Grumpig",
+          "pokemon": "Grumpig",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Drapion",
+          "pokemon": "Drapion",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Scrafty",
+          "pokemon": "Scrafty",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Heracross",
+          "pokemon": "Heracross",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Manectric",
+          "pokemon": "Manectric",
           "rate": 10
         },
         {
@@ -13398,37 +13427,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bibarel",
+          "pokemon": "Bibarel",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Arbok",
+          "pokemon": "Arbok",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sandslash",
+          "pokemon": "Sandslash",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Dodrio",
+          "pokemon": "Dodrio",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Zangoose",
+          "pokemon": "Zangoose",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Seviper",
+          "pokemon": "Seviper",
           "rate": 10
         },
         {
@@ -13438,37 +13467,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pinsir",
+          "pokemon": "Pinsir",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Cherrim",
+          "pokemon": "Cherrim",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Fearow",
+          "pokemon": "Fearow",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Herdier",
+          "pokemon": "Herdier",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Rapidash",
+          "pokemon": "Rapidash",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tropius",
+          "pokemon": "Tropius",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Girafarig",
+          "pokemon": "Girafarig",
           "rate": 10
         },
         {
@@ -13478,12 +13507,13 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Blissey",
+          "pokemon": "Blissey",
           "rate": 10
         }
       ]
     },
-    "Victory Road": {
+    {
+      "name": "Victory Road",
       "encounters": [
         {
           "method": "Rocky Grass",
@@ -13492,37 +13522,37 @@
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Torkoal",
+          "pokemon": "Torkoal",
           "rate": 20
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Mandibuzz",
+          "pokemon": "Mandibuzz",
           "rate": 10
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Braviary",
+          "pokemon": "Braviary",
           "rate": 10
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Skarmory",
+          "pokemon": "Skarmory",
           "rate": 10
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Gliscor",
+          "pokemon": "Gliscor",
           "rate": 10
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Pupitar",
+          "pokemon": "Pupitar",
           "rate": 10
         },
         {
           "method": "Rocky Grass",
-          "pokemon": ", Fraxure",
+          "pokemon": "Fraxure",
           "rate": 9
         },
         {
@@ -13532,37 +13562,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Ursaring",
+          "pokemon": "Ursaring",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Zweilous",
+          "pokemon": "Zweilous",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Woobat",
+          "pokemon": "Woobat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Hariyama",
+          "pokemon": "Hariyama",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Medicham",
+          "pokemon": "Medicham",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Lairon",
+          "pokemon": "Lairon",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Azumarill",
+          "pokemon": "Azumarill",
           "rate": 10
         },
         {
@@ -13572,17 +13602,17 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 25
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Steelix",
+          "pokemon": "Steelix",
           "rate": 25
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Sandslash",
+          "pokemon": "Sandslash",
           "rate": 25
         },
         {
@@ -13592,7 +13622,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Lapras",
+          "pokemon": "Lapras",
           "rate": 40
         },
         {
@@ -13602,7 +13632,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Dewgong",
+          "pokemon": "Dewgong",
           "rate": 40
         },
         {
@@ -13612,12 +13642,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Gyarados",
+          "pokemon": "Gyarados",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Whiscash",
+          "pokemon": "Whiscash",
           "rate": 10
         },
         {
@@ -13627,12 +13657,12 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Gyarados",
+          "pokemon": "Gyarados",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Whiscash",
+          "pokemon": "Whiscash",
           "rate": 10
         },
         {
@@ -13642,37 +13672,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Durant",
+          "pokemon": "Durant",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Woobat",
+          "pokemon": "Woobat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Golbat",
+          "pokemon": "Golbat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Klang",
+          "pokemon": "Klang",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Rhydon",
+          "pokemon": "Rhydon",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Gurdurr",
+          "pokemon": "Gurdurr",
           "rate": 10
         },
         {
@@ -13682,25 +13712,27 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 25
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Steelix",
+          "pokemon": "Steelix",
           "rate": 25
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Sandslash",
+          "pokemon": "Sandslash",
           "rate": 25
         }
       ]
     },
-    "N\u2019s Castle": {
+    {
+      "name": "N\u2019s Castle",
       "encounters": []
     },
-    "Route 11": {
+    {
+      "name": "Route 11",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13709,22 +13741,22 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bisharp",
+          "pokemon": "Bisharp",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mandibuzz",
+          "pokemon": "Mandibuzz",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Braviary",
+          "pokemon": "Braviary",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Gligar",
+          "pokemon": "Gligar",
           "rate": 10
         },
         {
@@ -13734,37 +13766,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Staravia",
+          "pokemon": "Staravia",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Vigoroth",
+          "pokemon": "Vigoroth",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Electabuzz",
+          "pokemon": "Electabuzz",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Magmar",
+          "pokemon": "Magmar",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Flygon",
+          "pokemon": "Flygon",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Rhydon",
+          "pokemon": "Rhydon",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 10
         },
         {
@@ -13774,27 +13806,27 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Electivire",
+          "pokemon": "Electivire",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Magmortar",
+          "pokemon": "Magmortar",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Gliscor",
+          "pokemon": "Gliscor",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Staraptor",
+          "pokemon": "Staraptor",
           "rate": 5
         },
         {
@@ -13804,7 +13836,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Floatzel",
+          "pokemon": "Floatzel",
           "rate": 40
         },
         {
@@ -13814,12 +13846,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Dragonair",
+          "pokemon": "Dragonair",
           "rate": 35
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Dragonite",
+          "pokemon": "Dragonite",
           "rate": 5
         },
         {
@@ -13829,7 +13861,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
@@ -13839,17 +13871,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seaking",
+          "pokemon": "Seaking",
           "rate": 10
         }
       ]
     },
-    "Village Bridge": {
+    {
+      "name": "Village Bridge",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13858,37 +13891,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bibarel",
+          "pokemon": "Bibarel",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Zangoose",
+          "pokemon": "Zangoose",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Seviper",
+          "pokemon": "Seviper",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Volbeat",
+          "pokemon": "Volbeat",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Illumise",
+          "pokemon": "Illumise",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Farfetch'd",
+          "pokemon": "Farfetch'd",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Chatot",
+          "pokemon": "Chatot",
           "rate": 10
         },
         {
@@ -13898,22 +13931,22 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Lombre",
+          "pokemon": "Lombre",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nuzleaf",
+          "pokemon": "Nuzleaf",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Roselia",
+          "pokemon": "Roselia",
           "rate": 10
         },
         {
@@ -13923,22 +13956,22 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Togetic",
+          "pokemon": "Togetic",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Exeggutor",
+          "pokemon": "Exeggutor",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Roserade",
+          "pokemon": "Roserade",
           "rate": 5
         },
         {
@@ -13948,7 +13981,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Sharpedo",
+          "pokemon": "Sharpedo",
           "rate": 40
         },
         {
@@ -13958,7 +13991,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Jellicent",
+          "pokemon": "Jellicent",
           "rate": 40
         },
         {
@@ -13968,7 +14001,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
@@ -13978,17 +14011,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Sharpedo",
+          "pokemon": "Sharpedo",
           "rate": 10
         }
       ]
     },
-    "Route 12": {
+    {
+      "name": "Route 12",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13997,22 +14031,22 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Combee",
+          "pokemon": "Combee",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sunkern",
+          "pokemon": "Sunkern",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pinsir",
+          "pokemon": "Pinsir",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Heracross",
+          "pokemon": "Heracross",
           "rate": 10
         },
         {
@@ -14022,32 +14056,32 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Butterfree",
+          "pokemon": "Butterfree",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Beedrill",
+          "pokemon": "Beedrill",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Beautifly",
+          "pokemon": "Beautifly",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Dustox",
+          "pokemon": "Dustox",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Swadloon",
+          "pokemon": "Swadloon",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Whirlipede",
+          "pokemon": "Whirlipede",
           "rate": 10
         },
         {
@@ -14057,17 +14091,18 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Sunflora",
+          "pokemon": "Sunflora",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Vespiquen",
+          "pokemon": "Vespiquen",
           "rate": 5
         }
       ]
     },
-    "Route 13": {
+    {
+      "name": "Route 13",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -14076,37 +14111,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Drifblim",
+          "pokemon": "Drifblim",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Swellow",
+          "pokemon": "Swellow",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Lunatone",
+          "pokemon": "Lunatone",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Solrock",
+          "pokemon": "Solrock",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Wormadam",
+          "pokemon": "Wormadam",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mothim",
+          "pokemon": "Mothim",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pelipper",
+          "pokemon": "Pelipper",
           "rate": 10
         },
         {
@@ -14116,37 +14151,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tangela",
+          "pokemon": "Tangela",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nidorino",
+          "pokemon": "Nidorino",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nidorina",
+          "pokemon": "Nidorina",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Yanma",
+          "pokemon": "Yanma",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Gloom",
+          "pokemon": "Gloom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Weepinbell",
+          "pokemon": "Weepinbell",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 10
         },
         {
@@ -14156,22 +14191,22 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Tangrowth",
+          "pokemon": "Tangrowth",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Crobat",
+          "pokemon": "Crobat",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoking",
+          "pokemon": "Nidoking",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoqueen",
+          "pokemon": "Nidoqueen",
           "rate": 5
         },
         {
@@ -14181,7 +14216,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Corsola",
+          "pokemon": "Corsola",
           "rate": 40
         },
         {
@@ -14191,12 +14226,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Starmie",
+          "pokemon": "Starmie",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Kingdra",
+          "pokemon": "Kingdra",
           "rate": 10
         },
         {
@@ -14206,12 +14241,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Krabby",
+          "pokemon": "Krabby",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 5
         },
         {
@@ -14221,22 +14256,23 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Kingler",
+          "pokemon": "Kingler",
           "rate": 5
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Cloyster",
+          "pokemon": "Cloyster",
           "rate": 5
         }
       ]
     },
-    "Giant Chasm \u2013 Outside Area": {
+    {
+      "name": "Giant Chasm \u2013 Outside Area",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -14245,37 +14281,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Drifblim",
+          "pokemon": "Drifblim",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Swellow",
+          "pokemon": "Swellow",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Lunatone",
+          "pokemon": "Lunatone",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Solrock",
+          "pokemon": "Solrock",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Wormadam",
+          "pokemon": "Wormadam",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Mothim",
+          "pokemon": "Mothim",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pelipper",
+          "pokemon": "Pelipper",
           "rate": 10
         },
         {
@@ -14285,37 +14321,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tangela",
+          "pokemon": "Tangela",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nidorino",
+          "pokemon": "Nidorino",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Nidorina",
+          "pokemon": "Nidorina",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Yanma",
+          "pokemon": "Yanma",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Gloom",
+          "pokemon": "Gloom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Weepinbell",
+          "pokemon": "Weepinbell",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 10
         },
         {
@@ -14325,22 +14361,22 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Tangrowth",
+          "pokemon": "Tangrowth",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Crobat",
+          "pokemon": "Crobat",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoking",
+          "pokemon": "Nidoking",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Nidoqueen",
+          "pokemon": "Nidoqueen",
           "rate": 5
         },
         {
@@ -14350,37 +14386,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Jynx",
+          "pokemon": "Jynx",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Glalie",
+          "pokemon": "Glalie",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Beartic",
+          "pokemon": "Beartic",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Slowbro",
+          "pokemon": "Slowbro",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Piloswine",
+          "pokemon": "Piloswine",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Graveler",
+          "pokemon": "Graveler",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 10
         },
         {
@@ -14395,7 +14431,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Dewgong",
+          "pokemon": "Dewgong",
           "rate": 40
         },
         {
@@ -14410,12 +14446,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Poliwhirl",
+          "pokemon": "Poliwhirl",
           "rate": 5
         },
         {
@@ -14425,12 +14461,12 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Baculin",
+          "pokemon": "Baculin",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Poliwrath",
+          "pokemon": "Poliwrath",
           "rate": 5
         },
         {
@@ -14440,37 +14476,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Jigglypuff",
+          "pokemon": "Jigglypuff",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skitty",
+          "pokemon": "Skitty",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sneasel",
+          "pokemon": "Sneasel",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Metang",
+          "pokemon": "Metang",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Vanillish",
+          "pokemon": "Vanillish",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Golbat",
+          "pokemon": "Golbat",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Porygon",
+          "pokemon": "Porygon",
           "rate": 10
         },
         {
@@ -14480,37 +14516,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Abomasnow",
+          "pokemon": "Abomasnow",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bouffalant",
+          "pokemon": "Bouffalant",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Solrock",
+          "pokemon": "Solrock",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Lunatone",
+          "pokemon": "Lunatone",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Metang",
+          "pokemon": "Metang",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Ditto",
+          "pokemon": "Ditto",
           "rate": 10
         },
         {
@@ -14520,27 +14556,28 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Clefable",
+          "pokemon": "Clefable",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Wigglytuff",
+          "pokemon": "Wigglytuff",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Mamoswine",
+          "pokemon": "Mamoswine",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Metagross",
+          "pokemon": "Metagross",
           "rate": 5
         }
       ]
     },
-    "Undella Town": {
+    {
+      "name": "Undella Town",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -14549,7 +14586,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Corsola",
+          "pokemon": "Corsola",
           "rate": 40
         },
         {
@@ -14564,12 +14601,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Shellder",
+          "pokemon": "Shellder",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 5
         },
         {
@@ -14579,22 +14616,23 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Octillery",
+          "pokemon": "Octillery",
           "rate": 5
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Cloyster",
+          "pokemon": "Cloyster",
           "rate": 5
         }
       ]
     },
-    "Undella Bay": {
+    {
+      "name": "Undella Bay",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -14603,7 +14641,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Wailmer",
+          "pokemon": "Wailmer",
           "rate": 40
         },
         {
@@ -14613,7 +14651,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Wailord",
+          "pokemon": "Wailord",
           "rate": 40
         },
         {
@@ -14623,12 +14661,12 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Shellder",
+          "pokemon": "Shellder",
           "rate": 30
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 5
         },
         {
@@ -14638,22 +14676,23 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Luvdisc",
+          "pokemon": "Luvdisc",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Octillery",
+          "pokemon": "Octillery",
           "rate": 5
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Cloyster",
+          "pokemon": "Cloyster",
           "rate": 5
         }
       ]
     },
-    "Route 14": {
+    {
+      "name": "Route 14",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -14662,37 +14701,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Duosion",
+          "pokemon": "Duosion",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kirlia",
+          "pokemon": "Kirlia",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Lombre",
+          "pokemon": "Lombre",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Shuckle",
+          "pokemon": "Shuckle",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Luxio",
+          "pokemon": "Luxio",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Carnivine",
+          "pokemon": "Carnivine",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 10
         },
         {
@@ -14702,37 +14741,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mienshao",
+          "pokemon": "Mienshao",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Beheeyem",
+          "pokemon": "Beheeyem",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Grumpig",
+          "pokemon": "Grumpig",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Drifblim",
+          "pokemon": "Drifblim",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Breloom",
+          "pokemon": "Breloom",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Tropius",
+          "pokemon": "Tropius",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Galvantula",
+          "pokemon": "Galvantula",
           "rate": 10
         },
         {
@@ -14742,7 +14781,7 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Blissey",
+          "pokemon": "Blissey",
           "rate": 25
         },
         {
@@ -14752,7 +14791,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Lumineon",
+          "pokemon": "Lumineon",
           "rate": 40
         },
         {
@@ -14762,7 +14801,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Milotic",
+          "pokemon": "Milotic",
           "rate": 40
         },
         {
@@ -14772,7 +14811,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
@@ -14782,17 +14821,18 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seaking",
+          "pokemon": "Seaking",
           "rate": 10
         }
       ]
     },
-    "Abundant Shrine": {
+    {
+      "name": "Abundant Shrine",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -14801,37 +14841,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Vulpix",
+          "pokemon": "Vulpix",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Growlithe",
+          "pokemon": "Growlithe",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Cottonee",
+          "pokemon": "Cottonee",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Petilil",
+          "pokemon": "Petilil",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Bronzor",
+          "pokemon": "Bronzor",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Murkrow",
+          "pokemon": "Murkrow",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Misdreavus",
+          "pokemon": "Misdreavus",
           "rate": 10
         },
         {
@@ -14841,37 +14881,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Bronzong",
+          "pokemon": "Bronzong",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Girafarig",
+          "pokemon": "Girafarig",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Stantler",
+          "pokemon": "Stantler",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Hypno",
+          "pokemon": "Hypno",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mightyena",
+          "pokemon": "Mightyena",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Mr. Mime",
+          "pokemon": "Mr. Mime",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Sudowoodo",
+          "pokemon": "Sudowoodo",
           "rate": 10
         },
         {
@@ -14881,27 +14921,27 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Arcanine",
+          "pokemon": "Arcanine",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Ninetales",
+          "pokemon": "Ninetales",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Whimsicott",
+          "pokemon": "Whimsicott",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Lilligant",
+          "pokemon": "Lilligant",
           "rate": 5
         },
         {
@@ -14916,7 +14956,7 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Slowbro",
+          "pokemon": "Slowbro",
           "rate": 40
         },
         {
@@ -14926,7 +14966,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
@@ -14936,20 +14976,22 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Basculin",
+          "pokemon": "Basculin",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Seaking",
+          "pokemon": "Seaking",
           "rate": 10
         }
       ]
     },
-    "Black City / White Forest": {
+    {
+      "name": "Black City / White Forest",
       "encounters": []
     },
-    "Route 15": {
+    {
+      "name": "Route 15",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -14958,37 +15000,37 @@
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Sawk",
+          "pokemon": "Sawk",
           "rate": 20
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Tyrogue",
+          "pokemon": "Tyrogue",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Graveler",
+          "pokemon": "Graveler",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Gabite",
+          "pokemon": "Gabite",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Pupitar",
+          "pokemon": "Pupitar",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Kangaskhan",
+          "pokemon": "Kangaskhan",
           "rate": 10
         },
         {
           "method": "Grass, Normal",
-          "pokemon": ", Marowak",
+          "pokemon": "Marowak",
           "rate": 10
         },
         {
@@ -14998,37 +15040,37 @@
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Gurdurr",
+          "pokemon": "Gurdurr",
           "rate": 20
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Pupitar",
+          "pokemon": "Pupitar",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Gligar",
+          "pokemon": "Gligar",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Kangaskhan",
+          "pokemon": "Kangaskhan",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Donphan",
+          "pokemon": "Donphan",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Ursaring",
+          "pokemon": "Ursaring",
           "rate": 10
         },
         {
           "method": "Grass, Doubles",
-          "pokemon": ", Marowak",
+          "pokemon": "Marowak",
           "rate": 10
         },
         {
@@ -15038,32 +15080,33 @@
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Emolga",
+          "pokemon": "Emolga",
           "rate": 10
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Tyranitar",
+          "pokemon": "Tyranitar",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Gliscor",
+          "pokemon": "Gliscor",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Machamp",
+          "pokemon": "Machamp",
           "rate": 5
         },
         {
           "method": "Grass, Special",
-          "pokemon": ", Conkeldurr",
+          "pokemon": "Conkeldurr",
           "rate": 5
         }
       ]
     },
-    "Marvelous Bridge": {
+    {
+      "name": "Marvelous Bridge",
       "encounters": [
         {
           "method": "Bridge, Special",
@@ -15072,27 +15115,28 @@
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Pelipper",
+          "pokemon": "Pelipper",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Altaria",
+          "pokemon": "Altaria",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Fearow",
+          "pokemon": "Fearow",
           "rate": 20
         },
         {
           "method": "Bridge, Special",
-          "pokemon": ", Skiploom",
+          "pokemon": "Skiploom",
           "rate": 20
         }
       ]
     },
-    "Challenger\u2019s Cave \u2013 All Floors": {
+    {
+      "name": "Challenger\u2019s Cave \u2013 All Floors",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -15101,37 +15145,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sableye",
+          "pokemon": "Sableye",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Lickitung",
+          "pokemon": "Lickitung",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Graveler",
+          "pokemon": "Graveler",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Woobat",
+          "pokemon": "Woobat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Boldore",
+          "pokemon": "Boldore",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Marowak",
+          "pokemon": "Marowak",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Hariyama",
+          "pokemon": "Hariyama",
           "rate": 10
         },
         {
@@ -15141,7 +15185,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         },
         {
@@ -15151,37 +15195,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sableye",
+          "pokemon": "Sableye",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Magneton",
+          "pokemon": "Magneton",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Golbat",
+          "pokemon": "Golbat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Wobbuffet",
+          "pokemon": "Wobbuffet",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Parasect",
+          "pokemon": "Parasect",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Marowak",
+          "pokemon": "Marowak",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Electrode",
+          "pokemon": "Electrode",
           "rate": 10
         },
         {
@@ -15191,7 +15235,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         },
         {
@@ -15201,37 +15245,37 @@
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Sableye",
+          "pokemon": "Sableye",
           "rate": 20
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Kadabra",
+          "pokemon": "Kadabra",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Golbat",
+          "pokemon": "Golbat",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Zweilous",
+          "pokemon": "Zweilous",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Medicham",
+          "pokemon": "Medicham",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Ursaring",
+          "pokemon": "Ursaring",
           "rate": 10
         },
         {
           "method": "Cave, Normal",
-          "pokemon": ", Donphan",
+          "pokemon": "Donphan",
           "rate": 10
         },
         {
@@ -15241,7 +15285,7 @@
         },
         {
           "method": "Cave, Special",
-          "pokemon": ", Dugtrio",
+          "pokemon": "Dugtrio",
           "rate": 50
         },
         {
@@ -15251,7 +15295,7 @@
         },
         {
           "method": "Surf, Normal",
-          "pokemon": ", Tentacool",
+          "pokemon": "Tentacool",
           "rate": 10
         },
         {
@@ -15261,12 +15305,12 @@
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Golduck",
+          "pokemon": "Golduck",
           "rate": 30
         },
         {
           "method": "Surf, Special",
-          "pokemon": ", Starmie",
+          "pokemon": "Starmie",
           "rate": 10
         },
         {
@@ -15276,7 +15320,7 @@
         },
         {
           "method": "Fish, Normal",
-          "pokemon": ", Poliwhirl",
+          "pokemon": "Poliwhirl",
           "rate": 10
         },
         {
@@ -15286,22 +15330,22 @@
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Gyarados",
+          "pokemon": "Gyarados",
           "rate": 30
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Poliwrath",
+          "pokemon": "Poliwrath",
           "rate": 5
         },
         {
           "method": "Fish, Special",
-          "pokemon": ", Politoed",
+          "pokemon": "Politoed",
           "rate": 5
         }
       ]
     }
-  },
+  ],
   "move_changes": {
     "bulbasaur": [],
     "ivysaur": [],
@@ -15606,5 +15650,6 @@
     "kyurem": [],
     "keldeo": [],
     "meloetta": []
-  }
+  },
+  "move_stat_changes": {}
 }

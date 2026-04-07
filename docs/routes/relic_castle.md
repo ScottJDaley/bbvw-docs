@@ -4,41 +4,41 @@
 | Method | Pokemon | Rate |
 | --- | --- | --- |
 | Sand | [Sandile](pokemon/sandile.md) | 20% |
-| Sand | [, Sandshrew](pokemon/, sandshrew.md) | 20% |
-| Sand | [, Rhyhorn](pokemon/, rhyhorn.md) | 10% |
-| Sand | [, Numel](pokemon/, numel.md) | 10% |
-| Sand | [, Golett](pokemon/, golett.md) | 10% |
-| Sand | [, Bronzor](pokemon/, bronzor.md) | 10% |
-| Sand | [, Onix](pokemon/, onix.md) | 10% |
-| Sand | [, Trapinch](pokemon/, trapinch.md) | 10% |
+| Sand | [Sandshrew](pokemon/sandshrew.md) | 20% |
+| Sand | [Rhyhorn](pokemon/rhyhorn.md) | 10% |
+| Sand | [Numel](pokemon/numel.md) | 10% |
+| Sand | [Golett](pokemon/golett.md) | 10% |
+| Sand | [Bronzor](pokemon/bronzor.md) | 10% |
+| Sand | [Onix](pokemon/onix.md) | 10% |
+| Sand | [Trapinch](pokemon/trapinch.md) | 10% |
 | Sand | [Yamask](pokemon/yamask.md) | 20% |
-| Sand | [, Gastly](pokemon/, gastly.md) | 20% |
-| Sand | [, Shuppet](pokemon/, shuppet.md) | 10% |
-| Sand | [, Duskull](pokemon/, duskull.md) | 10% |
-| Sand | [, Bronzor](pokemon/, bronzor.md) | 10% |
-| Sand | [, Elgyem](pokemon/, elgyem.md) | 10% |
-| Sand | [, Litwick](pokemon/, litwick.md) | 10% |
-| Sand | [, Beldum](pokemon/, beldum.md) | 4% |
-| Sand | [, Larvitar](pokemon/, larvitar.md) | 4% |
-| Sand | [, Larvesta](pokemon/, larvesta.md) | 2% |
+| Sand | [Gastly](pokemon/gastly.md) | 20% |
+| Sand | [Shuppet](pokemon/shuppet.md) | 10% |
+| Sand | [Duskull](pokemon/duskull.md) | 10% |
+| Sand | [Bronzor](pokemon/bronzor.md) | 10% |
+| Sand | [Elgyem](pokemon/elgyem.md) | 10% |
+| Sand | [Litwick](pokemon/litwick.md) | 10% |
+| Sand | [Beldum](pokemon/beldum.md) | 4% |
+| Sand | [Larvitar](pokemon/larvitar.md) | 4% |
+| Sand | [Larvesta](pokemon/larvesta.md) | 2% |
 | Sand | [Krokorok](pokemon/krokorok.md) | 20% |
-| Sand | [, Cofagrigus](pokemon/, cofagrigus.md) | 20% |
-| Sand | [, Vibrava](pokemon/, vibrava.md) | 10% |
-| Sand | [, Hippowdon](pokemon/, hippowdon.md) | 10% |
-| Sand | [, Sandslash](pokemon/, sandslash.md) | 10% |
-| Sand | [, Claydol](pokemon/, claydol.md) | 10% |
-| Sand | [, Sigilyph](pokemon/, sigilyph.md) | 5% |
-| Sand | [, Crustle](pokemon/, crustle.md) | 5% |
-| Sand | [, Darmanitan](pokemon/, darmanitan.md) | 5% |
-| Sand | [, Camerupt](pokemon/, camerupt.md) | 5% |
+| Sand | [Cofagrigus](pokemon/cofagrigus.md) | 20% |
+| Sand | [Vibrava](pokemon/vibrava.md) | 10% |
+| Sand | [Hippowdon](pokemon/hippowdon.md) | 10% |
+| Sand | [Sandslash](pokemon/sandslash.md) | 10% |
+| Sand | [Claydol](pokemon/claydol.md) | 10% |
+| Sand | [Sigilyph](pokemon/sigilyph.md) | 5% |
+| Sand | [Crustle](pokemon/crustle.md) | 5% |
+| Sand | [Darmanitan](pokemon/darmanitan.md) | 5% |
+| Sand | [Camerupt](pokemon/camerupt.md) | 5% |
 | Sand | [Krokorok](pokemon/krokorok.md) | 20% |
-| Sand | [, Cofagrigus](pokemon/, cofagrigus.md) | 20% |
-| Sand | [, Vibrava](pokemon/, vibrava.md) | 10% |
-| Sand | [, Hippowdon](pokemon/, hippowdon.md) | 10% |
-| Sand | [, Sandslash](pokemon/, sandslash.md) | 10% |
-| Sand | [, Claydol](pokemon/, claydol.md) | 10% |
-| Sand | [, Sigilyph](pokemon/, sigilyph.md) | 5% |
-| Sand | [, Crustle](pokemon/, crustle.md) | 5% |
-| Sand | [, Darmanitan](pokemon/, darmanitan.md) | 5% |
-| Sand | [, Camerupt](pokemon/, camerupt.md) | 5% |
+| Sand | [Cofagrigus](pokemon/cofagrigus.md) | 20% |
+| Sand | [Vibrava](pokemon/vibrava.md) | 10% |
+| Sand | [Hippowdon](pokemon/hippowdon.md) | 10% |
+| Sand | [Sandslash](pokemon/sandslash.md) | 10% |
+| Sand | [Claydol](pokemon/claydol.md) | 10% |
+| Sand | [Sigilyph](pokemon/sigilyph.md) | 5% |
+| Sand | [Crustle](pokemon/crustle.md) | 5% |
+| Sand | [Darmanitan](pokemon/darmanitan.md) | 5% |
+| Sand | [Camerupt](pokemon/camerupt.md) | 5% |
 | Sand | [Unown](pokemon/unown.md) | 100% |

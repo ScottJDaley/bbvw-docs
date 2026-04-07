@@ -4,7 +4,7 @@ import os
 import time
 
 BASE_URL = "https://pokeapi.co/api/v2"
-GEN5_MAX_POKEMON = 151
+GEN5_MAX_POKEMON = 649
 CACHE_DIR = "scripts/data/cache"
 
 if not os.path.exists(CACHE_DIR):

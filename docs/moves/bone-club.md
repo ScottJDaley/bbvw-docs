@@ -1,7 +1,7 @@
-# Bone-club
+# Bone club
 
-**Type:** Ground  
-**Category:** Physical  
+**Type:** <img src="img/types/ground.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 65  
 **Accuracy:** 85  
 **PP:** 20  

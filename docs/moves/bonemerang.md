@@ -1,7 +1,7 @@
 # Bonemerang
 
-**Type:** Ground  
-**Category:** Physical  
+**Type:** <img src="img/types/ground.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** 50  
 **Accuracy:** 90  
 **PP:** 10  

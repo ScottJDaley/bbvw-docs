@@ -1,7 +1,7 @@
-# Horn-drill
+# Horn drill
 
-**Type:** Normal  
-**Category:** Physical  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/physical.png" width="50" />  
 **Power:** -  
 **Accuracy:** 30  
 **PP:** 5  
@@ -10,6 +10,7 @@
 Causes a one-hit KO.
 
 ## Learned by
+- [Excadrill](pokemon/excadrill.md)
 - [Goldeen](pokemon/goldeen.md)
 - [Lapras](pokemon/lapras.md)
 - [Nidoran-m](pokemon/nidoran-m.md)
@@ -17,5 +18,6 @@ Causes a one-hit KO.
 - [Ponyta](pokemon/ponyta.md)
 - [Rhydon](pokemon/rhydon.md)
 - [Rhyhorn](pokemon/rhyhorn.md)
+- [Rhyperior](pokemon/rhyperior.md)
 - [Seaking](pokemon/seaking.md)
 - [Seel](pokemon/seel.md)

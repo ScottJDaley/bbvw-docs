@@ -33,6 +33,7 @@
       text-transform: capitalize;
       margin-right: 5px;
       font-size: 0.9em;
+      border: 1px solid rgba(0,0,0,0.1);
     }
     .type-normal { background: #A8A878; }
     .type-fire { background: #F08030; }
@@ -64,18 +65,33 @@
     .stat-bar-bg {
       background: #eee;
       width: 100%;
+      max-width: 300px;
       height: 15px;
       border-radius: 10px;
       overflow: hidden;
+      border: 1px solid #ddd;
     }
     .stat-bar-fill {
       height: 100%;
-      background: #4caf50;
+      background: linear-gradient(to right, #ff7f0e, #4caf50);
     }
     
     .change-new { color: #2e7d32; font-weight: bold; }
-    .change-old { color: #c62828; text-decoration: line-through; font-size: 0.9em; }
+    .change-old { color: #c62828; text-decoration: line-through; font-size: 0.9em; margin-left: 5px; }
     .change-delta { font-size: 0.8em; color: #666; margin-left: 5px; }
+    .change-new-label { 
+      background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; 
+    }
+    .change-old-lv { color: #c62828; text-decoration: line-through; font-size: 0.8em; }
+
+    /* Dark Mode overrides */
+    body.dark {
+      --docsifytabs-tab-background: #222;
+      --docsifytabs-border-color: #444;
+    }
+    body.dark .stat-bar-bg { background: #444; border-color: #555; }
+    body.dark .change-new { color: #81c784; }
+    body.dark .change-old { color: #e57373; }
   </style>
 
 </head>
@@ -95,6 +111,42 @@
         placeholder: 'Search Pokemon or Routes...',
         noData: 'No results!',
         depth: 6
+      },
+      darklightTheme: {
+        siteFont: 'PT Sans',
+        defaultTheme: 'light',
+        codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize: '17px',
+        dark: {
+          accent: '#42b983',
+          toogleBackground: '#ffffff',
+          background: '#091a28',
+          textColor: '#b0b1b1',
+          codeTextColor: '#ffffff',
+          codeBackgroundColor: '#0e2233',
+          borderColor: '#0d2538',
+          blockQuoteColor: '#858585',
+          highlightColor: '#d22778',
+          sidebarSubColor: '#b0b1b1',
+          codeTypeColor: '#ffffff',
+          coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+        },
+        light: {
+          accent: '#42b983',
+          toogleBackground: '#091a28',
+          background: '#ffffff',
+          textColor: '#34495e',
+          codeTextColor: '#525252',
+          codeBackgroundColor: '#f8f8f8',
+          borderColor: 'rgba(0, 0, 0, 0.07)',
+          blockQuoteColor: '#858585',
+          highlightColor: '#d22778',
+          sidebarSubColor: '#b0b1b1',
+          codeTypeColor: '#091a28',
+          coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+        }
       }
     };
   </script>
@@ -102,9 +154,11 @@
   <!-- Required -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-  <!-- Recommended -->
+  <!-- Plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
 
 </body>
 </html>

@@ -1,7 +1,7 @@
-# Guard-swap
+# Guard swap
 
-**Type:** Psychic  
-**Category:** Status  
+**Type:** <img src="img/types/psychic.png" width="60" />  
+**Category:** <img src="img/types/status.png" width="50" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 10  
@@ -12,5 +12,14 @@ User swaps Defense and Special Defense changes with the target.
 ## Learned by
 - [Abra](pokemon/abra.md)
 - [Drowzee](pokemon/drowzee.md)
+- [Elgyem](pokemon/elgyem.md)
+- [Girafarig](pokemon/girafarig.md)
+- [Mawile](pokemon/mawile.md)
+- [Meditite](pokemon/meditite.md)
 - [Mewtwo](pokemon/mewtwo.md)
 - [Mr-mime](pokemon/mr-mime.md)
+- [Natu](pokemon/natu.md)
+- [Shelmet](pokemon/shelmet.md)
+- [Skarmory](pokemon/skarmory.md)
+- [Umbreon](pokemon/umbreon.md)
+- [Xatu](pokemon/xatu.md)

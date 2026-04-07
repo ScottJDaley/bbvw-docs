@@ -1,7 +1,7 @@
-# Spit-up
+# Spit up
 
-**Type:** Normal  
-**Category:** Special  
+**Type:** <img src="img/types/normal.png" width="60" />  
+**Category:** <img src="img/types/special.png" width="50" />  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 10  
@@ -11,8 +11,28 @@ Power is 100 times the amount of energy Stockpiled.
 
 ## Learned by
 - [Arbok](pokemon/arbok.md)
+- [Carnivine](pokemon/carnivine.md)
+- [Cradily](pokemon/cradily.md)
+- [Drifblim](pokemon/drifblim.md)
+- [Drifloon](pokemon/drifloon.md)
 - [Ekans](pokemon/ekans.md)
 - [Grimer](pokemon/grimer.md)
+- [Gulpin](pokemon/gulpin.md)
+- [Heatmor](pokemon/heatmor.md)
+- [Hippopotas](pokemon/hippopotas.md)
 - [Koffing](pokemon/koffing.md)
+- [Lanturn](pokemon/lanturn.md)
+- [Lileep](pokemon/lileep.md)
+- [Mawile](pokemon/mawile.md)
+- [Numel](pokemon/numel.md)
+- [Pelipper](pokemon/pelipper.md)
+- [Qwilfish](pokemon/qwilfish.md)
 - [Seel](pokemon/seel.md)
+- [Seviper](pokemon/seviper.md)
+- [Shellos](pokemon/shellos.md)
+- [Slugma](pokemon/slugma.md)
+- [Spheal](pokemon/spheal.md)
+- [Swalot](pokemon/swalot.md)
+- [Turtwig](pokemon/turtwig.md)
 - [Victreebel](pokemon/victreebel.md)
+- [Wooper](pokemon/wooper.md)
