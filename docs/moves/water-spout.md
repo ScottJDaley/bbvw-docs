@@ -1,7 +1,7 @@
 # Water spout
 
 **Type:** <img src="img/types/water.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 150  
 **Accuracy:** 100  
 **PP:** 5  

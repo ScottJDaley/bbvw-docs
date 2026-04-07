@@ -9,13 +9,20 @@
 **Base Game:** Level 30  
 
 ## Abilities
-- <span class="change-new-label">NEW</span> **[Forewarn](abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle.
-- <span class="change-new-label">NEW</span> **[Simple](abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages.
+| Slot | Original | New |
+| --- | --- | --- |
+| Ability 1 | **[Oblivious](abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Forewarn](abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. |
+| Ability 2 | **[Anticipation](abilities/anticipation.md)**: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | **[Simple](abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
 ## Type Defenses
-| Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
-| --- | --- | --- |
-| <img src="img/types/grass.png" width="40" /> x4.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
+| Type | Effectiveness |
+| --- | --- |
+| <img src='img/types/grass.png' width='40' /> | x4.0 |
+| <img src='img/types/fire.png' width='40' /> | x0.5 |
+| <img src='img/types/poison.png' width='40' /> | x0.5 |
+| <img src='img/types/rock.png' width='40' /> | x0.5 |
+| <img src='img/types/steel.png' width='40' /> | x0.5 |
+| <img src='img/types/electric.png' width='40' /> | x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -27,58 +34,71 @@
 | Special defense | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.5%"></div></div> |
 | Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
+## Locations
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Wellspring Cave 1F](routes/wellspring_cave_1f.md) | Surf, Normal | 60% |
+| [Wellspring Cave 1F](routes/wellspring_cave_1f.md) | Surf, Special | 60% |
+| [Wellspring Cave 1F](routes/wellspring_cave_1f.md) | Fish, Normal | 100% |
+| [Icirrus City, Route 8](routes/icirrus_city,_route_8.md) | Surf, Special | 60% |
+| [Icirrus City, Route 8](routes/icirrus_city,_route_8.md) | Fish, Special | 10% |
+| [Moor of Icirrus](routes/moor_of_icirrus.md) | Surf, Special | 60% |
+| [Moor of Icirrus](routes/moor_of_icirrus.md) | Fish, Special | 10% |
+| [Victory Road](routes/victory_road.md) | Fish, Normal | 10% |
+| [Victory Road](routes/victory_road.md) | Fish, Special | 10% |
+
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud slap](moves/mud-slap.md) | <img src="img/types/special.png" width="30" alt="special" /> | 20 | 100 | 10 |
-| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud sport](moves/mud-sport.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tickle](moves/tickle.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Water sport](moves/water-sport.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
-| 10 | <img src="img/types/water.png" width="40" alt="water" /> | [Water gun](moves/water-gun.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 14 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud bomb](moves/mud-bomb.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 85 | 10 |
-| 18 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Amnesia](moves/amnesia.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 22 | <img src="img/types/water.png" width="40" alt="water" /> | [Water pulse](moves/water-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 20 |
-| 26 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Magnitude](moves/magnitude.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 30 |
-| 33 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Rest](moves/rest.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 15 |
-| 39 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua tail](moves/aqua-tail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 90 | 10 |
-| 45 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earthquake](moves/earthquake.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 100 | 10 |
-| 51 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Future sight](moves/future-sight.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
-| 57 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Fissure](moves/fissure.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
+| Level | Type | Move | Cat | Power | Acc | PP | Change |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud slap](moves/mud-slap.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 20 | 100 | 10 |  |
+| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud sport](moves/mud-sport.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |  |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tickle](moves/tickle.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 20 |  |
+| 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Water sport](moves/water-sport.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |  |
+| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 90 | 15 |  |
+| 10 | <img src="img/types/water.png" width="40" alt="water" /> | [Water gun](moves/water-gun.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 40 | 100 | 25 |  |
+| 14 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud bomb](moves/mud-bomb.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 65 | 85 | 10 |  |
+| 18 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Amnesia](moves/amnesia.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |  |
+| 22 | <img src="img/types/water.png" width="40" alt="water" /> | [Water pulse](moves/water-pulse.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 20 |  |
+| 26 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Magnitude](moves/magnitude.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 30 |  |
+| 33 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Rest](moves/rest.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |  |
+| 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |  |
+| 39 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua tail](moves/aqua-tail.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 90 | 90 | 10 |  |
+| 45 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earthquake](moves/earthquake.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 100 | 10 |  |
+| 51 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Future sight](moves/future-sight.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 120 | 100 | 10 |  |
+| 57 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Fissure](moves/fissure.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 30 | 5 |  |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Attract](moves/attract.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| <img src="img/types/ice.png" width="40" alt="ice" /> | [Blizzard](moves/blizzard.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 5 |
-| <img src="img/types/flying.png" width="40" alt="flying" /> | [Bounce](moves/bounce.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 85 | 85 | 5 |
-| <img src="img/types/ground.png" width="40" alt="ground" /> | [Bulldoze](moves/bulldoze.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [Dive](moves/dive.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Facade](moves/facade.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Frustration](moves/frustration.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Giga impact](moves/giga-impact.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 150 | 90 | 5 |
-| <img src="img/types/ice.png" width="40" alt="ice" /> | [Hail](moves/hail.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Hyper beam](moves/hyper-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 150 | 90 | 5 |
-| <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice beam](moves/ice-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| <img src="img/types/ice.png" width="40" alt="ice" /> | [Icy wind](moves/icy-wind.md) | <img src="img/types/special.png" width="30" alt="special" /> | 55 | 95 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Return](moves/return.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock slide](moves/rock-slide.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 90 | 10 |
-| <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Rock smash](moves/rock-smash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 15 |
-| <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 95 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Round](moves/round.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
-| <img src="img/types/rock.png" width="40" alt="rock" /> | [Sandstorm](moves/sandstorm.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [Scald](moves/scald.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| <img src="img/types/rock.png" width="40" alt="rock" /> | [Stone edge](moves/stone-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 80 | 5 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Strength](moves/strength.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [Surf](moves/surf.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 15 |
-| <img src="img/types/poison.png" width="40" alt="poison" /> | [Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 90 | 10 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [Waterfall](moves/waterfall.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Attract](moves/attract.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
+| <img src="img/types/ice.png" width="40" alt="ice" /> | [TM?? Blizzard](moves/blizzard.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 110 | 70 | 5 |
+| <img src="img/types/flying.png" width="40" alt="flying" /> | [Bounce](moves/bounce.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 85 | 85 | 5 |
+| <img src="img/types/ground.png" width="40" alt="ground" /> | [TM?? Bulldoze](moves/bulldoze.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [TM?? Dive](moves/dive.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
+| <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Facade](moves/facade.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Frustration](moves/frustration.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Giga impact](moves/giga-impact.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 150 | 90 | 5 |
+| <img src="img/types/ice.png" width="40" alt="ice" /> | [TM?? Hail](moves/hail.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Hyper beam](moves/hyper-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 150 | 90 | 5 |
+| <img src="img/types/ice.png" width="40" alt="ice" /> | [TM?? Ice beam](moves/ice-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
+| <img src="img/types/ice.png" width="40" alt="ice" /> | [Icy wind](moves/icy-wind.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Protect](moves/protect.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [TM?? Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Return](moves/return.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [TM?? Rock slide](moves/rock-slide.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 75 | 90 | 10 |
+| <img src="img/types/fighting.png" width="40" alt="fighting" /> | [TM?? Rock smash](moves/rock-smash.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [TM?? Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 95 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Round](moves/round.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [TM?? Sandstorm](moves/sandstorm.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [TM?? Scald](moves/scald.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/rock.png" width="40" alt="rock" /> | [TM?? Stone edge](moves/stone-edge.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 80 | 5 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Strength](moves/strength.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [TM?? Surf](moves/surf.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [TM?? Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 85 | 15 |
+| <img src="img/types/poison.png" width="40" alt="poison" /> | [TM?? Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 90 | 10 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [TM?? Waterfall](moves/waterfall.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |

@@ -21367,32 +21367,6 @@
         ]
       },
       {
-        "name": "Rival Cheren \u2013 1",
-        "pokemon": [
-          {
-            "name": "Snivy",
-            "level": "5",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Oshawott",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Tepig",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          }
-        ]
-      },
-      {
         "name": "Rival Bianca \u2013 Final",
         "pokemon": [
           {
@@ -21437,34 +21411,6 @@
         ]
       }
     ],
-    "Striaton City": [
-      {
-        "name": "Rival Cheren \u2013 2",
-        "pokemon": [
-          {
-            "name": "Starly",
-            "level": "11",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          }
-        ]
-      }
-    ],
-    "Route 3": [
-      {
-        "name": "Rival Cheren \u2013 3",
-        "pokemon": [
-          {
-            "name": "Staravia",
-            "level": "14",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          }
-        ]
-      }
-    ],
     "Nacrene City": [
       {
         "name": "PKMN Trainer N \u2013 2",
@@ -21493,20 +21439,6 @@
         ]
       }
     ],
-    "Route 4": [
-      {
-        "name": "Rival Cheren \u2013 4",
-        "pokemon": [
-          {
-            "name": "Staravia",
-            "level": "31",
-            "item": "Sharp Beak",
-            "ability": "-",
-            "moves": []
-          }
-        ]
-      }
-    ],
     "Nimbasa City": [
       {
         "name": "PKMN Trainer N \u2013 3",
@@ -21515,20 +21447,6 @@
             "name": "Hippopotas",
             "level": "33",
             "item": "-",
-            "ability": "-",
-            "moves": []
-          }
-        ]
-      }
-    ],
-    "Route 5": [
-      {
-        "name": "Rival Cheren \u2013 5",
-        "pokemon": [
-          {
-            "name": "Staraptor",
-            "level": "36",
-            "item": "Sharp Beak",
             "ability": "-",
             "moves": []
           }
@@ -21563,24 +21481,6 @@
         ]
       }
     ],
-    "Twist Mountain": [
-      {
-        "name": "Rival Cheren \u2013 6",
-        "pokemon": [
-          {
-            "name": "Staraptor",
-            "level": "53",
-            "item": "Sharp Beak",
-            "ability": "-",
-            "moves": [
-              "Brave Bird",
-              "Close Combat",
-              "Retaliate"
-            ]
-          }
-        ]
-      }
-    ],
     "Route 8": [
       {
         "name": "Rival Bianca \u2013 5",
@@ -21601,35 +21501,46 @@
     ],
     "Route 10": [
       {
-        "name": "Rival Cheren \u2013 7",
+        "name": "PKMN Trainer N \u2013 Final",
         "pokemon": [
           {
-            "name": "Staraptor",
-            "level": "66",
-            "item": "Sharp Beak",
+            "name": "Zoroark",
+            "level": "73",
+            "item": "Dark Gem",
             "ability": "-",
             "moves": [
-              "Brave Bird",
-              "Close Combat",
-              "Double-Edge"
+              "Night Daze"
             ]
           }
         ]
-      }
-    ],
-    "Victory Road": [
+      },
       {
-        "name": "Rival Cheren \u2013 Final",
+        "name": "PKMN Trainer N \u2013 Final",
         "pokemon": [
           {
-            "name": "Staraptor",
-            "level": "88",
-            "item": "Life Orb",
+            "name": "Zoroark",
+            "level": "73",
+            "item": "Dark Gem",
             "ability": "-",
             "moves": [
-              "Brave Bird",
-              "Close Combat",
-              "Double-Edge"
+              "Night Daze"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Team Plasma Ghetsis",
+        "pokemon": [
+          {
+            "name": "Drapion",
+            "level": "75",
+            "item": "Scope Lens",
+            "ability": "-",
+            "moves": [
+              "Night Slash",
+              "Cross Poison",
+              "Storm Throw*",
+              "Toxic Spikes"
             ]
           }
         ]

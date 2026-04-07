@@ -1,7 +1,7 @@
 # Clear smog
 
 **Type:** <img src="img/types/poison.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 50  
 **Accuracy:** -  
 **PP:** 15  

@@ -1,7 +1,7 @@
 # Dynamic punch
 
 **Type:** <img src="img/types/fighting.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 100  
 **Accuracy:** 50  
 **PP:** 5  

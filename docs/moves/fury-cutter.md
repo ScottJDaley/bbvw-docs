@@ -1,7 +1,7 @@
 # Fury cutter
 
 **Type:** <img src="img/types/bug.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 40  
 **Accuracy:** 95  
 **PP:** 20  

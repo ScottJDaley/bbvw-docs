@@ -1,7 +1,7 @@
 # Trick
 
 **Type:** <img src="img/types/psychic.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" />  
+**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 10  

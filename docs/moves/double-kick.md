@@ -1,7 +1,7 @@
 # Double kick
 
 **Type:** <img src="img/types/fighting.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 30  
 **Accuracy:** 100  
 **PP:** 30  

@@ -95,12 +95,16 @@ def parse_wild_pokemon():
         
         route_name = ""
         header_idx = -1
+        # Better route name extraction
         for i, line in enumerate(lines):
             line = line.strip()
-            if line and line != "Wild Pokémon" and "Recall that" not in line and "Serebii.net" not in line and "649" not in line:
-                route_name = line
-                header_idx = i
-                break
+            # If it's a known non-route header, skip
+            if not line or line == "Wild Pokémon" or "Recall that" in line or "Serebii.net" in line or "649" in line or "Note that" in line:
+                continue
+            # First non-empty line that isn't fluff is likely the route name
+            route_name = line
+            header_idx = i
+            break
         
         if not route_name: continue
         
@@ -112,7 +116,8 @@ def parse_wild_pokemon():
             if enc_match:
                 method = enc_match.group(1).strip()
                 pkmn_list = enc_match.group(2).strip()
-                pkmns = re.findall(r'([^(,]+)\s+\((\d+)%\)', pkmn_list)
+                # Use a regex that allows for spaces and symbols in names
+                pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
                 for pkmn, rate in pkmns:
                     route_data['encounters'].append({
                         'method': method,
@@ -151,6 +156,9 @@ def parse_move_changes():
         for line in lines[1:]:
             line = line.strip()
             if not line: continue
+            # Handle both formats:
+            # + Level 66 - Outrage
+            # + Belly Drum - Level 50
             move_match = re.match(r'([+\-=])\s+Level\s+(\d+)\s+-\s+(.+)', line)
             if move_match:
                 marker = move_match.group(1)
@@ -173,60 +181,82 @@ def parse_trainers():
     with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
     
-    entries = re.split(r'\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak)', content)
+    # Improved split to avoid missing entries
+    entries = re.split(r'\n\s*\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak|N’s Team|Bianca’s Team|Cheren’s Team)', content)
     
+    current_trainer = None
+    current_location = None
+
     for entry in entries:
         lines = entry.strip().split('\n')
         if not lines: continue
         
-        name = lines[0].strip()
-        location = ""
-        for line in lines:
-            if 'Location:' in line:
-                location = line.replace('Location:', '').strip()
-                break
+        header = lines[0].strip()
         
-        if not location: continue
+        # Look for location info
+        loc_match = re.search(r'Location:\s+(.+)', entry)
+        if loc_match:
+            current_location = loc_match.group(1).strip()
         
-        trainer_data = {'name': name, 'pokemon': []}
-        species = re.findall(r'Species\|([^|]+)', entry)
-        levels = re.findall(r'Level\|([^|]+)', entry)
-        items = re.findall(r'Item\|([^|]+)', entry)
-        abilities = re.findall(r'Ability\|([^|]+)', entry)
-        moves1 = re.findall(r'Move #1\|([^|]+)', entry)
-        moves2 = re.findall(r'Move #2\|([^|]+)', entry)
-        moves3 = re.findall(r'Move #3\|([^|]+)', entry)
-        moves4 = re.findall(r'Move #4\|([^|]+)', entry)
+        # If it's a trainer header
+        if any(x in header for x in ["Rival", "Gym Leader", "PKMN Trainer", "Elite Four", "Team Plasma", "Champion", "GAME Freak"]):
+            current_trainer = header
+            # Sometimes location is listed right after the trainer name or in the name itself
+            if "–" in header and not current_location:
+                parts = header.split("–")
+                if len(parts) > 1:
+                    # Check if the second part looks like a location (e.g., Route 3)
+                    if any(x in parts[1] for x in ["Route", "Town", "City", "Gym"]):
+                        current_location = parts[1].strip()
 
-        def split_list(match):
-            if not match: return []
-            return [x.strip() for x in match[0].strip().split('\n') if x.strip()]
+        # If it's a team table section
+        if "Team" in header and current_location:
+            trainer_name = current_trainer if current_trainer else header
+            trainer_data = {'name': trainer_name, 'pokemon': []}
+            
+            species = re.findall(r'Species\|([^|]+)', entry)
+            levels = re.findall(r'Level\|([^|]+)', entry)
+            items = re.findall(r'Item\|([^|]+)', entry)
+            abilities = re.findall(r'Ability\|([^|]+)', entry)
+            moves1 = re.findall(r'Move #1\|([^|]+)', entry)
+            moves2 = re.findall(r'Move #2\|([^|]+)', entry)
+            moves3 = re.findall(r'Move #3\|([^|]+)', entry)
+            moves4 = re.findall(r'Move #4\|([^|]+)', entry)
 
-        s_list = split_list(species)
-        l_list = split_list(levels)
-        i_list = split_list(items)
-        a_list = split_list(abilities)
-        m1_list = split_list(moves1)
-        m2_list = split_list(moves2)
-        m3_list = split_list(moves3)
-        m4_list = split_list(moves4)
+            def split_list(match):
+                if not match: return []
+                # Handle multi-line species or joined by spaces
+                raw = match[0].strip()
+                items = [x.strip() for x in raw.split('\n') if x.strip()]
+                if len(items) == 1 and ' ' in raw: # Fallback for space-separated
+                    items = [x.strip() for x in raw.split('  ') if x.strip()]
+                return items
 
-        for j in range(len(s_list)):
-            p_data = {
-                'name': s_list[j],
-                'level': l_list[j] if j < len(l_list) else "?",
-                'item': i_list[j] if j < len(i_list) else "-",
-                'ability': a_list[j] if j < len(a_list) else "-",
-                'moves': []
-            }
-            if j < len(m1_list): p_data['moves'].append(m1_list[j])
-            if j < len(m2_list): p_data['moves'].append(m2_list[j])
-            if j < len(m3_list): p_data['moves'].append(m3_list[j])
-            if j < len(m4_list): p_data['moves'].append(m4_list[j])
-            trainer_data['pokemon'].append(p_data)
-        
-        if location not in trainers: trainers[location] = []
-        trainers[location].append(trainer_data)
+            s_list = split_list(species)
+            l_list = split_list(levels)
+            i_list = split_list(items)
+            a_list = split_list(abilities)
+            m1_list = split_list(moves1)
+            m2_list = split_list(moves2)
+            m3_list = split_list(moves3)
+            m4_list = split_list(moves4)
+
+            for j in range(len(s_list)):
+                p_data = {
+                    'name': s_list[j],
+                    'level': l_list[j] if j < len(l_list) else "?",
+                    'item': i_list[j] if j < len(i_list) else "-",
+                    'ability': a_list[j] if j < len(a_list) else "-",
+                    'moves': []
+                }
+                if j < len(m1_list): p_data['moves'].append(m1_list[j])
+                if j < len(m2_list): p_data['moves'].append(m2_list[j])
+                if j < len(m3_list): p_data['moves'].append(m3_list[j])
+                if j < len(m4_list): p_data['moves'].append(m4_list[j])
+                trainer_data['pokemon'].append(p_data)
+            
+            if current_location not in trainers: trainers[current_location] = []
+            trainers[current_location].append(trainer_data)
         
     return trainers
 

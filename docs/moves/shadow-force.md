@@ -1,7 +1,7 @@
 # Shadow force
 
 **Type:** <img src="img/types/ghost.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 5  

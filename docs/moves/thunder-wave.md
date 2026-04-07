@@ -1,7 +1,7 @@
 # Thunder wave
 
 **Type:** <img src="img/types/electric.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" />  
+**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** 90  
 **PP:** 20  

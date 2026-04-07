@@ -1,7 +1,7 @@
 # Ice punch
 
 **Type:** <img src="img/types/ice.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 75  
 **Accuracy:** 100  
 **PP:** 15  

@@ -1,7 +1,7 @@
 # Aurora beam
 
 **Type:** <img src="img/types/ice.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 20  

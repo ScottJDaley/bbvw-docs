@@ -1,7 +1,7 @@
 # Giga impact
 
 **Type:** <img src="img/types/normal.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

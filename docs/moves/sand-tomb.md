@@ -1,7 +1,7 @@
 # Sand tomb
 
 **Type:** <img src="img/types/ground.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 35  
 **Accuracy:** 85  
 **PP:** 15  

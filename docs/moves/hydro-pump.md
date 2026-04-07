@@ -1,7 +1,7 @@
 # Hydro pump
 
 **Type:** <img src="img/types/water.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 110  
 **Accuracy:** 80  
 **PP:** 5  

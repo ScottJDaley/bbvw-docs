@@ -9,13 +9,19 @@
 **Base Game:** First Stage  
 
 ## Abilities
-- **[Levitate](abilities/levitate.md)**: Evades ground moves.
-- **[Levitate](abilities/levitate.md)**: Evades ground moves.
+| Slot | Original | New |
+| --- | --- | --- |
+| Ability 1 | **[Levitate](abilities/levitate.md)**: Evades ground moves. | **[Levitate](abilities/levitate.md)**: Evades ground moves. |
+| Ability 2 | - | **[Levitate](abilities/levitate.md)**: Evades ground moves. |
 
 ## Type Defenses
-| Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
-| --- | --- | --- |
-| <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5 |  |
+| Type | Effectiveness |
+| --- | --- |
+| <img src='img/types/bug.png' width='40' /> | x2.0 |
+| <img src='img/types/ghost.png' width='40' /> | x2.0 |
+| <img src='img/types/dark.png' width='40' /> | x2.0 |
+| <img src='img/types/fighting.png' width='40' /> | x0.5 |
+| <img src='img/types/psychic.png' width='40' /> | x0.5 |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -27,15 +33,21 @@
 | Special defense | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.0%"></div></div> |
 | Speed | <span class="change-new">88</span> <span class="change-old">48</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.0%"></div></div> |
 
+## Locations
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Relic Castle](routes/relic_castle.md) | Sand | 100% |
+
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- | --- |
-| <span class="change-new-label">NEW</span> 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Secret power](moves/secret-power.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| <span class="change-new-label">NEW</span> 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Nature power](moves/nature-power.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| <span class="change-new-label">NEW</span> 31 | - | Ancientpower | - | - | - | - | - |
-| <span class="change-new-label">NEW</span> 41 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](moves/cosmic-power.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| <span class="change-new-label">NEW</span> 51 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| <span class="change-new-label">NEW</span> 61 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Stored power](moves/stored-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 20 | 100 | 10 |
+| Level | Type | Move | Cat | Power | Acc | PP | Change |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
+| 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Secret power](moves/secret-power.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 | <span class="change-new-label">NEW</span> |
+| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Nature power](moves/nature-power.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span class="change-new-label">NEW</span> |
+| 31 | - | Ancientpower | - | - | - | - | - | <span class="change-new-label">NEW</span> |
+| 41 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](moves/cosmic-power.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span class="change-new-label">NEW</span> |
+| 51 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 | <span class="change-new-label">NEW</span> |
+| 61 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Stored power](moves/stored-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 20 | 100 | 10 | <span class="change-new-label">NEW</span> |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

@@ -1,7 +1,7 @@
 # Grass pledge
 
 **Type:** <img src="img/types/grass.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  

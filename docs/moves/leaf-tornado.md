@@ -1,7 +1,7 @@
 # Leaf tornado
 
 **Type:** <img src="img/types/grass.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" />  
+**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 65  
 **Accuracy:** 90  
 **PP:** 10  

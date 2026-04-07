@@ -1,7 +1,7 @@
 # Rock tomb
 
 **Type:** <img src="img/types/rock.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" />  
+**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 60  
 **Accuracy:** 95  
 **PP:** 15  
