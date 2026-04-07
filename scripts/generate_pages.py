@@ -134,13 +134,13 @@ if __name__ == "__main__":
     base, romhack = load_data()
     
     # 1. Pokemon
-    if not os.path.exists("pokemon"): os.makedirs("pokemon")
+    if not os.path.exists("docs/pokemon"): os.makedirs("docs/pokemon")
     for name in base['pokemon']:
         md = generate_pokemon_page(name, base['pokemon'], romhack, base['moves'], base['abilities'])
-        with open(os.path.join("pokemon", f"{name}.md"), 'w') as f: f.write(md)
+        with open(os.path.join("docs/pokemon", f"{name}.md"), 'w') as f: f.write(md)
     
     # 2. Moves
-    if not os.path.exists("moves"): os.makedirs("moves")
+    if not os.path.exists("docs/moves"): os.makedirs("docs/moves")
     move_to_pokemon = {}
     for p_name, p_data in base['pokemon'].items():
         for m in p_data['moves']:
@@ -149,10 +149,10 @@ if __name__ == "__main__":
             
     for m_name, m_info in base['moves'].items():
         md = generate_move_page(m_name, m_info, move_to_pokemon.get(m_name, []))
-        with open(os.path.join("moves", f"{m_name}.md"), 'w') as f: f.write(md)
+        with open(os.path.join("docs/moves", f"{m_name}.md"), 'w') as f: f.write(md)
         
     # 3. Abilities
-    if not os.path.exists("abilities"): os.makedirs("abilities")
+    if not os.path.exists("docs/abilities"): os.makedirs("docs/abilities")
     ability_to_pokemon = {}
     for p_name, p_data in base['pokemon'].items():
         for a in p_data['abilities']:
@@ -161,18 +161,18 @@ if __name__ == "__main__":
             
     for a_name, a_info in base['abilities'].items():
         md = generate_ability_page(a_name, a_info, ability_to_pokemon.get(a_name, []))
-        with open(os.path.join("abilities", f"{a_name}.md"), 'w') as f: f.write(md)
+        with open(os.path.join("docs/abilities", f"{a_name}.md"), 'w') as f: f.write(md)
         
     # 4. Routes
-    if not os.path.exists("routes"): os.makedirs("routes")
+    if not os.path.exists("docs/routes"): os.makedirs("docs/routes")
     for r_name, r_data in romhack['wild_pokemon'].items():
         md = generate_route_page(r_name, r_data)
         # Normalize filename
         fname = r_name.lower().replace(' ', '_').replace('’', '').replace("'", "").replace('/', '_')
-        with open(os.path.join("routes", f"{fname}.md"), 'w') as f: f.write(md)
+        with open(os.path.join("docs/routes", f"{fname}.md"), 'w') as f: f.write(md)
         
     # 5. Sidebar
-    with open("_sidebar.md", 'w') as f:
+    with open("docs/_sidebar.md", 'w') as f:
         f.write("- [Home](README.md)\n")
         f.write("- Pokemon\n")
         for name in sorted(base['pokemon'].keys()):
