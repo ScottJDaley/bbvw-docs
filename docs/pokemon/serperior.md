@@ -7,7 +7,7 @@ Original: <img src="img/types/grass.png" width="60" />
 New: <img src="img/types/grass.png" width="60" /> <img src="img/types/dragon.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 36  
 
 ## Abilities
 - **[Overgrow](abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x4.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-water">water</span> x0.25, <span class="type-badge type-electric">electric</span> x0.25, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/ice.png" width="40" /> x4.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.25, <img src="img/types/electric.png" width="40" /> x0.25, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">82</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.55555555555556%"></div></div> |
-| Attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 113 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.77777777777778%"></div></div> |
+| Hp | <span class="change-new">82</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.0%"></div></div> |
+| Attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 113 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.49999999999999%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

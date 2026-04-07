@@ -1,27 +1,27 @@
 # Route 15
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Grass, Normal | [Throh](pokemon/throh.md) | 20% |
-| Grass, Normal | [Sawk](pokemon/sawk.md) | 20% |
-| Grass, Normal | [Tyrogue](pokemon/tyrogue.md) | 10% |
-| Grass, Normal | [Graveler](pokemon/graveler.md) | 10% |
-| Grass, Normal | [Gabite](pokemon/gabite.md) | 10% |
-| Grass, Normal | [Pupitar](pokemon/pupitar.md) | 10% |
-| Grass, Normal | [Kangaskhan](pokemon/kangaskhan.md) | 10% |
-| Grass, Normal | [Marowak](pokemon/marowak.md) | 10% |
-| Grass, Doubles | [Machoke](pokemon/machoke.md) | 20% |
-| Grass, Doubles | [Gurdurr](pokemon/gurdurr.md) | 20% |
-| Grass, Doubles | [Pupitar](pokemon/pupitar.md) | 10% |
-| Grass, Doubles | [Gligar](pokemon/gligar.md) | 10% |
-| Grass, Doubles | [Kangaskhan](pokemon/kangaskhan.md) | 10% |
-| Grass, Doubles | [Donphan](pokemon/donphan.md) | 10% |
-| Grass, Doubles | [Ursaring](pokemon/ursaring.md) | 10% |
-| Grass, Doubles | [Marowak](pokemon/marowak.md) | 10% |
-| Grass, Special | [Audino](pokemon/audino.md) | 70% |
-| Grass, Special | [Emolga](pokemon/emolga.md) | 10% |
-| Grass, Special | [Tyranitar](pokemon/tyranitar.md) | 5% |
-| Grass, Special | [Gliscor](pokemon/gliscor.md) | 5% |
-| Grass, Special | [Machamp](pokemon/machamp.md) | 5% |
-| Grass, Special | [Conkeldurr](pokemon/conkeldurr.md) | 5% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/538.png" width="40" /> | [Throh](pokemon/throh.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/539.png" width="40" /> | [Sawk](pokemon/sawk.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/236.png" width="40" /> | [Tyrogue](pokemon/tyrogue.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/075.png" width="40" /> | [Graveler](pokemon/graveler.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/444.png" width="40" /> | [Gabite](pokemon/gabite.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/247.png" width="40" /> | [Pupitar](pokemon/pupitar.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/115.png" width="40" /> | [Kangaskhan](pokemon/kangaskhan.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/105.png" width="40" /> | [Marowak](pokemon/marowak.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/067.png" width="40" /> | [Machoke](pokemon/machoke.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/533.png" width="40" /> | [Gurdurr](pokemon/gurdurr.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/247.png" width="40" /> | [Pupitar](pokemon/pupitar.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/207.png" width="40" /> | [Gligar](pokemon/gligar.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/115.png" width="40" /> | [Kangaskhan](pokemon/kangaskhan.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/232.png" width="40" /> | [Donphan](pokemon/donphan.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/217.png" width="40" /> | [Ursaring](pokemon/ursaring.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/105.png" width="40" /> | [Marowak](pokemon/marowak.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/531.png" width="40" /> | [Audino](pokemon/audino.md) | 70% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/587.png" width="40" /> | [Emolga](pokemon/emolga.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/248.png" width="40" /> | [Tyranitar](pokemon/tyranitar.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/472.png" width="40" /> | [Gliscor](pokemon/gliscor.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/068.png" width="40" /> | [Machamp](pokemon/machamp.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/534.png" width="40" /> | [Conkeldurr](pokemon/conkeldurr.md) | 5% |

@@ -6,26 +6,26 @@
 <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
-- **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
+- <span class="change-new-label">NEW</span> **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Hp | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

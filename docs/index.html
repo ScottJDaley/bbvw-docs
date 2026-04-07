@@ -64,8 +64,7 @@
     }
     .stat-bar-bg {
       background: #eee;
-      width: 100%;
-      max-width: 300px;
+      width: 300px;
       height: 15px;
       border-radius: 10px;
       overflow: hidden;
@@ -82,6 +81,12 @@
     .change-new-label { 
       background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; 
     }
+    .change-old-label { 
+      background: #c62828; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; 
+    }
+    .change-move-shifted {
+      background: #1976d2; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold;
+    }
     .change-old-lv { color: #c62828; text-decoration: line-through; font-size: 0.8em; }
 
     /* Dark Mode overrides */
@@ -92,6 +97,24 @@
     body.dark .stat-bar-bg { background: #444; border-color: #555; }
     body.dark .change-new { color: #81c784; }
     body.dark .change-old { color: #e57373; }
+    
+    /* Fix search box in light mode */
+    .search input {
+      background-color: #fff !important;
+      color: #333 !important;
+    }
+    body.dark .search input {
+      background-color: #222 !important;
+      color: #ccc !important;
+    }
+    
+    /* Dark mode toggle positioning */
+    #docsify-darklight-theme {
+      right: 20px !important;
+      bottom: 20px !important;
+      width: 40px !important;
+      height: 40px !important;
+    }
   </style>
 
 </head>

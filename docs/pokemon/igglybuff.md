@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Cute charm](abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Defense | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:8.333333333333332%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:11.11111111111111%"></div></div> |
-| Speed | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:8.333333333333332%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Defense | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:7.5%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:10.0%"></div></div> |
+| Speed | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:7.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

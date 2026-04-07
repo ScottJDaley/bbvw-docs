@@ -6,26 +6,26 @@
 <img src="img/types/poison.png" width="60" /> <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use moon-stone  
 
 ## Abilities
-- **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+- <span class="change-new-label">NEW</span> **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
 - **[Rivalry](abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.25, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.25, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | <span class="change-new">92</span> <span class="change-old">92</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.11111111111111%"></div></div> |
-| Defense | 87 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:48.333333333333336%"></div></div> |
-| Special attack | <span class="change-new">90</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Speed | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.22222222222222%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | <span class="change-new">92</span> <span class="change-old">92</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.0%"></div></div> |
+| Defense | 87 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.5%"></div></div> |
+| Special attack | <span class="change-new">90</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Speed | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

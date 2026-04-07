@@ -6,7 +6,8 @@
 <img src="img/types/dark.png" width="60" /> <img src="img/types/steel.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Level 37
+**Base Game:** First Stage  
+**New:** Next Stage: Level 37
 
 ## Abilities
 - **[Defiant](abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered.
@@ -15,37 +16,23 @@
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x4.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dragon">dragon</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-poison">poison</span>, <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x4.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dragon.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/poison.png" width="40" /> x0.0, <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
+| Hp | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 6 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 9 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
-| 14 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Torment](moves/torment.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 17 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 25 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal claw](moves/metal-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 95 | 35 |
-| 30 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 33 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Assurance](moves/assurance.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 38 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal sound](moves/metal-sound.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
-| 41 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Embargo](moves/embargo.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 46 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron defense](moves/iron-defense.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 49 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 54 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron head](moves/iron-head.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 57 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swords dance](moves/swords-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 62 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Guillotine](moves/guillotine.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
+| <span class="change-new-label">NEW</span> 43 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psycho cut](moves/psycho-cut.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 52 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

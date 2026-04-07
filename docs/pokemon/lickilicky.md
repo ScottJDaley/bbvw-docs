@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Know rollout  
 
 ## Abilities
-- **[Thick Fat](abilities/thick-fat.md)**: Halves damage from fire and ice moves.
-- **[Gluttony](abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
+- <span class="change-new-label">NEW</span> **[Thick Fat](abilities/thick-fat.md)**: Halves damage from fire and ice moves.
+- <span class="change-new-label">NEW</span> **[Gluttony](abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -1,32 +1,32 @@
 # Village Bridge
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Grass, Normal | [Exeggcute](pokemon/exeggcute.md) | 20% |
-| Grass, Normal | [Bibarel](pokemon/bibarel.md) | 20% |
-| Grass, Normal | [Zangoose](pokemon/zangoose.md) | 10% |
-| Grass, Normal | [Seviper](pokemon/seviper.md) | 10% |
-| Grass, Normal | [Volbeat](pokemon/volbeat.md) | 10% |
-| Grass, Normal | [Illumise](pokemon/illumise.md) | 10% |
-| Grass, Normal | [Farfetch'd](pokemon/farfetch'd.md) | 10% |
-| Grass, Normal | [Chatot](pokemon/chatot.md) | 10% |
-| Grass, Doubles | [Flaaffy](pokemon/flaaffy.md) | 20% |
-| Grass, Doubles | [Kadabra](pokemon/kadabra.md) | 20% |
-| Grass, Doubles | [Lombre](pokemon/lombre.md) | 20% |
-| Grass, Doubles | [Nuzleaf](pokemon/nuzleaf.md) | 20% |
-| Grass, Doubles | [Roselia](pokemon/roselia.md) | 10% |
-| Grass, Special | [Chansey](pokemon/chansey.md) | 75% |
-| Grass, Special | [Emolga](pokemon/emolga.md) | 10% |
-| Grass, Special | [Togetic](pokemon/togetic.md) | 5% |
-| Grass, Special | [Exeggutor](pokemon/exeggutor.md) | 5% |
-| Grass, Special | [Roserade](pokemon/roserade.md) | 5% |
-| Surf, Normal | [Tentacruel](pokemon/tentacruel.md) | 60% |
-| Surf, Normal | [Sharpedo](pokemon/sharpedo.md) | 40% |
-| Surf, Special | [Sharpedo](pokemon/sharpedo.md) | 60% |
-| Surf, Special | [Jellicent](pokemon/jellicent.md) | 40% |
-| Fish, Normal | [Carvanha](pokemon/carvanha.md) | 70% |
-| Fish, Normal | [Basculin](pokemon/basculin.md) | 30% |
-| Fish, Special | [Carvanha](pokemon/carvanha.md) | 60% |
-| Fish, Special | [Basculin](pokemon/basculin.md) | 30% |
-| Fish, Special | [Sharpedo](pokemon/sharpedo.md) | 10% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/102.png" width="40" /> | [Exeggcute](pokemon/exeggcute.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/400.png" width="40" /> | [Bibarel](pokemon/bibarel.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/335.png" width="40" /> | [Zangoose](pokemon/zangoose.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/336.png" width="40" /> | [Seviper](pokemon/seviper.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/313.png" width="40" /> | [Volbeat](pokemon/volbeat.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/314.png" width="40" /> | [Illumise](pokemon/illumise.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal |  | [Farfetch'd](pokemon/farfetch'd.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/441.png" width="40" /> | [Chatot](pokemon/chatot.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/180.png" width="40" /> | [Flaaffy](pokemon/flaaffy.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/064.png" width="40" /> | [Kadabra](pokemon/kadabra.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/271.png" width="40" /> | [Lombre](pokemon/lombre.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/274.png" width="40" /> | [Nuzleaf](pokemon/nuzleaf.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/315.png" width="40" /> | [Roselia](pokemon/roselia.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/113.png" width="40" /> | [Chansey](pokemon/chansey.md) | 75% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/587.png" width="40" /> | [Emolga](pokemon/emolga.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/176.png" width="40" /> | [Togetic](pokemon/togetic.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/103.png" width="40" /> | [Exeggutor](pokemon/exeggutor.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/407.png" width="40" /> | [Roserade](pokemon/roserade.md) | 5% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/073.png" width="40" /> | [Tentacruel](pokemon/tentacruel.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/319.png" width="40" /> | [Sharpedo](pokemon/sharpedo.md) | 40% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/319.png" width="40" /> | [Sharpedo](pokemon/sharpedo.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special |  | [Jellicent](pokemon/jellicent.md) | 40% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/318.png" width="40" /> | [Carvanha](pokemon/carvanha.md) | 70% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal |  | [Basculin](pokemon/basculin.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/318.png" width="40" /> | [Carvanha](pokemon/carvanha.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special |  | [Basculin](pokemon/basculin.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/319.png" width="40" /> | [Sharpedo](pokemon/sharpedo.md) | 10% |

@@ -6,7 +6,7 @@
 <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 16  
 
 ## Abilities
 - **[Torrent](abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.
@@ -15,35 +15,25 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.77777777777778%"></div></div> |
-| Attack | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
+| Hp | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.5%"></div></div> |
+| Attack | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tail whip](moves/tail-whip.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Bubble](moves/bubble.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 30 |
-| 10 | <img src="img/types/water.png" width="40" alt="water" /> | [Withdraw](moves/withdraw.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 13 | <img src="img/types/water.png" width="40" alt="water" /> | [Water gun](moves/water-gun.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 16 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rapid spin](moves/rapid-spin.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 40 |
-| 24 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 28 | <img src="img/types/water.png" width="40" alt="water" /> | [Water pulse](moves/water-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 20 |
-| 32 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua tail](moves/aqua-tail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 90 | 10 |
-| 36 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Skull bash](moves/skull-bash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 130 | 100 | 10 |
-| 40 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron defense](moves/iron-defense.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 44 | <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 48 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
+| <span class="change-new-label">NEW</span> 16 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua jet](moves/aqua-jet.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 36 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
+| <span class="change-new-label">NEW</span> 52 | <img src="img/types/water.png" width="40" alt="water" /> | [Water spout](moves/water-spout.md) | <img src="img/types/special.png" width="30" alt="special" /> | 150 | 100 | 5 |
+| <span class="change-new-label">NEW</span> 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Shell smash](moves/shell-smash.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

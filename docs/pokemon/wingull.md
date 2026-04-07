@@ -6,26 +6,26 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
-- **[Infiltrator](abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard.
+- <span class="change-new-label">NEW</span> **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
+- <span class="change-new-label">NEW</span> **[Infiltrator](abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x4.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/electric.png" width="40" /> x4.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Defense | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Hp | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Defense | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,7 +6,7 @@
 <img src="img/types/ice.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Levitate](abilities/levitate.md)**: Evades ground moves.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-ice">ice</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/ice.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Defense | <span class="change-new">60</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special attack | <span class="change-new">100</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
-| Speed | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
+| Hp | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Defense | <span class="change-new">60</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special attack | <span class="change-new">100</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.5%"></div></div> |
+| Speed | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

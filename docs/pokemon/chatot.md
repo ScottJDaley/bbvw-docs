@@ -6,45 +6,33 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Moody](abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn.
-- **[Tangled Feet](abilities/tangled-feet.md)**: Doubles evasion when confused.
+- <span class="change-new-label">NEW</span> **[Moody](abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn.
+- <span class="change-new-label">NEW</span> **[Tangled Feet](abilities/tangled-feet.md)**: Doubles evasion when confused.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span>, <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0, <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.22222222222222%"></div></div> |
-| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Defense | <span class="change-new">56</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.11111111111111%"></div></div> |
-| Special attack | <span class="change-new">112</span> <span class="change-old">92</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.22222222222222%"></div></div> |
-| Special defense | <span class="change-new">55</span> <span class="change-old">42</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | <span class="change-new">111</span> <span class="change-old">91</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.66666666666667%"></div></div> |
+| Hp | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.0%"></div></div> |
+| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Defense | <span class="change-new">56</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.000000000000004%"></div></div> |
+| Special attack | <span class="change-new">112</span> <span class="change-old">92</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.00000000000001%"></div></div> |
+| Special defense | <span class="change-new">55</span> <span class="change-old">42</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | <span class="change-new">111</span> <span class="change-old">91</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.50000000000001%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Peck](moves/peck.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 100 | 35 |
-| 5 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
-| 9 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Mirror move](moves/mirror-move.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Sing](moves/sing.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 55 | 15 |
-| 17 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 21 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Chatter](moves/chatter.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 25 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Taunt](moves/taunt.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 29 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Round](moves/round.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
-| 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mimic](moves/mimic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Echoed voice](moves/echoed-voice.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 15 |
-| 41 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Roost](moves/roost.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 45 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Uproar](moves/uproar.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 49 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Synchronoise](moves/synchronoise.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
-| 53 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Feather dance](moves/feather-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 57 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hyper voice](moves/hyper-voice.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Nasty plot](moves/nasty-plot.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Hurricane](moves/hurricane.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 10 |
+| <span class="change-new-label">NEW</span> 65 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" alt="special" /> | 95 | 90 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

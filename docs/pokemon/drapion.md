@@ -6,26 +6,26 @@
 <img src="img/types/poison.png" width="60" /> <img src="img/types/dark.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 40  
 
 ## Abilities
-- **[Battle Armor](abilities/battle-armor.md)**: Protects against critical hits.
+- <span class="change-new-label">NEW</span> **[Battle Armor](abilities/battle-armor.md)**: Protects against critical hits.
 - **[Sniper](abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 | <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 | <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,26 +6,26 @@
 <img src="img/types/fairy.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use shiny-stone  
 
 ## Abilities
-- **[Super Luck](abilities/super-luck.md)**: Raises moves' critical hit rates one stage.
-- **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
+- <span class="change-new-label">NEW</span> **[Super Luck](abilities/super-luck.md)**: Raises moves' critical hit rates one stage.
+- <span class="change-new-label">NEW</span> **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
+| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

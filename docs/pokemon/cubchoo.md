@@ -6,26 +6,26 @@
 <img src="img/types/ice.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Snow Cloak](abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage.
+- <span class="change-new-label">NEW</span> **[Snow Cloak](abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage.
 - **[Rattled](abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-ice">ice</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/ice.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Hp | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

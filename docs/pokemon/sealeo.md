@@ -6,7 +6,7 @@
 <img src="img/types/ice.png" width="60" /> <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 32  
 
 ## Abilities
 - **[Thick fat](abilities/thick-fat.md)**: Halves damage from fire and ice moves.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.25 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.25 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

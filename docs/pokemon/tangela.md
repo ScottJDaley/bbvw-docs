@@ -6,7 +6,7 @@
 <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Chlorophyll](abilities/chlorophyll.md)**: Doubles Speed during strong sunlight.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 20  
 
 ## Abilities
 - **[Soundproof](abilities/soundproof.md)**: Protects against sound-based moves.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.666666666666664%"></div></div> |
-| Attack | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.44444444444444%"></div></div> |
-| Defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Special attack | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.44444444444444%"></div></div> |
-| Special defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Speed | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.666666666666668%"></div></div> |
+| Hp | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.0%"></div></div> |
+| Attack | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.5%"></div></div> |
+| Defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Special attack | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.5%"></div></div> |
+| Special defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Speed | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

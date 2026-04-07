@@ -1,23 +1,23 @@
 # Cold Storage
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Grass, Normal | [Vanillite](pokemon/vanillite.md) | 20% |
-| Grass, Normal | [Herdier](pokemon/herdier.md) | 20% |
-| Grass, Normal | [Snorunt](pokemon/snorunt.md) | 10% |
-| Grass, Normal | [Swinub](pokemon/swinub.md) | 10% |
-| Grass, Normal | [Cubchoo](pokemon/cubchoo.md) | 10% |
-| Grass, Normal | [Buizel](pokemon/buizel.md) | 10% |
-| Grass, Normal | [Mienfoo](pokemon/mienfoo.md) | 10% |
-| Grass, Normal | [Taillow](pokemon/taillow.md) | 10% |
-| Grass, Doubles | [Vanillish](pokemon/vanillish.md) | 20% |
-| Grass, Doubles | [Herdier](pokemon/herdier.md) | 20% |
-| Grass, Doubles | [Swellow](pokemon/swellow.md) | 10% |
-| Grass, Doubles | [Floatzel](pokemon/floatzel.md) | 10% |
-| Grass, Doubles | [Sneasel](pokemon/sneasel.md) | 10% |
-| Grass, Doubles | [Delibird](pokemon/delibird.md) | 10% |
-| Grass, Doubles | [Smoochum](pokemon/smoochum.md) | 10% |
-| Grass, Doubles | [Piloswine](pokemon/piloswine.md) | 10% |
-| Grass, Special | [Audino](pokemon/audino.md) | 90% |
-| Grass, Special | [Mienshao](pokemon/mienshao.md) | 10% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/582.png" width="40" /> | [Vanillite](pokemon/vanillite.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/507.png" width="40" /> | [Herdier](pokemon/herdier.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/361.png" width="40" /> | [Snorunt](pokemon/snorunt.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/220.png" width="40" /> | [Swinub](pokemon/swinub.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/613.png" width="40" /> | [Cubchoo](pokemon/cubchoo.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/418.png" width="40" /> | [Buizel](pokemon/buizel.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/619.png" width="40" /> | [Mienfoo](pokemon/mienfoo.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/276.png" width="40" /> | [Taillow](pokemon/taillow.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/583.png" width="40" /> | [Vanillish](pokemon/vanillish.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/507.png" width="40" /> | [Herdier](pokemon/herdier.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/277.png" width="40" /> | [Swellow](pokemon/swellow.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/419.png" width="40" /> | [Floatzel](pokemon/floatzel.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/215.png" width="40" /> | [Sneasel](pokemon/sneasel.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/225.png" width="40" /> | [Delibird](pokemon/delibird.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/238.png" width="40" /> | [Smoochum](pokemon/smoochum.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/221.png" width="40" /> | [Piloswine](pokemon/piloswine.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/531.png" width="40" /> | [Audino](pokemon/audino.md) | 90% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/620.png" width="40" /> | [Mienshao](pokemon/mienshao.md) | 10% |

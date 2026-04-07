@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
-- **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+- <span class="change-new-label">NEW</span> **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+- <span class="change-new-label">NEW</span> **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Attack | 160 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:88.88888888888889%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Attack | 160 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:80.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

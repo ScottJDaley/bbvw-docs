@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Hustle](abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
@@ -15,34 +15,27 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Attack | 56 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.11111111111111%"></div></div> |
-| Defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Special attack | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
-| Special defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Speed | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Hp | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Attack | 56 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.000000000000004%"></div></div> |
+| Defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Special attack | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.5%"></div></div> |
+| Special defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Speed | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tail whip](moves/tail-whip.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 10 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 13 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
-| 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hyper fang](moves/hyper-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
-| 19 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
-| 22 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 25 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Assurance](moves/assurance.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 28 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Super fang](moves/super-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 90 | 10 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 34 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endeavor](moves/endeavor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
+| <span class="change-move-shifted">SHIFTED</span> 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
+| <span class="change-new-label">NEW</span> 10 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame wheel](moves/flame-wheel.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
+| <span class="change-new-label">NEW</span> 34 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
+| <span class="change-move-shifted">SHIFTED</span> 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endeavor](moves/endeavor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
+| <span class="change-new-label">NEW</span> 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Me first](moves/me-first.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 43 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Final gambit](moves/final-gambit.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

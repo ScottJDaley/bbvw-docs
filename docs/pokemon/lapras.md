@@ -6,45 +6,37 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/ice.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
-- **[Shell Armor](abilities/shell-armor.md)**: Protects against critical hits.
+- <span class="change-new-label">NEW</span> **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Shell Armor](abilities/shell-armor.md)**: Protects against critical hits.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.25 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.25 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
+| Hp | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Sing](moves/sing.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 55 | 15 |
-| 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Water gun](moves/water-gun.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 4 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Mist](moves/mist.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 7 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Confuse ray](moves/confuse-ray.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 10 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice shard](moves/ice-shard.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 14 | <img src="img/types/water.png" width="40" alt="water" /> | [Water pulse](moves/water-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 20 |
-| 18 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Body slam](moves/body-slam.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 85 | 100 | 15 |
-| 22 | <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 27 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Perish song](moves/perish-song.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 32 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice beam](moves/ice-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 37 | <img src="img/types/water.png" width="40" alt="water" /> | [Brine](moves/brine.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 10 |
-| 43 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 25 |
-| 49 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
-| 55 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Sheer cold](moves/sheer-cold.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 30 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Future sight](moves/future-sight.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 53 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon dance](moves/dragon-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 57 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](moves/outrage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua tail](moves/aqua-tail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 90 | 10 |
+| <span class="change-move-shifted">SHIFTED</span> 65 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Sheer cold](moves/sheer-cold.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 30 | 5 |
+| <span class="change-new-label">NEW</span> 69 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Shell smash](moves/shell-smash.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

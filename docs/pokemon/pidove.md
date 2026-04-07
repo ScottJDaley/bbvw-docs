@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Rivalry](abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.
-- **[Super Luck](abilities/super-luck.md)**: Raises moves' critical hit rates one stage.
+- <span class="change-new-label">NEW</span> **[Super Luck](abilities/super-luck.md)**: Raises moves' critical hit rates one stage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span>, <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0, <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | <span class="change-new">36</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
-| Defense | <span class="change-new">30</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Special attack | <span class="change-new">55</span> <span class="change-old">36</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | <span class="change-new">50</span> <span class="change-old">30</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Speed | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | <span class="change-new">36</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:18.0%"></div></div> |
+| Defense | <span class="change-new">30</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Special attack | <span class="change-new">55</span> <span class="change-old">36</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | <span class="change-new">50</span> <span class="change-old">30</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Speed | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

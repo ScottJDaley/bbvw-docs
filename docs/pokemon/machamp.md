@@ -6,45 +6,36 @@
 <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Trade  
 
 ## Abilities
 - **[Guts](abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment.
-- **[No Guard](abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit.
+- <span class="change-new-label">NEW</span> **[No Guard](abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 |  |
+| <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Karate chop](moves/karate-chop.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Low kick](moves/low-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 1 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Wide guard](moves/wide-guard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 13 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Low sweep](moves/low-sweep.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 20 |
-| 19 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Foresight](moves/foresight.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 22 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Seismic toss](moves/seismic-toss.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 25 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Revenge](moves/revenge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 32 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Vital throw](moves/vital-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | - | 10 |
-| 36 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Submission](moves/submission.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 80 | 20 |
-| 40 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Wake up slap](moves/wake-up-slap.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 10 |
-| 44 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Cross chop](moves/cross-chop.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 80 | 5 |
-| 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 55 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Dynamic punch](moves/dynamic-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 50 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire punch](moves/fire-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | - | Thunderpunch | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice punch](moves/ice-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Bullet punch](moves/bullet-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Metronome](moves/metronome.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 59 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Close combat](moves/close-combat.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

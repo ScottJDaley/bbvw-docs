@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 15  
 
 ## Abilities
 - **[Frisk](abilities/frisk.md)**: Reveals an opponent's held item upon entering battle.
-- **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
+- <span class="change-new-label">NEW</span> **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Attack | <span class="change-new">86</span> <span class="change-old">76</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.77777777777778%"></div></div> |
-| Defense | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Attack | <span class="change-new">86</span> <span class="change-old">76</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.0%"></div></div> |
+| Defense | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

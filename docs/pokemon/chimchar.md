@@ -6,26 +6,26 @@
 <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Blaze](abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
-- **[Iron Fist](abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power.
+- <span class="change-new-label">NEW</span> **[Iron Fist](abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.444444444444443%"></div></div> |
-| Attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.444444444444443%"></div></div> |
-| Special attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Special defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.444444444444443%"></div></div> |
-| Speed | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
+| Hp | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.0%"></div></div> |
+| Attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.0%"></div></div> |
+| Special attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Special defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.0%"></div></div> |
+| Speed | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

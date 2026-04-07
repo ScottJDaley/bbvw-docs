@@ -6,26 +6,26 @@
 <img src="img/types/dragon.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 30  
 
 ## Abilities
-- **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
-- **[Marvel Scale](abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment.
+- <span class="change-new-label">NEW</span> **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
+- <span class="change-new-label">NEW</span> **[Marvel Scale](abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5 |  |
+| <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
-| Attack | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.666666666666664%"></div></div> |
-| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
+| Attack | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.0%"></div></div> |
+| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

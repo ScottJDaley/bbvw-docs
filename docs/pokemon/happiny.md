@@ -6,26 +6,27 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Use the Oval Stone.
+**Base Game:** First Stage  
+**New:** Next Stage: Use the Oval Stone.
 
 ## Abilities
-- **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
-- **[Friend Guard](abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×.
+- <span class="change-new-label">NEW</span> **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
+- <span class="change-new-label">NEW</span> **[Friend Guard](abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.7777777777777777%"></div></div> |
-| Defense | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.7777777777777777%"></div></div> |
-| Special attack | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:8.333333333333332%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.5%"></div></div> |
+| Defense | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.5%"></div></div> |
+| Special attack | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:7.5%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

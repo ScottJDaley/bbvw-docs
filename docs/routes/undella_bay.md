@@ -1,16 +1,16 @@
 # Undella Bay
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Surf, Normal | [Mantyke](pokemon/mantyke.md) | 60% |
-| Surf, Normal | [Wailmer](pokemon/wailmer.md) | 40% |
-| Surf, Special | [Mantine](pokemon/mantine.md) | 60% |
-| Surf, Special | [Wailord](pokemon/wailord.md) | 40% |
-| Fish, Normal | [Remoraid](pokemon/remoraid.md) | 65% |
-| Fish, Normal | [Shellder](pokemon/shellder.md) | 30% |
-| Fish, Normal | [Luvdisc](pokemon/luvdisc.md) | 5% |
-| Fish, Special | [Shellder](pokemon/shellder.md) | 60% |
-| Fish, Special | [Luvdisc](pokemon/luvdisc.md) | 30% |
-| Fish, Special | [Octillery](pokemon/octillery.md) | 5% |
-| Fish, Special | [Cloyster](pokemon/cloyster.md) | 5% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/458.png" width="40" /> | [Mantyke](pokemon/mantyke.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/320.png" width="40" /> | [Wailmer](pokemon/wailmer.md) | 40% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/226.png" width="40" /> | [Mantine](pokemon/mantine.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/321.png" width="40" /> | [Wailord](pokemon/wailord.md) | 40% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/223.png" width="40" /> | [Remoraid](pokemon/remoraid.md) | 65% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/090.png" width="40" /> | [Shellder](pokemon/shellder.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/370.png" width="40" /> | [Luvdisc](pokemon/luvdisc.md) | 5% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/090.png" width="40" /> | [Shellder](pokemon/shellder.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/370.png" width="40" /> | [Luvdisc](pokemon/luvdisc.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/224.png" width="40" /> | [Octillery](pokemon/octillery.md) | 5% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/091.png" width="40" /> | [Cloyster](pokemon/cloyster.md) | 5% |

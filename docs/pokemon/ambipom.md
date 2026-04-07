@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Know double-hit  
 
 ## Abilities
 - **[Technician](abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.666666666666664%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.666666666666664%"></div></div> |
-| Speed | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
+| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.0%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.0%"></div></div> |
+| Speed | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

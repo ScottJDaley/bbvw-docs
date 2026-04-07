@@ -7,26 +7,26 @@ Original: <img src="img/types/fire.png" width="60" /> <img src="img/types/fighti
 New: <img src="img/types/fire.png" width="60" /> <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 36  
 
 ## Abilities
 - **[Blaze](abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
-- **[Adaptability](abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×.
+- <span class="change-new-label">NEW</span> **[Adaptability](abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x4.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x4.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">120</span> <span class="change-old">110</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Attack | <span class="change-new">130</span> <span class="change-old">123</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | <span class="change-new">70</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | <span class="change-new">55</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | <span class="change-new">120</span> <span class="change-old">110</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Attack | <span class="change-new">130</span> <span class="change-old">123</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | <span class="change-new">70</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | <span class="change-new">55</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

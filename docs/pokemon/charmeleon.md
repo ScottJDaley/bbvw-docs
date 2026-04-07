@@ -6,7 +6,7 @@
 <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 16  
 
 ## Abilities
 - **[Blaze](abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
@@ -15,33 +15,22 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Attack | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Defense | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
+| Hp | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Attack | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Defense | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Ember](moves/ember.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Smokescreen](moves/smokescreen.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 17 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon rage](moves/dragon-rage.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 28 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire fang](moves/fire-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
-| 32 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame burst](moves/flame-burst.md) | <img src="img/types/special.png" width="30" alt="special" /> | 70 | 100 | 15 |
-| 39 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 43 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| 50 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire spin](moves/fire-spin.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
-| 54 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Inferno](moves/inferno.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 50 | 5 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Belly drum](moves/belly-drum.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

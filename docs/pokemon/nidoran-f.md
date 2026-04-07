@@ -6,7 +6,7 @@
 <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Poison point](abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Attack | 47 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.111111111111114%"></div></div> |
-| Defense | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.888888888888886%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Speed | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.77777777777778%"></div></div> |
+| Hp | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Attack | 47 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.5%"></div></div> |
+| Defense | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Speed | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

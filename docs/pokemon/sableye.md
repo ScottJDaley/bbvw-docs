@@ -6,49 +6,32 @@
 <img src="img/types/dark.png" width="60" /> <img src="img/types/ghost.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Prankster](abilities/prankster.md)**: Raises non-damaging moves' priority by one stage.
-- **[Analytic](abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last.
+- <span class="change-new-label">NEW</span> **[Analytic](abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-|  | <span class="type-badge type-poison">poison</span> x0.5 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-fighting">fighting</span>, <span class="type-badge type-psychic">psychic</span> |
+|  | <img src="img/types/poison.png" width="40" /> x0.5 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0, <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">70</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Defense | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special defense | <span class="change-new">85</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Hp | <span class="change-new">70</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Defense | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special defense | <span class="change-new">85</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Foresight](moves/foresight.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 8 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Night shade](moves/night-shade.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 15 |
-| 11 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Astonish](moves/astonish.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 15 |
-| 15 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury swipes](moves/fury-swipes.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 18 | 80 | 15 |
-| 18 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fake out](moves/fake-out.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 10 |
-| 22 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Detect](moves/detect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 25 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow sneak](moves/shadow-sneak.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 29 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Knock off](moves/knock-off.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 20 |
-| 32 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 36 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Punishment](moves/punishment.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
-| 39 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow claw](moves/shadow-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 43 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Power gem](moves/power-gem.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 20 |
-| 46 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Confuse ray](moves/confuse-ray.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 50 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Foul play](moves/foul-play.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 95 | 100 | 15 |
-| 53 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
-| 57 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow ball](moves/shadow-ball.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 15 |
-| 60 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mean look](moves/mean-look.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 63 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Recover](moves/recover.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 66 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal burst](moves/metal-burst.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

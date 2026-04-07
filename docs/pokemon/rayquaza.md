@@ -6,26 +6,26 @@
 <img src="img/types/dragon.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Air Lock](abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself.
-- **[Air Lock](abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself.
+- <span class="change-new-label">NEW</span> **[Air Lock](abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself.
+- <span class="change-new-label">NEW</span> **[Air Lock](abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x4.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/ice.png" width="40" /> x4.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:83.33333333333334%"></div></div> |
-| Defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:83.33333333333334%"></div></div> |
-| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
+| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
+| Defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
+| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

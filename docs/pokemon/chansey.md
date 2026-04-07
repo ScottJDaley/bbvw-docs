@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Hold oval-stone  
 
 ## Abilities
-- **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
-- **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
+- <span class="change-new-label">NEW</span> **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
+- <span class="change-new-label">NEW</span> **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
 | Hp | 250 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:100%"></div></div> |
-| Attack | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.7777777777777777%"></div></div> |
-| Defense | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.7777777777777777%"></div></div> |
-| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Special defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Attack | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.5%"></div></div> |
+| Defense | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.5%"></div></div> |
+| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Special defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,26 +6,26 @@
 <img src="img/types/electric.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 27  
 
 ## Abilities
-- **[LightningRod](abilities/lightningrod.md)**: 
-- **[Sap Sipper](abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage.
+- <span class="change-new-label">NEW</span> **[LightningRod](abilities/lightningrod.md)**: 
+- <span class="change-new-label">NEW</span> **[Sap Sipper](abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Speed | 116 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:64.44444444444444%"></div></div> |
+| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Speed | 116 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.99999999999999%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

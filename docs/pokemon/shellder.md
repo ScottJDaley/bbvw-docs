@@ -6,46 +6,32 @@
 <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Overcoat](abilities/overcoat.md)**: Protects against damage from weather.
-- **[Skill Link](abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time.
+- <span class="change-new-label">NEW</span> **[Skill Link](abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
-| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Hp | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.5%"></div></div> |
+| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 4 | <img src="img/types/water.png" width="40" alt="water" /> | [Withdraw](moves/withdraw.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 8 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Supersonic](moves/supersonic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 55 | 20 |
-| 13 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Icicle spear](moves/icicle-spear.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 25 | 100 | 30 |
-| 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 25 | <img src="img/types/water.png" width="40" alt="water" /> | [Clamp](moves/clamp.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 85 | 15 |
-| 28 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice shard](moves/ice-shard.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 32 | <img src="img/types/water.png" width="40" alt="water" /> | [Razor shell](moves/razor-shell.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 95 | 10 |
-| 37 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Aurora beam](moves/aurora-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 40 | <img src="img/types/water.png" width="40" alt="water" /> | [Whirlpool](moves/whirlpool.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
-| 44 | <img src="img/types/water.png" width="40" alt="water" /> | [Brine](moves/brine.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 10 |
-| 49 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron defense](moves/iron-defense.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 52 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice beam](moves/ice-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Shell smash](moves/shell-smash.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 61 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
+| <span class="change-move-shifted">SHIFTED</span> 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Supersonic](moves/supersonic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 55 | 20 |
+| <span class="change-new-label">NEW</span> 10 | - | Bubblebeam | - | - | - | - | - |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

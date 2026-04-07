@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use moon-stone  
 
 ## Abilities
-- **[Cute Charm](abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact.
+- <span class="change-new-label">NEW</span> **[Cute Charm](abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact.
 - **[Frisk](abilities/frisk.md)**: Reveals an opponent's held item upon entering battle.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 140 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:77.77777777777779%"></div></div> |
-| Attack | <span class="change-new">83</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.111111111111114%"></div></div> |
-| Defense | <span class="change-new">60</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special attack | <span class="change-new">95</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special defense | <span class="change-new">80</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Hp | 140 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:70.0%"></div></div> |
+| Attack | <span class="change-new">83</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.5%"></div></div> |
+| Defense | <span class="change-new">60</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special attack | <span class="change-new">95</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special defense | <span class="change-new">80</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

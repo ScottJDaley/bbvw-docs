@@ -6,26 +6,26 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/rock.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Sturdy](abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
-- **[Solid Rock](abilities/solid-rock.md)**: Decreases damage taken from super-effective moves by 1/4.
+- <span class="change-new-label">NEW</span> **[Solid Rock](abilities/solid-rock.md)**: Decreases damage taken from super-effective moves by 1/4.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:11.11111111111111%"></div></div> |
-| Attack | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.555555555555555%"></div></div> |
+| Hp | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:10.0%"></div></div> |
+| Attack | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.0%"></div></div> |
 | Defense | 230 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:100%"></div></div> |
-| Special attack | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.555555555555555%"></div></div> |
+| Special attack | 10 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:5.0%"></div></div> |
 | Special defense | 230 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:100%"></div></div> |
-| Speed | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.7777777777777777%"></div></div> |
+| Speed | 5 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:2.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

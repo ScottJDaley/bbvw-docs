@@ -6,47 +6,34 @@
 <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Flash Fire](abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
+- <span class="change-new-label">NEW</span> **[Flash Fire](abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
 - **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.11111111111111%"></div></div> |
-| Attack | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.77777777777778%"></div></div> |
-| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.0%"></div></div> |
+| Attack | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.5%"></div></div> |
+| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Ember](moves/ember.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tail whip](moves/tail-whip.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Roar](moves/roar.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 14 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire spin](moves/fire-spin.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
-| 17 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Confuse ray](moves/confuse-ray.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 21 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Imprison](moves/imprison.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 24 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame burst](moves/flame-burst.md) | <img src="img/types/special.png" width="30" alt="special" /> | 70 | 100 | 15 |
-| 27 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 25 |
-| 31 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Will o wisp](moves/will-o-wisp.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 15 |
-| 34 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Payback](moves/payback.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 10 |
-| 37 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| 41 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Captivate](moves/captivate.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 44 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Inferno](moves/inferno.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 50 | 5 |
-| 47 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Grudge](moves/grudge.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 51 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Extrasensory](moves/extrasensory.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 20 |
-| 54 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire blast](moves/fire-blast.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 85 | 5 |
+| <span class="change-move-shifted">SHIFTED</span> 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire spin](moves/fire-spin.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
+| <span class="change-move-shifted">SHIFTED</span> 14 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame burst](moves/flame-burst.md) | <img src="img/types/special.png" width="30" alt="special" /> | 70 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 24 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Hex](moves/hex.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 10 |
+| <span class="change-old-label">REPLACED</span> 34 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

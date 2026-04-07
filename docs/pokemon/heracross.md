@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Moxie](abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon.
@@ -15,36 +15,24 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-flying">flying</span> x4.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x4.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Hp | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn attack](moves/horn-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 13 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Aerial ace](moves/aerial-ace.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Chip away](moves/chip-away.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 19 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Brick break](moves/brick-break.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
-| 25 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Counter](moves/counter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Take down](moves/take-down.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 85 | 20 |
-| 37 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Close combat](moves/close-combat.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
-| 43 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
-| 49 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Feint](moves/feint.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 10 |
-| 55 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Megahorn](moves/megahorn.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 85 | 10 |
+| <span class="change-new-label">NEW</span> 3 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 61 | - | Wood horn | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 67 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn drill](moves/horn-drill.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

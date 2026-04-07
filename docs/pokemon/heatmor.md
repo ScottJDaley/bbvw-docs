@@ -6,46 +6,31 @@
 <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[White Smoke](abilities/white-smoke.md)**: Prevents stats from being lowered by other Pokémon.
-- **[Moody](abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn.
+- <span class="change-new-label">NEW</span> **[White Smoke](abilities/white-smoke.md)**: Prevents stats from being lowered by other Pokémon.
+- <span class="change-new-label">NEW</span> **[Moody](abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Attack | <span class="change-new">100</span> <span class="change-old">97</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | <span class="change-new">70</span> <span class="change-old">66</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | <span class="change-new">115</span> <span class="change-old">105</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special defense | <span class="change-new">70</span> <span class="change-old">66</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | <span class="change-new">70</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Attack | <span class="change-new">100</span> <span class="change-old">97</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | <span class="change-new">70</span> <span class="change-old">66</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | <span class="change-new">115</span> <span class="change-old">105</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special defense | <span class="change-new">70</span> <span class="change-old">66</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | <span class="change-new">70</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Lick](moves/lick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 30 |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Incinerate](moves/incinerate.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 15 |
-| 6 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Odor sleuth](moves/odor-sleuth.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Bind](moves/bind.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 16 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire spin](moves/fire-spin.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury swipes](moves/fury-swipes.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 18 | 80 | 15 |
-| 26 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Snatch](moves/snatch.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 31 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame burst](moves/flame-burst.md) | <img src="img/types/special.png" width="30" alt="special" /> | 70 | 100 | 15 |
-| 36 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
-| 41 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 46 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Amnesia](moves/amnesia.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 51 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Stockpile](moves/stockpile.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Spit up](moves/spit-up.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swallow](moves/swallow.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 61 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Inferno](moves/inferno.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 50 | 5 |
+| <span class="change-new-label">NEW</span> 66 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" alt="special" /> | 95 | 90 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

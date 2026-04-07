@@ -6,26 +6,27 @@
 <img src="img/types/dark.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Level 39 [Vullaby]
+**Base Game:** Level 54  
+**New:** Next Stage: Level 39 [Vullaby]
 
 ## Abilities
-- **[Big Pecks](abilities/big-pecks.md)**: Protects against Defense drops.
+- <span class="change-new-label">NEW</span> **[Big Pecks](abilities/big-pecks.md)**: Protects against Defense drops.
 - **[Overcoat](abilities/overcoat.md)**: Protects against damage from weather.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 | <span class="type-badge type-ground">ground</span>, <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0, <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
+| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

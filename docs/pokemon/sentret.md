@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Frisk](abilities/frisk.md)**: Reveals an opponent's held item upon entering battle.
-- **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
+- <span class="change-new-label">NEW</span> **[Keen Eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Attack | 46 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.555555555555554%"></div></div> |
-| Defense | 34 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:18.88888888888889%"></div></div> |
-| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Speed | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:11.11111111111111%"></div></div> |
+| Hp | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Attack | 46 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.0%"></div></div> |
+| Defense | 34 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.0%"></div></div> |
+| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Speed | 20 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:10.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

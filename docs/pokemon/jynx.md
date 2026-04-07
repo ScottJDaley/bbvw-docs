@@ -6,26 +6,26 @@
 <img src="img/types/ice.png" width="60" /> <img src="img/types/psychic.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 30  
 
 ## Abilities
-- **[Trace](abilities/trace.md)**: Copies an opponent's ability upon entering battle.
-- **[Dry Skin](abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Trace](abilities/trace.md)**: Copies an opponent's ability upon entering battle.
+- <span class="change-new-label">NEW</span> **[Dry Skin](abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Special attack | <span class="change-new">125</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | <span class="change-new">100</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Defense | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Special attack | <span class="change-new">125</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | <span class="change-new">100</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

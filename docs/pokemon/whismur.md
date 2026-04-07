@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Soundproof](abilities/soundproof.md)**: Protects against sound-based moves.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Attack | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.333333333333332%"></div></div> |
-| Defense | 23 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.777777777777777%"></div></div> |
-| Special attack | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.333333333333332%"></div></div> |
-| Special defense | 23 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.777777777777777%"></div></div> |
-| Speed | 28 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.555555555555555%"></div></div> |
+| Hp | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Attack | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.5%"></div></div> |
+| Defense | 23 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:11.5%"></div></div> |
+| Special attack | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.5%"></div></div> |
+| Special defense | 23 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:11.5%"></div></div> |
+| Speed | 28 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:14.000000000000002%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

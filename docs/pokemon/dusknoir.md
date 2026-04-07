@@ -6,26 +6,26 @@
 <img src="img/types/ghost.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Trade holding reaper-cloth  
 
 ## Abilities
 - **[Pressure](abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one.
-- **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
+- <span class="change-new-label">NEW</span> **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-fighting">fighting</span> |
+| <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
-| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
-| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Hp | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.5%"></div></div> |
+| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special defense | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.5%"></div></div> |
+| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

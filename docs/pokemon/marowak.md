@@ -6,26 +6,26 @@
 <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 28  
 
 ## Abilities
-- **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
-- **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
+- <span class="change-new-label">NEW</span> **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
+- <span class="change-new-label">NEW</span> **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | <span class="change-new">70</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | <span class="change-new">70</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

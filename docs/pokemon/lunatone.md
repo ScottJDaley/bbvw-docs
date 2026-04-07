@@ -6,7 +6,7 @@
 <img src="img/types/rock.png" width="60" /> <img src="img/types/psychic.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Levitate](abilities/levitate.md)**: Evades ground moves.
@@ -15,35 +15,25 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special attack | <span class="change-new">115</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special attack | <span class="change-new">115</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Confusion](moves/confusion.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Harden](moves/harden.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 9 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock throw](moves/rock-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 90 | 15 |
-| 12 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Hypnosis](moves/hypnosis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 60 | 20 |
-| 20 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock polish](moves/rock-polish.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 23 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psywave](moves/psywave.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 15 |
-| 31 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Embargo](moves/embargo.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 34 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](moves/cosmic-power.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 42 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Heal block](moves/heal-block.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 45 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psychic](moves/psychic.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 53 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Future sight](moves/future-sight.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Explosion](moves/explosion.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 250 | 100 | 5 |
-| 64 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Magic room](moves/magic-room.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fairy.png" width="40" alt="fairy" /> | [Moonlight](moves/moonlight.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 28 | - | Ancientpower | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 37 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 48 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

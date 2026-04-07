@@ -6,45 +6,31 @@
 <img src="img/types/dragon.png" width="60" /> <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[TurboBlaze](abilities/turboblaze.md)**: Bypasses targets' abilities if they could hinder or prevent moves.
-- **[TurboBlaze](abilities/turboblaze.md)**: Bypasses targets' abilities if they could hinder or prevent moves.
+- <span class="change-new-label">NEW</span> **[TurboBlaze](abilities/turboblaze.md)**: Bypasses targets' abilities if they could hinder or prevent moves.
+- <span class="change-new-label">NEW</span> **[TurboBlaze](abilities/turboblaze.md)**: Bypasses targets' abilities if they could hinder or prevent moves.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.25, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.25, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:83.33333333333334%"></div></div> |
-| Special defense | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special attack | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
+| Special defense | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon rage](moves/dragon-rage.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire fang](moves/fire-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
-| 8 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Imprison](moves/imprison.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 15 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Ancient power](moves/ancient-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
-| 22 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| 29 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon breath](moves/dragon-breath.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 20 |
-| 36 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 43 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Extrasensory](moves/extrasensory.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 20 |
-| 50 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fusion flare](moves/fusion-flare.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 100 | 5 |
-| 54 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon pulse](moves/dragon-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 85 | 100 | 10 |
-| 71 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 78 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire blast](moves/fire-blast.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 85 | 5 |
-| 85 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](moves/outrage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
-| 92 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hyper voice](moves/hyper-voice.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 100 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Blue flare](moves/blue-flare.md) | <img src="img/types/special.png" width="30" alt="special" /> | 130 | 85 | 5 |
+| <span class="change-move-shifted">SHIFTED</span> 71 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Blue flare](moves/blue-flare.md) | <img src="img/types/special.png" width="30" alt="special" /> | 130 | 85 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

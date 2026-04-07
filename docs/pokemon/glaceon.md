@@ -6,26 +6,26 @@
 <img src="img/types/ice.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level up at sinnoh-route-217  
 
 ## Abilities
-- **[Snow Cloak](abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage.
-- **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
+- <span class="change-new-label">NEW</span> **[Snow Cloak](abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage.
+- <span class="change-new-label">NEW</span> **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-ice">ice</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/ice.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

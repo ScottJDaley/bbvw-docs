@@ -6,7 +6,7 @@
 <img src="img/types/psychic.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Unaware](abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.25, <span class="type-badge type-psychic">psychic</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.25, <img src="img/types/psychic.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Speed | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Speed | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

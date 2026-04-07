@@ -9474,6 +9474,181 @@
   },
   "wild_pokemon": [
     {
+      "name": "'Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.",
+      "encounters": [
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Lillipup",
+          "rate": 20
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Pidgey",
+          "rate": 20
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Bidoof",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Sentret",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Rattata",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Zigzagoon",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Starly",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Normal",
+          "pokemon": "Hoothoot",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Herdier",
+          "rate": 20
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Watchog",
+          "rate": 20
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Bibarel",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Furret",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Raticate",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Linoone",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Mightyena",
+          "rate": 5
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Pidgeotto",
+          "rate": 5
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Staravia",
+          "rate": 5
+        },
+        {
+          "method": "Grass, Doubles",
+          "pokemon": "Noctowl",
+          "rate": 5
+        },
+        {
+          "method": "Grass, Special",
+          "pokemon": "Audino",
+          "rate": 80
+        },
+        {
+          "method": "Grass, Special",
+          "pokemon": "Happiny",
+          "rate": 10
+        },
+        {
+          "method": "Grass, Special",
+          "pokemon": "Azurill",
+          "rate": 10
+        },
+        {
+          "method": "Surf, Normal",
+          "pokemon": "Basculin",
+          "rate": 60
+        },
+        {
+          "method": "Surf, Normal",
+          "pokemon": "Marill",
+          "rate": 30
+        },
+        {
+          "method": "Surf, Normal",
+          "pokemon": "Feebas",
+          "rate": 10
+        },
+        {
+          "method": "Surf, Special",
+          "pokemon": "Basculin",
+          "rate": 60
+        },
+        {
+          "method": "Surf, Special",
+          "pokemon": "Azumarill",
+          "rate": 30
+        },
+        {
+          "method": "Surf, Special",
+          "pokemon": "Feebas",
+          "rate": 10
+        },
+        {
+          "method": "Fish, Normal",
+          "pokemon": "Goldeen",
+          "rate": 60
+        },
+        {
+          "method": "Fish, Normal",
+          "pokemon": "Magikarp",
+          "rate": 30
+        },
+        {
+          "method": "Fish, Normal",
+          "pokemon": "Feebas",
+          "rate": 10
+        },
+        {
+          "method": "Fish, Special",
+          "pokemon": "Basculin",
+          "rate": 60
+        },
+        {
+          "method": "Fish, Special",
+          "pokemon": "Dratini",
+          "rate": 30
+        },
+        {
+          "method": "Fish, Special",
+          "pokemon": "Gyarados",
+          "rate": 5
+        },
+        {
+          "method": "Fish, Special",
+          "pokemon": "Milotic",
+          "rate": 5
+        }
+      ]
+    },
+    {
       "name": "Route 2",
       "encounters": [
         {
@@ -10442,10 +10617,6 @@
           "rate": 5
         }
       ]
-    },
-    {
-      "name": "Liberty Garden",
-      "encounters": []
     },
     {
       "name": "Route 4",
@@ -13728,10 +13899,6 @@
       ]
     },
     {
-      "name": "N\u2019s Castle",
-      "encounters": []
-    },
-    {
       "name": "Route 11",
       "encounters": [
         {
@@ -14987,10 +15154,6 @@
       ]
     },
     {
-      "name": "Black City / White Forest",
-      "encounters": []
-    },
-    {
       "name": "Route 15",
       "encounters": [
         {
@@ -15347,309 +15510,6130 @@
     }
   ],
   "move_changes": {
-    "bulbasaur": [],
-    "ivysaur": [],
-    "venusaur": [],
-    "charmander": [],
-    "charmeleon": [],
-    "charizard": [],
-    "squirtle": [],
-    "wartortle": [],
-    "blastoise": [],
-    "caterpie": [],
-    "butterfree": [],
-    "weedle": [],
-    "beedrill": [],
-    "pidgey": [],
-    "pidgeotto": [],
-    "pidgeot": [],
-    "rattata": [],
-    "raticate": [],
-    "spearow": [],
-    "fearow": [],
-    "ekans": [],
-    "arbok": [],
-    "pichu, #025 pikachu, #026 raichu": [],
-    "sandshrew": [],
-    "sandslash": [],
-    "nidoran": [],
-    "nidorina": [],
-    "nidorino": [],
-    "cleffa, #035 clefairy, #036 clefable": [],
-    "vulpix": [],
-    "ninetales": [],
-    "igglybuff, #039 jigglypuff, #040 wigglytuff": [],
-    "zubat, #042 golbat, #169 crobat": [],
-    "oddish, #044 gloom, #045 vileplume, #182 bellossom": [],
-    "paras": [],
-    "parasect": [],
-    "venonat, #049 venomoth": [],
-    "meowth, #053 persian": [],
-    "psyduck, #055 golduck": [],
-    "primeape": [],
-    "growlithe": [],
-    "arcanine": [],
-    "poliwag, #061 poliwhirl": [],
-    "poliwrath": [],
-    "abra, #064 kadabra, #065 alakazam": [],
-    "machop, #067 machoke": [],
-    "machamp": [],
-    "bellsprout, #070 weepinbell": [],
-    "victreebel": [],
-    "tentacool, #073 tentacruel": [],
-    "geodude, #075 graveler, #076 golem": [],
-    "ponyta, #078 rapidash": [],
-    "slowpoke, #080 slowbro, #199 slowking": [],
-    "magnemite, #082 magneton, #462 magnezone": [],
-    "farfetch'd": [],
-    "doduo, #085 dodrio": [],
-    "grimer, #089 muk": [],
-    "shellder": [],
-    "cloyster": [],
-    "gastly, #093 haunter, #094 gengar": [],
-    "onix, #208 steelix": [],
-    "drowzee, #097 hypno": [],
+    "bulbasaur": [
+      {
+        "level": 29,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "power-whip",
+        "marker": "+"
+      }
+    ],
+    "ivysaur": [
+      {
+        "level": 33,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "power-whip",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "leaf-storm",
+        "marker": "+"
+      }
+    ],
+    "venusaur": [
+      {
+        "level": 1,
+        "name": "ancientpower",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "power-whip",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "leaf-storm",
+        "marker": "+"
+      }
+    ],
+    "charmander": [
+      {
+        "level": 50,
+        "name": "belly-drum",
+        "marker": "+"
+      }
+    ],
+    "charmeleon": [
+      {
+        "level": 61,
+        "name": "belly-drum",
+        "marker": "+"
+      }
+    ],
+    "charizard": [
+      {
+        "level": 1,
+        "name": "crunch",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "dragon-pulse",
+        "marker": "-"
+      },
+      {
+        "level": 56,
+        "name": "dragon-dance",
+        "marker": "-"
+      },
+      {
+        "level": 61,
+        "name": "inferno",
+        "marker": "="
+      },
+      {
+        "level": 66,
+        "name": "outrage",
+        "marker": "+"
+      },
+      {
+        "level": 83,
+        "name": "belly-drum",
+        "marker": "+"
+      }
+    ],
+    "squirtle": [
+      {
+        "level": 31,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "water-spout",
+        "marker": "+"
+      },
+      {
+        "level": 46,
+        "name": "shell-smash",
+        "marker": "+"
+      }
+    ],
+    "wartortle": [
+      {
+        "level": 16,
+        "name": "aqua-jet",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "water-spout",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "shell-smash",
+        "marker": "+"
+      }
+    ],
+    "blastoise": [
+      {
+        "level": 1,
+        "name": "zap-cannon",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "aqua-jet",
+        "marker": "+"
+      },
+      {
+        "level": 39,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "water-spout",
+        "marker": "+"
+      },
+      {
+        "level": 74,
+        "name": "shell-smash",
+        "marker": "+"
+      }
+    ],
+    "caterpie": [
+      {
+        "level": 1,
+        "name": "bug-bite",
+        "marker": "="
+      },
+      {
+        "level": 1,
+        "name": "snore",
+        "marker": "+"
+      },
+      {
+        "level": 6,
+        "name": "struggle-bug",
+        "marker": "+"
+      }
+    ],
+    "butterfree": [
+      {
+        "level": 1,
+        "name": "struggle-bug",
+        "marker": "+"
+      },
+      {
+        "level": 10,
+        "name": "air-cutter",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "giga-drain",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "air-slash",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "baton-pass",
+        "marker": "+"
+      }
+    ],
+    "weedle": [
+      {
+        "level": 1,
+        "name": "bug-bite",
+        "marker": "="
+      },
+      {
+        "level": 6,
+        "name": "poison-tail",
+        "marker": "+"
+      }
+    ],
+    "beedrill": [
+      {
+        "level": 1,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 10,
+        "name": "cross-poison",
+        "marker": "+"
+      },
+      {
+        "level": 10,
+        "name": "rage",
+        "marker": "="
+      },
+      {
+        "level": 19,
+        "name": "x-scissor",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "megahorn",
+        "marker": "+"
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": "+"
+      }
+    ],
+    "pidgey": [
+      {
+        "level": 1,
+        "name": "gust",
+        "marker": "="
+      },
+      {
+        "level": 1,
+        "name": "razor-wind",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "pluck",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "quick-attack",
+        "marker": "="
+      },
+      {
+        "level": 13,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "whirlwind",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "u-turn",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "mud-slap",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "brave-bird",
+        "marker": "+"
+      }
+    ],
+    "pidgeotto": [
+      {
+        "level": 1,
+        "name": "razor-wind",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "pluck",
+        "marker": "-"
+      },
+      {
+        "level": 11,
+        "name": "quick-attack",
+        "marker": "="
+      },
+      {
+        "level": 13,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "whirlwind",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "u-turn",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "acrobatics",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "steel-wing",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "brave-bird",
+        "marker": "+"
+      }
+    ],
+    "pidgeot": [
+      {
+        "level": 1,
+        "name": "razor-wind",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "pluck",
+        "marker": "-"
+      },
+      {
+        "level": 11,
+        "name": "quick-attack",
+        "marker": "="
+      },
+      {
+        "level": 13,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "whirlwind",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "u-turn",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "acrobatics",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "close-combat",
+        "marker": "+"
+      },
+      {
+        "level": 74,
+        "name": "brave-bird",
+        "marker": "+"
+      }
+    ],
+    "rattata": [
+      {
+        "level": 1,
+        "name": "bite",
+        "marker": "="
+      },
+      {
+        "level": 10,
+        "name": "flame-wheel",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "reversal",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "endeavor",
+        "marker": "="
+      },
+      {
+        "level": 40,
+        "name": "me-first",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "final-gambit",
+        "marker": "+"
+      }
+    ],
+    "raticate": [
+      {
+        "level": 1,
+        "name": "bite",
+        "marker": "="
+      },
+      {
+        "level": 10,
+        "name": "flame-wheel",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "swords-dance",
+        "marker": "="
+      },
+      {
+        "level": 20,
+        "name": "fire-fang",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "thunder-fang",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "ice-fang",
+        "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "reversal",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "endeavor",
+        "marker": "="
+      },
+      {
+        "level": 54,
+        "name": "me-first",
+        "marker": "+"
+      },
+      {
+        "level": 59,
+        "name": "final-gambit",
+        "marker": "+"
+      }
+    ],
+    "spearow": [
+      {
+        "level": 1,
+        "name": "sonicboom",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "pursuit",
+        "marker": "="
+      },
+      {
+        "level": 13,
+        "name": "steel-wing",
+        "marker": "+"
+      }
+    ],
+    "fearow": [
+      {
+        "level": 1,
+        "name": "pursuit",
+        "marker": "="
+      },
+      {
+        "level": 13,
+        "name": "steel-wing",
+        "marker": "+"
+      }
+    ],
+    "ekans": [
+      {
+        "level": 22,
+        "name": "poison-tail",
+        "marker": "+"
+      }
+    ],
+    "arbok": [
+      {
+        "level": 23,
+        "name": "poison-tail",
+        "marker": "+"
+      }
+    ],
+    "pichu, #025 pikachu, #026 raichu": [
+      {
+        "level": 23,
+        "name": "wish-(pichu-only)",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "sing-(pichu-only)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "petal-dance-(pichu)",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "dizzy-punch-(pichu)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "charge-(pikachu-only)",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "volt-tackle-(pikachu-and-raichu-only)",
+        "marker": "+"
+      }
+    ],
+    "sandshrew": [
+      {
+        "level": 17,
+        "name": "night-slash",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "metal-claw",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "sandslash": [
+      {
+        "level": 17,
+        "name": "night-slash",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "metal-claw",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "nidoran": [
+      {
+        "level": 1,
+        "name": "morning-sun",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "sweet-kiss",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "lovely-kiss",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "nidorina": [
+      {
+        "level": 31,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "nidorino": [
+      {
+        "level": 31,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "cleffa, #035 clefairy, #036 clefable": [
+      {
+        "level": 19,
+        "name": "stored-power-(cleffa-only)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "swift-(cleffa)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "petal-dance-(cleffa)",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "aromatherapy-(clefairy-only)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "fire-punch-(clefable-only)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "thunderpunch-(clefable-only)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "ice-punch-(clefable-only)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "belly-drum-(clefable-only)",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "wish-(clefable-only)",
+        "marker": "+"
+      }
+    ],
+    "vulpix": [
+      {
+        "level": 1,
+        "name": "fire-spin",
+        "marker": "="
+      },
+      {
+        "level": 14,
+        "name": "flame-burst",
+        "marker": "="
+      },
+      {
+        "level": 24,
+        "name": "hex",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "dark-pulse",
+        "marker": "-"
+      }
+    ],
+    "ninetales": [
+      {
+        "level": 23,
+        "name": "ominous-wind",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "heat-wave",
+        "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "power-swap",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "morning-sun",
+        "marker": "+"
+      }
+    ],
+    "igglybuff, #039 jigglypuff, #040 wigglytuff": [
+      {
+        "level": 1,
+        "name": "metronome-(igglybuff,-jigglypuff)",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "perish-song-(jigglypuff-only)",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "fake-tears-(igglybuff-only)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "mimic-(igglybuff)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "petal-dance-(igglybuff)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "wish-(jigglypuff-only)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "gravity-(wigglytuff-only)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "magic-coat-(wigglytuff-only)",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "heal-bell-(wigglytuff-only)",
+        "marker": "+"
+      }
+    ],
+    "zubat, #042 golbat, #169 crobat": [
+      {
+        "level": 1,
+        "name": "flail-(zubat)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(crobat)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "wing-attack",
+        "marker": "="
+      },
+      {
+        "level": 18,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "roost-(golbat,-crobat)",
+        "marker": "+"
+      }
+    ],
+    "oddish, #044 gloom, #045 vileplume, #182 bellossom": [
+      {
+        "level": 1,
+        "name": "leech-seed-(oddish)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "petal-dance-(bellossom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "razor-leaf-(oddish-and-gloom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "nature-power-(oddish-and-gloom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "drain-punch-(gloom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "earth-power-(vileplume-only)",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "quiver-dance-(bellossom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "earth-power-(bellossom)",
+        "marker": "+"
+      }
+    ],
+    "paras": [
+      {
+        "level": 1,
+        "name": "synthesis",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fury-cutter",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "leech-seed",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "cross-poison",
+        "marker": "+"
+      }
+    ],
+    "parasect": [
+      {
+        "level": 1,
+        "name": "fury-cutter",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "leech-seed",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "cross-poison",
+        "marker": "="
+      }
+    ],
+    "venonat, #049 venomoth": [
+      {
+        "level": 1,
+        "name": "leech-life",
+        "marker": "="
+      },
+      {
+        "level": 17,
+        "name": "signal-beam",
+        "marker": "+"
+      }
+    ],
+    "meowth, #053 persian": [
+      {
+        "level": 1,
+        "name": "icy-wind-(persian)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "water-pulse-(persian)",
+        "marker": "+"
+      },
+      {
+        "level": 12,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "secret-power",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "foul-play",
+        "marker": "+"
+      }
+    ],
+    "psyduck, #055 golduck": [
+      {
+        "level": 1,
+        "name": "petal-dance-(psyduck)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "tri-attack-(psyduck)",
+        "marker": "+"
+      },
+      {
+        "level": 12,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "psybeam",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "cross-chop-(golduck-only)",
+        "marker": "+"
+      }
+    ],
+    "primeape": [
+      {
+        "level": 28,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "ice-punch",
+        "marker": "+"
+      }
+    ],
+    "growlithe": [
+      {
+        "level": 11,
+        "name": "double-kick",
+        "marker": "+"
+      }
+    ],
+    "arcanine": [
+      {
+        "level": 1,
+        "name": "dragon-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "crunch",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "morning-sun",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "close-combat",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "flare-blitz",
+        "marker": "+"
+      }
+    ],
+    "poliwag, #061 poliwhirl": [
+      {
+        "level": 1,
+        "name": "growth-(poliwag)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "sweet-kiss-(poliwag)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "lovely-kiss-(poliwag)",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "mud-shot",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "metronome-(poliwhirl)",
+        "marker": "+"
+      }
+    ],
+    "poliwrath": [
+      {
+        "level": 1,
+        "name": "vacuum-wave",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "close-combat",
+        "marker": "+"
+      }
+    ],
+    "abra, #064 kadabra, #065 alakazam": [
+      {
+        "level": 1,
+        "name": "foresight-(abra)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "metronome-(abra)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "gravity-(alakazam)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "shock-wave-(kadabra,-alakazam)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "gravity-(kadabra,-alakazam)",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "aura-sphere-(alakazam-only)",
+        "marker": "+"
+      }
+    ],
+    "machop, #067 machoke": [
+      {
+        "level": 1,
+        "name": "thrash-(machop)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "metronome",
+        "marker": "+"
+      }
+    ],
+    "machamp": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "bullet-punch",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "metronome",
+        "marker": "+"
+      },
+      {
+        "level": 59,
+        "name": "close-combat",
+        "marker": "+"
+      }
+    ],
+    "bellsprout, #070 weepinbell": [
+      {
+        "level": 3,
+        "name": "sweet-kiss-(bellsprout)",
+        "marker": "+"
+      },
+      {
+        "level": 5,
+        "name": "lovely-kiss-(bellsprout)",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "leech-life",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "razor-leaf",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "clear-smog",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "power-whip",
+        "marker": "+"
+      }
+    ],
+    "victreebel": [
+      {
+        "level": 1,
+        "name": "weather-ball",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "sucker-punch",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "crunch",
+        "marker": "+"
+      }
+    ],
+    "tentacool, #073 tentacruel": [
+      {
+        "level": 1,
+        "name": "confuse-ray-(tentacool)",
+        "marker": "+"
+      }
+    ],
+    "geodude, #075 graveler, #076 golem": [
+      {
+        "level": 1,
+        "name": "rapid-spin-(geodude)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fire-punch-(golem-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(golem-only)",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "bulldoze-(golem)",
+        "marker": "="
+      },
+      {
+        "level": 36,
+        "name": "steamroller-(golem-only)",
+        "marker": "="
+      }
+    ],
+    "ponyta, #078 rapidash": [
+      {
+        "level": 1,
+        "name": "baton-pass",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "morning-sun-(rapidash-only)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "double-kick",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "low-kick",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "horn-drill-(rapidash-only)",
+        "marker": "+"
+      }
+    ],
+    "slowpoke, #080 slowbro, #199 slowking": [
+      {
+        "level": 21,
+        "name": "brine",
+        "marker": "+"
+      },
+      {
+        "level": 62,
+        "name": "aura-sphere-(slowking-only)",
+        "marker": "+"
+      }
+    ],
+    "magnemite, #082 magneton, #462 magnezone": [
+      {
+        "level": 1,
+        "name": "agility-(magnemite)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "signal-beam",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "tri-attack-(magneton-only)",
+        "marker": "="
+      }
+    ],
+    "farfetch'd": [
+      {
+        "level": 16,
+        "name": "revenge",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "leaf-blade",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "sacred-sword",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "close-combat",
+        "marker": "+"
+      }
+    ],
+    "doduo, #085 dodrio": [
+      {
+        "level": 1,
+        "name": "low-kick-(doduo)",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "drill-run-(dodrio-only)",
+        "marker": "+"
+      }
+    ],
+    "grimer, #089 muk": [
+      {
+        "level": 1,
+        "name": "curse-(muk-only)",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "shadow-sneak",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "shadow-punch",
+        "marker": "+"
+      }
+    ],
+    "shellder": [
+      {
+        "level": 7,
+        "name": "supersonic",
+        "marker": "="
+      },
+      {
+        "level": 10,
+        "name": "bubblebeam",
+        "marker": "+"
+      }
+    ],
+    "cloyster": [
+      {
+        "level": 1,
+        "name": "rock-blast",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "shell-smash",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "hydro-pump",
+        "marker": "+"
+      }
+    ],
+    "gastly, #093 haunter, #094 gengar": [
+      {
+        "level": 1,
+        "name": "metronome-(gengar)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "ominous-wind",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "clear-smog",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "aura-sphere-(gengar-only)",
+        "marker": "+"
+      }
+    ],
+    "onix, #208 steelix": [
+      {
+        "level": 3,
+        "name": "coil",
+        "marker": "+"
+      }
+    ],
+    "drowzee, #097 hypno": [
+      {
+        "level": 1,
+        "name": "amnesia-(drowzee)",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "dream-eater",
+        "marker": "="
+      },
+      {
+        "level": 19,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "psycho-cut",
+        "marker": "+"
+      }
+    ],
     "krabby, #099 kingler": [],
-    "voltorb, #101 electrode": [],
-    "exeggcute": [],
-    "exeggutor": [],
-    "cubone, #105 marowak": [],
-    "hitmonlee": [],
-    "hitmonchan": [],
+    "voltorb, #101 electrode": [
+      {
+        "level": 1,
+        "name": "agility-(voltorb)",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "signal-beam",
+        "marker": "+"
+      }
+    ],
+    "exeggcute": [
+      {
+        "level": 1,
+        "name": "sweet-scent",
+        "marker": "+"
+      },
+      {
+        "level": 14,
+        "name": "confusion",
+        "marker": "="
+      },
+      {
+        "level": 25,
+        "name": "synthesis",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "giga-drain",
+        "marker": "+"
+      }
+    ],
+    "exeggutor": [
+      {
+        "level": 1,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "low-kick",
+        "marker": "+"
+      }
+    ],
+    "cubone, #105 marowak": [
+      {
+        "level": 1,
+        "name": "sing-(marowak-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fire-punch-(marowak-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(marowak-only)",
+        "marker": "+"
+      }
+    ],
+    "hitmonlee": [
+      {
+        "level": 65,
+        "name": "bounce",
+        "marker": "+"
+      }
+    ],
+    "hitmonchan": [
+      {
+        "level": 36,
+        "name": "drain-punch",
+        "marker": "+"
+      }
+    ],
     "lickitung, #463 lickilicky": [],
     "koffing, #110 weezing": [],
-    "rhyhorn, #112 rhydon, #464 rhyperior": [],
-    "happiny, #113 chansey, #242 blissey": [],
-    "tangela, #465 tangrowth": [],
-    "kangaskhan": [],
-    "horsea, #117 seadra, #230 kingdra": [],
-    "goldeen, #119 seaking": [],
-    "staryu": [],
-    "starmie": [],
-    "mime jr., #122 mr. mime": [],
-    "scyther, #212 scizor": [],
-    "smoochum, #124 jynx": [],
-    "elekid, #125 electabuzz, #466 electivire": [],
-    "magby, #126 magmar, #467 magmortar": [],
-    "pinsir": [],
-    "tauros": [],
-    "magikarp, #130 gyarados": [],
-    "lapras": [],
-    "eevee, #134 vaporeon, #135 jolteon, #136 flareon, #196 espeon, #197 umbreon, #470 leafeon, #471 glaceon": [],
-    "porygon, #233 porygon2, #474 porygon": [],
-    "omanyte, #139 omastar": [],
-    "aerodactyl": [],
-    "munchlax, #143 snorlax": [],
-    "dratini, #148 dragonair, #149 dragonite": [],
-    "chikorita, #153 bayleef, #154 meganium": [],
-    "cyndaquil, #156 quilava, #157 typhlosion": [],
-    "totodile, #159 croconaw, #160 feraligatr": [],
-    "sentret, #162 furret": [],
-    "hoothoot, #164 noctowl": [],
+    "rhyhorn, #112 rhydon, #464 rhyperior": [
+      {
+        "level": 1,
+        "name": "fire-fang-(rhyperior-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunder-fang-(rhyperior-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-fang-(rhyperior-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "superpower-(rhydon-and-rhyperior-only)",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "crunch",
+        "marker": "+"
+      }
+    ],
+    "happiny, #113 chansey, #242 blissey": [
+      {
+        "level": 1,
+        "name": "sweet-scent-(chansey)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "wish-(happiny)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "seismic-toss-(happiny)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "last-resort-(happiny-only)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "counter-(chansey-and-blissey-only)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "aromatherapy-(chansey-and-blissey-only)",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "gravity-(chansey-and-blissey-only)",
+        "marker": "+"
+      }
+    ],
+    "tangela, #465 tangrowth": [
+      {
+        "level": 1,
+        "name": "synthesis-(tangela)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "giga-drain",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "leaf-storm-(tangrowth-only)",
+        "marker": "+"
+      }
+    ],
+    "kangaskhan": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "horsea, #117 seadra, #230 kingdra": [
+      {
+        "level": 1,
+        "name": "haze-(horsea)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "dragon-rage",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "octazooka",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "dragonbreath",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "outrage-(kingdra-only)",
+        "marker": "+"
+      }
+    ],
+    "goldeen, #119 seaking": [
+      {
+        "level": 1,
+        "name": "swords-dance-(goldeen)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "aqua-tail-(seaking-only)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "body-slam-(seaking-only)",
+        "marker": "+"
+      }
+    ],
+    "staryu": [
+      {
+        "level": 22,
+        "name": "signal-beam",
+        "marker": "+"
+      }
+    ],
+    "starmie": [
+      {
+        "level": 1,
+        "name": "twister",
+        "marker": "+"
+      },
+      {
+        "level": 46,
+        "name": "pain-split",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "aura-sphere",
+        "marker": "+"
+      }
+    ],
+    "mime jr., #122 mr. mime": [
+      {
+        "level": 13,
+        "name": "hypnosis-(mime-jr.-only)",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "nasty-plot-(mime-jr.-only)",
+        "marker": "+"
+      }
+    ],
+    "scyther, #212 scizor": [
+      {
+        "level": 1,
+        "name": "crabhammer-(scizor)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "sonicboom-(scyther)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "night-slash",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "bug-bite",
+        "marker": "+"
+      }
+    ],
+    "smoochum, #124 jynx": [
+      {
+        "level": 1,
+        "name": "petal-dance",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "wish-(jynx-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "water-pulse-(jynx-only)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "metronome-(smoochum)",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "psycho-boost-(jynx-only)",
+        "marker": "+"
+      }
+    ],
+    "elekid, #125 electabuzz, #466 electivire": [
+      {
+        "level": 1,
+        "name": "dizzy-punch-(elekid)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(electivire-only)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "pursuit-(elekid)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "circle-throw-(electivire-only)",
+        "marker": "-"
+      },
+      {
+        "level": 50,
+        "name": "close-combat-(electivire-only)",
+        "marker": "-"
+      },
+      {
+        "level": 62,
+        "name": "volt-tackle-(electivire-only)",
+        "marker": "-"
+      }
+    ],
+    "magby, #126 magmar, #467 magmortar": [
+      {
+        "level": 1,
+        "name": "nasty-plot-(magmortar-only)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "faint-attack-(magby)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "flare-blitz-(magmortar-only)",
+        "marker": "-"
+      },
+      {
+        "level": 50,
+        "name": "aura-sphere-(magmortar-only)",
+        "marker": "-"
+      },
+      {
+        "level": 62,
+        "name": "magma-storm-(magmortar-only)",
+        "marker": "-"
+      }
+    ],
+    "pinsir": [
+      {
+        "level": 1,
+        "name": "rock-throw",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "close-combat",
+        "marker": "+"
+      },
+      {
+        "level": 62,
+        "name": "megahorn",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "wood-horn",
+        "marker": "+"
+      }
+    ],
+    "tauros": [
+      {
+        "level": 1,
+        "name": "quick-attack",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "double-edge",
+        "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "megahorn",
+        "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "giga-impact",
+        "marker": "="
+      }
+    ],
+    "magikarp, #130 gyarados": [
+      {
+        "level": 1,
+        "name": "bubble-(magikarp)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "bounce-(magikarp-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "reversal-(magikarp)",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "crunch-(gyarados)",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "outrage-(gyarados-only)",
+        "marker": "+"
+      }
+    ],
+    "lapras": [
+      {
+        "level": 1,
+        "name": "bite",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "future-sight",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "outrage",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "aqua-tail",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "sheer-cold",
+        "marker": "="
+      },
+      {
+        "level": 69,
+        "name": "shell-smash",
+        "marker": "+"
+      }
+    ],
+    "eevee, #134 vaporeon, #135 jolteon, #136 flareon, #196 espeon, #197 umbreon, #470 leafeon, #471 glaceon": [
+      {
+        "level": 1,
+        "name": "growth-(same-for-all-eight.)",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "yawn-/-water-pulse-/-shock-wave-/-flame-wheel-/-power-gem-/-tickle-/-aromatherapy-/-aurora-beam",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "wish-/-scald-/-electro-ball-/-superpower-/-fake-tears-/-foul-play-/--dragon-rush-/-earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 73,
+        "name": "nothing-/-heal-bell-/-volt-tackle-/-flare-blitz-/-aura-sphere-/-power-trick-/-wood-hammer-/-sheer-cold",
+        "marker": "+"
+      }
+    ],
+    "porygon, #233 porygon2, #474 porygon": [
+      {
+        "level": 1,
+        "name": "transform",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "barrier-(porygon)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "dark-pulse-(porygon-z)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "pain-split-(porygon-z)",
+        "marker": "+"
+      }
+    ],
+    "omanyte, #139 omastar": [
+      {
+        "level": 40,
+        "name": "power-gem",
+        "marker": "+"
+      }
+    ],
+    "aerodactyl": [
+      {
+        "level": 81,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 89,
+        "name": "head-smash",
+        "marker": "+"
+      },
+      {
+        "level": 97,
+        "name": "giga-impact",
+        "marker": "="
+      }
+    ],
+    "munchlax, #143 snorlax": [
+      {
+        "level": 1,
+        "name": "sweet-kiss-(munchlax)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "lovely-kiss-(munchlax)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "gunk-shot-(snorlax-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "seed-bomb-(snorlax-only)",
+        "marker": "+"
+      },
+      {
+        "level": 62,
+        "name": "slack-off",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "double-edge",
+        "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "selfdestruct",
+        "marker": "+"
+      }
+    ],
+    "dratini, #148 dragonair, #149 dragonite": [
+      {
+        "level": 1,
+        "name": "hydro-pump-(dratini)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "coil-(dragonair-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "extremespeed-(dragonite-only)",
+        "marker": "+"
+      }
+    ],
+    "chikorita, #153 bayleef, #154 meganium": [
+      {
+        "level": 1,
+        "name": "grasswhistle-(meganium-only)",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "stun-spore",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "sleep-powder",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "nature-power",
+        "marker": "+"
+      }
+    ],
+    "cyndaquil, #156 quilava, #157 typhlosion": [
+      {
+        "level": 1,
+        "name": "earth-power-(typhlosion)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(typhlosion)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "extrasensory",
+        "marker": "+"
+      }
+    ],
+    "totodile, #159 croconaw, #160 feraligatr": [
+      {
+        "level": 1,
+        "name": "submission-(feraligatr)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(feraligatr)",
+        "marker": "+"
+      }
+    ],
+    "sentret, #162 furret": [
+      {
+        "level": 1,
+        "name": "dizzy-punch-(sentret)",
+        "marker": "+"
+      }
+    ],
+    "hoothoot, #164 noctowl": [
+      {
+        "level": 1,
+        "name": "night-shade-(hoothoot)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ominous-wind-(noctowl-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "silver-wind-(noctowl-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(noctowl-only)",
+        "marker": "+"
+      }
+    ],
     "ledyba, #166 ledian": [],
-    "spinarak, #168 ariados": [],
-    "chinchou, #171 lanturn": [],
-    "togepi, #176 togetic, #468 togekiss": [],
-    "natu, #178 xatu": [],
-    "mareep, #180 flaaffy, #181 ampharos": [],
-    "azurill, #183 marill, #184 azumarill": [],
-    "sudowoodo": [],
-    "hoppip, #188 skiploom, #189 jumpluff": [],
-    "aipom, #424 ambipom": [],
+    "spinarak, #168 ariados": [
+      {
+        "level": 12,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "electroweb",
+        "marker": "+"
+      }
+    ],
+    "chinchou, #171 lanturn": [
+      {
+        "level": 1,
+        "name": "light-screen-(chinchou)",
+        "marker": "+"
+      }
+    ],
+    "togepi, #176 togetic, #468 togekiss": [
+      {
+        "level": 1,
+        "name": "extrasensory-(togepi-and-togetic-only)",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "tri-attack-(togepi-and-togetic-only)",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "stored-power-(togepi-and-togetic-only)",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "softboiled-(togepi-and-togetic-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(togekiss-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "roost-(togekiss-only)",
+        "marker": "+"
+      }
+    ],
+    "natu, #178 xatu": [
+      {
+        "level": 1,
+        "name": "safeguard-(natu)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "air-cutter",
+        "marker": "-"
+      },
+      {
+        "level": 14,
+        "name": "confusion",
+        "marker": "+"
+      }
+    ],
+    "mareep, #180 flaaffy, #181 ampharos": [
+      {
+        "level": 1,
+        "name": "tail-glow-(ampharos-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "dragon-pulse-(ampharos)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "charge",
+        "marker": "+"
+      }
+    ],
+    "azurill, #183 marill, #184 azumarill": [
+      {
+        "level": 1,
+        "name": "dizzy-punch-(marill)",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "sing-(azurill-only)",
+        "marker": "+"
+      }
+    ],
+    "sudowoodo": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "selfdestruct",
+        "marker": "+"
+      }
+    ],
+    "hoppip, #188 skiploom, #189 jumpluff": [
+      {
+        "level": 1,
+        "name": "agility-(hoppip)",
+        "marker": "+"
+      },
+      {
+        "level": 79,
+        "name": "aromatherapy-(jumpluff-only)",
+        "marker": "+"
+      }
+    ],
+    "aipom, #424 ambipom": [
+      {
+        "level": 1,
+        "name": "fire-punch-(ambipom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(ambipom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(ambipom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "fake-out",
+        "marker": "+"
+      }
+    ],
     "sunkern, #192 sunflora": [],
-    "yanma, #469 yanmega": [],
-    "wooper, #195 quagsire": [],
-    "murkrow, #430 honchkrow": [],
-    "misdreavus, #429 mismagius": [],
-    "unown": [],
-    "wynaut, #202 wobbuffet": [],
-    "girafarig": [],
-    "pineco, #205 forretress": [],
-    "dunsparce": [],
-    "snubbull, #210 granbull": [],
-    "qwilfish": [],
-    "heracross": [],
-    "sneasel, #461 weavile": [],
-    "teddiursa, #217 ursaring": [],
+    "yanma, #469 yanmega": [
+      {
+        "level": 1,
+        "name": "steel-wing-(yanma)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "air-cutter",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "signal-beam",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "giga-drain",
+        "marker": "+"
+      }
+    ],
+    "wooper, #195 quagsire": [
+      {
+        "level": 1,
+        "name": "belly-drum-(wooper)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "body-slam-(quagsire-only)",
+        "marker": "+"
+      },
+      {
+        "level": 12,
+        "name": "acid-spray",
+        "marker": "+"
+      }
+    ],
+    "murkrow, #430 honchkrow": [
+      {
+        "level": 1,
+        "name": "beat-up-(murkrow)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(honchkrow-only)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "drill-peck",
+        "marker": "+"
+      }
+    ],
+    "misdreavus, #429 mismagius": [
+      {
+        "level": 1,
+        "name": "inferno-(mismagius)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "wonder-room-(mismagius)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "icy-wind-(mismagius)",
+        "marker": "+"
+      }
+    ],
+    "unown": [
+      {
+        "level": 11,
+        "name": "secret-power",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "ancientpower",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "cosmic-power",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "stored-power",
+        "marker": "+"
+      }
+    ],
+    "wynaut, #202 wobbuffet": [
+      {
+        "level": 15,
+        "name": "mimic-(wobbuffet)",
+        "marker": "+"
+      }
+    ],
+    "girafarig": [
+      {
+        "level": 51,
+        "name": "nasty-plot",
+        "marker": "+"
+      }
+    ],
+    "pineco, #205 forretress": [
+      {
+        "level": 26,
+        "name": "counter",
+        "marker": "+"
+      }
+    ],
+    "dunsparce": [
+      {
+        "level": 1,
+        "name": "horn-drill",
+        "marker": "+"
+      }
+    ],
+    "snubbull, #210 granbull": [
+      {
+        "level": 1,
+        "name": "lovely-kiss-(snubbull)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "metronome",
+        "marker": "+"
+      }
+    ],
+    "qwilfish": [
+      {
+        "level": 1,
+        "name": "double-edge",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
+    "heracross": [
+      {
+        "level": 3,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "wood-horn",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "horn-drill",
+        "marker": "+"
+      }
+    ],
+    "sneasel, #461 weavile": [
+      {
+        "level": 1,
+        "name": "moonlight-(sneasel)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fake-out-(weavile-only)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "crunch-(sneasel-only)",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "low-kick-(weavile-only)",
+        "marker": "+"
+      }
+    ],
+    "teddiursa, #217 ursaring": [
+      {
+        "level": 1,
+        "name": "fire-punch-(ursaring-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(ursaring-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(ursaring-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "crunch-(ursaring-only)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "close-combat-(ursaring-only)",
+        "marker": "+"
+      }
+    ],
     "slugma, #219 magcargo": [],
-    "swinub, #221 piloswine, #473 mamoswine": [],
-    "remoraid, #224 octillery": [],
-    "delibird": [],
-    "mantyke, #226 mantine": [],
-    "skarmory": [],
-    "houndour, #229 houndoom": [],
-    "phanpy, #232 donphan": [],
-    "stantler": [],
-    "miltank": [],
-    "raikou": [],
-    "entei": [],
-    "suicune": [],
-    "larvitar, #247 pupitar, #248 tyranitar": [],
-    "celebi": [],
-    "treecko, #253 grovyle, #254 sceptile": [],
-    "torchic, #256 combusken, #257 blaziken": [],
-    "mudkip, #259 marshtomp, #260 swampert": [],
-    "poochyena, #262 mightyena": [],
-    "zigzagoon, #264 linoone": [],
-    "wurmple, #266 silcoon, #267 beautifly, #268 cascoon, #269 dustox": [],
-    "lotad, #271 lombre, #272 ludicolo": [],
-    "seedot, #274 nuzleaf, #275 shiftry": [],
-    "taillow, #277 swellow": [],
-    "wingull, #279 pelipper": [],
-    "ralts, #281 kirlia, #282 gardevoir, #475 gallade": [],
-    "surskit, #284 masquerain": [],
-    "shroomish, #286 breloom": [],
-    "slakoth, #288 vigoroth, #289 slaking": [],
-    "nincada, #291 ninjask, #292 shedinja": [],
-    "whismur, #294 loudred, #295 exploud": [],
-    "makuhita, #297 hariyama": [],
-    "nosepass, #476 probopass": [],
-    "skitty, #301 delcatty": [],
-    "sableye": [],
-    "mawile": [],
-    "aron, #305 lairon, #306 aggron": [],
-    "meditite, #308 medicham": [],
-    "electrike, #310 manectric": [],
-    "volbeat": [],
-    "illumise": [],
-    "budew, #315 roselia, #407 roserade": [],
-    "gulpin, #317 swalot": [],
-    "carvanha, #319 sharpedo": [],
-    "wailmer, #321 wailord": [],
-    "numel, #323 camerupt": [],
-    "torkoal": [],
-    "spoink, #326 grumpig": [],
-    "spinda": [],
-    "trapinch, #329 vibrava, #330 flygon": [],
-    "cacnea, #332 cacturne": [],
-    "swablu, #334 altaria": [],
-    "zangoose": [],
-    "seviper": [],
-    "lunatone": [],
-    "solrock": [],
-    "barboach, #340 whiscash": [],
-    "corphish, #342 crawdaunt": [],
-    "baltoy, #344 claydol": [],
-    "lileep, #346 cradily": [],
-    "anorith, #348 armaldo": [],
-    "feebas, #350 milotic": [],
-    "kecleon": [],
-    "shuppet, #354 banette": [],
+    "swinub, #221 piloswine, #473 mamoswine": [
+      {
+        "level": 1,
+        "name": "superpower-(mamoswine-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-shard-(mamoswine)",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "icicle-spear",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "body-slam",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "avalanche",
+        "marker": "+"
+      }
+    ],
+    "remoraid, #224 octillery": [
+      {
+        "level": 1,
+        "name": "mist-(remoraid)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "amnesia-(remoraid)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "seed-bomb-(octillery-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "acid-spray-(octillery-only)",
+        "marker": "+"
+      }
+    ],
+    "delibird": [
+      {
+        "level": 1,
+        "name": "powder-snow",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "pay-day",
+        "marker": "+"
+      },
+      {
+        "level": 8,
+        "name": "acrobatics",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "mist",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "quick-attack",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "baton-pass",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "frost-breath",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "seed-bomb",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "fake-out",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "blizzard",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "hurricane",
+        "marker": "+"
+      },
+      {
+        "level": 78,
+        "name": "tailwind",
+        "marker": "+"
+      }
+    ],
+    "mantyke, #226 mantine": [
+      {
+        "level": 1,
+        "name": "gust-(mantine)",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "mirror-coat",
+        "marker": "+"
+      }
+    ],
+    "skarmory": [
+      {
+        "level": 1,
+        "name": "fury-cutter",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "sky-drop",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "air-cutter",
+        "marker": "="
+      },
+      {
+        "level": 26,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "drill-peck",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "brave-bird",
+        "marker": "+"
+      }
+    ],
+    "houndour, #229 houndoom": [
+      {
+        "level": 23,
+        "name": "snarl",
+        "marker": "+"
+      }
+    ],
+    "phanpy, #232 donphan": [
+      {
+        "level": 1,
+        "name": "counter-(donphan-only)",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "ice-shard-(donphan-only)",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "head-smash-(donphan-only)",
+        "marker": "+"
+      }
+    ],
+    "stantler": [
+      {
+        "level": 45,
+        "name": "horn-leech",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "megahorn",
+        "marker": "+"
+      }
+    ],
+    "miltank": [
+      {
+        "level": 1,
+        "name": "mega-kick",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "hammer-arm",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "raikou": [
+      {
+        "level": 1,
+        "name": "aura-sphere",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "extremespeed",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "weather-ball",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "zap-cannon",
+        "marker": "+"
+      }
+    ],
+    "entei": [
+      {
+        "level": 1,
+        "name": "flare-blitz",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "extremespeed",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "howl",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "crush-claw",
+        "marker": "+"
+      }
+    ],
+    "suicune": [
+      {
+        "level": 1,
+        "name": "air-slash",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "extremespeed",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "sheer-cold",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "aqua-ring",
+        "marker": "+"
+      }
+    ],
+    "larvitar, #247 pupitar, #248 tyranitar": [
+      {
+        "level": 1,
+        "name": "fire-punch-(tyranitar-only)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "iron-tail-(larvitar,-tyranitar)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "iron-defense-(pupitar)",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "dragon-dance-(tyranitar-only)",
+        "marker": "+"
+      }
+    ],
+    "celebi": [
+      {
+        "level": 1,
+        "name": "nasty-plot",
+        "marker": "+"
+      }
+    ],
+    "treecko, #253 grovyle, #254 sceptile": [
+      {
+        "level": 1,
+        "name": "thunderpunch-(sceptile-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "low-kick-(sceptile-only)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "magical-leaf-(grovyle-and-sceptile-only)",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "dragon-pulse-(sceptile-only)",
+        "marker": "+"
+      }
+    ],
+    "torchic, #256 combusken, #257 blaziken": [
+      {
+        "level": 1,
+        "name": "thunderpunch-(blaziken-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "night-slash-(blaziken-only)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "baton-pass-(torchic-only)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "low-kick-(combusken-and-blaziken-only)",
+        "marker": "+"
+      }
+    ],
+    "mudkip, #259 marshtomp, #260 swampert": [
+      {
+        "level": 1,
+        "name": "yawn",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "counter-(swampert-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "mirror-coat-(swampert-only)",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "ice-ball-(mudkip-only)",
+        "marker": "+"
+      }
+    ],
+    "poochyena, #262 mightyena": [
+      {
+        "level": 1,
+        "name": "super-fang-(mightyena-only)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "crunch-(mightyena-only)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "fire-fang-(mightyena-only)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "thunder-fang-(mightyena-only)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "ice-fang-(mightyena-only)",
+        "marker": "+"
+      }
+    ],
+    "zigzagoon, #264 linoone": [
+      {
+        "level": 1,
+        "name": "super-fang-(linoone-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "rock-climb-(linoone-only)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "extremespeed-(linoone-only)",
+        "marker": "+"
+      }
+    ],
+    "wurmple, #266 silcoon, #267 beautifly, #268 cascoon, #269 dustox": [
+      {
+        "level": 1,
+        "name": "poison-sting-(wurmple)",
+        "marker": "="
+      },
+      {
+        "level": 1,
+        "name": "bug-bite-(wurmple)",
+        "marker": "="
+      },
+      {
+        "level": 10,
+        "name": "air-cutter-(beautifly)",
+        "marker": "+"
+      },
+      {
+        "level": 10,
+        "name": "clear-smog-(dustox)",
+        "marker": "+"
+      },
+      {
+        "level": 10,
+        "name": "struggle-bug-(beautifly,-dustox)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "sleep-powder-(beautifly)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "reflect,-light-screen-(dustox)",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "air-slash-(beautifly)",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "tailwind-(dustox)",
+        "marker": "+"
+      }
+    ],
+    "lotad, #271 lombre, #272 ludicolo": [
+      {
+        "level": 1,
+        "name": "rain-dance-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "teeter-dance-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fire-punch-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "drain-punch-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "counter-(ludicolo)",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "water-gun-(lotad,-lombre)",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "leech-seed-(lotad,-lombre)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "synthesis-(lotad)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "water-pulse-(lombre)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "razor-leaf-(lotad,-lombre)",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "hydro-pump-(ludicolo)",
+        "marker": "+"
+      }
+    ],
+    "seedot, #274 nuzleaf, #275 shiftry": [
+      {
+        "level": 1,
+        "name": "hurricane-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "silver-wind-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ominous-wind-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "icy-wind-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "leaf-blade-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "twister-(shiftry)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "bullet-seed-(seedot)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "quick-attack-(seedot,-nuzleaf)",
+        "marker": "+"
+      },
+      {
+        "level": 14,
+        "name": "razor-leaf-(nuzleaf)",
+        "marker": "="
+      },
+      {
+        "level": 16,
+        "name": "foul-play-(nuzleaf)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "seed-bomb-(seedot)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "low-kick-(nuzleaf)",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "leech-seed-(seedot)",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "beat-up-(nuzleaf)",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "dark-pulse-(nuzleaf,-shiftry)",
+        "marker": "+"
+      }
+    ],
+    "taillow, #277 swellow": [
+      {
+        "level": 1,
+        "name": "superpower-(swellow)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "mirror-move",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "steel-wing",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "extremespeed-(swellow)",
+        "marker": "+"
+      }
+    ],
+    "wingull, #279 pelipper": [
+      {
+        "level": 1,
+        "name": "shock-wave-(pelipper)",
+        "marker": "+"
+      }
+    ],
+    "ralts, #281 kirlia, #282 gardevoir, #475 gallade": [
+      {
+        "level": 1,
+        "name": "sacred-sword-(gallade)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fire-punch-(gallade)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(gallade)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(gallade)",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "psybeam-(ralts,-kirlia,-gardevoir)",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "shock-wave-(ralts,-kirlia,-gardevoir)",
+        "marker": "+"
+      },
+      {
+        "level": 85,
+        "name": "aura-sphere-(gardevoir)",
+        "marker": "+"
+      }
+    ],
+    "surskit, #284 masquerain": [
+      {
+        "level": 28,
+        "name": "psybeam-(surskit)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "scald-(masquerain)",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "giga-drain-(surskit)",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "hydro-pump-(masquerain)",
+        "marker": "+"
+      },
+      {
+        "level": 73,
+        "name": "hurricane-(masquerain)",
+        "marker": "+"
+      }
+    ],
+    "shroomish, #286 breloom": [
+      {
+        "level": 1,
+        "name": "thunderpunch-(breloom)",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "bullet-seed",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "drain-punch-(breloom)",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "spore-(breloom)",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "focus-punch-(breloom)",
+        "marker": "+"
+      }
+    ],
+    "slakoth, #288 vigoroth, #289 slaking": [
+      {
+        "level": 1,
+        "name": "fire-punch-(slaking)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(slaking)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(slaking)",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "night-slash-(vigoroth,-slaking)",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "crush-claw-(slaking)",
+        "marker": "+"
+      }
+    ],
+    "nincada, #291 ninjask, #292 shedinja": [
+      {
+        "level": 1,
+        "name": "bug-bite-(nincada)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "night-slash-(ninjask)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "extremespeed-(ninjask)",
+        "marker": "+"
+      }
+    ],
+    "whismur, #294 loudred, #295 exploud": [
+      {
+        "level": 1,
+        "name": "fire-punch-(exploud)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(exploud)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(exploud)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fake-tears",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "circle-throw-(exploud)",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "hammer-arm-(exploud)",
+        "marker": "+"
+      }
+    ],
+    "makuhita, #297 hariyama": [
+      {
+        "level": 1,
+        "name": "fire-punch-(hariyama)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(hariyama)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(hariyama)",
+        "marker": "+"
+      }
+    ],
+    "nosepass, #476 probopass": [
+      {
+        "level": 22,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "ancientpower",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "earth-power",
+        "marker": "="
+      },
+      {
+        "level": 79,
+        "name": "sandstorm",
+        "marker": "="
+      },
+      {
+        "level": 85,
+        "name": "head-smash",
+        "marker": "+"
+      }
+    ],
+    "skitty, #301 delcatty": [
+      {
+        "level": 1,
+        "name": "pay-day",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "wish-(delcatty)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "captivate-(delcatty)",
+        "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "sucker-punch-(delcatty)",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "double-edge-(delcatty)",
+        "marker": "+"
+      }
+    ],
+    "sableye": [
+      {
+        "level": 63,
+        "name": "recover",
+        "marker": "+"
+      },
+      {
+        "level": 66,
+        "name": "metal-burst",
+        "marker": "+"
+      }
+    ],
+    "mawile": [
+      {
+        "level": 1,
+        "name": "fire-fang",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-fang",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunder-fang",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "metal-claw",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "metal-burst",
+        "marker": "+"
+      }
+    ],
+    "aron, #305 lairon, #306 aggron": [
+      {
+        "level": 1,
+        "name": "head-smash-(aggron)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "superpower-(aggron)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "bullet-punch-(aggron)",
+        "marker": "+"
+      }
+    ],
+    "meditite, #308 medicham": [
+      {
+        "level": 1,
+        "name": "bullet-punch-(medicham)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "force-palm",
+        "marker": "="
+      },
+      {
+        "level": 28,
+        "name": "psycho-cut",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "drain-punch-(medicham)",
+        "marker": "+"
+      }
+    ],
+    "electrike, #310 manectric": [
+      {
+        "level": 26,
+        "name": "flame-burst-(manectric)",
+        "marker": "+"
+      }
+    ],
+    "volbeat": [
+      {
+        "level": 15,
+        "name": "thundershock",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "struggle-bug",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "thunderbolt",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "baton-pass",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "tailwind",
+        "marker": "+"
+      }
+    ],
+    "illumise": [
+      {
+        "level": 15,
+        "name": "thundershock",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "struggle-bug",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "quiver-dance",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "thunderbolt",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "baton-pass",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "tailwind",
+        "marker": "+"
+      }
+    ],
+    "budew, #315 roselia, #407 roserade": [
+      {
+        "level": 19,
+        "name": "extrasensory-(budew)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "sleep-powder-(budew)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "giga-drain-(budew)",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "sleep-powder-(roselia)",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "leaf-storm-(roselia)",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "quiver-dance-(roselia)",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "petal-dance-(roserade)",
+        "marker": "+"
+      }
+    ],
+    "gulpin, #317 swalot": [
+      {
+        "level": 1,
+        "name": "seed-bomb-(swalot)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "pain-split-(swalot)",
+        "marker": "+"
+      }
+    ],
+    "carvanha, #319 sharpedo": [
+      {
+        "level": 1,
+        "name": "super-fang-(sharpedo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "zen-headbutt-(sharpedo)",
+        "marker": "+"
+      }
+    ],
+    "wailmer, #321 wailord": [
+      {
+        "level": 1,
+        "name": "zen-headbutt-(wailord)",
+        "marker": "+"
+      }
+    ],
+    "numel, #323 camerupt": [
+      {
+        "level": 1,
+        "name": "heat-wave-(camerupt)",
+        "marker": "+"
+      }
+    ],
+    "torkoal": [
+      {
+        "level": 1,
+        "name": "yawn",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "earth-power",
+        "marker": "+"
+      }
+    ],
+    "spoink, #326 grumpig": [
+      {
+        "level": 27,
+        "name": "extrasensory",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "shock-wave",
+        "marker": "+"
+      }
+    ],
+    "spinda": [
+      {
+        "level": 1,
+        "name": "fake-out",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "metronome",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "superpower",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "psycho-boost",
+        "marker": "+"
+      }
+    ],
+    "trapinch, #329 vibrava, #330 flygon": [
+      {
+        "level": 1,
+        "name": "bug-bite-(trapinch)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heat-wave-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "giga-drain-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "bug-buzz-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "dragon-dance-(vibrava,-flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "signal-beam-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "earth-power-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "sandstorm-(flygon)",
+        "marker": "="
+      },
+      {
+        "level": 57,
+        "name": "dragon-pulse-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "dragon-tail-(flygon)",
+        "marker": "="
+      },
+      {
+        "level": 65,
+        "name": "quiver-dance-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "outrage-(flygon)",
+        "marker": "+"
+      },
+      {
+        "level": 73,
+        "name": "hyper-beam-(flygon)",
+        "marker": "="
+      }
+    ],
+    "cacnea, #332 cacturne": [
+      {
+        "level": 1,
+        "name": "nasty-plot-(cacturne)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(cacturne)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "seed-bomb-(cacturne)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "dark-pulse-(cacturne)",
+        "marker": "+"
+      }
+    ],
+    "swablu, #334 altaria": [
+      {
+        "level": 1,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 42,
+        "name": "hyper-voice-(altaria)",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "outrage-(altaria)",
+        "marker": "+"
+      }
+    ],
+    "zangoose": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "night-slash",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "final-gambit",
+        "marker": "+"
+      },
+      {
+        "level": 62,
+        "name": "extremespeed",
+        "marker": "+"
+      }
+    ],
+    "seviper": [
+      {
+        "level": 67,
+        "name": "gunk-shot",
+        "marker": "+"
+      }
+    ],
+    "lunatone": [
+      {
+        "level": 1,
+        "name": "moonlight",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "ancientpower",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "hydro-pump",
+        "marker": "+"
+      }
+    ],
+    "solrock": [
+      {
+        "level": 1,
+        "name": "morning-sun",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "iron-head",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "flare-blitz",
+        "marker": "+"
+      }
+    ],
+    "barboach, #340 whiscash": [
+      {
+        "level": 1,
+        "name": "spark-(whiscash)",
+        "marker": "+"
+      }
+    ],
+    "corphish, #342 crawdaunt": [
+      {
+        "level": 1,
+        "name": "avalanche-(crawdaunt)",
+        "marker": "+"
+      }
+    ],
+    "baltoy, #344 claydol": [
+      {
+        "level": 1,
+        "name": "gravity-(claydol)",
+        "marker": "+"
+      }
+    ],
+    "lileep, #346 cradily": [
+      {
+        "level": 1,
+        "name": "seed-bomb-(cradily)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "mirror-coat-(cradily)",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "recover-(cradily)",
+        "marker": "+"
+      }
+    ],
+    "anorith, #348 armaldo": [
+      {
+        "level": 1,
+        "name": "aqua-tail-(armaldo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "superpower-(armaldo)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "cross-poison-(armaldo)",
+        "marker": "+"
+      }
+    ],
+    "feebas, #350 milotic": [
+      {
+        "level": 10,
+        "name": "hypnosis-(feebas)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "brine-(feebas)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "dragon-pulse-(feebas)",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "mirror-coat-(milotic)",
+        "marker": "+"
+      }
+    ],
+    "kecleon": [
+      {
+        "level": 1,
+        "name": "fake-out",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "recover",
+        "marker": "+"
+      }
+    ],
+    "shuppet, #354 banette": [
+      {
+        "level": 1,
+        "name": "shadow-sneak",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
     "duskull, #356 dusclops, #477 dusknoir": [],
-    "tropius": [],
-    "chingling, #358 chimecho": [],
-    "absol": [],
-    "snorunt, #362 glalie, #478 froslass": [],
-    "spheal, #364 sealeo, #365 walrein": [],
-    "clamperl, #367 huntail, #368 gorebyss": [],
-    "relicanth": [],
-    "bagon, #372 shelgon, #373 salamence": [],
-    "beldum, #375 metang, #376 metagross": [],
-    "turtwig, #388 grotle, #389 torterra": [],
-    "chimchar, #391 monferno, #392 infernape": [],
-    "piplup, #394 prinplup, #395 empoleon": [],
-    "starly, #397 staravia, #398 staraptor": [],
-    "bidoof, #400 bibarel": [],
-    "kricketot, #402 kricketune": [],
-    "shinx, #404 luxio, #405 luxray": [],
-    "cranidos, #409 rampardos": [],
-    "shieldon, #411 bastiodon": [],
-    "burmy, #413 wormadam, #414 mothim": [],
-    "combee, #416 vespiquen": [],
-    "pachirisu": [],
-    "buizel, #419 floatzel": [],
-    "cherubi, #421 cherrim": [],
-    "shellos, #423 gastrodon": [],
-    "drifloon, #426 drifblim": [],
-    "buneary, #428 lopunny": [],
-    "glameow, #432 purugly": [],
-    "stunky, #435 skuntank": [],
-    "bronzor, #437 bronzong": [],
-    "chatot": [],
-    "spiritomb": [],
-    "gible, #444 gabite, #445 garchomp": [],
-    "riolu, #448 lucario": [],
+    "tropius": [
+      {
+        "level": 1,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "leaf-blade",
+        "marker": "+"
+      },
+      {
+        "level": 77,
+        "name": "outrage",
+        "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "hurricane",
+        "marker": "+"
+      }
+    ],
+    "chingling, #358 chimecho": [
+      {
+        "level": 1,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "recover",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "hyper-voice",
+        "marker": "+"
+      }
+    ],
+    "absol": [
+      {
+        "level": 25,
+        "name": "agility",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "megahorn",
+        "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "sucker-punch",
+        "marker": "+"
+      }
+    ],
+    "snorunt, #362 glalie, #478 froslass": [
+      {
+        "level": 37,
+        "name": "avalanche-(glalie)",
+        "marker": "-"
+      },
+      {
+        "level": 37,
+        "name": "ice-beam-(froslass)",
+        "marker": "-"
+      }
+    ],
+    "spheal, #364 sealeo, #365 walrein": [
+      {
+        "level": 1,
+        "name": "curse-(walrein)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "super-fang-(walrein)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "aqua-tail-(walrein)",
+        "marker": "+"
+      }
+    ],
+    "clamperl, #367 huntail, #368 gorebyss": [
+      {
+        "level": 25,
+        "name": "muddy-water-(clamperl)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "barrier-(clamperl)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "shell-smash-(clamperl)",
+        "marker": "="
+      }
+    ],
+    "relicanth": [
+      {
+        "level": 1,
+        "name": "zen-headbutt",
+        "marker": "+"
+      }
+    ],
+    "bagon, #372 shelgon, #373 salamence": [
+      {
+        "level": 1,
+        "name": "hydro-pump-(salamence)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "roost-(salamence)",
+        "marker": "+"
+      }
+    ],
+    "beldum, #375 metang, #376 metagross": [
+      {
+        "level": 1,
+        "name": "zen-headbutt-(beldum)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "iron-head-(beldum)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "headbutt-(beldum)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(metagross)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(metagross)",
+        "marker": "+"
+      }
+    ],
+    "turtwig, #388 grotle, #389 torterra": [
+      {
+        "level": 69,
+        "name": "shell-smash-(torterra)",
+        "marker": "+"
+      }
+    ],
+    "chimchar, #391 monferno, #392 infernape": [
+      {
+        "level": 1,
+        "name": "fire-punch-(infernape)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(infernape)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fake-out-(infernape)",
+        "marker": "+"
+      }
+    ],
+    "piplup, #394 prinplup, #395 empoleon": [
+      {
+        "level": 13,
+        "name": "brine",
+        "marker": "+"
+      }
+    ],
+    "starly, #397 staravia, #398 staraptor": [
+      {
+        "level": 1,
+        "name": "roost-(staraptor)",
+        "marker": "+"
+      }
+    ],
+    "bidoof, #400 bibarel": [
+      {
+        "level": 15,
+        "name": "aqua-tail-(bibarel)",
+        "marker": "-"
+      }
+    ],
+    "kricketot, #402 kricketune": [
+      {
+        "level": 1,
+        "name": "struggle-bug-(kricketot)",
+        "marker": "="
+      },
+      {
+        "level": 1,
+        "name": "bug-bite-(kricketot)",
+        "marker": "="
+      }
+    ],
+    "shinx, #404 luxio, #405 luxray": [
+      {
+        "level": 1,
+        "name": "bite",
+        "marker": "="
+      },
+      {
+        "level": 1,
+        "name": "fire-fang-(luxray)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-fang-(luxray)",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "double-kick-(luxio,-luxray)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "thunder-wave-(shinx)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "dark-pulse-(luxray)",
+        "marker": "+"
+      },
+      {
+        "level": 70,
+        "name": "volt-tackle-(luxray)",
+        "marker": "+"
+      }
+    ],
+    "cranidos, #409 rampardos": [
+      {
+        "level": 1,
+        "name": "fire-punch-(rampardos)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(rampardos)",
+        "marker": "+"
+      }
+    ],
+    "shieldon, #411 bastiodon": [
+      {
+        "level": 1,
+        "name": "magnet-rise-(bastiodon)",
+        "marker": "+"
+      }
+    ],
+    "burmy, #413 wormadam, #414 mothim": [
+      {
+        "level": 1,
+        "name": "string-shot-(burmy)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "giga-drain-(mothim)",
+        "marker": "+"
+      },
+      {
+        "level": 20,
+        "name": "air-cutter-(mothim)",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "hurricane-(mothim)",
+        "marker": "+"
+      }
+    ],
+    "combee, #416 vespiquen": [
+      {
+        "level": 16,
+        "name": "tailwind-(combee)",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "endeavor-(combee)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "silver-wind-(vespiquen)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "acrobatics-(vespiquen)",
+        "marker": "+"
+      }
+    ],
+    "pachirisu": [
+      {
+        "level": 53,
+        "name": "fake-tears",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "uproar",
+        "marker": "+"
+      }
+    ],
+    "buizel, #419 floatzel": [
+      {
+        "level": 1,
+        "name": "low-kick-(floatzel)",
+        "marker": "+"
+      }
+    ],
+    "cherubi, #421 cherrim": [
+      {
+        "level": 1,
+        "name": "weather-ball-(cherrim)",
+        "marker": "+"
+      }
+    ],
+    "shellos, #423 gastrodon": [
+      {
+        "level": 1,
+        "name": "counter-(gastrodon)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "mirror-coat-(gastrodon)",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "brine",
+        "marker": "+"
+      }
+    ],
+    "drifloon, #426 drifblim": [
+      {
+        "level": 1,
+        "name": "shock-wave-(drifblim)",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "air-cutter-(drifblim)",
+        "marker": "+"
+      }
+    ],
+    "buneary, #428 lopunny": [
+      {
+        "level": 19,
+        "name": "fake-out",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "sky-uppercut",
+        "marker": "+"
+      },
+      {
+        "level": 39,
+        "name": "heal-bell",
+        "marker": "+"
+      }
+    ],
+    "glameow, #432 purugly": [
+      {
+        "level": 11,
+        "name": "bite",
+        "marker": "+"
+      }
+    ],
+    "stunky, #435 skuntank": [
+      {
+        "level": 18,
+        "name": "sucker-punch",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "flame-burst",
+        "marker": "+"
+      }
+    ],
+    "bronzor, #437 bronzong": [
+      {
+        "level": 1,
+        "name": "trick-(bronzong)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "gravity-(bronzong)",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "rollout",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "curse",
+        "marker": "+"
+      }
+    ],
+    "chatot": [
+      {
+        "level": 1,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "hurricane",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "heat-wave",
+        "marker": "+"
+      }
+    ],
+    "spiritomb": [
+      {
+        "level": 1,
+        "name": "icy-wind",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "shadow-sneak",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
+    "gible, #444 gabite, #445 garchomp": [
+      {
+        "level": 1,
+        "name": "aqua-tail-(garchomp)",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "extremespeed-(garchomp)",
+        "marker": "+"
+      }
+    ],
+    "riolu, #448 lucario": [
+      {
+        "level": 1,
+        "name": "blaze-kick-(lucario)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(lucario)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(lucario)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "vacuum-wave-(riolu)",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "crunch-(riolu)",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "low-kick-(riolu)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "hi-jump-kick-(riolu)",
+        "marker": "+"
+      }
+    ],
     "hippopotas, #450 hippowdon": [],
-    "skorupi, #452 drapion": [],
-    "croagunk, #454 toxicroak": [],
-    "carnivine": [],
-    "finneon, #457 lumineon": [],
+    "skorupi, #452 drapion": [
+      {
+        "level": 1,
+        "name": "aqua-tail-(drapion)",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "night-slash-(drapion)",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "storm-throw-(drapion)",
+        "marker": "+"
+      }
+    ],
+    "croagunk, #454 toxicroak": [
+      {
+        "level": 1,
+        "name": "thunderpunch-(toxicroak)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(toxicroak)",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "cross-chop",
+        "marker": "+"
+      }
+    ],
+    "carnivine": [
+      {
+        "level": 14,
+        "name": "bullet-seed",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "sleep-powder",
+        "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "seed-bomb",
+        "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "bug-bite",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "leaf-storm",
+        "marker": "+"
+      }
+    ],
+    "finneon, #457 lumineon": [
+      {
+        "level": 1,
+        "name": "ominous-wind-(lumineon)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "psybeam-(lumineon)",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "quiver-dance-(lumineon)",
+        "marker": "+"
+      }
+    ],
     "snover, #460 abomasnow": [],
-    "rotom": [],
-    "victini": [],
-    "snivy, #496 servine, #497 serperior": [],
-    "tepig, #499 pignite, #500 emboar": [],
-    "oshawott, #502 dewott, #503 samurott": [],
+    "rotom": [
+      {
+        "level": 1,
+        "name": "signal-beam-(regular-rotom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "hurricane-(fan-rotom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "glaciate-(frost-rotom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "lava-plume-(oven-rotom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "scald-(wash-rotom-only)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "energy-ball-(mow-rotom-only)",
+        "marker": "+"
+      }
+    ],
+    "victini": [
+      {
+        "level": 1,
+        "name": "fusion-flare",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fusion-bolt",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "v-create",
+        "marker": "+"
+      }
+    ],
+    "snivy, #496 servine, #497 serperior": [
+      {
+        "level": 17,
+        "name": "twister-(servine,-serperior)",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "zen-headbutt-(servine,-serperior)",
+        "marker": "-"
+      },
+      {
+        "level": 36,
+        "name": "dragonbreath-(serperior)",
+        "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "iron-tail-(serperior)",
+        "marker": "-"
+      },
+      {
+        "level": 50,
+        "name": "dragon-pulse-(serperior)",
+        "marker": "-"
+      },
+      {
+        "level": 56,
+        "name": "power-whip-(serperior)",
+        "marker": "-"
+      },
+      {
+        "level": 62,
+        "name": "outrage-(serperior)",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "mirror-coat-(serperior)",
+        "marker": "+"
+      },
+      {
+        "level": 74,
+        "name": "leaf-storm-(serperior)",
+        "marker": "="
+      }
+    ],
+    "tepig, #499 pignite, #500 emboar": [
+      {
+        "level": 1,
+        "name": "superpower-(emboar)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "fire-punch-(emboar)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(emboar)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "focus-punch-(emboar)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "magnitude-(pignite,-emboar)",
+        "marker": "-"
+      },
+      {
+        "level": 20,
+        "name": "arm-thrust-(pignite,-emboar)",
+        "marker": "-"
+      },
+      {
+        "level": 28,
+        "name": "sucker-punch-(pignite,-emboar)",
+        "marker": "-"
+      },
+      {
+        "level": 34,
+        "name": "bulldoze-(pignite,-emboar)",
+        "marker": "+"
+      }
+    ],
+    "oshawott, #502 dewott, #503 samurott": [
+      {
+        "level": 1,
+        "name": "secret-sword-(samurott)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "karate-chop-(dewott,-samurott)",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "sacred-sword-(samurott)",
+        "marker": "+"
+      },
+      {
+        "level": 76,
+        "name": "shell-smash-(samurott)",
+        "marker": "+"
+      }
+    ],
     "patrat, #505 watchog": [],
-    "purrloin, #510 liepard": [],
-    "pansage, #512 simisage, #513 pansear, #514 simisear, #515 panpour, #516 simipour": [],
-    "munna, #518 musharna": [],
-    "pidove, #520 tranquill, #521 unfezant": [],
-    "blitzle, #523 zebstrika": [],
-    "roggenrola, #525 boldore, #526 gigalith": [],
-    "woobat, #528 swoobat": [],
-    "drilbur, #530 excadrill": [],
-    "audino": [],
-    "timburr, #533 gurdurr, #534 conkeldurr": [],
-    "tympole, #536 palpitoad, #537 seismitoad": [],
-    "throh": [],
-    "sawk": [],
-    "sewaddle, #541 swadloon, #542 leavanny": [],
-    "venipede, #544 whirlipede, #545 scolipede": [],
-    "cottonee, #547 whimsicott": [],
-    "petilil, #549 lilligant": [],
-    "basculin": [],
-    "sandile, #552 krokorok, #553 krookodile": [],
-    "darumaka, #555 darmanitan": [],
-    "maractus": [],
-    "dwebble, #558 crustle": [],
-    "scraggy, #560 scrafty": [],
-    "sigilyph": [],
-    "yamask, #563 cofagrigus": [],
-    "archen, #567 archeops": [],
-    "trubbish, #569 garbodor": [],
-    "zorua, #571 zoroark": [],
-    "minccino, #573 cinccino": [],
-    "gothita, #575 gothorita, #576 gothitelle": [],
-    "solosis, #578 duosion, #579 reuniclus": [],
-    "ducklett, #581 swanna": [],
-    "vanillite, #583 vanillish, #584 vanilluxe": [],
-    "deerling, #586 sawsbuck": [],
-    "emolga": [],
-    "karrablast, #589 escavalier": [],
-    "foongus, #591 amoonguss": [],
-    "frillish, #593 jellicent": [],
-    "alomomola": [],
-    "ferroseed, #598 ferrothorn": [],
-    "klink, #600 klang, #601 klinklang": [],
-    "tynamo, #603 eelektrik, #604 eelektross": [],
-    "elgyem, #606 beheeyem": [],
-    "litwick, #608 lampent, #609 chandelure": [],
-    "axew, #611 fraxure, #612 haxorus": [],
-    "cubchoo, #614 beartic": [],
-    "shelmet, #617 accelgor": [],
-    "stunfisk": [],
-    "mienfoo, #620 mienshao": [],
-    "druddigon": [],
-    "golett, #623 golurk": [],
-    "pawniard": [],
-    "bisharp": [],
-    "bouffalant": [],
-    "rufflet, #628 braviary": [],
-    "vullaby, #630 mandibuzz": [],
-    "heatmor": [],
-    "durant": [],
-    "deino": [],
-    "zweilous, #635 hydreigon": [],
-    "larvesta, #637 volcarona": [],
-    "cobalion": [],
-    "terrakion": [],
-    "virizion": [],
-    "reshiram": [],
-    "zekrom": [],
-    "kyurem": [],
-    "keldeo": [],
-    "meloetta": []
+    "purrloin, #510 liepard": [
+      {
+        "level": 8,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "night-slash",
+        "marker": "="
+      }
+    ],
+    "pansage, #512 simisage, #513 pansear, #514 simisear, #515 panpour, #516 simipour": [
+      {
+        "level": 1,
+        "name": "nasty-plot-/-nasty-plot-/-nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "low-kick-/-low-kick-/-low-kick",
+        "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "leaf-storm-/-overheat-/-water-spout",
+        "marker": "+"
+      }
+    ],
+    "munna, #518 musharna": [
+      {
+        "level": 21,
+        "name": "baton-pass-(munna)",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "psyshock-(munna)",
+        "marker": "+"
+      },
+      {
+        "level": 39,
+        "name": "psychic-(musharna)",
+        "marker": "+"
+      }
+    ],
+    "pidove, #520 tranquill, #521 unfezant": [
+      {
+        "level": 1,
+        "name": "heat-wave-(unfezant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "silver-wind-(unfezant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ominous-wind-(unfezant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "hypnosis-(unfezant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "morning-sun-(unfezant)",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "swift",
+        "marker": "-"
+      }
+    ],
+    "blitzle, #523 zebstrika": [
+      {
+        "level": 13,
+        "name": "double-kick",
+        "marker": "+"
+      }
+    ],
+    "roggenrola, #525 boldore, #526 gigalith": [
+      {
+        "level": 1,
+        "name": "gravity-(gigalith)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heavy-slam-(gigalith)",
+        "marker": "+"
+      },
+      {
+        "level": 12,
+        "name": "magnitude",
+        "marker": "+"
+      }
+    ],
+    "woobat, #528 swoobat": [
+      {
+        "level": 1,
+        "name": "roost-(swoobat)",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "stored-power",
+        "marker": "+"
+      }
+    ],
+    "drilbur, #530 excadrill": [
+      {
+        "level": 1,
+        "name": "iron-head-(excadrill)",
+        "marker": "+"
+      }
+    ],
+    "audino": [
+      {
+        "level": 1,
+        "name": "yawn",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "heal-bell",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "encore",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "healing-wish",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "wish",
+        "marker": "+"
+      },
+      {
+        "level": 70,
+        "name": "gravity",
+        "marker": "+"
+      }
+    ],
+    "timburr, #533 gurdurr, #534 conkeldurr": [
+      {
+        "level": 1,
+        "name": "fire-punch-(conkeldurr)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(conkeldurr)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(conkeldurr)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "mach-punch-(conkeldurr)",
+        "marker": "+"
+      }
+    ],
+    "tympole, #536 palpitoad, #537 seismitoad": [
+      {
+        "level": 1,
+        "name": "gunk-shot-(seismitoad)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(seismitoad)",
+        "marker": "+"
+      }
+    ],
+    "throh": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "counter",
+        "marker": "+"
+      }
+    ],
+    "sawk": [
+      {
+        "level": 1,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "low-kick",
+        "marker": "+"
+      }
+    ],
+    "sewaddle, #541 swadloon, #542 leavanny": [
+      {
+        "level": 20,
+        "name": "synthesis-(swadloon)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "screech-(leavanny)",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "me-first-(leavanny)",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "agility-(leavanny)",
+        "marker": "+"
+      }
+    ],
+    "venipede, #544 whirlipede, #545 scolipede": [
+      {
+        "level": 1,
+        "name": "spikes-(scolipede)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "toxic-spikes-(scolipede)",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "twinneedle",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "superpower-(scolipede)",
+        "marker": "+"
+      }
+    ],
+    "cottonee, #547 whimsicott": [
+      {
+        "level": 1,
+        "name": "encore-(whimsicott)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "switcheroo-(whimsicott)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "tickle-(whimsicott)",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "grasswhistle-(whimsicott)",
+        "marker": "+"
+      }
+    ],
+    "petilil, #549 lilligant": [
+      {
+        "level": 1,
+        "name": "charm-(lilligant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "sweet-scent-(lilligant)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ingrain-(lilligant)",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "extrasensory-(petilil)",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "earth-power-(lilligant)",
+        "marker": "+"
+      }
+    ],
+    "basculin": [
+      {
+        "level": 1,
+        "name": "revenge",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "super-fang",
+        "marker": "+"
+      }
+    ],
+    "sandile, #552 krokorok, #553 krookodile": [
+      {
+        "level": 1,
+        "name": "fire-fang-(krookodile)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunder-fang-(krookodile)",
+        "marker": "+"
+      }
+    ],
+    "darumaka, #555 darmanitan": [
+      {
+        "level": 1,
+        "name": "yawn",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "focus-punch-(darmanitan)",
+        "marker": "+"
+      }
+    ],
+    "maractus": [
+      {
+        "level": 24,
+        "name": "spikes",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "grasswhistle",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "bounce",
+        "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "wood-hammer",
+        "marker": "+"
+      }
+    ],
+    "dwebble, #558 crustle": [
+      {
+        "level": 33,
+        "name": "night-slash",
+        "marker": "+"
+      }
+    ],
+    "scraggy, #560 scrafty": [
+      {
+        "level": 1,
+        "name": "fire-punch-(scrafty)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(scrafty)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(scrafty)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "drain-punch-(scrafty)",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "sucker-punch-(scrafty)",
+        "marker": "-"
+      }
+    ],
+    "sigilyph": [
+      {
+        "level": 26,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "psycho-shift",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "stored-power",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "hurricane",
+        "marker": "+"
+      }
+    ],
+    "yamask, #563 cofagrigus": [
+      {
+        "level": 1,
+        "name": "gravity-(cofagrigus)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "disable-(cofagrigus)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "pain-split",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "metal-burst-(cofagrigus)",
+        "marker": "+"
+      }
+    ],
+    "archen, #567 archeops": [
+      {
+        "level": 37,
+        "name": "dragon-pulse-(archeops)",
+        "marker": "+"
+      }
+    ],
+    "trubbish, #569 garbodor": [
+      {
+        "level": 16,
+        "name": "rollout",
+        "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "curse",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "rock-blast",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
+    "zorua, #571 zoroark": [
+      {
+        "level": 1,
+        "name": "extrasensory-(zoroark)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "counter-(zoroark)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "low-kick-(zoroark)",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "dark-pulse-(zoroark)",
+        "marker": "+"
+      }
+    ],
+    "minccino, #573 cinccino": [
+      {
+        "level": 1,
+        "name": "icicle-spear-(cinccino)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "iron-tail-(minccino)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "aqua-tail-(minccino)",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "magic-coat-(cinccino)",
+        "marker": "+"
+      },
+      {
+        "level": 46,
+        "name": "endeavor-(cinccino)",
+        "marker": "+"
+      }
+    ],
+    "gothita, #575 gothorita, #576 gothitelle": [
+      {
+        "level": 1,
+        "name": "gravity-(gothitelle)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "metronome-(gothitelle)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "recover",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "dark-pulse",
+        "marker": "+"
+      }
+    ],
+    "solosis, #578 duosion, #579 reuniclus": [
+      {
+        "level": 1,
+        "name": "gravity-(reuniclus)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "trick-(reuniclus)",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "confuse-ray",
+        "marker": "+"
+      }
+    ],
+    "ducklett, #581 swanna": [
+      {
+        "level": 1,
+        "name": "heat-wave-(swanna)",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "acrobatics-(swanna)",
+        "marker": "+"
+      }
+    ],
+    "vanillite, #583 vanillish, #584 vanilluxe": [
+      {
+        "level": 1,
+        "name": "magnet-rise-(vanilluxe)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "autotomize-(vanilluxe)",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "water-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "ice-shard",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "extrasensory",
+        "marker": "+"
+      }
+    ],
+    "deerling, #586 sawsbuck": [
+      {
+        "level": 1,
+        "name": "wood-hammer-(sawsbuck)",
+        "marker": "+"
+      }
+    ],
+    "emolga": [
+      {
+        "level": 1,
+        "name": "covet",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "iron-tail",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "air-slash",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "charm",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "iron-tail",
+        "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "baton-pass",
+        "marker": "+"
+      }
+    ],
+    "karrablast, #589 escavalier": [
+      {
+        "level": 1,
+        "name": "needle-arm-(escavalier)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "drill-peck-(escavalier)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "counter-(escavalier)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "drill-run-(escavalier)",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "megahorn",
+        "marker": "+"
+      }
+    ],
+    "foongus, #591 amoonguss": [
+      {
+        "level": 22,
+        "name": "stun-spore",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "poisonpowder",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "defense-curl",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "rollout",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "body-slam",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "seed-bomb-(amoonguss)",
+        "marker": "+"
+      }
+    ],
+    "frillish, #593 jellicent": [
+      {
+        "level": 1,
+        "name": "confuse-ray",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
+    "alomomola": [
+      {
+        "level": 1,
+        "name": "pain-split",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "mirror-coat",
+        "marker": "+"
+      }
+    ],
+    "ferroseed, #598 ferrothorn": [
+      {
+        "level": 1,
+        "name": "stealth-rock-(ferrothorn)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "rapid-spin",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "bullet-seed",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "leech-seed-(ferroseed)",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "spikes-(ferrothorn)",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "seed-bomb",
+        "marker": "+"
+      }
+    ],
+    "klink, #600 klang, #601 klinklang": [
+      {
+        "level": 1,
+        "name": "gravity-(klinklang)",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "spark",
+        "marker": "+"
+      }
+    ],
+    "tynamo, #603 eelektrik, #604 eelektross": [
+      {
+        "level": 54,
+        "name": "coil-(eelektross)",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "super-fang-(eelektross)",
+        "marker": "+"
+      }
+    ],
+    "elgyem, #606 beheeyem": [
+      {
+        "level": 1,
+        "name": "power-swap-(beheeyem)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "guard-swap-(beheeyem)",
+        "marker": "+"
+      }
+    ],
+    "litwick, #608 lampent, #609 chandelure": [
+      {
+        "level": 34,
+        "name": "heat-wave-(lampent)",
+        "marker": "+"
+      }
+    ],
+    "axew, #611 fraxure, #612 haxorus": [
+      {
+        "level": 1,
+        "name": "fire-punch-(haxorus)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(haxorus)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "aqua-tail-(haxorus)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "iron-tail-(haxorus)",
+        "marker": "+"
+      }
+    ],
+    "cubchoo, #614 beartic": [
+      {
+        "level": 1,
+        "name": "yawn",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "storm-throw-(beartic)",
+        "marker": "-"
+      },
+      {
+        "level": 53,
+        "name": "close-combat-(beartic)",
+        "marker": "-"
+      }
+    ],
+    "shelmet, #617 accelgor": [
+      {
+        "level": 1,
+        "name": "extremespeed-(accelgor)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "gunk-shot-(accelgor)",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "shell-smash-(shelmet)",
+        "marker": "-"
+      },
+      {
+        "level": 60,
+        "name": "aura-sphere-(accelgor)",
+        "marker": "+"
+      }
+    ],
+    "stunfisk": [
+      {
+        "level": 52,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "pain-split",
+        "marker": "+"
+      }
+    ],
+    "mienfoo, #620 mienshao": [
+      {
+        "level": 1,
+        "name": "vacuum-wave-(mienshao)",
+        "marker": "+"
+      }
+    ],
+    "druddigon": [
+      {
+        "level": 29,
+        "name": "fire-fang",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "thunder-fang",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "glare",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "sucker-punch",
+        "marker": "+"
+      }
+    ],
+    "golett, #623 golurk": [
+      {
+        "level": 1,
+        "name": "fire-punch-(golurk)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "thunderpunch-(golurk)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "ice-punch-(golurk)",
+        "marker": "+"
+      }
+    ],
+    "pawniard": [
+      {
+        "level": 43,
+        "name": "psycho-cut",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "sucker-punch",
+        "marker": "+"
+      }
+    ],
+    "bisharp": [
+      {
+        "level": 1,
+        "name": "revenge",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "leaf-blade",
+        "marker": "+"
+      }
+    ],
+    "bouffalant": [
+      {
+        "level": 1,
+        "name": "iron-head",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "zen-headbutt",
+        "marker": "+"
+      }
+    ],
+    "rufflet, #628 braviary": [
+      {
+        "level": 1,
+        "name": "roost-(braviary)",
+        "marker": "+"
+      },
+      {
+        "level": 39,
+        "name": "close-combat-(braviary)",
+        "marker": "+"
+      },
+      {
+        "level": 75,
+        "name": "extremespeed-(braviary)",
+        "marker": "+"
+      }
+    ],
+    "vullaby, #630 mandibuzz": [
+      {
+        "level": 1,
+        "name": "heat-wave-(mandibuzz)",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "roost-(mandibuzz)",
+        "marker": "+"
+      }
+    ],
+    "heatmor": [
+      {
+        "level": 66,
+        "name": "heat-wave",
+        "marker": "+"
+      }
+    ],
+    "durant": [
+      {
+        "level": 1,
+        "name": "thunder-fang",
+        "marker": "+"
+      }
+    ],
+    "deino": [
+      {
+        "level": 35,
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "earth-power",
+        "marker": "+"
+      }
+    ],
+    "zweilous, #635 hydreigon": [
+      {
+        "level": 30,
+        "name": "fire-fang",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "ice-fang",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "thunder-fang",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "work-up",
+        "marker": "="
+      },
+      {
+        "level": 55,
+        "name": "head-smash-(zweilous)",
+        "marker": "-"
+      }
+    ],
+    "larvesta, #637 volcarona": [
+      {
+        "level": 1,
+        "name": "morning-sun-(volcarona)",
+        "marker": "+"
+      }
+    ],
+    "cobalion": [
+      {
+        "level": 79,
+        "name": "secret-sword",
+        "marker": "+"
+      }
+    ],
+    "terrakion": [
+      {
+        "level": 79,
+        "name": "secret-sword",
+        "marker": "+"
+      }
+    ],
+    "virizion": [
+      {
+        "level": 79,
+        "name": "secret-sword",
+        "marker": "+"
+      }
+    ],
+    "reshiram": [
+      {
+        "level": 71,
+        "name": "blue-flare",
+        "marker": "="
+      }
+    ],
+    "zekrom": [
+      {
+        "level": 71,
+        "name": "bolt-strike",
+        "marker": "="
+      }
+    ],
+    "kyurem": [
+      {
+        "level": 78,
+        "name": "ice-burn",
+        "marker": "+"
+      },
+      {
+        "level": 78,
+        "name": "freeze-shock",
+        "marker": "+"
+      }
+    ],
+    "keldeo": [
+      {
+        "level": 1,
+        "name": "secret-sword",
+        "marker": "+"
+      }
+    ],
+    "meloetta": [
+      {
+        "level": 1,
+        "name": "relic-song",
+        "marker": "+"
+      }
+    ]
   },
-  "move_stat_changes": {}
+  "move_stat_changes": {},
+  "trainers": {
+    "Nuvema Town": [
+      {
+        "name": "Rival Bianca \u2013 1",
+        "pokemon": [
+          {
+            "name": "Snivy",
+            "level": "5",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          },
+          {
+            "name": "Oshawott",
+            "level": "?",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          },
+          {
+            "name": "Tepig",
+            "level": "?",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      },
+      {
+        "name": "Rival Cheren \u2013 1",
+        "pokemon": [
+          {
+            "name": "Snivy",
+            "level": "5",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          },
+          {
+            "name": "Oshawott",
+            "level": "?",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          },
+          {
+            "name": "Tepig",
+            "level": "?",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      },
+      {
+        "name": "Rival Bianca \u2013 Final",
+        "pokemon": [
+          {
+            "name": "Persian",
+            "level": "88",
+            "item": "Normal Gem",
+            "ability": "-",
+            "moves": [
+              "Nasty Plot",
+              "Hypnosis",
+              "Swift"
+            ]
+          }
+        ]
+      }
+    ],
+    "Accumula Town": [
+      {
+        "name": "PKMN Trainer N \u2013 1",
+        "pokemon": [
+          {
+            "name": "Nincada",
+            "level": "6",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Route 2": [
+      {
+        "name": "Rival Bianca \u2013 2",
+        "pokemon": [
+          {
+            "name": "Meowth",
+            "level": "9",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Striaton City": [
+      {
+        "name": "Rival Cheren \u2013 2",
+        "pokemon": [
+          {
+            "name": "Starly",
+            "level": "11",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Route 3": [
+      {
+        "name": "Rival Cheren \u2013 3",
+        "pokemon": [
+          {
+            "name": "Staravia",
+            "level": "14",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Nacrene City": [
+      {
+        "name": "PKMN Trainer N \u2013 2",
+        "pokemon": [
+          {
+            "name": "Drilbur",
+            "level": "19",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Castelia City-Route 4 Gatehouse": [
+      {
+        "name": "Rival Bianca \u2013 3",
+        "pokemon": [
+          {
+            "name": "Munna",
+            "level": "29",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Route 4": [
+      {
+        "name": "Rival Cheren \u2013 4",
+        "pokemon": [
+          {
+            "name": "Staravia",
+            "level": "31",
+            "item": "Sharp Beak",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Nimbasa City": [
+      {
+        "name": "PKMN Trainer N \u2013 3",
+        "pokemon": [
+          {
+            "name": "Hippopotas",
+            "level": "33",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Route 5": [
+      {
+        "name": "Rival Cheren \u2013 5",
+        "pokemon": [
+          {
+            "name": "Staraptor",
+            "level": "36",
+            "item": "Sharp Beak",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Driftveil City": [
+      {
+        "name": "Rival Bianca \u2013 4",
+        "pokemon": [
+          {
+            "name": "Mienfoo",
+            "level": "41",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Chargestone Cave": [
+      {
+        "name": "PKMN Trainer N \u2013 4",
+        "pokemon": [
+          {
+            "name": "Rotom",
+            "level": "47",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ]
+      }
+    ],
+    "Twist Mountain": [
+      {
+        "name": "Rival Cheren \u2013 6",
+        "pokemon": [
+          {
+            "name": "Staraptor",
+            "level": "53",
+            "item": "Sharp Beak",
+            "ability": "-",
+            "moves": [
+              "Brave Bird",
+              "Close Combat",
+              "Retaliate"
+            ]
+          }
+        ]
+      }
+    ],
+    "Route 8": [
+      {
+        "name": "Rival Bianca \u2013 5",
+        "pokemon": [
+          {
+            "name": "Persian",
+            "level": "61",
+            "item": "Chople Berry",
+            "ability": "-",
+            "moves": [
+              "Nasty Plot",
+              "Hypnosis",
+              "Swift"
+            ]
+          }
+        ]
+      }
+    ],
+    "Route 10": [
+      {
+        "name": "Rival Cheren \u2013 7",
+        "pokemon": [
+          {
+            "name": "Staraptor",
+            "level": "66",
+            "item": "Sharp Beak",
+            "ability": "-",
+            "moves": [
+              "Brave Bird",
+              "Close Combat",
+              "Double-Edge"
+            ]
+          }
+        ]
+      }
+    ],
+    "Victory Road": [
+      {
+        "name": "Rival Cheren \u2013 Final",
+        "pokemon": [
+          {
+            "name": "Staraptor",
+            "level": "88",
+            "item": "Life Orb",
+            "ability": "-",
+            "moves": [
+              "Brave Bird",
+              "Close Combat",
+              "Double-Edge"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

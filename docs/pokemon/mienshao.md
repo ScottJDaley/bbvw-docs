@@ -6,7 +6,8 @@
 <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Level 39
+**Base Game:** Level 50  
+**New:** Next Stage: Level 39
 
 ## Abilities
 - **[Reckless](abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power.
@@ -15,17 +16,17 @@
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 |  |
+| <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Speed | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Speed | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

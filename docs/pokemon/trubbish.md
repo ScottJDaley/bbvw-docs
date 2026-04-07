@@ -6,26 +6,26 @@
 <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Stench](abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit.
-- **[Sticky Hold](abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon.
+- <span class="change-new-label">NEW</span> **[Sticky Hold](abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.44444444444444%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.44444444444444%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.0%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

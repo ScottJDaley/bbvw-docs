@@ -6,26 +6,26 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/dark.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 30  
 
 ## Abilities
-- **[Hyper Cutter](abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon.
+- <span class="change-new-label">NEW</span> **[Hyper Cutter](abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon.
 - **[Adaptability](abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

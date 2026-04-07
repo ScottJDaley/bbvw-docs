@@ -6,43 +6,31 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/rock.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Sturdy](abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
-- **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
+- <span class="change-new-label">NEW</span> **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x4.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.25, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x4.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.25, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Defense | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Defense | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Harden](moves/harden.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 8 | <img src="img/types/water.png" width="40" alt="water" /> | [Water gun](moves/water-gun.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 15 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 95 | 15 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Yawn](moves/yawn.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 29 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Take down](moves/take-down.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 85 | 20 |
-| 36 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Mud sport](moves/mud-sport.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 43 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Ancient power](moves/ancient-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
-| 50 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 57 | <img src="img/types/water.png" width="40" alt="water" /> | [Dive](moves/dive.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
-| 64 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Rest](moves/rest.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 71 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
-| 78 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Head smash](moves/head-smash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 150 | 80 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

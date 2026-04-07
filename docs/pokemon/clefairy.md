@@ -6,11 +6,11 @@
 <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Happiness  
 
 ## Abilities
-- **[Cute Charm](abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact.
-- **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
+- <span class="change-new-label">NEW</span> **[Cute Charm](abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact.
+- <span class="change-new-label">NEW</span> **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
@@ -20,12 +20,12 @@ No changes from base games.
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Defense | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.666666666666668%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Defense | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.0%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

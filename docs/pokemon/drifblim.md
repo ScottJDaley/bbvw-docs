@@ -6,26 +6,26 @@
 <img src="img/types/ghost.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 28  
 
 ## Abilities
-- **[Flare Boost](abilities/flare-boost.md)**: Increases Special Attack to 1.5× when burned.
+- <span class="change-new-label">NEW</span> **[Flare Boost](abilities/flare-boost.md)**: Increases Special Attack to 1.5× when burned.
 - **[Unburden](abilities/unburden.md)**: Doubles Speed upon using or losing a held item.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.25 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-fighting">fighting</span>, <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.25 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0, <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:83.33333333333334%"></div></div> |
-| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.444444444444443%"></div></div> |
-| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special defense | 54 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
-| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
+| Hp | 150 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
+| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Defense | 44 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.0%"></div></div> |
+| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special defense | 54 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.0%"></div></div> |
+| Speed | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,44 +6,39 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 18  
 
 ## Abilities
-- **[Big Pecks](abilities/big-pecks.md)**: Protects against Defense drops.
-- **[Tangled Feet](abilities/tangled-feet.md)**: Doubles evasion when confused.
+- <span class="change-new-label">NEW</span> **[Big Pecks](abilities/big-pecks.md)**: Protects against Defense drops.
+- <span class="change-new-label">NEW</span> **[Tangled Feet](abilities/tangled-feet.md)**: Doubles evasion when confused.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span>, <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0, <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Special defense | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Speed | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.44444444444444%"></div></div> |
+| Hp | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Special defense | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Speed | 71 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Gust](moves/gust.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand attack](moves/sand-attack.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 17 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Whirlwind](moves/whirlwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 22 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Twister](moves/twister.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 20 |
-| 27 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Feather dance](moves/feather-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 32 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Agility](moves/agility.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 37 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Wing attack](moves/wing-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 35 |
-| 42 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Roost](moves/roost.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 47 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Tailwind](moves/tailwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 52 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Mirror move](moves/mirror-move.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 57 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air slash](moves/air-slash.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 95 | 15 |
-| 62 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Hurricane](moves/hurricane.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Razor wind](moves/razor-wind.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 10 |
+| <span class="change-old-label">REPLACED</span> 9 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Pluck](moves/pluck.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <span class="change-move-shifted">SHIFTED</span> 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 13 | - | Faint attack | - | - | - | - | - |
+| <span class="change-move-shifted">SHIFTED</span> 15 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Whirlwind](moves/whirlwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 17 | <img src="img/types/bug.png" width="40" alt="bug" /> | [U turn](moves/u-turn.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 18 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Acrobatics](moves/acrobatics.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 55 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 20 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Steel wing](moves/steel-wing.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 90 | 25 |
+| <span class="change-new-label">NEW</span> 67 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Brave bird](moves/brave-bird.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

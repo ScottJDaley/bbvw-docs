@@ -6,45 +6,36 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Early Bird](abilities/early-bird.md)**: Makes sleep pass twice as quickly.
+- <span class="change-new-label">NEW</span> **[Early Bird](abilities/early-bird.md)**: Makes sleep pass twice as quickly.
 - **[Scrappy](abilities/scrappy.md)**: Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Comet punch](moves/comet-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 18 | 85 | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fake out](moves/fake-out.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 10 |
-| 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tail whip](moves/tail-whip.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 13 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 19 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double hit](moves/double-hit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 90 | 10 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rage](moves/rage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 20 | 100 | 20 |
-| 25 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mega punch](moves/mega-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 85 | 20 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Chip away](moves/chip-away.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 34 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Dizzy punch](moves/dizzy-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 10 |
-| 37 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 43 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 46 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](moves/outrage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
-| 49 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
-| 55 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire punch](moves/fire-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | - | Thunderpunch | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice punch](moves/ice-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | - | Faint attack | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 40 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Drain punch](moves/drain-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

@@ -6,7 +6,7 @@
 <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 23  
 
 ## Abilities
 - **[Intimidate](abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle.
@@ -20,12 +20,12 @@ No changes from base games.
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">105</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Hp | <span class="change-new">105</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

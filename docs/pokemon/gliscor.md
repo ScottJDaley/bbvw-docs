@@ -6,26 +6,26 @@
 <img src="img/types/ground.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Hold razor-fang  
 
 ## Abilities
-- **[Hyper Cutter](abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon.
-- **[Poison Heal](abilities/poison-heal.md)**: Heals for 1/8 max HP after each turn when poisoned in place of damage.
+- <span class="change-new-label">NEW</span> **[Hyper Cutter](abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon.
+- <span class="change-new-label">NEW</span> **[Poison Heal](abilities/poison-heal.md)**: Heals for 1/8 max HP after each turn when poisoned in place of damage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ice">ice</span> x4.0 | <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-electric">electric</span>, <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x4.0 | <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0, <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Defense | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
+| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Defense | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Speed | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

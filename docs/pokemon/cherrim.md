@@ -6,26 +6,26 @@
 <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 25  
 
 ## Abilities
-- **[Flower Gift](abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
-- **[Flower Gift](abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
+- <span class="change-new-label">NEW</span> **[Flower Gift](abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
+- <span class="change-new-label">NEW</span> **[Flower Gift](abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | <span class="change-new">107</span> <span class="change-old">87</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:59.44444444444444%"></div></div> |
-| Special defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.333333333333336%"></div></div> |
-| Speed | <span class="change-new">95</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | <span class="change-new">107</span> <span class="change-old">87</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:53.5%"></div></div> |
+| Special defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.0%"></div></div> |
+| Speed | <span class="change-new">95</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

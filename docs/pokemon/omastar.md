@@ -6,26 +6,26 @@
 <img src="img/types/rock.png" width="60" /> <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 40  
 
 ## Abilities
-- **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
-- **[Iron Barbs](abilities/iron-barbs.md)**: Damages attacking Pokémon for 1/8 their max HP on contact.
+- <span class="change-new-label">NEW</span> **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
+- <span class="change-new-label">NEW</span> **[Iron Barbs](abilities/iron-barbs.md)**: Damages attacking Pokémon for 1/8 their max HP on contact.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x4.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.25, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x4.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.25, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Special attack | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Special attack | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

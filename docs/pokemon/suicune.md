@@ -6,44 +6,34 @@
 <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Pressure](abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one.
-- **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 8 | <img src="img/types/water.png" width="40" alt="water" /> | [Bubble beam](moves/bubble-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 15 | <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 22 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Gust](moves/gust.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 35 |
-| 29 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Aurora beam](moves/aurora-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 36 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Mist](moves/mist.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 43 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Mirror coat](moves/mirror-coat.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 20 |
-| 50 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice fang](moves/ice-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
-| 57 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Tailwind](moves/tailwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 64 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Extrasensory](moves/extrasensory.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 20 |
-| 71 | <img src="img/types/water.png" width="40" alt="water" /> | [Hydro pump](moves/hydro-pump.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 80 | 5 |
-| 78 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Calm mind](moves/calm-mind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 85 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Blizzard](moves/blizzard.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air slash](moves/air-slash.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 1 | - | Extremespeed | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Sheer cold](moves/sheer-cold.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 30 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Aqua ring](moves/aqua-ring.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

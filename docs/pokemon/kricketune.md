@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 10  
 
 ## Abilities
 - **[Swarm](abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 77 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.77777777777778%"></div></div> |
-| Attack | <span class="change-new">104</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.77777777777777%"></div></div> |
-| Defense | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.333333333333332%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.333333333333332%"></div></div> |
-| Speed | <span class="change-new">87</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:48.333333333333336%"></div></div> |
+| Hp | 77 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.5%"></div></div> |
+| Attack | <span class="change-new">104</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.0%"></div></div> |
+| Defense | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.5%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.5%"></div></div> |
+| Speed | <span class="change-new">87</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -1,5 +1,5 @@
 # Liberty Garden
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |

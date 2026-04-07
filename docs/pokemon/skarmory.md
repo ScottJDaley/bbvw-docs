@@ -6,45 +6,36 @@
 <img src="img/types/steel.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Light Metal](abilities/light-metal.md)**: Halves the Pokémon's weight.
+- <span class="change-new-label">NEW</span> **[Light Metal](abilities/light-metal.md)**: Halves the Pokémon's weight.
 - **[Sturdy](abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-electric">electric</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5, <span class="type-badge type-bug">bug</span> x0.25, <span class="type-badge type-dragon">dragon</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-poison">poison</span>, <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/electric.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.25, <img src="img/types/dragon.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/poison.png" width="40" /> x0.0, <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Defense | 140 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:77.77777777777779%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Defense | 140 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:70.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Peck](moves/peck.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 100 | 35 |
-| 6 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand attack](moves/sand-attack.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 9 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swift](moves/swift.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | - | 20 |
-| 12 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Agility](moves/agility.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 17 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Feint](moves/feint.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 10 |
-| 23 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air cutter](moves/air-cutter.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 95 | 25 |
-| 28 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Spikes](moves/spikes.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 31 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal sound](moves/metal-sound.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
-| 34 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Steel wing](moves/steel-wing.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 90 | 25 |
-| 39 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Autotomize](moves/autotomize.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 42 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air slash](moves/air-slash.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 95 | 15 |
-| 45 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 50 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
+| <span class="change-new-label">NEW</span> 22 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Sky drop](moves/sky-drop.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
+| <span class="change-move-shifted">SHIFTED</span> 24 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air cutter](moves/air-cutter.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 95 | 25 |
+| <span class="change-new-label">NEW</span> 26 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Roost](moves/roost.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 37 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Drill peck](moves/drill-peck.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 56 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Brave bird](moves/brave-bird.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

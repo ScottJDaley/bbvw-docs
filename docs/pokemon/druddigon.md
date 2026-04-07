@@ -6,46 +6,34 @@
 <img src="img/types/dragon.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Rough Skin](abilities/rough-skin.md)**: Damages attacking Pokémon for 1/8 their max HP on contact.
-- **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+- <span class="change-new-label">NEW</span> **[Rough Skin](abilities/rough-skin.md)**: Damages attacking Pokémon for 1/8 their max HP on contact.
+- <span class="change-new-label">NEW</span> **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5 |  |
+| <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 77 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.77777777777778%"></div></div> |
-| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.666666666666668%"></div></div> |
+| Hp | 77 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.5%"></div></div> |
+| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 5 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Hone claws](moves/hone-claws.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 9 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 18 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon rage](moves/dragon-rage.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 25 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 27 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon claw](moves/dragon-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Chip away](moves/chip-away.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 35 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Revenge](moves/revenge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 40 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 45 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon tail](moves/dragon-tail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 90 | 10 |
-| 49 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rock climb](moves/rock-climb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 85 | 20 |
-| 55 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Superpower](moves/superpower.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
-| 62 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](moves/outrage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 29 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire fang](moves/fire-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 29 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder fang](moves/thunder-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Glare](moves/glare.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
+| <span class="change-new-label">NEW</span> 37 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

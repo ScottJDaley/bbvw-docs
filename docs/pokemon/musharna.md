@@ -6,26 +6,26 @@
 <img src="img/types/psychic.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use moon-stone  
 
 ## Abilities
 - **[Telepathy](abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves.
-- **[Analytic](abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last.
+- <span class="change-new-label">NEW</span> **[Analytic](abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5 |  |
+| <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 116 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:64.44444444444444%"></div></div> |
-| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Special attack | 107 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:59.44444444444444%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 29 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.11111111111111%"></div></div> |
+| Hp | 116 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.99999999999999%"></div></div> |
+| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Special attack | 107 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:53.5%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 29 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:14.499999999999998%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

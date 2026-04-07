@@ -6,7 +6,7 @@
 <img src="img/types/dragon.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 38  
 
 ## Abilities
 - **[Rivalry](abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-dragon">dragon</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5 |  |
+| <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/dragon.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.666666666666664%"></div></div> |
-| Attack | 117 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
-| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Speed | 67 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.22222222222222%"></div></div> |
+| Hp | 66 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.0%"></div></div> |
+| Attack | 117 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.5%"></div></div> |
+| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Speed | 67 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

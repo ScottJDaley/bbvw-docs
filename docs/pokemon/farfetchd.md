@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Keen eye](abilities/keen-eye.md)**: Prevents accuracy from being lowered.
@@ -16,17 +16,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span>, <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0, <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.888888888888886%"></div></div> |
-| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Special defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.44444444444444%"></div></div> |
-| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
+| Hp | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.0%"></div></div> |
+| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Special defense | 62 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.0%"></div></div> |
+| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

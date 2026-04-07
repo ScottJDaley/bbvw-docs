@@ -6,37 +6,34 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use water-stone  
 
 ## Abilities
-- **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
-- **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
+- <span class="change-new-label">NEW</span> **[Water Absorb](abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Swift Swim](abilities/swift-swim.md)**: Doubles Speed during rain.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | <span class="change-new">105</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | <span class="change-new">105</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special defense | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double slap](moves/double-slap.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 10 |
-| 1 | <img src="img/types/water.png" width="40" alt="water" /> | [Bubble beam](moves/bubble-beam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Submission](moves/submission.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 80 | 20 |
-| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Hypnosis](moves/hypnosis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 60 | 20 |
-| 32 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Dynamic punch](moves/dynamic-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 50 | 5 |
-| 43 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mind reader](moves/mind-reader.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 53 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Circle throw](moves/circle-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 90 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Vacuum wave](moves/vacuum-wave.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 13 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Drain punch](moves/drain-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 22 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice punch](moves/ice-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 60 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Close combat](moves/close-combat.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

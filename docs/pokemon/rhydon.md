@@ -6,26 +6,27 @@
 <img src="img/types/ground.png" width="60" /> <img src="img/types/rock.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Use the Protector.
+**Base Game:** Level 42  
+**New:** Next Stage: Use the Protector.
 
 ## Abilities
 - **[Reckless](abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power.
-- **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
+- <span class="change-new-label">NEW</span> **[Rock Head](abilities/rock-head.md)**: Protects against recoil damage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x4.0, <span class="type-badge type-grass">grass</span> x4.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.25, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x4.0, <img src="img/types/grass.png" width="40" /> x4.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.25, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Defense | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Hp | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Attack | 130 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Defense | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,11 +6,11 @@
 <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Friend Guard](abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×.
-- **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
+- <span class="change-new-label">NEW</span> **[Friend Guard](abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×.
+- <span class="change-new-label">NEW</span> **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
@@ -20,12 +20,12 @@ No changes from base games.
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
-| Defense | 28 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.555555555555555%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:8.333333333333332%"></div></div> |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.5%"></div></div> |
+| Defense | 28 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:14.000000000000002%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 15 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:7.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

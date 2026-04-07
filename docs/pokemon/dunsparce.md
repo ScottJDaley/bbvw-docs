@@ -6,48 +6,31 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
+- <span class="change-new-label">NEW</span> **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
 - **[Rattled](abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">120</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Attack | <span class="change-new">90</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Hp | <span class="change-new">120</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Attack | <span class="change-new">90</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rage](moves/rage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 20 | 100 | 20 |
-| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Defense curl](moves/defense-curl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 8 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Yawn](moves/yawn.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 12 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Glare](moves/glare.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 16 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rollout](moves/rollout.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 90 | 20 |
-| 20 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 24 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
-| 28 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Screech](moves/screech.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
-| 33 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Roost](moves/roost.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 34 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 38 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Take down](moves/take-down.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 85 | 20 |
-| 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 43 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Coil](moves/coil.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 43 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Drill run](moves/drill-run.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 95 | 10 |
-| 48 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Ancient power](moves/ancient-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
-| 53 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Dig](moves/dig.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
-| 58 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endeavor](moves/endeavor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
-| 63 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Flail](moves/flail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn drill](moves/horn-drill.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

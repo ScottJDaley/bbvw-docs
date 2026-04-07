@@ -6,26 +6,26 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Happiness  
 
 ## Abilities
-- **[Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)](abilities/swarm-(sewaddle)-/-leaf-guard-(swadloon)-/-swarm-(leavanny).md)**: 
-- **[Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)](abilities/chlorophyll-(sewaddle)-/-overcoat-(swadloon)-/-chlorophyll-(leavanny).md)**: 
+- <span class="change-new-label">NEW</span> **[Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)](abilities/swarm-(sewaddle)-/-leaf-guard-(swadloon)-/-swarm-(leavanny).md)**: 
+- <span class="change-new-label">NEW</span> **[Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)](abilities/chlorophyll-(sewaddle)-/-overcoat-(swadloon)-/-chlorophyll-(leavanny).md)**: 
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x4.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x4.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.25 |  |
+| <img src="img/types/fire.png" width="40" /> x4.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x4.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.25 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | 103 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.22222222222222%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.11111111111111%"></div></div> |
+| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | 103 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.5%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

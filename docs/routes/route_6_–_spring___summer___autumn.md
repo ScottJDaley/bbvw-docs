@@ -1,75 +1,75 @@
 # Route 6 – Spring / Summer / Autumn
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Grass, Normal | [Cherubi](pokemon/cherubi.md) | 20% |
-| Grass, Normal | [Deerling](pokemon/deerling.md) | 20% |
-| Grass, Normal | [Stantler](pokemon/stantler.md) | 10% |
-| Grass, Normal | [Foongus](pokemon/foongus.md) | 10% |
-| Grass, Normal | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
-| Grass, Normal | [Natu](pokemon/natu.md) | 10% |
-| Grass, Normal | [Mime Jr.](pokemon/mime jr..md) | 5% |
-| Grass, Normal | [Bonsly](pokemon/bonsly.md) | 5% |
-| Grass, Normal | [Plusle](pokemon/plusle.md) | 5% |
-| Grass, Normal | [Minun](pokemon/minun.md) | 5% |
-| Grass, Doubles | [Cherrim](pokemon/cherrim.md) | 20% |
-| Grass, Doubles | [Sawsbuck](pokemon/sawsbuck.md) | 20% |
-| Grass, Doubles | [Stantler](pokemon/stantler.md) | 10% |
-| Grass, Doubles | [Foongus](pokemon/foongus.md) | 10% |
-| Grass, Doubles | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
-| Grass, Doubles | [Xatu](pokemon/xatu.md) | 10% |
-| Grass, Doubles | [Mr. Mime](pokemon/mr. mime.md) | 5% |
-| Grass, Doubles | [Sudowoodo](pokemon/sudowoodo.md) | 5% |
-| Grass, Doubles | [Plusle](pokemon/plusle.md) | 5% |
-| Grass, Doubles | [Minun](pokemon/minun.md) | 5% |
-| Grass, Special | [Chansey](pokemon/chansey.md) | 80% |
-| Grass, Special | [Emolga](pokemon/emolga.md) | 10% |
-| Grass, Special | [Leavanny](pokemon/leavanny.md) | 5% |
-| Grass, Special | [Unfezant](pokemon/unfezant.md) | 5% |
-| Surf, Normal | [Finneon](pokemon/finneon.md) | 60% |
-| Surf, Normal | [Goldeen](pokemon/goldeen.md) | 30% |
-| Surf, Normal | [Chinchou](pokemon/chinchou.md) | 10% |
-| Surf, Special | [Lumineon](pokemon/lumineon.md) | 60% |
-| Surf, Special | [Lanturn](pokemon/lanturn.md) | 30% |
-| Surf, Special | [Seaking](pokemon/seaking.md) | 10% |
-| Fish, Normal | [Finneon](pokemon/finneon.md) | 60% |
-| Fish, Normal | [Chinchou](pokemon/chinchou.md) | 40% |
-| Fish, Special | [Lumineon](pokemon/lumineon.md) | 60% |
-| Fish, Special | [Lanturn](pokemon/lanturn.md) | 40% |
-| Grass, Normal | [Snover](pokemon/snover.md) | 20% |
-| Grass, Normal | [Deerling](pokemon/deerling.md) | 20% |
-| Grass, Normal | [Stantler](pokemon/stantler.md) | 10% |
-| Grass, Normal | [Foongus](pokemon/foongus.md) | 10% |
-| Grass, Normal | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
-| Grass, Normal | [Natu](pokemon/natu.md) | 10% |
-| Grass, Normal | [Mime Jr.](pokemon/mime jr..md) | 5% |
-| Grass, Normal | [Bonsly](pokemon/bonsly.md) | 5% |
-| Grass, Normal | [Plusle](pokemon/plusle.md) | 5% |
-| Grass, Normal | [Minun](pokemon/minun.md) | 5% |
-| Grass, Doubles | [Snover](pokemon/snover.md) | 20% |
-| Grass, Doubles | [Sawsbuck](pokemon/sawsbuck.md) | 20% |
-| Grass, Doubles | [Stantler](pokemon/stantler.md) | 10% |
-| Grass, Doubles | [Foongus](pokemon/foongus.md) | 10% |
-| Grass, Doubles | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
-| Grass, Doubles | [Xatu](pokemon/xatu.md) | 10% |
-| Grass, Doubles | [Mr. Mime](pokemon/mr. mime.md) | 5% |
-| Grass, Doubles | [Sudowoodo](pokemon/sudowoodo.md) | 5% |
-| Grass, Doubles | [Plusle](pokemon/plusle.md) | 5% |
-| Grass, Doubles | [Minun](pokemon/minun.md) | 5% |
-| Grass, Special | [Chansey](pokemon/chansey.md) | 80% |
-| Grass, Special | [Emolga](pokemon/emolga.md) | 10% |
-| Grass, Special | [Leavanny](pokemon/leavanny.md) | 5% |
-| Grass, Special | [Unfezant](pokemon/unfezant.md) | 5% |
-| Surf, Normal | [Seel](pokemon/seel.md) | 60% |
-| Surf, Normal | [Spheal](pokemon/spheal.md) | 30% |
-| Surf, Normal | [Chinchou](pokemon/chinchou.md) | 10% |
-| Surf, Special | [Dewgong](pokemon/dewgong.md) | 60% |
-| Surf, Special | [Sealeo](pokemon/sealeo.md) | 30% |
-| Surf, Special | [Lanturn](pokemon/lanturn.md) | 10% |
-| Fish, Normal | [Seel](pokemon/seel.md) | 60% |
-| Fish, Normal | [Spheal](pokemon/spheal.md) | 30% |
-| Fish, Normal | [Chinchou](pokemon/chinchou.md) | 10% |
-| Fish, Special | [Dewgong](pokemon/dewgong.md) | 60% |
-| Fish, Special | [Sealeo](pokemon/sealeo.md) | 30% |
-| Fish, Special | [Lanturn](pokemon/lanturn.md) | 10% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/420.png" width="40" /> | [Cherubi](pokemon/cherubi.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/585.png" width="40" /> | [Deerling](pokemon/deerling.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/234.png" width="40" /> | [Stantler](pokemon/stantler.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/590.png" width="40" /> | [Foongus](pokemon/foongus.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/017.png" width="40" /> | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/177.png" width="40" /> | [Natu](pokemon/natu.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal |  | [Mime Jr.](pokemon/mime jr..md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/438.png" width="40" /> | [Bonsly](pokemon/bonsly.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/311.png" width="40" /> | [Plusle](pokemon/plusle.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/312.png" width="40" /> | [Minun](pokemon/minun.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/421.png" width="40" /> | [Cherrim](pokemon/cherrim.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/586.png" width="40" /> | [Sawsbuck](pokemon/sawsbuck.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/234.png" width="40" /> | [Stantler](pokemon/stantler.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/590.png" width="40" /> | [Foongus](pokemon/foongus.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/017.png" width="40" /> | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/178.png" width="40" /> | [Xatu](pokemon/xatu.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles |  | [Mr. Mime](pokemon/mr. mime.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/185.png" width="40" /> | [Sudowoodo](pokemon/sudowoodo.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/311.png" width="40" /> | [Plusle](pokemon/plusle.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/312.png" width="40" /> | [Minun](pokemon/minun.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/113.png" width="40" /> | [Chansey](pokemon/chansey.md) | 80% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/587.png" width="40" /> | [Emolga](pokemon/emolga.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/542.png" width="40" /> | [Leavanny](pokemon/leavanny.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/521.png" width="40" /> | [Unfezant](pokemon/unfezant.md) | 5% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/456.png" width="40" /> | [Finneon](pokemon/finneon.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/118.png" width="40" /> | [Goldeen](pokemon/goldeen.md) | 30% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/170.png" width="40" /> | [Chinchou](pokemon/chinchou.md) | 10% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/457.png" width="40" /> | [Lumineon](pokemon/lumineon.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/171.png" width="40" /> | [Lanturn](pokemon/lanturn.md) | 30% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/119.png" width="40" /> | [Seaking](pokemon/seaking.md) | 10% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/456.png" width="40" /> | [Finneon](pokemon/finneon.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/170.png" width="40" /> | [Chinchou](pokemon/chinchou.md) | 40% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/457.png" width="40" /> | [Lumineon](pokemon/lumineon.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/171.png" width="40" /> | [Lanturn](pokemon/lanturn.md) | 40% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/459.png" width="40" /> | [Snover](pokemon/snover.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/585.png" width="40" /> | [Deerling](pokemon/deerling.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/234.png" width="40" /> | [Stantler](pokemon/stantler.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/590.png" width="40" /> | [Foongus](pokemon/foongus.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/017.png" width="40" /> | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/177.png" width="40" /> | [Natu](pokemon/natu.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal |  | [Mime Jr.](pokemon/mime jr..md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/438.png" width="40" /> | [Bonsly](pokemon/bonsly.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/311.png" width="40" /> | [Plusle](pokemon/plusle.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/312.png" width="40" /> | [Minun](pokemon/minun.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/459.png" width="40" /> | [Snover](pokemon/snover.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/586.png" width="40" /> | [Sawsbuck](pokemon/sawsbuck.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/234.png" width="40" /> | [Stantler](pokemon/stantler.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/590.png" width="40" /> | [Foongus](pokemon/foongus.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/017.png" width="40" /> | [Pidgeotto](pokemon/pidgeotto.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/178.png" width="40" /> | [Xatu](pokemon/xatu.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles |  | [Mr. Mime](pokemon/mr. mime.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/185.png" width="40" /> | [Sudowoodo](pokemon/sudowoodo.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/311.png" width="40" /> | [Plusle](pokemon/plusle.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/312.png" width="40" /> | [Minun](pokemon/minun.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/113.png" width="40" /> | [Chansey](pokemon/chansey.md) | 80% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/587.png" width="40" /> | [Emolga](pokemon/emolga.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/542.png" width="40" /> | [Leavanny](pokemon/leavanny.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/521.png" width="40" /> | [Unfezant](pokemon/unfezant.md) | 5% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/086.png" width="40" /> | [Seel](pokemon/seel.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/363.png" width="40" /> | [Spheal](pokemon/spheal.md) | 30% |
+| <img src="img/items/surf.png" width="30" /> Surf, Normal | <img src="img/pokemon/170.png" width="40" /> | [Chinchou](pokemon/chinchou.md) | 10% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/087.png" width="40" /> | [Dewgong](pokemon/dewgong.md) | 60% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/364.png" width="40" /> | [Sealeo](pokemon/sealeo.md) | 30% |
+| <img src="img/items/surf.png" width="30" /> Surf, Special | <img src="img/pokemon/171.png" width="40" /> | [Lanturn](pokemon/lanturn.md) | 10% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/086.png" width="40" /> | [Seel](pokemon/seel.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/363.png" width="40" /> | [Spheal](pokemon/spheal.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Normal | <img src="img/pokemon/170.png" width="40" /> | [Chinchou](pokemon/chinchou.md) | 10% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/087.png" width="40" /> | [Dewgong](pokemon/dewgong.md) | 60% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/364.png" width="40" /> | [Sealeo](pokemon/sealeo.md) | 30% |
+| <img src="img/items/fishing-rod.png" width="30" /> Fish, Special | <img src="img/pokemon/171.png" width="40" /> | [Lanturn](pokemon/lanturn.md) | 10% |

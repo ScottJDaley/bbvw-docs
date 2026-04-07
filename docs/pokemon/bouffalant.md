@@ -6,44 +6,32 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Reckless](abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power.
-- **[Sap Sipper](abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage.
+- <span class="change-new-label">NEW</span> **[Sap Sipper](abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Attack | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Attack | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
-| 6 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rage](moves/rage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 20 | 100 | 20 |
-| 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn attack](moves/horn-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 25 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 26 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Revenge](moves/revenge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Head charge](moves/head-charge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 36 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 41 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Megahorn](moves/megahorn.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 85 | 10 |
-| 46 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
-| 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Thrash](moves/thrash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
-| 56 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swords dance](moves/swords-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Giga impact](moves/giga-impact.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 150 | 90 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron head](moves/iron-head.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 90 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

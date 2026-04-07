@@ -6,7 +6,7 @@
 <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 20  
 
 ## Abilities
 - **[Unburden](abilities/unburden.md)**: Doubles Speed upon using or losing a held item.
@@ -15,38 +15,22 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 |  |
+| <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.444444444444446%"></div></div> |
-| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Speed | 87 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:48.333333333333336%"></div></div> |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | 120 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.5%"></div></div> |
+| Special attack | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Speed | 87 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Double kick](moves/double-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 30 |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Revenge](moves/revenge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 5 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Meditate](moves/meditate.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 9 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Rolling kick](moves/rolling-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 85 | 15 |
-| 13 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Jump kick](moves/jump-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 95 | 10 |
-| 17 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Brick break](moves/brick-break.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 25 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Feint](moves/feint.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 10 |
-| 29 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [High jump kick](moves/high-jump-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 130 | 90 | 10 |
-| 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mind reader](moves/mind-reader.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Foresight](moves/foresight.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 41 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Wide guard](moves/wide-guard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 45 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Blaze kick](moves/blaze-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 85 | 90 | 10 |
-| 49 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endure](moves/endure.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 53 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mega kick](moves/mega-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 75 | 5 |
-| 57 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Close combat](moves/close-combat.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
-| 61 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Reversal](moves/reversal.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
+| <span class="change-new-label">NEW</span> 65 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Bounce](moves/bounce.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 85 | 85 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

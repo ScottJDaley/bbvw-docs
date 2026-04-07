@@ -7,26 +7,26 @@ Original: <img src="img/types/bug.png" width="60" /> <img src="img/types/flying.
 New: <img src="img/types/bug.png" width="60" /> <img src="img/types/water.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 22  
 
 ## Abilities
-- **[Levitate](abilities/levitate.md)**: Evades ground moves.
-- **[Levitate](abilities/levitate.md)**: Evades ground moves.
+- <span class="change-new-label">NEW</span> **[Levitate](abilities/levitate.md)**: Evades ground moves.
+- <span class="change-new-label">NEW</span> **[Levitate](abilities/levitate.md)**: Evades ground moves.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">70</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | <span class="change-new">60</span> <span class="change-old">60</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | <span class="change-new">62</span> <span class="change-old">62</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.44444444444444%"></div></div> |
-| Special attack | <span class="change-new">100</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | <span class="change-new">102</span> <span class="change-old">82</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.666666666666664%"></div></div> |
-| Speed | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Hp | <span class="change-new">70</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | <span class="change-new">60</span> <span class="change-old">60</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | <span class="change-new">62</span> <span class="change-old">62</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.0%"></div></div> |
+| Special attack | <span class="change-new">100</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | <span class="change-new">102</span> <span class="change-old">82</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.0%"></div></div> |
+| Speed | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

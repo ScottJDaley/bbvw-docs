@@ -6,45 +6,34 @@
 <img src="img/types/bug.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Moxie](abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon.
-- **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
+- <span class="change-new-label">NEW</span> **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.44444444444444%"></div></div> |
-| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 125 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.5%"></div></div> |
+| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Vice grip](moves/vice-grip.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 55 | 100 | 30 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 4 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Bind](moves/bind.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 8 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Seismic toss](moves/seismic-toss.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Harden](moves/harden.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 18 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Revenge](moves/revenge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 21 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Brick break](moves/brick-break.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
-| 25 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Vital throw](moves/vital-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | - | 10 |
-| 30 | <img src="img/types/bug.png" width="40" alt="bug" /> | [X scissor](moves/x-scissor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 33 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Storm throw](moves/storm-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 35 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Thrash](moves/thrash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
-| 38 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swords dance](moves/swords-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 42 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Submission](moves/submission.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 80 | 20 |
-| 47 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Guillotine](moves/guillotine.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
-| 52 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Superpower](moves/superpower.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock throw](moves/rock-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 90 | 15 |
+| <span class="change-new-label">NEW</span> 57 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Close combat](moves/close-combat.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 5 |
+| <span class="change-new-label">NEW</span> 62 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Megahorn](moves/megahorn.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 85 | 10 |
+| <span class="change-new-label">NEW</span> 67 | - | Wood horn | - | - | - | - | - |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

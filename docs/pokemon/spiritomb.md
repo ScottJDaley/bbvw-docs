@@ -6,43 +6,33 @@
 <img src="img/types/ghost.png" width="60" /> <img src="img/types/dark.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Pressure](abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one.
-- **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
+- <span class="change-new-label">NEW</span> **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-|  | <span class="type-badge type-poison">poison</span> x0.5 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-fighting">fighting</span>, <span class="type-badge type-psychic">psychic</span> |
+|  | <img src="img/types/poison.png" width="40" /> x0.5 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0, <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.11111111111111%"></div></div> |
-| Defense | 108 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
-| Special attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.11111111111111%"></div></div> |
-| Special defense | 108 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
-| Speed | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
+| Hp | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.0%"></div></div> |
+| Defense | 108 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:54.0%"></div></div> |
+| Special attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.0%"></div></div> |
+| Special defense | 108 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:54.0%"></div></div> |
+| Speed | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Confuse ray](moves/confuse-ray.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Curse](moves/curse.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow sneak](moves/shadow-sneak.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 7 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 13 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Hypnosis](moves/hypnosis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 60 | 20 |
-| 19 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Dream eater](moves/dream-eater.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 100 | 15 |
-| 25 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Ominous wind](moves/ominous-wind.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
-| 31 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
-| 37 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Nasty plot](moves/nasty-plot.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 43 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Memento](moves/memento.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 49 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Icy wind](moves/icy-wind.md) | <img src="img/types/special.png" width="30" alt="special" /> | 55 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 55 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow sneak](moves/shadow-sneak.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Pain split](moves/pain-split.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

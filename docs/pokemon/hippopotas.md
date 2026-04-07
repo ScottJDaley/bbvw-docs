@@ -6,26 +6,26 @@
 <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Sand Stream](abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle.
-- **[Sand Force](abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
+- <span class="change-new-label">NEW</span> **[Sand Stream](abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle.
+- <span class="change-new-label">NEW</span> **[Sand Force](abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 68 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.77777777777778%"></div></div> |
-| Attack | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
-| Defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.333333333333336%"></div></div> |
-| Special attack | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.11111111111111%"></div></div> |
-| Special defense | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.333333333333332%"></div></div> |
-| Speed | 32 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.77777777777778%"></div></div> |
+| Hp | 68 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.0%"></div></div> |
+| Attack | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
+| Defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.0%"></div></div> |
+| Special attack | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.0%"></div></div> |
+| Special defense | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.0%"></div></div> |
+| Speed | 32 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

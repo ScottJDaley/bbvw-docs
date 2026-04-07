@@ -6,7 +6,7 @@
 <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 16  
 
 ## Abilities
 - **[Hustle](abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.
@@ -15,34 +15,22 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
-| Attack | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
-| Defense | 57 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.666666666666664%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
+| Attack | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
+| Defense | 57 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.499999999999996%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Peck](moves/peck.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 100 | 35 |
-| 7 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 9 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Double kick](moves/double-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 30 |
-| 13 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison sting](moves/poison-sting.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 100 | 35 |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 23 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn attack](moves/horn-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 25 |
-| 28 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Helping hand](moves/helping-hand.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 35 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Toxic spikes](moves/toxic-spikes.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 38 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Flatter](moves/flatter.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 43 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison jab](moves/poison-jab.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 20 |
-| 50 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Captivate](moves/captivate.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 58 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Horn drill](moves/horn-drill.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
+| <span class="change-new-label">NEW</span> 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Super fang](moves/super-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 90 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

@@ -6,44 +6,31 @@
 <img src="img/types/psychic.png" width="60" /> <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
-- **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
+- <span class="change-new-label">NEW</span> **[Natural Cure](abilities/natural-cure.md)**: Cures any major status ailment upon switching out.
+- <span class="change-new-label">NEW</span> **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-bug">bug</span> x4.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x4.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Leech seed](moves/leech-seed.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 90 | 10 |
-| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Confusion](moves/confusion.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Recover](moves/recover.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Heal bell](moves/heal-bell.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 25 |
-| 19 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Magical leaf](moves/magical-leaf.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | - | 20 |
-| 28 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Ancient power](moves/ancient-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Baton pass](moves/baton-pass.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 46 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Natural gift](moves/natural-gift.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
-| 55 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Heal block](moves/heal-block.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 64 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Future sight](moves/future-sight.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
-| 73 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Healing wish](moves/healing-wish.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 82 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Leaf storm](moves/leaf-storm.md) | <img src="img/types/special.png" width="30" alt="special" /> | 130 | 90 | 5 |
-| 91 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Perish song](moves/perish-song.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Nasty plot](moves/nasty-plot.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

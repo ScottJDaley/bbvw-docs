@@ -6,7 +6,7 @@
 <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Levitate](abilities/levitate.md)**: Evades ground moves.
@@ -15,35 +15,26 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ground">ground</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 74 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.11111111111111%"></div></div> |
-| Attack | <span class="change-new">120</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
-| Defense | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
-| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special defense | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
-| Speed | <span class="change-new">86</span> <span class="change-old">46</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.77777777777778%"></div></div> |
+| Hp | 74 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.0%"></div></div> |
+| Attack | <span class="change-new">120</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
+| Defense | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
+| Special attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special defense | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
+| Speed | <span class="change-new">86</span> <span class="change-old">46</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Bind](moves/bind.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growth](moves/growth.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 7 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 11 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Vine whip](moves/vine-whip.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 45 | 100 | 25 |
-| 17 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Sweet scent](moves/sweet-scent.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 21 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Ingrain](moves/ingrain.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 27 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 31 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Leaf tornado](moves/leaf-tornado.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 90 | 10 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Stockpile](moves/stockpile.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Spit up](moves/spit-up.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swallow](moves/swallow.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 41 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 47 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Wring out](moves/wring-out.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 5 |
-| 51 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Power whip](moves/power-whip.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 85 | 10 |
+| <span class="change-new-label">NEW</span> 14 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Bullet seed](moves/bullet-seed.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 25 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 24 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Sleep powder](moves/sleep-powder.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 75 | 15 |
+| <span class="change-new-label">NEW</span> 34 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Seed bomb](moves/seed-bomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 44 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 54 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Leaf storm](moves/leaf-storm.md) | <img src="img/types/special.png" width="30" alt="special" /> | 130 | 90 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

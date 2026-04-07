@@ -6,26 +6,26 @@
 <img src="img/types/ghost.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 37  
 
 ## Abilities
 - **[Insomnia](abilities/insomnia.md)**: Prevents sleep.
-- **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
+- <span class="change-new-label">NEW</span> **[Cursed Body](abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-fighting">fighting</span> |
+| <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Attack | <span class="change-new">130</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special attack | 83 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.111111111111114%"></div></div> |
-| Special defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
-| Speed | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
+| Hp | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Attack | <span class="change-new">130</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special attack | 83 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.5%"></div></div> |
+| Special defense | 63 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:31.5%"></div></div> |
+| Speed | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

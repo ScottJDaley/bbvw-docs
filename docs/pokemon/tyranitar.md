@@ -6,26 +6,26 @@
 <img src="img/types/rock.png" width="60" /> <img src="img/types/dark.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 55  
 
 ## Abilities
-- **[Sand Stream](abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle.
-- **[Battle Armor](abilities/battle-armor.md)**: Protects against critical hits.
+- <span class="change-new-label">NEW</span> **[Sand Stream](abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle.
+- <span class="change-new-label">NEW</span> **[Battle Armor](abilities/battle-armor.md)**: Protects against critical hits.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-fighting">fighting</span> x4.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dark">dark</span> x0.5 | <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x4.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.5 | <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Attack | 134 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:74.44444444444444%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Speed | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
+| Hp | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Attack | 134 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Speed | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

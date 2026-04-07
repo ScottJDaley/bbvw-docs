@@ -7,26 +7,26 @@ Original: <img src="img/types/psychic.png" width="60" />
 New: <img src="img/types/psychic.png" width="60" /> <img src="img/types/dark.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 41  
 
 ## Abilities
-- **[Shadow Tag](abilities/shadow-tag.md)**: Prevents opponents from fleeing or switching out.
-- **[Magic Bounce](abilities/magic-bounce.md)**: Reflects most non-damaging moves back at their user.
+- <span class="change-new-label">NEW</span> **[Shadow Tag](abilities/shadow-tag.md)**: Prevents opponents from fleeing or switching out.
+- <span class="change-new-label">NEW</span> **[Magic Bounce](abilities/magic-bounce.md)**: Reflects most non-damaging moves back at their user.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-bug">bug</span> x4.0 |  | <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/bug.png" width="40" /> x4.0 |  | <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | <span class="change-new">45</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Special attack | <span class="change-new">115</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | <span class="change-new">45</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Defense | 95 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Special attack | <span class="change-new">115</span> <span class="change-old">95</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

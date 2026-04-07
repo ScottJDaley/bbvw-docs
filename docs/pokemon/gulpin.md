@@ -6,26 +6,26 @@
 <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Liquid Ooze](abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal.
+- <span class="change-new-label">NEW</span> **[Liquid Ooze](abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal.
 - **[Gluttony](abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.444444444444446%"></div></div> |
-| Special attack | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
-| Special defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.444444444444446%"></div></div> |
-| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
+| Hp | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.5%"></div></div> |
+| Special attack | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
+| Special defense | 53 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.5%"></div></div> |
+| Speed | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

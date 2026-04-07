@@ -6,26 +6,26 @@
 <img src="img/types/electric.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use thunder-stone  
 
 ## Abilities
 - **[Static](abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact.
-- **[LightningRod](abilities/lightningrod.md)**: 
+- <span class="change-new-label">NEW</span> **[LightningRod](abilities/lightningrod.md)**: 
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Attack | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special attack | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | <span class="change-new">120</span> <span class="change-old">110</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:66.66666666666666%"></div></div> |
+| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Attack | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special attack | <span class="change-new">100</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | <span class="change-new">120</span> <span class="change-old">110</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

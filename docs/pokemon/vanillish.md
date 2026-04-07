@@ -6,26 +6,26 @@
 <img src="img/types/ice.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 35  
 
 ## Abilities
-- **[Ice Body](abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.
-- **[Weak Armor](abilities/weak-armor.md)**: Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
+- <span class="change-new-label">NEW</span> **[Ice Body](abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.
+- <span class="change-new-label">NEW</span> **[Weak Armor](abilities/weak-armor.md)**: Raises Speed and lowers Defense by one stage each upon being hit by a physical move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-ice">ice</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/ice.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.333333333333332%"></div></div> |
-| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Speed | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.77777777777778%"></div></div> |
+| Hp | 51 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.5%"></div></div> |
+| Attack | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special attack | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Speed | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

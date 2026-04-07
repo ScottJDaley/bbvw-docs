@@ -6,26 +6,26 @@
 <img src="img/types/rock.png" width="60" /> <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 40  
 
 ## Abilities
-- **[Suction Cups](abilities/suction-cups.md)**: Prevents being forced out of battle by other Pokémon's moves.
-- **[Storm Drain](abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
+- <span class="change-new-label">NEW</span> **[Suction Cups](abilities/suction-cups.md)**: Prevents being forced out of battle by other Pokémon's moves.
+- <span class="change-new-label">NEW</span> **[Storm Drain](abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5 |  |
+| <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.77777777777778%"></div></div> |
-| Attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
-| Defense | 97 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:53.888888888888886%"></div></div> |
-| Special attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
-| Special defense | 107 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:59.44444444444444%"></div></div> |
-| Speed | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.88888888888889%"></div></div> |
+| Hp | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.0%"></div></div> |
+| Attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.5%"></div></div> |
+| Defense | 97 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:48.5%"></div></div> |
+| Special attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.5%"></div></div> |
+| Special defense | 107 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:53.5%"></div></div> |
+| Speed | 43 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

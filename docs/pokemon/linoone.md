@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 20  
 
 ## Abilities
 - **[Pickup](abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.
-- **[Quick Feet](abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment.
+- <span class="change-new-label">NEW</span> **[Quick Feet](abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.333333333333336%"></div></div> |
-| Attack | <span class="change-new">85</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Defense | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
-| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Special defense | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.88888888888889%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.0%"></div></div> |
+| Attack | <span class="change-new">85</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Defense | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
+| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Special defense | 61 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.5%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

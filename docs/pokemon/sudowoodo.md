@@ -6,7 +6,7 @@
 <img src="img/types/rock.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Know mimic  
 
 ## Abilities
 - **[Sturdy](abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
@@ -15,36 +15,25 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">85</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Attack | <span class="change-new">115</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Defense | <span class="change-new">130</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:72.22222222222221%"></div></div> |
-| Special attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Special defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
+| Hp | <span class="change-new">85</span> <span class="change-old">70</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Attack | <span class="change-new">115</span> <span class="change-old">100</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Defense | <span class="change-new">130</span> <span class="change-old">115</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:65.0%"></div></div> |
+| Special attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Special defense | <span class="change-new">80</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Low kick](moves/low-kick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 1 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock throw](moves/rock-throw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 90 | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Flail](moves/flail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Copycat](moves/copycat.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 1 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Wood hammer](moves/wood-hammer.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 17 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Mimic](moves/mimic.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Block](moves/block.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 25 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 30 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 95 | 15 |
-| 33 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Counter](moves/counter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 20 |
-| 33 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rock slide](moves/rock-slide.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 90 | 10 |
-| 38 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slam](moves/slam.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 75 | 20 |
-| 41 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
-| 46 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 49 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Hammer arm](moves/hammer-arm.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 100 | 90 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire punch](moves/fire-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | - | Thunderpunch | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice punch](moves/ice-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 53 | - | Selfdestruct | - | - | - | - | - |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

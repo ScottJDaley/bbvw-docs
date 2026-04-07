@@ -6,26 +6,26 @@
 <img src="img/types/water.png" width="60" /> <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 30  
 
 ## Abilities
-- **[Sticky Hold](abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon.
-- **[Storm Drain](abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
+- <span class="change-new-label">NEW</span> **[Sticky Hold](abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon.
+- <span class="change-new-label">NEW</span> **[Storm Drain](abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-grass">grass</span> x4.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/grass.png" width="40" /> x4.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 111 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.66666666666667%"></div></div> |
-| Attack | 83 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.111111111111114%"></div></div> |
-| Defense | 68 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.77777777777778%"></div></div> |
-| Special attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.11111111111111%"></div></div> |
-| Special defense | 82 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.55555555555556%"></div></div> |
-| Speed | 39 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.666666666666668%"></div></div> |
+| Hp | 111 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.50000000000001%"></div></div> |
+| Attack | 83 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.5%"></div></div> |
+| Defense | 68 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:34.0%"></div></div> |
+| Special attack | 92 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.0%"></div></div> |
+| Special defense | 82 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.0%"></div></div> |
+| Speed | 39 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

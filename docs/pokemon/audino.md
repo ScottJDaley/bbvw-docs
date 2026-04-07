@@ -6,44 +6,36 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
+- <span class="change-new-label">NEW</span> **[Serene Grace](abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring.
 - **[Regenerator](abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 103 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.22222222222222%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.77777777777778%"></div></div> |
-| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special defense | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.77777777777778%"></div></div> |
-| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Hp | 103 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.5%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.0%"></div></div> |
+| Special attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special defense | 86 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.0%"></div></div> |
+| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Pound](moves/pound.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Helping hand](moves/helping-hand.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 5 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Refresh](moves/refresh.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double slap](moves/double-slap.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 10 |
-| 15 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Attract](moves/attract.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Secret power](moves/secret-power.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 25 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Entrainment](moves/entrainment.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 30 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Take down](moves/take-down.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 90 | 85 | 20 |
-| 35 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Heal pulse](moves/heal-pulse.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [After you](moves/after-you.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 45 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Simple beam](moves/simple-beam.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 50 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Double edge](moves/double-edge.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
-| 55 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Last resort](moves/last-resort.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 140 | 100 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Yawn](moves/yawn.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Heal bell](moves/heal-bell.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Encore](moves/encore.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 5 |
+| <span class="change-new-label">NEW</span> 60 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Healing wish](moves/healing-wish.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 65 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Wish](moves/wish.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 70 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Gravity](moves/gravity.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

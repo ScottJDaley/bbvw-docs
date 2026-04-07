@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 38  
 
 ## Abilities
-- **[Thick Fat](abilities/thick-fat.md)**: Halves damage from fire and ice moves.
+- <span class="change-new-label">NEW</span> **[Thick Fat](abilities/thick-fat.md)**: Halves damage from fire and ice moves.
 - **[Defiant](abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">89</span> <span class="change-old">71</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:49.44444444444444%"></div></div> |
-| Attack | <span class="change-new">91</span> <span class="change-old">82</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.55555555555556%"></div></div> |
-| Defense | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Special attack | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.55555555555556%"></div></div> |
-| Special defense | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.77777777777778%"></div></div> |
-| Speed | 112 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.22222222222222%"></div></div> |
+| Hp | <span class="change-new">89</span> <span class="change-old">71</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.5%"></div></div> |
+| Attack | <span class="change-new">91</span> <span class="change-old">82</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.5%"></div></div> |
+| Defense | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Special attack | 64 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.0%"></div></div> |
+| Special defense | 59 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:29.5%"></div></div> |
+| Speed | 112 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.00000000000001%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

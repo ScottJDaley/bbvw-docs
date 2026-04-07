@@ -6,47 +6,34 @@
 <img src="img/types/psychic.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Tinted Lens](abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves.
-- **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
+- <span class="change-new-label">NEW</span> **[Tinted Lens](abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves.
+- <span class="change-new-label">NEW</span> **[Magic Guard](abilities/magic-guard.md)**: Protects against damage not directly caused by a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.25, <span class="type-badge type-psychic">psychic</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.25, <img src="img/types/psychic.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
-| Attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
-| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Special attack | <span class="change-new">108</span> <span class="change-old">103</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.0%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | <span class="change-new">102</span> <span class="change-old">97</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.666666666666664%"></div></div> |
+| Hp | 72 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.0%"></div></div> |
+| Attack | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
+| Defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Special attack | <span class="change-new">108</span> <span class="change-old">103</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:54.0%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | <span class="change-new">102</span> <span class="change-old">97</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:51.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Gust](moves/gust.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Miracle eye](moves/miracle-eye.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 4 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Hypnosis](moves/hypnosis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 60 | 20 |
-| 8 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psywave](moves/psywave.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 15 |
-| 11 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Tailwind](moves/tailwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 14 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Whirlwind](moves/whirlwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 18 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psybeam](moves/psybeam.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 20 |
-| 21 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air cutter](moves/air-cutter.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 95 | 25 |
-| 24 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Light screen](moves/light-screen.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 28 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Reflect](moves/reflect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 31 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Synchronoise](moves/synchronoise.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 100 | 10 |
-| 34 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Mirror move](moves/mirror-move.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 38 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Gravity](moves/gravity.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 41 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air slash](moves/air-slash.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 95 | 15 |
-| 44 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psychic](moves/psychic.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 10 |
-| 48 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](moves/cosmic-power.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 51 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Sky attack](moves/sky-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 140 | 90 | 5 |
+| <span class="change-new-label">NEW</span> 26 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Roost](moves/roost.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-new-label">NEW</span> 36 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Psycho shift](moves/psycho-shift.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
+| <span class="change-new-label">NEW</span> 54 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Stored power](moves/stored-power.md) | <img src="img/types/special.png" width="30" alt="special" /> | 20 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 57 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Hurricane](moves/hurricane.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

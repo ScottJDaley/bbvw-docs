@@ -6,26 +6,26 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Limber](abilities/limber.md)**: Prevents paralysis.
-- **[Own Tempo](abilities/own-tempo.md)**: Prevents confusion.
+- <span class="change-new-label">NEW</span> **[Own Tempo](abilities/own-tempo.md)**: Prevents confusion.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 49 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.22222222222222%"></div></div> |
-| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Defense | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.333333333333332%"></div></div> |
-| Special attack | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.333333333333332%"></div></div> |
-| Special defense | 37 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.555555555555554%"></div></div> |
-| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
+| Hp | 49 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.5%"></div></div> |
+| Attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Defense | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.0%"></div></div> |
+| Special attack | 42 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.0%"></div></div> |
+| Special defense | 37 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:18.5%"></div></div> |
+| Speed | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,26 +6,26 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 59  
 
 ## Abilities
-- **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
-- **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
+- <span class="change-new-label">NEW</span> **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
+- <span class="change-new-label">NEW</span> **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-rock">rock</span> x4.0 | <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x4.0 | <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Special attack | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
-| Special defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Attack | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Special attack | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.5%"></div></div> |
+| Special defense | 105 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,45 +6,33 @@
 <img src="img/types/ground.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 22  
 
 ## Abilities
-- **[Sand Veil](abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
-- **[Sand Rush](abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage.
+- <span class="change-new-label">NEW</span> **[Sand Veil](abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.
+- <span class="change-new-label">NEW</span> **[Sand Rush](abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-electric">electric</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand attack](moves/sand-attack.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Defense curl](moves/defense-curl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 9 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison sting](moves/poison-sting.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 100 | 35 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rapid spin](moves/rapid-spin.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 40 |
-| 15 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swift](moves/swift.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | - | 20 |
-| 17 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Magnitude](moves/magnitude.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 30 |
-| 19 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury swipes](moves/fury-swipes.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 18 | 80 | 15 |
-| 21 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Rollout](moves/rollout.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 90 | 20 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Crush claw](moves/crush-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 95 | 10 |
-| 28 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
-| 33 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand tomb](moves/sand-tomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 35 | 85 | 15 |
-| 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 45 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Gyro ball](moves/gyro-ball.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
-| 52 | <img src="img/types/rock.png" width="40" alt="rock" /> | [Sandstorm](moves/sandstorm.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 17 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 25 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal claw](moves/metal-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 95 | 35 |
+| <span class="change-new-label">NEW</span> 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Super fang](moves/super-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 90 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

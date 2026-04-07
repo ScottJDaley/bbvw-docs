@@ -1,28 +1,28 @@
 # Route 16
 
 ## Encounters
-| Method | Pokemon | Rate |
-| --- | --- | --- |
-| Grass, Normal | [Ekans](pokemon/ekans.md) | 20% |
-| Grass, Normal | [Pineco](pokemon/pineco.md) | 20% |
-| Grass, Normal | [Skorupi](pokemon/skorupi.md) | 10% |
-| Grass, Normal | [Electrike](pokemon/electrike.md) | 10% |
-| Grass, Normal | [Combee](pokemon/combee.md) | 10% |
-| Grass, Normal | [Paras](pokemon/paras.md) | 10% |
-| Grass, Normal | [Buneary](pokemon/buneary.md) | 5% |
-| Grass, Normal | [Pawniard](pokemon/pawniard.md) | 5% |
-| Grass, Normal | [Drifloon](pokemon/drifloon.md) | 5% |
-| Grass, Normal | [Spoink](pokemon/spoink.md) | 5% |
-| Grass, Doubles | [Zangoose](pokemon/zangoose.md) | 20% |
-| Grass, Doubles | [Seviper](pokemon/seviper.md) | 20% |
-| Grass, Doubles | [Stunky](pokemon/stunky.md) | 10% |
-| Grass, Doubles | [Glameow](pokemon/glameow.md) | 10% |
-| Grass, Doubles | [Slugma](pokemon/slugma.md) | 10% |
-| Grass, Doubles | [Vespiquen](pokemon/vespiquen.md) | 10% |
-| Grass, Doubles | [Parasect](pokemon/parasect.md) | 10% |
-| Grass, Doubles | [Girafarig](pokemon/girafarig.md) | 5% |
-| Grass, Doubles | [Castform](pokemon/castform.md) | 5% |
-| Grass, Special | [Audino](pokemon/audino.md) | 70% |
-| Grass, Special | [Emolga](pokemon/emolga.md) | 10% |
-| Grass, Special | [Bisharp](pokemon/bisharp.md) | 10% |
-| Grass, Special | [Lopunny](pokemon/lopunny.md) | 10% |
+| Method | Sprite | Pokemon | Rate |
+| --- | --- | --- | --- |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/023.png" width="40" /> | [Ekans](pokemon/ekans.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/204.png" width="40" /> | [Pineco](pokemon/pineco.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/451.png" width="40" /> | [Skorupi](pokemon/skorupi.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/309.png" width="40" /> | [Electrike](pokemon/electrike.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/415.png" width="40" /> | [Combee](pokemon/combee.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/046.png" width="40" /> | [Paras](pokemon/paras.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/427.png" width="40" /> | [Buneary](pokemon/buneary.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/624.png" width="40" /> | [Pawniard](pokemon/pawniard.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/425.png" width="40" /> | [Drifloon](pokemon/drifloon.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Normal | <img src="img/pokemon/325.png" width="40" /> | [Spoink](pokemon/spoink.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/335.png" width="40" /> | [Zangoose](pokemon/zangoose.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/336.png" width="40" /> | [Seviper](pokemon/seviper.md) | 20% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/434.png" width="40" /> | [Stunky](pokemon/stunky.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/431.png" width="40" /> | [Glameow](pokemon/glameow.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/218.png" width="40" /> | [Slugma](pokemon/slugma.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/416.png" width="40" /> | [Vespiquen](pokemon/vespiquen.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/047.png" width="40" /> | [Parasect](pokemon/parasect.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/203.png" width="40" /> | [Girafarig](pokemon/girafarig.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Doubles | <img src="img/pokemon/351.png" width="40" /> | [Castform](pokemon/castform.md) | 5% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/531.png" width="40" /> | [Audino](pokemon/audino.md) | 70% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/587.png" width="40" /> | [Emolga](pokemon/emolga.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/625.png" width="40" /> | [Bisharp](pokemon/bisharp.md) | 10% |
+| <img src="img/items/grass.png" width="30" /> Grass, Special | <img src="img/pokemon/428.png" width="40" /> | [Lopunny](pokemon/lopunny.md) | 10% |

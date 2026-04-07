@@ -6,7 +6,7 @@
 <img src="img/types/rock.png" width="60" /> <img src="img/types/steel.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 30  
 
 ## Abilities
 - **[Sturdy](abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-fighting">fighting</span> x4.0, <span class="type-badge type-ground">ground</span> x4.0 | <span class="type-badge type-normal">normal</span> x0.25, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-flying">flying</span> x0.25, <span class="type-badge type-psychic">psychic</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dragon">dragon</span> x0.5 | <span class="type-badge type-poison">poison</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x4.0, <img src="img/types/ground.png" width="40" /> x4.0 | <img src="img/types/normal.png" width="40" /> x0.25, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.25, <img src="img/types/psychic.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dragon.png" width="40" /> x0.5 | <img src="img/types/poison.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Attack | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.888888888888886%"></div></div> |
-| Defense | 168 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:93.33333333333333%"></div></div> |
-| Special attack | 47 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.111111111111114%"></div></div> |
-| Special defense | 138 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:76.66666666666667%"></div></div> |
-| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
+| Hp | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Attack | 52 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.0%"></div></div> |
+| Defense | 168 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:84.0%"></div></div> |
+| Special attack | 47 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:23.5%"></div></div> |
+| Special defense | 138 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:69.0%"></div></div> |
+| Speed | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

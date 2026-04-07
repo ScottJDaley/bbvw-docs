@@ -6,44 +6,37 @@
 <img src="img/types/steel.png" width="60" /> <img src="img/types/fairy.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
+- <span class="change-new-label">NEW</span> **[Sheer Force](abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.
 - **[Intimidate](abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-dragon">dragon</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-poison">poison</span> |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/dragon.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/poison.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">70</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Attack | <span class="change-new">105</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Defense | <span class="change-new">90</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | <span class="change-new">90</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
+| Hp | <span class="change-new">70</span> <span class="change-old">50</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Attack | <span class="change-new">105</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Defense | <span class="change-new">90</span> <span class="change-old">85</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | <span class="change-new">90</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Astonish](moves/astonish.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 15 |
-| 6 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Fake tears](moves/fake-tears.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 11 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 16 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Sweet scent](moves/sweet-scent.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Vice grip](moves/vice-grip.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 55 | 100 | 30 |
-| 26 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Feint attack](moves/feint-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | - | 20 |
-| 31 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Baton pass](moves/baton-pass.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
-| 36 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 41 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron defense](moves/iron-defense.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 46 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Sucker punch](moves/sucker-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 5 |
-| 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Stockpile](moves/stockpile.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Spit up](moves/spit-up.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swallow](moves/swallow.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
-| 56 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron head](moves/iron-head.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire fang](moves/fire-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice fang](moves/ice-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder fang](moves/thunder-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal claw](moves/metal-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 95 | 35 |
+| <span class="change-new-label">NEW</span> 21 | - | Thunderpunch | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 21 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Ice punch](moves/ice-punch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 75 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 61 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal burst](moves/metal-burst.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

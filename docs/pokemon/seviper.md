@@ -6,46 +6,31 @@
 <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
+- <span class="change-new-label">NEW</span> **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
 - **[Infiltrator](abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 73 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.55555555555556%"></div></div> |
-| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
+| Hp | 73 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.5%"></div></div> |
+| Attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special attack | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Special defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Speed | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Wrap](moves/wrap.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 90 | 20 |
-| 7 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Lick](moves/lick.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 30 | 100 | 30 |
-| 10 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 16 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison tail](moves/poison-tail.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 25 |
-| 19 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Screech](moves/screech.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
-| 25 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Glare](moves/glare.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 28 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 34 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison fang](moves/poison-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 100 | 15 |
-| 34 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Gastro acid](moves/gastro-acid.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 37 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 15 |
-| 43 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Haze](moves/haze.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 46 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 52 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison jab](moves/poison-jab.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 20 |
-| 55 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Venoshock](moves/venoshock.md) | <img src="img/types/special.png" width="30" alt="special" /> | 65 | 100 | 10 |
-| 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Wring out](moves/wring-out.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 5 |
-| 64 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Coil](moves/coil.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 67 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Gunk shot](moves/gunk-shot.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 80 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

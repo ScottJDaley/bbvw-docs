@@ -6,41 +6,36 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/poison.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 10  
 
 ## Abilities
 - **[Sniper](abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×.
-- **[Poison Touch](abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact.
+- <span class="change-new-label">NEW</span> **[Poison Touch](abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0, <span class="type-badge type-psychic">psychic</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-fighting">fighting</span> x0.25, <span class="type-badge type-poison">poison</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 |  |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0, <img src="img/types/psychic.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/fighting.png" width="40" /> x0.25, <img src="img/types/poison.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | <span class="change-new">95</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.22222222222222%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.44444444444444%"></div></div> |
-| Speed | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | <span class="change-new">95</span> <span class="change-old">90</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Defense | 40 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.0%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 80 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.0%"></div></div> |
+| Speed | <span class="change-new">95</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fury attack](moves/fury-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 15 | 85 | 20 |
-| 13 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Focus energy](moves/focus-energy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 16 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Twineedle](moves/twineedle.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 25 | 100 | 20 |
-| 19 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rage](moves/rage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 20 | 100 | 20 |
-| 22 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Pursuit](moves/pursuit.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
-| 25 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Toxic spikes](moves/toxic-spikes.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 28 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Pin missile](moves/pin-missile.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 25 | 95 | 20 |
-| 31 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Agility](moves/agility.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 34 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Assurance](moves/assurance.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 10 |
-| 37 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison jab](moves/poison-jab.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 20 |
-| 40 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Endeavor](moves/endeavor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 100 | 5 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 10 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Cross poison](moves/cross-poison.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
+| <span class="change-move-shifted">SHIFTED</span> 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Rage](moves/rage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 20 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 19 | <img src="img/types/bug.png" width="40" alt="bug" /> | [X scissor](moves/x-scissor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 43 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Megahorn](moves/megahorn.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 85 | 10 |
+| <span class="change-new-label">NEW</span> 46 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Baton pass](moves/baton-pass.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

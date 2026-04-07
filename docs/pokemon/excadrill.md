@@ -6,26 +6,26 @@
 <img src="img/types/ground.png" width="60" /> <img src="img/types/steel.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 31  
 
 ## Abilities
-- **[Sand Rush](abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage.
-- **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
+- <span class="change-new-label">NEW</span> **[Sand Rush](abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage.
+- <span class="change-new-label">NEW</span> **[Mold Breaker](abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.25, <span class="type-badge type-dragon">dragon</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-electric">electric</span>, <span class="type-badge type-poison">poison</span> |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.25, <img src="img/types/dragon.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/electric.png" width="40" /> x0.0, <img src="img/types/poison.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.111111111111114%"></div></div> |
-| Attack | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:75.0%"></div></div> |
-| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
-| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Speed | 88 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:48.888888888888886%"></div></div> |
+| Hp | 110 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
+| Attack | 135 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:67.5%"></div></div> |
+| Defense | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
+| Special attack | 50 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Special defense | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Speed | 88 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:44.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

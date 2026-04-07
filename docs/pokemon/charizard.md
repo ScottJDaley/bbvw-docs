@@ -6,48 +6,36 @@
 <img src="img/types/fire.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 36  
 
 ## Abilities
 - **[Blaze](abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
-- **[Solar Power](abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
+- <span class="change-new-label">NEW</span> **[Solar Power](abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-rock">rock</span> x4.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-bug">bug</span> x0.25, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x4.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.25, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.333333333333336%"></div></div> |
-| Attack | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:46.666666666666664%"></div></div> |
-| Defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:43.333333333333336%"></div></div> |
-| Special attack | 109 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.55555555555555%"></div></div> |
-| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.0%"></div></div> |
+| Attack | 84 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.0%"></div></div> |
+| Defense | 78 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:39.0%"></div></div> |
+| Special attack | 109 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:54.50000000000001%"></div></div> |
+| Special defense | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growl](moves/growl.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 40 |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Ember](moves/ember.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Smokescreen](moves/smokescreen.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 20 |
-| 1 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon claw](moves/dragon-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 1 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Air slash](moves/air-slash.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 95 | 15 |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Shadow claw](moves/shadow-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 15 |
-| 17 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon rage](moves/dragon-rage.md) | <img src="img/types/special.png" width="30" alt="special" /> | - | 100 | 10 |
-| 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scary face](moves/scary-face.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 28 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire fang](moves/fire-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
-| 32 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flame burst](moves/flame-burst.md) | <img src="img/types/special.png" width="30" alt="special" /> | 70 | 100 | 15 |
-| 36 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Wing attack](moves/wing-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 35 |
-| 41 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 47 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" alt="special" /> | 90 | 100 | 15 |
-| 56 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Fire spin](moves/fire-spin.md) | <img src="img/types/special.png" width="30" alt="special" /> | 35 | 85 | 15 |
-| 62 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Inferno](moves/inferno.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 50 | 5 |
-| 71 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" alt="special" /> | 95 | 90 | 10 |
-| 77 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Flare blitz](moves/flare-blitz.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-old-label">REPLACED</span> 41 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon pulse](moves/dragon-pulse.md) | <img src="img/types/special.png" width="30" alt="special" /> | 85 | 100 | 10 |
+| <span class="change-old-label">REPLACED</span> 56 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Dragon dance](moves/dragon-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-move-shifted">SHIFTED</span> 61 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Inferno](moves/inferno.md) | <img src="img/types/special.png" width="30" alt="special" /> | 100 | 50 | 5 |
+| <span class="change-new-label">NEW</span> 66 | <img src="img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](moves/outrage.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 120 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 83 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Belly drum](moves/belly-drum.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

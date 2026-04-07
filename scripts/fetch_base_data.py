@@ -36,13 +36,21 @@ def fetch_all_data():
         data = get_json(f"{BASE_URL}/pokemon/{i}", f"pokemon_{i}.json")
         if data:
             name = data['name']
+            
+            # Fetch species for evolution chain
+            species_data = get_json(data['species']['url'], f"species_{i}.json")
+            evo_chain_url = species_data['evolution_chain']['url']
+            evo_chain_id = evo_chain_url.split('/')[-2]
+            evo_data = get_json(evo_chain_url, f"evo_chain_{evo_chain_id}.json")
+
             pokemon_base[name] = {
                 'id': data['id'],
                 'name': name,
                 'types': [t['type']['name'] for t in data['types']],
                 'abilities': [a['ability']['name'] for a in data['abilities']],
                 'stats': {s['stat']['name']: s['base_stat'] for s in data['stats']},
-                'moves': []
+                'moves': [],
+                'evolution_chain': evo_data
             }
             # Extract moves (only for Gen 5)
             for m in data['moves']:
@@ -54,10 +62,10 @@ def fetch_all_data():
                             'level': v['level_learned_at']
                         })
                         break
-        if i % 100 == 0:
+        if i % 50 == 0:
             print(f"Processed {i} Pokemon...")
 
-    # 2. Fetch Moves (unique ones from pokemon_base)
+    # 2. Fetch Moves
     unique_moves = set()
     for p in pokemon_base.values():
         for m in p['moves']:
@@ -86,7 +94,7 @@ def fetch_all_data():
         if (idx + 1) % 100 == 0:
             print(f"Processed {idx+1} moves...")
 
-    # 3. Fetch Abilities (unique ones)
+    # 3. Fetch Abilities
     unique_abilities = set()
     for p in pokemon_base.values():
         for a in p['abilities']:

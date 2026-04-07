@@ -6,35 +6,35 @@
 <img src="img/types/fire.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Use fire-stone  
 
 ## Abilities
-- **[Flash Fire](abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
+- <span class="change-new-label">NEW</span> **[Flash Fire](abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
 - **[Drought](abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-ground">ground</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-fire">fire</span> x0.5, <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/ground.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/fire.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 73 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.55555555555556%"></div></div> |
-| Attack | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.22222222222222%"></div></div> |
-| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
-| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
+| Hp | 73 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.5%"></div></div> |
+| Attack | 76 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.0%"></div></div> |
+| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special attack | 81 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:40.5%"></div></div> |
+| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Speed | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Ember](moves/ember.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Confuse ray](moves/confuse-ray.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 10 |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 25 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Nasty plot](moves/nasty-plot.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 23 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Ominous wind](moves/ominous-wind.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 100 | 5 |
+| <span class="change-new-label">NEW</span> 30 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Hypnosis](moves/hypnosis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 60 | 20 |
+| <span class="change-new-label">NEW</span> 37 | <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" alt="special" /> | 95 | 90 | 10 |
+| <span class="change-new-label">NEW</span> 44 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Power swap](moves/power-swap.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 10 |
+| <span class="change-new-label">NEW</span> 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Morning sun](moves/morning-sun.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

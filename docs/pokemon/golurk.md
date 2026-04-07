@@ -6,26 +6,26 @@
 <img src="img/types/ground.png" width="60" /> <img src="img/types/ghost.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** Level 43  
 
 ## Abilities
-- **[Iron Fist](abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power.
-- **[No Guard](abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit.
+- <span class="change-new-label">NEW</span> **[Iron Fist](abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power.
+- <span class="change-new-label">NEW</span> **[No Guard](abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-water">water</span> x2.0, <span class="type-badge type-grass">grass</span> x2.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-ghost">ghost</span> x2.0, <span class="type-badge type-dark">dark</span> x2.0 | <span class="type-badge type-poison">poison</span> x0.25, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-rock">rock</span> x0.5 | <span class="type-badge type-normal">normal</span>, <span class="type-badge type-electric">electric</span>, <span class="type-badge type-fighting">fighting</span> |
+| <img src="img/types/water.png" width="40" /> x2.0, <img src="img/types/grass.png" width="40" /> x2.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/ghost.png" width="40" /> x2.0, <img src="img/types/dark.png" width="40" /> x2.0 | <img src="img/types/poison.png" width="40" /> x0.25, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/rock.png" width="40" /> x0.5 | <img src="img/types/normal.png" width="40" /> x0.0, <img src="img/types/electric.png" width="40" /> x0.0, <img src="img/types/fighting.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">99</span> <span class="change-old">89</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.00000000000001%"></div></div> |
-| Attack | 124 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:68.88888888888889%"></div></div> |
-| Defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
+| Hp | <span class="change-new">99</span> <span class="change-old">89</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:49.5%"></div></div> |
+| Attack | 124 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.0%"></div></div> |
+| Defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Special attack | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special defense | <span class="change-new">90</span> <span class="change-old">80</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Speed | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

@@ -6,26 +6,27 @@
 <img src="img/types/dark.png" width="60" /> <img src="img/types/fighting.png" width="60" />
 
 ## Evolution
-- **Next Stage**: Level 35 [Scraggy]
+**Base Game:** Level 39  
+**New:** Next Stage: Level 35 [Scraggy]
 
 ## Abilities
-- **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
+- <span class="change-new-label">NEW</span> **[Shed Skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
 - **[Moxie](abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0, <span class="type-badge type-flying">flying</span> x2.0 | <span class="type-badge type-rock">rock</span> x0.5, <span class="type-badge type-ghost">ghost</span> x0.5, <span class="type-badge type-dark">dark</span> x0.25 | <span class="type-badge type-psychic">psychic</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x2.0 | <img src="img/types/rock.png" width="40" /> x0.5, <img src="img/types/ghost.png" width="40" /> x0.5, <img src="img/types/dark.png" width="40" /> x0.25 | <img src="img/types/psychic.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:36.11111111111111%"></div></div> |
-| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Speed | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.22222222222222%"></div></div> |
+| Hp | 65 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:32.5%"></div></div> |
+| Attack | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Speed | 58 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:28.999999999999996%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

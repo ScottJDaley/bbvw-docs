@@ -6,7 +6,7 @@
 <img src="img/types/normal.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Pickup](abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle.
@@ -15,17 +15,17 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fighting">fighting</span> x2.0 |  | <span class="type-badge type-ghost">ghost</span> |
+| <img src="img/types/fighting.png" width="40" /> x2.0 |  | <img src="img/types/ghost.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:21.11111111111111%"></div></div> |
-| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Defense | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.77777777777778%"></div></div> |
-| Special attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:16.666666666666664%"></div></div> |
-| Special defense | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.77777777777778%"></div></div> |
-| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:33.33333333333333%"></div></div> |
+| Hp | 38 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.0%"></div></div> |
+| Attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Defense | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.5%"></div></div> |
+| Special attack | 30 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:15.0%"></div></div> |
+| Special defense | 41 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:20.5%"></div></div> |
+| Speed | 60 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.0%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |

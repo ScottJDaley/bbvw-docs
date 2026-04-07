@@ -6,42 +6,35 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/grass.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Effect Spore](abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.
-- **[Dry Skin](abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Effect Spore](abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.
+- <span class="change-new-label">NEW</span> **[Dry Skin](abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x4.0, <span class="type-badge type-ice">ice</span> x2.0, <span class="type-badge type-poison">poison</span> x2.0, <span class="type-badge type-flying">flying</span> x4.0, <span class="type-badge type-bug">bug</span> x2.0, <span class="type-badge type-rock">rock</span> x2.0 | <span class="type-badge type-water">water</span> x0.5, <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-fighting">fighting</span> x0.5, <span class="type-badge type-ground">ground</span> x0.25 |  |
+| <img src="img/types/fire.png" width="40" /> x4.0, <img src="img/types/ice.png" width="40" /> x2.0, <img src="img/types/poison.png" width="40" /> x2.0, <img src="img/types/flying.png" width="40" /> x4.0, <img src="img/types/bug.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x2.0 | <img src="img/types/water.png" width="40" /> x0.5, <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/fighting.png" width="40" /> x0.5, <img src="img/types/ground.png" width="40" /> x0.25 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:19.444444444444446%"></div></div> |
-| Attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:38.88888888888889%"></div></div> |
-| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
-| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:13.88888888888889%"></div></div> |
+| Hp | 35 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:17.5%"></div></div> |
+| Attack | 70 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:35.0%"></div></div> |
+| Defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special attack | 45 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:22.5%"></div></div> |
+| Special defense | 55 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 25 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:12.5%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Scratch](moves/scratch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 35 |
-| 6 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison powder](moves/poison-powder.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 75 | 35 |
-| 6 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Stun spore](moves/stun-spore.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 75 | 30 |
-| 11 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Leech life](moves/leech-life.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
-| 17 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
-| 22 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Spore](moves/spore.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 27 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Slash](moves/slash.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
-| 33 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Growth](moves/growth.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 38 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Giga drain](moves/giga-drain.md) | <img src="img/types/special.png" width="30" alt="special" /> | 75 | 100 | 10 |
-| 43 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Aromatherapy](moves/aromatherapy.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 49 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Rage powder](moves/rage-powder.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 54 | <img src="img/types/bug.png" width="40" alt="bug" /> | [X scissor](moves/x-scissor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Synthesis](moves/synthesis.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
+| <span class="change-move-shifted">SHIFTED</span> 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
+| <span class="change-new-label">NEW</span> 17 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 22 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Leech seed](moves/leech-seed.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 90 | 10 |
+| <span class="change-new-label">NEW</span> 27 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Cross poison](moves/cross-poison.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 70 | 100 | 20 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

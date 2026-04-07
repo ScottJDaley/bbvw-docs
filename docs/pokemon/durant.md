@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/steel.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Swarm](abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.
@@ -15,36 +15,22 @@ No changes from base games.
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x4.0 | <span class="type-badge type-normal">normal</span> x0.5, <span class="type-badge type-grass">grass</span> x0.25, <span class="type-badge type-ice">ice</span> x0.5, <span class="type-badge type-psychic">psychic</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5, <span class="type-badge type-dragon">dragon</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 | <span class="type-badge type-poison">poison</span> |
+| <img src="img/types/fire.png" width="40" /> x4.0 | <img src="img/types/normal.png" width="40" /> x0.5, <img src="img/types/grass.png" width="40" /> x0.25, <img src="img/types/ice.png" width="40" /> x0.5, <img src="img/types/psychic.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5, <img src="img/types/dragon.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 | <img src="img/types/poison.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">75</span> <span class="change-old">58</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Attack | <span class="change-new">111</span> <span class="change-old">109</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:61.66666666666667%"></div></div> |
-| Defense | 112 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:62.22222222222222%"></div></div> |
-| Special attack | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:26.666666666666668%"></div></div> |
-| Special defense | <span class="change-new">55</span> <span class="change-old">48</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | 109 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:60.55555555555555%"></div></div> |
+| Hp | <span class="change-new">75</span> <span class="change-old">58</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Attack | <span class="change-new">111</span> <span class="change-old">109</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.50000000000001%"></div></div> |
+| Defense | 112 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:56.00000000000001%"></div></div> |
+| Special attack | 48 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:24.0%"></div></div> |
+| Special defense | <span class="change-new">55</span> <span class="change-old">48</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | 109 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:54.50000000000001%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Vice grip](moves/vice-grip.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 55 | 100 | 30 |
-| 1 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Sand attack](moves/sand-attack.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 6 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Fury cutter](moves/fury-cutter.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 95 | 20 |
-| 11 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 16 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Agility](moves/agility.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
-| 21 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal claw](moves/metal-claw.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 50 | 95 | 35 |
-| 26 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 20 |
-| 31 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 36 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron head](moves/iron-head.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 41 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Dig](moves/dig.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 10 |
-| 46 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Entrainment](moves/entrainment.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 15 |
-| 51 | <img src="img/types/bug.png" width="40" alt="bug" /> | [X scissor](moves/x-scissor.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 56 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron defense](moves/iron-defense.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
-| 61 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Guillotine](moves/guillotine.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 30 | 5 |
-| 66 | <img src="img/types/steel.png" width="40" alt="steel" /> | [Metal sound](moves/metal-sound.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 85 | 40 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder fang](moves/thunder-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

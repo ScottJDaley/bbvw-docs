@@ -6,44 +6,34 @@
 <img src="img/types/electric.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
 - **[Pressure](abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one.
-- **[Volt Absorb](abilities/volt-absorb.md)**: Absorbs electric moves, healing for 1/4 max HP.
+- <span class="change-new-label">NEW</span> **[Volt Absorb](abilities/volt-absorb.md)**: Absorbs electric moves, healing for 1/4 max HP.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-ground">ground</span> x2.0 | <span class="type-badge type-electric">electric</span> x0.5, <span class="type-badge type-flying">flying</span> x0.5, <span class="type-badge type-steel">steel</span> x0.5 |  |
+| <img src="img/types/ground.png" width="40" /> x2.0 | <img src="img/types/electric.png" width="40" /> x0.5, <img src="img/types/flying.png" width="40" /> x0.5, <img src="img/types/steel.png" width="40" /> x0.5 |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
-| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.22222222222222%"></div></div> |
-| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:41.66666666666667%"></div></div> |
-| Special attack | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
-| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:55.55555555555556%"></div></div> |
-| Speed | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
+| Hp | 90 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:45.0%"></div></div> |
+| Attack | 85 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:42.5%"></div></div> |
+| Defense | 75 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:37.5%"></div></div> |
+| Special attack | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
+| Special defense | 100 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:50.0%"></div></div> |
+| Speed | 115 | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Leer](moves/leer.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | 100 | 30 |
-| 1 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Bite](moves/bite.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 60 | 100 | 25 |
-| 8 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder shock](moves/thunder-shock.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 30 |
-| 15 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Roar](moves/roar.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
-| 29 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Spark](moves/spark.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 100 | 20 |
-| 36 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Reflect](moves/reflect.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 43 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Crunch](moves/crunch.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
-| 50 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder fang](moves/thunder-fang.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 65 | 95 | 15 |
-| 57 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Discharge](moves/discharge.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 15 |
-| 64 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Extrasensory](moves/extrasensory.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | 100 | 20 |
-| 71 | <img src="img/types/water.png" width="40" alt="water" /> | [Rain dance](moves/rain-dance.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 5 |
-| 78 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Calm mind](moves/calm-mind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
-| 85 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Thunder](moves/thunder.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Aura sphere](moves/aura-sphere.md) | <img src="img/types/special.png" width="30" alt="special" /> | 80 | - | 20 |
+| <span class="change-new-label">NEW</span> 1 | - | Extremespeed | - | - | - | - | - |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Weather ball](moves/weather-ball.md) | <img src="img/types/special.png" width="30" alt="special" /> | 50 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Zap cannon](moves/zap-cannon.md) | <img src="img/types/special.png" width="30" alt="special" /> | 120 | 50 | 5 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

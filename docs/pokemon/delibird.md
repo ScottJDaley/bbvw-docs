@@ -6,31 +6,43 @@
 <img src="img/types/ice.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-No changes from base games.
+**Base Game:** First Stage  
 
 ## Abilities
-- **[Vital Spirit](abilities/vital-spirit.md)**: Prevents sleep.
-- **[Technician](abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power.
+- <span class="change-new-label">NEW</span> **[Vital Spirit](abilities/vital-spirit.md)**: Prevents sleep.
+- <span class="change-new-label">NEW</span> **[Technician](abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power.
 
 ## Type Defenses
 | Weaknesses (2x+) | Resistances (0.5x-) | Immunities (0x) |
 | --- | --- | --- |
-| <span class="type-badge type-fire">fire</span> x2.0, <span class="type-badge type-electric">electric</span> x2.0, <span class="type-badge type-rock">rock</span> x4.0, <span class="type-badge type-steel">steel</span> x2.0 | <span class="type-badge type-grass">grass</span> x0.5, <span class="type-badge type-bug">bug</span> x0.5 | <span class="type-badge type-ground">ground</span> |
+| <img src="img/types/fire.png" width="40" /> x2.0, <img src="img/types/electric.png" width="40" /> x2.0, <img src="img/types/rock.png" width="40" /> x4.0, <img src="img/types/steel.png" width="40" /> x2.0 | <img src="img/types/grass.png" width="40" /> x0.5, <img src="img/types/bug.png" width="40" /> x0.5 | <img src="img/types/ground.png" width="40" /> x0.0 |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | <span class="change-new">50</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.77777777777778%"></div></div> |
-| Attack | <span class="change-new">95</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.77777777777778%"></div></div> |
-| Defense | <span class="change-new">55</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Special attack | <span class="change-new">105</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:58.333333333333336%"></div></div> |
-| Special defense | <span class="change-new">55</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:30.555555555555557%"></div></div> |
-| Speed | <span class="change-new">115</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:63.888888888888886%"></div></div> |
+| Hp | <span class="change-new">50</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:25.0%"></div></div> |
+| Attack | <span class="change-new">95</span> <span class="change-old">55</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:47.5%"></div></div> |
+| Defense | <span class="change-new">55</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Special attack | <span class="change-new">105</span> <span class="change-old">65</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:52.5%"></div></div> |
+| Special defense | <span class="change-new">55</span> <span class="change-old">45</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:27.500000000000004%"></div></div> |
+| Speed | <span class="change-new">115</span> <span class="change-old">75</span> | <div class="stat-bar-bg"><div class="stat-bar-fill" style="width:57.49999999999999%"></div></div> |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Present](moves/present.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | - | 90 | 15 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Powder snow](moves/powder-snow.md) | <img src="img/types/special.png" width="30" alt="special" /> | 40 | 100 | 25 |
+| <span class="change-new-label">NEW</span> 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Pay day](moves/pay-day.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 20 |
+| <span class="change-new-label">NEW</span> 8 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Acrobatics](moves/acrobatics.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 55 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 15 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Mist](moves/mist.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 30 |
+| <span class="change-new-label">NEW</span> 22 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Quick attack](moves/quick-attack.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 30 |
+| <span class="change-new-label">NEW</span> 29 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Baton pass](moves/baton-pass.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 40 |
+| <span class="change-new-label">NEW</span> 36 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Frost breath](moves/frost-breath.md) | <img src="img/types/special.png" width="30" alt="special" /> | 60 | 90 | 10 |
+| <span class="change-new-label">NEW</span> 43 | <img src="img/types/grass.png" width="40" alt="grass" /> | [Seed bomb](moves/seed-bomb.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 80 | 100 | 15 |
+| <span class="change-new-label">NEW</span> 50 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Fake out](moves/fake-out.md) | <img src="img/types/physical.png" width="30" alt="physical" /> | 40 | 100 | 10 |
+| <span class="change-new-label">NEW</span> 57 | <img src="img/types/ice.png" width="40" alt="ice" /> | [Blizzard](moves/blizzard.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 5 |
+| <span class="change-new-label">NEW</span> 64 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Nasty plot](moves/nasty-plot.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 20 |
+| <span class="change-new-label">NEW</span> 71 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Hurricane](moves/hurricane.md) | <img src="img/types/special.png" width="30" alt="special" /> | 110 | 70 | 10 |
+| <span class="change-new-label">NEW</span> 78 | <img src="img/types/flying.png" width="40" alt="flying" /> | [Tailwind](moves/tailwind.md) | <img src="img/types/status.png" width="30" alt="status" /> | - | - | 15 |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |
