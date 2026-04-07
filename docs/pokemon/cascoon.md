@@ -6,10 +6,13 @@
 <img src="img/types/bug.png" width="60" />
 
 ## Evolution
-**Base Game:** Level 7  
+<img src="img/pokemon/265.png" width="40" /> **[Wurmple](pokemon/wurmple.md)**  ➡️  <img src="img/pokemon/266.png" width="40" /> **[Silcoon](pokemon/silcoon.md)** (Lv. 7) | <img src="img/pokemon/268.png" width="40" /> **[Cascoon](pokemon/cascoon.md)** (Lv. 7)  ➡️  <img src="img/pokemon/267.png" width="40" /> **[Beautifly](pokemon/beautifly.md)** (Lv. 10) | <img src="img/pokemon/269.png" width="40" /> **[Dustox](pokemon/dustox.md)** (Lv. 10)
 
 ## Abilities
-- **[Shed skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn.
+| Slot | Original | New |
+| --- | --- | --- |
+| Ability 1 | **[Shed skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed skin](abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
+| Ability 2 | - | - |
 
 ## Type Defenses
 | Type | Effectiveness |

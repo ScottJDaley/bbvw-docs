@@ -64,3 +64,59 @@
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/pokemon/452.png" width="40" /> | Drapion | 75 | - | Scope Lens | Night Slash, Cross Poison, Storm Throw*, Toxic Spikes |
 
+### Battle Girl Amy
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/068.png" width="40" /> | Machamp | 60 | - | - |  |
+| <img src="img/pokemon/448.png" width="40" /> | Lucario | 60 | - | - |  |
+| <img src="img/pokemon/534.png" width="40" /> | Conkeldurr | 60 | - | - |  |
+| <img src="img/pokemon/392.png" width="40" /> | Infernape | 60 | - | - |  |
+
+### Ace Trainer Johan
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/465.png" width="40" /> | Tangrowth | 63 | - | - |  |
+| <img src="img/pokemon/181.png" width="40" /> | Ampharos | 63 | - | - |  |
+| <img src="img/pokemon/467.png" width="40" /> | Magmortar | 63 | - | - |  |
+| <img src="img/pokemon/212.png" width="40" /> | Scizor | 63 | - | - |  |
+
+### Veteran Karla
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/579.png" width="40" /> | Reuniclus | 63 | - | - |  |
+| <img src="img/pokemon/464.png" width="40" /> | Rhyperior | 63 | - | - |  |
+| <img src="img/pokemon/589.png" width="40" /> | Escavalier | 63 | - | - |  |
+| <img src="img/pokemon/614.png" width="40" /> | Beartic | 63 | - | - |  |
+| <img src="img/pokemon/038.png" width="40" /> | Ninetales | 63 | - | - |  |
+
+### Black Belt Corey
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/538.png" width="40" /> | Throh | 60 | - | - |  |
+| <img src="img/pokemon/539.png" width="40" /> | Sawk | 60 | - | - |  |
+
+### Hiker Bret
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/526.png" width="40" /> | Gigalith | 60 | - | - |  |
+| <img src="img/pokemon/534.png" width="40" /> | Conkeldurr | 60 | - | - |  |
+| <img src="img/pokemon/476.png" width="40" /> | Probopass | 60 | - | - |  |
+
+### Ace Trainer Cheyenne
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/468.png" width="40" /> | Togekiss | 63 | - | - |  |
+| <img src="img/pokemon/130.png" width="40" /> | Gyarados | 63 | - | - |  |
+| <img src="img/pokemon/584.png" width="40" /> | Vanilluxe | 63 | - | - |  |
+| <img src="img/pokemon/596.png" width="40" /> | Galvantula | 63 | - | - |  |
+| <img src="img/pokemon/474.png" width="40" /> | Porygon-Z | 63 | - | - |  |
+
+### Veteran Chester
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/503.png" width="40" /> | Samurott | 63 | - | - |  |
+| <img src="img/pokemon/450.png" width="40" /> | Hippowdon | 63 | - | - |  |
+| <img src="img/pokemon/103.png" width="40" /> | Exeggutor | 63 | - | - |  |
+| <img src="img/pokemon/227.png" width="40" /> | Skarmory | 63 | - | - |  |
+| <img src="img/pokemon/405.png" width="40" /> | Luxray | 63 | - | - |  |
+

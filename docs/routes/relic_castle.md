@@ -43,3 +43,62 @@
 | <img src="img/pokemon/323.png" width="40" /> | [Camerupt](pokemon/camerupt.md) | 5% |
 | <img src="img/pokemon/201.png" width="40" /> | [Unown](pokemon/unown.md) | 100% |
 
+
+## Trainers
+### Psychic Perry
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/575.png" width="40" /> | Gothorita | 32 | - | - |  |
+| <img src="img/pokemon/578.png" width="40" /> | Duosion | 32 | - | - |  |
+
+### Psychic Dua
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/607.png" width="40" /> | Litwick | 31 | - | - |  |
+| <img src="img/pokemon/605.png" width="40" /> | Elgyem | 31 | - | - |  |
+| <img src="img/pokemon/561.png" width="40" /> | Sigilyph | 31 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/264.png" width="40" /> | Linoone | 58 | - | - |  |
+| <img src="img/pokemon/553.png" width="40" /> | Krookodile | 58 | - | - |  |
+| <img src="img/pokemon/560.png" width="40" /> | Scrafty | 58 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/168.png" width="40" /> | Ariados | 58 | - | - |  |
+| <img src="img/pokemon/169.png" width="40" /> | Crobat | 58 | - | - |  |
+| <img src="img/pokemon/112.png" width="40" /> | Rhydon | 58 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/110.png" width="40" /> | Weezing | 58 | - | - |  |
+| <img src="img/pokemon/089.png" width="40" /> | Muk | 58 | - | - |  |
+| <img src="img/pokemon/569.png" width="40" /> | Garbodor | 58 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/553.png" width="40" /> | Krookodile | 60 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/625.png" width="40" /> | Bisharp | 59 | - | - |  |
+| <img src="img/pokemon/452.png" width="40" /> | Drapion | 59 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/560.png" width="40" /> | Scrafty | 59 | - | - |  |
+| <img src="img/pokemon/510.png" width="40" /> | Liepard | 59 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/073.png" width="40" /> | Tentacruel | 59 | - | - |  |
+| <img src="img/pokemon/336.png" width="40" /> | Seviper | 59 | - | - |  |
+

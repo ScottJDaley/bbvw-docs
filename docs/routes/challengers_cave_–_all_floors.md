@@ -1,6 +1,6 @@
 # Challenger’s Cave – All Floors
 
-## <img src='img/items/grass-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
+## <img src='img/items/cave-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="img/pokemon/303.png" width="40" /> | [Mawile](pokemon/mawile.md) | 20% |

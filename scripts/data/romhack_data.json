@@ -9474,7 +9474,7 @@
   },
   "wild_pokemon": [
     {
-      "name": "'Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.",
+      "name": "Unless otherwise stated, fishing encounters have not been edited.",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -21364,7 +21364,8 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
       },
       {
         "name": "Rival Bianca \u2013 Final",
@@ -21380,7 +21381,8 @@
               "Swift"
             ]
           }
-        ]
+        ],
+        "important": true
       }
     ],
     "Accumula Town": [
@@ -21394,7 +21396,8 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
       }
     ],
     "Route 2": [
@@ -21408,7 +21411,103 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Youngster Jimmy",
+        "pokemon": [
+          {
+            "name": "Hoothoot",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Wurmple",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Patrat",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lass Mail",
+        "pokemon": [
+          {
+            "name": "Zigzagoon",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Meowth",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pidgey",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Caterpie",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Roland",
+        "pokemon": [
+          {
+            "name": "Lillipup",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bidoof",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kricketot",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Weedle",
+            "level": "7",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Nacrene City": [
@@ -21422,7 +21521,123 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Lass Dye",
+        "pokemon": [
+          {
+            "name": "Breloom",
+            "level": "85",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Carter",
+        "pokemon": [
+          {
+            "name": "Aipom",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Snubbull",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Minccino",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lickitung",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Satomi",
+        "pokemon": [
+          {
+            "name": "Ditto",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Smeargle",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Porygon",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Castform",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Lydia",
+        "pokemon": [
+          {
+            "name": "Buneary",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Clefairy",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jigglypuff",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Delcatty",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Castelia City-Route 4 Gatehouse": [
@@ -21436,7 +21651,8 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
       }
     ],
     "Nimbasa City": [
@@ -21450,7 +21666,178 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Mawile",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sableye",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lady Magnolia",
+        "pokemon": [
+          {
+            "name": "Plusle",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Minun",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Joltik",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tynamo",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pichu",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Rich Boy Cody",
+        "pokemon": [
+          {
+            "name": "Pachirisu",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Electabuzz",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pikachu",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flaaffy",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jolteon",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Rich Boy Rolan",
+        "pokemon": [
+          {
+            "name": "Luxray",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jolteon",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magneton",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Electrode",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lanturn",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lady Colette",
+        "pokemon": [
+          {
+            "name": "Stunfisk",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rotom",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Emolga",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Driftveil City": [
@@ -21464,7 +21851,218 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Motorcyclist Charles",
+        "pokemon": [
+          {
+            "name": "Poliwrath",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Forretress",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Torkoal",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Kyle",
+        "pokemon": [
+          {
+            "name": "Wailord",
+            "level": "85",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Felix",
+        "pokemon": [
+          {
+            "name": "Sandile",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gible",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Piloswine",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rhyhorn",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Don",
+        "pokemon": [
+          {
+            "name": "Larvitar",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Onix",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gabite",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sandslash",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Sterling",
+        "pokemon": [
+          {
+            "name": "Gligar",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Palpitoad",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Nidoking",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vibrava",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Isaac",
+        "pokemon": [
+          {
+            "name": "Camerupt",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Whiscash",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Torterra",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Claydol",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Katie",
+        "pokemon": [
+          {
+            "name": "Pupitar",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Nidoqueen",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Donphan",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dugtrio",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Chargestone Cave": [
@@ -21478,7 +22076,363 @@
             "ability": "-",
             "moves": []
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Ace Trainer Jared",
+        "pokemon": [
+          {
+            "name": "Axew",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dragonair",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Ronald",
+        "pokemon": [
+          {
+            "name": "Klang",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Naoko",
+        "pokemon": [
+          {
+            "name": "Durant",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ferrothorn",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hiker Hardy",
+        "pokemon": [
+          {
+            "name": "Bronzong",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Relicanth",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Carracosta",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Orville",
+        "pokemon": [
+          {
+            "name": "Fearow",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pidgeot",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Corky",
+        "pokemon": [
+          {
+            "name": "Bagon",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Zangoose",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cradily",
+            "level": "40",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Doctor Wayne",
+        "pokemon": [
+          {
+            "name": "Reuniclus",
+            "level": "41",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Krokorok",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Watchog",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scrafty",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Eelektrik",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Banette",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Crawdaunt",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Arbok",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Honchkrow",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vileplume",
+            "level": "39",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Garbodor",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Pawniard",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cacturne",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scraggy",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mightyena",
+            "level": "38",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Exploud",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Garbodor",
+            "level": "41",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Weezing",
+            "level": "41",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Allison",
+        "pokemon": [
+          {
+            "name": "Dratini",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rhydon",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Exeggutor",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Stella",
+        "pokemon": [
+          {
+            "name": "Farfetch'd",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hypno",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Arcanine",
+            "level": "42",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Route 8": [
@@ -21496,7 +22450,136 @@
               "Swift"
             ]
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "PKMN Ranger Lewis",
+        "pokemon": [
+          {
+            "name": "Maractus",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Politoed",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Escavalier",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady Melita",
+        "pokemon": [
+          {
+            "name": "Jellicent",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kingdra",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Fisherman Bruce",
+        "pokemon": [
+          {
+            "name": "Basculin",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Basculin",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kingler",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Whiscash",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady Lumi",
+        "pokemon": [
+          {
+            "name": "Flareon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flygon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Annie",
+        "pokemon": [
+          {
+            "name": "Tropius",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cinccino",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Archeops",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ],
     "Route 10": [
@@ -21512,7 +22595,8 @@
               "Night Daze"
             ]
           }
-        ]
+        ],
+        "important": true
       },
       {
         "name": "PKMN Trainer N \u2013 Final",
@@ -21526,7 +22610,8 @@
               "Night Daze"
             ]
           }
-        ]
+        ],
+        "important": true
       },
       {
         "name": "Team Plasma Ghetsis",
@@ -21543,7 +22628,6299 @@
               "Toxic Spikes"
             ]
           }
-        ]
+        ],
+        "important": true
+      },
+      {
+        "name": "Battle Girl Amy",
+        "pokemon": [
+          {
+            "name": "Machamp",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lucario",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Conkeldurr",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Infernape",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Johan",
+        "pokemon": [
+          {
+            "name": "Tangrowth",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ampharos",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magmortar",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scizor",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Karla",
+        "pokemon": [
+          {
+            "name": "Reuniclus",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rhyperior",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Escavalier",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Beartic",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ninetales",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Corey",
+        "pokemon": [
+          {
+            "name": "Throh",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sawk",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hiker Bret",
+        "pokemon": [
+          {
+            "name": "Gigalith",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Conkeldurr",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Probopass",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Cheyenne",
+        "pokemon": [
+          {
+            "name": "Togekiss",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gyarados",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vanilluxe",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Galvantula",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Porygon-Z",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Chester",
+        "pokemon": [
+          {
+            "name": "Samurott",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hippowdon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Exeggutor",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Skarmory",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Luxray",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 1": [
+      {
+        "name": "PKMN Ranger Brenda",
+        "pokemon": [
+          {
+            "name": "Vaporeon",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Absol",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Claude",
+        "pokemon": [
+          {
+            "name": "Drifblim",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lickilicky",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Fisherman Sean",
+        "pokemon": [
+          {
+            "name": "Seadra",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seaking",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kingler",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Striation City": [
+      {
+        "name": "Waiter Maxwell",
+        "pokemon": [
+          {
+            "name": "Slowpoke",
+            "level": "11",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Growlithe",
+            "level": "11",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Budew",
+            "level": "11",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Waitress Tia",
+        "pokemon": [
+          {
+            "name": "Hoppip",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slugma",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Marill",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Dreamyard": [
+      {
+        "name": "Lass Eri",
+        "pokemon": [
+          {
+            "name": "Sentret",
+            "level": "10",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Skitty",
+            "level": "10",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Starly",
+            "level": "10",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Azurill",
+            "level": "10",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Joey",
+        "pokemon": [
+          {
+            "name": "Rattata",
+            "level": "11",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Trubbish",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ekans",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Drowzee",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Koffing",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Grimer",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cacnea",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 3": [
+      {
+        "name": "Kumi & Amy D",
+        "pokemon": [
+          {
+            "name": "NidoranM",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "NidoranF",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Nursery Aide Autumn",
+        "pokemon": [
+          {
+            "name": "Togepi",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Natu",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ralts",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Munna",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Doyle",
+        "pokemon": [
+          {
+            "name": "Squirtle",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Oshawott",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Wendy",
+        "pokemon": [
+          {
+            "name": "Totodile",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Piplup",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Tully",
+        "pokemon": [
+          {
+            "name": "Mudkip",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Psyduck",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shellos",
+            "level": "14",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Breeder Adelaide",
+        "pokemon": [
+          {
+            "name": "Igglybuff",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cleffa",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pichu",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magby",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Elekid",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Smoochum",
+            "level": "12",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Al",
+        "pokemon": [
+          {
+            "name": "Blitzle",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mareep",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flaaffy",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Marsha",
+        "pokemon": [
+          {
+            "name": "Phanpy",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Teddiursa",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Woobat",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Whismur",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Gina",
+        "pokemon": [
+          {
+            "name": "Wooper",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Taillow",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lotad",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seedot",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Edgar",
+        "pokemon": [
+          {
+            "name": "Shinx",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Luxio",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Nuzleaf",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lombre",
+            "level": "16",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Breeder Galen",
+        "pokemon": [
+          {
+            "name": "Serperior",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Samurott",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Emboar",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Wellspring Cave": [
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Zubat",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tentacool",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Poochyena",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Voltorb",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Carvanha",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pawniard",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Gulpin",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Numel",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Houndour",
+            "level": "15",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Pinwheel Forest": [
+      {
+        "name": "Nurse Shery",
+        "pokemon": [
+          {
+            "name": "Happiny",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Audino",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Juliet",
+        "pokemon": [
+          {
+            "name": "Pansage",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Panpour",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pansear",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Homer",
+        "pokemon": [
+          {
+            "name": "Roggenrola",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Geodude",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aron",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Keita",
+        "pokemon": [
+          {
+            "name": "Spinarak",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Doduo",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Charmander",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Zachary",
+        "pokemon": [
+          {
+            "name": "Burmy",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Torchic",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ledyba",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Lee",
+        "pokemon": [
+          {
+            "name": "Timburr",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Croagunk",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tyrogue",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Throh",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Kentaro",
+        "pokemon": [
+          {
+            "name": "Machop",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Meditite",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Riolu",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sawk",
+            "level": "18",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Twins Mayo & May D",
+        "pokemon": [
+          {
+            "name": "Sewaddle",
+            "level": "20",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Venipede",
+            "level": "20",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cottonee",
+            "level": "20",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Petilil",
+            "level": "20",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Team Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Sandile",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Skorupi",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Foongus",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Team Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Stunky",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Glameow",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mightyena",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Forrest",
+        "pokemon": [
+          {
+            "name": "Dunsparce",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chimchar",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Heracross",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Nicholas",
+        "pokemon": [
+          {
+            "name": "Shroomish",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cyndaquil",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Treecko",
+            "level": "21",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Audra",
+        "pokemon": [
+          {
+            "name": "Tangela",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bulbasaur",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scyther",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Irene",
+        "pokemon": [
+          {
+            "name": "Roselia",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chikorita",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pinsir",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Team Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Murkrow",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Liepard",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Miguel",
+        "pokemon": [
+          {
+            "name": "Vigoroth",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Turtwig",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mothim",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Team Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Golbat",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scraggy",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Beedrill",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Carnivine",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Millie",
+        "pokemon": [
+          {
+            "name": "Tranquill",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Furret",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ivysaur",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lass Eva",
+        "pokemon": [
+          {
+            "name": "Oddish",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bellsprout",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pidgeotto",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Wartortle",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "School Kid Sammy",
+        "pokemon": [
+          {
+            "name": "Linoone",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Noctowl",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Charmeleon",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sandshrew",
+            "level": "22",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Castelia City": [
+      {
+        "name": "Clerk Ingrid",
+        "pokemon": [
+          {
+            "name": "Poliwag",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Goldeen",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Staryu",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Azumarill",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Clemens",
+        "pokemon": [
+          {
+            "name": "Loudred",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kirlia",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Nidorina",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Nidorino",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Randall",
+        "pokemon": [
+          {
+            "name": "Abra",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shuckle",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Spinda",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magnemite",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Warren",
+        "pokemon": [
+          {
+            "name": "Slakoth",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Onix",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Quagsire",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Alberta",
+        "pokemon": [
+          {
+            "name": "Wormadam",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Weepinbell",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gloom",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Grovyle",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Ivan",
+        "pokemon": [
+          {
+            "name": "Cubone",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ledian",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Combusken",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Samantha",
+        "pokemon": [
+          {
+            "name": "Pikachu",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Trapinch",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mime Jr.",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Spoink",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Steve",
+        "pokemon": [
+          {
+            "name": "Drifloon",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slugma",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chingling",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bonsly",
+            "level": "23",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Clerk Wade",
+        "pokemon": [
+          {
+            "name": "Golett",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Clamperl",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Poliwhirl",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Marshtomp",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Janitor Geoff",
+        "pokemon": [
+          {
+            "name": "Gastly",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Skiploom",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cinccino",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lopunny",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Dancer Edmond",
+        "pokemon": [
+          {
+            "name": "Simipour",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Dancer Raymond",
+        "pokemon": [
+          {
+            "name": "Simisear",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Dancer Mickey",
+        "pokemon": [
+          {
+            "name": "Simisage",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Combee",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dustox",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shedinja",
+            "level": "24",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Jack",
+        "pokemon": [
+          {
+            "name": "Metapod",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kakuna",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Silcoon",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cascoon",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kricketune",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Kerry",
+        "pokemon": [
+          {
+            "name": "Surskit",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Butterfree",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Beautifly",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Volbeat",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Illumise",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Rick",
+        "pokemon": [
+          {
+            "name": "Dwebble",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Karrablast",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shelmet",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swadloon",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Whirlipede",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Louis",
+        "pokemon": [
+          {
+            "name": "Paras",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Anorith",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pineco",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Yanma",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Venonat",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 4": [
+      {
+        "name": "Backpacker Keane",
+        "pokemon": [
+          {
+            "name": "Sandshrew",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Exeggcute",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Diglett",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sunkern",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swablu",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Gus",
+        "pokemon": [
+          {
+            "name": "Makuhita",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Baltoy",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swinub",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cranidos",
+            "level": "25",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Anna",
+        "pokemon": [
+          {
+            "name": "Wingull",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Eevee",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Spearow",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Electrike",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Buizel",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Jill",
+        "pokemon": [
+          {
+            "name": "Cherubi",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Snivy",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pidove",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Darumaka",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Deerling",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Waylon",
+        "pokemon": [
+          {
+            "name": "Tepig",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ducklett",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vanillite",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ferroseed",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mienfoo",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Scott",
+        "pokemon": [
+          {
+            "name": "Boldore",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Graveler",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hippopotas",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Zack",
+        "pokemon": [
+          {
+            "name": "Rhyhorn",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sandslash",
+            "level": "27",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Jerome",
+        "pokemon": [
+          {
+            "name": "Lileep",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Snorunt",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Spheal",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Shelby",
+        "pokemon": [
+          {
+            "name": "Machoke",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Fisherman Hubert",
+        "pokemon": [
+          {
+            "name": "Omanyte",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Remoraid",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magikarp",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Horsea",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Wailmer",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Fisherman Andrew",
+        "pokemon": [
+          {
+            "name": "Kabuto",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Finneon",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Frillish",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chinchou",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Feebas",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady April",
+        "pokemon": [
+          {
+            "name": "Mantyke",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Munchlax",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Snover",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shieldon",
+            "level": "26",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Desert Resort": [
+      {
+        "name": "Doctor Jerry",
+        "pokemon": [
+          {
+            "name": "Chansey",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Kelsey",
+        "pokemon": [
+          {
+            "name": "Togetic",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sunflora",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Luvdisc",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Mylene",
+        "pokemon": [
+          {
+            "name": "Lairon",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ninjask",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Jaden",
+        "pokemon": [
+          {
+            "name": "Swellow",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sudowoodo",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Nate",
+        "pokemon": [
+          {
+            "name": "Barboach",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kecleon",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Granbull",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Liz",
+        "pokemon": [
+          {
+            "name": "Shellder",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rufflet",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vullaby",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Cybil",
+        "pokemon": [
+          {
+            "name": "Gothita",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Solosis",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Yamask",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Haunter",
+            "level": "28",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Low",
+        "pokemon": [
+          {
+            "name": "Wynaut",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chimecho",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Elaine",
+        "pokemon": [
+          {
+            "name": "Krabby",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cubchoo",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tirtouga",
+            "level": "29",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Gaven",
+        "pokemon": [
+          {
+            "name": "Duskull",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shuppet",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Relic Castle": [
+      {
+        "name": "Psychic Perry",
+        "pokemon": [
+          {
+            "name": "Gothorita",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Duosion",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Dua",
+        "pokemon": [
+          {
+            "name": "Litwick",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Elgyem",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sigilyph",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Linoone",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Krookodile",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scrafty",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Ariados",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Crobat",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rhydon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Weezing",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Muk",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Garbodor",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Krookodile",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Bisharp",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Drapion",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Scrafty",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Liepard",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Tentacruel",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seviper",
+            "level": "59",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 16": [
+      {
+        "name": "Cycling Hector",
+        "pokemon": [
+          {
+            "name": "Staravia",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ponyta",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Peter",
+        "pokemon": [
+          {
+            "name": "Klink",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Prinplup",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Cycling Krissa",
+        "pokemon": [
+          {
+            "name": "Archen",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Grotle",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Policeman Daniel",
+        "pokemon": [
+          {
+            "name": "Houndoom",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magmar",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Lora",
+        "pokemon": [
+          {
+            "name": "Cherrim",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Monferno",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Stephen",
+        "pokemon": [
+          {
+            "name": "Corphish",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ariados",
+            "level": "30",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 5": [
+      {
+        "name": "Preschooler Sarah",
+        "pokemon": [
+          {
+            "name": "Lunatone",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Preschooler Billy",
+        "pokemon": [
+          {
+            "name": "Solrock",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Baker Jenn",
+        "pokemon": [
+          {
+            "name": "Combee",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Munchlax",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Paul",
+        "pokemon": [
+          {
+            "name": "Palpitoad",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seel",
+            "level": "32",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Musician Preston",
+        "pokemon": [
+          {
+            "name": "Wigglytuff",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Dancer Brian",
+        "pokemon": [
+          {
+            "name": "Kirlia",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ludicolo",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Arist Horton",
+        "pokemon": [
+          {
+            "name": "Smeargle",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Smeargle",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Smeargle",
+            "level": "31",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Michael",
+        "pokemon": [
+          {
+            "name": "Nosepass",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Lois",
+        "pokemon": [
+          {
+            "name": "Shiftry",
+            "level": "33",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Cold Storage": [
+      {
+        "name": "Youngster Kenneth",
+        "pokemon": [
+          {
+            "name": "Persian",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dugtrio",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Servine",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Albert",
+        "pokemon": [
+          {
+            "name": "Primeape",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magneton",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dewott",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Eddie",
+        "pokemon": [
+          {
+            "name": "Drilbur",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bayleef",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sneasel",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Piloswine",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Victor",
+        "pokemon": [
+          {
+            "name": "Vanillish",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Croconaw",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mienfoo",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Glenn",
+        "pokemon": [
+          {
+            "name": "Quilava",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hariyama",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Floatzel",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Filipe",
+        "pokemon": [
+          {
+            "name": "Snover",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Crustle",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Patton",
+        "pokemon": [
+          {
+            "name": "Graveler",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gurdurr",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Ryan",
+        "pokemon": [
+          {
+            "name": "Beldum",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Metang",
+            "level": "37",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Haunter",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Arbok",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Grimer",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swalot",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Trubbish",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sharpedo",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Raticate",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 6": [
+      {
+        "name": "Scientist William",
+        "pokemon": [
+          {
+            "name": "Sawsbuck",
+            "level": "36",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Shanti",
+        "pokemon": [
+          {
+            "name": "Emolga",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Whimsicott",
+            "level": "35",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady Nicole",
+        "pokemon": [
+          {
+            "name": "Lilligant",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Alomomola",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jumpluff",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Ron",
+        "pokemon": [
+          {
+            "name": "Magneton",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Electrode",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Politoed",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Scientist Maria",
+        "pokemon": [
+          {
+            "name": "Gastrodon",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ninetales",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Parasect",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady Tihana",
+        "pokemon": [
+          {
+            "name": "Corsola",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tropius",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Milotic",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Richard",
+        "pokemon": [
+          {
+            "name": "Pignite",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sealeo",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Leavanny",
+            "level": "34",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 7": [
+      {
+        "name": "Youngster Mikey",
+        "pokemon": [
+          {
+            "name": "Tauros",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmonlee",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Stoutland",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Youngster Parker",
+        "pokemon": [
+          {
+            "name": "Darmanitan",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Accelgor",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Breloom",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Terrance",
+        "pokemon": [
+          {
+            "name": "Grumpig",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Huntail",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Elmer",
+        "pokemon": [
+          {
+            "name": "Venusaur",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Charizard",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Blastoise",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Ruth",
+        "pokemon": [
+          {
+            "name": "Venomoth",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Rapidash",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Mary",
+        "pokemon": [
+          {
+            "name": "Stantler",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ambipom",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Altaria",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Pedro",
+        "pokemon": [
+          {
+            "name": "Deino",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Heatmor",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Ian",
+        "pokemon": [
+          {
+            "name": "Clefable",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dodrio",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Golduck",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Harlequin Pat",
+        "pokemon": [
+          {
+            "name": "Victreebel",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmontop",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Meganium",
+            "level": "44",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Celestial Tower": [
+      {
+        "name": "Psychic Doreen",
+        "pokemon": [
+          {
+            "name": "Misdreavus",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Xatu",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Beheeyem",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lass Kara",
+        "pokemon": [
+          {
+            "name": "Delibird",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bellossom",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Pokefan Jude",
+        "pokemon": [
+          {
+            "name": "Leafeon",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Blaziken",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Miltank",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slowking",
+            "level": "47",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Pokefan Georgia",
+        "pokemon": [
+          {
+            "name": "Girafarig",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Octillery",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Roserade",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Micki",
+        "pokemon": [
+          {
+            "name": "Lampent",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cofagrigus",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mismagius",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Lin",
+        "pokemon": [
+          {
+            "name": "Swoobat",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gardevoir",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gothitelle",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Bryce",
+        "pokemon": [
+          {
+            "name": "Musharna",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Spiritomb",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dusclops",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Alakazam",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Psychic Belle",
+        "pokemon": [
+          {
+            "name": "Gallade",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Froslass",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slowbro",
+            "level": "48",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Nurse Sachiko",
+        "pokemon": [
+          {
+            "name": "Espeon",
+            "level": "49",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Blissey",
+            "level": "49",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Beckett",
+        "pokemon": [
+          {
+            "name": "Magnezone",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Medicham",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Wailord",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Kassandra",
+        "pokemon": [
+          {
+            "name": "Rampardos",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Torterra",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Magmortar",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Mistralton City": [
+      {
+        "name": "Worker Cliff",
+        "pokemon": [
+          {
+            "name": "Mantine",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Crobat",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Togekiss",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Charizard",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Honchkrow",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Brady",
+        "pokemon": [
+          {
+            "name": "Swoobat",
+            "level": "51",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Staraptor",
+            "level": "51",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Altaria",
+            "level": "51",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Drifblim",
+            "level": "51",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tropius",
+            "level": "51",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Pilot Ted",
+        "pokemon": [
+          {
+            "name": "Chatot",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sigilyph",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Unfezant",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scyther",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Delibird",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Pilot Chase",
+        "pokemon": [
+          {
+            "name": "Jumpluff",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Xatu",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Noctowl",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pelipper",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ledian",
+            "level": "50",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Arnold",
+        "pokemon": [
+          {
+            "name": "Swellow",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Farfetch'd",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aerodactyl",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Archeops",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pidgeot",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 17": [
+      {
+        "name": "Fisherman Lydon",
+        "pokemon": [
+          {
+            "name": "Basculin",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Qwilfish",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gyarados",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Swimmer Joyce",
+        "pokemon": [
+          {
+            "name": "Lumineon",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Starmie",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lanturn",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Swimmer Wright",
+        "pokemon": [
+          {
+            "name": "Tentacruel",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Feraligatr",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Swimmer Berke",
+        "pokemon": [
+          {
+            "name": "Omastar",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kabutops",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Swimmer Caroline",
+        "pokemon": [
+          {
+            "name": "Jellicent",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dewgong",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lapras",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 18": [
+      {
+        "name": "Hiker Jeremiah",
+        "pokemon": [
+          {
+            "name": "Golem",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ursaring",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slaking",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Kumiko",
+        "pokemon": [
+          {
+            "name": "Infernape",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tangrowth",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Amoonguss",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Backpacker Sam",
+        "pokemon": [
+          {
+            "name": "Sceptile",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Armaldo",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seviper",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Ray",
+        "pokemon": [
+          {
+            "name": "Shelgon",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gigalith",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Empoleon",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Hillary",
+        "pokemon": [
+          {
+            "name": "Hitmonchan",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Electivire",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Mistralton Cave": [
+      {
+        "name": "Hiker Hugh",
+        "pokemon": [
+          {
+            "name": "Mamoswine",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Klinklang",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aggron",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hiker Clarke",
+        "pokemon": [
+          {
+            "name": "Bastiodon",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Marowak",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Twist Mountain": [
+      {
+        "name": "Hiker Terrell",
+        "pokemon": [
+          {
+            "name": "Magcargo",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swampert",
+            "level": "45",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Teppei",
+        "pokemon": [
+          {
+            "name": "Machamp",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Rich",
+        "pokemon": [
+          {
+            "name": "Glalie",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kangaskhan",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Rob",
+        "pokemon": [
+          {
+            "name": "Metang",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Toxicroak",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Medicham",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Cairn",
+        "pokemon": [
+          {
+            "name": "Excadrill",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hariyama",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dugtrio",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Doctor Hank",
+        "pokemon": [
+          {
+            "name": "Jynx",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mr. Mime",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Wobbuffet",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hiker Neil",
+        "pokemon": [
+          {
+            "name": "Boldore",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Probopass",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gigalith",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hiker Darrell",
+        "pokemon": [
+          {
+            "name": "Sudowoodo",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Golbat",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Crustle",
+            "level": "52",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Sharon",
+        "pokemon": [
+          {
+            "name": "Mienshao",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Breloom",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Caroll",
+        "pokemon": [
+          {
+            "name": "Gorebyss",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Typhlosion",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Scizor",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Brand",
+        "pokemon": [
+          {
+            "name": "Sandslash",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swoobat",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Worker Heath",
+        "pokemon": [
+          {
+            "name": "Machoke",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Darmanitan",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Jordan",
+        "pokemon": [
+          {
+            "name": "Zebstrika",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Simisage",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Yanmega",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Icirrus City": [
+      {
+        "name": "Black Belt Grant",
+        "pokemon": [
+          {
+            "name": "Swinub",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Piloswine",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mamoswine",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Miriam",
+        "pokemon": [
+          {
+            "name": "Dewgong",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cloyster",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Slowbro",
+            "level": "54",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jynx",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lapras",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Kendrew",
+        "pokemon": [
+          {
+            "name": "Snover",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sneasel",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cubchoo",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Weavile",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Mikiko",
+        "pokemon": [
+          {
+            "name": "Vanillish",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sealeo",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jynx",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Walrein",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Battle Girl Chandra",
+        "pokemon": [
+          {
+            "name": "Froslass",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cryogonal",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Abomasnow",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Thomas",
+        "pokemon": [
+          {
+            "name": "Delibird",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Glalie",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Glaceon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Moor of Icirrus": [
+      {
+        "name": "PKMN Ranger Harry",
+        "pokemon": [
+          {
+            "name": "Seismitoad",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Fraxure",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Umbreon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "PKMN Ranger Chloris",
+        "pokemon": [
+          {
+            "name": "Lilligant",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Swampert",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Porygon-Z",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Fisherman Damon",
+        "pokemon": [
+          {
+            "name": "Stunfisk",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Seaking",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kingdra",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Parasol Lady Miriah",
+        "pokemon": [
+          {
+            "name": "Chandelure",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Vaporeon",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Golurk",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Dragonspiral Tower": [
+      {
+        "name": "Ace Trainer Jesse",
+        "pokemon": [
+          {
+            "name": "Onix",
+            "level": "53",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmonchan",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmonlee",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Onix",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Machamp",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Jamie",
+        "pokemon": [
+          {
+            "name": "Gengar",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Golbat",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Haunter",
+            "level": "55",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Arbok",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gengar",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Raticate",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Watchog",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Skuntank",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Mightyena",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Garbodor",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Purugly",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Muk",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Scrafty",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Krookodile",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Liepard",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shiftry",
+            "level": "57",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Drapion",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Eelektross",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Dusknoir",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Plasma Grunt",
+        "pokemon": [
+          {
+            "name": "Bisharp",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Tubeline Bridge": [
+      {
+        "name": "Biker Morgann",
+        "pokemon": [
+          {
+            "name": "Tauros",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Biker Jeremy",
+        "pokemon": [
+          {
+            "name": "Bouffalant",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Route 9": [
+      {
+        "name": "Roughneck Reese",
+        "pokemon": [
+          {
+            "name": "Scrafty",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Garbodor",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Biker Philip",
+        "pokemon": [
+          {
+            "name": "Bouffalant",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Hooligans Jim & Cas",
+        "pokemon": [
+          {
+            "name": "Cacturne",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Shiftry",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Biker Zeke",
+        "pokemon": [
+          {
+            "name": "Pawniard",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Bisharp",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Roughneck Chance",
+        "pokemon": [
+          {
+            "name": "Chansey",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Waitress Flo",
+        "pokemon": [
+          {
+            "name": "Clefable",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lilligant",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gorebyss",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Rich Boy Manuel",
+        "pokemon": [
+          {
+            "name": "Arcanine",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Raichu",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Grumpig",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Waiter Bert",
+        "pokemon": [
+          {
+            "name": "Simisage",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Chandelure",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Politoed",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Lady Isabel",
+        "pokemon": [
+          {
+            "name": "Stoutland",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gengar",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Snorlax",
+            "level": "61",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Opelucid City": [
+      {
+        "name": "Ace Trainer Eileen",
+        "pokemon": [
+          {
+            "name": "Vaporeon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jolteon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flareon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Lou",
+        "pokemon": [
+          {
+            "name": "Hitmonlee",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmonchan",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Hitmontop",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Webster",
+        "pokemon": [
+          {
+            "name": "Gyarados",
+            "level": "58",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dragonair",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dragonair",
+            "level": "56",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aerodactyl",
+            "level": "60",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dragonite",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Olwen",
+        "pokemon": [
+          {
+            "name": "Zweilous",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Druddigon",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ampharos",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Jose",
+        "pokemon": [
+          {
+            "name": "Fraxure",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gyarados",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Charizard",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Clara",
+        "pokemon": [
+          {
+            "name": "Milotic",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dragonair",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kangaskhan",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Hugo",
+        "pokemon": [
+          {
+            "name": "Druddigon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flygon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Garchomp",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Tom",
+        "pokemon": [
+          {
+            "name": "Steelix",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Tyranitar",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Altaria",
+            "level": "62",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Dara",
+        "pokemon": [
+          {
+            "name": "Druddigon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Zweilous",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flygon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Kim",
+        "pokemon": [
+          {
+            "name": "Druddigon",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Altaria",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Salamence",
+            "level": "63",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      }
+    ],
+    "Victory Road": [
+      {
+        "name": "Ace Trainer Shanta",
+        "pokemon": [
+          {
+            "name": "Slowking",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Kingdra",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Ludicolo",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Forretress",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Eelektross",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Dwayne",
+        "pokemon": [
+          {
+            "name": "Volcarona",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jumpluff",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Gliscor",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Solrock",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sunflora",
+            "level": "66",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Tiffany",
+        "pokemon": [
+          {
+            "name": "Arcanine",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Archeops",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Alakazam",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Flygon",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Cradily",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Black Belt Tyrone",
+        "pokemon": [
+          {
+            "name": "Poliwrath",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Mienshao",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aggron",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Conkeldurr",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Metagross",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer Cathy",
+        "pokemon": [
+          {
+            "name": "Abomasnow",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Pelipper",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Jynx",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Starmie",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Lunatone",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Doctor Logan",
+        "pokemon": [
+          {
+            "name": "Audino",
+            "level": "65",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Musharna",
+            "level": "65",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Blissey",
+            "level": "65",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Reuniclus",
+            "level": "65",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Meganium",
+            "level": "65",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Ace Trainer David",
+        "pokemon": [
+          {
+            "name": "Tyranitar",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Excadrill",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Steelix",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Golem",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Garchomp",
+            "level": "67",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
+      },
+      {
+        "name": "Veteran Martell",
+        "pokemon": [
+          {
+            "name": "Slaking",
+            "level": "68",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Haxorus",
+            "level": "68",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Sceptile",
+            "level": "68",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Aggron",
+            "level": "68",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          },
+          {
+            "name": "Dusclops",
+            "level": "68",
+            "moves": [],
+            "item": "-",
+            "ability": "-"
+          }
+        ],
+        "important": false
       }
     ]
   }

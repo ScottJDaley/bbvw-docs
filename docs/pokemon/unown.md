@@ -6,7 +6,7 @@
 <img src="img/types/psychic.png" width="60" />
 
 ## Evolution
-**Base Game:** First Stage  
+<img src="img/pokemon/201.png" width="40" /> **[Unown](pokemon/unown.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -36,12 +36,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](routes/relic_castle.md) | Sand | 100% |
+| [Relic Castle](routes/relic_castle.md) | <img src='img/items/grass-normal.png' width='20' /> Sand | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
 | 11 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Secret power](moves/secret-power.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 | <span class="change-new-label">NEW</span> |
 | 21 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Nature power](moves/nature-power.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span class="change-new-label">NEW</span> |
 | 31 | - | Ancientpower | - | - | - | - | - | <span class="change-new-label">NEW</span> |

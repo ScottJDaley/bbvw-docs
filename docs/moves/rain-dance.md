@@ -1,5 +1,7 @@
 # Rain dance
 
+**TM/HM:** TM18
+
 **Type:** <img src="img/types/water.png" width="60" />  
 **Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  

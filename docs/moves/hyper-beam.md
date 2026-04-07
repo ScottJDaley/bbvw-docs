@@ -1,5 +1,7 @@
 # Hyper beam
 
+**TM/HM:** TM15
+
 **Type:** <img src="img/types/normal.png" width="60" />  
 **Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 150  

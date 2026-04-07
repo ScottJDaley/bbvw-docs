@@ -38,3 +38,55 @@
 | <img src="img/pokemon/034.png" width="40" /> | [Nidoking](pokemon/nidoking.md) | 10% |
 | <img src="img/pokemon/628.png" width="40" /> | [Braviary](pokemon/braviary.md) | 10% |
 
+
+## Trainers
+### Preschooler Sarah
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/337.png" width="40" /> | Lunatone | 35 | - | - |  |
+
+### Preschooler Billy
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/338.png" width="40" /> | Solrock | 35 | - | - |  |
+
+### Baker Jenn
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/415.png" width="40" /> | Combee | 33 | - | - |  |
+| <img src="img/pokemon/446.png" width="40" /> | Munchlax | 33 | - | - |  |
+
+### Harlequin Paul
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/536.png" width="40" /> | Palpitoad | 32 | - | - |  |
+| <img src="img/pokemon/086.png" width="40" /> | Seel | 32 | - | - |  |
+
+### Musician Preston
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/040.png" width="40" /> | Wigglytuff | 33 | - | - |  |
+
+### Dancer Brian
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/281.png" width="40" /> | Kirlia | 33 | - | - |  |
+| <img src="img/pokemon/272.png" width="40" /> | Ludicolo | 33 | - | - |  |
+
+### Arist Horton
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/235.png" width="40" /> | Smeargle | 31 | - | - |  |
+| <img src="img/pokemon/235.png" width="40" /> | Smeargle | 31 | - | - |  |
+| <img src="img/pokemon/235.png" width="40" /> | Smeargle | 31 | - | - |  |
+
+### Backpacker Michael
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/299.png" width="40" /> | Nosepass | 33 | - | - |  |
+
+### Backpacker Lois
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/275.png" width="40" /> | Shiftry | 33 | - | - |  |
+

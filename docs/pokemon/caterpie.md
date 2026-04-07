@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" />
 
 ## Evolution
-**Base Game:** First Stage  
+<img src="img/pokemon/010.png" width="40" /> **[Caterpie](pokemon/caterpie.md)**  ➡️  <img src="img/pokemon/011.png" width="40" /> **[Metapod](pokemon/metapod.md)** (Lv. 7)  ➡️  <img src="img/pokemon/012.png" width="40" /> **[Butterfree](pokemon/butterfree.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](routes/route_2.md) | Grass, Normal | 10% |
+| [Route 2](routes/route_2.md) | <img src='img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
@@ -46,7 +46,7 @@
 | 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 | <span class="change-new-label">NEW</span> |
 | 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 35 |  |
 | 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [String shot](moves/string-shot.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 95 | 40 |  |
-| 6 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Struggle bug](moves/struggle-bug.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 20 | <span class="change-new-label">NEW</span> |
+| 6 | <img src="img/types/bug.png" width="40" alt="bug" /> | [TM76 Struggle bug](moves/struggle-bug.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 20 | <span class="change-new-label">NEW</span> |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

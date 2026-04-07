@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" />
 
 ## Evolution
-**Base Game:** First Stage  
+<img src="img/pokemon/412.png" width="40" /> **[Burmy](pokemon/burmy.md)**  ➡️   **[Wormadam](pokemon/wormadam.md)** (Lv. 20) | <img src="img/pokemon/414.png" width="40" /> **[Mothim](pokemon/mothim.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,15 +37,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](routes/pinwheel_forest.md) | Grass, Doubles | 9% |
+| [Pinwheel Forest](routes/pinwheel_forest.md) | <img src='img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Protect](moves/protect.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |  |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM17 Protect](moves/protect.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |  |
 | 10 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Tackle](moves/tackle.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 35 |  |
 | 15 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
-| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
+| 20 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
 
 ## Learnable Moves
 | Type | Move | Cat | Power | Acc | PP |

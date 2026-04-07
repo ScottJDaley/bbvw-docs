@@ -35,3 +35,41 @@
 | <img src="img/pokemon/625.png" width="40" /> | [Bisharp](pokemon/bisharp.md) | 10% |
 | <img src="img/pokemon/428.png" width="40" /> | [Lopunny](pokemon/lopunny.md) | 10% |
 
+
+## Trainers
+### Cycling Hector
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/397.png" width="40" /> | Staravia | 30 | - | - |  |
+| <img src="img/pokemon/077.png" width="40" /> | Ponyta | 30 | - | - |  |
+
+### Backpacker Peter
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/599.png" width="40" /> | Klink | 30 | - | - |  |
+| <img src="img/pokemon/394.png" width="40" /> | Prinplup | 30 | - | - |  |
+
+### Cycling Krissa
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/566.png" width="40" /> | Archen | 30 | - | - |  |
+| <img src="img/pokemon/388.png" width="40" /> | Grotle | 30 | - | - |  |
+
+### Policeman Daniel
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/229.png" width="40" /> | Houndoom | 30 | - | - |  |
+| <img src="img/pokemon/126.png" width="40" /> | Magmar | 30 | - | - |  |
+
+### Backpacker Lora
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/421.png" width="40" /> | Cherrim | 30 | - | - |  |
+| <img src="img/pokemon/391.png" width="40" /> | Monferno | 30 | - | - |  |
+
+### Backpacker Stephen
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/341.png" width="40" /> | Corphish | 30 | - | - |  |
+| <img src="img/pokemon/168.png" width="40" /> | Ariados | 30 | - | - |  |
+

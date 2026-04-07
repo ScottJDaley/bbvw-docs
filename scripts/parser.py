@@ -95,13 +95,10 @@ def parse_wild_pokemon():
         
         route_name = ""
         header_idx = -1
-        # Better route name extraction
         for i, line in enumerate(lines):
             line = line.strip()
-            # If it's a known non-route header, skip
-            if not line or line == "Wild Pokémon" or "Recall that" in line or "Serebii.net" in line or "649" in line or "Note that" in line:
+            if not line or line == "Wild Pokémon" or "Recall that" in line or "Serebii.net" in line or "649" in line or "Note that" in line or "'Special' refers" in line:
                 continue
-            # First non-empty line that isn't fluff is likely the route name
             route_name = line
             header_idx = i
             break
@@ -116,7 +113,6 @@ def parse_wild_pokemon():
             if enc_match:
                 method = enc_match.group(1).strip()
                 pkmn_list = enc_match.group(2).strip()
-                # Use a regex that allows for spaces and symbols in names
                 pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
                 for pkmn, rate in pkmns:
                     route_data['encounters'].append({
@@ -156,9 +152,6 @@ def parse_move_changes():
         for line in lines[1:]:
             line = line.strip()
             if not line: continue
-            # Handle both formats:
-            # + Level 66 - Outrage
-            # + Belly Drum - Level 50
             move_match = re.match(r'([+\-=])\s+Level\s+(\d+)\s+-\s+(.+)', line)
             if move_match:
                 marker = move_match.group(1)
@@ -178,68 +171,54 @@ def parse_move_changes():
 
 def parse_trainers():
     trainers = {} 
-    with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
-        content = f.read()
     
-    # Improved split to avoid missing entries
-    entries = re.split(r'\n\s*\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak|N’s Team|Bianca’s Team|Cheren’s Team)', content)
+    # 1. Parse Important Trainers
+    with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
+        imp_content = f.read()
+    
+    entries = re.split(r'\n\s*\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak|N’s Team|Bianca’s Team|Cheren’s Team)', imp_content)
     
     current_trainer = None
     current_location = None
+    important_data = {} # Keyed by name for matching later
 
     for entry in entries:
         lines = entry.strip().split('\n')
         if not lines: continue
-        
         header = lines[0].strip()
         
-        # Look for location info
         loc_match = re.search(r'Location:\s+(.+)', entry)
-        if loc_match:
-            current_location = loc_match.group(1).strip()
+        if loc_match: current_location = loc_match.group(1).strip()
         
-        # If it's a trainer header
         if any(x in header for x in ["Rival", "Gym Leader", "PKMN Trainer", "Elite Four", "Team Plasma", "Champion", "GAME Freak"]):
             current_trainer = header
-            # Sometimes location is listed right after the trainer name or in the name itself
             if "–" in header and not current_location:
                 parts = header.split("–")
-                if len(parts) > 1:
-                    # Check if the second part looks like a location (e.g., Route 3)
-                    if any(x in parts[1] for x in ["Route", "Town", "City", "Gym"]):
-                        current_location = parts[1].strip()
+                if len(parts) > 1 and any(x in parts[1] for x in ["Route", "Town", "City", "Gym"]):
+                    current_location = parts[1].strip()
 
-        # If it's a team table section
         if "Team" in header and current_location:
             trainer_name = current_trainer if current_trainer else header
-            trainer_data = {'name': trainer_name, 'pokemon': []}
+            trainer_data = {'name': trainer_name, 'pokemon': [], 'important': True}
             
             species = re.findall(r'Species\|([^|]+)', entry)
             levels = re.findall(r'Level\|([^|]+)', entry)
             items = re.findall(r'Item\|([^|]+)', entry)
             abilities = re.findall(r'Ability\|([^|]+)', entry)
-            moves1 = re.findall(r'Move #1\|([^|]+)', entry)
-            moves2 = re.findall(r'Move #2\|([^|]+)', entry)
-            moves3 = re.findall(r'Move #3\|([^|]+)', entry)
-            moves4 = re.findall(r'Move #4\|([^|]+)', entry)
+            m1 = re.findall(r'Move #1\|([^|]+)', entry)
+            m2 = re.findall(r'Move #2\|([^|]+)', entry)
+            m3 = re.findall(r'Move #3\|([^|]+)', entry)
+            m4 = re.findall(r'Move #4\|([^|]+)', entry)
 
             def split_list(match):
                 if not match: return []
-                # Handle multi-line species or joined by spaces
                 raw = match[0].strip()
                 items = [x.strip() for x in raw.split('\n') if x.strip()]
-                if len(items) == 1 and ' ' in raw: # Fallback for space-separated
-                    items = [x.strip() for x in raw.split('  ') if x.strip()]
+                if len(items) == 1 and ' ' in raw: items = [x.strip() for x in raw.split('  ') if x.strip()]
                 return items
 
-            s_list = split_list(species)
-            l_list = split_list(levels)
-            i_list = split_list(items)
-            a_list = split_list(abilities)
-            m1_list = split_list(moves1)
-            m2_list = split_list(moves2)
-            m3_list = split_list(moves3)
-            m4_list = split_list(moves4)
+            s_list, l_list, i_list, a_list = split_list(species), split_list(levels), split_list(items), split_list(abilities)
+            m1_list, m2_list, m3_list, m4_list = split_list(m1), split_list(m2), split_list(m3), split_list(m4)
 
             for j in range(len(s_list)):
                 p_data = {
@@ -257,7 +236,56 @@ def parse_trainers():
             
             if current_location not in trainers: trainers[current_location] = []
             trainers[current_location].append(trainer_data)
-        
+            # Save for name-based lookup from other doc
+            short_name = trainer_name.split('–')[0].split('-')[0].replace('Rival', '').replace('PKMN Trainer', '').strip()
+            important_data[short_name] = trainer_data
+
+    # 2. Parse General Trainers
+    with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
+        gen_content = f.read()
+    
+    sections = gen_content.split('\n---\n')
+    for i in range(0, len(sections)-1):
+        # Format is likely: Location \n --- \n Trainers...
+        loc_lines = sections[i].strip().split('\n')
+        location = loc_lines[-1].strip()
+        trainer_lines = sections[i+1].strip().split('\n')
+        # Stop before next location
+        if i+1 < len(sections):
+             # The next location is actually the last line of the current trainer list
+             location = loc_lines[-1].strip()
+             trainer_list = []
+             for line in trainer_lines:
+                 if not line.strip() or line.strip() == location: continue
+                 # Check if this line is actually the NEXT location (if it only has one line)
+                 trainer_list.append(line.strip())
+             
+             for t_line in trainer_list:
+                 if t_line.startswith('*'):
+                     # This refers to an important trainer
+                     name = t_line.replace('*', '').strip()
+                     # If we already added it from Important Roster, skip or update?
+                     continue
+                 
+                 # Format: Class Name: Pkmn1 L10, Pkmn2 L12
+                 match = re.match(r'([^:]+):\s+(.+)', t_line)
+                 if match:
+                     t_name = match.group(1).strip()
+                     pkmn_raw = match.group(2).strip()
+                     pkmn_entries = pkmn_raw.split(',')
+                     trainer_data = {'name': t_name, 'pokemon': [], 'important': False}
+                     for pk_entry in pkmn_entries:
+                         # Pkmn1 L10
+                         pk_match = re.match(r'(.+)\s+L(\d+)', pk_entry.strip())
+                         if pk_match:
+                             trainer_data['pokemon'].append({
+                                 'name': pk_match.group(1).strip(),
+                                 'level': pk_match.group(2).strip(),
+                                 'moves': [], 'item': '-', 'ability': '-'
+                             })
+                     if location not in trainers: trainers[location] = []
+                     trainers[location].append(trainer_data)
+
     return trainers
 
 if __name__ == "__main__":

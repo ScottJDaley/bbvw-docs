@@ -37,7 +37,6 @@ def fetch_all_data():
         if data:
             name = data['name']
             
-            # Fetch species for evolution chain
             species_data = get_json(data['species']['url'], f"species_{i}.json")
             evo_chain_url = species_data['evolution_chain']['url']
             evo_chain_id = evo_chain_url.split('/')[-2]
@@ -52,7 +51,6 @@ def fetch_all_data():
                 'moves': [],
                 'evolution_chain': evo_data
             }
-            # Extract moves (only for Gen 5)
             for m in data['moves']:
                 for v in m['version_group_details']:
                     if v['version_group']['name'] in ['black-white', 'black-2-white-2']:
@@ -82,6 +80,15 @@ def fetch_all_data():
                     desc = ent['short_effect']
                     break
             
+            # Get machine info for Gen 5
+            tm_num = ""
+            for machine in data['machines']:
+                # version_group 11 is Black/White
+                if 'black-white' in machine['version_group']['name']:
+                    m_res = requests.get(machine['machine']['url']).json()
+                    tm_num = m_res['item']['name'].upper() # e.g. TM01
+                    break
+
             move_data[move_name] = {
                 'name': data['name'],
                 'type': data['type']['name'],
@@ -89,9 +96,10 @@ def fetch_all_data():
                 'accuracy': data['accuracy'],
                 'pp': data['pp'],
                 'damage_class': data['damage_class']['name'],
-                'description': desc
+                'description': desc,
+                'tm_num': tm_num
             }
-        if (idx + 1) % 100 == 0:
+        if (idx + 1) % 50 == 0:
             print(f"Processed {idx+1} moves...")
 
     # 3. Fetch Abilities
@@ -117,7 +125,6 @@ def fetch_all_data():
         if (idx + 1) % 50 == 0:
             print(f"Processed {idx+1} abilities...")
 
-    # Save consolidated base data
     with open('scripts/data/base_data.json', 'w') as f:
         json.dump({
             'pokemon': pokemon_base,

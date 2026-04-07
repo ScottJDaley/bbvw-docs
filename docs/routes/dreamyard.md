@@ -37,3 +37,32 @@
 | <img src="img/pokemon/337.png" width="40" /> | [Lunatone](pokemon/lunatone.md) | 5% |
 | <img src="img/pokemon/338.png" width="40" /> | [Solrock](pokemon/solrock.md) | 5% |
 
+
+## Trainers
+### Lass Eri
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/161.png" width="40" /> | Sentret | 10 | - | - |  |
+| <img src="img/pokemon/300.png" width="40" /> | Skitty | 10 | - | - |  |
+| <img src="img/pokemon/396.png" width="40" /> | Starly | 10 | - | - |  |
+| <img src="img/pokemon/298.png" width="40" /> | Azurill | 10 | - | - |  |
+
+### Youngster Joey
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/019.png" width="40" /> | Rattata | 11 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/568.png" width="40" /> | Trubbish | 14 | - | - |  |
+| <img src="img/pokemon/023.png" width="40" /> | Ekans | 14 | - | - |  |
+| <img src="img/pokemon/096.png" width="40" /> | Drowzee | 15 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/109.png" width="40" /> | Koffing | 14 | - | - |  |
+| <img src="img/pokemon/088.png" width="40" /> | Grimer | 14 | - | - |  |
+| <img src="img/pokemon/331.png" width="40" /> | Cacnea | 15 | - | - |  |
+

@@ -1,5 +1,7 @@
 # Quash
 
+**TM/HM:** TM60
+
 **Type:** <img src="img/types/dark.png" width="60" />  
 **Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  

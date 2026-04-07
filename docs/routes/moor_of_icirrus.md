@@ -37,3 +37,33 @@
 | <img src="img/pokemon/618.png" width="40" /> | [Stunfisk](pokemon/stunfisk.md) | 30% |
 | <img src="img/pokemon/340.png" width="40" /> | [Whiscash](pokemon/whiscash.md) | 10% |
 
+
+## Trainers
+### PKMN Ranger Harry
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/537.png" width="40" /> | Seismitoad | 58 | - | - |  |
+| <img src="img/pokemon/611.png" width="40" /> | Fraxure | 58 | - | - |  |
+| <img src="img/pokemon/197.png" width="40" /> | Umbreon | 58 | - | - |  |
+
+### PKMN Ranger Chloris
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/549.png" width="40" /> | Lilligant | 58 | - | - |  |
+| <img src="img/pokemon/260.png" width="40" /> | Swampert | 58 | - | - |  |
+| <img src="img/pokemon/474.png" width="40" /> | Porygon-Z | 58 | - | - |  |
+
+### Fisherman Damon
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/618.png" width="40" /> | Stunfisk | 57 | - | - |  |
+| <img src="img/pokemon/119.png" width="40" /> | Seaking | 57 | - | - |  |
+| <img src="img/pokemon/230.png" width="40" /> | Kingdra | 57 | - | - |  |
+
+### Parasol Lady Miriah
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/609.png" width="40" /> | Chandelure | 58 | - | - |  |
+| <img src="img/pokemon/134.png" width="40" /> | Vaporeon | 58 | - | - |  |
+| <img src="img/pokemon/623.png" width="40" /> | Golurk | 58 | - | - |  |
+

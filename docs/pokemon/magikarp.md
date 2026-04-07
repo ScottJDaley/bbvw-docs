@@ -6,7 +6,7 @@
 <img src="img/types/water.png" width="60" />
 
 ## Evolution
-**Base Game:** First Stage  
+<img src="img/pokemon/129.png" width="40" /> **[Magikarp](pokemon/magikarp.md)**  ➡️  <img src="img/pokemon/130.png" width="40" /> **[Gyarados](pokemon/gyarados.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| ['Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.](routes/special_refers_to_the_rare_spots._doubles_refers_to_tall_grass_where_double_battles_can_occur..md) | Fish, Normal | 30% |
-| [Lostlorn Forest](routes/lostlorn_forest.md) | Surf, Normal | 100% |
-| [Lostlorn Forest](routes/lostlorn_forest.md) | Fish, Normal | 30% |
+| [Unless otherwise stated, fishing encounters have not been edited.](routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Lostlorn Forest](routes/lostlorn_forest.md) | <img src='img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
+| [Lostlorn Forest](routes/lostlorn_forest.md) | <img src='img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

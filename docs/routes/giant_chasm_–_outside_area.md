@@ -54,7 +54,7 @@
 | <img src="img/pokemon/473.png" width="40" /> | [Mamoswine](pokemon/mamoswine.md) | 5% |
 | <img src="img/pokemon/376.png" width="40" /> | [Metagross](pokemon/metagross.md) | 5% |
 
-## <img src='img/items/grass-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
+## <img src='img/items/cave-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="img/pokemon/527.png" width="40" /> | [Woobat](pokemon/woobat.md) | 20% |

@@ -83,3 +83,74 @@
 | <img src="img/pokemon/344.png" width="40" /> | [Claydol](pokemon/claydol.md) | 50% |
 | <img src="img/pokemon/623.png" width="40" /> | [Golurk](pokemon/golurk.md) | 50% |
 
+
+## Trainers
+### Ace Trainer Jesse
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/095.png" width="40" /> | Onix | 53 | - | - |  |
+| <img src="img/pokemon/107.png" width="40" /> | Hitmonchan | 55 | - | - |  |
+| <img src="img/pokemon/106.png" width="40" /> | Hitmonlee | 55 | - | - |  |
+| <img src="img/pokemon/095.png" width="40" /> | Onix | 56 | - | - |  |
+| <img src="img/pokemon/068.png" width="40" /> | Machamp | 58 | - | - |  |
+
+### Ace Trainer Jamie
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/094.png" width="40" /> | Gengar | 58 | - | - |  |
+| <img src="img/pokemon/042.png" width="40" /> | Golbat | 56 | - | - |  |
+| <img src="img/pokemon/093.png" width="40" /> | Haunter | 55 | - | - |  |
+| <img src="img/pokemon/024.png" width="40" /> | Arbok | 58 | - | - |  |
+| <img src="img/pokemon/094.png" width="40" /> | Gengar | 60 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/020.png" width="40" /> | Raticate | 56 | - | - |  |
+| <img src="img/pokemon/505.png" width="40" /> | Watchog | 56 | - | - |  |
+| <img src="img/pokemon/435.png" width="40" /> | Skuntank | 56 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/262.png" width="40" /> | Mightyena | 56 | - | - |  |
+| <img src="img/pokemon/569.png" width="40" /> | Garbodor | 56 | - | - |  |
+| <img src="img/pokemon/432.png" width="40" /> | Purugly | 56 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/089.png" width="40" /> | Muk | 58 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/560.png" width="40" /> | Scrafty | 57 | - | - |  |
+| <img src="img/pokemon/553.png" width="40" /> | Krookodile | 57 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/510.png" width="40" /> | Liepard | 57 | - | - |  |
+| <img src="img/pokemon/275.png" width="40" /> | Shiftry | 57 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/452.png" width="40" /> | Drapion | 60 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/604.png" width="40" /> | Eelektross | 60 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/477.png" width="40" /> | Dusknoir | 60 | - | - |  |
+
+### Plasma Grunt
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/625.png" width="40" /> | Bisharp | 60 | - | - |  |
+

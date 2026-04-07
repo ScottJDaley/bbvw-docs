@@ -67,3 +67,38 @@
 | <img src="img/pokemon/143.png" width="40" /> | [Snorlax](pokemon/snorlax.md) | 5% |
 | <img src="img/pokemon/463.png" width="40" /> | [Lickilicky](pokemon/lickilicky.md) | 5% |
 
+
+## Trainers
+### Fisherman Lydon
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+|  | Basculin | 52 | - | - |  |
+| <img src="img/pokemon/211.png" width="40" /> | Qwilfish | 52 | - | - |  |
+| <img src="img/pokemon/130.png" width="40" /> | Gyarados | 52 | - | - |  |
+
+### Swimmer Joyce
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/457.png" width="40" /> | Lumineon | 52 | - | - |  |
+| <img src="img/pokemon/121.png" width="40" /> | Starmie | 52 | - | - |  |
+| <img src="img/pokemon/171.png" width="40" /> | Lanturn | 52 | - | - |  |
+
+### Swimmer Wright
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/073.png" width="40" /> | Tentacruel | 53 | - | - |  |
+| <img src="img/pokemon/160.png" width="40" /> | Feraligatr | 53 | - | - |  |
+
+### Swimmer Berke
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/139.png" width="40" /> | Omastar | 53 | - | - |  |
+| <img src="img/pokemon/141.png" width="40" /> | Kabutops | 53 | - | - |  |
+
+### Swimmer Caroline
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+|  | Jellicent | 52 | - | - |  |
+| <img src="img/pokemon/087.png" width="40" /> | Dewgong | 52 | - | - |  |
+| <img src="img/pokemon/131.png" width="40" /> | Lapras | 52 | - | - |  |
+

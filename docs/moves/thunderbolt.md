@@ -1,5 +1,7 @@
 # Thunderbolt
 
+**TM/HM:** TM24
+
 **Type:** <img src="img/types/electric.png" width="60" />  
 **Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 90  

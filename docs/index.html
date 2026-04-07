@@ -55,80 +55,64 @@
     .type-fairy { background: #EE99AC; }
 
     /* Stat Table */
-    .stat-table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    .stat-row {
-      height: 30px;
-    }
-    .stat-bar-bg {
-      background: #eee;
-      width: 300px;
-      height: 15px;
-      border-radius: 10px;
-      overflow: hidden;
-      border: 1px solid #ddd;
-    }
-    .stat-bar-fill {
-      height: 100%;
-      background: linear-gradient(to right, #ff7f0e, #4caf50);
-    }
+    .stat-table { width: 100%; border-collapse: collapse; }
+    .stat-row { height: 30px; }
+    .stat-bar-bg { background: #eee; width: 300px; height: 15px; border-radius: 10px; overflow: hidden; border: 1px solid #ddd; }
+    .stat-bar-fill { height: 100%; background: linear-gradient(to right, #ff7f0e, #4caf50); }
     
     .change-new { color: #2e7d32; font-weight: bold; }
     .change-old { color: #c62828; text-decoration: line-through; font-size: 0.9em; margin-left: 5px; }
     .change-delta { font-size: 0.8em; color: #666; margin-left: 5px; }
-    .change-new-label { 
-      background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; 
-    }
-    .change-old-label { 
-      background: #c62828; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; 
-    }
-    .change-move-shifted {
-      background: #1976d2; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold;
-    }
+    .change-new-label { background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; }
+    .change-old-label { background: #c62828; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; }
+    .change-move-shifted { background: #1976d2; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em; font-weight: bold; }
     .change-old-lv { color: #c62828; text-decoration: line-through; font-size: 0.8em; }
 
-    /* Dark Mode overrides */
-    body.dark {
-      --docsifytabs-tab-background: #222;
-      --docsifytabs-border-color: #444;
+    /* Dark Mode Toggle */
+    #dark-mode-toggle {
+      position: fixed;
+      top: 10px;
+      right: 300px;
+      z-index: 1000;
+      padding: 5px 10px;
+      cursor: pointer;
+      border-radius: 5px;
+      background: #eee;
+      border: 1px solid #ccc;
     }
+    body.dark #dark-mode-toggle { background: #333; color: #fff; border-color: #555; }
+
+    /* Search Box Relocation */
+    .search {
+      position: fixed !important;
+      top: 10px !important;
+      right: 20px !important;
+      left: auto !important;
+      width: 250px !important;
+      z-index: 999 !important;
+      margin: 0 !important;
+    }
+    .search input { border-radius: 5px !important; }
+    
+    /* Dark Mode Fixes */
+    body.dark { background-color: #1a1a1a; color: #ddd; }
+    body.dark .sidebar { background-color: #222; border-color: #333; }
+    body.dark .sidebar li a { color: #aaa; }
     body.dark .stat-bar-bg { background: #444; border-color: #555; }
     body.dark .change-new { color: #81c784; }
     body.dark .change-old { color: #e57373; }
-    
-    /* Fix search box in light mode */
-    .search input {
-      background-color: #fff !important;
-      color: #333 !important;
-    }
-    body.dark .search input {
-      background-color: #222 !important;
-      color: #ccc !important;
-    }
-    
-    /* Dark mode toggle positioning - Move to Top Right */
-    #docsify-darklight-theme {
-      right: 20px !important;
-      top: 20px !important;
-      bottom: auto !important;
-      width: 40px !important;
-      height: 40px !important;
-      z-index: 100;
-    }
+    body.dark table { border-color: #444; }
+    body.dark tr { border-top: 1px solid #444; }
+    body.dark th, body.dark td { border: 1px solid #444; }
     
     /* Improve category icon display */
-    img[alt="physical"], img[alt="special"], img[alt="status"] {
-      object-fit: contain;
-      height: 20px;
-      vertical-align: middle;
-    }
+    img[alt="physical"], img[alt="special"], img[alt="status"] { object-fit: contain; height: 20px; vertical-align: middle; }
   </style>
 
 </head>
 
 <body>
+  <div id="dark-mode-toggle">🌙</div>
   <div id="app"></div>
 
   <script>
@@ -140,57 +124,24 @@
       search: {
         maxAge: 86400000,
         paths: 'auto',
-        placeholder: 'Search Pokemon or Routes...',
+        placeholder: 'Search...',
         noData: 'No results!',
         depth: 6
-      },
-      darklightTheme: {
-        siteFont: 'PT Sans',
-        defaultTheme: 'light',
-        codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
-        bodyFontSize: '17px',
-        dark: {
-          accent: '#42b983',
-          toogleBackground: '#ffffff',
-          background: '#091a28',
-          textColor: '#b0b1b1',
-          codeTextColor: '#ffffff',
-          codeBackgroundColor: '#0e2233',
-          borderColor: '#0d2538',
-          blockQuoteColor: '#858585',
-          highlightColor: '#d22778',
-          sidebarSubColor: '#b0b1b1',
-          codeTypeColor: '#ffffff',
-          coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
-          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
-        },
-        light: {
-          accent: '#42b983',
-          toogleBackground: '#091a28',
-          background: '#ffffff',
-          textColor: '#34495e',
-          codeTextColor: '#525252',
-          codeBackgroundColor: '#f8f8f8',
-          borderColor: 'rgba(0, 0, 0, 0.07)',
-          blockQuoteColor: '#858585',
-          highlightColor: '#d22778',
-          sidebarSubColor: '#b0b1b1',
-          codeTypeColor: '#091a28',
-          coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
-          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
-        }
       }
+    };
+
+    const toggle = document.getElementById('dark-mode-toggle');
+    toggle.onclick = () => {
+      document.body.classList.toggle('dark');
+      toggle.innerText = document.body.classList.contains('dark') ? '☀️' : '🌙';
     };
   </script>
 
-  <!-- Required -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-
-  <!-- Plugins -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
-
+</body>
+</html>
 </body>
 </html>

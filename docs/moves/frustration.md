@@ -1,5 +1,7 @@
 # Frustration
 
+**TM/HM:** TM21
+
 **Type:** <img src="img/types/normal.png" width="60" />  
 **Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** -  

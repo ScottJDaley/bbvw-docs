@@ -1,5 +1,7 @@
 # Struggle bug
 
+**TM/HM:** TM76
+
 **Type:** <img src="img/types/bug.png" width="60" />  
 **Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 50  

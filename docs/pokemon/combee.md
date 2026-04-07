@@ -6,7 +6,7 @@
 <img src="img/types/bug.png" width="60" /> <img src="img/types/flying.png" width="60" />
 
 ## Evolution
-**Base Game:** First Stage  
+<img src="img/pokemon/415.png" width="40" /> **[Combee](pokemon/combee.md)**  ➡️  <img src="img/pokemon/416.png" width="40" /> **[Vespiquen](pokemon/vespiquen.md)** (Lv. 21)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](routes/route_16.md) | Grass, Normal | 10% |
-| [Route 12](routes/route_12.md) | Grass, Normal | 20% |
+| [Route 16](routes/route_16.md) | <img src='img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 12](routes/route_12.md) | <img src='img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -69,3 +69,86 @@
 | <img src="img/pokemon/211.png" width="40" /> | [Qwilfish](pokemon/qwilfish.md) | 30% |
 | <img src="img/pokemon/223.png" width="40" /> | [Remoraid](pokemon/remoraid.md) | 10% |
 
+
+## Trainers
+### Kumi & Amy D
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+|  | NidoranM | 14 | - | - |  |
+|  | NidoranF | 14 | - | - |  |
+
+### Nursery Aide Autumn
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/175.png" width="40" /> | Togepi | 14 | - | - |  |
+| <img src="img/pokemon/177.png" width="40" /> | Natu | 14 | - | - |  |
+| <img src="img/pokemon/280.png" width="40" /> | Ralts | 14 | - | - |  |
+| <img src="img/pokemon/517.png" width="40" /> | Munna | 14 | - | - |  |
+
+### Preschooler Doyle
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/007.png" width="40" /> | Squirtle | 14 | - | - |  |
+| <img src="img/pokemon/501.png" width="40" /> | Oshawott | 14 | - | - |  |
+
+### Preschooler Wendy
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/158.png" width="40" /> | Totodile | 14 | - | - |  |
+| <img src="img/pokemon/393.png" width="40" /> | Piplup | 14 | - | - |  |
+
+### Preschooler Tully
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/258.png" width="40" /> | Mudkip | 14 | - | - |  |
+| <img src="img/pokemon/054.png" width="40" /> | Psyduck | 14 | - | - |  |
+| <img src="img/pokemon/422.png" width="40" /> | Shellos | 14 | - | - |  |
+
+### PKMN Breeder Adelaide
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/174.png" width="40" /> | Igglybuff | 12 | - | - |  |
+| <img src="img/pokemon/173.png" width="40" /> | Cleffa | 12 | - | - |  |
+| <img src="img/pokemon/172.png" width="40" /> | Pichu | 12 | - | - |  |
+| <img src="img/pokemon/240.png" width="40" /> | Magby | 12 | - | - |  |
+| <img src="img/pokemon/239.png" width="40" /> | Elekid | 12 | - | - |  |
+| <img src="img/pokemon/238.png" width="40" /> | Smoochum | 12 | - | - |  |
+
+### School Kid Al
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/522.png" width="40" /> | Blitzle | 15 | - | - |  |
+| <img src="img/pokemon/179.png" width="40" /> | Mareep | 15 | - | - |  |
+| <img src="img/pokemon/180.png" width="40" /> | Flaaffy | 15 | - | - |  |
+
+### School Kid Marsha
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/231.png" width="40" /> | Phanpy | 15 | - | - |  |
+| <img src="img/pokemon/216.png" width="40" /> | Teddiursa | 15 | - | - |  |
+| <img src="img/pokemon/527.png" width="40" /> | Woobat | 15 | - | - |  |
+| <img src="img/pokemon/293.png" width="40" /> | Whismur | 15 | - | - |  |
+
+### School Kid Gina
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/194.png" width="40" /> | Wooper | 16 | - | - |  |
+| <img src="img/pokemon/276.png" width="40" /> | Taillow | 16 | - | - |  |
+| <img src="img/pokemon/270.png" width="40" /> | Lotad | 16 | - | - |  |
+| <img src="img/pokemon/273.png" width="40" /> | Seedot | 16 | - | - |  |
+
+### School Kid Edgar
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/403.png" width="40" /> | Shinx | 16 | - | - |  |
+| <img src="img/pokemon/404.png" width="40" /> | Luxio | 16 | - | - |  |
+| <img src="img/pokemon/274.png" width="40" /> | Nuzleaf | 16 | - | - |  |
+| <img src="img/pokemon/271.png" width="40" /> | Lombre | 16 | - | - |  |
+
+### PKMN Breeder Galen
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/497.png" width="40" /> | Serperior | 50 | - | - |  |
+| <img src="img/pokemon/503.png" width="40" /> | Samurott | 50 | - | - |  |
+| <img src="img/pokemon/500.png" width="40" /> | Emboar | 50 | - | - |  |
+

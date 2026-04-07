@@ -655,7 +655,7 @@
     - [Meloetta-aria](pokemon/meloetta-aria.md)
     - [Genesect](pokemon/genesect.md)
 - **Routes**
-  - ['Special' refers to the rare spots. Doubles refers to tall grass where double battles can occur.](routes/special_refers_to_the_rare_spots._doubles_refers_to_tall_grass_where_double_battles_can_occur..md)
+  - [Unless otherwise stated, fishing encounters have not been edited.](routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md)
   - [Route 2](routes/route_2.md)
   - [Striaton City](routes/striaton_city.md)
   - [Dreamyard](routes/dreamyard.md)

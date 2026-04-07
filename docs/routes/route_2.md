@@ -32,3 +32,26 @@
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/pokemon/052.png" width="40" /> | Meowth | 9 | - | - |  |
 
+### Youngster Jimmy
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/163.png" width="40" /> | Hoothoot | 7 | - | - |  |
+| <img src="img/pokemon/265.png" width="40" /> | Wurmple | 7 | - | - |  |
+| <img src="img/pokemon/504.png" width="40" /> | Patrat | 7 | - | - |  |
+
+### Lass Mail
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/263.png" width="40" /> | Zigzagoon | 7 | - | - |  |
+| <img src="img/pokemon/052.png" width="40" /> | Meowth | 7 | - | - |  |
+| <img src="img/pokemon/016.png" width="40" /> | Pidgey | 7 | - | - |  |
+| <img src="img/pokemon/010.png" width="40" /> | Caterpie | 7 | - | - |  |
+
+### Youngster Roland
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/506.png" width="40" /> | Lillipup | 7 | - | - |  |
+| <img src="img/pokemon/399.png" width="40" /> | Bidoof | 7 | - | - |  |
+| <img src="img/pokemon/401.png" width="40" /> | Kricketot | 7 | - | - |  |
+| <img src="img/pokemon/013.png" width="40" /> | Weedle | 7 | - | - |  |
+

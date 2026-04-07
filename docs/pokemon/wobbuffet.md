@@ -6,7 +6,7 @@
 <img src="img/types/psychic.png" width="60" />
 
 ## Evolution
-**Base Game:** Level 15  
+<img src="img/pokemon/360.png" width="40" /> **[Wynaut](pokemon/wynaut.md)**  ➡️  <img src="img/pokemon/202.png" width="40" /> **[Wobbuffet](pokemon/wobbuffet.md)** (Lv. 15)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,15 +36,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](routes/celestial_tower.md) | Tower, Normal | 10% |
-| [Challenger’s Cave – All Floors](routes/challengers_cave_–_all_floors.md) | Cave, Normal | 10% |
+| [Celestial Tower](routes/celestial_tower.md) | <img src='img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Challenger’s Cave – All Floors](routes/challengers_cave_–_all_floors.md) | <img src='img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <img src="img/types/fighting.png" width="40" alt="fighting" /> | [Counter](moves/counter.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |  |
 | 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Destiny bond](moves/destiny-bond.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |  |
-| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 25 |  |
+| 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM20 Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 25 |  |
 | 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Mirror coat](moves/mirror-coat.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | - | 100 | 20 |  |
 
 ## Learnable Moves

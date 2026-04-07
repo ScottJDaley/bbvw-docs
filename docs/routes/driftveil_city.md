@@ -35,3 +35,55 @@
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/pokemon/619.png" width="40" /> | Mienfoo | 41 | - | - |  |
 
+### Motorcyclist Charles
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/062.png" width="40" /> | Poliwrath | 35 | - | - |  |
+| <img src="img/pokemon/205.png" width="40" /> | Forretress | 35 | - | - |  |
+| <img src="img/pokemon/324.png" width="40" /> | Torkoal | 35 | - | - |  |
+
+### Youngster Kyle
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/321.png" width="40" /> | Wailord | 85 | - | - |  |
+
+### Worker Felix
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/551.png" width="40" /> | Sandile | 38 | - | - |  |
+| <img src="img/pokemon/443.png" width="40" /> | Gible | 38 | - | - |  |
+| <img src="img/pokemon/221.png" width="40" /> | Piloswine | 38 | - | - |  |
+| <img src="img/pokemon/111.png" width="40" /> | Rhyhorn | 38 | - | - |  |
+
+### Worker Don
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/246.png" width="40" /> | Larvitar | 38 | - | - |  |
+| <img src="img/pokemon/095.png" width="40" /> | Onix | 38 | - | - |  |
+| <img src="img/pokemon/444.png" width="40" /> | Gabite | 38 | - | - |  |
+| <img src="img/pokemon/028.png" width="40" /> | Sandslash | 38 | - | - |  |
+
+### Worker Sterling
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/207.png" width="40" /> | Gligar | 37 | - | - |  |
+| <img src="img/pokemon/536.png" width="40" /> | Palpitoad | 37 | - | - |  |
+| <img src="img/pokemon/034.png" width="40" /> | Nidoking | 37 | - | - |  |
+| <img src="img/pokemon/329.png" width="40" /> | Vibrava | 37 | - | - |  |
+
+### Clerk Isaac
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/323.png" width="40" /> | Camerupt | 39 | - | - |  |
+| <img src="img/pokemon/340.png" width="40" /> | Whiscash | 39 | - | - |  |
+| <img src="img/pokemon/389.png" width="40" /> | Torterra | 39 | - | - |  |
+| <img src="img/pokemon/344.png" width="40" /> | Claydol | 39 | - | - |  |
+
+### Clerk Katie
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/pokemon/247.png" width="40" /> | Pupitar | 38 | - | - |  |
+| <img src="img/pokemon/031.png" width="40" /> | Nidoqueen | 38 | - | - |  |
+| <img src="img/pokemon/232.png" width="40" /> | Donphan | 38 | - | - |  |
+| <img src="img/pokemon/051.png" width="40" /> | Dugtrio | 38 | - | - |  |
+

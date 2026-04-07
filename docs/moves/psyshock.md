@@ -1,5 +1,7 @@
 # Psyshock
 
+**TM/HM:** TM03
+
 **Type:** <img src="img/types/psychic.png" width="60" />  
 **Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 80  

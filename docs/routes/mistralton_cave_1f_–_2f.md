@@ -1,6 +1,6 @@
 # Mistralton Cave 1F – 2F
 
-## <img src='img/items/grass-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
+## <img src='img/items/cave-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="img/pokemon/095.png" width="40" /> | [Onix](pokemon/onix.md) | 20% |
