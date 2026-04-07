@@ -7,11 +7,76 @@
     content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
 
   <!-- Replace with your own title and description. -->
-  <title>Awesome Docsify Site</title>
-  <meta name="description" content="An awesome docsify site for publishing some content on the web.">
+  <title>Pokemon Blaze Black & Volt White Documentation</title>
+  <meta name="description" content="Comprehensive guide for the BBVW romhack.">
 
-  <!-- Default Theme (see https://docsify.js.org/#/themes) -->
+  <!-- Default Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <style>
+    :root {
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-background: #f8f8f8;
+    }
+    
+    .markdown-section {
+      max-width: 900px;
+    }
+    
+    /* Type Badges */
+    .type-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      color: white;
+      font-weight: bold;
+      text-transform: capitalize;
+      margin-right: 5px;
+      font-size: 0.9em;
+    }
+    .type-normal { background: #A8A878; }
+    .type-fire { background: #F08030; }
+    .type-water { background: #6890F0; }
+    .type-grass { background: #78C850; }
+    .type-electric { background: #F8D030; }
+    .type-ice { background: #98D8D8; }
+    .type-fighting { background: #C03028; }
+    .type-poison { background: #A040A0; }
+    .type-ground { background: #E0C068; }
+    .type-flying { background: #A890F0; }
+    .type-psychic { background: #F85888; }
+    .type-bug { background: #A8B820; }
+    .type-rock { background: #B8A038; }
+    .type-ghost { background: #705898; }
+    .type-dragon { background: #7038F8; }
+    .type-dark { background: #705848; }
+    .type-steel { background: #B8B8D0; }
+    .type-fairy { background: #EE99AC; }
+
+    /* Stat Table */
+    .stat-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .stat-row {
+      height: 30px;
+    }
+    .stat-bar-bg {
+      background: #eee;
+      width: 100%;
+      height: 15px;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .stat-bar-fill {
+      height: 100%;
+      background: #4caf50;
+    }
+    
+    .change-new { color: #2e7d32; font-weight: bold; }
+    .change-old { color: #c62828; text-decoration: line-through; font-size: 0.9em; }
+    .change-delta { font-size: 0.8em; color: #666; margin-left: 5px; }
+  </style>
 
 </head>
 
@@ -19,23 +84,17 @@
   <div id="app"></div>
 
   <script>
-    // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
-      name: 'Simple Docsify Template',
-
-      // Sidebar Configuration
-      auto2top: true,
+      name: 'BBVW Documentation',
+      repo: '',
       loadSidebar: true,
-      maxLevel: 0,
-      // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-      subMaxLevel: 3,
-
-      // Search Plugin Configuration
+      subMaxLevel: 2,
       search: {
-        placeholder: 'Type to search',
-        noData: 'No matches found.',
-        // Headline depth, 1 - 6
-        depth: 2,
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search Pokemon or Routes...',
+        noData: 'No results!',
+        depth: 6
       }
     };
   </script>

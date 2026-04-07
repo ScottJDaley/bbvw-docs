@@ -1,0 +1,61 @@
+# Knock-off
+
+**Type:** Dark  
+**Category:** Physical  
+**Power:** 65  
+**Accuracy:** 100  
+**PP:** 20  
+
+## Description
+Target drops its held item.
+
+## Learned by
+- [Abra](pokemon/abra.md)
+- [Alakazam](pokemon/alakazam.md)
+- [Beedrill](pokemon/beedrill.md)
+- [Bellsprout](pokemon/bellsprout.md)
+- [Bulbasaur](pokemon/bulbasaur.md)
+- [Clefable](pokemon/clefable.md)
+- [Clefairy](pokemon/clefairy.md)
+- [Cubone](pokemon/cubone.md)
+- [Dodrio](pokemon/dodrio.md)
+- [Doduo](pokemon/doduo.md)
+- [Farfetchd](pokemon/farfetchd.md)
+- [Gastly](pokemon/gastly.md)
+- [Gengar](pokemon/gengar.md)
+- [Goldeen](pokemon/goldeen.md)
+- [Haunter](pokemon/haunter.md)
+- [Hitmonlee](pokemon/hitmonlee.md)
+- [Ivysaur](pokemon/ivysaur.md)
+- [Jigglypuff](pokemon/jigglypuff.md)
+- [Kabuto](pokemon/kabuto.md)
+- [Kabutops](pokemon/kabutops.md)
+- [Kadabra](pokemon/kadabra.md)
+- [Kingler](pokemon/kingler.md)
+- [Krabby](pokemon/krabby.md)
+- [Lickitung](pokemon/lickitung.md)
+- [Machamp](pokemon/machamp.md)
+- [Machoke](pokemon/machoke.md)
+- [Machop](pokemon/machop.md)
+- [Marowak](pokemon/marowak.md)
+- [Meowth](pokemon/meowth.md)
+- [Mew](pokemon/mew.md)
+- [Omanyte](pokemon/omanyte.md)
+- [Omastar](pokemon/omastar.md)
+- [Paras](pokemon/paras.md)
+- [Parasect](pokemon/parasect.md)
+- [Persian](pokemon/persian.md)
+- [Pikachu](pokemon/pikachu.md)
+- [Pinsir](pokemon/pinsir.md)
+- [Raichu](pokemon/raichu.md)
+- [Sandshrew](pokemon/sandshrew.md)
+- [Sandslash](pokemon/sandslash.md)
+- [Scyther](pokemon/scyther.md)
+- [Seaking](pokemon/seaking.md)
+- [Tangela](pokemon/tangela.md)
+- [Tentacool](pokemon/tentacool.md)
+- [Tentacruel](pokemon/tentacruel.md)
+- [Venusaur](pokemon/venusaur.md)
+- [Victreebel](pokemon/victreebel.md)
+- [Weepinbell](pokemon/weepinbell.md)
+- [Wigglytuff](pokemon/wigglytuff.md)

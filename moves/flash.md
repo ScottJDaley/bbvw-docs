@@ -1,0 +1,64 @@
+# Flash
+
+**Type:** Normal  
+**Category:** Status  
+**Power:** -  
+**Accuracy:** 100  
+**PP:** 20  
+
+## Description
+Lowers the target’s accuracy by one stage.
+
+## Learned by
+- [Abra](pokemon/abra.md)
+- [Alakazam](pokemon/alakazam.md)
+- [Beedrill](pokemon/beedrill.md)
+- [Bellsprout](pokemon/bellsprout.md)
+- [Bulbasaur](pokemon/bulbasaur.md)
+- [Butterfree](pokemon/butterfree.md)
+- [Chansey](pokemon/chansey.md)
+- [Clefable](pokemon/clefable.md)
+- [Clefairy](pokemon/clefairy.md)
+- [Drowzee](pokemon/drowzee.md)
+- [Electabuzz](pokemon/electabuzz.md)
+- [Electrode](pokemon/electrode.md)
+- [Exeggcute](pokemon/exeggcute.md)
+- [Exeggutor](pokemon/exeggutor.md)
+- [Gloom](pokemon/gloom.md)
+- [Golduck](pokemon/golduck.md)
+- [Hypno](pokemon/hypno.md)
+- [Ivysaur](pokemon/ivysaur.md)
+- [Jigglypuff](pokemon/jigglypuff.md)
+- [Jolteon](pokemon/jolteon.md)
+- [Jynx](pokemon/jynx.md)
+- [Kadabra](pokemon/kadabra.md)
+- [Koffing](pokemon/koffing.md)
+- [Magnemite](pokemon/magnemite.md)
+- [Magneton](pokemon/magneton.md)
+- [Meowth](pokemon/meowth.md)
+- [Mew](pokemon/mew.md)
+- [Mewtwo](pokemon/mewtwo.md)
+- [Mr-mime](pokemon/mr-mime.md)
+- [Oddish](pokemon/oddish.md)
+- [Paras](pokemon/paras.md)
+- [Parasect](pokemon/parasect.md)
+- [Persian](pokemon/persian.md)
+- [Pikachu](pokemon/pikachu.md)
+- [Porygon](pokemon/porygon.md)
+- [Psyduck](pokemon/psyduck.md)
+- [Raichu](pokemon/raichu.md)
+- [Slowbro](pokemon/slowbro.md)
+- [Slowpoke](pokemon/slowpoke.md)
+- [Starmie](pokemon/starmie.md)
+- [Staryu](pokemon/staryu.md)
+- [Tangela](pokemon/tangela.md)
+- [Venomoth](pokemon/venomoth.md)
+- [Venonat](pokemon/venonat.md)
+- [Venusaur](pokemon/venusaur.md)
+- [Victreebel](pokemon/victreebel.md)
+- [Vileplume](pokemon/vileplume.md)
+- [Voltorb](pokemon/voltorb.md)
+- [Weepinbell](pokemon/weepinbell.md)
+- [Weezing](pokemon/weezing.md)
+- [Wigglytuff](pokemon/wigglytuff.md)
+- [Zapdos](pokemon/zapdos.md)

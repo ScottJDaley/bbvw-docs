@@ -1,0 +1,66 @@
+# Pinwheel Forest
+
+## Encounters
+| Method | Pokemon | Rate |
+| --- | --- | --- |
+| Grass, Normal | [Tympole](pokemon/tympole.md) | 20% |
+| Grass, Normal | [, Timburr](pokemon/, timburr.md) | 20% |
+| Grass, Normal | [, Meditite](pokemon/, meditite.md) | 10% |
+| Grass, Normal | [, Spinarak](pokemon/, spinarak.md) | 10% |
+| Grass, Normal | [, Ledyba](pokemon/, ledyba.md) | 10% |
+| Grass, Normal | [, Machop](pokemon/, machop.md) | 10% |
+| Grass, Normal | [, Makuhita](pokemon/, makuhita.md) | 10% |
+| Grass, Normal | [, Croagunk](pokemon/, croagunk.md) | 5% |
+| Grass, Normal | [, Slakoth](pokemon/, slakoth.md) | 5% |
+| Grass, Doubles | [Throh](pokemon/throh.md) | 20% |
+| Grass, Doubles | [, Sawk](pokemon/, sawk.md) | 20% |
+| Grass, Doubles | [, Dunsparce](pokemon/, dunsparce.md) | 10% |
+| Grass, Doubles | [, Doduo](pokemon/, doduo.md) | 10% |
+| Grass, Doubles | [, Snubbull](pokemon/, snubbull.md) | 10% |
+| Grass, Doubles | [, Aipom](pokemon/, aipom.md) | 10% |
+| Grass, Doubles | [, Cubone](pokemon/, cubone.md) | 9% |
+| Grass, Doubles | [, Burmy](pokemon/, burmy.md) | 9% |
+| Grass, Doubles | [, Heracross](pokemon/, heracross.md) | 2% |
+| Grass, Special | [Audino](pokemon/audino.md) | 50% |
+| Grass, Special | [, Tepig](pokemon/, tepig.md) | 10% |
+| Grass, Special | [, Tyrogue](pokemon/, tyrogue.md) | 10% |
+| Grass, Special | [, Riolu](pokemon/, riolu.md) | 10% |
+| Grass, Special | [, Charmander](pokemon/, charmander.md) | 5% |
+| Grass, Special | [, Cyndaquil](pokemon/, cyndaquil.md) | 5% |
+| Grass, Special | [, Torchic](pokemon/, torchic.md) | 5% |
+| Grass, Special | [, Chimchar](pokemon/, chimchar.md) | 5% |
+| Grass, Normal | [Cottonee](pokemon/cottonee.md) | 20% |
+| Grass, Normal | [, Petilil](pokemon/, petilil.md) | 20% |
+| Grass, Normal | [, Sewaddle](pokemon/, sewaddle.md) | 10% |
+| Grass, Normal | [, Venipede](pokemon/, venipede.md) | 10% |
+| Grass, Normal | [, Oddish](pokemon/, oddish.md) | 10% |
+| Grass, Normal | [, Bellsprout](pokemon/, bellsprout.md) | 10% |
+| Grass, Normal | [, Shroomish](pokemon/, shroomish.md) | 5% |
+| Grass, Normal | [, Exeggcute](pokemon/, exeggcute.md) | 5% |
+| Grass, Normal | [, Murkrow](pokemon/, murkrow.md) | 5% |
+| Grass, Normal | [, Misdreavus](pokemon/, misdreavus.md) | 5% |
+| Grass, Doubles | [Tangela](pokemon/tangela.md) | 20% |
+| Grass, Doubles | [, Roselia](pokemon/, roselia.md) | 20% |
+| Grass, Doubles | [, Swadloon](pokemon/, swadloon.md) | 10% |
+| Grass, Doubles | [, Whirlipede](pokemon/, whirlipede.md) | 10% |
+| Grass, Doubles | [, Gloom](pokemon/, gloom.md) | 10% |
+| Grass, Doubles | [, Weepinbell](pokemon/, weepinbell.md) | 10% |
+| Grass, Doubles | [, Carnivine](pokemon/, carnivine.md) | 5% |
+| Grass, Doubles | [, Scyther](pokemon/, scyther.md) | 5% |
+| Grass, Doubles | [, Pinsir](pokemon/, pinsir.md) | 5% |
+| Grass, Doubles | [, Vigoroth](pokemon/, vigoroth.md) | 5% |
+| Grass, Special | [Audino](pokemon/audino.md) | 40% |
+| Grass, Special | [, Snivy](pokemon/, snivy.md) | 10% |
+| Grass, Special | [, Pansage](pokemon/, pansage.md) | 10% |
+| Grass, Special | [, Panpour](pokemon/, panpour.md) | 10% |
+| Grass, Special | [, Pansear](pokemon/, pansear.md) | 10% |
+| Grass, Special | [, Bulbasaur](pokemon/, bulbasaur.md) | 5% |
+| Grass, Special | [, Chikorita](pokemon/, chikorita.md) | 5% |
+| Grass, Special | [, Treecko](pokemon/, treecko.md) | 5% |
+| Grass, Special | [, Turtwig](pokemon/, turtwig.md) | 5% |
+| Surf, Normal | [Surskit](pokemon/surskit.md) | 100% |
+| Surf, Special | [Masquerain](pokemon/masquerain.md) | 100% |
+| Fish, Normal | [Psyduck](pokemon/psyduck.md) | 60% |
+| Fish, Normal | [, Poliwag](pokemon/, poliwag.md) | 40% |
+| Fish, Special | [Poliwhirl](pokemon/poliwhirl.md) | 95% |
+| Fish, Special | [, Politoed](pokemon/, politoed.md) | 5% |

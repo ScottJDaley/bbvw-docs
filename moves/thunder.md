@@ -1,0 +1,60 @@
+# Thunder
+
+**Type:** Electric  
+**Category:** Special  
+**Power:** 110  
+**Accuracy:** 70  
+**PP:** 10  
+
+## Description
+Has a $effect_chance% chance to paralyze the target.
+
+## Learned by
+- [Chansey](pokemon/chansey.md)
+- [Clefable](pokemon/clefable.md)
+- [Clefairy](pokemon/clefairy.md)
+- [Dragonair](pokemon/dragonair.md)
+- [Dragonite](pokemon/dragonite.md)
+- [Dratini](pokemon/dratini.md)
+- [Electabuzz](pokemon/electabuzz.md)
+- [Electrode](pokemon/electrode.md)
+- [Gengar](pokemon/gengar.md)
+- [Grimer](pokemon/grimer.md)
+- [Gyarados](pokemon/gyarados.md)
+- [Jigglypuff](pokemon/jigglypuff.md)
+- [Jolteon](pokemon/jolteon.md)
+- [Kangaskhan](pokemon/kangaskhan.md)
+- [Koffing](pokemon/koffing.md)
+- [Lapras](pokemon/lapras.md)
+- [Lickitung](pokemon/lickitung.md)
+- [Magnemite](pokemon/magnemite.md)
+- [Magneton](pokemon/magneton.md)
+- [Mankey](pokemon/mankey.md)
+- [Meowth](pokemon/meowth.md)
+- [Mew](pokemon/mew.md)
+- [Mewtwo](pokemon/mewtwo.md)
+- [Mr-mime](pokemon/mr-mime.md)
+- [Muk](pokemon/muk.md)
+- [Nidoking](pokemon/nidoking.md)
+- [Nidoqueen](pokemon/nidoqueen.md)
+- [Nidoran-f](pokemon/nidoran-f.md)
+- [Nidoran-m](pokemon/nidoran-m.md)
+- [Nidorina](pokemon/nidorina.md)
+- [Nidorino](pokemon/nidorino.md)
+- [Persian](pokemon/persian.md)
+- [Pikachu](pokemon/pikachu.md)
+- [Porygon](pokemon/porygon.md)
+- [Primeape](pokemon/primeape.md)
+- [Raichu](pokemon/raichu.md)
+- [Raticate](pokemon/raticate.md)
+- [Rattata](pokemon/rattata.md)
+- [Rhydon](pokemon/rhydon.md)
+- [Rhyhorn](pokemon/rhyhorn.md)
+- [Snorlax](pokemon/snorlax.md)
+- [Starmie](pokemon/starmie.md)
+- [Staryu](pokemon/staryu.md)
+- [Tauros](pokemon/tauros.md)
+- [Voltorb](pokemon/voltorb.md)
+- [Weezing](pokemon/weezing.md)
+- [Wigglytuff](pokemon/wigglytuff.md)
+- [Zapdos](pokemon/zapdos.md)
