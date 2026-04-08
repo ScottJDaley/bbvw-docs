@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  
@@ -23,7 +23,7 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 - [Azelf](../pokemon/azelf.md)
 - [Azurill](../pokemon/azurill.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beheeyem](../pokemon/beheeyem.md)
 - [Bellossom](../pokemon/bellossom.md)
 - [Bonsly](../pokemon/bonsly.md)

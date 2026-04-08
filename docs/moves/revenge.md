@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/fighting.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![fighting](../img/types/fighting.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 10  
@@ -14,7 +14,7 @@ Inflicts double damage if the user takes damage before attacking this turn.
 ## Learned by
 - [Aipom](../pokemon/aipom.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bouffalant](../pokemon/bouffalant.md)
 - [Cacturne](../pokemon/cacturne.md)
 - [Croagunk](../pokemon/croagunk.md)

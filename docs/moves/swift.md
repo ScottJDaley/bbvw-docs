@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** -  
 **PP:** 20  
@@ -17,7 +17,7 @@ Never misses.
 - [Ambipom](../pokemon/ambipom.md)
 - [Azelf](../pokemon/azelf.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Buizel](../pokemon/buizel.md)
 - [Carvanha](../pokemon/carvanha.md)
 - [Crawdaunt](../pokemon/crawdaunt.md)

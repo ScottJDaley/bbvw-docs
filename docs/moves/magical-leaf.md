@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/grass.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![grass](../img/types/grass.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** -  
 **PP:** 20  

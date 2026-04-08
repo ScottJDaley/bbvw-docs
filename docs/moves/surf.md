@@ -2,8 +2,8 @@
 
 **TM/HM:** HM03
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 15  
@@ -20,7 +20,7 @@ Inflicts regular damage and can hit Dive users.
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Blastoise](../pokemon/blastoise.md)

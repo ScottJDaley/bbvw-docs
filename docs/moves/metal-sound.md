@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/steel.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![steel](../img/types/steel.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 85  
 **PP:** 40  

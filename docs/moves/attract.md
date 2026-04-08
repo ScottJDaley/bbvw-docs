@@ -2,8 +2,8 @@
 
 **TM/HM:** TM45
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 15  
@@ -41,7 +41,7 @@ Target falls in love if it has the opposite gender, and has a 50% chance to refu
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

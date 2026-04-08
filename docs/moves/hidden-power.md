@@ -2,8 +2,8 @@
 
 **TM/HM:** TM10
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 15  
@@ -45,7 +45,7 @@ Power and type depend upon user’s IVs.  Power can range from 30 to 70.
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

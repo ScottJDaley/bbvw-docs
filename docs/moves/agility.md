@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/psychic.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![psychic](../img/types/psychic.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 30  
@@ -21,7 +21,7 @@ Raises the user’s Speed by two stages.
 - [Ariados](../pokemon/ariados.md)
 - [Articuno](../pokemon/articuno.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beedrill](../pokemon/beedrill.md)
 - [Blitzle](../pokemon/blitzle.md)
 - [Buizel](../pokemon/buizel.md)

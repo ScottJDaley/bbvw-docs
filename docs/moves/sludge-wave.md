@@ -2,8 +2,8 @@
 
 **TM/HM:** TM34
 
-**Type:** <img src="../img/types/poison.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![poison](../img/types/poison.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 95  
 **Accuracy:** 100  
 **PP:** 10  

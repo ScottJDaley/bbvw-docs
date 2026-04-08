@@ -1,14 +1,14 @@
 # Burmy
 
-<img src="../img/pokemon/412.png" width="150" />
+![burmy](../img/pokemon/412.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" />
+![bug](../img/types/bug.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)** ➡️ Lv. 20 ➡️  **[Wormadam]( wormadam.md)**
+![burmy](../img/pokemon/412.png){ width=40 } **[Burmy](../pokemon/burmy.md)** ➡️ Lv. 20 ➡️  **[Wormadam](../pokemon/wormadam.md)**
 
-<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/414.png" width="40" /> **[Mothim]( mothim.md)**
+![burmy](../img/pokemon/412.png){ width=40 } **[Burmy](../pokemon/burmy.md)** ➡️ Lv. 20 ➡️ ![mothim](../img/pokemon/414.png){ width=40 } **[Mothim](../pokemon/mothim.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -19,9 +19,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
-|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![flying](../img/types/flying.png){ width=40 } |  |
+|  | ![ground](../img/types/ground.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,18 +36,18 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![grass, doubles](../img/items/grass-doubles.png){ width=20 } Grass, Doubles | 9% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM17 Protect](../moves/protect.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |  |
-| 10 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Tackle](../moves/tackle.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 35 |  |
-| 15 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
-| 20 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](../moves/hidden-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [TM17 Protect](../moves/protect.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
+| 10 | ![normal](../img/types/normal.png){ width=40 } | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
+| 15 | ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
+| 20 | ![normal](../img/types/normal.png){ width=40 } | [TM10 Hidden power](../moves/hidden-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/electric.png" width="40" alt="electric" /> | [Electroweb](../moves/electroweb.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Snore](../moves/snore.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
+| ![electric](../img/types/electric.png){ width=40 } | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |

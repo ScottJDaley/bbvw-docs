@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 35  
 **Accuracy:** 85  
 **PP:** 15  

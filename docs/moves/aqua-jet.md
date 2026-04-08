@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 20  
@@ -14,7 +14,7 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 - [Alomomola](../pokemon/alomomola.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Buizel](../pokemon/buizel.md)
 - [Carracosta](../pokemon/carracosta.md)

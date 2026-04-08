@@ -1,12 +1,12 @@
 # Beldum
 
-<img src="../img/pokemon/374.png" width="150" />
+![beldum](../img/pokemon/374.png){ width=150 }
 
 ## Type
-<img src="../img/types/steel.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
+![steel](../img/types/steel.png){ width=60 } ![psychic](../img/types/psychic.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/374.png" width="40" /> **[Beldum]( beldum.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/375.png" width="40" /> **[Metang]( metang.md)** ➡️ Lv. 45 ➡️ <img src="../img/pokemon/376.png" width="40" /> **[Metagross]( metagross.md)**
+![beldum](../img/pokemon/374.png){ width=40 } **[Beldum](../pokemon/beldum.md)** ➡️ Lv. 20 ➡️ ![metang](../img/pokemon/375.png){ width=40 } **[Metang](../pokemon/metang.md)** ➡️ Lv. 45 ➡️ ![metagross](../img/pokemon/376.png){ width=40 } **[Metagross](../pokemon/metagross.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,14 +17,14 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-| <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
-|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
-|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
-|  | <img src='../img/types/psychic.png' width='40' /> |  |  |
-|  | <img src='../img/types/rock.png' width='40' /> |  |  |
-|  | <img src='../img/types/dragon.png' width='40' /> |  |  |
-|  | <img src='../img/types/steel.png' width='40' /> |  |  |
+| ![poison](../img/types/poison.png){ width=40 } | ![normal](../img/types/normal.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![ground](../img/types/ground.png){ width=40 } |  |
+|  | ![ice](../img/types/ice.png){ width=40 } | ![ghost](../img/types/ghost.png){ width=40 } |  |
+|  | ![flying](../img/types/flying.png){ width=40 } | ![dark](../img/types/dark.png){ width=40 } |  |
+|  | ![psychic](../img/types/psychic.png){ width=40 } |  |  |
+|  | ![rock](../img/types/rock.png){ width=40 } |  |  |
+|  | ![dragon](../img/types/dragon.png){ width=40 } |  |  |
+|  | ![steel](../img/types/steel.png){ width=40 } |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,17 +39,17 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 4% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png){ width=20 } Sand | 4% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | ![cave, normal](../img/items/cave-normal.png){ width=20 } Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Take down](../moves/take-down.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 90 | 85 | 20 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Take down](../moves/take-down.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/steel.png" width="40" alt="steel" /> | [Iron defense](../moves/iron-defense.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
-| <img src="../img/types/steel.png" width="40" alt="steel" /> | [Iron head](../moves/iron-head.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |
-| <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](../moves/zen-headbutt.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 90 | 15 |
+| ![steel](../img/types/steel.png){ width=40 } | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| ![steel](../img/types/steel.png){ width=40 } | [Iron head](../moves/iron-head.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
+| ![psychic](../img/types/psychic.png){ width=40 } | [Zen headbutt](../moves/zen-headbutt.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 80 | 90 | 15 |

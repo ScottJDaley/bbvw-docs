@@ -1,14 +1,14 @@
 # Wurmple
 
-<img src="../img/pokemon/265.png" width="150" />
+![wurmple](../img/pokemon/265.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" />
+![bug](../img/types/bug.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/266.png" width="40" /> **[Silcoon]( silcoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/267.png" width="40" /> **[Beautifly]( beautifly.md)**
+![wurmple](../img/pokemon/265.png){ width=40 } **[Wurmple](../pokemon/wurmple.md)** ➡️ Lv. 7 ➡️ ![silcoon](../img/pokemon/266.png){ width=40 } **[Silcoon](../pokemon/silcoon.md)** ➡️ Lv. 10 ➡️ ![beautifly](../img/pokemon/267.png){ width=40 } **[Beautifly](../pokemon/beautifly.md)**
 
-<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/268.png" width="40" /> **[Cascoon]( cascoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/269.png" width="40" /> **[Dustox]( dustox.md)**
+![wurmple](../img/pokemon/265.png){ width=40 } **[Wurmple](../pokemon/wurmple.md)** ➡️ Lv. 7 ➡️ ![cascoon](../img/pokemon/268.png){ width=40 } **[Cascoon](../pokemon/cascoon.md)** ➡️ Lv. 10 ➡️ ![dustox](../img/pokemon/269.png){ width=40 } **[Dustox](../pokemon/dustox.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -19,9 +19,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
-|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![flying](../img/types/flying.png){ width=40 } |  |
+|  | ![ground](../img/types/ground.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,18 +36,18 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 2](../routes/route-2.md) | ![grass, normal](../img/items/grass-normal.png){ width=20 } Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Tackle](../moves/tackle.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 35 |  |
-| 1 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [String shot](../moves/string-shot.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 95 | 40 |  |
-| 5 | <img src="../img/types/poison.png" width="40" alt="poison" /> | [Poison sting](../moves/poison-sting.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 15 | 100 | 35 |  |
-| 15 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
+| 1 | ![bug](../img/types/bug.png){ width=40 } | [String shot](../moves/string-shot.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |  |
+| 5 | ![poison](../img/types/poison.png){ width=40 } | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |  |
+| 15 | ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/electric.png" width="40" alt="electric" /> | [Electroweb](../moves/electroweb.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Snore](../moves/snore.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
+| ![electric](../img/types/electric.png){ width=40 } | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |

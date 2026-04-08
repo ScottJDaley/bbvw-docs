@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/dark.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![dark](../img/types/dark.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  
@@ -18,7 +18,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 - [Archeops](../pokemon/archeops.md)
 - [Bagon](../pokemon/bagon.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Carnivine](../pokemon/carnivine.md)
 - [Carracosta](../pokemon/carracosta.md)
 - [Carvanha](../pokemon/carvanha.md)

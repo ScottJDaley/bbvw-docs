@@ -2,8 +2,8 @@
 
 **TM/HM:** TM88
 
-**Type:** <img src="../img/types/flying.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![flying](../img/types/flying.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 20  

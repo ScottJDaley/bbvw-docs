@@ -1,12 +1,12 @@
 # Archeops
 
-<img src="../img/pokemon/567.png" width="150" />
+![archeops](../img/pokemon/567.png){ width=150 }
 
 ## Type
-<img src="../img/types/rock.png" width="60" /> <img src="../img/types/flying.png" width="60" />
+![rock](../img/types/rock.png){ width=60 } ![flying](../img/types/flying.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/566.png" width="40" /> **[Archen]( archen.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/567.png" width="40" /> **[Archeops]( archeops.md)**
+![archen](../img/pokemon/566.png){ width=40 } **[Archen](../pokemon/archen.md)** ➡️ Lv. 37 ➡️ ![archeops](../img/pokemon/567.png){ width=40 } **[Archeops](../pokemon/archeops.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,11 +17,11 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
-|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
-|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
-|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
-|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/steel.png' width='40' /> |  |
+| ![ground](../img/types/ground.png){ width=40 } | ![normal](../img/types/normal.png){ width=40 } | ![water](../img/types/water.png){ width=40 } |  |
+|  | ![fire](../img/types/fire.png){ width=40 } | ![electric](../img/types/electric.png){ width=40 } |  |
+|  | ![poison](../img/types/poison.png){ width=40 } | ![ice](../img/types/ice.png){ width=40 } |  |
+|  | ![flying](../img/types/flying.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
+|  | ![bug](../img/types/bug.png){ width=40 } | ![steel](../img/types/steel.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,85 +34,85 @@
 | Speed | 110 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:55.00000000000001%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 
 ## Locations
-Evolve from [Archen]( archen.md)
+Evolve from [Archen](../pokemon/archen.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/flying.png" width="40" alt="flying" /> | [Wing attack](../moves/wing-attack.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 35 |  |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Leer](../moves/leer.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 30 |  |
-| 1 | <img src="../img/types/rock.png" width="40" alt="rock" /> | [Rock throw](../moves/rock-throw.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 90 | 15 |  |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Quick attack](../moves/quick-attack.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 30 |  |
-| 8 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM32 Double team](../moves/double-team.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |  |
-| 11 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Scary face](../moves/scary-face.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 10 |  |
-| 15 | <img src="../img/types/flying.png" width="40" alt="flying" /> | [TM88 Pluck](../moves/pluck.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
-| 18 | <img src="../img/types/rock.png" width="40" alt="rock" /> | [Ancient power](../moves/ancient-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 5 |  |
-| 21 | <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [Agility](../moves/agility.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 30 |  |
-| 25 | <img src="../img/types/fighting.png" width="40" alt="fighting" /> | [Quick guard](../moves/quick-guard.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |  |
-| 28 | <img src="../img/types/flying.png" width="40" alt="flying" /> | [TM62 Acrobatics](../moves/acrobatics.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 55 | 100 | 15 |  |
-| 31 | <img src="../img/types/dragon.png" width="40" alt="dragon" /> | [Dragon breath](../moves/dragon-breath.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 20 |  |
-| 35 | <img src="../img/types/dark.png" width="40" alt="dark" /> | [Crunch](../moves/crunch.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |  |
-| 40 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Endeavor](../moves/endeavor.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 5 |  |
-| 45 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [TM89 U turn](../moves/u-turn.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 |  |
-| 51 | <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM80 Rock slide](../moves/rock-slide.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 75 | 90 | 10 |  |
-| 56 | <img src="../img/types/dragon.png" width="40" alt="dragon" /> | [TM02 Dragon claw](../moves/dragon-claw.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |  |
-| 61 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Thrash](../moves/thrash.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 120 | 100 | 10 |  |
+| 1 | ![flying](../img/types/flying.png){ width=40 } | [Wing attack](../moves/wing-attack.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 35 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Leer](../moves/leer.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |  |
+| 1 | ![rock](../img/types/rock.png){ width=40 } | [Rock throw](../moves/rock-throw.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 15 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Quick attack](../moves/quick-attack.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |  |
+| 8 | ![normal](../img/types/normal.png){ width=40 } | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |  |
+| 11 | ![normal](../img/types/normal.png){ width=40 } | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
+| 15 | ![flying](../img/types/flying.png){ width=40 } | [TM88 Pluck](../moves/pluck.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
+| 18 | ![rock](../img/types/rock.png){ width=40 } | [Ancient power](../moves/ancient-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |  |
+| 21 | ![psychic](../img/types/psychic.png){ width=40 } | [Agility](../moves/agility.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |  |
+| 25 | ![fighting](../img/types/fighting.png){ width=40 } | [Quick guard](../moves/quick-guard.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |  |
+| 28 | ![flying](../img/types/flying.png){ width=40 } | [TM62 Acrobatics](../moves/acrobatics.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 55 | 100 | 15 |  |
+| 31 | ![dragon](../img/types/dragon.png){ width=40 } | [Dragon breath](../moves/dragon-breath.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
+| 35 | ![dark](../img/types/dark.png){ width=40 } | [Crunch](../moves/crunch.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |  |
+| 40 | ![normal](../img/types/normal.png){ width=40 } | [Endeavor](../moves/endeavor.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |  |
+| 45 | ![bug](../img/types/bug.png){ width=40 } | [TM89 U turn](../moves/u-turn.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |  |
+| 51 | ![rock](../img/types/rock.png){ width=40 } | [TM80 Rock slide](../moves/rock-slide.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 75 | 90 | 10 |  |
+| 56 | ![dragon](../img/types/dragon.png){ width=40 } | [TM02 Dragon claw](../moves/dragon-claw.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |  |
+| 61 | ![normal](../img/types/normal.png){ width=40 } | [Thrash](../moves/thrash.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |  |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [TM40 Aerial ace](../moves/aerial-ace.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | - | 20 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM45 Attract](../moves/attract.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
-| <img src="../img/types/ground.png" width="40" alt="ground" /> | [TM78 Bulldoze](../moves/bulldoze.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |
-| <img src="../img/types/ground.png" width="40" alt="ground" /> | [TM28 Dig](../moves/dig.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 10 |
-| <img src="../img/types/dragon.png" width="40" alt="dragon" /> | [TM82 Dragon tail](../moves/dragon-tail.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 90 | 10 |
-| <img src="../img/types/ground.png" width="40" alt="ground" /> | [TM26 Earthquake](../moves/earthquake.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 100 | 10 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM42 Facade](../moves/facade.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 |
-| <img src="../img/types/fighting.png" width="40" alt="fighting" /> | [TM52 Focus blast](../moves/focus-blast.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 120 | 70 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM21 Frustration](../moves/frustration.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM68 Giga impact](../moves/giga-impact.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 150 | 90 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](../moves/hidden-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
-| <img src="../img/types/dark.png" width="40" alt="dark" /> | [TM01 Hone claws](../moves/hone-claws.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM15 Hyper beam](../moves/hyper-beam.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 150 | 90 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM17 Protect](../moves/protect.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [TM44 Rest](../moves/rest.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM27 Return](../moves/return.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM05 Roar](../moves/roar.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM69 Rock polish](../moves/rock-polish.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
-| <img src="../img/types/fighting.png" width="40" alt="fighting" /> | [TM94 Rock smash](../moves/rock-smash.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 40 | 100 | 15 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM39 Rock tomb](../moves/rock-tomb.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 95 | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM48 Round](../moves/round.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM37 Sandstorm](../moves/sandstorm.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="../img/types/ghost.png" width="40" alt="ghost" /> | [TM65 Shadow claw](../moves/shadow-claw.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 15 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM23 Smack down](../moves/smack-down.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 100 | 15 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [TM71 Stone edge](../moves/stone-edge.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 80 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM90 Substitute](../moves/substitute.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM87 Swagger](../moves/swagger.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 85 | 15 |
-| <img src="../img/types/dark.png" width="40" alt="dark" /> | [TM12 Taunt](../moves/taunt.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 20 |
-| <img src="../img/types/dark.png" width="40" alt="dark" /> | [TM41 Torment](../moves/torment.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
-| <img src="../img/types/poison.png" width="40" alt="poison" /> | [TM06 Toxic](../moves/toxic.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 90 | 10 |
+| ![flying](../img/types/flying.png){ width=40 } | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| ![ground](../img/types/ground.png){ width=40 } | [TM78 Bulldoze](../moves/bulldoze.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| ![ground](../img/types/ground.png){ width=40 } | [TM28 Dig](../moves/dig.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
+| ![dragon](../img/types/dragon.png){ width=40 } | [TM82 Dragon tail](../moves/dragon-tail.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 90 | 10 |
+| ![ground](../img/types/ground.png){ width=40 } | [TM26 Earthquake](../moves/earthquake.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM42 Facade](../moves/facade.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| ![fighting](../img/types/fighting.png){ width=40 } | [TM52 Focus blast](../moves/focus-blast.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 120 | 70 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM21 Frustration](../moves/frustration.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM68 Giga impact](../moves/giga-impact.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM10 Hidden power](../moves/hidden-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
+| ![dark](../img/types/dark.png){ width=40 } | [TM01 Hone claws](../moves/hone-claws.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM15 Hyper beam](../moves/hyper-beam.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM17 Protect](../moves/protect.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| ![psychic](../img/types/psychic.png){ width=40 } | [TM44 Rest](../moves/rest.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM27 Return](../moves/return.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM05 Roar](../moves/roar.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| ![rock](../img/types/rock.png){ width=40 } | [TM69 Rock polish](../moves/rock-polish.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| ![fighting](../img/types/fighting.png){ width=40 } | [TM94 Rock smash](../moves/rock-smash.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
+| ![rock](../img/types/rock.png){ width=40 } | [TM39 Rock tomb](../moves/rock-tomb.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM48 Round](../moves/round.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
+| ![rock](../img/types/rock.png){ width=40 } | [TM37 Sandstorm](../moves/sandstorm.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| ![ghost](../img/types/ghost.png){ width=40 } | [TM65 Shadow claw](../moves/shadow-claw.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
+| ![rock](../img/types/rock.png){ width=40 } | [TM23 Smack down](../moves/smack-down.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| ![rock](../img/types/rock.png){ width=40 } | [TM71 Stone edge](../moves/stone-edge.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 100 | 80 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM90 Substitute](../moves/substitute.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| ![normal](../img/types/normal.png){ width=40 } | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |
+| ![dark](../img/types/dark.png){ width=40 } | [TM12 Taunt](../moves/taunt.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| ![dark](../img/types/dark.png){ width=40 } | [TM41 Torment](../moves/torment.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| ![poison](../img/types/poison.png){ width=40 } | [TM06 Toxic](../moves/toxic.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [HM01 Cut](../moves/cut.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 95 | 30 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [HM02 Fly](../moves/fly.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 90 | 95 | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
+| ![flying](../img/types/flying.png){ width=40 } | [HM02 Fly](../moves/fly.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 95 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/water.png" width="40" alt="water" /> | [Aqua tail](../moves/aqua-tail.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 90 | 90 | 10 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [Bounce](../moves/bounce.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 85 | 85 | 5 |
-| <img src="../img/types/dragon.png" width="40" alt="dragon" /> | [Dragon pulse](../moves/dragon-pulse.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 85 | 100 | 10 |
-| <img src="../img/types/ground.png" width="40" alt="ground" /> | [Earth power](../moves/earth-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
-| <img src="../img/types/fire.png" width="40" alt="fire" /> | [Heat wave](../moves/heat-wave.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 95 | 90 | 10 |
-| <img src="../img/types/steel.png" width="40" alt="steel" /> | [Iron defense](../moves/iron-defense.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
-| <img src="../img/types/steel.png" width="40" alt="steel" /> | [Iron tail](../moves/iron-tail.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 75 | 15 |
-| <img src="../img/types/dragon.png" width="40" alt="dragon" /> | [Outrage](../moves/outrage.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 120 | 100 | 10 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [Roost](../moves/roost.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [Sky attack](../moves/sky-attack.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 140 | 90 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](../moves/sleep-talk.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Snore](../moves/snore.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
-| <img src="../img/types/rock.png" width="40" alt="rock" /> | [Stealth rock](../moves/stealth-rock.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [Tailwind](../moves/tailwind.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Uproar](../moves/uproar.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
+| ![water](../img/types/water.png){ width=40 } | [Aqua tail](../moves/aqua-tail.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
+| ![flying](../img/types/flying.png){ width=40 } | [Bounce](../moves/bounce.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |
+| ![dragon](../img/types/dragon.png){ width=40 } | [Dragon pulse](../moves/dragon-pulse.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
+| ![ground](../img/types/ground.png){ width=40 } | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| ![fire](../img/types/fire.png){ width=40 } | [Heat wave](../moves/heat-wave.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 95 | 90 | 10 |
+| ![steel](../img/types/steel.png){ width=40 } | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| ![steel](../img/types/steel.png){ width=40 } | [Iron tail](../moves/iron-tail.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
+| ![dragon](../img/types/dragon.png){ width=40 } | [Outrage](../moves/outrage.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| ![flying](../img/types/flying.png){ width=40 } | [Roost](../moves/roost.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| ![flying](../img/types/flying.png){ width=40 } | [Sky attack](../moves/sky-attack.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 140 | 90 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [Sleep talk](../moves/sleep-talk.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| ![normal](../img/types/normal.png){ width=40 } | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| ![rock](../img/types/rock.png){ width=40 } | [Stealth rock](../moves/stealth-rock.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| ![flying](../img/types/flying.png){ width=40 } | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [Uproar](../moves/uproar.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |

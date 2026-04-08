@@ -2,8 +2,8 @@
 
 **TM/HM:** TM59
 
-**Type:** <img src="../img/types/fire.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![fire](../img/types/fire.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 15  

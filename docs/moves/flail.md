@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 15  
@@ -14,7 +14,7 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bonsly](../pokemon/bonsly.md)
 - [Buneary](../pokemon/buneary.md)

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM17
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 10  
@@ -45,7 +45,7 @@ Prevents any moves from hitting the user this turn.
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

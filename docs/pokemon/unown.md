@@ -1,12 +1,12 @@
 # Unown
 
-<img src="../img/pokemon/201.png" width="150" />
+![unown](../img/pokemon/201.png){ width=150 }
 
 ## Type
-<img src="../img/types/psychic.png" width="60" />
+![psychic](../img/types/psychic.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/201.png" width="40" /> **[Unown]( unown.md)**
+![unown](../img/pokemon/201.png){ width=40 } **[Unown](../pokemon/unown.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,9 +17,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
-|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
-|  |  | <img src='../img/types/dark.png' width='40' /> |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![bug](../img/types/bug.png){ width=40 } |  |
+|  | ![psychic](../img/types/psychic.png){ width=40 } | ![ghost](../img/types/ghost.png){ width=40 } |  |
+|  |  | ![dark](../img/types/dark.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,15 +34,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 100% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png){ width=20 } Sand | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](../moves/hidden-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |  |
-| 11 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Secret power](../moves/secret-power.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 21 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Nature power](../moves/nature-power.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [TM10 Hidden power](../moves/hidden-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |  |
+| 11 | ![normal](../img/types/normal.png){ width=40 } | [Secret power](../moves/secret-power.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 21 | ![normal](../img/types/normal.png){ width=40 } | [Nature power](../moves/nature-power.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
 | 31 | - | Ancientpower | - | - | - | - | - | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 41 | <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](../moves/cosmic-power.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 51 | <img src="../img/types/ground.png" width="40" alt="ground" /> | [Earth power](../moves/earth-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 61 | <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [Stored power](../moves/stored-power.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 20 | 100 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 41 | ![psychic](../img/types/psychic.png){ width=40 } | [Cosmic power](../moves/cosmic-power.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 51 | ![ground](../img/types/ground.png){ width=40 } | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 61 | ![psychic](../img/types/psychic.png){ width=40 } | [Stored power](../moves/stored-power.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |

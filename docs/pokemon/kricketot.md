@@ -1,12 +1,12 @@
 # Kricketot
 
-<img src="../img/pokemon/401.png" width="150" />
+![kricketot](../img/pokemon/401.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" />
+![bug](../img/types/bug.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/401.png" width="40" /> **[Kricketot]( kricketot.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/402.png" width="40" /> **[Kricketune]( kricketune.md)**
+![kricketot](../img/pokemon/401.png){ width=40 } **[Kricketot](../pokemon/kricketot.md)** ➡️ Lv. 10 ➡️ ![kricketune](../img/pokemon/402.png){ width=40 } **[Kricketune](../pokemon/kricketune.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,9 +17,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
-|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![flying](../img/types/flying.png){ width=40 } |  |
+|  | ![ground](../img/types/ground.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,19 +34,19 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 2](../routes/route-2.md) | ![grass, normal](../img/items/grass-normal.png){ width=20 } Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Growl](../moves/growl.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 40 |  |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Bide](../moves/bide.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | - | 10 |  |
-| 6 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [TM76 Struggle bug](../moves/struggle-bug.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 20 |  |
-| 16 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Bide](../moves/bide.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
+| 6 | ![bug](../img/types/bug.png){ width=40 } | [TM76 Struggle bug](../moves/struggle-bug.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |  |
+| 16 | ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Endeavor](../moves/endeavor.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Snore](../moves/snore.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Uproar](../moves/uproar.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
+| ![normal](../img/types/normal.png){ width=40 } | [Endeavor](../moves/endeavor.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [Uproar](../moves/uproar.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |

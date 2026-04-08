@@ -1,64 +1,64 @@
 # Recall that no shaking grass will appear until after the first badge has been obtained!
 
-## <img src='../img/items/grass-normal.png' width='30' style='vertical-align:middle;' /> Grass, Normal
+## ![grass, normal](../img/items/grass-normal.png){ width=30 style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/506.png" width="40" /> | [Lillipup](../pokemon/lillipup.md) | 20% |
-| <img src="../img/pokemon/016.png" width="40" /> | [Pidgey](../pokemon/pidgey.md) | 20% |
-| <img src="../img/pokemon/399.png" width="40" /> | [Bidoof](../pokemon/bidoof.md) | 10% |
-| <img src="../img/pokemon/161.png" width="40" /> | [Sentret](../pokemon/sentret.md) | 10% |
-| <img src="../img/pokemon/019.png" width="40" /> | [Rattata](../pokemon/rattata.md) | 10% |
-| <img src="../img/pokemon/263.png" width="40" /> | [Zigzagoon](../pokemon/zigzagoon.md) | 10% |
-| <img src="../img/pokemon/396.png" width="40" /> | [Starly](../pokemon/starly.md) | 10% |
-| <img src="../img/pokemon/163.png" width="40" /> | [Hoothoot](../pokemon/hoothoot.md) | 10% |
+| ![Lillipup](../img/pokemon/506.png){ width=40 } | [Lillipup](../pokemon/lillipup.md) | 20% |
+| ![Pidgey](../img/pokemon/016.png){ width=40 } | [Pidgey](../pokemon/pidgey.md) | 20% |
+| ![Bidoof](../img/pokemon/399.png){ width=40 } | [Bidoof](../pokemon/bidoof.md) | 10% |
+| ![Sentret](../img/pokemon/161.png){ width=40 } | [Sentret](../pokemon/sentret.md) | 10% |
+| ![Rattata](../img/pokemon/019.png){ width=40 } | [Rattata](../pokemon/rattata.md) | 10% |
+| ![Zigzagoon](../img/pokemon/263.png){ width=40 } | [Zigzagoon](../pokemon/zigzagoon.md) | 10% |
+| ![Starly](../img/pokemon/396.png){ width=40 } | [Starly](../pokemon/starly.md) | 10% |
+| ![Hoothoot](../img/pokemon/163.png){ width=40 } | [Hoothoot](../pokemon/hoothoot.md) | 10% |
 
-## <img src='../img/items/grass-doubles.png' width='30' style='vertical-align:middle;' /> Grass, Doubles
+## ![grass, doubles](../img/items/grass-doubles.png){ width=30 style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/507.png" width="40" /> | [Herdier](../pokemon/herdier.md) | 20% |
-| <img src="../img/pokemon/505.png" width="40" /> | [Watchog](../pokemon/watchog.md) | 20% |
-| <img src="../img/pokemon/400.png" width="40" /> | [Bibarel](../pokemon/bibarel.md) | 10% |
-| <img src="../img/pokemon/162.png" width="40" /> | [Furret](../pokemon/furret.md) | 10% |
-| <img src="../img/pokemon/020.png" width="40" /> | [Raticate](../pokemon/raticate.md) | 10% |
-| <img src="../img/pokemon/264.png" width="40" /> | [Linoone](../pokemon/linoone.md) | 10% |
-| <img src="../img/pokemon/262.png" width="40" /> | [Mightyena](../pokemon/mightyena.md) | 5% |
-| <img src="../img/pokemon/017.png" width="40" /> | [Pidgeotto](../pokemon/pidgeotto.md) | 5% |
-| <img src="../img/pokemon/397.png" width="40" /> | [Staravia](../pokemon/staravia.md) | 5% |
-| <img src="../img/pokemon/164.png" width="40" /> | [Noctowl](../pokemon/noctowl.md) | 5% |
+| ![Herdier](../img/pokemon/507.png){ width=40 } | [Herdier](../pokemon/herdier.md) | 20% |
+| ![Watchog](../img/pokemon/505.png){ width=40 } | [Watchog](../pokemon/watchog.md) | 20% |
+| ![Bibarel](../img/pokemon/400.png){ width=40 } | [Bibarel](../pokemon/bibarel.md) | 10% |
+| ![Furret](../img/pokemon/162.png){ width=40 } | [Furret](../pokemon/furret.md) | 10% |
+| ![Raticate](../img/pokemon/020.png){ width=40 } | [Raticate](../pokemon/raticate.md) | 10% |
+| ![Linoone](../img/pokemon/264.png){ width=40 } | [Linoone](../pokemon/linoone.md) | 10% |
+| ![Mightyena](../img/pokemon/262.png){ width=40 } | [Mightyena](../pokemon/mightyena.md) | 5% |
+| ![Pidgeotto](../img/pokemon/017.png){ width=40 } | [Pidgeotto](../pokemon/pidgeotto.md) | 5% |
+| ![Staravia](../img/pokemon/397.png){ width=40 } | [Staravia](../pokemon/staravia.md) | 5% |
+| ![Noctowl](../img/pokemon/164.png){ width=40 } | [Noctowl](../pokemon/noctowl.md) | 5% |
 
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Grass, Special
+## ![grass, special](../img/items/grass-special.png){ width=30 style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/531.png" width="40" /> | [Audino](../pokemon/audino.md) | 80% |
-| <img src="../img/pokemon/440.png" width="40" /> | [Happiny](../pokemon/happiny.md) | 10% |
-| <img src="../img/pokemon/298.png" width="40" /> | [Azurill](../pokemon/azurill.md) | 10% |
+| ![Audino](../img/pokemon/531.png){ width=40 } | [Audino](../pokemon/audino.md) | 80% |
+| ![Happiny](../img/pokemon/440.png){ width=40 } | [Happiny](../pokemon/happiny.md) | 10% |
+| ![Azurill](../img/pokemon/298.png){ width=40 } | [Azurill](../pokemon/azurill.md) | 10% |
 
-## <img src='../img/items/surf-normal.png' width='30' style='vertical-align:middle;' /> Surf, Normal
+## ![surf, normal](../img/items/surf-normal.png){ width=30 style='vertical-align:middle;' } Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 60% |
-| <img src="../img/pokemon/183.png" width="40" /> | [Marill](../pokemon/marill.md) | 30% |
-| <img src="../img/pokemon/349.png" width="40" /> | [Feebas](../pokemon/feebas.md) | 10% |
+| ![Basculin](../img/pokemon/550.png){ width=40 } | [Basculin](../pokemon/basculin.md) | 60% |
+| ![Marill](../img/pokemon/183.png){ width=40 } | [Marill](../pokemon/marill.md) | 30% |
+| ![Feebas](../img/pokemon/349.png){ width=40 } | [Feebas](../pokemon/feebas.md) | 10% |
 
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Surf, Special
+## ![surf, special](../img/items/grass-special.png){ width=30 style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 60% |
-| <img src="../img/pokemon/184.png" width="40" /> | [Azumarill](../pokemon/azumarill.md) | 30% |
-| <img src="../img/pokemon/349.png" width="40" /> | [Feebas](../pokemon/feebas.md) | 10% |
+| ![Basculin](../img/pokemon/550.png){ width=40 } | [Basculin](../pokemon/basculin.md) | 60% |
+| ![Azumarill](../img/pokemon/184.png){ width=40 } | [Azumarill](../pokemon/azumarill.md) | 30% |
+| ![Feebas](../img/pokemon/349.png){ width=40 } | [Feebas](../pokemon/feebas.md) | 10% |
 
-## <img src='../img/items/fishing-normal.png' width='30' style='vertical-align:middle;' /> Fish, Normal
+## ![fish, normal](../img/items/fishing-normal.png){ width=30 style='vertical-align:middle;' } Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/118.png" width="40" /> | [Goldeen](../pokemon/goldeen.md) | 60% |
-| <img src="../img/pokemon/129.png" width="40" /> | [Magikarp](../pokemon/magikarp.md) | 30% |
-| <img src="../img/pokemon/349.png" width="40" /> | [Feebas](../pokemon/feebas.md) | 10% |
+| ![Goldeen](../img/pokemon/118.png){ width=40 } | [Goldeen](../pokemon/goldeen.md) | 60% |
+| ![Magikarp](../img/pokemon/129.png){ width=40 } | [Magikarp](../pokemon/magikarp.md) | 30% |
+| ![Feebas](../img/pokemon/349.png){ width=40 } | [Feebas](../pokemon/feebas.md) | 10% |
 
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
+## ![fish, special](../img/items/grass-special.png){ width=30 style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 60% |
-| <img src="../img/pokemon/147.png" width="40" /> | [Dratini](../pokemon/dratini.md) | 30% |
-| <img src="../img/pokemon/130.png" width="40" /> | [Gyarados](../pokemon/gyarados.md) | 5% |
-| <img src="../img/pokemon/350.png" width="40" /> | [Milotic](../pokemon/milotic.md) | 5% |
+| ![Basculin](../img/pokemon/550.png){ width=40 } | [Basculin](../pokemon/basculin.md) | 60% |
+| ![Dratini](../img/pokemon/147.png){ width=40 } | [Dratini](../pokemon/dratini.md) | 30% |
+| ![Gyarados](../img/pokemon/130.png){ width=40 } | [Gyarados](../pokemon/gyarados.md) | 5% |
+| ![Milotic](../img/pokemon/350.png){ width=40 } | [Milotic](../pokemon/milotic.md) | 5% |
 

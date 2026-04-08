@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 10  
@@ -14,7 +14,7 @@ Has double power against Pokémon that have less than half their max HP remainin
 ## Learned by
 - [Alomomola](../pokemon/alomomola.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Carracosta](../pokemon/carracosta.md)
 - [Carvanha](../pokemon/carvanha.md)

@@ -2,8 +2,8 @@
 
 **TM/HM:** HM05
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  
@@ -18,7 +18,7 @@ Has a $effect_chance% chance to make the target flinch.
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Blastoise](../pokemon/blastoise.md)
 - [Buizel](../pokemon/buizel.md)

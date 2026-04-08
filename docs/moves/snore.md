@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 15  
@@ -43,7 +43,7 @@ Has a $effect_chance% chance to make the target flinch.  Only works if the user 
 - [Baltoy](../pokemon/baltoy.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

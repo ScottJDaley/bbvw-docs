@@ -1,12 +1,12 @@
 # Combee
 
-<img src="../img/pokemon/415.png" width="150" />
+![combee](../img/pokemon/415.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
+![bug](../img/types/bug.png){ width=60 } ![flying](../img/types/flying.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/415.png" width="40" /> **[Combee]( combee.md)** ➡️ Lv. 21 ➡️ <img src="../img/pokemon/416.png" width="40" /> **[Vespiquen]( vespiquen.md)**
+![combee](../img/pokemon/415.png){ width=40 } **[Combee](../pokemon/combee.md)** ➡️ Lv. 21 ➡️ ![vespiquen](../img/pokemon/416.png){ width=40 } **[Vespiquen](../pokemon/vespiquen.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,10 +17,10 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
-|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
-|  |  | <img src='../img/types/flying.png' width='40' /> |  |
+| ![ground](../img/types/ground.png){ width=40 } | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![electric](../img/types/electric.png){ width=40 } |  |
+|  | ![bug](../img/types/bug.png){ width=40 } | ![ice](../img/types/ice.png){ width=40 } |  |
+|  |  | ![flying](../img/types/flying.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,20 +35,20 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 16](../routes/route-16.md) | ![grass, normal](../img/items/grass-normal.png){ width=20 } Grass, Normal | 10% |
+| [Route 12](../routes/route-12.md) | ![grass, normal](../img/items/grass-normal.png){ width=20 } Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/flying.png" width="40" alt="flying" /> | [Gust](../moves/gust.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 40 | 100 | 35 |  |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Sweet scent](../moves/sweet-scent.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 20 |  |
-| 13 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
-| 29 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug buzz](../moves/bug-buzz.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |  |
+| 1 | ![flying](../img/types/flying.png){ width=40 } | [Gust](../moves/gust.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Sweet scent](../moves/sweet-scent.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
+| 13 | ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
+| 29 | ![bug](../img/types/bug.png){ width=40 } | [Bug buzz](../moves/bug-buzz.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Endeavor](../moves/endeavor.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 5 |
-| <img src="../img/types/normal.png" width="40" alt="normal" /> | [Snore](../moves/snore.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
-| <img src="../img/types/flying.png" width="40" alt="flying" /> | [Tailwind](../moves/tailwind.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
+| ![normal](../img/types/normal.png){ width=40 } | [Endeavor](../moves/endeavor.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| ![normal](../img/types/normal.png){ width=40 } | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| ![flying](../img/types/flying.png){ width=40 } | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |

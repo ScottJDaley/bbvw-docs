@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/fighting.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![fighting](../img/types/fighting.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 5  
@@ -19,7 +19,7 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 - [Axew](../pokemon/axew.md)
 - [Azumarill](../pokemon/azumarill.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Bidoof](../pokemon/bidoof.md)

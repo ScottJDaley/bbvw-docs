@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 90  
 **PP:** 10  
@@ -23,7 +23,7 @@ Inflicts regular damage with no additional effect.
 - [Azumarill](../pokemon/azumarill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Bidoof](../pokemon/bidoof.md)
 - [Blastoise](../pokemon/blastoise.md)

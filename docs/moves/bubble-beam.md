@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 20  
@@ -15,7 +15,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Chinchou](../pokemon/chinchou.md)
 - [Corphish](../pokemon/corphish.md)
 - [Corsola](../pokemon/corsola.md)

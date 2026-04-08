@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/fighting.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![fighting](../img/types/fighting.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 5  
@@ -14,7 +14,7 @@ Inflicts damage equal to the user’s remaining HP.  User faints.
 ## Learned by
 - [Accelgor](../pokemon/accelgor.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Diglett](../pokemon/diglett.md)
 - [Mankey](../pokemon/mankey.md)
 - [Nincada](../pokemon/nincada.md)

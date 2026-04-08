@@ -1,14 +1,14 @@
 # Cascoon
 
-<img src="../img/pokemon/268.png" width="150" />
+![cascoon](../img/pokemon/268.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" />
+![bug](../img/types/bug.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/266.png" width="40" /> **[Silcoon]( silcoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/267.png" width="40" /> **[Beautifly]( beautifly.md)**
+![wurmple](../img/pokemon/265.png){ width=40 } **[Wurmple](../pokemon/wurmple.md)** ➡️ Lv. 7 ➡️ ![silcoon](../img/pokemon/266.png){ width=40 } **[Silcoon](../pokemon/silcoon.md)** ➡️ Lv. 10 ➡️ ![beautifly](../img/pokemon/267.png){ width=40 } **[Beautifly](../pokemon/beautifly.md)**
 
-<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/268.png" width="40" /> **[Cascoon]( cascoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/269.png" width="40" /> **[Dustox]( dustox.md)**
+![wurmple](../img/pokemon/265.png){ width=40 } **[Wurmple](../pokemon/wurmple.md)** ➡️ Lv. 7 ➡️ ![cascoon](../img/pokemon/268.png){ width=40 } **[Cascoon](../pokemon/cascoon.md)** ➡️ Lv. 10 ➡️ ![dustox](../img/pokemon/269.png){ width=40 } **[Dustox](../pokemon/dustox.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -19,9 +19,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
-|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![flying](../img/types/flying.png){ width=40 } |  |
+|  | ![ground](../img/types/ground.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,16 +34,16 @@
 | Speed | 15 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:7.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 
 ## Locations
-Evolve from [Wurmple]( wurmple.md)
+Evolve from [Wurmple](../pokemon/wurmple.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Harden](../moves/harden.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 30 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Harden](../moves/harden.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |
-| <img src="../img/types/electric.png" width="40" alt="electric" /> | [Electroweb](../moves/electroweb.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
-| <img src="../img/types/steel.png" width="40" alt="steel" /> | [Iron defense](../moves/iron-defense.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
+| ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| ![electric](../img/types/electric.png){ width=40 } | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| ![steel](../img/types/steel.png){ width=40 } | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |

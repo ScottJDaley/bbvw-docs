@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 85  
 **PP:** 20  
@@ -20,7 +20,7 @@ User receives 1/4 the damage it inflicts in recoil.
 - [Audino](../pokemon/audino.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beldum](../pokemon/beldum.md)
 - [Bibarel](../pokemon/bibarel.md)

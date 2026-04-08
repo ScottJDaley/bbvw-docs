@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/ground.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![ground](../img/types/ground.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 55  
 **Accuracy:** 95  
 **PP:** 15  
@@ -14,7 +14,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bouffalant](../pokemon/bouffalant.md)
 - [Gible](../pokemon/gible.md)
 - [Goldeen](../pokemon/goldeen.md)

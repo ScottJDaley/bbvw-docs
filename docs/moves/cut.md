@@ -2,8 +2,8 @@
 
 **TM/HM:** HM01
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 95  
 **PP:** 30  
@@ -25,7 +25,7 @@ Inflicts regular damage with no additional effect.
 - [Axew](../pokemon/axew.md)
 - [Bagon](../pokemon/bagon.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)
 - [Beedrill](../pokemon/beedrill.md)

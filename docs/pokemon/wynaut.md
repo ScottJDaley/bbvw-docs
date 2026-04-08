@@ -1,12 +1,12 @@
 # Wynaut
 
-<img src="../img/pokemon/360.png" width="150" />
+![wynaut](../img/pokemon/360.png){ width=150 }
 
 ## Type
-<img src="../img/types/psychic.png" width="60" />
+![psychic](../img/types/psychic.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/360.png" width="40" /> **[Wynaut]( wynaut.md)** ➡️ Lv. 15 ➡️ <img src="../img/pokemon/202.png" width="40" /> **[Wobbuffet]( wobbuffet.md)**
+![wynaut](../img/pokemon/360.png){ width=40 } **[Wynaut](../pokemon/wynaut.md)** ➡️ Lv. 15 ➡️ ![wobbuffet](../img/pokemon/202.png){ width=40 } **[Wobbuffet](../pokemon/wobbuffet.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,9 +17,9 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
-|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
-|  |  | <img src='../img/types/dark.png' width='40' /> |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![bug](../img/types/bug.png){ width=40 } |  |
+|  | ![psychic](../img/types/psychic.png){ width=40 } | ![ghost](../img/types/ghost.png){ width=40 } |  |
+|  |  | ![dark](../img/types/dark.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,15 +34,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | ![tower, normal](../img/items/grass-normal.png){ width=20 } Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Splash](../moves/splash.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 40 |  |
-| 1 | <img src="../img/types/fairy.png" width="40" alt="fairy" /> | [Charm](../moves/charm.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 20 |  |
-| 1 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [Encore](../moves/encore.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 5 |  |
-| 15 | <img src="../img/types/fighting.png" width="40" alt="fighting" /> | [Counter](../moves/counter.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |  |
-| 15 | <img src="../img/types/ghost.png" width="40" alt="ghost" /> | [Destiny bond](../moves/destiny-bond.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |  |
-| 15 | <img src="../img/types/normal.png" width="40" alt="normal" /> | [TM20 Safeguard](../moves/safeguard.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 25 |  |
-| 15 | <img src="../img/types/psychic.png" width="40" alt="psychic" /> | [Mirror coat](../moves/mirror-coat.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | - | 100 | 20 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Splash](../moves/splash.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |  |
+| 1 | ![fairy](../img/types/fairy.png){ width=40 } | [Charm](../moves/charm.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
+| 1 | ![normal](../img/types/normal.png){ width=40 } | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |  |
+| 15 | ![fighting](../img/types/fighting.png){ width=40 } | [Counter](../moves/counter.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
+| 15 | ![ghost](../img/types/ghost.png){ width=40 } | [Destiny bond](../moves/destiny-bond.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |  |
+| 15 | ![normal](../img/types/normal.png){ width=40 } | [TM20 Safeguard](../moves/safeguard.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 25 |  |
+| 15 | ![psychic](../img/types/psychic.png){ width=40 } | [Mirror coat](../moves/mirror-coat.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |

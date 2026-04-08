@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 35  
@@ -17,7 +17,7 @@ Inflicts regular damage with no additional effect.
 - [Aron](../pokemon/aron.md)
 - [Azumarill](../pokemon/azumarill.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Bibarel](../pokemon/bibarel.md)

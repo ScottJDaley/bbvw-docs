@@ -2,8 +2,8 @@
 
 **TM/HM:** TM06
 
-**Type:** <img src="../img/types/poison.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![poison](../img/types/poison.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 90  
 **PP:** 10  
@@ -45,7 +45,7 @@ Badly poisons the target, inflicting more damage every turn.
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM18
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 5  
@@ -39,7 +39,7 @@ Changes the weather to rain for five turns.
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beartic](../pokemon/beartic.md)
 - [Beheeyem](../pokemon/beheeyem.md)

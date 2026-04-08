@@ -2,8 +2,8 @@
 
 **TM/HM:** TM82
 
-**Type:** <img src="../img/types/dragon.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![dragon](../img/types/dragon.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 90  
 **PP:** 10  

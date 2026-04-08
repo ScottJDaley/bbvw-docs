@@ -2,8 +2,8 @@
 
 **TM/HM:** TM14
 
-**Type:** <img src="../img/types/ice.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![ice](../img/types/ice.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 110  
 **Accuracy:** 70  
 **PP:** 5  

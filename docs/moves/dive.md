@@ -2,8 +2,8 @@
 
 **TM/HM:** HM06
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  
@@ -16,7 +16,7 @@ User dives underwater, dodging all attacks, and hits next turn.
 - [Azumarill](../pokemon/azumarill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Blastoise](../pokemon/blastoise.md)

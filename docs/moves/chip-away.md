@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 20  
@@ -13,7 +13,7 @@ Ignores the target’s stat modifiers.
 
 ## Learned by
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Conkeldurr](../pokemon/conkeldurr.md)
 - [Corphish](../pokemon/corphish.md)
 - [Cranidos](../pokemon/cranidos.md)

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM12
 
-**Type:** <img src="../img/types/dark.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![dark](../img/types/dark.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 20  
@@ -25,7 +25,7 @@ For the next few turns, the target can only use damaging moves.
 - [Azelf](../pokemon/azelf.md)
 - [Banette](../pokemon/banette.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)

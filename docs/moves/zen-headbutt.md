@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/psychic.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![psychic](../img/types/psychic.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 90  
 **PP:** 15  
@@ -21,7 +21,7 @@ Has a $effect_chance% chance to make the target flinch.
 - [Bagon](../pokemon/bagon.md)
 - [Baltoy](../pokemon/baltoy.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beheeyem](../pokemon/beheeyem.md)
 - [Beldum](../pokemon/beldum.md)
 - [Blastoise](../pokemon/blastoise.md)

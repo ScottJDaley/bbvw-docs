@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/water.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![water](../img/types/water.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 35  
 **Accuracy:** 85  
 **PP:** 15  
@@ -14,7 +14,7 @@ Prevents the target from leaving battle and inflicts 1/16 its max HP in damage f
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Buizel](../pokemon/buizel.md)
 - [Chinchou](../pokemon/chinchou.md)
 - [Clamperl](../pokemon/clamperl.md)

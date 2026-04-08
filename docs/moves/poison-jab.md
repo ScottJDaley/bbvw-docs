@@ -2,8 +2,8 @@
 
 **TM/HM:** TM84
 
-**Type:** <img src="../img/types/poison.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![poison](../img/types/poison.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 20  

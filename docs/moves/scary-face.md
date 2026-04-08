@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/normal.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![normal](../img/types/normal.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 10  
@@ -19,7 +19,7 @@ Lowers the target’s Speed by two stages.
 - [Axew](../pokemon/axew.md)
 - [Bagon](../pokemon/bagon.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bisharp](../pokemon/bisharp.md)
 - [Bouffalant](../pokemon/bouffalant.md)
 - [Braviary](../pokemon/braviary.md)

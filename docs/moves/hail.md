@@ -2,8 +2,8 @@
 
 **TM/HM:** TM07
 
-**Type:** <img src="../img/types/ice.png" width="60" />  
-**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** ![ice](../img/types/ice.png){ width=60 }  
+**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 10  
@@ -21,7 +21,7 @@ Changes the weather to a hailstorm for five turns.
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Beartic](../pokemon/beartic.md)
 - [Blastoise](../pokemon/blastoise.md)
 - [Blissey](../pokemon/blissey.md)

@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="../img/types/flying.png" width="60" />  
-**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** ![flying](../img/types/flying.png){ width=60 }  
+**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
 **Power:** 85  
 **Accuracy:** 85  
 **PP:** 5  
@@ -23,7 +23,7 @@ User bounces high into the air, dodging all attacks, and hits next turn.
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Blaziken](../pokemon/blaziken.md)
 - [Blitzle](../pokemon/blitzle.md)
 - [Buneary](../pokemon/buneary.md)

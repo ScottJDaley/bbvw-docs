@@ -2,8 +2,8 @@
 
 **TM/HM:** TM13
 
-**Type:** <img src="../img/types/ice.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![ice](../img/types/ice.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  
@@ -25,7 +25,7 @@ Has a $effect_chance% chance to freeze the target.
 - [Baltoy](../pokemon/baltoy.md)
 - [Barboach](../pokemon/barboach.md)
 - [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Basculin-red-striped](../pokemon/basculin.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)

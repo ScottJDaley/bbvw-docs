@@ -2,8 +2,8 @@
 
 **TM/HM:** TM91
 
-**Type:** <img src="../img/types/steel.png" width="60" />  
-**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** ![steel](../img/types/steel.png){ width=60 }  
+**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  

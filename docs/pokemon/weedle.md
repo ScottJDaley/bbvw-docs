@@ -1,12 +1,12 @@
 # Weedle
 
-<img src="../img/pokemon/013.png" width="150" />
+![weedle](../img/pokemon/013.png){ width=150 }
 
 ## Type
-<img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
+![bug](../img/types/bug.png){ width=60 } ![poison](../img/types/poison.png){ width=60 }
 
 ## Evolution
-<img src="../img/pokemon/013.png" width="40" /> **[Weedle]( weedle.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/014.png" width="40" /> **[Kakuna]( kakuna.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/015.png" width="40" /> **[Beedrill]( beedrill.md)**
+![weedle](../img/pokemon/013.png){ width=40 } **[Weedle](../pokemon/weedle.md)** ➡️ Lv. 7 ➡️ ![kakuna](../img/pokemon/014.png){ width=40 } **[Kakuna](../pokemon/kakuna.md)** ➡️ Lv. 10 ➡️ ![beedrill](../img/pokemon/015.png){ width=40 } **[Beedrill](../pokemon/beedrill.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,10 +17,10 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
-|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
-|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
-|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | ![grass](../img/types/grass.png){ width=40 } | ![fire](../img/types/fire.png){ width=40 } |  |
+|  | ![fighting](../img/types/fighting.png){ width=40 } | ![flying](../img/types/flying.png){ width=40 } |  |
+|  | ![poison](../img/types/poison.png){ width=40 } | ![psychic](../img/types/psychic.png){ width=40 } |  |
+|  | ![bug](../img/types/bug.png){ width=40 } | ![rock](../img/types/rock.png){ width=40 } |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,17 +35,17 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 2](../routes/route-2.md) | ![grass, normal](../img/items/grass-normal.png){ width=20 } Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [Bug bite](../moves/bug-bite.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 | <span style="background:#1976d2; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">SHIFTED (from 15)</span> |
-| 1 | <img src="../img/types/poison.png" width="40" alt="poison" /> | [Poison sting](../moves/poison-sting.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 15 | 100 | 35 |  |
-| 1 | <img src="../img/types/bug.png" width="40" alt="bug" /> | [String shot](../moves/string-shot.md) | <img src="../img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 95 | 40 |  |
-| 6 | <img src="../img/types/poison.png" width="40" alt="poison" /> | [Poison tail](../moves/poison-tail.md) | <img src="../img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 100 | 25 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| 1 | ![bug](../img/types/bug.png){ width=40 } | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 | <span style="background:#1976d2; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">SHIFTED (from 15)</span> |
+| 1 | ![poison](../img/types/poison.png){ width=40 } | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |  |
+| 1 | ![bug](../img/types/bug.png){ width=40 } | [String shot](../moves/string-shot.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |  |
+| 6 | ![poison](../img/types/poison.png){ width=40 } | [Poison tail](../moves/poison-tail.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/types/electric.png" width="40" alt="electric" /> | [Electroweb](../moves/electroweb.md) | <img src="../img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
+| ![electric](../img/types/electric.png){ width=40 } | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
