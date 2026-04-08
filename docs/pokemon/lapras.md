@@ -36,8 +36,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Victory Road](../routes/victory-road.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Victory Road](../routes/victory-road.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

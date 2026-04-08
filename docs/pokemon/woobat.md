@@ -36,12 +36,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

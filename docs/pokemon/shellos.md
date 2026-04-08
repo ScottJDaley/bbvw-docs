@@ -36,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 3](../routes/route-3.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

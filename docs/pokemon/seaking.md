@@ -36,12 +36,12 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
+| [Route 6](../routes/route-6.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
 | [Route 11](../routes/route-11.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
 | [Route 14](../routes/route-14.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 | [Route 14](../routes/route-14.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

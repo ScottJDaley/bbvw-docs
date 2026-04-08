@@ -34,8 +34,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
+| [Route 7](../routes/route-7.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
+| [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
 | [Route 11](../routes/route-11.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
 | [Route 15](../routes/route-15.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
 

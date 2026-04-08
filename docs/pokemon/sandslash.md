@@ -34,11 +34,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Route 10](../routes/route-10.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

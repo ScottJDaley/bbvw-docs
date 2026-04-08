@@ -39,10 +39,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Relic Castle 1F](../routes/relic-castle-1f.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 10% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

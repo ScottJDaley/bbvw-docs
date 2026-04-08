@@ -34,8 +34,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 9% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 9% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 9% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 9% |
 | [Route 13](../routes/route-13.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
 
 ## Level Up Moves

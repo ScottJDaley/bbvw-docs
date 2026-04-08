@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Route 1](../routes/route-1.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 | [Route 14](../routes/route-14.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
 
 ## Level Up Moves

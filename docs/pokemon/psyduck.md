@@ -37,9 +37,9 @@
 | --- | --- | --- |
 | [Striaton City](../routes/striaton-city.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [Route 3](../routes/route-3.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 90% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 90% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

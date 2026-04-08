@@ -37,8 +37,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Route 6](../routes/route-6.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Route 6](../routes/route-6.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

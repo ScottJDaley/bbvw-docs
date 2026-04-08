@@ -35,11 +35,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Route 6](../routes/route-6.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Route 6](../routes/route-6.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Victory Road](../routes/victory-road.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Victory Road](../routes/victory-road.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

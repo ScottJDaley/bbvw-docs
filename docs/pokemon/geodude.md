@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -37,10 +37,10 @@
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [Route 17](../routes/route-17.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 40% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

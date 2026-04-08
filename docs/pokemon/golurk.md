@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 50% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 50% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

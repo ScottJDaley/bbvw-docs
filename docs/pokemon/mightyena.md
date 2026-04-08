@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
+| [Route 1](../routes/route-1.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves

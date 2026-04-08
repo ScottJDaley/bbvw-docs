@@ -35,7 +35,7 @@
 | [Route 5](../routes/route-5.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 | [Route 17](../routes/route-17.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Route 17](../routes/route-17.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -36,12 +36,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 | [Route 11](../routes/route-11.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

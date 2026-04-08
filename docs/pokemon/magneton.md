@@ -41,9 +41,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

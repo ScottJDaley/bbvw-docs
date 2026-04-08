@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 100% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

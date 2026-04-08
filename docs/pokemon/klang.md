@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

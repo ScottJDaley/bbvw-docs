@@ -35,19 +35,19 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Route 1](../routes/route-1.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Route 1](../routes/route-1.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Route 1](../routes/route-1.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 | [Striaton City](../routes/striaton-city.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Victory Road](../routes/victory-road.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Victory Road](../routes/victory-road.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 | [Route 11](../routes/route-11.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Route 11](../routes/route-11.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
 | [Village Bridge](../routes/village-bridge.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Village Bridge](../routes/village-bridge.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Route 14](../routes/route-14.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Route 14](../routes/route-14.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |

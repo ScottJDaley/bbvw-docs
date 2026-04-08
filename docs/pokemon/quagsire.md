@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle, normal](../img/items/grass-normal.png) Puddle, Normal | 5% |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle, normal](../img/items/grass-normal.png) Puddle, Normal | 20% |
 

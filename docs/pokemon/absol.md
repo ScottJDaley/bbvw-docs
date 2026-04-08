@@ -33,9 +33,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 10% |
 | [Route 13](../routes/route-13.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

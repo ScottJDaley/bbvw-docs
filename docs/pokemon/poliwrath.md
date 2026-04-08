@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

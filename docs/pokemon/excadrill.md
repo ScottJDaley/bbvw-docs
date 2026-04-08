@@ -38,17 +38,17 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 100% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 100% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

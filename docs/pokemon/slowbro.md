@@ -40,7 +40,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 3](../routes/route-3.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 5% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
 
 ## Level Up Moves

@@ -1,6 +1,6 @@
 # Route 4
 
-## ![sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
+## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
@@ -12,32 +12,16 @@
 | ![Vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) | 10% |
 | ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 5% |
 | ![Elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) | 5% |
-
-## ![surf, normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 |  | [Frillish](../pokemon/frillish.md) | 60% |
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 30% |
 | ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
-
-## ![surf, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 |  | [Jellicent](../pokemon/jellicent.md) | 60% |
 | ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 30% |
 | ![Huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) | 5% |
 | ![Gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) | 5% |
-
-## ![fish, normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 60% |
 | ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30% |
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 10% |
-
-## ![fish, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 60% |
 |  | [Frillish](../pokemon/frillish.md) | 30% |
 | ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |

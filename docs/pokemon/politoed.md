@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 | [Route 14](../routes/route-14.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

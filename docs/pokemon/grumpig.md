@@ -34,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 | [Route 14](../routes/route-14.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves

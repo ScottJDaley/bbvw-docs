@@ -37,10 +37,10 @@
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
 | [Route 17](../routes/route-17.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

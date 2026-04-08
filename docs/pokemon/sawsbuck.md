@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Route 6](../routes/route-6.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Route 6](../routes/route-6.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

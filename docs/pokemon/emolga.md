@@ -38,9 +38,9 @@
 | --- | --- | --- |
 | [Route 5](../routes/route-5.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 20% |
 | [Route 16](../routes/route-16.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 30% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
+| [Route 7](../routes/route-7.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 30% |
 | [Route 11](../routes/route-11.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
 | [Village Bridge](../routes/village-bridge.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
 | [Route 12](../routes/route-12.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 95% |

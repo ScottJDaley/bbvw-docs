@@ -32,9 +32,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 90% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
+| [Route 10](../routes/route-10.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 90% |
 | [Village Bridge](../routes/village-bridge.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 75% |
 | [Route 14](../routes/route-14.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 75% |
 

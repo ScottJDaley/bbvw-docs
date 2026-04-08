@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle, normal](../img/items/grass-normal.png) Puddle, Normal | 10% |
 
 ## Level Up Moves

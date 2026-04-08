@@ -34,12 +34,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 | [Village Bridge](../routes/village-bridge.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

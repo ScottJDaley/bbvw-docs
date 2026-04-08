@@ -39,7 +39,7 @@
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
 | [Route 13](../routes/route-13.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Route 13](../routes/route-13.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Marvelous Bridge](../routes/marvelous-bridge.md) | ![bridge, special](../img/items/grass-special.png) Bridge, Special | 20% |
 
 ## Level Up Moves

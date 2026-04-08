@@ -35,8 +35,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Cold Storage](../routes/cold-storage.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 | [Route 14](../routes/route-14.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves

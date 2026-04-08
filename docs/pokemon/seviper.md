@@ -36,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 16](../routes/route-16.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Route 10](../routes/route-10.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Village Bridge](../routes/village-bridge.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

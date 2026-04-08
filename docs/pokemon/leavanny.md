@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
+| [Route 6](../routes/route-6.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

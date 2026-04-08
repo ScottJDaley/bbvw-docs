@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 20% |
+| [Route 7](../routes/route-7.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

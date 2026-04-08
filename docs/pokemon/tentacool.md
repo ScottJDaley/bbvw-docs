@@ -38,11 +38,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Driftveil City](../routes/driftveil-city.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
 | [Route 17](../routes/route-17.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

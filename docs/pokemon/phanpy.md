@@ -35,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 3](../routes/route-3.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

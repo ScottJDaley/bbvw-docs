@@ -35,10 +35,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
+| [Route 1](../routes/route-1.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
 | [Striaton City](../routes/striaton-city.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 100% |
 | [Route 3](../routes/route-3.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -35,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 4](../routes/route-4.md) | ![sand](../img/items/grass-normal.png) Sand | 5% |
-| [Desert Resort Entrance](../routes/desert-resort-entrance.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

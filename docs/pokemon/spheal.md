@@ -35,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Route 6](../routes/route-6.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
+| [Route 6](../routes/route-6.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

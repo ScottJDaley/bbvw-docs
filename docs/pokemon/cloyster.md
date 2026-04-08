@@ -35,10 +35,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 100% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 100% |
 | [Route 13](../routes/route-13.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 | [Undella Town](../routes/undella-town.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Undella Bay](../routes/undella-bay.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

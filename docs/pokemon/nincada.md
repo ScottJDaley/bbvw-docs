@@ -38,7 +38,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 2](../routes/route-2.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Route 7](../routes/route-7.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

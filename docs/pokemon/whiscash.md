@@ -35,15 +35,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 100% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 100% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
+| [Victory Road](../routes/victory-road.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

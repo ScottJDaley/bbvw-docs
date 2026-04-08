@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 95% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 65% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 95% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 65% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

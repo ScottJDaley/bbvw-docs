@@ -42,8 +42,8 @@
 | [Undella Town](../routes/undella-town.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 | [Undella Town](../routes/undella-town.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
 | [Undella Town](../routes/undella-town.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
+| [Undella Bay](../routes/undella-bay.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
+| [Undella Bay](../routes/undella-bay.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

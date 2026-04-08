@@ -35,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
+| [Route 6](../routes/route-6.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Route 6](../routes/route-6.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 | [Route 14](../routes/route-14.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 
 ## Level Up Moves

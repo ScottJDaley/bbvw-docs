@@ -36,12 +36,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Route 1](../routes/route-1.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 100% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
+| [Victory Road](../routes/victory-road.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Victory Road](../routes/victory-road.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

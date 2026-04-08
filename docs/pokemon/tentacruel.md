@@ -43,7 +43,7 @@
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 | [Village Bridge](../routes/village-bridge.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 | [Route 13](../routes/route-13.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

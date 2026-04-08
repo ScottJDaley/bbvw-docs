@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Route 1](../routes/route-1.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 100% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 

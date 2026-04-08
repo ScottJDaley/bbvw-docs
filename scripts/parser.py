@@ -7,6 +7,7 @@ DATA_DIR = "scripts/data"
 def normalize_name(name):
     if not name: return ""
     name = name.replace('NidoranM', 'nidoran-m').replace('NidoranF', 'nidoran-f')
+    name = name.replace('Mime Jr.', 'mime-jr').replace('Mr. Mime', 'mr-mime')
     if name.lower().startswith('basculin'): return 'basculin'
     return name.lower().replace(' ', '-').replace('.', '').replace("'", "").replace('’', '').replace('♂', '-m').replace('♀', '-f').replace('/', '-').replace('–', '-').strip()
 
@@ -69,37 +70,51 @@ def parse_wild_pokemon():
     
     sections = re.split(r'={10,}', content)
     for section in sections:
-        # User says: route name has three line breaks after it
-        # Let's try splitting by \n\n\n
-        blocks = re.split(r'\n\n\n', section.strip())
-        if not blocks: continue
+        section = section.strip()
+        if not section: continue
         
+        # Split by blocks (triple newline or double newline)
+        blocks = re.split(r'\n\s*\n', section)
         main_area_name = ""
+        route_data = None
+
         for block in blocks:
             block = block.strip()
             if not block: continue
-            
             lines = [l.strip() for l in block.split('\n') if l.strip()]
             if not lines: continue
             
-            # Legendary check
-            if "LEGENDARY ENCOUNTER" in lines[0] or "SPECIAL ENCOUNTER" in lines[0]:
-                if routes:
-                    routes[-1]['specials'].append(block)
+            # Skip fluff
+            if any(x in lines[0] for x in ["Wild Pokémon", "Recall that", "Serebii.net", "649", "Note that", "Special' refers", "Thanks go to", "You won’t be able", "There are a couple"]):
                 continue
 
-            # Check if this block is encounters (contains ":")
+            # Legendary/Special
+            if "LEGENDARY ENCOUNTER" in lines[0] or "SPECIAL ENCOUNTER" in lines[0]:
+                if route_data: route_data['specials'].append(block)
+                continue
+
+            # If it's a name block (no colons)
+            if not any(":" in l for l in lines):
+                potential_name = lines[0]
+                if not main_area_name:
+                    main_area_name = potential_name
+                    clean_name = re.split(r' – | \dF| B\dF| Inside| Outside', main_area_name)[0].strip()
+                    route_data = next((r for r in routes if r['name'] == clean_name), None)
+                    if not route_data:
+                        route_data = {'name': clean_name, 'sections': [], 'specials': []}
+                        routes.append(route_data)
+                continue
+
+            # If it's an encounter block (has colons)
             if any(":" in l for l in lines):
-                # This is an encounter block
+                if not route_data: continue
+                
                 encounters = []
-                # If first line has no colon, it might be a sub-area name
+                title = "General"
+                start_idx = 0
                 if ":" not in lines[0]:
-                    sub_area = lines[0]
-                    route_name = f"{main_area_name} {sub_area}" if main_area_name and sub_area != main_area_name else (sub_area if sub_area else main_area_name)
+                    title = lines[0]
                     start_idx = 1
-                else:
-                    route_name = main_area_name
-                    start_idx = 0
                 
                 for line in lines[start_idx:]:
                     enc_match = re.match(r'([^:]+):\s+(.+)', line)
@@ -110,18 +125,8 @@ def parse_wild_pokemon():
                         for pkmn, rate in pkmns:
                             encounters.append({'method': method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
                 
-                if encounters and route_name:
-                    routes.append({'name': route_name.strip(), 'encounters': encounters, 'specials': []})
-            else:
-                # This is likely a new area name block
-                potential_name = lines[0]
-                if any(x in potential_name for x in ["Wild Pokémon", "Recall that", "Serebii.net", "649", "Note that", "Special refers"]):
-                    if len(lines) > 1:
-                        main_area_name = lines[1]
-                    else:
-                        continue
-                else:
-                    main_area_name = potential_name
+                if encounters:
+                    route_data['sections'].append({'title': title, 'encounters': encounters})
                     
     return routes
 

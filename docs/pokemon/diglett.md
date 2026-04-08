@@ -34,10 +34,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 40% |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 40% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
+| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 50% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

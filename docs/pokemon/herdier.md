@@ -32,11 +32,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Route 1](../routes/route-1.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 | [Cold Storage](../routes/cold-storage.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 | [Cold Storage](../routes/cold-storage.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| [Route 10](../routes/route-10.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

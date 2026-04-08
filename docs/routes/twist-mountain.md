@@ -1,120 +1,124 @@
 # Twist Mountain
 
-## <img src='../img/items/cave-normal.png' width='30' style='vertical-align:middle;' /> Cave, Normal
+## ![1F - All Seasons](../img/items/grass-normal.png){ style='vertical-align:middle;' } 1F - All Seasons
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/231.png" width="40" /> | [Phanpy](../pokemon/phanpy.md) | 20% |
-| <img src="../img/pokemon/216.png" width="40" /> | [Teddiursa](../pokemon/teddiursa.md) | 20% |
-| <img src="../img/pokemon/613.png" width="40" /> | [Cubchoo](../pokemon/cubchoo.md) | 10% |
-| <img src="../img/pokemon/215.png" width="40" /> | [Sneasel](../pokemon/sneasel.md) | 10% |
-| <img src="../img/pokemon/225.png" width="40" /> | [Delibird](../pokemon/delibird.md) | 10% |
-| <img src="../img/pokemon/220.png" width="40" /> | [Swinub](../pokemon/swinub.md) | 10% |
-| <img src="../img/pokemon/075.png" width="40" /> | [Graveler](../pokemon/graveler.md) | 5% |
-| <img src="../img/pokemon/525.png" width="40" /> | [Boldore](../pokemon/boldore.md) | 5% |
-| <img src="../img/pokemon/615.png" width="40" /> | [Cryogonal](../pokemon/cryogonal.md) | 5% |
-| <img src="../img/pokemon/533.png" width="40" /> | [Gurdurr](../pokemon/gurdurr.md) | 5% |
-| <img src="../img/pokemon/232.png" width="40" /> | [Donphan](../pokemon/donphan.md) | 20% |
-| <img src="../img/pokemon/217.png" width="40" /> | [Ursaring](../pokemon/ursaring.md) | 20% |
-| <img src="../img/pokemon/614.png" width="40" /> | [Beartic](../pokemon/beartic.md) | 10% |
-| <img src="../img/pokemon/215.png" width="40" /> | [Sneasel](../pokemon/sneasel.md) | 10% |
-| <img src="../img/pokemon/225.png" width="40" /> | [Delibird](../pokemon/delibird.md) | 10% |
-| <img src="../img/pokemon/221.png" width="40" /> | [Piloswine](../pokemon/piloswine.md) | 10% |
-| <img src="../img/pokemon/303.png" width="40" /> | [Mawile](../pokemon/mawile.md) | 5% |
-| <img src="../img/pokemon/302.png" width="40" /> | [Sableye](../pokemon/sableye.md) | 5% |
-| <img src="../img/pokemon/615.png" width="40" /> | [Cryogonal](../pokemon/cryogonal.md) | 5% |
-| <img src="../img/pokemon/632.png" width="40" /> | [Durant](../pokemon/durant.md) | 5% |
+| ![Phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) | 20% |
+| ![Teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) | 20% |
+| ![Cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) | 10% |
+| ![Sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) | 10% |
+| ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 10% |
+| ![Swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) | 10% |
+| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 5% |
+| ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 5% |
+| ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
+| ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 5% |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Cave, Special
+## ![Not 1F - All Seasons](../img/items/grass-normal.png){ style='vertical-align:middle;' } Not 1F - All Seasons
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| <img src="../img/pokemon/530.png" width="40" /> | [Excadrill](../pokemon/excadrill.md) | 50% |
-| <img src="../img/pokemon/051.png" width="40" /> | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-| <img src="../img/pokemon/530.png" width="40" /> | [Excadrill](../pokemon/excadrill.md) | 50% |
-| <img src="../img/pokemon/051.png" width="40" /> | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+| ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 20% |
+| ![Ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 20% |
+| ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 10% |
+| ![Sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) | 10% |
+| ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 10% |
+| ![Piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 10% |
+| ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 5% |
+| ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 5% |
+| ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
+| ![Durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 5% |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
 
 
 ## Trainers
 ### Hiker Terrell
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/219.png" width="40" /> | [Magcargo](../pokemon/magcargo.md) | 45 | - | - |  |
-| <img src="../img/pokemon/260.png" width="40" /> | [Swampert](../pokemon/swampert.md) | 45 | - | - |  |
+| ![Magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) | 45 | - | - |  |
+| ![Swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 45 | - | - |  |
 
 ### Black Belt Teppei
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/068.png" width="40" /> | [Machamp](../pokemon/machamp.md) | 54 | - | - |  |
+| ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 54 | - | - |  |
 
 ### Worker Rich
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/362.png" width="40" /> | [Glalie](../pokemon/glalie.md) | 53 | - | - |  |
-| <img src="../img/pokemon/115.png" width="40" /> | [Kangaskhan](../pokemon/kangaskhan.md) | 53 | - | - |  |
+| ![Glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) | 53 | - | - |  |
+| ![Kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 53 | - | - |  |
 
 ### Worker Rob
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/375.png" width="40" /> | [Metang](../pokemon/metang.md) | 54 | - | - |  |
-| <img src="../img/pokemon/454.png" width="40" /> | [Toxicroak](../pokemon/toxicroak.md) | 54 | - | - |  |
-| <img src="../img/pokemon/308.png" width="40" /> | [Medicham](../pokemon/medicham.md) | 54 | - | - |  |
+| ![Metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) | 54 | - | - |  |
+| ![Toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) | 54 | - | - |  |
+| ![Medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) | 54 | - | - |  |
 
 ### Worker Cairn
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/530.png" width="40" /> | [Excadrill](../pokemon/excadrill.md) | 53 | - | - |  |
-| <img src="../img/pokemon/297.png" width="40" /> | [Hariyama](../pokemon/hariyama.md) | 53 | - | - |  |
-| <img src="../img/pokemon/051.png" width="40" /> | [Dugtrio](../pokemon/dugtrio.md) | 53 | - | - |  |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 53 | - | - |  |
+| ![Hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) | 53 | - | - |  |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 53 | - | - |  |
 
 ### Doctor Hank
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/124.png" width="40" /> | [Jynx](../pokemon/jynx.md) | 53 | - | - |  |
-| <img src="../img/pokemon/122.png" width="40" /> | [Mr. Mime](../pokemon/mr-mime.md) | 53 | - | - |  |
-| <img src="../img/pokemon/202.png" width="40" /> | [Wobbuffet](../pokemon/wobbuffet.md) | 53 | - | - |  |
+| ![Jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) | 53 | - | - |  |
+| ![Mr. Mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 53 | - | - |  |
+| ![Wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 53 | - | - |  |
 
 ### Hiker Neil
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/525.png" width="40" /> | [Boldore](../pokemon/boldore.md) | 52 | - | - |  |
-| <img src="../img/pokemon/476.png" width="40" /> | [Probopass](../pokemon/probopass.md) | 52 | - | - |  |
-| <img src="../img/pokemon/526.png" width="40" /> | [Gigalith](../pokemon/gigalith.md) | 52 | - | - |  |
+| ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 52 | - | - |  |
+| ![Probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) | 52 | - | - |  |
+| ![Gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) | 52 | - | - |  |
 
 ### Hiker Darrell
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/185.png" width="40" /> | [Sudowoodo](../pokemon/sudowoodo.md) | 52 | - | - |  |
-| <img src="../img/pokemon/042.png" width="40" /> | [Golbat](../pokemon/golbat.md) | 52 | - | - |  |
-| <img src="../img/pokemon/558.png" width="40" /> | [Crustle](../pokemon/crustle.md) | 52 | - | - |  |
+| ![Sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 52 | - | - |  |
+| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 52 | - | - |  |
+| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 52 | - | - |  |
 
 ### Battle Girl Sharon
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/620.png" width="40" /> | [Mienshao](../pokemon/mienshao.md) | 54 | - | - |  |
-| <img src="../img/pokemon/286.png" width="40" /> | [Breloom](../pokemon/breloom.md) | 54 | - | - |  |
+| ![Mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) | 54 | - | - |  |
+| ![Breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) | 54 | - | - |  |
 
 ### Ace Trainer Caroll
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/368.png" width="40" /> | [Gorebyss](../pokemon/gorebyss.md) | 55 | - | - |  |
-| <img src="../img/pokemon/157.png" width="40" /> | [Typhlosion](../pokemon/typhlosion.md) | 55 | - | - |  |
-| <img src="../img/pokemon/212.png" width="40" /> | [Scizor](../pokemon/scizor.md) | 55 | - | - |  |
+| ![Gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) | 55 | - | - |  |
+| ![Typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | 55 | - | - |  |
+| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 55 | - | - |  |
 
 ### Worker Brand
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/028.png" width="40" /> | [Sandslash](../pokemon/sandslash.md) | 53 | - | - |  |
-| <img src="../img/pokemon/528.png" width="40" /> | [Swoobat](../pokemon/swoobat.md) | 53 | - | - |  |
+| ![Sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 53 | - | - |  |
+| ![Swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) | 53 | - | - |  |
 
 ### Worker Heath
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/067.png" width="40" /> | [Machoke](../pokemon/machoke.md) | 53 | - | - |  |
+| ![Machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) | 53 | - | - |  |
 |  | [Darmanitan](../pokemon/darmanitan.md) | 53 | - | - |  |
 
 ### Ace Trainer Jordan
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/523.png" width="40" /> | [Zebstrika](../pokemon/zebstrika.md) | 55 | - | - |  |
-| <img src="../img/pokemon/512.png" width="40" /> | [Simisage](../pokemon/simisage.md) | 55 | - | - |  |
-| <img src="../img/pokemon/469.png" width="40" /> | [Yanmega](../pokemon/yanmega.md) | 55 | - | - |  |
+| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 55 | - | - |  |
+| ![Simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) | 55 | - | - |  |
+| ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 55 | - | - |  |
 

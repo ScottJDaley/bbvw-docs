@@ -38,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

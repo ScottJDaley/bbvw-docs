@@ -35,8 +35,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 5](../routes/route-5.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
+| [Route 10](../routes/route-10.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
 | [Route 11](../routes/route-11.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

@@ -34,7 +34,7 @@ New: ![grass](../img/types/grass.png) ![dragon](../img/types/dragon.png)
 | Speed | 113 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:56.49999999999999%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 
 ## Locations
-Evolve from [Servine]( servine.md)
+Evolve from [Servine](../pokemon/servine.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

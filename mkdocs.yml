@@ -709,51 +709,51 @@ nav:
       - Genesect: pokemon/genesect.md
   - Routes:
     - routes/index.md
-    - Recall that no shaking grass will appear until after the first badge has been obtained!: routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md
+    - Route 1: routes/route-1.md
     - Route 2: routes/route-2.md
     - Striaton City: routes/striaton-city.md
     - Dreamyard: routes/dreamyard.md
     - Route 3: routes/route-3.md
-    - Wellspring Cave 1F 1F: routes/wellspring-cave-1f-1f.md
-    - Pinwheel Forest Outside: routes/pinwheel-forest-outside.md
+    - Wellspring Cave: routes/wellspring-cave.md
+    - Pinwheel Forest: routes/pinwheel-forest.md
+    - Liberty Garden: routes/liberty-garden.md
     - Route 4: routes/route-4.md
-    - Desert Resort Entrance: routes/desert-resort-entrance.md
-    - Relic Castle 1F: routes/relic-castle-1f.md
+    - Desert Resort: routes/desert-resort.md
+    - Relic Castle: routes/relic-castle.md
     - Route 5: routes/route-5.md
     - Route 16: routes/route-16.md
     - Lostlorn Forest: routes/lostlorn-forest.md
     - Driftveil Drawbidge: routes/driftveil-drawbidge.md
     - Driftveil City: routes/driftveil-city.md
     - Cold Storage: routes/cold-storage.md
-    - Route 6 – Spring / Summer / Autumn: routes/route-6---spring---summer---autumn.md
-    - Chargestone Cave 1F: routes/chargestone-cave-1f.md
-    - Route 7 – All Seasons: routes/route-7---all-seasons.md
-    - Celestial Tower 2F, 3F: routes/celestial-tower-2f,-3f.md
-    - Route 17: routes/route-17.md
+    - Route 6: routes/route-6.md
+    - Chargestone Cave: routes/chargestone-cave.md
+    - Route 7: routes/route-7.md
+    - Celestial Tower: routes/celestial-tower.md
     - Route 17: routes/route-17.md
     - P2 Laboratory: routes/p2-laboratory.md
-    - Mistralton Cave 1F – 2F: routes/mistralton-cave-1f---2f.md
-    - Twist Mountain 1F - All Seasons: routes/twist-mountain-1f---all-seasons.md
+    - Mistralton Cave: routes/mistralton-cave.md
+    - Twist Mountain: routes/twist-mountain.md
     - Icirrus City, Route 8: routes/icirrus-city,-route-8.md
     - Moor of Icirrus: routes/moor-of-icirrus.md
-    - Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn: routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md
+    - Dragonspiral Tower: routes/dragonspiral-tower.md
     - Route 9: routes/route-9.md
-    - Route 10 Main Route: routes/route-10-main-route.md
-    - Victory Road Outside: routes/victory-road-outside.md
+    - Route 10: routes/route-10.md
+    - Victory Road: routes/victory-road.md
+    - N’s Castle: routes/ns-castle.md
     - Route 11: routes/route-11.md
     - Village Bridge: routes/village-bridge.md
     - Route 12: routes/route-12.md
     - Route 13: routes/route-13.md
-    - Giant Chasm – Outside Area: routes/giant-chasm---outside-area.md
-    - Giant Chasm – Outside Area: routes/giant-chasm---outside-area.md
-    - Giant Chasm – Outside Area: routes/giant-chasm---outside-area.md
+    - Giant Chasm: routes/giant-chasm.md
     - Undella Town: routes/undella-town.md
-    - Undella Bay All Seasons: routes/undella-bay-all-seasons.md
+    - Undella Bay: routes/undella-bay.md
     - Route 14: routes/route-14.md
     - Abundant Shrine: routes/abundant-shrine.md
+    - Black City / White Forest: routes/black-city---white-forest.md
     - Route 15: routes/route-15.md
     - Marvelous Bridge: routes/marvelous-bridge.md
-    - Challenger’s Cave – All Floors 1F: routes/challengers-cave---all-floors-1f.md
+    - Challenger’s Cave: routes/challengers-cave.md
   - Moves:
     - moves/index.md
     - Absorb: moves/absorb.md

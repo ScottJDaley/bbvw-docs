@@ -29,8 +29,8 @@ TYPE_CHART = {
 
 def normalize_name(name):
     if not name: return ""
-    # Map NidoranM/F if they appear without symbols
     name = name.replace('NidoranM', 'nidoran-m').replace('NidoranF', 'nidoran-f')
+    name = name.replace('Mime Jr.', 'mime-jr').replace('Mr. Mime', 'mr-mime')
     if name.lower().startswith('basculin'): return 'basculin'
     return name.lower().replace(' ', '-').replace('.', '').replace("'", "").replace('’', '').replace('♂', '-m').replace('♀', '-f').replace('/', '-').replace('–', '-').strip()
 
@@ -218,7 +218,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
                 if res: return res
             return None
         base_pkmn = find_base(chain, p_base['name'])
-        if base_pkmn: md += f"Evolve from [{base_pkmn.capitalize()}]( {normalize_name(base_pkmn)}.md)\n"
+        if base_pkmn: md += f"Evolve from [{base_pkmn.capitalize()}](../pokemon/{normalize_name(base_pkmn)}.md)\n"
         else: md += "No known wild location.\n"
     md += "\n"
 
@@ -289,13 +289,8 @@ def generate_ability_page(name, ability_info, pokemon_list):
 
 def generate_route_page(name, route_data, base_data, trainer_data):
     md = f"# {name}\n\n"
-    methods = {}
-    for enc in route_data['encounters']:
-        m = enc['method']
-        if m not in methods: methods[m] = []
-        methods[m].append(enc)
-    for m, encs in methods.items():
-        m_lower = m.lower()
+    for sec in route_data['sections']:
+        m_lower = sec['title'].lower()
         icon = "grass-normal.png"
         if 'doubles' in m_lower: icon = "grass-doubles.png"
         elif 'special' in m_lower: icon = "grass-special.png"
@@ -305,9 +300,9 @@ def generate_route_page(name, route_data, base_data, trainer_data):
         elif 'fish' in m_lower: icon = "fishing-normal.png"
         elif 'cave special' in m_lower: icon = "cave-special.png"
         elif 'cave' in m_lower: icon = "cave-normal.png"
-        md += f"## ![{m_lower}](../img/items/{icon}){{ style='vertical-align:middle;' }} {m}\n"
+        md += f"## ![{sec['title']}](../img/items/{icon}){{ style='vertical-align:middle;' }} {sec['title']}\n"
         md += "| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
-        for enc in encs:
+        for enc in sec['encounters']:
             p_norm = normalize_name(enc['pokemon'])
             p_info = base_data.get(p_norm)
             sprite = f'![{enc["pokemon"]}](../img/pokemon/{p_info["id"]:03}.png)' if p_info else ""
@@ -338,10 +333,11 @@ if __name__ == "__main__":
     if 'basculin-red-striped' in base['pokemon']: base['pokemon']['basculin'] = base['pokemon']['basculin-red-striped']
     locations = {}
     for r_data in romhack['wild_pokemon']:
-        for enc in r_data['encounters']:
-            p_norm = normalize_name(enc['pokemon'])
-            if p_norm not in locations: locations[p_norm] = []
-            locations[p_norm].append({'route': r_data['name'], 'method': enc['method'], 'rate': enc['rate']})
+        for sec in r_data['sections']:
+            for enc in sec['encounters']:
+                p_norm = normalize_name(enc['pokemon'])
+                if p_norm not in locations: locations[p_norm] = []
+                locations[p_norm].append({'route': r_data['name'], 'method': enc['method'], 'rate': enc['rate']})
     if not os.path.exists("docs/pokemon"): os.makedirs("docs/pokemon")
     pkmn_list = sorted(base['pokemon'].values(), key=lambda x: x['id'])
     for p in pkmn_list:

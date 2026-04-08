@@ -38,7 +38,7 @@ New: ![ice](../img/types/ice.png) ![rock](../img/types/rock.png)
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

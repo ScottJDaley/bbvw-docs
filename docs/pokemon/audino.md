@@ -32,27 +32,27 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
+| [Route 1](../routes/route-1.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
 | [Route 2](../routes/route-2.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 60% |
 | [Dreamyard](../routes/dreamyard.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 40% |
 | [Route 3](../routes/route-3.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 50% |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 40% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 50% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 40% |
 | [Route 5](../routes/route-5.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 40% |
 | [Route 16](../routes/route-16.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 40% |
 | [Cold Storage](../routes/cold-storage.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 90% |
-| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 60% |
+| [Route 7](../routes/route-7.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 60% |
 | [Route 17](../routes/route-17.md) | ![shaking grass](../img/items/grass-normal.png) Shaking Grass | 90% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 95% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
 | [Route 9](../routes/route-9.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 90% |
-| [Route 10 Main Route](../routes/route-10-main-route.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 100% |
+| [Route 10](../routes/route-10.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 100% |
 | [Route 11](../routes/route-11.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
 | [Route 13](../routes/route-13.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 80% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
 | [Route 15](../routes/route-15.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
 

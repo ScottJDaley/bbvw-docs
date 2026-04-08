@@ -38,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
-| [Victory Road Outside](../routes/victory-road-outside.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
+| [Victory Road](../routes/victory-road.md) | ![cave, special](../img/items/grass-special.png) Cave, Special | 25% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

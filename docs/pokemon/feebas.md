@@ -35,9 +35,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
+| [Route 1](../routes/route-1.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
+| [Route 1](../routes/route-1.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
+| [Route 1](../routes/route-1.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

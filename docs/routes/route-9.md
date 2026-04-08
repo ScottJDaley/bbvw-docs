@@ -1,6 +1,6 @@
 # Route 9
 
-## ![grass, normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
+## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) | 20% |
@@ -11,10 +11,6 @@
 | ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10% |
 | ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 10% |
 | ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 10% |
-
-## ![grass, doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 20% |
 | ![Luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) | 20% |
 | ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 10% |
@@ -23,13 +19,16 @@
 | ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 10% |
 | ![Houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 10% |
 | ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 10% |
-
-## ![grass, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 90% |
 | ![Gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) | 5% |
 | ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 5% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+
+!!! info
+    LEGENDARY ENCOUNTER
 
 
 ## Trainers

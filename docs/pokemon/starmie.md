@@ -38,7 +38,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 13](../routes/route-13.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

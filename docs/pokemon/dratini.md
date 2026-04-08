@@ -35,11 +35,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
+| [Route 1](../routes/route-1.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 30% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 | [Route 11](../routes/route-11.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 
 ## Level Up Moves

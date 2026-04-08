@@ -39,7 +39,7 @@
 | [Driftveil City](../routes/driftveil-city.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 | [Driftveil City](../routes/driftveil-city.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 10% |
 | [Route 17](../routes/route-17.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Undella Bay](../routes/undella-bay.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
+| [Route 1](../routes/route-1.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
 | [Striaton City](../routes/striaton-city.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 100% |
 | [Route 3](../routes/route-3.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
 | [Route 3](../routes/route-3.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 10% |

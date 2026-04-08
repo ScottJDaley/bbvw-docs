@@ -34,8 +34,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, shaking](../img/items/grass-normal.png) Grass, Shaking | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -35,16 +35,16 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Route 1](../routes/route-1.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
+| [Route 6](../routes/route-6.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 30% |
 | [Route 11](../routes/route-11.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
 | [Route 11](../routes/route-11.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 | [Route 14](../routes/route-14.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
 | [Route 14](../routes/route-14.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 90% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 90% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

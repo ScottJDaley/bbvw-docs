@@ -40,8 +40,8 @@
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
 | [Route 13](../routes/route-13.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

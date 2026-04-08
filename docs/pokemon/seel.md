@@ -35,9 +35,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Route 6](../routes/route-6.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
+| [Route 6](../routes/route-6.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

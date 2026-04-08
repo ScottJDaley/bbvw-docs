@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort Entrance](../routes/desert-resort-entrance.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 30% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower, normal](../img/items/grass-normal.png) Tower, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

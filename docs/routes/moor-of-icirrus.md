@@ -1,6 +1,6 @@
 # Moor of Icirrus
 
-## ![puddle, normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Puddle, Normal
+## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) | 20% |
@@ -11,31 +11,19 @@
 | ![Weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) | 10% |
 | ![Muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 10% |
 | ![Palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 10% |
-
-## ![surf, normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 60% |
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 40% |
-
-## ![surf, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 60% |
 | ![Seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | 40% |
-
-## ![fish, normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 70% |
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
-
-## ![fish, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 60% |
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
 
 
 ## Trainers

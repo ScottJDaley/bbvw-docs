@@ -38,7 +38,7 @@
 | [Route 3](../routes/route-3.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 | [Route 11](../routes/route-11.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -35,9 +35,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

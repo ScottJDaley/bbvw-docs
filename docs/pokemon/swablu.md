@@ -35,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | ![bridge, special](../img/items/grass-special.png) Bridge, Special | 20% |
-| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -36,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 17](../routes/route-17.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 60% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
+| [Undella Bay](../routes/undella-bay.md) | ![surf, special](../img/items/grass-special.png) Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

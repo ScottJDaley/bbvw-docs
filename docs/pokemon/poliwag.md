@@ -38,8 +38,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 3](../routes/route-3.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 40% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 65% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 40% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 65% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

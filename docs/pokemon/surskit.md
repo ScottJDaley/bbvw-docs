@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 100% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 100% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

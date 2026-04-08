@@ -1,6 +1,6 @@
 # Route 2
 
-## ![grass, normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
+## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) | 20% |
@@ -13,10 +13,6 @@
 | ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 5% |
 | ![Spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) | 5% |
 | ![Mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) | 5% |
-
-## ![grass, special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 60% |
 | ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10% |
 | ![Nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) | 10% |

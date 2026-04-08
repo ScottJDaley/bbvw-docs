@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | [Route 2](../routes/route-2.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 10% |
 | [Route 9](../routes/route-9.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

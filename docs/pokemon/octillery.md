@@ -36,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Undella Town](../routes/undella-town.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
-| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
+| [Undella Bay](../routes/undella-bay.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

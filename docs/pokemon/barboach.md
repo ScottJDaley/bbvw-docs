@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
+| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish, special](../img/items/grass-special.png) Fish, Special | 60% |

@@ -36,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 5](../routes/route-5.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
