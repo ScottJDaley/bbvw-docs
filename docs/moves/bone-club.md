@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/ground.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/ground.png" width="60" />  
+**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 65  
 **Accuracy:** 85  
 **PP:** 20  
@@ -12,5 +12,5 @@
 Has a $effect_chance% chance to make the target flinch.
 
 ## Learned by
-- [Cubone](pokemon/cubone.md)
-- [Marowak](pokemon/marowak.md)
+- [Cubone](../pokemon/cubone.md)
+- [Marowak](../pokemon/marowak.md)

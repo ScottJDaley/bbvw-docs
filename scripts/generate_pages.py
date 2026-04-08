@@ -52,19 +52,19 @@ def get_move_display(m_name, move_data, move_stat_changes):
     def format_stat(stat_name, base_val):
         rom_val = m_rom.get(stat_name)
         if rom_val:
-            return f'<span class="change-new">{rom_val["new"]}</span> <span class="change-old">{rom_val["old"]}</span>'
+            return f'<span style="color:green; font-weight:bold;">{rom_val["new"]}</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">{rom_val["old"]}</span>'
         return str(base_val or '-')
 
     power = format_stat('power', m_info['power'])
     acc = format_stat('accuracy', m_info['accuracy'])
     
-    type_icon = f'<img src="img/types/{m_info["type"]}.png" width="40" alt="{m_info["type"]}" />'
-    cat_icon = f'<img src="img/types/{m_info["damage_class"]}.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="{m_info["damage_class"]}" />'
+    type_icon = f'<img src="../img/types/{m_info["type"]}.png" width="40" alt="{m_info["type"]}" />'
+    cat_icon = f'<img src="../img/types/{m_info["damage_class"]}.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="{m_info["damage_class"]}" />'
     
     tm_num = m_info.get('tm_num', '')
     display_name = f"{tm_num + ' ' if tm_num else ''}{m_info['name'].replace('-', ' ').capitalize()}"
     
-    return f"| {type_icon} | [{display_name}](moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
+    return f"| {type_icon} | [{display_name}](../moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
 
 def get_full_evolution_chain(p_base):
     chain = p_base['evolution_chain']['chain']
@@ -73,7 +73,6 @@ def get_full_evolution_chain(p_base):
     def traverse(node, stage_idx):
         if len(stages) <= stage_idx: stages.append([])
         name = node['species']['name']
-        
         method = "First Stage"
         if node['evolution_details']:
             d = node['evolution_details'][0]
@@ -105,7 +104,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     p_moves_rom = rom_data['move_changes'].get(name, [])
     
     md = f"# {name.capitalize()}\n\n"
-    md += f'<img src="img/pokemon/{p_base["id"]:03}.png" width="150" />\n\n'
+    md += f'<img src="../img/pokemon/{p_base["id"]:03}.png" width="150" />\n\n'
     
     # Types
     types_orig = p_base['types']
@@ -113,10 +112,10 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     curr_types = types_new if types_new else types_orig
     md += "## Type\n"
     if types_new and types_new != types_orig:
-        md += "Original: " + ' '.join([f'<img src="img/types/{t}.png" width="60" />' for t in types_orig]) + "  \n"
-        md += "New: " + ' '.join([f'<img src="img/types/{t}.png" width="60" />' for t in types_new]) + "\n\n"
+        md += "Original: " + ' '.join([f'<img src="../img/types/{t}.png" width="60" />' for t in types_orig]) + "  \n"
+        md += "New: " + ' '.join([f'<img src="../img/types/{t}.png" width="60" />' for t in types_new]) + "\n\n"
     else:
-        md += ' '.join([f'<img src="img/types/{t}.png" width="60" />' for t in types_orig]) + "\n\n"
+        md += ' '.join([f'<img src="../img/types/{t}.png" width="60" />' for t in types_orig]) + "\n\n"
         
     # Evolution
     md += "## Evolution\n"
@@ -126,14 +125,14 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         stage_md = []
         for p in stage:
             p_info = base_data.get(p['name'])
-            sprite = f'<img src="img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
+            sprite = f'<img src="../img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
             method_text = f" ({p['method']})" if i > 0 else ""
             rom_evo = ""
             if p_rom.get('evolution'):
                 for re in p_rom['evolution']:
                     if re['target'] and re['target'].lower() == p['name'].lower():
-                        rom_evo = f'<br/><span class="change-new-label">NEW: {re["method"]}</span>'
-            stage_md.append(f"{sprite} **[{p['name'].capitalize()}](pokemon/{p['name']}.md)**{method_text}{rom_evo}")
+                        rom_evo = f'<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: {re["method"]}</span>'
+            stage_md.append(f"{sprite} **[{p['name'].capitalize()}]( {p['name']}.md)**{method_text}{rom_evo}")
         md += " | ".join(stage_md)
     md += "\n\n"
 
@@ -145,7 +144,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     def get_ab_info(ab_name):
         norm = ab_name.lower().replace(' ', '-')
         desc = ability_data.get(norm, {}).get('description', '')
-        return f"**[{ab_name}](abilities/{norm}.md)**: {desc}"
+        return f"**[{ab_name}](../abilities/{norm}.md)**: {desc}"
     md += "| Slot | Original | New |\n"
     md += "| --- | --- | --- |\n"
     orig1 = orig_abs[0] if len(orig_abs) > 0 else "-"
@@ -162,7 +161,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     md += "| Type | Effectiveness |\n"
     md += "| --- | --- |\n"
     for t, v in sorted(eff.items(), key=lambda x: x[1], reverse=True):
-        if v != 1.0: md += f"| <img src='img/types/{t}.png' width='40' /> | x{v} |\n"
+        if v != 1.0: md += f"| <img src='../img/types/{t}.png' width='40' /> | x{v} |\n"
     md += "\n"
 
     # Base Stats
@@ -177,9 +176,9 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         new_val = new_data['new'] if new_data else orig_val
         display_val = f"{new_val}"
         if new_data:
-            display_val = f'<span class="change-new">{new_val}</span> <span class="change-old">{orig_val}</span>'
+            display_val = f'<span style="color:green; font-weight:bold;">{new_val}</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">{orig_val}</span>'
         bar_width = min(100, (new_val / 200) * 100)
-        bar = f'<div class="stat-bar-bg"><div class="stat-bar-fill" style="width:{bar_width}%"></div></div>'
+        bar = f'<div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:{bar_width}%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div>'
         md += f"| {stat.capitalize().replace('-', ' ')} | {display_val} | {bar} |\n"
     md += "\n"
     
@@ -200,7 +199,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             elif 'fish' in m_lower: icon = "fishing-normal.png"
             elif 'cave special' in m_lower: icon = "cave-special.png"
             elif 'cave' in m_lower: icon = "cave-normal.png"
-            md += f"| [{loc['route']}](routes/{fname}.md) | <img src='img/items/{icon}' width='20' /> {loc['method']} | {loc['rate']}% |\n"
+            md += f"| [{loc['route']}](../routes/{fname}.md) | <img src='../img/items/{icon}' width='20' /> {loc['method']} | {loc['rate']}% |\n"
         md += "\n"
 
     # Level Up Moves
@@ -226,11 +225,11 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
         marker = m.get('marker', '')
         change_text = ""
-        if marker in ['+', '-']: change_text = '<span class="change-new-label">NEW</span>'
-        elif marker == 'REMOVED': change_text = '<span class="change-old-label">REMOVED</span>'
+        if marker in ['+', '-']: change_text = '<span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span>'
+        elif marker == 'REMOVED': change_text = '<span style="background:#c62828; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">REMOVED</span>'
         elif marker == '=':
             old_lv = next((x['level'] for x in base_lv_moves if x['name'] == m['name']), "?")
-            change_text = f'<span class="change-move-shifted">SHIFTED (from {old_lv})</span>'
+            change_text = f'<span style="background:#1976d2; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">SHIFTED (from {old_lv})</span>'
         md += f"| {m['level']} {row} {change_text} |\n"
     
     # Separated Learnable Moves
@@ -263,26 +262,26 @@ def generate_move_page(name, move_info, pokemon_list, m_rom):
     md = f"# {name.replace('-', ' ').capitalize()}\n\n"
     def format_stat(stat_name, base_val):
         rom_val = m_rom.get(stat_name)
-        if rom_val: return f'<span class="change-new">{rom_val["new"]}</span> <span class="change-old">{rom_val["old"]}</span>'
+        if rom_val: return f'<span style="color:green; font-weight:bold;">{rom_val["new"]}</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">{rom_val["old"]}</span>'
         return str(base_val or '-')
     power = format_stat('power', move_info['power'])
     acc = format_stat('accuracy', move_info['accuracy'])
     md += f"**TM/HM:** {move_info.get('tm_num', '-')}\n\n"
-    md += f"**Type:** <img src=\"img/types/{move_info['type']}.png\" width=\"60\" />  \n"
-    md += f"**Category:** <img src=\"img/types/{move_info['damage_class']}.png\" width=\"50\" style=\"object-fit:contain;\" />  \n"
+    md += f"**Type:** <img src=\"../img/types/{move_info['type']}.png\" width=\"60\" />  \n"
+    md += f"**Category:** <img src=\"../img/types/{move_info['damage_class']}.png\" width=\"50\" style=\"object-fit:contain;\" />  \n"
     md += f"**Power:** {power}  \n"
     md += f"**Accuracy:** {acc}  \n"
     md += f"**PP:** {move_info['pp']}  \n\n"
     md += f"## Description\n{move_info['description']}\n\n"
     md += "## Learned by\n"
-    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](pokemon/{p}.md)\n"
+    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{p}.md)\n"
     return md
 
 def generate_ability_page(name, ability_info, pokemon_list):
     md = f"# {name.replace('-', ' ').capitalize()}\n\n"
     md += f"## Description\n{ability_info['description']}\n\n"
     md += "## Pokemon with this Ability\n"
-    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](pokemon/{p}.md)\n"
+    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{p}.md)\n"
     return md
 
 def generate_route_page(name, route_data, base_data, trainer_data):
@@ -303,14 +302,14 @@ def generate_route_page(name, route_data, base_data, trainer_data):
         elif 'fish' in m_lower: icon = "fishing-normal.png"
         elif 'cave special' in m_lower: icon = "cave-special.png"
         elif 'cave' in m_lower: icon = "cave-normal.png"
-        md += f"## <img src='img/items/{icon}' width='30' style='vertical-align:middle;' /> {m}\n"
+        md += f"## <img src='../img/items/{icon}' width='30' style='vertical-align:middle;' /> {m}\n"
         md += "| Sprite | Pokemon | Rate |\n"
         md += "| --- | --- | --- |\n"
         for enc in encs:
             p_name = enc['pokemon'].lower().replace(' ', '-').replace('.', '')
             p_info = base_data.get(p_name)
-            sprite = f'<img src="img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
-            md += f"| {sprite} | [{enc['pokemon']}](pokemon/{p_name}.md) | {enc['rate']}% |\n"
+            sprite = f'<img src="../img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
+            md += f"| {sprite} | [{enc['pokemon']}](../pokemon/{p_name}.md) | {enc['rate']}% |\n"
         md += "\n"
     location_trainers = trainer_data.get(name)
     if location_trainers:
@@ -322,7 +321,7 @@ def generate_route_page(name, route_data, base_data, trainer_data):
             for p in trainer['pokemon']:
                 p_norm = p['name'].lower().replace(' ', '-').replace('.', '')
                 p_base = base_data.get(p_norm)
-                sprite = f'<img src="img/pokemon/{p_base["id"]:03}.png" width="40" />' if p_base else ""
+                sprite = f'<img src="../img/pokemon/{p_base["id"]:03}.png" width="40" />' if p_base else ""
                 md += f"| {sprite} | {p['name']} | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
             md += "\n"
     return md
@@ -363,18 +362,4 @@ if __name__ == "__main__":
         md = generate_route_page(r_name, r_data, base['pokemon'], romhack['trainers'])
         fname = r_name.lower().replace(' ', '_').replace('’', '').replace("'", "").replace('/', '_')
         with open(os.path.join("docs/routes", f"{fname}.md"), 'w') as f: f.write(md)
-    with open("docs/_sidebar.md", 'w') as f:
-        f.write("- [Home](README.md)\n")
-        f.write("- **Pokemon**\n")
-        pkmn_list = sorted(base['pokemon'].values(), key=lambda x: x['id'])
-        gens = [("Gen 1 (1-151)", 1, 151), ("Gen 2 (152-251)", 152, 251), ("Gen 3 (252-386)", 252, 386), ("Gen 4 (387-493)", 387, 493), ("Gen 5 (494-649)", 494, 649)]
-        for g_name, start, end in gens:
-            f.write(f"  - {g_name}\n")
-            for p in pkmn_list:
-                if start <= p['id'] <= end: f.write(f"    - [{p['name'].capitalize()}](pokemon/{p['name']}.md)\n")
-        f.write("- **Routes**\n")
-        for r_data in romhack['wild_pokemon']:
-            r_name = r_data['name']
-            fname = r_name.lower().replace(' ', '_').replace('’', '').replace("'", "").replace('/', '_')
-            f.write(f"  - [{r_name}](routes/{fname}.md)\n")
     print("All pages generated.")

@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/steel.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/steel.png" width="60" />  
+**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 50  
 **Accuracy:** 85  
 **PP:** 15  
@@ -12,6 +12,6 @@
 Hits twice in one turn.
 
 ## Learned by
-- [Klang](pokemon/klang.md)
-- [Klink](pokemon/klink.md)
-- [Klinklang](pokemon/klinklang.md)
+- [Klang](../pokemon/klang.md)
+- [Klink](../pokemon/klink.md)
+- [Klinklang](../pokemon/klinklang.md)

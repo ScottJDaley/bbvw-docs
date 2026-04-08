@@ -4,4 +4,4 @@
 Changes the bearer's type to match each move it uses.
 
 ## Pokemon with this Ability
-- [Kecleon](pokemon/kecleon.md)
+- [Kecleon](../pokemon/kecleon.md)

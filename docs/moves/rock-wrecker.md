@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/rock.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/rock.png" width="60" />  
+**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  
@@ -12,6 +12,6 @@
 User foregoes its next turn to recharge.
 
 ## Learned by
-- [Crustle](pokemon/crustle.md)
-- [Dwebble](pokemon/dwebble.md)
-- [Rhyperior](pokemon/rhyperior.md)
+- [Crustle](../pokemon/crustle.md)
+- [Dwebble](../pokemon/dwebble.md)
+- [Rhyperior](../pokemon/rhyperior.md)

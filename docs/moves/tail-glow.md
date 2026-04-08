@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/bug.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/bug.png" width="60" />  
+**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 20  
@@ -12,5 +12,5 @@
 Raises the user’s Special Attack by three stages.
 
 ## Learned by
-- [Manaphy](pokemon/manaphy.md)
-- [Volbeat](pokemon/volbeat.md)
+- [Manaphy](../pokemon/manaphy.md)
+- [Volbeat](../pokemon/volbeat.md)

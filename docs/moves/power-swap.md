@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/psychic.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/psychic.png" width="60" />  
+**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 10  
@@ -12,17 +12,17 @@
 User swaps Attack and Special Attack changes with the target.
 
 ## Learned by
-- [Accelgor](pokemon/accelgor.md)
-- [Elgyem](pokemon/elgyem.md)
-- [Espeon](pokemon/espeon.md)
-- [Exeggcute](pokemon/exeggcute.md)
-- [Girafarig](pokemon/girafarig.md)
-- [Meditite](pokemon/meditite.md)
-- [Mewtwo](pokemon/mewtwo.md)
-- [Mr-mime](pokemon/mr-mime.md)
-- [Natu](pokemon/natu.md)
-- [Seedot](pokemon/seedot.md)
-- [Swablu](pokemon/swablu.md)
-- [Tangela](pokemon/tangela.md)
-- [Vulpix](pokemon/vulpix.md)
-- [Xatu](pokemon/xatu.md)
+- [Accelgor](../pokemon/accelgor.md)
+- [Elgyem](../pokemon/elgyem.md)
+- [Espeon](../pokemon/espeon.md)
+- [Exeggcute](../pokemon/exeggcute.md)
+- [Girafarig](../pokemon/girafarig.md)
+- [Meditite](../pokemon/meditite.md)
+- [Mewtwo](../pokemon/mewtwo.md)
+- [Mr-mime](../pokemon/mr-mime.md)
+- [Natu](../pokemon/natu.md)
+- [Seedot](../pokemon/seedot.md)
+- [Swablu](../pokemon/swablu.md)
+- [Tangela](../pokemon/tangela.md)
+- [Vulpix](../pokemon/vulpix.md)
+- [Xatu](../pokemon/xatu.md)

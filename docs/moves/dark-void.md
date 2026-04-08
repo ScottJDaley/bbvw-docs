@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/dark.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/dark.png" width="60" />  
+**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** 50  
 **PP:** 10  
@@ -12,4 +12,4 @@
 Puts the target to sleep.
 
 ## Learned by
-- [Darkrai](pokemon/darkrai.md)
+- [Darkrai](../pokemon/darkrai.md)

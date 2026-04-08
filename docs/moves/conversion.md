@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/normal.png" width="60" />  
-**Category:** <img src="img/types/status.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/normal.png" width="60" />  
+**Category:** <img src="../img/types/status.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 30  
@@ -12,6 +12,6 @@
 User’s type changes to the type of one of its moves at random.
 
 ## Learned by
-- [Porygon](pokemon/porygon.md)
-- [Porygon-z](pokemon/porygon-z.md)
-- [Porygon2](pokemon/porygon2.md)
+- [Porygon](../pokemon/porygon.md)
+- [Porygon-z](../pokemon/porygon-z.md)
+- [Porygon2](../pokemon/porygon2.md)

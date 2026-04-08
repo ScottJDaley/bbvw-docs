@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/ice.png" width="60" />  
-**Category:** <img src="img/types/physical.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/ice.png" width="60" />  
+**Category:** <img src="../img/types/physical.png" width="50" style="object-fit:contain;" />  
 **Power:** 85  
 **Accuracy:** 90  
 **PP:** 10  
@@ -12,6 +12,6 @@
 Has a $effect_chance% chance to make the target flinch.
 
 ## Learned by
-- [Beartic](pokemon/beartic.md)
-- [Cloyster](pokemon/cloyster.md)
-- [Swinub](pokemon/swinub.md)
+- [Beartic](../pokemon/beartic.md)
+- [Cloyster](../pokemon/cloyster.md)
+- [Swinub](../pokemon/swinub.md)

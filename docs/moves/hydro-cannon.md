@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/water.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/water.png" width="60" />  
+**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  
@@ -12,8 +12,8 @@
 User foregoes its next turn to recharge.
 
 ## Learned by
-- [Blastoise](pokemon/blastoise.md)
-- [Empoleon](pokemon/empoleon.md)
-- [Feraligatr](pokemon/feraligatr.md)
-- [Samurott](pokemon/samurott.md)
-- [Swampert](pokemon/swampert.md)
+- [Blastoise](../pokemon/blastoise.md)
+- [Empoleon](../pokemon/empoleon.md)
+- [Feraligatr](../pokemon/feraligatr.md)
+- [Samurott](../pokemon/samurott.md)
+- [Swampert](../pokemon/swampert.md)

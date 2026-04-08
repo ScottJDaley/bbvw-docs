@@ -4,4 +4,4 @@
 Powers up slicing moves.
 
 ## Pokemon with this Ability
-- [Gallade](pokemon/gallade.md)
+- [Gallade](../pokemon/gallade.md)

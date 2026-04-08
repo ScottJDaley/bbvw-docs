@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** <img src="img/types/fighting.png" width="60" />  
-**Category:** <img src="img/types/special.png" width="50" style="object-fit:contain;" />  
+**Type:** <img src="../img/types/fighting.png" width="60" />  
+**Category:** <img src="../img/types/special.png" width="50" style="object-fit:contain;" />  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 5  
@@ -12,19 +12,19 @@
 Inflicts damage equal to the user’s remaining HP.  User faints.
 
 ## Learned by
-- [Accelgor](pokemon/accelgor.md)
-- [Basculin-red-striped](pokemon/basculin-red-striped.md)
-- [Diglett](pokemon/diglett.md)
-- [Mankey](pokemon/mankey.md)
-- [Nincada](pokemon/nincada.md)
-- [Primeape](pokemon/primeape.md)
-- [Rattata](pokemon/rattata.md)
-- [Riolu](pokemon/riolu.md)
-- [Seviper](pokemon/seviper.md)
-- [Shelmet](pokemon/shelmet.md)
-- [Shuckle](pokemon/shuckle.md)
-- [Staraptor](pokemon/staraptor.md)
-- [Staravia](pokemon/staravia.md)
-- [Starly](pokemon/starly.md)
-- [Victini](pokemon/victini.md)
-- [Zangoose](pokemon/zangoose.md)
+- [Accelgor](../pokemon/accelgor.md)
+- [Basculin-red-striped](../pokemon/basculin-red-striped.md)
+- [Diglett](../pokemon/diglett.md)
+- [Mankey](../pokemon/mankey.md)
+- [Nincada](../pokemon/nincada.md)
+- [Primeape](../pokemon/primeape.md)
+- [Rattata](../pokemon/rattata.md)
+- [Riolu](../pokemon/riolu.md)
+- [Seviper](../pokemon/seviper.md)
+- [Shelmet](../pokemon/shelmet.md)
+- [Shuckle](../pokemon/shuckle.md)
+- [Staraptor](../pokemon/staraptor.md)
+- [Staravia](../pokemon/staravia.md)
+- [Starly](../pokemon/starly.md)
+- [Victini](../pokemon/victini.md)
+- [Zangoose](../pokemon/zangoose.md)

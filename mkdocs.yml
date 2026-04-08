@@ -1,0 +1,54 @@
+site_name: Pokemon Blaze Black & Volt White Documentation
+site_url: https://scottdaley.github.io/bbvw-docs/
+repo_url: https://github.com/scottdaley/bbvw-docs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  favicon: img/items/timer-ball.png
+  logo: img/items/timer-ball.png
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: README.md
+  - Pokemon: pokemon/
+  - Routes: routes/
+  - Moves: moves/
+  - Abilities: abilities/
