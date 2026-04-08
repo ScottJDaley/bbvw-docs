@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![electric](../img/types/electric.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![electric](../img/types/electric.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** -  
 **PP:** 20  

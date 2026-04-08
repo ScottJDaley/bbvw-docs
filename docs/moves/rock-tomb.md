@@ -2,8 +2,8 @@
 
 **TM/HM:** TM39
 
-**Type:** ![rock](../img/types/rock.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![rock](../img/types/rock.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 95  
 **PP:** 15  

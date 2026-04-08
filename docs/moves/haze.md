@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![ice](../img/types/ice.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![ice](../img/types/ice.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 30  

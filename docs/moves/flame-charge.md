@@ -2,8 +2,8 @@
 
 **TM/HM:** TM43
 
-**Type:** ![fire](../img/types/fire.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![fire](../img/types/fire.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 20  

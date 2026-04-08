@@ -2,8 +2,8 @@
 
 **TM/HM:** TM01
 
-**Type:** ![dark](../img/types/dark.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![dark](../img/types/dark.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 15  

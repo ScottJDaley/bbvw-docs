@@ -2,8 +2,8 @@
 
 **TM/HM:** TM51
 
-**Type:** ![psychic](../img/types/psychic.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![psychic](../img/types/psychic.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 15  

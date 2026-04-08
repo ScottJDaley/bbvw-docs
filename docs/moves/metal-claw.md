@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![steel](../img/types/steel.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![steel](../img/types/steel.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 95  
 **PP:** 35  

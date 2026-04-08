@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![normal](../img/types/normal.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![normal](../img/types/normal.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 55  
 **PP:** 15  

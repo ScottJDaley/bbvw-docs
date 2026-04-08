@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![fighting](../img/types/fighting.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![fighting](../img/types/fighting.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 90  
 **PP:** 10  

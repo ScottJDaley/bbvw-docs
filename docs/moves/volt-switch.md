@@ -2,8 +2,8 @@
 
 **TM/HM:** TM72
 
-**Type:** ![electric](../img/types/electric.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![electric](../img/types/electric.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 20  

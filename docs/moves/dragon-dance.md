@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![dragon](../img/types/dragon.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![dragon](../img/types/dragon.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 20  

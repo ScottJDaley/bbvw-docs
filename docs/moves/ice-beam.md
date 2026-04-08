@@ -2,8 +2,8 @@
 
 **TM/HM:** TM13
 
-**Type:** ![ice](../img/types/ice.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![ice](../img/types/ice.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  

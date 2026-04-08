@@ -2,8 +2,8 @@
 
 **TM/HM:** TM53
 
-**Type:** ![grass](../img/types/grass.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![grass](../img/types/grass.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  

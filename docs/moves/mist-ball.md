@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![psychic](../img/types/psychic.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![psychic](../img/types/psychic.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 95  
 **Accuracy:** 100  
 **PP:** 5  

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM93
 
-**Type:** ![electric](../img/types/electric.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![electric](../img/types/electric.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 15  

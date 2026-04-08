@@ -1,12 +1,12 @@
 # Smeargle
 
-![smeargle](../img/pokemon/235.png){ width=150 }
+![smeargle](../img/pokemon/235.png)
 
 ## Type
-![normal](../img/types/normal.png){ width=60 }
+![normal](../img/types/normal.png)
 
 ## Evolution
-![smeargle](../img/pokemon/235.png){ width=40 } **[Smeargle](../pokemon/smeargle.md)**
+![smeargle](../img/pokemon/235.png) **[Smeargle]( smeargle.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,7 +17,7 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-| ![ghost](../img/types/ghost.png){ width=40 } |  | ![fighting](../img/types/fighting.png){ width=40 } |  |
+| ![ghost](../img/types/ghost.png) |  | ![fighting](../img/types/fighting.png) |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,9 +32,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass, doubles](../img/items/grass-doubles.png){ width=20 } Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png){ width=40 } | [Sketch](../moves/sketch.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 1 |  |
+| 1 | ![normal](../img/types/normal.png) | [Sketch](../moves/sketch.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 1 |  |

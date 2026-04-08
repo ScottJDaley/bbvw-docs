@@ -2,8 +2,8 @@
 
 **TM/HM:** TM26
 
-**Type:** ![ground](../img/types/ground.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![ground](../img/types/ground.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 100  
 **PP:** 10  

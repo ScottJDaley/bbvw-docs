@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![flying](../img/types/flying.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![flying](../img/types/flying.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 140  
 **Accuracy:** 90  
 **PP:** 5  

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM37
 
-**Type:** ![rock](../img/types/rock.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![rock](../img/types/rock.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 10  

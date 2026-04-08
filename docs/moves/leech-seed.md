@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![grass](../img/types/grass.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![grass](../img/types/grass.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 90  
 **PP:** 10  

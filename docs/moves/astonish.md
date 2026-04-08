@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![ghost](../img/types/ghost.png){ width=60 }  
-**Category:** ![physical](../img/types/physical.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![ghost](../img/types/ghost.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 30  
 **Accuracy:** 100  
 **PP:** 15  

@@ -2,8 +2,8 @@
 
 **TM/HM:** TM08
 
-**Type:** ![fighting](../img/types/fighting.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![fighting](../img/types/fighting.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 20  

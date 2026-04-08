@@ -2,8 +2,8 @@
 
 **TM/HM:** TM11
 
-**Type:** ![fire](../img/types/fire.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![fire](../img/types/fire.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
 **PP:** 5  

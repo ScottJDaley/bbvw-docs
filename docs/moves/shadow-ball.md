@@ -2,8 +2,8 @@
 
 **TM/HM:** TM30
 
-**Type:** ![ghost](../img/types/ghost.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![ghost](../img/types/ghost.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  

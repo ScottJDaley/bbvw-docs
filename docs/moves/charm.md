@@ -2,8 +2,8 @@
 
 **TM/HM:** 
 
-**Type:** ![fairy](../img/types/fairy.png){ width=60 }  
-**Category:** ![status](../img/types/status.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![fairy](../img/types/fairy.png)  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  
 **PP:** 20  

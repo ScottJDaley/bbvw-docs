@@ -1,12 +1,12 @@
 # Magikarp
 
-![magikarp](../img/pokemon/129.png){ width=150 }
+![magikarp](../img/pokemon/129.png)
 
 ## Type
-![water](../img/types/water.png){ width=60 }
+![water](../img/types/water.png)
 
 ## Evolution
-![magikarp](../img/pokemon/129.png){ width=40 } **[Magikarp](../pokemon/magikarp.md)** ➡️ Lv. 20 ➡️ ![gyarados](../img/pokemon/130.png){ width=40 } **[Gyarados](../pokemon/gyarados.md)**
+![magikarp](../img/pokemon/129.png) **[Magikarp]( magikarp.md)** ➡️ Lv. 20 ➡️ ![gyarados](../img/pokemon/130.png) **[Gyarados]( gyarados.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -17,10 +17,10 @@
 ## Type Defenses
 | 0x | 0.5x | 2x | 4x |
 | --- | --- | --- | --- |
-|  | ![fire](../img/types/fire.png){ width=40 } | ![electric](../img/types/electric.png){ width=40 } |  |
-|  | ![water](../img/types/water.png){ width=40 } | ![grass](../img/types/grass.png){ width=40 } |  |
-|  | ![ice](../img/types/ice.png){ width=40 } |  |  |
-|  | ![steel](../img/types/steel.png){ width=40 } |  |  |
+|  | ![fire](../img/types/fire.png) | ![electric](../img/types/electric.png) |  |
+|  | ![water](../img/types/water.png) | ![grass](../img/types/grass.png) |  |
+|  | ![ice](../img/types/ice.png) |  |  |
+|  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,18 +35,18 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, normal](../img/items/fishing-normal.png){ width=20 } Fish, Normal | 30% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf, normal](../img/items/surf-normal.png){ width=20 } Surf, Normal | 100% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, normal](../img/items/fishing-normal.png){ width=20 } Fish, Normal | 30% |
+| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf, normal](../img/items/surf-normal.png) Surf, Normal | 100% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish, normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png){ width=40 } | [Splash](../moves/splash.md) | ![status](../img/types/status.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |  |
-| 15 | ![normal](../img/types/normal.png){ width=40 } | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 30 | ![normal](../img/types/normal.png){ width=40 } | [Flail](../moves/flail.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
+| 1 | ![normal](../img/types/normal.png) | [Splash](../moves/splash.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |  |
+| 15 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
+| 30 | ![normal](../img/types/normal.png) | [Flail](../moves/flail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
-| ![flying](../img/types/flying.png){ width=40 } | [Bounce](../moves/bounce.md) | ![physical](../img/types/physical.png){ width=30 style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |
+| ![flying](../img/types/flying.png) | [Bounce](../moves/bounce.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |

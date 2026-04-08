@@ -2,8 +2,8 @@
 
 **TM/HM:** HM03
 
-**Type:** ![water](../img/types/water.png){ width=60 }  
-**Category:** ![special](../img/types/special.png){ width=50 style='object-fit:contain;' }  
+**Type:** ![water](../img/types/water.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 15  
