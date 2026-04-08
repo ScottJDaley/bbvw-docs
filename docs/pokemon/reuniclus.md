@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/577.png" width="40" /> **[Solosis]( solosis.md)**  ➡️  <img src="../img/pokemon/578.png" width="40" /> **[Duosion]( duosion.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/579.png" width="40" /> **[Reuniclus]( reuniclus.md)** (Lv. 41)
+<img src="../img/pokemon/577.png" width="40" /> **[Solosis](../pokemon/solosis.md)**  ➡️  <img src="../img/pokemon/578.png" width="40" /> **[Duosion](../pokemon/duosion.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/579.png" width="40" /> **[Reuniclus](../pokemon/reuniclus.md)** (Lv. 41)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

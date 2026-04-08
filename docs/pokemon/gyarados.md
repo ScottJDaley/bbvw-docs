@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/129.png" width="40" /> **[Magikarp]( magikarp.md)**  ➡️  <img src="../img/pokemon/130.png" width="40" /> **[Gyarados]( gyarados.md)** (Lv. 20)
+<img src="../img/pokemon/129.png" width="40" /> **[Magikarp](../pokemon/magikarp.md)**  ➡️  <img src="../img/pokemon/130.png" width="40" /> **[Gyarados](../pokemon/gyarados.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,12 +39,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

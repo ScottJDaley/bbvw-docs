@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/298.png" width="40" /> **[Azurill]( azurill.md)**  ➡️  <img src="../img/pokemon/183.png" width="40" /> **[Marill]( marill.md)** (Happiness)  ➡️  <img src="../img/pokemon/184.png" width="40" /> **[Azumarill]( azumarill.md)** (Lv. 18)
+<img src="../img/pokemon/298.png" width="40" /> **[Azurill](../pokemon/azurill.md)**  ➡️  <img src="../img/pokemon/183.png" width="40" /> **[Marill](../pokemon/marill.md)** (Happiness)  ➡️  <img src="../img/pokemon/184.png" width="40" /> **[Azumarill](../pokemon/azumarill.md)** (Lv. 18)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

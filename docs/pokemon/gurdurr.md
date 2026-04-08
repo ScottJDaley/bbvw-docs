@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/532.png" width="40" /> **[Timburr]( timburr.md)**  ➡️  <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr]( gurdurr.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr]( conkeldurr.md)** (Trade)
+<img src="../img/pokemon/532.png" width="40" /> **[Timburr](../pokemon/timburr.md)**  ➡️  <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr](../pokemon/gurdurr.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr](../pokemon/conkeldurr.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,9 +36,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

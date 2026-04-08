@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/451.png" width="40" /> **[Skorupi]( skorupi.md)**  ➡️  <img src="../img/pokemon/452.png" width="40" /> **[Drapion]( drapion.md)** (Lv. 40)
+<img src="../img/pokemon/451.png" width="40" /> **[Skorupi](../pokemon/skorupi.md)**  ➡️  <img src="../img/pokemon/452.png" width="40" /> **[Drapion](../pokemon/drapion.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

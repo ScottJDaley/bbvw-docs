@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/258.png" width="40" /> **[Mudkip]( mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp]( marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert]( swampert.md)** (Lv. 36)
+<img src="../img/pokemon/258.png" width="40" /> **[Mudkip](../pokemon/mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp](../pokemon/marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert](../pokemon/swampert.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

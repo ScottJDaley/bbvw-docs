@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/369.png" width="40" /> **[Relicanth]( relicanth.md)**
+<img src="../img/pokemon/369.png" width="40" /> **[Relicanth](../pokemon/relicanth.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

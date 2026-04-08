@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/378.png" width="40" /> **[Regice]( regice.md)**
+<img src="../img/pokemon/378.png" width="40" /> **[Regice](../pokemon/regice.md)**
 
 ## Abilities
 | Slot | Original | New |

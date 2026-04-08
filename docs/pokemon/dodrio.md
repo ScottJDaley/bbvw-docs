@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/084.png" width="40" /> **[Doduo]( doduo.md)**  ➡️  <img src="../img/pokemon/085.png" width="40" /> **[Dodrio]( dodrio.md)** (Lv. 31)
+<img src="../img/pokemon/084.png" width="40" /> **[Doduo](../pokemon/doduo.md)**  ➡️  <img src="../img/pokemon/085.png" width="40" /> **[Dodrio](../pokemon/dodrio.md)** (Lv. 31)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

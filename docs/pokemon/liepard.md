@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/509.png" width="40" /> **[Purrloin]( purrloin.md)**  ➡️  <img src="../img/pokemon/510.png" width="40" /> **[Liepard]( liepard.md)** (Lv. 20)
+<img src="../img/pokemon/509.png" width="40" /> **[Purrloin](../pokemon/purrloin.md)**  ➡️  <img src="../img/pokemon/510.png" width="40" /> **[Liepard](../pokemon/liepard.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

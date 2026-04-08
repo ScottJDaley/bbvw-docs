@@ -1,6 +1,6 @@
 site_name: Pokemon Blaze Black & Volt White Documentation
-site_url: https://scottdaley.github.io/bbvw-docs/
-repo_url: https://github.com/scottdaley/bbvw-docs
+site_url: https://ScottJDaley.github.io/bbvw-docs/
+repo_url: https://github.com/ScottJDaley/bbvw-docs
 edit_uri: edit/main/docs/
 
 theme:
@@ -8,7 +8,6 @@ theme:
   favicon: img/items/timer-ball.png
   logo: img/items/timer-ball.png
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
@@ -16,8 +15,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: teal
@@ -48,7 +45,1427 @@ markdown_extensions:
 
 nav:
   - Home: README.md
-  - Pokemon: pokemon/
-  - Routes: routes/
-  - Moves: moves/
-  - Abilities: abilities/
+  - Pokemon:
+    - pokemon/index.md
+    - Bulbasaur: pokemon/bulbasaur.md
+    - Ivysaur: pokemon/ivysaur.md
+    - Venusaur: pokemon/venusaur.md
+    - Charmander: pokemon/charmander.md
+    - Charmeleon: pokemon/charmeleon.md
+    - Charizard: pokemon/charizard.md
+    - Squirtle: pokemon/squirtle.md
+    - Wartortle: pokemon/wartortle.md
+    - Blastoise: pokemon/blastoise.md
+    - Caterpie: pokemon/caterpie.md
+    - Metapod: pokemon/metapod.md
+    - Butterfree: pokemon/butterfree.md
+    - Weedle: pokemon/weedle.md
+    - Kakuna: pokemon/kakuna.md
+    - Beedrill: pokemon/beedrill.md
+    - Pidgey: pokemon/pidgey.md
+    - Pidgeotto: pokemon/pidgeotto.md
+    - Pidgeot: pokemon/pidgeot.md
+    - Rattata: pokemon/rattata.md
+    - Raticate: pokemon/raticate.md
+    - Spearow: pokemon/spearow.md
+    - Fearow: pokemon/fearow.md
+    - Ekans: pokemon/ekans.md
+    - Arbok: pokemon/arbok.md
+    - Pikachu: pokemon/pikachu.md
+    - Raichu: pokemon/raichu.md
+    - Sandshrew: pokemon/sandshrew.md
+    - Sandslash: pokemon/sandslash.md
+    - Nidoran-f: pokemon/nidoran-f.md
+    - Nidorina: pokemon/nidorina.md
+    - Nidoqueen: pokemon/nidoqueen.md
+    - Nidoran-m: pokemon/nidoran-m.md
+    - Nidorino: pokemon/nidorino.md
+    - Nidoking: pokemon/nidoking.md
+    - Clefairy: pokemon/clefairy.md
+    - Clefable: pokemon/clefable.md
+    - Vulpix: pokemon/vulpix.md
+    - Ninetales: pokemon/ninetales.md
+    - Jigglypuff: pokemon/jigglypuff.md
+    - Wigglytuff: pokemon/wigglytuff.md
+    - Zubat: pokemon/zubat.md
+    - Golbat: pokemon/golbat.md
+    - Oddish: pokemon/oddish.md
+    - Gloom: pokemon/gloom.md
+    - Vileplume: pokemon/vileplume.md
+    - Paras: pokemon/paras.md
+    - Parasect: pokemon/parasect.md
+    - Venonat: pokemon/venonat.md
+    - Venomoth: pokemon/venomoth.md
+    - Diglett: pokemon/diglett.md
+    - Dugtrio: pokemon/dugtrio.md
+    - Meowth: pokemon/meowth.md
+    - Persian: pokemon/persian.md
+    - Psyduck: pokemon/psyduck.md
+    - Golduck: pokemon/golduck.md
+    - Mankey: pokemon/mankey.md
+    - Primeape: pokemon/primeape.md
+    - Growlithe: pokemon/growlithe.md
+    - Arcanine: pokemon/arcanine.md
+    - Poliwag: pokemon/poliwag.md
+    - Poliwhirl: pokemon/poliwhirl.md
+    - Poliwrath: pokemon/poliwrath.md
+    - Abra: pokemon/abra.md
+    - Kadabra: pokemon/kadabra.md
+    - Alakazam: pokemon/alakazam.md
+    - Machop: pokemon/machop.md
+    - Machoke: pokemon/machoke.md
+    - Machamp: pokemon/machamp.md
+    - Bellsprout: pokemon/bellsprout.md
+    - Weepinbell: pokemon/weepinbell.md
+    - Victreebel: pokemon/victreebel.md
+    - Tentacool: pokemon/tentacool.md
+    - Tentacruel: pokemon/tentacruel.md
+    - Geodude: pokemon/geodude.md
+    - Graveler: pokemon/graveler.md
+    - Golem: pokemon/golem.md
+    - Ponyta: pokemon/ponyta.md
+    - Rapidash: pokemon/rapidash.md
+    - Slowpoke: pokemon/slowpoke.md
+    - Slowbro: pokemon/slowbro.md
+    - Magnemite: pokemon/magnemite.md
+    - Magneton: pokemon/magneton.md
+    - Farfetchd: pokemon/farfetchd.md
+    - Doduo: pokemon/doduo.md
+    - Dodrio: pokemon/dodrio.md
+    - Seel: pokemon/seel.md
+    - Dewgong: pokemon/dewgong.md
+    - Grimer: pokemon/grimer.md
+    - Muk: pokemon/muk.md
+    - Shellder: pokemon/shellder.md
+    - Cloyster: pokemon/cloyster.md
+    - Gastly: pokemon/gastly.md
+    - Haunter: pokemon/haunter.md
+    - Gengar: pokemon/gengar.md
+    - Onix: pokemon/onix.md
+    - Drowzee: pokemon/drowzee.md
+    - Hypno: pokemon/hypno.md
+    - Krabby: pokemon/krabby.md
+    - Kingler: pokemon/kingler.md
+    - Voltorb: pokemon/voltorb.md
+    - Electrode: pokemon/electrode.md
+    - Exeggcute: pokemon/exeggcute.md
+    - Exeggutor: pokemon/exeggutor.md
+    - Cubone: pokemon/cubone.md
+    - Marowak: pokemon/marowak.md
+    - Hitmonlee: pokemon/hitmonlee.md
+    - Hitmonchan: pokemon/hitmonchan.md
+    - Lickitung: pokemon/lickitung.md
+    - Koffing: pokemon/koffing.md
+    - Weezing: pokemon/weezing.md
+    - Rhyhorn: pokemon/rhyhorn.md
+    - Rhydon: pokemon/rhydon.md
+    - Chansey: pokemon/chansey.md
+    - Tangela: pokemon/tangela.md
+    - Kangaskhan: pokemon/kangaskhan.md
+    - Horsea: pokemon/horsea.md
+    - Seadra: pokemon/seadra.md
+    - Goldeen: pokemon/goldeen.md
+    - Seaking: pokemon/seaking.md
+    - Staryu: pokemon/staryu.md
+    - Starmie: pokemon/starmie.md
+    - Mr-mime: pokemon/mr-mime.md
+    - Scyther: pokemon/scyther.md
+    - Jynx: pokemon/jynx.md
+    - Electabuzz: pokemon/electabuzz.md
+    - Magmar: pokemon/magmar.md
+    - Pinsir: pokemon/pinsir.md
+    - Tauros: pokemon/tauros.md
+    - Magikarp: pokemon/magikarp.md
+    - Gyarados: pokemon/gyarados.md
+    - Lapras: pokemon/lapras.md
+    - Ditto: pokemon/ditto.md
+    - Eevee: pokemon/eevee.md
+    - Vaporeon: pokemon/vaporeon.md
+    - Jolteon: pokemon/jolteon.md
+    - Flareon: pokemon/flareon.md
+    - Porygon: pokemon/porygon.md
+    - Omanyte: pokemon/omanyte.md
+    - Omastar: pokemon/omastar.md
+    - Kabuto: pokemon/kabuto.md
+    - Kabutops: pokemon/kabutops.md
+    - Aerodactyl: pokemon/aerodactyl.md
+    - Snorlax: pokemon/snorlax.md
+    - Articuno: pokemon/articuno.md
+    - Zapdos: pokemon/zapdos.md
+    - Moltres: pokemon/moltres.md
+    - Dratini: pokemon/dratini.md
+    - Dragonair: pokemon/dragonair.md
+    - Dragonite: pokemon/dragonite.md
+    - Mewtwo: pokemon/mewtwo.md
+    - Mew: pokemon/mew.md
+    - Chikorita: pokemon/chikorita.md
+    - Bayleef: pokemon/bayleef.md
+    - Meganium: pokemon/meganium.md
+    - Cyndaquil: pokemon/cyndaquil.md
+    - Quilava: pokemon/quilava.md
+    - Typhlosion: pokemon/typhlosion.md
+    - Totodile: pokemon/totodile.md
+    - Croconaw: pokemon/croconaw.md
+    - Feraligatr: pokemon/feraligatr.md
+    - Sentret: pokemon/sentret.md
+    - Furret: pokemon/furret.md
+    - Hoothoot: pokemon/hoothoot.md
+    - Noctowl: pokemon/noctowl.md
+    - Ledyba: pokemon/ledyba.md
+    - Ledian: pokemon/ledian.md
+    - Spinarak: pokemon/spinarak.md
+    - Ariados: pokemon/ariados.md
+    - Crobat: pokemon/crobat.md
+    - Chinchou: pokemon/chinchou.md
+    - Lanturn: pokemon/lanturn.md
+    - Pichu: pokemon/pichu.md
+    - Cleffa: pokemon/cleffa.md
+    - Igglybuff: pokemon/igglybuff.md
+    - Togepi: pokemon/togepi.md
+    - Togetic: pokemon/togetic.md
+    - Natu: pokemon/natu.md
+    - Xatu: pokemon/xatu.md
+    - Mareep: pokemon/mareep.md
+    - Flaaffy: pokemon/flaaffy.md
+    - Ampharos: pokemon/ampharos.md
+    - Bellossom: pokemon/bellossom.md
+    - Marill: pokemon/marill.md
+    - Azumarill: pokemon/azumarill.md
+    - Sudowoodo: pokemon/sudowoodo.md
+    - Politoed: pokemon/politoed.md
+    - Hoppip: pokemon/hoppip.md
+    - Skiploom: pokemon/skiploom.md
+    - Jumpluff: pokemon/jumpluff.md
+    - Aipom: pokemon/aipom.md
+    - Sunkern: pokemon/sunkern.md
+    - Sunflora: pokemon/sunflora.md
+    - Yanma: pokemon/yanma.md
+    - Wooper: pokemon/wooper.md
+    - Quagsire: pokemon/quagsire.md
+    - Espeon: pokemon/espeon.md
+    - Umbreon: pokemon/umbreon.md
+    - Murkrow: pokemon/murkrow.md
+    - Slowking: pokemon/slowking.md
+    - Misdreavus: pokemon/misdreavus.md
+    - Unown: pokemon/unown.md
+    - Wobbuffet: pokemon/wobbuffet.md
+    - Girafarig: pokemon/girafarig.md
+    - Pineco: pokemon/pineco.md
+    - Forretress: pokemon/forretress.md
+    - Dunsparce: pokemon/dunsparce.md
+    - Gligar: pokemon/gligar.md
+    - Steelix: pokemon/steelix.md
+    - Snubbull: pokemon/snubbull.md
+    - Granbull: pokemon/granbull.md
+    - Qwilfish: pokemon/qwilfish.md
+    - Scizor: pokemon/scizor.md
+    - Shuckle: pokemon/shuckle.md
+    - Heracross: pokemon/heracross.md
+    - Sneasel: pokemon/sneasel.md
+    - Teddiursa: pokemon/teddiursa.md
+    - Ursaring: pokemon/ursaring.md
+    - Slugma: pokemon/slugma.md
+    - Magcargo: pokemon/magcargo.md
+    - Swinub: pokemon/swinub.md
+    - Piloswine: pokemon/piloswine.md
+    - Corsola: pokemon/corsola.md
+    - Remoraid: pokemon/remoraid.md
+    - Octillery: pokemon/octillery.md
+    - Delibird: pokemon/delibird.md
+    - Mantine: pokemon/mantine.md
+    - Skarmory: pokemon/skarmory.md
+    - Houndour: pokemon/houndour.md
+    - Houndoom: pokemon/houndoom.md
+    - Kingdra: pokemon/kingdra.md
+    - Phanpy: pokemon/phanpy.md
+    - Donphan: pokemon/donphan.md
+    - Porygon2: pokemon/porygon2.md
+    - Stantler: pokemon/stantler.md
+    - Smeargle: pokemon/smeargle.md
+    - Tyrogue: pokemon/tyrogue.md
+    - Hitmontop: pokemon/hitmontop.md
+    - Smoochum: pokemon/smoochum.md
+    - Elekid: pokemon/elekid.md
+    - Magby: pokemon/magby.md
+    - Miltank: pokemon/miltank.md
+    - Blissey: pokemon/blissey.md
+    - Raikou: pokemon/raikou.md
+    - Entei: pokemon/entei.md
+    - Suicune: pokemon/suicune.md
+    - Larvitar: pokemon/larvitar.md
+    - Pupitar: pokemon/pupitar.md
+    - Tyranitar: pokemon/tyranitar.md
+    - Lugia: pokemon/lugia.md
+    - Ho-oh: pokemon/ho-oh.md
+    - Celebi: pokemon/celebi.md
+    - Treecko: pokemon/treecko.md
+    - Grovyle: pokemon/grovyle.md
+    - Sceptile: pokemon/sceptile.md
+    - Torchic: pokemon/torchic.md
+    - Combusken: pokemon/combusken.md
+    - Blaziken: pokemon/blaziken.md
+    - Mudkip: pokemon/mudkip.md
+    - Marshtomp: pokemon/marshtomp.md
+    - Swampert: pokemon/swampert.md
+    - Poochyena: pokemon/poochyena.md
+    - Mightyena: pokemon/mightyena.md
+    - Zigzagoon: pokemon/zigzagoon.md
+    - Linoone: pokemon/linoone.md
+    - Wurmple: pokemon/wurmple.md
+    - Silcoon: pokemon/silcoon.md
+    - Beautifly: pokemon/beautifly.md
+    - Cascoon: pokemon/cascoon.md
+    - Dustox: pokemon/dustox.md
+    - Lotad: pokemon/lotad.md
+    - Lombre: pokemon/lombre.md
+    - Ludicolo: pokemon/ludicolo.md
+    - Seedot: pokemon/seedot.md
+    - Nuzleaf: pokemon/nuzleaf.md
+    - Shiftry: pokemon/shiftry.md
+    - Taillow: pokemon/taillow.md
+    - Swellow: pokemon/swellow.md
+    - Wingull: pokemon/wingull.md
+    - Pelipper: pokemon/pelipper.md
+    - Ralts: pokemon/ralts.md
+    - Kirlia: pokemon/kirlia.md
+    - Gardevoir: pokemon/gardevoir.md
+    - Surskit: pokemon/surskit.md
+    - Masquerain: pokemon/masquerain.md
+    - Shroomish: pokemon/shroomish.md
+    - Breloom: pokemon/breloom.md
+    - Slakoth: pokemon/slakoth.md
+    - Vigoroth: pokemon/vigoroth.md
+    - Slaking: pokemon/slaking.md
+    - Nincada: pokemon/nincada.md
+    - Ninjask: pokemon/ninjask.md
+    - Shedinja: pokemon/shedinja.md
+    - Whismur: pokemon/whismur.md
+    - Loudred: pokemon/loudred.md
+    - Exploud: pokemon/exploud.md
+    - Makuhita: pokemon/makuhita.md
+    - Hariyama: pokemon/hariyama.md
+    - Azurill: pokemon/azurill.md
+    - Nosepass: pokemon/nosepass.md
+    - Skitty: pokemon/skitty.md
+    - Delcatty: pokemon/delcatty.md
+    - Sableye: pokemon/sableye.md
+    - Mawile: pokemon/mawile.md
+    - Aron: pokemon/aron.md
+    - Lairon: pokemon/lairon.md
+    - Aggron: pokemon/aggron.md
+    - Meditite: pokemon/meditite.md
+    - Medicham: pokemon/medicham.md
+    - Electrike: pokemon/electrike.md
+    - Manectric: pokemon/manectric.md
+    - Plusle: pokemon/plusle.md
+    - Minun: pokemon/minun.md
+    - Volbeat: pokemon/volbeat.md
+    - Illumise: pokemon/illumise.md
+    - Roselia: pokemon/roselia.md
+    - Gulpin: pokemon/gulpin.md
+    - Swalot: pokemon/swalot.md
+    - Carvanha: pokemon/carvanha.md
+    - Sharpedo: pokemon/sharpedo.md
+    - Wailmer: pokemon/wailmer.md
+    - Wailord: pokemon/wailord.md
+    - Numel: pokemon/numel.md
+    - Camerupt: pokemon/camerupt.md
+    - Torkoal: pokemon/torkoal.md
+    - Spoink: pokemon/spoink.md
+    - Grumpig: pokemon/grumpig.md
+    - Spinda: pokemon/spinda.md
+    - Trapinch: pokemon/trapinch.md
+    - Vibrava: pokemon/vibrava.md
+    - Flygon: pokemon/flygon.md
+    - Cacnea: pokemon/cacnea.md
+    - Cacturne: pokemon/cacturne.md
+    - Swablu: pokemon/swablu.md
+    - Altaria: pokemon/altaria.md
+    - Zangoose: pokemon/zangoose.md
+    - Seviper: pokemon/seviper.md
+    - Lunatone: pokemon/lunatone.md
+    - Solrock: pokemon/solrock.md
+    - Barboach: pokemon/barboach.md
+    - Whiscash: pokemon/whiscash.md
+    - Corphish: pokemon/corphish.md
+    - Crawdaunt: pokemon/crawdaunt.md
+    - Baltoy: pokemon/baltoy.md
+    - Claydol: pokemon/claydol.md
+    - Lileep: pokemon/lileep.md
+    - Cradily: pokemon/cradily.md
+    - Anorith: pokemon/anorith.md
+    - Armaldo: pokemon/armaldo.md
+    - Feebas: pokemon/feebas.md
+    - Milotic: pokemon/milotic.md
+    - Castform: pokemon/castform.md
+    - Kecleon: pokemon/kecleon.md
+    - Shuppet: pokemon/shuppet.md
+    - Banette: pokemon/banette.md
+    - Duskull: pokemon/duskull.md
+    - Dusclops: pokemon/dusclops.md
+    - Tropius: pokemon/tropius.md
+    - Chimecho: pokemon/chimecho.md
+    - Absol: pokemon/absol.md
+    - Wynaut: pokemon/wynaut.md
+    - Snorunt: pokemon/snorunt.md
+    - Glalie: pokemon/glalie.md
+    - Spheal: pokemon/spheal.md
+    - Sealeo: pokemon/sealeo.md
+    - Walrein: pokemon/walrein.md
+    - Clamperl: pokemon/clamperl.md
+    - Huntail: pokemon/huntail.md
+    - Gorebyss: pokemon/gorebyss.md
+    - Relicanth: pokemon/relicanth.md
+    - Luvdisc: pokemon/luvdisc.md
+    - Bagon: pokemon/bagon.md
+    - Shelgon: pokemon/shelgon.md
+    - Salamence: pokemon/salamence.md
+    - Beldum: pokemon/beldum.md
+    - Metang: pokemon/metang.md
+    - Metagross: pokemon/metagross.md
+    - Regirock: pokemon/regirock.md
+    - Regice: pokemon/regice.md
+    - Registeel: pokemon/registeel.md
+    - Latias: pokemon/latias.md
+    - Latios: pokemon/latios.md
+    - Kyogre: pokemon/kyogre.md
+    - Groudon: pokemon/groudon.md
+    - Rayquaza: pokemon/rayquaza.md
+    - Jirachi: pokemon/jirachi.md
+    - Deoxys-normal: pokemon/deoxys-normal.md
+    - Turtwig: pokemon/turtwig.md
+    - Grotle: pokemon/grotle.md
+    - Torterra: pokemon/torterra.md
+    - Chimchar: pokemon/chimchar.md
+    - Monferno: pokemon/monferno.md
+    - Infernape: pokemon/infernape.md
+    - Piplup: pokemon/piplup.md
+    - Prinplup: pokemon/prinplup.md
+    - Empoleon: pokemon/empoleon.md
+    - Starly: pokemon/starly.md
+    - Staravia: pokemon/staravia.md
+    - Staraptor: pokemon/staraptor.md
+    - Bidoof: pokemon/bidoof.md
+    - Bibarel: pokemon/bibarel.md
+    - Kricketot: pokemon/kricketot.md
+    - Kricketune: pokemon/kricketune.md
+    - Shinx: pokemon/shinx.md
+    - Luxio: pokemon/luxio.md
+    - Luxray: pokemon/luxray.md
+    - Budew: pokemon/budew.md
+    - Roserade: pokemon/roserade.md
+    - Cranidos: pokemon/cranidos.md
+    - Rampardos: pokemon/rampardos.md
+    - Shieldon: pokemon/shieldon.md
+    - Bastiodon: pokemon/bastiodon.md
+    - Burmy: pokemon/burmy.md
+    - Wormadam-plant: pokemon/wormadam-plant.md
+    - Mothim: pokemon/mothim.md
+    - Combee: pokemon/combee.md
+    - Vespiquen: pokemon/vespiquen.md
+    - Pachirisu: pokemon/pachirisu.md
+    - Buizel: pokemon/buizel.md
+    - Floatzel: pokemon/floatzel.md
+    - Cherubi: pokemon/cherubi.md
+    - Cherrim: pokemon/cherrim.md
+    - Shellos: pokemon/shellos.md
+    - Gastrodon: pokemon/gastrodon.md
+    - Ambipom: pokemon/ambipom.md
+    - Drifloon: pokemon/drifloon.md
+    - Drifblim: pokemon/drifblim.md
+    - Buneary: pokemon/buneary.md
+    - Lopunny: pokemon/lopunny.md
+    - Mismagius: pokemon/mismagius.md
+    - Honchkrow: pokemon/honchkrow.md
+    - Glameow: pokemon/glameow.md
+    - Purugly: pokemon/purugly.md
+    - Chingling: pokemon/chingling.md
+    - Stunky: pokemon/stunky.md
+    - Skuntank: pokemon/skuntank.md
+    - Bronzor: pokemon/bronzor.md
+    - Bronzong: pokemon/bronzong.md
+    - Bonsly: pokemon/bonsly.md
+    - Mime-jr: pokemon/mime-jr.md
+    - Happiny: pokemon/happiny.md
+    - Chatot: pokemon/chatot.md
+    - Spiritomb: pokemon/spiritomb.md
+    - Gible: pokemon/gible.md
+    - Gabite: pokemon/gabite.md
+    - Garchomp: pokemon/garchomp.md
+    - Munchlax: pokemon/munchlax.md
+    - Riolu: pokemon/riolu.md
+    - Lucario: pokemon/lucario.md
+    - Hippopotas: pokemon/hippopotas.md
+    - Hippowdon: pokemon/hippowdon.md
+    - Skorupi: pokemon/skorupi.md
+    - Drapion: pokemon/drapion.md
+    - Croagunk: pokemon/croagunk.md
+    - Toxicroak: pokemon/toxicroak.md
+    - Carnivine: pokemon/carnivine.md
+    - Finneon: pokemon/finneon.md
+    - Lumineon: pokemon/lumineon.md
+    - Mantyke: pokemon/mantyke.md
+    - Snover: pokemon/snover.md
+    - Abomasnow: pokemon/abomasnow.md
+    - Weavile: pokemon/weavile.md
+    - Magnezone: pokemon/magnezone.md
+    - Lickilicky: pokemon/lickilicky.md
+    - Rhyperior: pokemon/rhyperior.md
+    - Tangrowth: pokemon/tangrowth.md
+    - Electivire: pokemon/electivire.md
+    - Magmortar: pokemon/magmortar.md
+    - Togekiss: pokemon/togekiss.md
+    - Yanmega: pokemon/yanmega.md
+    - Leafeon: pokemon/leafeon.md
+    - Glaceon: pokemon/glaceon.md
+    - Gliscor: pokemon/gliscor.md
+    - Mamoswine: pokemon/mamoswine.md
+    - Porygon-z: pokemon/porygon-z.md
+    - Gallade: pokemon/gallade.md
+    - Probopass: pokemon/probopass.md
+    - Dusknoir: pokemon/dusknoir.md
+    - Froslass: pokemon/froslass.md
+    - Rotom: pokemon/rotom.md
+    - Uxie: pokemon/uxie.md
+    - Mesprit: pokemon/mesprit.md
+    - Azelf: pokemon/azelf.md
+    - Dialga: pokemon/dialga.md
+    - Palkia: pokemon/palkia.md
+    - Heatran: pokemon/heatran.md
+    - Regigigas: pokemon/regigigas.md
+    - Giratina-altered: pokemon/giratina-altered.md
+    - Cresselia: pokemon/cresselia.md
+    - Phione: pokemon/phione.md
+    - Manaphy: pokemon/manaphy.md
+    - Darkrai: pokemon/darkrai.md
+    - Shaymin-land: pokemon/shaymin-land.md
+    - Arceus: pokemon/arceus.md
+    - Victini: pokemon/victini.md
+    - Snivy: pokemon/snivy.md
+    - Servine: pokemon/servine.md
+    - Serperior: pokemon/serperior.md
+    - Tepig: pokemon/tepig.md
+    - Pignite: pokemon/pignite.md
+    - Emboar: pokemon/emboar.md
+    - Oshawott: pokemon/oshawott.md
+    - Dewott: pokemon/dewott.md
+    - Samurott: pokemon/samurott.md
+    - Patrat: pokemon/patrat.md
+    - Watchog: pokemon/watchog.md
+    - Lillipup: pokemon/lillipup.md
+    - Herdier: pokemon/herdier.md
+    - Stoutland: pokemon/stoutland.md
+    - Purrloin: pokemon/purrloin.md
+    - Liepard: pokemon/liepard.md
+    - Pansage: pokemon/pansage.md
+    - Simisage: pokemon/simisage.md
+    - Pansear: pokemon/pansear.md
+    - Simisear: pokemon/simisear.md
+    - Panpour: pokemon/panpour.md
+    - Simipour: pokemon/simipour.md
+    - Munna: pokemon/munna.md
+    - Musharna: pokemon/musharna.md
+    - Pidove: pokemon/pidove.md
+    - Tranquill: pokemon/tranquill.md
+    - Unfezant: pokemon/unfezant.md
+    - Blitzle: pokemon/blitzle.md
+    - Zebstrika: pokemon/zebstrika.md
+    - Roggenrola: pokemon/roggenrola.md
+    - Boldore: pokemon/boldore.md
+    - Gigalith: pokemon/gigalith.md
+    - Woobat: pokemon/woobat.md
+    - Swoobat: pokemon/swoobat.md
+    - Drilbur: pokemon/drilbur.md
+    - Excadrill: pokemon/excadrill.md
+    - Audino: pokemon/audino.md
+    - Timburr: pokemon/timburr.md
+    - Gurdurr: pokemon/gurdurr.md
+    - Conkeldurr: pokemon/conkeldurr.md
+    - Tympole: pokemon/tympole.md
+    - Palpitoad: pokemon/palpitoad.md
+    - Seismitoad: pokemon/seismitoad.md
+    - Throh: pokemon/throh.md
+    - Sawk: pokemon/sawk.md
+    - Sewaddle: pokemon/sewaddle.md
+    - Swadloon: pokemon/swadloon.md
+    - Leavanny: pokemon/leavanny.md
+    - Venipede: pokemon/venipede.md
+    - Whirlipede: pokemon/whirlipede.md
+    - Scolipede: pokemon/scolipede.md
+    - Cottonee: pokemon/cottonee.md
+    - Whimsicott: pokemon/whimsicott.md
+    - Petilil: pokemon/petilil.md
+    - Lilligant: pokemon/lilligant.md
+    - Basculin-red-striped: pokemon/basculin-red-striped.md
+    - Sandile: pokemon/sandile.md
+    - Krokorok: pokemon/krokorok.md
+    - Krookodile: pokemon/krookodile.md
+    - Darumaka: pokemon/darumaka.md
+    - Darmanitan-standard: pokemon/darmanitan-standard.md
+    - Maractus: pokemon/maractus.md
+    - Dwebble: pokemon/dwebble.md
+    - Crustle: pokemon/crustle.md
+    - Scraggy: pokemon/scraggy.md
+    - Scrafty: pokemon/scrafty.md
+    - Sigilyph: pokemon/sigilyph.md
+    - Yamask: pokemon/yamask.md
+    - Cofagrigus: pokemon/cofagrigus.md
+    - Tirtouga: pokemon/tirtouga.md
+    - Carracosta: pokemon/carracosta.md
+    - Archen: pokemon/archen.md
+    - Archeops: pokemon/archeops.md
+    - Trubbish: pokemon/trubbish.md
+    - Garbodor: pokemon/garbodor.md
+    - Zorua: pokemon/zorua.md
+    - Zoroark: pokemon/zoroark.md
+    - Minccino: pokemon/minccino.md
+    - Cinccino: pokemon/cinccino.md
+    - Gothita: pokemon/gothita.md
+    - Gothorita: pokemon/gothorita.md
+    - Gothitelle: pokemon/gothitelle.md
+    - Solosis: pokemon/solosis.md
+    - Duosion: pokemon/duosion.md
+    - Reuniclus: pokemon/reuniclus.md
+    - Ducklett: pokemon/ducklett.md
+    - Swanna: pokemon/swanna.md
+    - Vanillite: pokemon/vanillite.md
+    - Vanillish: pokemon/vanillish.md
+    - Vanilluxe: pokemon/vanilluxe.md
+    - Deerling: pokemon/deerling.md
+    - Sawsbuck: pokemon/sawsbuck.md
+    - Emolga: pokemon/emolga.md
+    - Karrablast: pokemon/karrablast.md
+    - Escavalier: pokemon/escavalier.md
+    - Foongus: pokemon/foongus.md
+    - Amoonguss: pokemon/amoonguss.md
+    - Frillish-male: pokemon/frillish-male.md
+    - Jellicent-male: pokemon/jellicent-male.md
+    - Alomomola: pokemon/alomomola.md
+    - Joltik: pokemon/joltik.md
+    - Galvantula: pokemon/galvantula.md
+    - Ferroseed: pokemon/ferroseed.md
+    - Ferrothorn: pokemon/ferrothorn.md
+    - Klink: pokemon/klink.md
+    - Klang: pokemon/klang.md
+    - Klinklang: pokemon/klinklang.md
+    - Tynamo: pokemon/tynamo.md
+    - Eelektrik: pokemon/eelektrik.md
+    - Eelektross: pokemon/eelektross.md
+    - Elgyem: pokemon/elgyem.md
+    - Beheeyem: pokemon/beheeyem.md
+    - Litwick: pokemon/litwick.md
+    - Lampent: pokemon/lampent.md
+    - Chandelure: pokemon/chandelure.md
+    - Axew: pokemon/axew.md
+    - Fraxure: pokemon/fraxure.md
+    - Haxorus: pokemon/haxorus.md
+    - Cubchoo: pokemon/cubchoo.md
+    - Beartic: pokemon/beartic.md
+    - Cryogonal: pokemon/cryogonal.md
+    - Shelmet: pokemon/shelmet.md
+    - Accelgor: pokemon/accelgor.md
+    - Stunfisk: pokemon/stunfisk.md
+    - Mienfoo: pokemon/mienfoo.md
+    - Mienshao: pokemon/mienshao.md
+    - Druddigon: pokemon/druddigon.md
+    - Golett: pokemon/golett.md
+    - Golurk: pokemon/golurk.md
+    - Pawniard: pokemon/pawniard.md
+    - Bisharp: pokemon/bisharp.md
+    - Bouffalant: pokemon/bouffalant.md
+    - Rufflet: pokemon/rufflet.md
+    - Braviary: pokemon/braviary.md
+    - Vullaby: pokemon/vullaby.md
+    - Mandibuzz: pokemon/mandibuzz.md
+    - Heatmor: pokemon/heatmor.md
+    - Durant: pokemon/durant.md
+    - Deino: pokemon/deino.md
+    - Zweilous: pokemon/zweilous.md
+    - Hydreigon: pokemon/hydreigon.md
+    - Larvesta: pokemon/larvesta.md
+    - Volcarona: pokemon/volcarona.md
+    - Cobalion: pokemon/cobalion.md
+    - Terrakion: pokemon/terrakion.md
+    - Virizion: pokemon/virizion.md
+    - Tornadus-incarnate: pokemon/tornadus-incarnate.md
+    - Thundurus-incarnate: pokemon/thundurus-incarnate.md
+    - Reshiram: pokemon/reshiram.md
+    - Zekrom: pokemon/zekrom.md
+    - Landorus-incarnate: pokemon/landorus-incarnate.md
+    - Kyurem: pokemon/kyurem.md
+    - Keldeo-ordinary: pokemon/keldeo-ordinary.md
+    - Meloetta-aria: pokemon/meloetta-aria.md
+    - Genesect: pokemon/genesect.md
+  - Routes:
+    - routes/index.md
+    - Unless otherwise stated, fishing encounters have not been edited.: routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md
+    - Route 2: routes/route-2.md
+    - Striaton City: routes/striaton-city.md
+    - Dreamyard: routes/dreamyard.md
+    - Route 3: routes/route-3.md
+    - Wellspring Cave 1F: routes/wellspring-cave-1f.md
+    - Pinwheel Forest: routes/pinwheel-forest.md
+    - Route 4: routes/route-4.md
+    - Desert Resort: routes/desert-resort.md
+    - Relic Castle: routes/relic-castle.md
+    - Route 5: routes/route-5.md
+    - Route 16: routes/route-16.md
+    - Lostlorn Forest: routes/lostlorn-forest.md
+    - Driftveil Drawbidge: routes/driftveil-drawbidge.md
+    - Driftveil City: routes/driftveil-city.md
+    - Cold Storage: routes/cold-storage.md
+    - Route 6 – Spring / Summer / Autumn: routes/route-6---spring---summer---autumn.md
+    - Chargestone Cave: routes/chargestone-cave.md
+    - Route 7 – All Seasons: routes/route-7---all-seasons.md
+    - Celestial Tower: routes/celestial-tower.md
+    - Route 17: routes/route-17.md
+    - P2 Laboratory: routes/p2-laboratory.md
+    - Mistralton Cave 1F – 2F: routes/mistralton-cave-1f---2f.md
+    - Twist Mountain: routes/twist-mountain.md
+    - Icirrus City, Route 8: routes/icirrus-city,-route-8.md
+    - Moor of Icirrus: routes/moor-of-icirrus.md
+    - Dragonspiral Tower: routes/dragonspiral-tower.md
+    - Route 9: routes/route-9.md
+    - Route 10: routes/route-10.md
+    - Victory Road: routes/victory-road.md
+    - Route 11: routes/route-11.md
+    - Village Bridge: routes/village-bridge.md
+    - Route 12: routes/route-12.md
+    - Route 13: routes/route-13.md
+    - Giant Chasm – Outside Area: routes/giant-chasm---outside-area.md
+    - Undella Town: routes/undella-town.md
+    - Undella Bay: routes/undella-bay.md
+    - Route 14: routes/route-14.md
+    - Abundant Shrine: routes/abundant-shrine.md
+    - Route 15: routes/route-15.md
+    - Marvelous Bridge: routes/marvelous-bridge.md
+    - Challenger’s Cave – All Floors: routes/challengers-cave---all-floors.md
+  - Moves:
+    - moves/index.md
+    - Absorb: moves/absorb.md
+    - Acid: moves/acid.md
+    - Acid armor: moves/acid-armor.md
+    - Acid spray: moves/acid-spray.md
+    - Acrobatics: moves/acrobatics.md
+    - Acupressure: moves/acupressure.md
+    - Aerial ace: moves/aerial-ace.md
+    - Aeroblast: moves/aeroblast.md
+    - After you: moves/after-you.md
+    - Agility: moves/agility.md
+    - Air cutter: moves/air-cutter.md
+    - Air slash: moves/air-slash.md
+    - Ally switch: moves/ally-switch.md
+    - Amnesia: moves/amnesia.md
+    - Ancient power: moves/ancient-power.md
+    - Aqua jet: moves/aqua-jet.md
+    - Aqua ring: moves/aqua-ring.md
+    - Aqua tail: moves/aqua-tail.md
+    - Arm thrust: moves/arm-thrust.md
+    - Aromatherapy: moves/aromatherapy.md
+    - Assist: moves/assist.md
+    - Assurance: moves/assurance.md
+    - Astonish: moves/astonish.md
+    - Attack order: moves/attack-order.md
+    - Attract: moves/attract.md
+    - Aura sphere: moves/aura-sphere.md
+    - Aurora beam: moves/aurora-beam.md
+    - Autotomize: moves/autotomize.md
+    - Avalanche: moves/avalanche.md
+    - Barrage: moves/barrage.md
+    - Barrier: moves/barrier.md
+    - Baton pass: moves/baton-pass.md
+    - Beat up: moves/beat-up.md
+    - Belly drum: moves/belly-drum.md
+    - Bestow: moves/bestow.md
+    - Bide: moves/bide.md
+    - Bind: moves/bind.md
+    - Bite: moves/bite.md
+    - Blast burn: moves/blast-burn.md
+    - Blaze kick: moves/blaze-kick.md
+    - Blizzard: moves/blizzard.md
+    - Block: moves/block.md
+    - Blue flare: moves/blue-flare.md
+    - Body slam: moves/body-slam.md
+    - Bolt strike: moves/bolt-strike.md
+    - Bone club: moves/bone-club.md
+    - Bone rush: moves/bone-rush.md
+    - Bonemerang: moves/bonemerang.md
+    - Bounce: moves/bounce.md
+    - Brave bird: moves/brave-bird.md
+    - Brick break: moves/brick-break.md
+    - Brine: moves/brine.md
+    - Bubble: moves/bubble.md
+    - Bubble beam: moves/bubble-beam.md
+    - Bug bite: moves/bug-bite.md
+    - Bug buzz: moves/bug-buzz.md
+    - Bulk up: moves/bulk-up.md
+    - Bulldoze: moves/bulldoze.md
+    - Bullet punch: moves/bullet-punch.md
+    - Bullet seed: moves/bullet-seed.md
+    - Calm mind: moves/calm-mind.md
+    - Camouflage: moves/camouflage.md
+    - Captivate: moves/captivate.md
+    - Charge: moves/charge.md
+    - Charge beam: moves/charge-beam.md
+    - Charm: moves/charm.md
+    - Chatter: moves/chatter.md
+    - Chip away: moves/chip-away.md
+    - Circle throw: moves/circle-throw.md
+    - Clamp: moves/clamp.md
+    - Clear smog: moves/clear-smog.md
+    - Close combat: moves/close-combat.md
+    - Coil: moves/coil.md
+    - Comet punch: moves/comet-punch.md
+    - Confuse ray: moves/confuse-ray.md
+    - Confusion: moves/confusion.md
+    - Constrict: moves/constrict.md
+    - Conversion: moves/conversion.md
+    - Conversion 2: moves/conversion-2.md
+    - Copycat: moves/copycat.md
+    - Cosmic power: moves/cosmic-power.md
+    - Cotton guard: moves/cotton-guard.md
+    - Cotton spore: moves/cotton-spore.md
+    - Counter: moves/counter.md
+    - Covet: moves/covet.md
+    - Crabhammer: moves/crabhammer.md
+    - Cross chop: moves/cross-chop.md
+    - Cross poison: moves/cross-poison.md
+    - Crunch: moves/crunch.md
+    - Crush claw: moves/crush-claw.md
+    - Crush grip: moves/crush-grip.md
+    - Curse: moves/curse.md
+    - Cut: moves/cut.md
+    - Dark pulse: moves/dark-pulse.md
+    - Dark void: moves/dark-void.md
+    - Defend order: moves/defend-order.md
+    - Defense curl: moves/defense-curl.md
+    - Defog: moves/defog.md
+    - Destiny bond: moves/destiny-bond.md
+    - Detect: moves/detect.md
+    - Dig: moves/dig.md
+    - Disable: moves/disable.md
+    - Discharge: moves/discharge.md
+    - Dive: moves/dive.md
+    - Dizzy punch: moves/dizzy-punch.md
+    - Doom desire: moves/doom-desire.md
+    - Double edge: moves/double-edge.md
+    - Double hit: moves/double-hit.md
+    - Double kick: moves/double-kick.md
+    - Double slap: moves/double-slap.md
+    - Double team: moves/double-team.md
+    - Draco meteor: moves/draco-meteor.md
+    - Dragon breath: moves/dragon-breath.md
+    - Dragon claw: moves/dragon-claw.md
+    - Dragon dance: moves/dragon-dance.md
+    - Dragon pulse: moves/dragon-pulse.md
+    - Dragon rage: moves/dragon-rage.md
+    - Dragon rush: moves/dragon-rush.md
+    - Dragon tail: moves/dragon-tail.md
+    - Drain punch: moves/drain-punch.md
+    - Dream eater: moves/dream-eater.md
+    - Drill peck: moves/drill-peck.md
+    - Drill run: moves/drill-run.md
+    - Dual chop: moves/dual-chop.md
+    - Dynamic punch: moves/dynamic-punch.md
+    - Earth power: moves/earth-power.md
+    - Earthquake: moves/earthquake.md
+    - Echoed voice: moves/echoed-voice.md
+    - Egg bomb: moves/egg-bomb.md
+    - Electro ball: moves/electro-ball.md
+    - Electroweb: moves/electroweb.md
+    - Embargo: moves/embargo.md
+    - Ember: moves/ember.md
+    - Encore: moves/encore.md
+    - Endeavor: moves/endeavor.md
+    - Endure: moves/endure.md
+    - Energy ball: moves/energy-ball.md
+    - Entrainment: moves/entrainment.md
+    - Eruption: moves/eruption.md
+    - Explosion: moves/explosion.md
+    - Extrasensory: moves/extrasensory.md
+    - Extreme speed: moves/extreme-speed.md
+    - Facade: moves/facade.md
+    - Fake out: moves/fake-out.md
+    - Fake tears: moves/fake-tears.md
+    - False swipe: moves/false-swipe.md
+    - Feather dance: moves/feather-dance.md
+    - Feint: moves/feint.md
+    - Feint attack: moves/feint-attack.md
+    - Fiery dance: moves/fiery-dance.md
+    - Final gambit: moves/final-gambit.md
+    - Fire blast: moves/fire-blast.md
+    - Fire fang: moves/fire-fang.md
+    - Fire pledge: moves/fire-pledge.md
+    - Fire punch: moves/fire-punch.md
+    - Fire spin: moves/fire-spin.md
+    - Fissure: moves/fissure.md
+    - Flail: moves/flail.md
+    - Flame burst: moves/flame-burst.md
+    - Flame charge: moves/flame-charge.md
+    - Flame wheel: moves/flame-wheel.md
+    - Flamethrower: moves/flamethrower.md
+    - Flare blitz: moves/flare-blitz.md
+    - Flash: moves/flash.md
+    - Flash cannon: moves/flash-cannon.md
+    - Flatter: moves/flatter.md
+    - Fling: moves/fling.md
+    - Fly: moves/fly.md
+    - Focus blast: moves/focus-blast.md
+    - Focus energy: moves/focus-energy.md
+    - Focus punch: moves/focus-punch.md
+    - Follow me: moves/follow-me.md
+    - Force palm: moves/force-palm.md
+    - Foresight: moves/foresight.md
+    - Foul play: moves/foul-play.md
+    - Frenzy plant: moves/frenzy-plant.md
+    - Frost breath: moves/frost-breath.md
+    - Frustration: moves/frustration.md
+    - Fury attack: moves/fury-attack.md
+    - Fury cutter: moves/fury-cutter.md
+    - Fury swipes: moves/fury-swipes.md
+    - Fusion bolt: moves/fusion-bolt.md
+    - Fusion flare: moves/fusion-flare.md
+    - Future sight: moves/future-sight.md
+    - Gastro acid: moves/gastro-acid.md
+    - Gear grind: moves/gear-grind.md
+    - Giga drain: moves/giga-drain.md
+    - Giga impact: moves/giga-impact.md
+    - Glaciate: moves/glaciate.md
+    - Glare: moves/glare.md
+    - Grass knot: moves/grass-knot.md
+    - Grass pledge: moves/grass-pledge.md
+    - Grass whistle: moves/grass-whistle.md
+    - Gravity: moves/gravity.md
+    - Growl: moves/growl.md
+    - Growth: moves/growth.md
+    - Grudge: moves/grudge.md
+    - Guard split: moves/guard-split.md
+    - Guard swap: moves/guard-swap.md
+    - Guillotine: moves/guillotine.md
+    - Gunk shot: moves/gunk-shot.md
+    - Gust: moves/gust.md
+    - Gyro ball: moves/gyro-ball.md
+    - Hail: moves/hail.md
+    - Hammer arm: moves/hammer-arm.md
+    - Harden: moves/harden.md
+    - Haze: moves/haze.md
+    - Head charge: moves/head-charge.md
+    - Head smash: moves/head-smash.md
+    - Headbutt: moves/headbutt.md
+    - Heal bell: moves/heal-bell.md
+    - Heal block: moves/heal-block.md
+    - Heal order: moves/heal-order.md
+    - Heal pulse: moves/heal-pulse.md
+    - Healing wish: moves/healing-wish.md
+    - Heart stamp: moves/heart-stamp.md
+    - Heart swap: moves/heart-swap.md
+    - Heat crash: moves/heat-crash.md
+    - Heat wave: moves/heat-wave.md
+    - Heavy slam: moves/heavy-slam.md
+    - Helping hand: moves/helping-hand.md
+    - Hex: moves/hex.md
+    - Hidden power: moves/hidden-power.md
+    - High jump kick: moves/high-jump-kick.md
+    - Hone claws: moves/hone-claws.md
+    - Horn attack: moves/horn-attack.md
+    - Horn drill: moves/horn-drill.md
+    - Horn leech: moves/horn-leech.md
+    - Howl: moves/howl.md
+    - Hurricane: moves/hurricane.md
+    - Hydro cannon: moves/hydro-cannon.md
+    - Hydro pump: moves/hydro-pump.md
+    - Hyper beam: moves/hyper-beam.md
+    - Hyper fang: moves/hyper-fang.md
+    - Hyper voice: moves/hyper-voice.md
+    - Hypnosis: moves/hypnosis.md
+    - Ice ball: moves/ice-ball.md
+    - Ice beam: moves/ice-beam.md
+    - Ice fang: moves/ice-fang.md
+    - Ice punch: moves/ice-punch.md
+    - Ice shard: moves/ice-shard.md
+    - Icicle crash: moves/icicle-crash.md
+    - Icicle spear: moves/icicle-spear.md
+    - Icy wind: moves/icy-wind.md
+    - Imprison: moves/imprison.md
+    - Incinerate: moves/incinerate.md
+    - Inferno: moves/inferno.md
+    - Ingrain: moves/ingrain.md
+    - Iron defense: moves/iron-defense.md
+    - Iron head: moves/iron-head.md
+    - Iron tail: moves/iron-tail.md
+    - Judgment: moves/judgment.md
+    - Jump kick: moves/jump-kick.md
+    - Karate chop: moves/karate-chop.md
+    - Kinesis: moves/kinesis.md
+    - Knock off: moves/knock-off.md
+    - Last resort: moves/last-resort.md
+    - Lava plume: moves/lava-plume.md
+    - Leaf blade: moves/leaf-blade.md
+    - Leaf storm: moves/leaf-storm.md
+    - Leaf tornado: moves/leaf-tornado.md
+    - Leech life: moves/leech-life.md
+    - Leech seed: moves/leech-seed.md
+    - Leer: moves/leer.md
+    - Lick: moves/lick.md
+    - Light screen: moves/light-screen.md
+    - Lock on: moves/lock-on.md
+    - Lovely kiss: moves/lovely-kiss.md
+    - Low kick: moves/low-kick.md
+    - Low sweep: moves/low-sweep.md
+    - Lucky chant: moves/lucky-chant.md
+    - Lunar dance: moves/lunar-dance.md
+    - Luster purge: moves/luster-purge.md
+    - Mach punch: moves/mach-punch.md
+    - Magic coat: moves/magic-coat.md
+    - Magic room: moves/magic-room.md
+    - Magical leaf: moves/magical-leaf.md
+    - Magma storm: moves/magma-storm.md
+    - Magnet bomb: moves/magnet-bomb.md
+    - Magnet rise: moves/magnet-rise.md
+    - Magnitude: moves/magnitude.md
+    - Me first: moves/me-first.md
+    - Mean look: moves/mean-look.md
+    - Meditate: moves/meditate.md
+    - Mega drain: moves/mega-drain.md
+    - Mega kick: moves/mega-kick.md
+    - Mega punch: moves/mega-punch.md
+    - Megahorn: moves/megahorn.md
+    - Memento: moves/memento.md
+    - Metal burst: moves/metal-burst.md
+    - Metal claw: moves/metal-claw.md
+    - Metal sound: moves/metal-sound.md
+    - Meteor mash: moves/meteor-mash.md
+    - Metronome: moves/metronome.md
+    - Milk drink: moves/milk-drink.md
+    - Mimic: moves/mimic.md
+    - Mind reader: moves/mind-reader.md
+    - Minimize: moves/minimize.md
+    - Miracle eye: moves/miracle-eye.md
+    - Mirror coat: moves/mirror-coat.md
+    - Mirror move: moves/mirror-move.md
+    - Mirror shot: moves/mirror-shot.md
+    - Mist: moves/mist.md
+    - Mist ball: moves/mist-ball.md
+    - Moonlight: moves/moonlight.md
+    - Morning sun: moves/morning-sun.md
+    - Mud bomb: moves/mud-bomb.md
+    - Mud shot: moves/mud-shot.md
+    - Mud slap: moves/mud-slap.md
+    - Mud sport: moves/mud-sport.md
+    - Muddy water: moves/muddy-water.md
+    - Nasty plot: moves/nasty-plot.md
+    - Natural gift: moves/natural-gift.md
+    - Nature power: moves/nature-power.md
+    - Needle arm: moves/needle-arm.md
+    - Night daze: moves/night-daze.md
+    - Night shade: moves/night-shade.md
+    - Night slash: moves/night-slash.md
+    - Nightmare: moves/nightmare.md
+    - Octazooka: moves/octazooka.md
+    - Odor sleuth: moves/odor-sleuth.md
+    - Ominous wind: moves/ominous-wind.md
+    - Outrage: moves/outrage.md
+    - Overheat: moves/overheat.md
+    - Pain split: moves/pain-split.md
+    - Pay day: moves/pay-day.md
+    - Payback: moves/payback.md
+    - Peck: moves/peck.md
+    - Perish song: moves/perish-song.md
+    - Petal dance: moves/petal-dance.md
+    - Pin missile: moves/pin-missile.md
+    - Pluck: moves/pluck.md
+    - Poison fang: moves/poison-fang.md
+    - Poison gas: moves/poison-gas.md
+    - Poison jab: moves/poison-jab.md
+    - Poison powder: moves/poison-powder.md
+    - Poison sting: moves/poison-sting.md
+    - Poison tail: moves/poison-tail.md
+    - Pound: moves/pound.md
+    - Powder snow: moves/powder-snow.md
+    - Power gem: moves/power-gem.md
+    - Power split: moves/power-split.md
+    - Power swap: moves/power-swap.md
+    - Power trick: moves/power-trick.md
+    - Power whip: moves/power-whip.md
+    - Present: moves/present.md
+    - Protect: moves/protect.md
+    - Psybeam: moves/psybeam.md
+    - Psych up: moves/psych-up.md
+    - Psychic: moves/psychic.md
+    - Psycho boost: moves/psycho-boost.md
+    - Psycho cut: moves/psycho-cut.md
+    - Psycho shift: moves/psycho-shift.md
+    - Psyshock: moves/psyshock.md
+    - Psystrike: moves/psystrike.md
+    - Psywave: moves/psywave.md
+    - Punishment: moves/punishment.md
+    - Pursuit: moves/pursuit.md
+    - Quash: moves/quash.md
+    - Quick attack: moves/quick-attack.md
+    - Quick guard: moves/quick-guard.md
+    - Quiver dance: moves/quiver-dance.md
+    - Rage: moves/rage.md
+    - Rage powder: moves/rage-powder.md
+    - Rain dance: moves/rain-dance.md
+    - Rapid spin: moves/rapid-spin.md
+    - Razor leaf: moves/razor-leaf.md
+    - Razor shell: moves/razor-shell.md
+    - Razor wind: moves/razor-wind.md
+    - Recover: moves/recover.md
+    - Recycle: moves/recycle.md
+    - Reflect: moves/reflect.md
+    - Reflect type: moves/reflect-type.md
+    - Refresh: moves/refresh.md
+    - Relic song: moves/relic-song.md
+    - Rest: moves/rest.md
+    - Retaliate: moves/retaliate.md
+    - Return: moves/return.md
+    - Revenge: moves/revenge.md
+    - Reversal: moves/reversal.md
+    - Roar: moves/roar.md
+    - Roar of time: moves/roar-of-time.md
+    - Rock blast: moves/rock-blast.md
+    - Rock climb: moves/rock-climb.md
+    - Rock polish: moves/rock-polish.md
+    - Rock slide: moves/rock-slide.md
+    - Rock smash: moves/rock-smash.md
+    - Rock throw: moves/rock-throw.md
+    - Rock tomb: moves/rock-tomb.md
+    - Rock wrecker: moves/rock-wrecker.md
+    - Role play: moves/role-play.md
+    - Rolling kick: moves/rolling-kick.md
+    - Rollout: moves/rollout.md
+    - Roost: moves/roost.md
+    - Round: moves/round.md
+    - Sacred fire: moves/sacred-fire.md
+    - Sacred sword: moves/sacred-sword.md
+    - Safeguard: moves/safeguard.md
+    - Sand attack: moves/sand-attack.md
+    - Sand tomb: moves/sand-tomb.md
+    - Sandstorm: moves/sandstorm.md
+    - Scald: moves/scald.md
+    - Scary face: moves/scary-face.md
+    - Scratch: moves/scratch.md
+    - Screech: moves/screech.md
+    - Searing shot: moves/searing-shot.md
+    - Secret power: moves/secret-power.md
+    - Secret sword: moves/secret-sword.md
+    - Seed bomb: moves/seed-bomb.md
+    - Seed flare: moves/seed-flare.md
+    - Seismic toss: moves/seismic-toss.md
+    - Self destruct: moves/self-destruct.md
+    - Shadow ball: moves/shadow-ball.md
+    - Shadow claw: moves/shadow-claw.md
+    - Shadow force: moves/shadow-force.md
+    - Shadow punch: moves/shadow-punch.md
+    - Shadow sneak: moves/shadow-sneak.md
+    - Sharpen: moves/sharpen.md
+    - Sheer cold: moves/sheer-cold.md
+    - Shell smash: moves/shell-smash.md
+    - Shift gear: moves/shift-gear.md
+    - Shock wave: moves/shock-wave.md
+    - Signal beam: moves/signal-beam.md
+    - Silver wind: moves/silver-wind.md
+    - Simple beam: moves/simple-beam.md
+    - Sing: moves/sing.md
+    - Sketch: moves/sketch.md
+    - Skill swap: moves/skill-swap.md
+    - Skull bash: moves/skull-bash.md
+    - Sky attack: moves/sky-attack.md
+    - Sky drop: moves/sky-drop.md
+    - Sky uppercut: moves/sky-uppercut.md
+    - Slack off: moves/slack-off.md
+    - Slam: moves/slam.md
+    - Slash: moves/slash.md
+    - Sleep powder: moves/sleep-powder.md
+    - Sleep talk: moves/sleep-talk.md
+    - Sludge: moves/sludge.md
+    - Sludge bomb: moves/sludge-bomb.md
+    - Sludge wave: moves/sludge-wave.md
+    - Smack down: moves/smack-down.md
+    - Smelling salts: moves/smelling-salts.md
+    - Smog: moves/smog.md
+    - Smokescreen: moves/smokescreen.md
+    - Snarl: moves/snarl.md
+    - Snatch: moves/snatch.md
+    - Snore: moves/snore.md
+    - Soak: moves/soak.md
+    - Soft boiled: moves/soft-boiled.md
+    - Solar beam: moves/solar-beam.md
+    - Sonic boom: moves/sonic-boom.md
+    - Spacial rend: moves/spacial-rend.md
+    - Spark: moves/spark.md
+    - Spider web: moves/spider-web.md
+    - Spike cannon: moves/spike-cannon.md
+    - Spikes: moves/spikes.md
+    - Spit up: moves/spit-up.md
+    - Spite: moves/spite.md
+    - Splash: moves/splash.md
+    - Spore: moves/spore.md
+    - Stealth rock: moves/stealth-rock.md
+    - Steamroller: moves/steamroller.md
+    - Steel wing: moves/steel-wing.md
+    - Stockpile: moves/stockpile.md
+    - Stomp: moves/stomp.md
+    - Stone edge: moves/stone-edge.md
+    - Stored power: moves/stored-power.md
+    - Storm throw: moves/storm-throw.md
+    - Strength: moves/strength.md
+    - String shot: moves/string-shot.md
+    - Struggle bug: moves/struggle-bug.md
+    - Stun spore: moves/stun-spore.md
+    - Submission: moves/submission.md
+    - Substitute: moves/substitute.md
+    - Sucker punch: moves/sucker-punch.md
+    - Sunny day: moves/sunny-day.md
+    - Super fang: moves/super-fang.md
+    - Superpower: moves/superpower.md
+    - Supersonic: moves/supersonic.md
+    - Surf: moves/surf.md
+    - Swagger: moves/swagger.md
+    - Swallow: moves/swallow.md
+    - Sweet kiss: moves/sweet-kiss.md
+    - Sweet scent: moves/sweet-scent.md
+    - Swift: moves/swift.md
+    - Switcheroo: moves/switcheroo.md
+    - Swords dance: moves/swords-dance.md
+    - Synchronoise: moves/synchronoise.md
+    - Synthesis: moves/synthesis.md
+    - Tackle: moves/tackle.md
+    - Tail glow: moves/tail-glow.md
+    - Tail slap: moves/tail-slap.md
+    - Tail whip: moves/tail-whip.md
+    - Tailwind: moves/tailwind.md
+    - Take down: moves/take-down.md
+    - Taunt: moves/taunt.md
+    - Techno blast: moves/techno-blast.md
+    - Teeter dance: moves/teeter-dance.md
+    - Telekinesis: moves/telekinesis.md
+    - Teleport: moves/teleport.md
+    - Thief: moves/thief.md
+    - Thrash: moves/thrash.md
+    - Thunder: moves/thunder.md
+    - Thunder fang: moves/thunder-fang.md
+    - Thunder punch: moves/thunder-punch.md
+    - Thunder shock: moves/thunder-shock.md
+    - Thunder wave: moves/thunder-wave.md
+    - Thunderbolt: moves/thunderbolt.md
+    - Tickle: moves/tickle.md
+    - Torment: moves/torment.md
+    - Toxic: moves/toxic.md
+    - Toxic spikes: moves/toxic-spikes.md
+    - Transform: moves/transform.md
+    - Tri attack: moves/tri-attack.md
+    - Trick: moves/trick.md
+    - Trick room: moves/trick-room.md
+    - Triple kick: moves/triple-kick.md
+    - Trump card: moves/trump-card.md
+    - Twineedle: moves/twineedle.md
+    - Twister: moves/twister.md
+    - U turn: moves/u-turn.md
+    - Uproar: moves/uproar.md
+    - Vacuum wave: moves/vacuum-wave.md
+    - Venoshock: moves/venoshock.md
+    - Vice grip: moves/vice-grip.md
+    - Vine whip: moves/vine-whip.md
+    - Vital throw: moves/vital-throw.md
+    - Volt switch: moves/volt-switch.md
+    - Volt tackle: moves/volt-tackle.md
+    - Wake up slap: moves/wake-up-slap.md
+    - Water gun: moves/water-gun.md
+    - Water pledge: moves/water-pledge.md
+    - Water pulse: moves/water-pulse.md
+    - Water sport: moves/water-sport.md
+    - Water spout: moves/water-spout.md
+    - Waterfall: moves/waterfall.md
+    - Weather ball: moves/weather-ball.md
+    - Whirlpool: moves/whirlpool.md
+    - Whirlwind: moves/whirlwind.md
+    - Wide guard: moves/wide-guard.md
+    - Wild charge: moves/wild-charge.md
+    - Will o wisp: moves/will-o-wisp.md
+    - Wing attack: moves/wing-attack.md
+    - Wish: moves/wish.md
+    - Withdraw: moves/withdraw.md
+    - Wonder room: moves/wonder-room.md
+    - Wood hammer: moves/wood-hammer.md
+    - Work up: moves/work-up.md
+    - Worry seed: moves/worry-seed.md
+    - Wrap: moves/wrap.md
+    - Wring out: moves/wring-out.md
+    - X scissor: moves/x-scissor.md
+    - Yawn: moves/yawn.md
+    - Zap cannon: moves/zap-cannon.md
+    - Zen headbutt: moves/zen-headbutt.md
+  - Abilities:
+    - abilities/index.md
+    - Adaptability: abilities/adaptability.md
+    - Aftermath: abilities/aftermath.md
+    - Air lock: abilities/air-lock.md
+    - Analytic: abilities/analytic.md
+    - Anger point: abilities/anger-point.md
+    - Anticipation: abilities/anticipation.md
+    - Arena trap: abilities/arena-trap.md
+    - Bad dreams: abilities/bad-dreams.md
+    - Battle armor: abilities/battle-armor.md
+    - Big pecks: abilities/big-pecks.md
+    - Blaze: abilities/blaze.md
+    - Chlorophyll: abilities/chlorophyll.md
+    - Clear body: abilities/clear-body.md
+    - Cloud nine: abilities/cloud-nine.md
+    - Color change: abilities/color-change.md
+    - Competitive: abilities/competitive.md
+    - Compound eyes: abilities/compound-eyes.md
+    - Contrary: abilities/contrary.md
+    - Cursed body: abilities/cursed-body.md
+    - Cute charm: abilities/cute-charm.md
+    - Damp: abilities/damp.md
+    - Defeatist: abilities/defeatist.md
+    - Defiant: abilities/defiant.md
+    - Download: abilities/download.md
+    - Drizzle: abilities/drizzle.md
+    - Drought: abilities/drought.md
+    - Dry skin: abilities/dry-skin.md
+    - Early bird: abilities/early-bird.md
+    - Effect spore: abilities/effect-spore.md
+    - Filter: abilities/filter.md
+    - Flame body: abilities/flame-body.md
+    - Flare boost: abilities/flare-boost.md
+    - Flash fire: abilities/flash-fire.md
+    - Flower gift: abilities/flower-gift.md
+    - Forecast: abilities/forecast.md
+    - Forewarn: abilities/forewarn.md
+    - Friend guard: abilities/friend-guard.md
+    - Frisk: abilities/frisk.md
+    - Gluttony: abilities/gluttony.md
+    - Guts: abilities/guts.md
+    - Harvest: abilities/harvest.md
+    - Healer: abilities/healer.md
+    - Heatproof: abilities/heatproof.md
+    - Heavy metal: abilities/heavy-metal.md
+    - Honey gather: abilities/honey-gather.md
+    - Huge power: abilities/huge-power.md
+    - Hustle: abilities/hustle.md
+    - Hydration: abilities/hydration.md
+    - Hyper cutter: abilities/hyper-cutter.md
+    - Ice body: abilities/ice-body.md
+    - Illuminate: abilities/illuminate.md
+    - Illusion: abilities/illusion.md
+    - Immunity: abilities/immunity.md
+    - Imposter: abilities/imposter.md
+    - Infiltrator: abilities/infiltrator.md
+    - Inner focus: abilities/inner-focus.md
+    - Insomnia: abilities/insomnia.md
+    - Intimidate: abilities/intimidate.md
+    - Iron barbs: abilities/iron-barbs.md
+    - Iron fist: abilities/iron-fist.md
+    - Justified: abilities/justified.md
+    - Keen eye: abilities/keen-eye.md
+    - Klutz: abilities/klutz.md
+    - Leaf guard: abilities/leaf-guard.md
+    - Levitate: abilities/levitate.md
+    - Light metal: abilities/light-metal.md
+    - Lightning rod: abilities/lightning-rod.md
+    - Limber: abilities/limber.md
+    - Liquid ooze: abilities/liquid-ooze.md
+    - Magic bounce: abilities/magic-bounce.md
+    - Magic guard: abilities/magic-guard.md
+    - Magma armor: abilities/magma-armor.md
+    - Magnet pull: abilities/magnet-pull.md
+    - Marvel scale: abilities/marvel-scale.md
+    - Minus: abilities/minus.md
+    - Mold breaker: abilities/mold-breaker.md
+    - Moody: abilities/moody.md
+    - Motor drive: abilities/motor-drive.md
+    - Moxie: abilities/moxie.md
+    - Multiscale: abilities/multiscale.md
+    - Multitype: abilities/multitype.md
+    - Mummy: abilities/mummy.md
+    - Natural cure: abilities/natural-cure.md
+    - Neutralizing gas: abilities/neutralizing-gas.md
+    - No guard: abilities/no-guard.md
+    - Normalize: abilities/normalize.md
+    - Oblivious: abilities/oblivious.md
+    - Overcoat: abilities/overcoat.md
+    - Overgrow: abilities/overgrow.md
+    - Own tempo: abilities/own-tempo.md
+    - Pickpocket: abilities/pickpocket.md
+    - Pickup: abilities/pickup.md
+    - Plus: abilities/plus.md
+    - Poison heal: abilities/poison-heal.md
+    - Poison point: abilities/poison-point.md
+    - Poison touch: abilities/poison-touch.md
+    - Prankster: abilities/prankster.md
+    - Pressure: abilities/pressure.md
+    - Protean: abilities/protean.md
+    - Pure power: abilities/pure-power.md
+    - Quick feet: abilities/quick-feet.md
+    - Rain dish: abilities/rain-dish.md
+    - Rattled: abilities/rattled.md
+    - Reckless: abilities/reckless.md
+    - Regenerator: abilities/regenerator.md
+    - Rivalry: abilities/rivalry.md
+    - Rock head: abilities/rock-head.md
+    - Rough skin: abilities/rough-skin.md
+    - Run away: abilities/run-away.md
+    - Sand force: abilities/sand-force.md
+    - Sand rush: abilities/sand-rush.md
+    - Sand stream: abilities/sand-stream.md
+    - Sand veil: abilities/sand-veil.md
+    - Sap sipper: abilities/sap-sipper.md
+    - Scrappy: abilities/scrappy.md
+    - Serene grace: abilities/serene-grace.md
+    - Shadow tag: abilities/shadow-tag.md
+    - Sharpness: abilities/sharpness.md
+    - Shed skin: abilities/shed-skin.md
+    - Sheer force: abilities/sheer-force.md
+    - Shell armor: abilities/shell-armor.md
+    - Shield dust: abilities/shield-dust.md
+    - Simple: abilities/simple.md
+    - Skill link: abilities/skill-link.md
+    - Slow start: abilities/slow-start.md
+    - Slush rush: abilities/slush-rush.md
+    - Sniper: abilities/sniper.md
+    - Snow cloak: abilities/snow-cloak.md
+    - Snow warning: abilities/snow-warning.md
+    - Solar power: abilities/solar-power.md
+    - Solid rock: abilities/solid-rock.md
+    - Soundproof: abilities/soundproof.md
+    - Speed boost: abilities/speed-boost.md
+    - Stall: abilities/stall.md
+    - Static: abilities/static.md
+    - Steadfast: abilities/steadfast.md
+    - Stench: abilities/stench.md
+    - Sticky hold: abilities/sticky-hold.md
+    - Storm drain: abilities/storm-drain.md
+    - Sturdy: abilities/sturdy.md
+    - Suction cups: abilities/suction-cups.md
+    - Super luck: abilities/super-luck.md
+    - Swarm: abilities/swarm.md
+    - Swift swim: abilities/swift-swim.md
+    - Synchronize: abilities/synchronize.md
+    - Tangled feet: abilities/tangled-feet.md
+    - Technician: abilities/technician.md
+    - Telepathy: abilities/telepathy.md
+    - Teravolt: abilities/teravolt.md
+    - Thick fat: abilities/thick-fat.md
+    - Tinted lens: abilities/tinted-lens.md
+    - Torrent: abilities/torrent.md
+    - Toxic boost: abilities/toxic-boost.md
+    - Trace: abilities/trace.md
+    - Truant: abilities/truant.md
+    - Turboblaze: abilities/turboblaze.md
+    - Unaware: abilities/unaware.md
+    - Unburden: abilities/unburden.md
+    - Unnerve: abilities/unnerve.md
+    - Victory star: abilities/victory-star.md
+    - Vital spirit: abilities/vital-spirit.md
+    - Volt absorb: abilities/volt-absorb.md
+    - Water absorb: abilities/water-absorb.md
+    - Water veil: abilities/water-veil.md
+    - Weak armor: abilities/weak-armor.md
+    - White smoke: abilities/white-smoke.md
+    - Wind rider: abilities/wind-rider.md
+    - Wonder guard: abilities/wonder-guard.md
+    - Wonder skin: abilities/wonder-skin.md
+    - Zen mode: abilities/zen-mode.md

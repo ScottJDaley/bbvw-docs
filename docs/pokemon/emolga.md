@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/587.png" width="40" /> **[Emolga]( emolga.md)**
+<img src="../img/pokemon/587.png" width="40" /> **[Emolga](../pokemon/emolga.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -39,16 +39,16 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 20% |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 30% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 95% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 20% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 30% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 95% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

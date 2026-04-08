@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/399.png" width="40" /> **[Bidoof]( bidoof.md)**  ➡️  <img src="../img/pokemon/400.png" width="40" /> **[Bibarel]( bibarel.md)** (Lv. 15)
+<img src="../img/pokemon/399.png" width="40" /> **[Bidoof](../pokemon/bidoof.md)**  ➡️  <img src="../img/pokemon/400.png" width="40" /> **[Bibarel](../pokemon/bibarel.md)** (Lv. 15)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,9 +39,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

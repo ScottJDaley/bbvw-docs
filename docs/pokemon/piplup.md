@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/393.png" width="40" /> **[Piplup]( piplup.md)**  ➡️  <img src="../img/pokemon/394.png" width="40" /> **[Prinplup]( prinplup.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/395.png" width="40" /> **[Empoleon]( empoleon.md)** (Lv. 36)
+<img src="../img/pokemon/393.png" width="40" /> **[Piplup](../pokemon/piplup.md)**  ➡️  <img src="../img/pokemon/394.png" width="40" /> **[Prinplup](../pokemon/prinplup.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/395.png" width="40" /> **[Empoleon](../pokemon/empoleon.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

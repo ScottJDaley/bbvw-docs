@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/434.png" width="40" /> **[Stunky]( stunky.md)**  ➡️  <img src="../img/pokemon/435.png" width="40" /> **[Skuntank]( skuntank.md)** (Lv. 34)
+<img src="../img/pokemon/434.png" width="40" /> **[Stunky](../pokemon/stunky.md)**  ➡️  <img src="../img/pokemon/435.png" width="40" /> **[Skuntank](../pokemon/skuntank.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |

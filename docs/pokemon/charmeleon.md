@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/004.png" width="40" /> **[Charmander]( charmander.md)**  ➡️  <img src="../img/pokemon/005.png" width="40" /> **[Charmeleon]( charmeleon.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/006.png" width="40" /> **[Charizard]( charizard.md)** (Lv. 36)
+<img src="../img/pokemon/004.png" width="40" /> **[Charmander](../pokemon/charmander.md)**  ➡️  <img src="../img/pokemon/005.png" width="40" /> **[Charmeleon](../pokemon/charmeleon.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/006.png" width="40" /> **[Charizard](../pokemon/charizard.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

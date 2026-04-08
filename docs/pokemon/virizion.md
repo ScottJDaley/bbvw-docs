@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/640.png" width="40" /> **[Virizion]( virizion.md)**
+<img src="../img/pokemon/640.png" width="40" /> **[Virizion](../pokemon/virizion.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/146.png" width="40" /> **[Moltres]( moltres.md)**
+<img src="../img/pokemon/146.png" width="40" /> **[Moltres](../pokemon/moltres.md)**
 
 ## Abilities
 | Slot | Original | New |

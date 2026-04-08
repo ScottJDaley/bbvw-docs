@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew]( sandshrew.md)**  ➡️  <img src="../img/pokemon/028.png" width="40" /> **[Sandslash]( sandslash.md)** (Lv. 22)
+<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew](../pokemon/sandshrew.md)**  ➡️  <img src="../img/pokemon/028.png" width="40" /> **[Sandslash](../pokemon/sandslash.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,12 +6,12 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/513.png" width="40" /> **[Pansear]( pansear.md)**  ➡️  <img src="../img/pokemon/514.png" width="40" /> **[Simisear]( simisear.md)** (Use fire-stone)
+<img src="../img/pokemon/513.png" width="40" /> **[Pansear](../pokemon/pansear.md)**  ➡️  <img src="../img/pokemon/514.png" width="40" /> **[Simisear](../pokemon/simisear.md)** (Use fire-stone)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Pansear) / Unburden (Simisear)](../abilities/gluttony-(pansear)-/-unburden-(simisear).md)**:  |
+| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Pansear) / Unburden (Simisear)](../abilities/gluttony-(pansear)---unburden-(simisear).md)**:  |
 | Ability 2 | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. |
 
 ## Type Defenses

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/331.png" width="40" /> **[Cacnea]( cacnea.md)**  ➡️  <img src="../img/pokemon/332.png" width="40" /> **[Cacturne]( cacturne.md)** (Lv. 32)
+<img src="../img/pokemon/331.png" width="40" /> **[Cacnea](../pokemon/cacnea.md)**  ➡️  <img src="../img/pokemon/332.png" width="40" /> **[Cacturne](../pokemon/cacturne.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/193.png" width="40" /> **[Yanma]( yanma.md)**  ➡️  <img src="../img/pokemon/469.png" width="40" /> **[Yanmega]( yanmega.md)** (Know ancient-power)
+<img src="../img/pokemon/193.png" width="40" /> **[Yanma](../pokemon/yanma.md)**  ➡️  <img src="../img/pokemon/469.png" width="40" /> **[Yanmega](../pokemon/yanmega.md)** (Know ancient-power)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

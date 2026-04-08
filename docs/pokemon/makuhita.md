@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/296.png" width="40" /> **[Makuhita]( makuhita.md)**  ➡️  <img src="../img/pokemon/297.png" width="40" /> **[Hariyama]( hariyama.md)** (Lv. 24)
+<img src="../img/pokemon/296.png" width="40" /> **[Makuhita](../pokemon/makuhita.md)**  ➡️  <img src="../img/pokemon/297.png" width="40" /> **[Hariyama](../pokemon/hariyama.md)** (Lv. 24)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

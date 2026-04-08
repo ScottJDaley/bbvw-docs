@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/438.png" width="40" /> **[Bonsly]( bonsly.md)**  ➡️  <img src="../img/pokemon/185.png" width="40" /> **[Sudowoodo]( sudowoodo.md)** (Know mimic)
+<img src="../img/pokemon/438.png" width="40" /> **[Bonsly](../pokemon/bonsly.md)**  ➡️  <img src="../img/pokemon/185.png" width="40" /> **[Sudowoodo](../pokemon/sudowoodo.md)** (Know mimic)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

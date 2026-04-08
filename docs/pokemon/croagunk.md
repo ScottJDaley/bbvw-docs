@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/453.png" width="40" /> **[Croagunk]( croagunk.md)**  ➡️  <img src="../img/pokemon/454.png" width="40" /> **[Toxicroak]( toxicroak.md)** (Lv. 37)
+<img src="../img/pokemon/453.png" width="40" /> **[Croagunk](../pokemon/croagunk.md)**  ➡️  <img src="../img/pokemon/454.png" width="40" /> **[Toxicroak](../pokemon/toxicroak.md)** (Lv. 37)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

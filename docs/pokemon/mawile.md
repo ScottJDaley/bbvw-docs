@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/303.png" width="40" /> **[Mawile]( mawile.md)**
+<img src="../img/pokemon/303.png" width="40" /> **[Mawile](../pokemon/mawile.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -44,11 +44,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

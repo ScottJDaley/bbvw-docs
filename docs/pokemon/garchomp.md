@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/443.png" width="40" /> **[Gible]( gible.md)**  ➡️  <img src="../img/pokemon/444.png" width="40" /> **[Gabite]( gabite.md)** (Lv. 24)  ➡️  <img src="../img/pokemon/445.png" width="40" /> **[Garchomp]( garchomp.md)** (Lv. 48)
+<img src="../img/pokemon/443.png" width="40" /> **[Gible](../pokemon/gible.md)**  ➡️  <img src="../img/pokemon/444.png" width="40" /> **[Gabite](../pokemon/gabite.md)** (Lv. 24)  ➡️  <img src="../img/pokemon/445.png" width="40" /> **[Garchomp](../pokemon/garchomp.md)** (Lv. 48)
 
 ## Abilities
 | Slot | Original | New |

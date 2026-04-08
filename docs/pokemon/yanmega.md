@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/193.png" width="40" /> **[Yanma]( yanma.md)**  ➡️  <img src="../img/pokemon/469.png" width="40" /> **[Yanmega]( yanmega.md)** (Know ancient-power)
+<img src="../img/pokemon/193.png" width="40" /> **[Yanma](../pokemon/yanma.md)**  ➡️  <img src="../img/pokemon/469.png" width="40" /> **[Yanmega](../pokemon/yanmega.md)** (Know ancient-power)
 
 ## Abilities
 | Slot | Original | New |

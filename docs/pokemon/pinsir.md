@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/127.png" width="40" /> **[Pinsir]( pinsir.md)**
+<img src="../img/pokemon/127.png" width="40" /> **[Pinsir](../pokemon/pinsir.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

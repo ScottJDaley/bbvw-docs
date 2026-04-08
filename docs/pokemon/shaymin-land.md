@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
- **[Shaymin]( shaymin.md)**
+ **[Shaymin](../pokemon/shaymin.md)**
 
 ## Abilities
 | Slot | Original | New |

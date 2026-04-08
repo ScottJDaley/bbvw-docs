@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/622.png" width="40" /> **[Golett]( golett.md)**  ➡️  <img src="../img/pokemon/623.png" width="40" /> **[Golurk]( golurk.md)** (Lv. 43)
+<img src="../img/pokemon/622.png" width="40" /> **[Golett](../pokemon/golett.md)**  ➡️  <img src="../img/pokemon/623.png" width="40" /> **[Golurk](../pokemon/golurk.md)** (Lv. 43)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 30% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

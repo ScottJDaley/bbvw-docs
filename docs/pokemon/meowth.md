@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/052.png" width="40" /> **[Meowth]( meowth.md)**  ➡️  <img src="../img/pokemon/053.png" width="40" /> **[Persian]( persian.md)** (Lv. 28) |  **[Perrserker]( perrserker.md)** (Lv. 28)
+<img src="../img/pokemon/052.png" width="40" /> **[Meowth](../pokemon/meowth.md)**  ➡️  <img src="../img/pokemon/053.png" width="40" /> **[Persian](../pokemon/persian.md)** (Lv. 28) |  **[Perrserker](../pokemon/perrserker.md)** (Lv. 28)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

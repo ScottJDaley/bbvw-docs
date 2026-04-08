@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/213.png" width="40" /> **[Shuckle]( shuckle.md)**
+<img src="../img/pokemon/213.png" width="40" /> **[Shuckle](../pokemon/shuckle.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

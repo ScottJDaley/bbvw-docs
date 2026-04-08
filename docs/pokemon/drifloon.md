@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/425.png" width="40" /> **[Drifloon]( drifloon.md)**  ➡️  <img src="../img/pokemon/426.png" width="40" /> **[Drifblim]( drifblim.md)** (Lv. 28)
+<img src="../img/pokemon/425.png" width="40" /> **[Drifloon](../pokemon/drifloon.md)**  ➡️  <img src="../img/pokemon/426.png" width="40" /> **[Drifblim](../pokemon/drifblim.md)** (Lv. 28)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/270.png" width="40" /> **[Lotad]( lotad.md)**  ➡️  <img src="../img/pokemon/271.png" width="40" /> **[Lombre]( lombre.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo]( ludicolo.md)** (Use water-stone)
+<img src="../img/pokemon/270.png" width="40" /> **[Lotad](../pokemon/lotad.md)**  ➡️  <img src="../img/pokemon/271.png" width="40" /> **[Lombre](../pokemon/lombre.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo](../pokemon/ludicolo.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |

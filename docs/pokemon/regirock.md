@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/377.png" width="40" /> **[Regirock]( regirock.md)**
+<img src="../img/pokemon/377.png" width="40" /> **[Regirock](../pokemon/regirock.md)**
 
 ## Abilities
 | Slot | Original | New |

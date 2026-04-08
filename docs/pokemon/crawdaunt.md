@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/341.png" width="40" /> **[Corphish]( corphish.md)**  ➡️  <img src="../img/pokemon/342.png" width="40" /> **[Crawdaunt]( crawdaunt.md)** (Lv. 30)
+<img src="../img/pokemon/341.png" width="40" /> **[Corphish](../pokemon/corphish.md)**  ➡️  <img src="../img/pokemon/342.png" width="40" /> **[Crawdaunt](../pokemon/crawdaunt.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/016.png" width="40" /> **[Pidgey]( pidgey.md)**  ➡️  <img src="../img/pokemon/017.png" width="40" /> **[Pidgeotto]( pidgeotto.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/018.png" width="40" /> **[Pidgeot]( pidgeot.md)** (Lv. 36)
+<img src="../img/pokemon/016.png" width="40" /> **[Pidgey](../pokemon/pidgey.md)**  ➡️  <img src="../img/pokemon/017.png" width="40" /> **[Pidgeotto](../pokemon/pidgeotto.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/018.png" width="40" /> **[Pidgeot](../pokemon/pidgeot.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

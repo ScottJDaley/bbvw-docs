@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/504.png" width="40" /> **[Patrat]( patrat.md)**  ➡️  <img src="../img/pokemon/505.png" width="40" /> **[Watchog]( watchog.md)** (Lv. 20)
+<img src="../img/pokemon/504.png" width="40" /> **[Patrat](../pokemon/patrat.md)**  ➡️  <img src="../img/pokemon/505.png" width="40" /> **[Watchog](../pokemon/watchog.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

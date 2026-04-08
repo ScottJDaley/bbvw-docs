@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/355.png" width="40" /> **[Duskull]( duskull.md)**  ➡️  <img src="../img/pokemon/356.png" width="40" /> **[Dusclops]( dusclops.md)** (Lv. 37)  ➡️  <img src="../img/pokemon/477.png" width="40" /> **[Dusknoir]( dusknoir.md)** (Trade hold reaper-cloth)
+<img src="../img/pokemon/355.png" width="40" /> **[Duskull](../pokemon/duskull.md)**  ➡️  <img src="../img/pokemon/356.png" width="40" /> **[Dusclops](../pokemon/dusclops.md)** (Lv. 37)  ➡️  <img src="../img/pokemon/477.png" width="40" /> **[Dusknoir](../pokemon/dusknoir.md)** (Trade hold reaper-cloth)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

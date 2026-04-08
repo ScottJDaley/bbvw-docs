@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/258.png" width="40" /> **[Mudkip]( mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp]( marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert]( swampert.md)** (Lv. 36)
+<img src="../img/pokemon/258.png" width="40" /> **[Mudkip](../pokemon/mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp](../pokemon/marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert](../pokemon/swampert.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

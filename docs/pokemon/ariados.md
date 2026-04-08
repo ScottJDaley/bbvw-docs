@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/167.png" width="40" /> **[Spinarak]( spinarak.md)**  ➡️  <img src="../img/pokemon/168.png" width="40" /> **[Ariados]( ariados.md)** (Lv. 22)
+<img src="../img/pokemon/167.png" width="40" /> **[Spinarak](../pokemon/spinarak.md)**  ➡️  <img src="../img/pokemon/168.png" width="40" /> **[Ariados](../pokemon/ariados.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |

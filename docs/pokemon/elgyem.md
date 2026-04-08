@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/605.png" width="40" /> **[Elgyem]( elgyem.md)**  ➡️  <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem]( beheeyem.md)** (Lv. 42)
+<img src="../img/pokemon/605.png" width="40" /> **[Elgyem](../pokemon/elgyem.md)**  ➡️  <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem](../pokemon/beheeyem.md)** (Lv. 42)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,9 +36,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

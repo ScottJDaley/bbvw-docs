@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/245.png" width="40" /> **[Suicune]( suicune.md)**
+<img src="../img/pokemon/245.png" width="40" /> **[Suicune](../pokemon/suicune.md)**
 
 ## Abilities
 | Slot | Original | New |

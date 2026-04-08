@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/381.png" width="40" /> **[Latios]( latios.md)**
+<img src="../img/pokemon/381.png" width="40" /> **[Latios](../pokemon/latios.md)**
 
 ## Abilities
 | Slot | Original | New |

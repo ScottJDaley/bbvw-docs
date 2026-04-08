@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/488.png" width="40" /> **[Cresselia]( cresselia.md)**
+<img src="../img/pokemon/488.png" width="40" /> **[Cresselia](../pokemon/cresselia.md)**
 
 ## Abilities
 | Slot | Original | New |

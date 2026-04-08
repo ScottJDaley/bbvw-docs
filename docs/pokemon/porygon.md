@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/137.png" width="40" /> **[Porygon]( porygon.md)**  ➡️  <img src="../img/pokemon/233.png" width="40" /> **[Porygon2]( porygon2.md)** (Trade hold up-grade)  ➡️  <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z]( porygon-z.md)** (Trade hold dubious-disc)
+<img src="../img/pokemon/137.png" width="40" /> **[Porygon](../pokemon/porygon.md)**  ➡️  <img src="../img/pokemon/233.png" width="40" /> **[Porygon2](../pokemon/porygon2.md)** (Trade hold up-grade)  ➡️  <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z](../pokemon/porygon-z.md)** (Trade hold dubious-disc)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,9 +33,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

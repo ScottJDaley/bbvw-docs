@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/261.png" width="40" /> **[Poochyena]( poochyena.md)**  ➡️  <img src="../img/pokemon/262.png" width="40" /> **[Mightyena]( mightyena.md)** (Lv. 18)
+<img src="../img/pokemon/261.png" width="40" /> **[Poochyena](../pokemon/poochyena.md)**  ➡️  <img src="../img/pokemon/262.png" width="40" /> **[Mightyena](../pokemon/mightyena.md)** (Lv. 18)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

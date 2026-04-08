@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/203.png" width="40" /> **[Girafarig]( girafarig.md)**  ➡️   **[Farigiraf]( farigiraf.md)** (Know twin-beam)
+<img src="../img/pokemon/203.png" width="40" /> **[Girafarig](../pokemon/girafarig.md)**  ➡️   **[Farigiraf](../pokemon/farigiraf.md)** (Know twin-beam)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,9 +35,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

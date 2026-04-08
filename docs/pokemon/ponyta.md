@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/077.png" width="40" /> **[Ponyta]( ponyta.md)**  ➡️  <img src="../img/pokemon/078.png" width="40" /> **[Rapidash]( rapidash.md)** (Lv. 40)
+<img src="../img/pokemon/077.png" width="40" /> **[Ponyta](../pokemon/ponyta.md)**  ➡️  <img src="../img/pokemon/078.png" width="40" /> **[Rapidash](../pokemon/rapidash.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

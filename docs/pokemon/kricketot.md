@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/401.png" width="40" /> **[Kricketot]( kricketot.md)**  ➡️  <img src="../img/pokemon/402.png" width="40" /> **[Kricketune]( kricketune.md)** (Lv. 10)
+<img src="../img/pokemon/401.png" width="40" /> **[Kricketot](../pokemon/kricketot.md)**  ➡️  <img src="../img/pokemon/402.png" width="40" /> **[Kricketune](../pokemon/kricketune.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

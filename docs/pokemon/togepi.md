@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/175.png" width="40" /> **[Togepi]( togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic]( togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss]( togekiss.md)** (Use shiny-stone)
+<img src="../img/pokemon/175.png" width="40" /> **[Togepi](../pokemon/togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic](../pokemon/togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss](../pokemon/togekiss.md)** (Use shiny-stone)
 
 ## Abilities
 | Slot | Original | New |

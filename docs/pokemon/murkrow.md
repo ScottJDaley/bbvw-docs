@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/198.png" width="40" /> **[Murkrow]( murkrow.md)**  ➡️  <img src="../img/pokemon/430.png" width="40" /> **[Honchkrow]( honchkrow.md)** (Use dusk-stone)
+<img src="../img/pokemon/198.png" width="40" /> **[Murkrow](../pokemon/murkrow.md)**  ➡️  <img src="../img/pokemon/430.png" width="40" /> **[Honchkrow](../pokemon/honchkrow.md)** (Use dusk-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,10 +39,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

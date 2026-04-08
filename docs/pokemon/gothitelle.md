@@ -7,7 +7,7 @@ Original: <img src="../img/types/psychic.png" width="60" />
 New: <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/574.png" width="40" /> **[Gothita]( gothita.md)**  ➡️  <img src="../img/pokemon/575.png" width="40" /> **[Gothorita]( gothorita.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/576.png" width="40" /> **[Gothitelle]( gothitelle.md)** (Lv. 41)
+<img src="../img/pokemon/574.png" width="40" /> **[Gothita](../pokemon/gothita.md)**  ➡️  <img src="../img/pokemon/575.png" width="40" /> **[Gothorita](../pokemon/gothorita.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/576.png" width="40" /> **[Gothitelle](../pokemon/gothitelle.md)** (Lv. 41)
 
 ## Abilities
 | Slot | Original | New |
@@ -34,7 +34,7 @@ New: <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/da
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

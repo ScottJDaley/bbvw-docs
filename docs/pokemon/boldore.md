@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola]( roggenrola.md)**  ➡️  <img src="../img/pokemon/525.png" width="40" /> **[Boldore]( boldore.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/526.png" width="40" /> **[Gigalith]( gigalith.md)** (Trade)
+<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola](../pokemon/roggenrola.md)**  ➡️  <img src="../img/pokemon/525.png" width="40" /> **[Boldore](../pokemon/boldore.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/526.png" width="40" /> **[Gigalith](../pokemon/gigalith.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,12 +40,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

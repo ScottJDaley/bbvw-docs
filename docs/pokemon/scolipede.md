@@ -6,12 +6,12 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/543.png" width="40" /> **[Venipede]( venipede.md)**  ➡️  <img src="../img/pokemon/544.png" width="40" /> **[Whirlipede]( whirlipede.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/545.png" width="40" /> **[Scolipede]( scolipede.md)** (Lv. 30)
+<img src="../img/pokemon/543.png" width="40" /> **[Venipede](../pokemon/venipede.md)**  ➡️  <img src="../img/pokemon/544.png" width="40" /> **[Whirlipede](../pokemon/whirlipede.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/545.png" width="40" /> **[Scolipede](../pokemon/scolipede.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)](../abilities/poison-point-(venipede)-/-battle-armor-(whirlipede)-/-poison-touch-(scolipede).md)**:  |
+| Ability 1 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Poison Point (Venipede) / Battle Armor (Whirlipede) / Poison Touch (Scolipede)](../abilities/poison-point-(venipede)---battle-armor-(whirlipede)---poison-touch-(scolipede).md)**:  |
 | Ability 2 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 
 ## Type Defenses

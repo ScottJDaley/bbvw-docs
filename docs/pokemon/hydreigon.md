@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/633.png" width="40" /> **[Deino]( deino.md)**  ➡️  <img src="../img/pokemon/634.png" width="40" /> **[Zweilous]( zweilous.md)** (Lv. 50)  ➡️  <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon]( hydreigon.md)** (Lv. 64)
+<img src="../img/pokemon/633.png" width="40" /> **[Deino](../pokemon/deino.md)**  ➡️  <img src="../img/pokemon/634.png" width="40" /> **[Zweilous](../pokemon/zweilous.md)** (Lv. 50)  ➡️  <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon](../pokemon/hydreigon.md)** (Lv. 64)
 
 ## Abilities
 | Slot | Original | New |

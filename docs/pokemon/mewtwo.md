@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/150.png" width="40" /> **[Mewtwo]( mewtwo.md)**
+<img src="../img/pokemon/150.png" width="40" /> **[Mewtwo](../pokemon/mewtwo.md)**
 
 ## Abilities
 | Slot | Original | New |

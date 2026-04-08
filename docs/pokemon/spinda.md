@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/327.png" width="40" /> **[Spinda]( spinda.md)**
+<img src="../img/pokemon/327.png" width="40" /> **[Spinda](../pokemon/spinda.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/324.png" width="40" /> **[Torkoal]( torkoal.md)**
+<img src="../img/pokemon/324.png" width="40" /> **[Torkoal](../pokemon/torkoal.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 20% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/041.png" width="40" /> **[Zubat]( zubat.md)**  ➡️  <img src="../img/pokemon/042.png" width="40" /> **[Golbat]( golbat.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/169.png" width="40" /> **[Crobat]( crobat.md)** (Happiness)
+<img src="../img/pokemon/041.png" width="40" /> **[Zubat](../pokemon/zubat.md)**  ➡️  <img src="../img/pokemon/042.png" width="40" /> **[Golbat](../pokemon/golbat.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/169.png" width="40" /> **[Crobat](../pokemon/crobat.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

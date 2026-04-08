@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/131.png" width="40" /> **[Lapras]( lapras.md)**
+<img src="../img/pokemon/131.png" width="40" /> **[Lapras](../pokemon/lapras.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

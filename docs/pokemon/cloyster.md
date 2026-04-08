@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/090.png" width="40" /> **[Shellder]( shellder.md)**  ➡️  <img src="../img/pokemon/091.png" width="40" /> **[Cloyster]( cloyster.md)** (Use water-stone)
+<img src="../img/pokemon/090.png" width="40" /> **[Shellder](../pokemon/shellder.md)**  ➡️  <img src="../img/pokemon/091.png" width="40" /> **[Cloyster](../pokemon/cloyster.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 100% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 100% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

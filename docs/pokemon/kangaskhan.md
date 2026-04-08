@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/115.png" width="40" /> **[Kangaskhan]( kangaskhan.md)**
+<img src="../img/pokemon/115.png" width="40" /> **[Kangaskhan](../pokemon/kangaskhan.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -33,10 +33,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

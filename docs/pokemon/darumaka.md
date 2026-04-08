@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/554.png" width="40" /> **[Darumaka]( darumaka.md)**  ➡️   **[Darmanitan]( darmanitan.md)** (Lv. 35)
+<img src="../img/pokemon/554.png" width="40" /> **[Darumaka](../pokemon/darumaka.md)**  ➡️   **[Darmanitan](../pokemon/darmanitan.md)** (Lv. 35)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,9 +39,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

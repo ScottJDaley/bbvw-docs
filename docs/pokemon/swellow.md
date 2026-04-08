@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/276.png" width="40" /> **[Taillow]( taillow.md)**  ➡️  <img src="../img/pokemon/277.png" width="40" /> **[Swellow]( swellow.md)** (Lv. 22)
+<img src="../img/pokemon/276.png" width="40" /> **[Taillow](../pokemon/taillow.md)**  ➡️  <img src="../img/pokemon/277.png" width="40" /> **[Swellow](../pokemon/swellow.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,9 +38,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

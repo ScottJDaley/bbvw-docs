@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/206.png" width="40" /> **[Dunsparce]( dunsparce.md)**  ➡️   **[Dudunsparce]( dudunsparce.md)** (Know hyper-drill)
+<img src="../img/pokemon/206.png" width="40" /> **[Dunsparce](../pokemon/dunsparce.md)**  ➡️   **[Dudunsparce](../pokemon/dudunsparce.md)** (Know hyper-drill)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

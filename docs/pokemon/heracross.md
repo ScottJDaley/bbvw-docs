@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/214.png" width="40" /> **[Heracross]( heracross.md)**
+<img src="../img/pokemon/214.png" width="40" /> **[Heracross](../pokemon/heracross.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -39,11 +39,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 2% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 2% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

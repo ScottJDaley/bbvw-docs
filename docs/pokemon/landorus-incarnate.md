@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
- **[Landorus]( landorus.md)**
+ **[Landorus](../pokemon/landorus.md)**
 
 ## Abilities
 | Slot | Original | New |

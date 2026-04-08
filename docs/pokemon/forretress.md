@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/204.png" width="40" /> **[Pineco]( pineco.md)**  ➡️  <img src="../img/pokemon/205.png" width="40" /> **[Forretress]( forretress.md)** (Lv. 31)
+<img src="../img/pokemon/204.png" width="40" /> **[Pineco](../pokemon/pineco.md)**  ➡️  <img src="../img/pokemon/205.png" width="40" /> **[Forretress](../pokemon/forretress.md)** (Lv. 31)
 
 ## Abilities
 | Slot | Original | New |

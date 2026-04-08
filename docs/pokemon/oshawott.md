@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/501.png" width="40" /> **[Oshawott]( oshawott.md)**  ➡️  <img src="../img/pokemon/502.png" width="40" /> **[Dewott]( dewott.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/503.png" width="40" /> **[Samurott]( samurott.md)** (Lv. 36)
+<img src="../img/pokemon/501.png" width="40" /> **[Oshawott](../pokemon/oshawott.md)**  ➡️  <img src="../img/pokemon/502.png" width="40" /> **[Dewott](../pokemon/dewott.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/503.png" width="40" /> **[Samurott](../pokemon/samurott.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

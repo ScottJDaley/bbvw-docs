@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/307.png" width="40" /> **[Meditite]( meditite.md)**  ➡️  <img src="../img/pokemon/308.png" width="40" /> **[Medicham]( medicham.md)** (Lv. 37)
+<img src="../img/pokemon/307.png" width="40" /> **[Meditite](../pokemon/meditite.md)**  ➡️  <img src="../img/pokemon/308.png" width="40" /> **[Medicham](../pokemon/medicham.md)** (Lv. 37)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

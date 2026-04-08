@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/646.png" width="40" /> **[Kyurem]( kyurem.md)**
+<img src="../img/pokemon/646.png" width="40" /> **[Kyurem](../pokemon/kyurem.md)**
 
 ## Abilities
 | Slot | Original | New |

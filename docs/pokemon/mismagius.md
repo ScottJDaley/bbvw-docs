@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/200.png" width="40" /> **[Misdreavus]( misdreavus.md)**  ➡️  <img src="../img/pokemon/429.png" width="40" /> **[Mismagius]( mismagius.md)** (Use dusk-stone)
+<img src="../img/pokemon/200.png" width="40" /> **[Misdreavus](../pokemon/misdreavus.md)**  ➡️  <img src="../img/pokemon/429.png" width="40" /> **[Mismagius](../pokemon/mismagius.md)** (Use dusk-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

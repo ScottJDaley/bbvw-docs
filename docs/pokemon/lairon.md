@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/304.png" width="40" /> **[Aron]( aron.md)**  ➡️  <img src="../img/pokemon/305.png" width="40" /> **[Lairon]( lairon.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/306.png" width="40" /> **[Aggron]( aggron.md)** (Lv. 42)
+<img src="../img/pokemon/304.png" width="40" /> **[Aron](../pokemon/aron.md)**  ➡️  <img src="../img/pokemon/305.png" width="40" /> **[Lairon](../pokemon/lairon.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/306.png" width="40" /> **[Aggron](../pokemon/aggron.md)** (Lv. 42)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,9 +42,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

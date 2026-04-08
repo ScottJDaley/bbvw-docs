@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff]( igglybuff.md)**  ➡️  <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff]( jigglypuff.md)** (Happiness)  ➡️  <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff]( wigglytuff.md)** (Use moon-stone)
+<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff](../pokemon/igglybuff.md)**  ➡️  <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff](../pokemon/jigglypuff.md)** (Happiness)  ➡️  <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff](../pokemon/wigglytuff.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

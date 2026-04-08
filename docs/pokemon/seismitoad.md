@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/535.png" width="40" /> **[Tympole]( tympole.md)**  ➡️  <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad]( palpitoad.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad]( seismitoad.md)** (Lv. 36)
+<img src="../img/pokemon/535.png" width="40" /> **[Tympole](../pokemon/tympole.md)**  ➡️  <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad](../pokemon/palpitoad.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad](../pokemon/seismitoad.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

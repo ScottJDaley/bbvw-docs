@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/624.png" width="40" /> **[Pawniard]( pawniard.md)**  ➡️  <img src="../img/pokemon/625.png" width="40" /> **[Bisharp]( bisharp.md)** (Lv. 52)  ➡️   **[Kingambit]( kingambit.md)** (First Stage)
+<img src="../img/pokemon/624.png" width="40" /> **[Pawniard](../pokemon/pawniard.md)**  ➡️  <img src="../img/pokemon/625.png" width="40" /> **[Bisharp](../pokemon/bisharp.md)** (Lv. 52)  ➡️   **[Kingambit](../pokemon/kingambit.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -45,8 +45,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

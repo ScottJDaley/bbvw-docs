@@ -6,12 +6,12 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/515.png" width="40" /> **[Panpour]( panpour.md)**  ➡️  <img src="../img/pokemon/516.png" width="40" /> **[Simipour]( simipour.md)** (Use water-stone)
+<img src="../img/pokemon/515.png" width="40" /> **[Panpour](../pokemon/panpour.md)**  ➡️  <img src="../img/pokemon/516.png" width="40" /> **[Simipour](../pokemon/simipour.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Panpour) / Unburden (Simipour)](../abilities/gluttony-(panpour)-/-unburden-(simipour).md)**:  |
+| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Panpour) / Unburden (Simipour)](../abilities/gluttony-(panpour)---unburden-(simipour).md)**:  |
 | Ability 2 | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. |
 
 ## Type Defenses

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/493.png" width="40" /> **[Arceus]( arceus.md)**
+<img src="../img/pokemon/493.png" width="40" /> **[Arceus](../pokemon/arceus.md)**
 
 ## Abilities
 | Slot | Original | New |

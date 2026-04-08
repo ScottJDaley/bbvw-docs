@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
- **[Keldeo]( keldeo.md)**
+ **[Keldeo](../pokemon/keldeo.md)**
 
 ## Abilities
 | Slot | Original | New |

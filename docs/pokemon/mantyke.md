@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/458.png" width="40" /> **[Mantyke]( mantyke.md)**  ➡️  <img src="../img/pokemon/226.png" width="40" /> **[Mantine]( mantine.md)** (Level Up)
+<img src="../img/pokemon/458.png" width="40" /> **[Mantyke](../pokemon/mantyke.md)**  ➡️  <img src="../img/pokemon/226.png" width="40" /> **[Mantine](../pokemon/mantine.md)** (Level Up)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,10 +39,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

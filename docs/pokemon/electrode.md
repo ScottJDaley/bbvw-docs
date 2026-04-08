@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/100.png" width="40" /> **[Voltorb]( voltorb.md)**  ➡️  <img src="../img/pokemon/101.png" width="40" /> **[Electrode]( electrode.md)** (Lv. 30)
+<img src="../img/pokemon/100.png" width="40" /> **[Voltorb](../pokemon/voltorb.md)**  ➡️  <img src="../img/pokemon/101.png" width="40" /> **[Electrode](../pokemon/electrode.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,9 +35,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

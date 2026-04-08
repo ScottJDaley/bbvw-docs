@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff]( igglybuff.md)**  ➡️  <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff]( jigglypuff.md)** (Happiness)  ➡️  <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff]( wigglytuff.md)** (Use moon-stone)
+<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff](../pokemon/igglybuff.md)**  ➡️  <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff](../pokemon/jigglypuff.md)** (Happiness)  ➡️  <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff](../pokemon/wigglytuff.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |

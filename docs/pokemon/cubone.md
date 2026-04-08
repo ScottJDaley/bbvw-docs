@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/104.png" width="40" /> **[Cubone]( cubone.md)**  ➡️  <img src="../img/pokemon/105.png" width="40" /> **[Marowak]( marowak.md)** (Lv. 28)
+<img src="../img/pokemon/104.png" width="40" /> **[Cubone](../pokemon/cubone.md)**  ➡️  <img src="../img/pokemon/105.png" width="40" /> **[Marowak](../pokemon/marowak.md)** (Lv. 28)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

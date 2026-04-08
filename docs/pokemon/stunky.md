@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/434.png" width="40" /> **[Stunky]( stunky.md)**  ➡️  <img src="../img/pokemon/435.png" width="40" /> **[Skuntank]( skuntank.md)** (Lv. 34)
+<img src="../img/pokemon/434.png" width="40" /> **[Stunky](../pokemon/stunky.md)**  ➡️  <img src="../img/pokemon/435.png" width="40" /> **[Skuntank](../pokemon/skuntank.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

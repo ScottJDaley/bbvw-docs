@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/585.png" width="40" /> **[Deerling]( deerling.md)**  ➡️  <img src="../img/pokemon/586.png" width="40" /> **[Sawsbuck]( sawsbuck.md)** (Lv. 34)
+<img src="../img/pokemon/585.png" width="40" /> **[Deerling](../pokemon/deerling.md)**  ➡️  <img src="../img/pokemon/586.png" width="40" /> **[Sawsbuck](../pokemon/sawsbuck.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,9 +42,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

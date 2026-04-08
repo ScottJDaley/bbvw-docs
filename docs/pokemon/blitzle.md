@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/522.png" width="40" /> **[Blitzle]( blitzle.md)**  ➡️  <img src="../img/pokemon/523.png" width="40" /> **[Zebstrika]( zebstrika.md)** (Lv. 27)
+<img src="../img/pokemon/522.png" width="40" /> **[Blitzle](../pokemon/blitzle.md)**  ➡️  <img src="../img/pokemon/523.png" width="40" /> **[Zebstrika](../pokemon/zebstrika.md)** (Lv. 27)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

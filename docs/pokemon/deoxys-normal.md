@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
- **[Deoxys]( deoxys.md)**
+ **[Deoxys](../pokemon/deoxys.md)**
 
 ## Abilities
 | Slot | Original | New |

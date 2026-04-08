@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f]( nidoran-f.md)**  ➡️  <img src="../img/pokemon/030.png" width="40" /> **[Nidorina]( nidorina.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen]( nidoqueen.md)** (Use moon-stone)
+<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f](../pokemon/nidoran-f.md)**  ➡️  <img src="../img/pokemon/030.png" width="40" /> **[Nidorina](../pokemon/nidorina.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen](../pokemon/nidoqueen.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,6 +33,11 @@
 | Special attack | 40 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 40 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 41 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

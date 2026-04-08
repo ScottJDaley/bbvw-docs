@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/095.png" width="40" /> **[Onix]( onix.md)**  ➡️  <img src="../img/pokemon/208.png" width="40" /> **[Steelix]( steelix.md)** (Trade hold metal-coat)
+<img src="../img/pokemon/095.png" width="40" /> **[Onix](../pokemon/onix.md)**  ➡️  <img src="../img/pokemon/208.png" width="40" /> **[Steelix](../pokemon/steelix.md)** (Trade hold metal-coat)
 
 ## Abilities
 | Slot | Original | New |
@@ -43,8 +43,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

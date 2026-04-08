@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/270.png" width="40" /> **[Lotad]( lotad.md)**  ➡️  <img src="../img/pokemon/271.png" width="40" /> **[Lombre]( lombre.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo]( ludicolo.md)** (Use water-stone)
+<img src="../img/pokemon/270.png" width="40" /> **[Lotad](../pokemon/lotad.md)**  ➡️  <img src="../img/pokemon/271.png" width="40" /> **[Lombre](../pokemon/lombre.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo](../pokemon/ludicolo.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 1% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 1% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

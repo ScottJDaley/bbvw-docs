@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/610.png" width="40" /> **[Axew]( axew.md)**  ➡️  <img src="../img/pokemon/611.png" width="40" /> **[Fraxure]( fraxure.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/612.png" width="40" /> **[Haxorus]( haxorus.md)** (Lv. 48)
+<img src="../img/pokemon/610.png" width="40" /> **[Axew](../pokemon/axew.md)**  ➡️  <img src="../img/pokemon/611.png" width="40" /> **[Fraxure](../pokemon/fraxure.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/612.png" width="40" /> **[Haxorus](../pokemon/haxorus.md)** (Lv. 48)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

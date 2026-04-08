@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/123.png" width="40" /> **[Scyther]( scyther.md)**  ➡️  <img src="../img/pokemon/212.png" width="40" /> **[Scizor]( scizor.md)** (Trade hold metal-coat) |  **[Kleavor]( kleavor.md)** (Use black-augurite)
+<img src="../img/pokemon/123.png" width="40" /> **[Scyther](../pokemon/scyther.md)**  ➡️  <img src="../img/pokemon/212.png" width="40" /> **[Scizor](../pokemon/scizor.md)** (Trade hold metal-coat) |  **[Kleavor](../pokemon/kleavor.md)** (Use black-augurite)
 
 ## Abilities
 | Slot | Original | New |

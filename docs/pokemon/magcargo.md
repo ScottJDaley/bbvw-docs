@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/218.png" width="40" /> **[Slugma]( slugma.md)**  ➡️  <img src="../img/pokemon/219.png" width="40" /> **[Magcargo]( magcargo.md)** (Lv. 38)
+<img src="../img/pokemon/218.png" width="40" /> **[Slugma](../pokemon/slugma.md)**  ➡️  <img src="../img/pokemon/219.png" width="40" /> **[Magcargo](../pokemon/magcargo.md)** (Lv. 38)
 
 ## Abilities
 | Slot | Original | New |

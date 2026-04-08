@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/246.png" width="40" /> **[Larvitar]( larvitar.md)**  ➡️  <img src="../img/pokemon/247.png" width="40" /> **[Pupitar]( pupitar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar]( tyranitar.md)** (Lv. 55)
+<img src="../img/pokemon/246.png" width="40" /> **[Larvitar](../pokemon/larvitar.md)**  ➡️  <img src="../img/pokemon/247.png" width="40" /> **[Pupitar](../pokemon/pupitar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar](../pokemon/tyranitar.md)** (Lv. 55)
 
 ## Abilities
 | Slot | Original | New |
@@ -44,7 +44,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

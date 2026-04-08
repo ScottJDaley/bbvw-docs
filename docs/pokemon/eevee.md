@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)**  ➡️  <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon]( vaporeon.md)** (Use water-stone) | <img src="../img/pokemon/135.png" width="40" /> **[Jolteon]( jolteon.md)** (Use thunder-stone) | <img src="../img/pokemon/136.png" width="40" /> **[Flareon]( flareon.md)** (Use fire-stone) | <img src="../img/pokemon/196.png" width="40" /> **[Espeon]( espeon.md)** (Happiness) | <img src="../img/pokemon/197.png" width="40" /> **[Umbreon]( umbreon.md)** (Happiness) | <img src="../img/pokemon/470.png" width="40" /> **[Leafeon]( leafeon.md)** (At eterna-forest) | <img src="../img/pokemon/471.png" width="40" /> **[Glaceon]( glaceon.md)** (At sinnoh-route-217) |  **[Sylveon]( sylveon.md)** (Level Up)
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee](../pokemon/eevee.md)**  ➡️  <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon](../pokemon/vaporeon.md)** (Use water-stone) | <img src="../img/pokemon/135.png" width="40" /> **[Jolteon](../pokemon/jolteon.md)** (Use thunder-stone) | <img src="../img/pokemon/136.png" width="40" /> **[Flareon](../pokemon/flareon.md)** (Use fire-stone) | <img src="../img/pokemon/196.png" width="40" /> **[Espeon](../pokemon/espeon.md)** (Happiness) | <img src="../img/pokemon/197.png" width="40" /> **[Umbreon](../pokemon/umbreon.md)** (Happiness) | <img src="../img/pokemon/470.png" width="40" /> **[Leafeon](../pokemon/leafeon.md)** (At eterna-forest) | <img src="../img/pokemon/471.png" width="40" /> **[Glaceon](../pokemon/glaceon.md)** (At sinnoh-route-217) |  **[Sylveon](../pokemon/sylveon.md)** (Level Up)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,8 +33,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

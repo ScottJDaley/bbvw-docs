@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/602.png" width="40" /> **[Tynamo]( tynamo.md)**  ➡️  <img src="../img/pokemon/603.png" width="40" /> **[Eelektrik]( eelektrik.md)** (Lv. 39)  ➡️  <img src="../img/pokemon/604.png" width="40" /> **[Eelektross]( eelektross.md)** (Use thunder-stone)
+<img src="../img/pokemon/602.png" width="40" /> **[Tynamo](../pokemon/tynamo.md)**  ➡️  <img src="../img/pokemon/603.png" width="40" /> **[Eelektrik](../pokemon/eelektrik.md)** (Lv. 39)  ➡️  <img src="../img/pokemon/604.png" width="40" /> **[Eelektross](../pokemon/eelektross.md)** (Use thunder-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

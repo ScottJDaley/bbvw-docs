@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/557.png" width="40" /> **[Dwebble]( dwebble.md)**  ➡️  <img src="../img/pokemon/558.png" width="40" /> **[Crustle]( crustle.md)** (Lv. 34)
+<img src="../img/pokemon/557.png" width="40" /> **[Dwebble](../pokemon/dwebble.md)**  ➡️  <img src="../img/pokemon/558.png" width="40" /> **[Crustle](../pokemon/crustle.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,9 +36,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

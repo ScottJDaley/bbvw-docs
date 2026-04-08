@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/032.png" width="40" /> **[Nidoran-m]( nidoran-m.md)**  ➡️  <img src="../img/pokemon/033.png" width="40" /> **[Nidorino]( nidorino.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/034.png" width="40" /> **[Nidoking]( nidoking.md)** (Use moon-stone)
+<img src="../img/pokemon/032.png" width="40" /> **[Nidoran-m](../pokemon/nidoran-m.md)**  ➡️  <img src="../img/pokemon/033.png" width="40" /> **[Nidorino](../pokemon/nidorino.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/034.png" width="40" /> **[Nidoking](../pokemon/nidoking.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

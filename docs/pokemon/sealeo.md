@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/363.png" width="40" /> **[Spheal]( spheal.md)**  ➡️  <img src="../img/pokemon/364.png" width="40" /> **[Sealeo]( sealeo.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/365.png" width="40" /> **[Walrein]( walrein.md)** (Lv. 44)
+<img src="../img/pokemon/363.png" width="40" /> **[Spheal](../pokemon/spheal.md)**  ➡️  <img src="../img/pokemon/364.png" width="40" /> **[Sealeo](../pokemon/sealeo.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/365.png" width="40" /> **[Walrein](../pokemon/walrein.md)** (Lv. 44)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

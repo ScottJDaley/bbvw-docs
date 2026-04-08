@@ -6,13 +6,13 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle]( sewaddle.md)**  ➡️  <img src="../img/pokemon/541.png" width="40" /> **[Swadloon]( swadloon.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/542.png" width="40" /> **[Leavanny]( leavanny.md)** (Happiness)
+<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle](../pokemon/sewaddle.md)**  ➡️  <img src="../img/pokemon/541.png" width="40" /> **[Swadloon](../pokemon/swadloon.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/542.png" width="40" /> **[Leavanny](../pokemon/leavanny.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)](../abilities/swarm-(sewaddle)-/-leaf-guard-(swadloon)-/-swarm-(leavanny).md)**:  |
-| Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)](../abilities/chlorophyll-(sewaddle)-/-overcoat-(swadloon)-/-chlorophyll-(leavanny).md)**:  |
+| Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm (Sewaddle) / Leaf Guard (Swadloon) / Swarm (Leavanny)](../abilities/swarm-(sewaddle)---leaf-guard-(swadloon)---swarm-(leavanny).md)**:  |
+| Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll (Sewaddle) / Overcoat (Swadloon) / Chlorophyll (Leavanny)](../abilities/chlorophyll-(sewaddle)---overcoat-(swadloon)---chlorophyll-(leavanny).md)**:  |
 
 ## Type Defenses
 | Type | Effectiveness |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

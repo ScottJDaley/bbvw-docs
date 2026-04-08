@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/285.png" width="40" /> **[Shroomish]( shroomish.md)**  ➡️  <img src="../img/pokemon/286.png" width="40" /> **[Breloom]( breloom.md)** (Lv. 23)
+<img src="../img/pokemon/285.png" width="40" /> **[Shroomish](../pokemon/shroomish.md)**  ➡️  <img src="../img/pokemon/286.png" width="40" /> **[Breloom](../pokemon/breloom.md)** (Lv. 23)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

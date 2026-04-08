@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/554.png" width="40" /> **[Darumaka]( darumaka.md)**  ➡️   **[Darmanitan]( darmanitan.md)** (Lv. 35)
+<img src="../img/pokemon/554.png" width="40" /> **[Darumaka](../pokemon/darumaka.md)**  ➡️   **[Darmanitan](../pokemon/darmanitan.md)** (Lv. 35)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/420.png" width="40" /> **[Cherubi]( cherubi.md)**  ➡️  <img src="../img/pokemon/421.png" width="40" /> **[Cherrim]( cherrim.md)** (Lv. 25)
+<img src="../img/pokemon/420.png" width="40" /> **[Cherubi](../pokemon/cherubi.md)**  ➡️  <img src="../img/pokemon/421.png" width="40" /> **[Cherrim](../pokemon/cherrim.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

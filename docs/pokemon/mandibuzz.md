@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/629.png" width="40" /> **[Vullaby]( vullaby.md)**  ➡️  <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz]( mandibuzz.md)** (Lv. 54)
+<img src="../img/pokemon/629.png" width="40" /> **[Vullaby](../pokemon/vullaby.md)**  ➡️  <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz](../pokemon/mandibuzz.md)** (Lv. 54)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,10 +39,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

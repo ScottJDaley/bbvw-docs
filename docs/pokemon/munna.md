@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/517.png" width="40" /> **[Munna]( munna.md)**  ➡️  <img src="../img/pokemon/518.png" width="40" /> **[Musharna]( musharna.md)** (Use moon-stone)
+<img src="../img/pokemon/517.png" width="40" /> **[Munna](../pokemon/munna.md)**  ➡️  <img src="../img/pokemon/518.png" width="40" /> **[Musharna](../pokemon/musharna.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |

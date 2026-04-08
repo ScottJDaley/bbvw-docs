@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/102.png" width="40" /> **[Exeggcute]( exeggcute.md)**  ➡️  <img src="../img/pokemon/103.png" width="40" /> **[Exeggutor]( exeggutor.md)** (Use leaf-stone)
+<img src="../img/pokemon/102.png" width="40" /> **[Exeggcute](../pokemon/exeggcute.md)**  ➡️  <img src="../img/pokemon/103.png" width="40" /> **[Exeggutor](../pokemon/exeggutor.md)** (Use leaf-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -44,8 +44,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

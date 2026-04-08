@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
- **[Giratina]( giratina.md)**
+ **[Giratina](../pokemon/giratina.md)**
 
 ## Abilities
 | Slot | Original | New |

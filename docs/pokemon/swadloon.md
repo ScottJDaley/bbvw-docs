@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle]( sewaddle.md)**  ➡️  <img src="../img/pokemon/541.png" width="40" /> **[Swadloon]( swadloon.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/542.png" width="40" /> **[Leavanny]( leavanny.md)** (Happiness)
+<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle](../pokemon/sewaddle.md)**  ➡️  <img src="../img/pokemon/541.png" width="40" /> **[Swadloon](../pokemon/swadloon.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/542.png" width="40" /> **[Leavanny](../pokemon/leavanny.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,9 +42,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

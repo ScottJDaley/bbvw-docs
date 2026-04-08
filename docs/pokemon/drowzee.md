@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/096.png" width="40" /> **[Drowzee]( drowzee.md)**  ➡️  <img src="../img/pokemon/097.png" width="40" /> **[Hypno]( hypno.md)** (Lv. 26)
+<img src="../img/pokemon/096.png" width="40" /> **[Drowzee](../pokemon/drowzee.md)**  ➡️  <img src="../img/pokemon/097.png" width="40" /> **[Hypno](../pokemon/hypno.md)** (Lv. 26)
 
 ## Abilities
 | Slot | Original | New |

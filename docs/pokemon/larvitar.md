@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/246.png" width="40" /> **[Larvitar]( larvitar.md)**  ➡️  <img src="../img/pokemon/247.png" width="40" /> **[Pupitar]( pupitar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar]( tyranitar.md)** (Lv. 55)
+<img src="../img/pokemon/246.png" width="40" /> **[Larvitar](../pokemon/larvitar.md)**  ➡️  <img src="../img/pokemon/247.png" width="40" /> **[Pupitar](../pokemon/pupitar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar](../pokemon/tyranitar.md)** (Lv. 55)
 
 ## Abilities
 | Slot | Original | New |
@@ -43,8 +43,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 4% |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 4% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

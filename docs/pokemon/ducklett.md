@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/580.png" width="40" /> **[Ducklett]( ducklett.md)**  ➡️  <img src="../img/pokemon/581.png" width="40" /> **[Swanna]( swanna.md)** (Lv. 35)
+<img src="../img/pokemon/580.png" width="40" /> **[Ducklett](../pokemon/ducklett.md)**  ➡️  <img src="../img/pokemon/581.png" width="40" /> **[Swanna](../pokemon/swanna.md)** (Lv. 35)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil Drawbidge](../routes/driftveil_drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

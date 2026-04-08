@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/280.png" width="40" /> **[Ralts]( ralts.md)**  ➡️  <img src="../img/pokemon/281.png" width="40" /> **[Kirlia]( kirlia.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/282.png" width="40" /> **[Gardevoir]( gardevoir.md)** (Lv. 30) | <img src="../img/pokemon/475.png" width="40" /> **[Gallade]( gallade.md)** (Use dawn-stone)
+<img src="../img/pokemon/280.png" width="40" /> **[Ralts](../pokemon/ralts.md)**  ➡️  <img src="../img/pokemon/281.png" width="40" /> **[Kirlia](../pokemon/kirlia.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/282.png" width="40" /> **[Gardevoir](../pokemon/gardevoir.md)** (Lv. 30) | <img src="../img/pokemon/475.png" width="40" /> **[Gallade](../pokemon/gallade.md)** (Use dawn-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

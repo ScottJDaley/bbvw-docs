@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/384.png" width="40" /> **[Rayquaza]( rayquaza.md)**
+<img src="../img/pokemon/384.png" width="40" /> **[Rayquaza](../pokemon/rayquaza.md)**
 
 ## Abilities
 | Slot | Original | New |

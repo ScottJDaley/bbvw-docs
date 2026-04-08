@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/605.png" width="40" /> **[Elgyem]( elgyem.md)**  ➡️  <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem]( beheeyem.md)** (Lv. 42)
+<img src="../img/pokemon/605.png" width="40" /> **[Elgyem](../pokemon/elgyem.md)**  ➡️  <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem](../pokemon/beheeyem.md)** (Lv. 42)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

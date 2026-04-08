@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/167.png" width="40" /> **[Spinarak]( spinarak.md)**  ➡️  <img src="../img/pokemon/168.png" width="40" /> **[Ariados]( ariados.md)** (Lv. 22)
+<img src="../img/pokemon/167.png" width="40" /> **[Spinarak](../pokemon/spinarak.md)**  ➡️  <img src="../img/pokemon/168.png" width="40" /> **[Ariados](../pokemon/ariados.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

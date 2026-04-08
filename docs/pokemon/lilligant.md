@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/548.png" width="40" /> **[Petilil]( petilil.md)**  ➡️  <img src="../img/pokemon/549.png" width="40" /> **[Lilligant]( lilligant.md)** (Use sun-stone)
+<img src="../img/pokemon/548.png" width="40" /> **[Petilil](../pokemon/petilil.md)**  ➡️  <img src="../img/pokemon/549.png" width="40" /> **[Lilligant](../pokemon/lilligant.md)** (Use sun-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

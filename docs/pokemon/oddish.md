@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/043.png" width="40" /> **[Oddish]( oddish.md)**  ➡️  <img src="../img/pokemon/044.png" width="40" /> **[Gloom]( gloom.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/045.png" width="40" /> **[Vileplume]( vileplume.md)** (Use leaf-stone) | <img src="../img/pokemon/182.png" width="40" /> **[Bellossom]( bellossom.md)** (Use sun-stone)
+<img src="../img/pokemon/043.png" width="40" /> **[Oddish](../pokemon/oddish.md)**  ➡️  <img src="../img/pokemon/044.png" width="40" /> **[Gloom](../pokemon/gloom.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/045.png" width="40" /> **[Vileplume](../pokemon/vileplume.md)** (Use leaf-stone) | <img src="../img/pokemon/182.png" width="40" /> **[Bellossom](../pokemon/bellossom.md)** (Use sun-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

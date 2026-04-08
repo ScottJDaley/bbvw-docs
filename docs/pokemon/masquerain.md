@@ -7,7 +7,7 @@ Original: <img src="../img/types/bug.png" width="60" /> <img src="../img/types/f
 New: <img src="../img/types/bug.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/283.png" width="40" /> **[Surskit]( surskit.md)**  ➡️  <img src="../img/pokemon/284.png" width="40" /> **[Masquerain]( masquerain.md)** (Lv. 22)
+<img src="../img/pokemon/283.png" width="40" /> **[Surskit](../pokemon/surskit.md)**  ➡️  <img src="../img/pokemon/284.png" width="40" /> **[Masquerain](../pokemon/masquerain.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@ New: <img src="../img/types/bug.png" width="60" /> <img src="../img/types/water.
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

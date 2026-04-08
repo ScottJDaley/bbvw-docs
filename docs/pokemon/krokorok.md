@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/551.png" width="40" /> **[Sandile]( sandile.md)**  ➡️  <img src="../img/pokemon/552.png" width="40" /> **[Krokorok]( krokorok.md)** (Lv. 29)  ➡️  <img src="../img/pokemon/553.png" width="40" /> **[Krookodile]( krookodile.md)** (Lv. 40)
+<img src="../img/pokemon/551.png" width="40" /> **[Sandile](../pokemon/sandile.md)**  ➡️  <img src="../img/pokemon/552.png" width="40" /> **[Krokorok](../pokemon/krokorok.md)** (Lv. 29)  ➡️  <img src="../img/pokemon/553.png" width="40" /> **[Krookodile](../pokemon/krookodile.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

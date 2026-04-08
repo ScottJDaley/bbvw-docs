@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/158.png" width="40" /> **[Totodile]( totodile.md)**  ➡️  <img src="../img/pokemon/159.png" width="40" /> **[Croconaw]( croconaw.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/160.png" width="40" /> **[Feraligatr]( feraligatr.md)** (Lv. 30)
+<img src="../img/pokemon/158.png" width="40" /> **[Totodile](../pokemon/totodile.md)**  ➡️  <img src="../img/pokemon/159.png" width="40" /> **[Croconaw](../pokemon/croconaw.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/160.png" width="40" /> **[Feraligatr](../pokemon/feraligatr.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

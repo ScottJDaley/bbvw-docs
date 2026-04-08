@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/431.png" width="40" /> **[Glameow]( glameow.md)**  ➡️  <img src="../img/pokemon/432.png" width="40" /> **[Purugly]( purugly.md)** (Lv. 38)
+<img src="../img/pokemon/431.png" width="40" /> **[Glameow](../pokemon/glameow.md)**  ➡️  <img src="../img/pokemon/432.png" width="40" /> **[Purugly](../pokemon/purugly.md)** (Lv. 38)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

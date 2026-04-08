@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/359.png" width="40" /> **[Absol]( absol.md)**
+<img src="../img/pokemon/359.png" width="40" /> **[Absol](../pokemon/absol.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -36,9 +36,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

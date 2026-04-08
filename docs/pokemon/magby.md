@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/240.png" width="40" /> **[Magby]( magby.md)**  ➡️  <img src="../img/pokemon/126.png" width="40" /> **[Magmar]( magmar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/467.png" width="40" /> **[Magmortar]( magmortar.md)** (Trade hold magmarizer)
+<img src="../img/pokemon/240.png" width="40" /> **[Magby](../pokemon/magby.md)**  ➡️  <img src="../img/pokemon/126.png" width="40" /> **[Magmar](../pokemon/magmar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/467.png" width="40" /> **[Magmortar](../pokemon/magmortar.md)** (Trade hold magmarizer)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/338.png" width="40" /> **[Solrock]( solrock.md)**
+<img src="../img/pokemon/338.png" width="40" /> **[Solrock](../pokemon/solrock.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -44,9 +44,9 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

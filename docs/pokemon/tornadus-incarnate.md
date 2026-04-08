@@ -6,7 +6,7 @@
 <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
- **[Tornadus]( tornadus.md)**
+ **[Tornadus](../pokemon/tornadus.md)**
 
 ## Abilities
 | Slot | Original | New |

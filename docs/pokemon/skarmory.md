@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/227.png" width="40" /> **[Skarmory]( skarmory.md)**
+<img src="../img/pokemon/227.png" width="40" /> **[Skarmory](../pokemon/skarmory.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -42,9 +42,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

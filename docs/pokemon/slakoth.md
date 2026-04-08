@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/287.png" width="40" /> **[Slakoth]( slakoth.md)**  ➡️  <img src="../img/pokemon/288.png" width="40" /> **[Vigoroth]( vigoroth.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/289.png" width="40" /> **[Slaking]( slaking.md)** (Lv. 36)
+<img src="../img/pokemon/287.png" width="40" /> **[Slakoth](../pokemon/slakoth.md)**  ➡️  <img src="../img/pokemon/288.png" width="40" /> **[Vigoroth](../pokemon/vigoroth.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/289.png" width="40" /> **[Slaking](../pokemon/slaking.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

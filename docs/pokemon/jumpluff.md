@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/187.png" width="40" /> **[Hoppip]( hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom]( skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff]( jumpluff.md)** (Lv. 27)
+<img src="../img/pokemon/187.png" width="40" /> **[Hoppip](../pokemon/hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom](../pokemon/skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff](../pokemon/jumpluff.md)** (Lv. 27)
 
 ## Abilities
 | Slot | Original | New |

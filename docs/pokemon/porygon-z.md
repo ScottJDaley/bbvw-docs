@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/137.png" width="40" /> **[Porygon]( porygon.md)**  ➡️  <img src="../img/pokemon/233.png" width="40" /> **[Porygon2]( porygon2.md)** (Trade hold up-grade)  ➡️  <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z]( porygon-z.md)** (Trade hold dubious-disc)
+<img src="../img/pokemon/137.png" width="40" /> **[Porygon](../pokemon/porygon.md)**  ➡️  <img src="../img/pokemon/233.png" width="40" /> **[Porygon2](../pokemon/porygon2.md)** (Trade hold up-grade)  ➡️  <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z](../pokemon/porygon-z.md)** (Trade hold dubious-disc)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/333.png" width="40" /> **[Swablu]( swablu.md)**  ➡️  <img src="../img/pokemon/334.png" width="40" /> **[Altaria]( altaria.md)** (Lv. 35)
+<img src="../img/pokemon/333.png" width="40" /> **[Swablu](../pokemon/swablu.md)**  ➡️  <img src="../img/pokemon/334.png" width="40" /> **[Altaria](../pokemon/altaria.md)** (Lv. 35)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Marvelous Bridge](../routes/marvelous_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Marvelous Bridge](../routes/marvelous-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

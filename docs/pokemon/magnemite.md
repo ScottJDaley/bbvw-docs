@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/081.png" width="40" /> **[Magnemite]( magnemite.md)**  ➡️  <img src="../img/pokemon/082.png" width="40" /> **[Magneton]( magneton.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/462.png" width="40" /> **[Magnezone]( magnezone.md)** (At mt-coronet)
+<img src="../img/pokemon/081.png" width="40" /> **[Magnemite](../pokemon/magnemite.md)**  ➡️  <img src="../img/pokemon/082.png" width="40" /> **[Magneton](../pokemon/magneton.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/462.png" width="40" /> **[Magnezone](../pokemon/magnezone.md)** (At mt-coronet)
 
 ## Abilities
 | Slot | Original | New |
@@ -45,7 +45,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

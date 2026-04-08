@@ -7,7 +7,7 @@ Original: <img src="../img/types/water.png" width="60" />
 New: <img src="../img/types/water.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/501.png" width="40" /> **[Oshawott]( oshawott.md)**  ➡️  <img src="../img/pokemon/502.png" width="40" /> **[Dewott]( dewott.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/503.png" width="40" /> **[Samurott]( samurott.md)** (Lv. 36)
+<img src="../img/pokemon/501.png" width="40" /> **[Oshawott](../pokemon/oshawott.md)**  ➡️  <img src="../img/pokemon/502.png" width="40" /> **[Dewott](../pokemon/dewott.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/503.png" width="40" /> **[Samurott](../pokemon/samurott.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/335.png" width="40" /> **[Zangoose]( zangoose.md)**
+<img src="../img/pokemon/335.png" width="40" /> **[Zangoose](../pokemon/zangoose.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -33,9 +33,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/403.png" width="40" /> **[Shinx]( shinx.md)**  ➡️  <img src="../img/pokemon/404.png" width="40" /> **[Luxio]( luxio.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/405.png" width="40" /> **[Luxray]( luxray.md)** (Lv. 30)
+<img src="../img/pokemon/403.png" width="40" /> **[Shinx](../pokemon/shinx.md)**  ➡️  <img src="../img/pokemon/404.png" width="40" /> **[Luxio](../pokemon/luxio.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/405.png" width="40" /> **[Luxray](../pokemon/luxray.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

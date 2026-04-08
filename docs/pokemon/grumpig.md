@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/325.png" width="40" /> **[Spoink]( spoink.md)**  ➡️  <img src="../img/pokemon/326.png" width="40" /> **[Grumpig]( grumpig.md)** (Lv. 32)
+<img src="../img/pokemon/325.png" width="40" /> **[Spoink](../pokemon/spoink.md)**  ➡️  <img src="../img/pokemon/326.png" width="40" /> **[Grumpig](../pokemon/grumpig.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

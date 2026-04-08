@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/629.png" width="40" /> **[Vullaby]( vullaby.md)**  ➡️  <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz]( mandibuzz.md)** (Lv. 54)
+<img src="../img/pokemon/629.png" width="40" /> **[Vullaby](../pokemon/vullaby.md)**  ➡️  <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz](../pokemon/mandibuzz.md)** (Lv. 54)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

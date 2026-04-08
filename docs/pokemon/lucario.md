@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/447.png" width="40" /> **[Riolu]( riolu.md)**  ➡️  <img src="../img/pokemon/448.png" width="40" /> **[Lucario]( lucario.md)** (Happiness)
+<img src="../img/pokemon/447.png" width="40" /> **[Riolu](../pokemon/riolu.md)**  ➡️  <img src="../img/pokemon/448.png" width="40" /> **[Lucario](../pokemon/lucario.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |

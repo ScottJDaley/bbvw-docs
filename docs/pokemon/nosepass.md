@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/299.png" width="40" /> **[Nosepass]( nosepass.md)**  ➡️  <img src="../img/pokemon/476.png" width="40" /> **[Probopass]( probopass.md)** (At mt-coronet)
+<img src="../img/pokemon/299.png" width="40" /> **[Nosepass](../pokemon/nosepass.md)**  ➡️  <img src="../img/pokemon/476.png" width="40" /> **[Probopass](../pokemon/probopass.md)** (At mt-coronet)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

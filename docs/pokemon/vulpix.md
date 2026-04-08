@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/037.png" width="40" /> **[Vulpix]( vulpix.md)**  ➡️  <img src="../img/pokemon/038.png" width="40" /> **[Ninetales]( ninetales.md)** (Use fire-stone)
+<img src="../img/pokemon/037.png" width="40" /> **[Vulpix](../pokemon/vulpix.md)**  ➡️  <img src="../img/pokemon/038.png" width="40" /> **[Ninetales](../pokemon/ninetales.md)** (Use fire-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

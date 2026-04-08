@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/627.png" width="40" /> **[Rufflet]( rufflet.md)**  ➡️  <img src="../img/pokemon/628.png" width="40" /> **[Braviary]( braviary.md)** (Lv. 54)
+<img src="../img/pokemon/627.png" width="40" /> **[Rufflet](../pokemon/rufflet.md)**  ➡️  <img src="../img/pokemon/628.png" width="40" /> **[Braviary](../pokemon/braviary.md)** (Lv. 54)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

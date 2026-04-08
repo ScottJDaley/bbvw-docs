@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/063.png" width="40" /> **[Abra]( abra.md)**  ➡️  <img src="../img/pokemon/064.png" width="40" /> **[Kadabra]( kadabra.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/065.png" width="40" /> **[Alakazam]( alakazam.md)** (Trade)
+<img src="../img/pokemon/063.png" width="40" /> **[Abra](../pokemon/abra.md)**  ➡️  <img src="../img/pokemon/064.png" width="40" /> **[Kadabra](../pokemon/kadabra.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/065.png" width="40" /> **[Alakazam](../pokemon/alakazam.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,12 +36,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

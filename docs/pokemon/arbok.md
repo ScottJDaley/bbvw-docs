@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/023.png" width="40" /> **[Ekans]( ekans.md)**  ➡️  <img src="../img/pokemon/024.png" width="40" /> **[Arbok]( arbok.md)** (Lv. 22)
+<img src="../img/pokemon/023.png" width="40" /> **[Ekans](../pokemon/ekans.md)**  ➡️  <img src="../img/pokemon/024.png" width="40" /> **[Arbok](../pokemon/arbok.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

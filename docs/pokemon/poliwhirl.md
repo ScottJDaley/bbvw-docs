@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/060.png" width="40" /> **[Poliwag]( poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl]( poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath]( poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed]( politoed.md)** (Trade hold kings-rock)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with King's Rock equipped.</span>
+<img src="../img/pokemon/060.png" width="40" /> **[Poliwag](../pokemon/poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl](../pokemon/poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath](../pokemon/poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed](../pokemon/politoed.md)** (Trade hold kings-rock)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with King's Rock equipped.</span>
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 95% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 65% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 95% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 65% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

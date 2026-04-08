@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/370.png" width="40" /> **[Luvdisc]( luvdisc.md)**
+<img src="../img/pokemon/370.png" width="40" /> **[Luvdisc](../pokemon/luvdisc.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -37,15 +37,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 100% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 100% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

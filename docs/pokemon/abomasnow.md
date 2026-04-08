@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/459.png" width="40" /> **[Snover]( snover.md)**  ➡️  <img src="../img/pokemon/460.png" width="40" /> **[Abomasnow]( abomasnow.md)** (Lv. 40)
+<img src="../img/pokemon/459.png" width="40" /> **[Snover](../pokemon/snover.md)**  ➡️  <img src="../img/pokemon/460.png" width="40" /> **[Abomasnow](../pokemon/abomasnow.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

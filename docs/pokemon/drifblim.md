@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/425.png" width="40" /> **[Drifloon]( drifloon.md)**  ➡️  <img src="../img/pokemon/426.png" width="40" /> **[Drifblim]( drifblim.md)** (Lv. 28)
+<img src="../img/pokemon/425.png" width="40" /> **[Drifloon](../pokemon/drifloon.md)**  ➡️  <img src="../img/pokemon/426.png" width="40" /> **[Drifblim](../pokemon/drifblim.md)** (Lv. 28)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,10 +42,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

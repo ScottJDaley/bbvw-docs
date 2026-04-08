@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/427.png" width="40" /> **[Buneary]( buneary.md)**  ➡️  <img src="../img/pokemon/428.png" width="40" /> **[Lopunny]( lopunny.md)** (Happiness)
+<img src="../img/pokemon/427.png" width="40" /> **[Buneary](../pokemon/buneary.md)**  ➡️  <img src="../img/pokemon/428.png" width="40" /> **[Lopunny](../pokemon/lopunny.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

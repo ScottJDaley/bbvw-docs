@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/352.png" width="40" /> **[Kecleon]( kecleon.md)**
+<img src="../img/pokemon/352.png" width="40" /> **[Kecleon](../pokemon/kecleon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

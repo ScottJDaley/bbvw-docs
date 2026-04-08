@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/599.png" width="40" /> **[Klink]( klink.md)**  ➡️  <img src="../img/pokemon/600.png" width="40" /> **[Klang]( klang.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/601.png" width="40" /> **[Klinklang]( klinklang.md)** (Lv. 49)
+<img src="../img/pokemon/599.png" width="40" /> **[Klink](../pokemon/klink.md)**  ➡️  <img src="../img/pokemon/600.png" width="40" /> **[Klang](../pokemon/klang.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/601.png" width="40" /> **[Klinklang](../pokemon/klinklang.md)** (Lv. 49)
 
 ## Abilities
 | Slot | Original | New |

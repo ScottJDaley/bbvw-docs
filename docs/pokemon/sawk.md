@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/539.png" width="40" /> **[Sawk]( sawk.md)**
+<img src="../img/pokemon/539.png" width="40" /> **[Sawk](../pokemon/sawk.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -36,10 +36,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

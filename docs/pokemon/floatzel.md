@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/418.png" width="40" /> **[Buizel]( buizel.md)**  ➡️  <img src="../img/pokemon/419.png" width="40" /> **[Floatzel]( floatzel.md)** (Lv. 26)
+<img src="../img/pokemon/418.png" width="40" /> **[Buizel](../pokemon/buizel.md)**  ➡️  <img src="../img/pokemon/419.png" width="40" /> **[Floatzel](../pokemon/floatzel.md)** (Lv. 26)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

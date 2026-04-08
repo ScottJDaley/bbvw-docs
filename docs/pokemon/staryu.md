@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/120.png" width="40" /> **[Staryu]( staryu.md)**  ➡️  <img src="../img/pokemon/121.png" width="40" /> **[Starmie]( starmie.md)** (Use water-stone)
+<img src="../img/pokemon/120.png" width="40" /> **[Staryu](../pokemon/staryu.md)**  ➡️  <img src="../img/pokemon/121.png" width="40" /> **[Starmie](../pokemon/starmie.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Striaton City](../routes/striaton_city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Striaton City](../routes/striaton_city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Striaton City](../routes/striaton-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Striaton City](../routes/striaton-city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

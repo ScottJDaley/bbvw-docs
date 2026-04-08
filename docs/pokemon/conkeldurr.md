@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/532.png" width="40" /> **[Timburr]( timburr.md)**  ➡️  <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr]( gurdurr.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr]( conkeldurr.md)** (Trade)
+<img src="../img/pokemon/532.png" width="40" /> **[Timburr](../pokemon/timburr.md)**  ➡️  <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr](../pokemon/gurdurr.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr](../pokemon/conkeldurr.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

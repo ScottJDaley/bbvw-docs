@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/118.png" width="40" /> **[Goldeen]( goldeen.md)**  ➡️  <img src="../img/pokemon/119.png" width="40" /> **[Seaking]( seaking.md)** (Lv. 33)
+<img src="../img/pokemon/118.png" width="40" /> **[Goldeen](../pokemon/goldeen.md)**  ➡️  <img src="../img/pokemon/119.png" width="40" /> **[Seaking](../pokemon/seaking.md)** (Lv. 33)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,13 +37,13 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

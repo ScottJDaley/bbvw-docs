@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/079.png" width="40" /> **[Slowpoke]( slowpoke.md)**  ➡️  <img src="../img/pokemon/080.png" width="40" /> **[Slowbro]( slowbro.md)** (Lv. 37)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level 37 or Level Up with a Shellder in the party.</span> | <img src="../img/pokemon/199.png" width="40" /> **[Slowking]( slowking.md)** (Trade hold kings-rock)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Day with King's Rock.</span>
+<img src="../img/pokemon/079.png" width="40" /> **[Slowpoke](../pokemon/slowpoke.md)**  ➡️  <img src="../img/pokemon/080.png" width="40" /> **[Slowbro](../pokemon/slowbro.md)** (Lv. 37)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level 37 or Level Up with a Shellder in the party.</span> | <img src="../img/pokemon/199.png" width="40" /> **[Slowking](../pokemon/slowking.md)** (Trade hold kings-rock)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Day with King's Rock.</span>
 
 ## Abilities
 | Slot | Original | New |
@@ -42,10 +42,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Striaton City](../routes/striaton_city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
+| [Striaton City](../routes/striaton-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

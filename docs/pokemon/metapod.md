@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/010.png" width="40" /> **[Caterpie]( caterpie.md)**  ➡️  <img src="../img/pokemon/011.png" width="40" /> **[Metapod]( metapod.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/012.png" width="40" /> **[Butterfree]( butterfree.md)** (Lv. 10)
+<img src="../img/pokemon/010.png" width="40" /> **[Caterpie](../pokemon/caterpie.md)**  ➡️  <img src="../img/pokemon/011.png" width="40" /> **[Metapod](../pokemon/metapod.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/012.png" width="40" /> **[Butterfree](../pokemon/butterfree.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |

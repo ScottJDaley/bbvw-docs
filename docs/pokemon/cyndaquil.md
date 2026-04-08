@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/155.png" width="40" /> **[Cyndaquil]( cyndaquil.md)**  ➡️  <img src="../img/pokemon/156.png" width="40" /> **[Quilava]( quilava.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/157.png" width="40" /> **[Typhlosion]( typhlosion.md)** (Lv. 36)
+<img src="../img/pokemon/155.png" width="40" /> **[Cyndaquil](../pokemon/cyndaquil.md)**  ➡️  <img src="../img/pokemon/156.png" width="40" /> **[Quilava](../pokemon/quilava.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/157.png" width="40" /> **[Typhlosion](../pokemon/typhlosion.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

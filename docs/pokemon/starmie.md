@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/120.png" width="40" /> **[Staryu]( staryu.md)**  ➡️  <img src="../img/pokemon/121.png" width="40" /> **[Starmie]( starmie.md)** (Use water-stone)
+<img src="../img/pokemon/120.png" width="40" /> **[Staryu](../pokemon/staryu.md)**  ➡️  <img src="../img/pokemon/121.png" width="40" /> **[Starmie](../pokemon/starmie.md)** (Use water-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

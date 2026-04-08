@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/152.png" width="40" /> **[Chikorita]( chikorita.md)**  ➡️  <img src="../img/pokemon/153.png" width="40" /> **[Bayleef]( bayleef.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/154.png" width="40" /> **[Meganium]( meganium.md)** (Lv. 32)
+<img src="../img/pokemon/152.png" width="40" /> **[Chikorita](../pokemon/chikorita.md)**  ➡️  <img src="../img/pokemon/153.png" width="40" /> **[Bayleef](../pokemon/bayleef.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/154.png" width="40" /> **[Meganium](../pokemon/meganium.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

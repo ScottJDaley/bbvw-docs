@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/616.png" width="40" /> **[Shelmet]( shelmet.md)**  ➡️  <img src="../img/pokemon/617.png" width="40" /> **[Accelgor]( accelgor.md)** (Trade)
+<img src="../img/pokemon/616.png" width="40" /> **[Shelmet](../pokemon/shelmet.md)**  ➡️  <img src="../img/pokemon/617.png" width="40" /> **[Accelgor](../pokemon/accelgor.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/273.png" width="40" /> **[Seedot]( seedot.md)**  ➡️  <img src="../img/pokemon/274.png" width="40" /> **[Nuzleaf]( nuzleaf.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/275.png" width="40" /> **[Shiftry]( shiftry.md)** (Use leaf-stone)
+<img src="../img/pokemon/273.png" width="40" /> **[Seedot](../pokemon/seedot.md)**  ➡️  <img src="../img/pokemon/274.png" width="40" /> **[Nuzleaf](../pokemon/nuzleaf.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/275.png" width="40" /> **[Shiftry](../pokemon/shiftry.md)** (Use leaf-stone)
 
 ## Abilities
 | Slot | Original | New |

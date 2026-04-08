@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/109.png" width="40" /> **[Koffing]( koffing.md)**  ➡️  <img src="../img/pokemon/110.png" width="40" /> **[Weezing]( weezing.md)** (Lv. 35)
+<img src="../img/pokemon/109.png" width="40" /> **[Koffing](../pokemon/koffing.md)**  ➡️  <img src="../img/pokemon/110.png" width="40" /> **[Weezing](../pokemon/weezing.md)** (Lv. 35)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 1% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 1% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

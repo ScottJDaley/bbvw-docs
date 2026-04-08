@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/387.png" width="40" /> **[Turtwig]( turtwig.md)**  ➡️  <img src="../img/pokemon/388.png" width="40" /> **[Grotle]( grotle.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/389.png" width="40" /> **[Torterra]( torterra.md)** (Lv. 32)
+<img src="../img/pokemon/387.png" width="40" /> **[Turtwig](../pokemon/turtwig.md)**  ➡️  <img src="../img/pokemon/388.png" width="40" /> **[Grotle](../pokemon/grotle.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/389.png" width="40" /> **[Torterra](../pokemon/torterra.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |

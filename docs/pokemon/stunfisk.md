@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/618.png" width="40" /> **[Stunfisk]( stunfisk.md)**
+<img src="../img/pokemon/618.png" width="40" /> **[Stunfisk](../pokemon/stunfisk.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -40,14 +40,14 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/123.png" width="40" /> **[Scyther]( scyther.md)**  ➡️  <img src="../img/pokemon/212.png" width="40" /> **[Scizor]( scizor.md)** (Trade hold metal-coat) |  **[Kleavor]( kleavor.md)** (Use black-augurite)
+<img src="../img/pokemon/123.png" width="40" /> **[Scyther](../pokemon/scyther.md)**  ➡️  <img src="../img/pokemon/212.png" width="40" /> **[Scizor](../pokemon/scizor.md)** (Trade hold metal-coat) |  **[Kleavor](../pokemon/kleavor.md)** (Use black-augurite)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

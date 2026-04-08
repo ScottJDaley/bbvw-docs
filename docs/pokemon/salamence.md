@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/371.png" width="40" /> **[Bagon]( bagon.md)**  ➡️  <img src="../img/pokemon/372.png" width="40" /> **[Shelgon]( shelgon.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/373.png" width="40" /> **[Salamence]( salamence.md)** (Lv. 50)
+<img src="../img/pokemon/371.png" width="40" /> **[Bagon](../pokemon/bagon.md)**  ➡️  <img src="../img/pokemon/372.png" width="40" /> **[Shelgon](../pokemon/shelgon.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/373.png" width="40" /> **[Salamence](../pokemon/salamence.md)** (Lv. 50)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/621.png" width="40" /> **[Druddigon]( druddigon.md)**
+<img src="../img/pokemon/621.png" width="40" /> **[Druddigon](../pokemon/druddigon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 40% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

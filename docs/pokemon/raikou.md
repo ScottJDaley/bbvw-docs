@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/243.png" width="40" /> **[Raikou]( raikou.md)**
+<img src="../img/pokemon/243.png" width="40" /> **[Raikou](../pokemon/raikou.md)**
 
 ## Abilities
 | Slot | Original | New |

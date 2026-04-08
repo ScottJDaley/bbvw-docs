@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/108.png" width="40" /> **[Lickitung]( lickitung.md)**  ➡️  <img src="../img/pokemon/463.png" width="40" /> **[Lickilicky]( lickilicky.md)** (Know rollout)
+<img src="../img/pokemon/108.png" width="40" /> **[Lickitung](../pokemon/lickitung.md)**  ➡️  <img src="../img/pokemon/463.png" width="40" /> **[Lickilicky](../pokemon/lickilicky.md)** (Know rollout)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,10 +33,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

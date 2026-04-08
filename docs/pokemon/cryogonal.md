@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/615.png" width="40" /> **[Cryogonal]( cryogonal.md)**
+<img src="../img/pokemon/615.png" width="40" /> **[Cryogonal](../pokemon/cryogonal.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

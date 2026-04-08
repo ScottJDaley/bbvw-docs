@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/132.png" width="40" /> **[Ditto]( ditto.md)**
+<img src="../img/pokemon/132.png" width="40" /> **[Ditto](../pokemon/ditto.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -33,8 +33,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

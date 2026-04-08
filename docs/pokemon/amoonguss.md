@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/590.png" width="40" /> **[Foongus]( foongus.md)**  ➡️  <img src="../img/pokemon/591.png" width="40" /> **[Amoonguss]( amoonguss.md)** (Lv. 39)
+<img src="../img/pokemon/590.png" width="40" /> **[Foongus](../pokemon/foongus.md)**  ➡️  <img src="../img/pokemon/591.png" width="40" /> **[Amoonguss](../pokemon/amoonguss.md)** (Lv. 39)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

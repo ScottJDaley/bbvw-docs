@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/353.png" width="40" /> **[Shuppet]( shuppet.md)**  ➡️  <img src="../img/pokemon/354.png" width="40" /> **[Banette]( banette.md)** (Lv. 37)
+<img src="../img/pokemon/353.png" width="40" /> **[Shuppet](../pokemon/shuppet.md)**  ➡️  <img src="../img/pokemon/354.png" width="40" /> **[Banette](../pokemon/banette.md)** (Lv. 37)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/393.png" width="40" /> **[Piplup]( piplup.md)**  ➡️  <img src="../img/pokemon/394.png" width="40" /> **[Prinplup]( prinplup.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/395.png" width="40" /> **[Empoleon]( empoleon.md)** (Lv. 36)
+<img src="../img/pokemon/393.png" width="40" /> **[Piplup](../pokemon/piplup.md)**  ➡️  <img src="../img/pokemon/394.png" width="40" /> **[Prinplup](../pokemon/prinplup.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/395.png" width="40" /> **[Empoleon](../pokemon/empoleon.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

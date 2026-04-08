@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/013.png" width="40" /> **[Weedle]( weedle.md)**  ➡️  <img src="../img/pokemon/014.png" width="40" /> **[Kakuna]( kakuna.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/015.png" width="40" /> **[Beedrill]( beedrill.md)** (Lv. 10)
+<img src="../img/pokemon/013.png" width="40" /> **[Weedle](../pokemon/weedle.md)**  ➡️  <img src="../img/pokemon/014.png" width="40" /> **[Kakuna](../pokemon/kakuna.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/015.png" width="40" /> **[Beedrill](../pokemon/beedrill.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |

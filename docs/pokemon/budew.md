@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/406.png" width="40" /> **[Budew]( budew.md)**  ➡️  <img src="../img/pokemon/315.png" width="40" /> **[Roselia]( roselia.md)** (Happiness)  ➡️  <img src="../img/pokemon/407.png" width="40" /> **[Roserade]( roserade.md)** (Use shiny-stone)
+<img src="../img/pokemon/406.png" width="40" /> **[Budew](../pokemon/budew.md)**  ➡️  <img src="../img/pokemon/315.png" width="40" /> **[Roselia](../pokemon/roselia.md)** (Happiness)  ➡️  <img src="../img/pokemon/407.png" width="40" /> **[Roserade](../pokemon/roserade.md)** (Use shiny-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

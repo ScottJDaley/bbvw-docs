@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/594.png" width="40" /> **[Alomomola]( alomomola.md)**
+<img src="../img/pokemon/594.png" width="40" /> **[Alomomola](../pokemon/alomomola.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

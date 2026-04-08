@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/218.png" width="40" /> **[Slugma]( slugma.md)**  ➡️  <img src="../img/pokemon/219.png" width="40" /> **[Magcargo]( magcargo.md)** (Lv. 38)
+<img src="../img/pokemon/218.png" width="40" /> **[Slugma](../pokemon/slugma.md)**  ➡️  <img src="../img/pokemon/219.png" width="40" /> **[Magcargo](../pokemon/magcargo.md)** (Lv. 38)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/290.png" width="40" /> **[Nincada]( nincada.md)**  ➡️  <img src="../img/pokemon/291.png" width="40" /> **[Ninjask]( ninjask.md)** (Lv. 20) | <img src="../img/pokemon/292.png" width="40" /> **[Shedinja]( shedinja.md)** (First Stage)
+<img src="../img/pokemon/290.png" width="40" /> **[Nincada](../pokemon/nincada.md)**  ➡️  <img src="../img/pokemon/291.png" width="40" /> **[Ninjask](../pokemon/ninjask.md)** (Lv. 20) | <img src="../img/pokemon/292.png" width="40" /> **[Shedinja](../pokemon/shedinja.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

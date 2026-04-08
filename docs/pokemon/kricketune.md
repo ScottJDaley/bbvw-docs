@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/401.png" width="40" /> **[Kricketot]( kricketot.md)**  ➡️  <img src="../img/pokemon/402.png" width="40" /> **[Kricketune]( kricketune.md)** (Lv. 10)
+<img src="../img/pokemon/401.png" width="40" /> **[Kricketot](../pokemon/kricketot.md)**  ➡️  <img src="../img/pokemon/402.png" width="40" /> **[Kricketune](../pokemon/kricketune.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/054.png" width="40" /> **[Psyduck]( psyduck.md)**  ➡️  <img src="../img/pokemon/055.png" width="40" /> **[Golduck]( golduck.md)** (Lv. 33)
+<img src="../img/pokemon/054.png" width="40" /> **[Psyduck](../pokemon/psyduck.md)**  ➡️  <img src="../img/pokemon/055.png" width="40" /> **[Golduck](../pokemon/golduck.md)** (Lv. 33)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,11 +37,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Striaton City](../routes/striaton_city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 90% |
+| [Striaton City](../routes/striaton-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 90% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

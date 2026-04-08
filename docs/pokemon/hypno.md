@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/096.png" width="40" /> **[Drowzee]( drowzee.md)**  ➡️  <img src="../img/pokemon/097.png" width="40" /> **[Hypno]( hypno.md)** (Lv. 26)
+<img src="../img/pokemon/096.png" width="40" /> **[Drowzee](../pokemon/drowzee.md)**  ➡️  <img src="../img/pokemon/097.png" width="40" /> **[Hypno](../pokemon/hypno.md)** (Lv. 26)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew]( sandshrew.md)**  ➡️  <img src="../img/pokemon/028.png" width="40" /> **[Sandslash]( sandslash.md)** (Lv. 22)
+<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew](../pokemon/sandshrew.md)**  ➡️  <img src="../img/pokemon/028.png" width="40" /> **[Sandslash](../pokemon/sandslash.md)** (Lv. 22)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,11 +37,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

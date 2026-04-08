@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/387.png" width="40" /> **[Turtwig]( turtwig.md)**  ➡️  <img src="../img/pokemon/388.png" width="40" /> **[Grotle]( grotle.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/389.png" width="40" /> **[Torterra]( torterra.md)** (Lv. 32)
+<img src="../img/pokemon/387.png" width="40" /> **[Turtwig](../pokemon/turtwig.md)**  ➡️  <img src="../img/pokemon/388.png" width="40" /> **[Grotle](../pokemon/grotle.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/389.png" width="40" /> **[Torterra](../pokemon/torterra.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

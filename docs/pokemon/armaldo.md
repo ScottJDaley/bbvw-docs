@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/347.png" width="40" /> **[Anorith]( anorith.md)**  ➡️  <img src="../img/pokemon/348.png" width="40" /> **[Armaldo]( armaldo.md)** (Lv. 40)
+<img src="../img/pokemon/347.png" width="40" /> **[Anorith](../pokemon/anorith.md)**  ➡️  <img src="../img/pokemon/348.png" width="40" /> **[Armaldo](../pokemon/armaldo.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/638.png" width="40" /> **[Cobalion]( cobalion.md)**
+<img src="../img/pokemon/638.png" width="40" /> **[Cobalion](../pokemon/cobalion.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/021.png" width="40" /> **[Spearow]( spearow.md)**  ➡️  <img src="../img/pokemon/022.png" width="40" /> **[Fearow]( fearow.md)** (Lv. 20)
+<img src="../img/pokemon/021.png" width="40" /> **[Spearow](../pokemon/spearow.md)**  ➡️  <img src="../img/pokemon/022.png" width="40" /> **[Fearow](../pokemon/fearow.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Driftveil Drawbidge](../routes/driftveil_drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

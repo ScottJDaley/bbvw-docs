@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/406.png" width="40" /> **[Budew]( budew.md)**  ➡️  <img src="../img/pokemon/315.png" width="40" /> **[Roselia]( roselia.md)** (Happiness)  ➡️  <img src="../img/pokemon/407.png" width="40" /> **[Roserade]( roserade.md)** (Use shiny-stone)
+<img src="../img/pokemon/406.png" width="40" /> **[Budew](../pokemon/budew.md)**  ➡️  <img src="../img/pokemon/315.png" width="40" /> **[Roselia](../pokemon/roselia.md)** (Happiness)  ➡️  <img src="../img/pokemon/407.png" width="40" /> **[Roserade](../pokemon/roserade.md)** (Use shiny-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

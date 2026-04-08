@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/190.png" width="40" /> **[Aipom]( aipom.md)**  ➡️  <img src="../img/pokemon/424.png" width="40" /> **[Ambipom]( ambipom.md)** (Know double-hit)
+<img src="../img/pokemon/190.png" width="40" /> **[Aipom](../pokemon/aipom.md)**  ➡️  <img src="../img/pokemon/424.png" width="40" /> **[Ambipom](../pokemon/ambipom.md)** (Know double-hit)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/566.png" width="40" /> **[Archen]( archen.md)**  ➡️  <img src="../img/pokemon/567.png" width="40" /> **[Archeops]( archeops.md)** (Lv. 37)
+<img src="../img/pokemon/566.png" width="40" /> **[Archen](../pokemon/archen.md)**  ➡️  <img src="../img/pokemon/567.png" width="40" /> **[Archeops](../pokemon/archeops.md)** (Lv. 37)
 
 ## Abilities
 | Slot | Original | New |

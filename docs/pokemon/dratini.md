@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/147.png" width="40" /> **[Dratini]( dratini.md)**  ➡️  <img src="../img/pokemon/148.png" width="40" /> **[Dragonair]( dragonair.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/149.png" width="40" /> **[Dragonite]( dragonite.md)** (Lv. 55)
+<img src="../img/pokemon/147.png" width="40" /> **[Dratini](../pokemon/dratini.md)**  ➡️  <img src="../img/pokemon/148.png" width="40" /> **[Dragonair](../pokemon/dragonair.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/149.png" width="40" /> **[Dragonite](../pokemon/dragonite.md)** (Lv. 55)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,12 +37,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

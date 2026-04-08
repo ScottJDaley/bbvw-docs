@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/252.png" width="40" /> **[Treecko]( treecko.md)**  ➡️  <img src="../img/pokemon/253.png" width="40" /> **[Grovyle]( grovyle.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/254.png" width="40" /> **[Sceptile]( sceptile.md)** (Lv. 36)
+<img src="../img/pokemon/252.png" width="40" /> **[Treecko](../pokemon/treecko.md)**  ➡️  <img src="../img/pokemon/253.png" width="40" /> **[Grovyle](../pokemon/grovyle.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/254.png" width="40" /> **[Sceptile](../pokemon/sceptile.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

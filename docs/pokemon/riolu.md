@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/447.png" width="40" /> **[Riolu]( riolu.md)**  ➡️  <img src="../img/pokemon/448.png" width="40" /> **[Lucario]( lucario.md)** (Happiness)
+<img src="../img/pokemon/447.png" width="40" /> **[Riolu](../pokemon/riolu.md)**  ➡️  <img src="../img/pokemon/448.png" width="40" /> **[Lucario](../pokemon/lucario.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

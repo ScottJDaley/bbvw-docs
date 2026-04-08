@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/343.png" width="40" /> **[Baltoy]( baltoy.md)**  ➡️  <img src="../img/pokemon/344.png" width="40" /> **[Claydol]( claydol.md)** (Lv. 36)
+<img src="../img/pokemon/343.png" width="40" /> **[Baltoy](../pokemon/baltoy.md)**  ➡️  <img src="../img/pokemon/344.png" width="40" /> **[Claydol](../pokemon/claydol.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 30% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

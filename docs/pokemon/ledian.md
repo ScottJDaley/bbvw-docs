@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/165.png" width="40" /> **[Ledyba]( ledyba.md)**  ➡️  <img src="../img/pokemon/166.png" width="40" /> **[Ledian]( ledian.md)** (Lv. 18)
+<img src="../img/pokemon/165.png" width="40" /> **[Ledyba](../pokemon/ledyba.md)**  ➡️  <img src="../img/pokemon/166.png" width="40" /> **[Ledian](../pokemon/ledian.md)** (Lv. 18)
 
 ## Abilities
 | Slot | Original | New |

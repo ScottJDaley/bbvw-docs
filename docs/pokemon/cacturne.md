@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/331.png" width="40" /> **[Cacnea]( cacnea.md)**  ➡️  <img src="../img/pokemon/332.png" width="40" /> **[Cacturne]( cacturne.md)** (Lv. 32)
+<img src="../img/pokemon/331.png" width="40" /> **[Cacnea](../pokemon/cacnea.md)**  ➡️  <img src="../img/pokemon/332.png" width="40" /> **[Cacturne](../pokemon/cacturne.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/220.png" width="40" /> **[Swinub]( swinub.md)**  ➡️  <img src="../img/pokemon/221.png" width="40" /> **[Piloswine]( piloswine.md)** (Lv. 33)  ➡️  <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine]( mamoswine.md)** (Know ancient-power)
+<img src="../img/pokemon/220.png" width="40" /> **[Swinub](../pokemon/swinub.md)**  ➡️  <img src="../img/pokemon/221.png" width="40" /> **[Piloswine](../pokemon/piloswine.md)** (Lv. 33)  ➡️  <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine](../pokemon/mamoswine.md)** (Know ancient-power)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/582.png" width="40" /> **[Vanillite]( vanillite.md)**  ➡️  <img src="../img/pokemon/583.png" width="40" /> **[Vanillish]( vanillish.md)** (Lv. 35)  ➡️  <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe]( vanilluxe.md)** (Lv. 47)
+<img src="../img/pokemon/582.png" width="40" /> **[Vanillite](../pokemon/vanillite.md)**  ➡️  <img src="../img/pokemon/583.png" width="40" /> **[Vanillish](../pokemon/vanillish.md)** (Lv. 35)  ➡️  <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe](../pokemon/vanilluxe.md)** (Lv. 47)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

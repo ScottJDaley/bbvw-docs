@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/255.png" width="40" /> **[Torchic]( torchic.md)**  ➡️  <img src="../img/pokemon/256.png" width="40" /> **[Combusken]( combusken.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/257.png" width="40" /> **[Blaziken]( blaziken.md)** (Lv. 36)
+<img src="../img/pokemon/255.png" width="40" /> **[Torchic](../pokemon/torchic.md)**  ➡️  <img src="../img/pokemon/256.png" width="40" /> **[Combusken](../pokemon/combusken.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/257.png" width="40" /> **[Blaziken](../pokemon/blaziken.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

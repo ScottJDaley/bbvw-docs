@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/535.png" width="40" /> **[Tympole]( tympole.md)**  ➡️  <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad]( palpitoad.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad]( seismitoad.md)** (Lv. 36)
+<img src="../img/pokemon/535.png" width="40" /> **[Tympole](../pokemon/tympole.md)**  ➡️  <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad](../pokemon/palpitoad.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad](../pokemon/seismitoad.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

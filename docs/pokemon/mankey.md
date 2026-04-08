@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/056.png" width="40" /> **[Mankey]( mankey.md)**  ➡️  <img src="../img/pokemon/057.png" width="40" /> **[Primeape]( primeape.md)** (Lv. 28)  ➡️   **[Annihilape]( annihilape.md)** (First Stage)
+<img src="../img/pokemon/056.png" width="40" /> **[Mankey](../pokemon/mankey.md)**  ➡️  <img src="../img/pokemon/057.png" width="40" /> **[Primeape](../pokemon/primeape.md)** (Lv. 28)  ➡️   **[Annihilape](../pokemon/annihilape.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

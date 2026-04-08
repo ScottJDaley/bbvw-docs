@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/098.png" width="40" /> **[Krabby]( krabby.md)**  ➡️  <img src="../img/pokemon/099.png" width="40" /> **[Kingler]( kingler.md)** (Lv. 28)
+<img src="../img/pokemon/098.png" width="40" /> **[Krabby](../pokemon/krabby.md)**  ➡️  <img src="../img/pokemon/099.png" width="40" /> **[Kingler](../pokemon/kingler.md)** (Lv. 28)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

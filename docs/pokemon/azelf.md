@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/482.png" width="40" /> **[Azelf]( azelf.md)**
+<img src="../img/pokemon/482.png" width="40" /> **[Azelf](../pokemon/azelf.md)**
 
 ## Abilities
 | Slot | Original | New |

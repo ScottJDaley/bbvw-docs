@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/170.png" width="40" /> **[Chinchou]( chinchou.md)**  ➡️  <img src="../img/pokemon/171.png" width="40" /> **[Lanturn]( lanturn.md)** (Lv. 27)
+<img src="../img/pokemon/170.png" width="40" /> **[Chinchou](../pokemon/chinchou.md)**  ➡️  <img src="../img/pokemon/171.png" width="40" /> **[Lanturn](../pokemon/lanturn.md)** (Lv. 27)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

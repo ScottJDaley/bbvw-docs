@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/138.png" width="40" /> **[Omanyte]( omanyte.md)**  ➡️  <img src="../img/pokemon/139.png" width="40" /> **[Omastar]( omastar.md)** (Lv. 40)
+<img src="../img/pokemon/138.png" width="40" /> **[Omanyte](../pokemon/omanyte.md)**  ➡️  <img src="../img/pokemon/139.png" width="40" /> **[Omastar](../pokemon/omastar.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

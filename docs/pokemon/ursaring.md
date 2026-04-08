@@ -6,13 +6,13 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/216.png" width="40" /> **[Teddiursa]( teddiursa.md)**  ➡️  <img src="../img/pokemon/217.png" width="40" /> **[Ursaring]( ursaring.md)** (Lv. 30)  ➡️   **[Ursaluna]( ursaluna.md)** (Use peat-block)
+<img src="../img/pokemon/216.png" width="40" /> **[Teddiursa](../pokemon/teddiursa.md)**  ➡️  <img src="../img/pokemon/217.png" width="40" /> **[Ursaring](../pokemon/ursaring.md)** (Lv. 30)  ➡️   **[Ursaluna](../pokemon/ursaluna.md)** (Use peat-block)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Pickup (Teddiursa) / Guts (Ursaring)](../abilities/pickup-(teddiursa)-/-guts-(ursaring).md)**:  |
-| Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Honey Gather (Teddiursa) / Sheer Force (Ursaring)](../abilities/honey-gather-(teddiursa)-/-sheer-force-(ursaring).md)**:  |
+| Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Pickup (Teddiursa) / Guts (Ursaring)](../abilities/pickup-(teddiursa)---guts-(ursaring).md)**:  |
+| Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Honey Gather (Teddiursa) / Sheer Force (Ursaring)](../abilities/honey-gather-(teddiursa)---sheer-force-(ursaring).md)**:  |
 
 ## Type Defenses
 | Type | Effectiveness |
@@ -33,10 +33,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

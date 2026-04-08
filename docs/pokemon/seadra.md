@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/116.png" width="40" /> **[Horsea]( horsea.md)**  ➡️  <img src="../img/pokemon/117.png" width="40" /> **[Seadra]( seadra.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/230.png" width="40" /> **[Kingdra]( kingdra.md)** (Trade hold dragon-scale)
+<img src="../img/pokemon/116.png" width="40" /> **[Horsea](../pokemon/horsea.md)**  ➡️  <img src="../img/pokemon/117.png" width="40" /> **[Seadra](../pokemon/seadra.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/230.png" width="40" /> **[Kingdra](../pokemon/kingdra.md)** (Trade hold dragon-scale)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,12 +37,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

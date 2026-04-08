@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/142.png" width="40" /> **[Aerodactyl]( aerodactyl.md)**
+<img src="../img/pokemon/142.png" width="40" /> **[Aerodactyl](../pokemon/aerodactyl.md)**
 
 ## Abilities
 | Slot | Original | New |

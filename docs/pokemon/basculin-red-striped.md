@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
- **[Basculin]( basculin.md)**  ➡️   **[Basculegion]( basculegion.md)** (First Stage)
+ **[Basculin](../pokemon/basculin.md)**  ➡️   **[Basculegion](../pokemon/basculegion.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/379.png" width="40" /> **[Registeel]( registeel.md)**
+<img src="../img/pokemon/379.png" width="40" /> **[Registeel](../pokemon/registeel.md)**
 
 ## Abilities
 | Slot | Original | New |

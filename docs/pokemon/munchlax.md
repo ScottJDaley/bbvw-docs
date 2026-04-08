@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/446.png" width="40" /> **[Munchlax]( munchlax.md)**  ➡️  <img src="../img/pokemon/143.png" width="40" /> **[Snorlax]( snorlax.md)** (Happiness)
+<img src="../img/pokemon/446.png" width="40" /> **[Munchlax](../pokemon/munchlax.md)**  ➡️  <img src="../img/pokemon/143.png" width="40" /> **[Snorlax](../pokemon/snorlax.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,9 +33,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

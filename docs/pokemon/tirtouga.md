@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/564.png" width="40" /> **[Tirtouga]( tirtouga.md)**  ➡️  <img src="../img/pokemon/565.png" width="40" /> **[Carracosta]( carracosta.md)** (Lv. 37)
+<img src="../img/pokemon/564.png" width="40" /> **[Tirtouga](../pokemon/tirtouga.md)**  ➡️  <img src="../img/pokemon/565.png" width="40" /> **[Carracosta](../pokemon/carracosta.md)** (Lv. 37)
 
 ## Abilities
 | Slot | Original | New |

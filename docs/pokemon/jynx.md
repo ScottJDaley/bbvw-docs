@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/238.png" width="40" /> **[Smoochum]( smoochum.md)**  ➡️  <img src="../img/pokemon/124.png" width="40" /> **[Jynx]( jynx.md)** (Lv. 30)
+<img src="../img/pokemon/238.png" width="40" /> **[Smoochum](../pokemon/smoochum.md)**  ➡️  <img src="../img/pokemon/124.png" width="40" /> **[Jynx](../pokemon/jynx.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

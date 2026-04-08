@@ -7,7 +7,7 @@ Original: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/
 New: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/498.png" width="40" /> **[Tepig]( tepig.md)**  ➡️  <img src="../img/pokemon/499.png" width="40" /> **[Pignite]( pignite.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/500.png" width="40" /> **[Emboar]( emboar.md)** (Lv. 36)
+<img src="../img/pokemon/498.png" width="40" /> **[Tepig](../pokemon/tepig.md)**  ➡️  <img src="../img/pokemon/499.png" width="40" /> **[Pignite](../pokemon/pignite.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/500.png" width="40" /> **[Emboar](../pokemon/emboar.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

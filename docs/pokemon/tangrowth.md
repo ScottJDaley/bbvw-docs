@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/114.png" width="40" /> **[Tangela]( tangela.md)**  ➡️  <img src="../img/pokemon/465.png" width="40" /> **[Tangrowth]( tangrowth.md)** (Know ancient-power)
+<img src="../img/pokemon/114.png" width="40" /> **[Tangela](../pokemon/tangela.md)**  ➡️  <img src="../img/pokemon/465.png" width="40" /> **[Tangrowth](../pokemon/tangrowth.md)** (Know ancient-power)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

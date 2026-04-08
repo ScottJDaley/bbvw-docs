@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/441.png" width="40" /> **[Chatot]( chatot.md)**
+<img src="../img/pokemon/441.png" width="40" /> **[Chatot](../pokemon/chatot.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -38,9 +38,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

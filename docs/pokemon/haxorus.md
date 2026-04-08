@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/610.png" width="40" /> **[Axew]( axew.md)**  ➡️  <img src="../img/pokemon/611.png" width="40" /> **[Fraxure]( fraxure.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/612.png" width="40" /> **[Haxorus]( haxorus.md)** (Lv. 48)
+<img src="../img/pokemon/610.png" width="40" /> **[Axew](../pokemon/axew.md)**  ➡️  <img src="../img/pokemon/611.png" width="40" /> **[Fraxure](../pokemon/fraxure.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/612.png" width="40" /> **[Haxorus](../pokemon/haxorus.md)** (Lv. 48)
 
 ## Abilities
 | Slot | Original | New |

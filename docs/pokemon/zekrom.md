@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/644.png" width="40" /> **[Zekrom]( zekrom.md)**
+<img src="../img/pokemon/644.png" width="40" /> **[Zekrom](../pokemon/zekrom.md)**
 
 ## Abilities
 | Slot | Original | New |

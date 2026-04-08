@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/479.png" width="40" /> **[Rotom]( rotom.md)**
+<img src="../img/pokemon/479.png" width="40" /> **[Rotom](../pokemon/rotom.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -41,7 +41,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 4% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 4% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

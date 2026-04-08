@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
- **[Frillish]( frillish.md)**  ➡️   **[Jellicent]( jellicent.md)** (Lv. 40)
+ **[Frillish](../pokemon/frillish.md)**  ➡️   **[Jellicent](../pokemon/jellicent.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

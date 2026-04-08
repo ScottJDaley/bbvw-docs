@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)**  ➡️   **[Wormadam]( wormadam.md)** (Lv. 20) | <img src="../img/pokemon/414.png" width="40" /> **[Mothim]( mothim.md)** (Lv. 20)
+<img src="../img/pokemon/412.png" width="40" /> **[Burmy](../pokemon/burmy.md)**  ➡️   **[Wormadam](../pokemon/wormadam.md)** (Lv. 20) | <img src="../img/pokemon/414.png" width="40" /> **[Mothim](../pokemon/mothim.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/491.png" width="40" /> **[Darkrai]( darkrai.md)**
+<img src="../img/pokemon/491.png" width="40" /> **[Darkrai](../pokemon/darkrai.md)**
 
 ## Abilities
 | Slot | Original | New |

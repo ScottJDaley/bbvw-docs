@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/519.png" width="40" /> **[Pidove]( pidove.md)**  ➡️  <img src="../img/pokemon/520.png" width="40" /> **[Tranquill]( tranquill.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/521.png" width="40" /> **[Unfezant]( unfezant.md)** (Lv. 32)
+<img src="../img/pokemon/519.png" width="40" /> **[Pidove](../pokemon/pidove.md)**  ➡️  <img src="../img/pokemon/520.png" width="40" /> **[Tranquill](../pokemon/tranquill.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/521.png" width="40" /> **[Unfezant](../pokemon/unfezant.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

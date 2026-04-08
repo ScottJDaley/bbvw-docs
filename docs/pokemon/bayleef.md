@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/152.png" width="40" /> **[Chikorita]( chikorita.md)**  ➡️  <img src="../img/pokemon/153.png" width="40" /> **[Bayleef]( bayleef.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/154.png" width="40" /> **[Meganium]( meganium.md)** (Lv. 32)
+<img src="../img/pokemon/152.png" width="40" /> **[Chikorita](../pokemon/chikorita.md)**  ➡️  <img src="../img/pokemon/153.png" width="40" /> **[Bayleef](../pokemon/bayleef.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/154.png" width="40" /> **[Meganium](../pokemon/meganium.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |

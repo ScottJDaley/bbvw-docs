@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/300.png" width="40" /> **[Skitty]( skitty.md)**  ➡️  <img src="../img/pokemon/301.png" width="40" /> **[Delcatty]( delcatty.md)** (Use moon-stone)
+<img src="../img/pokemon/300.png" width="40" /> **[Skitty](../pokemon/skitty.md)**  ➡️  <img src="../img/pokemon/301.png" width="40" /> **[Delcatty](../pokemon/delcatty.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/151.png" width="40" /> **[Mew]( mew.md)**
+<img src="../img/pokemon/151.png" width="40" /> **[Mew](../pokemon/mew.md)**
 
 ## Abilities
 | Slot | Original | New |

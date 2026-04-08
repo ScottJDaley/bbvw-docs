@@ -7,7 +7,7 @@ Original: <img src="../img/types/electric.png" width="60" />
 New: <img src="../img/types/electric.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/239.png" width="40" /> **[Elekid]( elekid.md)**  ➡️  <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz]( electabuzz.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/466.png" width="40" /> **[Electivire]( electivire.md)** (Trade hold electirizer)
+<img src="../img/pokemon/239.png" width="40" /> **[Elekid](../pokemon/elekid.md)**  ➡️  <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz](../pokemon/electabuzz.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/466.png" width="40" /> **[Electivire](../pokemon/electivire.md)** (Trade hold electirizer)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@ New: <img src="../img/types/electric.png" width="60" /> <img src="../img/types/f
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

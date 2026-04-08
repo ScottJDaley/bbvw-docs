@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/204.png" width="40" /> **[Pineco]( pineco.md)**  ➡️  <img src="../img/pokemon/205.png" width="40" /> **[Forretress]( forretress.md)** (Lv. 31)
+<img src="../img/pokemon/204.png" width="40" /> **[Pineco](../pokemon/pineco.md)**  ➡️  <img src="../img/pokemon/205.png" width="40" /> **[Forretress](../pokemon/forretress.md)** (Lv. 31)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

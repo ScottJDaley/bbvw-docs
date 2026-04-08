@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/607.png" width="40" /> **[Litwick]( litwick.md)**  ➡️  <img src="../img/pokemon/608.png" width="40" /> **[Lampent]( lampent.md)** (Lv. 41)  ➡️  <img src="../img/pokemon/609.png" width="40" /> **[Chandelure]( chandelure.md)** (Use dusk-stone)
+<img src="../img/pokemon/607.png" width="40" /> **[Litwick](../pokemon/litwick.md)**  ➡️  <img src="../img/pokemon/608.png" width="40" /> **[Lampent](../pokemon/lampent.md)** (Lv. 41)  ➡️  <img src="../img/pokemon/609.png" width="40" /> **[Chandelure](../pokemon/chandelure.md)** (Use dusk-stone)
 
 ## Abilities
 | Slot | Original | New |

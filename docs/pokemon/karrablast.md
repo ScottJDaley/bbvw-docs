@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/588.png" width="40" /> **[Karrablast]( karrablast.md)**  ➡️  <img src="../img/pokemon/589.png" width="40" /> **[Escavalier]( escavalier.md)** (Trade)
+<img src="../img/pokemon/588.png" width="40" /> **[Karrablast](../pokemon/karrablast.md)**  ➡️  <img src="../img/pokemon/589.png" width="40" /> **[Escavalier](../pokemon/escavalier.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

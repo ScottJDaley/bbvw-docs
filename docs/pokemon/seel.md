@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/086.png" width="40" /> **[Seel]( seel.md)**  ➡️  <img src="../img/pokemon/087.png" width="40" /> **[Dewgong]( dewgong.md)** (Lv. 34)
+<img src="../img/pokemon/086.png" width="40" /> **[Seel](../pokemon/seel.md)**  ➡️  <img src="../img/pokemon/087.png" width="40" /> **[Dewgong](../pokemon/dewgong.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

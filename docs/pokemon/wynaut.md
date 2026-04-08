@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/360.png" width="40" /> **[Wynaut]( wynaut.md)**  ➡️  <img src="../img/pokemon/202.png" width="40" /> **[Wobbuffet]( wobbuffet.md)** (Lv. 15)
+<img src="../img/pokemon/360.png" width="40" /> **[Wynaut](../pokemon/wynaut.md)**  ➡️  <img src="../img/pokemon/202.png" width="40" /> **[Wobbuffet](../pokemon/wobbuffet.md)** (Lv. 15)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

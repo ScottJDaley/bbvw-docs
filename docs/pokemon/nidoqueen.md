@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f]( nidoran-f.md)**  ➡️  <img src="../img/pokemon/030.png" width="40" /> **[Nidorina]( nidorina.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen]( nidoqueen.md)** (Use moon-stone)
+<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f](../pokemon/nidoran-f.md)**  ➡️  <img src="../img/pokemon/030.png" width="40" /> **[Nidorina](../pokemon/nidorina.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen](../pokemon/nidoqueen.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,9 +40,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

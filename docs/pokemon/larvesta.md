@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/636.png" width="40" /> **[Larvesta]( larvesta.md)**  ➡️  <img src="../img/pokemon/637.png" width="40" /> **[Volcarona]( volcarona.md)** (Lv. 59)
+<img src="../img/pokemon/636.png" width="40" /> **[Larvesta](../pokemon/larvesta.md)**  ➡️  <img src="../img/pokemon/637.png" width="40" /> **[Volcarona](../pokemon/volcarona.md)** (Lv. 59)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 2% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 2% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/194.png" width="40" /> **[Wooper]( wooper.md)**  ➡️  <img src="../img/pokemon/195.png" width="40" /> **[Quagsire]( quagsire.md)** (Lv. 20) |  **[Clodsire]( clodsire.md)** (Lv. 20)
+<img src="../img/pokemon/194.png" width="40" /> **[Wooper](../pokemon/wooper.md)**  ➡️  <img src="../img/pokemon/195.png" width="40" /> **[Quagsire](../pokemon/quagsire.md)** (Lv. 20) |  **[Clodsire](../pokemon/clodsire.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 5% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 5% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/231.png" width="40" /> **[Phanpy]( phanpy.md)**  ➡️  <img src="../img/pokemon/232.png" width="40" /> **[Donphan]( donphan.md)** (Lv. 25)
+<img src="../img/pokemon/231.png" width="40" /> **[Phanpy](../pokemon/phanpy.md)**  ➡️  <img src="../img/pokemon/232.png" width="40" /> **[Donphan](../pokemon/donphan.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

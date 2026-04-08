@@ -6,13 +6,13 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee]( hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan]( hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop]( hitmontop.md)** (Lv. 20)
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue](../pokemon/tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee](../pokemon/hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan](../pokemon/hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop](../pokemon/hitmontop.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Guts (Tyrogue) / Intimidate (Hitmontop)](../abilities/guts-(tyrogue)-/-intimidate-(hitmontop).md)**:  |
-| Ability 2 | **[Steadfast](../abilities/steadfast.md)**: Raises Speed one stage upon flinching. | **[Vital Spirit (Tyrogue) / Technician (Hitmontop)](../abilities/vital-spirit-(tyrogue)-/-technician-(hitmontop).md)**:  |
+| Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Guts (Tyrogue) / Intimidate (Hitmontop)](../abilities/guts-(tyrogue)---intimidate-(hitmontop).md)**:  |
+| Ability 2 | **[Steadfast](../abilities/steadfast.md)**: Raises Speed one stage upon flinching. | **[Vital Spirit (Tyrogue) / Technician (Hitmontop)](../abilities/vital-spirit-(tyrogue)---technician-(hitmontop).md)**:  |
 
 ## Type Defenses
 | Type | Effectiveness |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

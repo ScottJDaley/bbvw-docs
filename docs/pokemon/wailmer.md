@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/320.png" width="40" /> **[Wailmer]( wailmer.md)**  ➡️  <img src="../img/pokemon/321.png" width="40" /> **[Wailord]( wailord.md)** (Lv. 40)
+<img src="../img/pokemon/320.png" width="40" /> **[Wailmer](../pokemon/wailmer.md)**  ➡️  <img src="../img/pokemon/321.png" width="40" /> **[Wailord](../pokemon/wailord.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

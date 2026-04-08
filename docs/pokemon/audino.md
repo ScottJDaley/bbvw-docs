@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/531.png" width="40" /> **[Audino]( audino.md)**
+<img src="../img/pokemon/531.png" width="40" /> **[Audino](../pokemon/audino.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -33,29 +33,29 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 60% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 60% |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 50% |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 90% |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 60% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Shaking Grass | 90% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 95% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 90% |
-| [Dragonspiral Tower](../routes/dragonspiral_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 90% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 90% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 100% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 50% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 40% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 90% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 60% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Shaking Grass | 90% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 95% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 90% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 90% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 90% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 100% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 80% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 70% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

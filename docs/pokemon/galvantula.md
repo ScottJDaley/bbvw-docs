@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/595.png" width="40" /> **[Joltik]( joltik.md)**  ➡️  <img src="../img/pokemon/596.png" width="40" /> **[Galvantula]( galvantula.md)** (Lv. 36)
+<img src="../img/pokemon/595.png" width="40" /> **[Joltik](../pokemon/joltik.md)**  ➡️  <img src="../img/pokemon/596.png" width="40" /> **[Galvantula](../pokemon/galvantula.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

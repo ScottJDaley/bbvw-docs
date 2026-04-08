@@ -7,7 +7,7 @@ Original: <img src="../img/types/electric.png" width="60" />
 New: <img src="../img/types/electric.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/403.png" width="40" /> **[Shinx]( shinx.md)**  ➡️  <img src="../img/pokemon/404.png" width="40" /> **[Luxio]( luxio.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/405.png" width="40" /> **[Luxray]( luxray.md)** (Lv. 30)
+<img src="../img/pokemon/403.png" width="40" /> **[Shinx](../pokemon/shinx.md)**  ➡️  <img src="../img/pokemon/404.png" width="40" /> **[Luxio](../pokemon/luxio.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/405.png" width="40" /> **[Luxray](../pokemon/luxray.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |

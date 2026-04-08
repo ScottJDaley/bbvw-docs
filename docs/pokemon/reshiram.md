@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" /> <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/643.png" width="40" /> **[Reshiram]( reshiram.md)**
+<img src="../img/pokemon/643.png" width="40" /> **[Reshiram](../pokemon/reshiram.md)**
 
 ## Abilities
 | Slot | Original | New |

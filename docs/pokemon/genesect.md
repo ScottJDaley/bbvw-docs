@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/649.png" width="40" /> **[Genesect]( genesect.md)**
+<img src="../img/pokemon/649.png" width="40" /> **[Genesect](../pokemon/genesect.md)**
 
 ## Abilities
 | Slot | Original | New |

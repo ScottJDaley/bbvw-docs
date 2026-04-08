@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/498.png" width="40" /> **[Tepig]( tepig.md)**  ➡️  <img src="../img/pokemon/499.png" width="40" /> **[Pignite]( pignite.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/500.png" width="40" /> **[Emboar]( emboar.md)** (Lv. 36)
+<img src="../img/pokemon/498.png" width="40" /> **[Tepig](../pokemon/tepig.md)**  ➡️  <img src="../img/pokemon/499.png" width="40" /> **[Pignite](../pokemon/pignite.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/500.png" width="40" /> **[Emboar](../pokemon/emboar.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

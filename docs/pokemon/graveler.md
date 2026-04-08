@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/074.png" width="40" /> **[Geodude]( geodude.md)**  ➡️  <img src="../img/pokemon/075.png" width="40" /> **[Graveler]( graveler.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/076.png" width="40" /> **[Golem]( golem.md)** (Trade)
+<img src="../img/pokemon/074.png" width="40" /> **[Geodude](../pokemon/geodude.md)**  ➡️  <img src="../img/pokemon/075.png" width="40" /> **[Graveler](../pokemon/graveler.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/076.png" width="40" /> **[Golem](../pokemon/golem.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -43,11 +43,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

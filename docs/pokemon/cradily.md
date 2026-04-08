@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/345.png" width="40" /> **[Lileep]( lileep.md)**  ➡️  <img src="../img/pokemon/346.png" width="40" /> **[Cradily]( cradily.md)** (Lv. 40)
+<img src="../img/pokemon/345.png" width="40" /> **[Lileep](../pokemon/lileep.md)**  ➡️  <img src="../img/pokemon/346.png" width="40" /> **[Cradily](../pokemon/cradily.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

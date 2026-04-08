@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/363.png" width="40" /> **[Spheal]( spheal.md)**  ➡️  <img src="../img/pokemon/364.png" width="40" /> **[Sealeo]( sealeo.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/365.png" width="40" /> **[Walrein]( walrein.md)** (Lv. 44)
+<img src="../img/pokemon/363.png" width="40" /> **[Spheal](../pokemon/spheal.md)**  ➡️  <img src="../img/pokemon/364.png" width="40" /> **[Sealeo](../pokemon/sealeo.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/365.png" width="40" /> **[Walrein](../pokemon/walrein.md)** (Lv. 44)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 100% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

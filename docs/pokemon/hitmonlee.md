@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee]( hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan]( hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop]( hitmontop.md)** (Lv. 20)
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue](../pokemon/tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee](../pokemon/hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan](../pokemon/hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop](../pokemon/hitmontop.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |

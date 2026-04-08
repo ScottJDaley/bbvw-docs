@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/209.png" width="40" /> **[Snubbull]( snubbull.md)**  ➡️  <img src="../img/pokemon/210.png" width="40" /> **[Granbull]( granbull.md)** (Lv. 23)
+<img src="../img/pokemon/209.png" width="40" /> **[Snubbull](../pokemon/snubbull.md)**  ➡️  <img src="../img/pokemon/210.png" width="40" /> **[Granbull](../pokemon/granbull.md)** (Lv. 23)
 
 ## Abilities
 | Slot | Original | New |
@@ -31,7 +31,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

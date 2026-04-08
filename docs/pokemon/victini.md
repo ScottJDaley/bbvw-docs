@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/494.png" width="40" /> **[Victini]( victini.md)**
+<img src="../img/pokemon/494.png" width="40" /> **[Victini](../pokemon/victini.md)**
 
 ## Abilities
 | Slot | Original | New |

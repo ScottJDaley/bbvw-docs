@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/396.png" width="40" /> **[Starly]( starly.md)**  ➡️  <img src="../img/pokemon/397.png" width="40" /> **[Staravia]( staravia.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/398.png" width="40" /> **[Staraptor]( staraptor.md)** (Lv. 34)
+<img src="../img/pokemon/396.png" width="40" /> **[Starly](../pokemon/starly.md)**  ➡️  <img src="../img/pokemon/397.png" width="40" /> **[Staravia](../pokemon/staravia.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/398.png" width="40" /> **[Staraptor](../pokemon/staraptor.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,7 +38,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

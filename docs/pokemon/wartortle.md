@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/007.png" width="40" /> **[Squirtle]( squirtle.md)**  ➡️  <img src="../img/pokemon/008.png" width="40" /> **[Wartortle]( wartortle.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/009.png" width="40" /> **[Blastoise]( blastoise.md)** (Lv. 36)
+<img src="../img/pokemon/007.png" width="40" /> **[Squirtle](../pokemon/squirtle.md)**  ➡️  <img src="../img/pokemon/008.png" width="40" /> **[Wartortle](../pokemon/wartortle.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/009.png" width="40" /> **[Blastoise](../pokemon/blastoise.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |

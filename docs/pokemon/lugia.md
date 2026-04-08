@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/249.png" width="40" /> **[Lugia]( lugia.md)**
+<img src="../img/pokemon/249.png" width="40" /> **[Lugia](../pokemon/lugia.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/456.png" width="40" /> **[Finneon]( finneon.md)**  ➡️  <img src="../img/pokemon/457.png" width="40" /> **[Lumineon]( lumineon.md)** (Lv. 31)
+<img src="../img/pokemon/456.png" width="40" /> **[Finneon](../pokemon/finneon.md)**  ➡️  <img src="../img/pokemon/457.png" width="40" /> **[Lumineon](../pokemon/lumineon.md)** (Lv. 31)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

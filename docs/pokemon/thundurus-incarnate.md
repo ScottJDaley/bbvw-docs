@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
- **[Thundurus]( thundurus.md)**
+ **[Thundurus](../pokemon/thundurus.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/244.png" width="40" /> **[Entei]( entei.md)**
+<img src="../img/pokemon/244.png" width="40" /> **[Entei](../pokemon/entei.md)**
 
 ## Abilities
 | Slot | Original | New |

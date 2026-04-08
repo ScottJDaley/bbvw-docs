@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/207.png" width="40" /> **[Gligar]( gligar.md)**  ➡️  <img src="../img/pokemon/472.png" width="40" /> **[Gliscor]( gliscor.md)** (Hold razor-fang)
+<img src="../img/pokemon/207.png" width="40" /> **[Gligar](../pokemon/gligar.md)**  ➡️  <img src="../img/pokemon/472.png" width="40" /> **[Gliscor](../pokemon/gliscor.md)** (Hold razor-fang)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Route 7 – All Seasons](../routes/route_7_–_all_seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 15](../routes/route_15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

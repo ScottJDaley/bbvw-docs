@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/484.png" width="40" /> **[Palkia]( palkia.md)**
+<img src="../img/pokemon/484.png" width="40" /> **[Palkia](../pokemon/palkia.md)**
 
 ## Abilities
 | Slot | Original | New |

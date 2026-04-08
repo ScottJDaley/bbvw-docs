@@ -6,13 +6,13 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/216.png" width="40" /> **[Teddiursa]( teddiursa.md)**  ➡️  <img src="../img/pokemon/217.png" width="40" /> **[Ursaring]( ursaring.md)** (Lv. 30)  ➡️   **[Ursaluna]( ursaluna.md)** (Use peat-block)
+<img src="../img/pokemon/216.png" width="40" /> **[Teddiursa](../pokemon/teddiursa.md)**  ➡️  <img src="../img/pokemon/217.png" width="40" /> **[Ursaring](../pokemon/ursaring.md)** (Lv. 30)  ➡️   **[Ursaluna](../pokemon/ursaluna.md)** (Use peat-block)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | **[Pickup (Teddiursa) / Guts (Ursaring)](../abilities/pickup-(teddiursa)-/-guts-(ursaring).md)**:  |
-| Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Honey Gather (Teddiursa) / Sheer Force (Ursaring)](../abilities/honey-gather-(teddiursa)-/-sheer-force-(ursaring).md)**:  |
+| Ability 1 | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | **[Pickup (Teddiursa) / Guts (Ursaring)](../abilities/pickup-(teddiursa)---guts-(ursaring).md)**:  |
+| Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Honey Gather (Teddiursa) / Sheer Force (Ursaring)](../abilities/honey-gather-(teddiursa)---sheer-force-(ursaring).md)**:  |
 
 ## Type Defenses
 | Type | Effectiveness |
@@ -33,8 +33,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist_mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

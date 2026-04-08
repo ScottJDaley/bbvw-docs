@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/239.png" width="40" /> **[Elekid]( elekid.md)**  ➡️  <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz]( electabuzz.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/466.png" width="40" /> **[Electivire]( electivire.md)** (Trade hold electirizer)
+<img src="../img/pokemon/239.png" width="40" /> **[Elekid](../pokemon/elekid.md)**  ➡️  <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz](../pokemon/electabuzz.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/466.png" width="40" /> **[Electivire](../pokemon/electivire.md)** (Trade hold electirizer)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

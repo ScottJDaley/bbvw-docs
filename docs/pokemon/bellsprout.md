@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/069.png" width="40" /> **[Bellsprout]( bellsprout.md)**  ➡️  <img src="../img/pokemon/070.png" width="40" /> **[Weepinbell]( weepinbell.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/071.png" width="40" /> **[Victreebel]( victreebel.md)** (Use leaf-stone)
+<img src="../img/pokemon/069.png" width="40" /> **[Bellsprout](../pokemon/bellsprout.md)**  ➡️  <img src="../img/pokemon/070.png" width="40" /> **[Weepinbell](../pokemon/weepinbell.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/071.png" width="40" /> **[Victreebel](../pokemon/victreebel.md)** (Use leaf-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/191.png" width="40" /> **[Sunkern]( sunkern.md)**  ➡️  <img src="../img/pokemon/192.png" width="40" /> **[Sunflora]( sunflora.md)** (Use sun-stone)
+<img src="../img/pokemon/191.png" width="40" /> **[Sunkern](../pokemon/sunkern.md)**  ➡️  <img src="../img/pokemon/192.png" width="40" /> **[Sunflora](../pokemon/sunflora.md)** (Use sun-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

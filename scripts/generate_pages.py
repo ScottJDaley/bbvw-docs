@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import yaml
 
 DATA_DIR = "scripts/data"
 OUTPUT_BASE = "docs"
@@ -26,6 +27,10 @@ TYPE_CHART = {
     'steel': {'fire': 0.5, 'water': 0.5, 'electric': 0.5, 'ice': 2, 'rock': 2, 'steel': 0.5},
 }
 
+def normalize_name(name):
+    # Standard normalization for filenames and links
+    return name.lower().replace(' ', '-').replace('.', '').replace("'", "").replace('’', '').replace('♂', '-m').replace('♀', '-f').replace('/', '-').replace('–', '-').strip()
+
 def get_type_effectiveness(types):
     effectiveness = {t: 1.0 for t in TYPE_CHART.keys()}
     for t_def in types:
@@ -42,7 +47,7 @@ def load_data():
         romhack = json.load(f)
     return base, romhack
 
-def get_move_display(m_name, move_data, move_stat_changes):
+def get_move_display(m_name, move_data, move_stat_changes, base_path="../"):
     m_info = move_data.get(m_name)
     if not m_info:
         return f"| - | {m_name.replace('-', ' ').capitalize()} | - | - | - | - | - |"
@@ -58,13 +63,13 @@ def get_move_display(m_name, move_data, move_stat_changes):
     power = format_stat('power', m_info['power'])
     acc = format_stat('accuracy', m_info['accuracy'])
     
-    type_icon = f'<img src="../img/types/{m_info["type"]}.png" width="40" alt="{m_info["type"]}" />'
-    cat_icon = f'<img src="../img/types/{m_info["damage_class"]}.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="{m_info["damage_class"]}" />'
+    type_icon = f'<img src="{base_path}img/types/{m_info["type"]}.png" width="40" alt="{m_info["type"]}" />'
+    cat_icon = f'<img src="{base_path}img/types/{m_info["damage_class"]}.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="{m_info["damage_class"]}" />'
     
     tm_num = m_info.get('tm_num', '')
     display_name = f"{tm_num + ' ' if tm_num else ''}{m_info['name'].replace('-', ' ').capitalize()}"
     
-    return f"| {type_icon} | [{display_name}](../moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
+    return f"| {type_icon} | [{display_name}]({base_path}moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
 
 def get_full_evolution_chain(p_base):
     chain = p_base['evolution_chain']['chain']
@@ -124,15 +129,16 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         if i > 0: md += "  ➡️  "
         stage_md = []
         for p in stage:
-            p_info = base_data.get(p['name'])
+            p_norm = normalize_name(p['name'])
+            p_info = base_data.get(p_norm)
             sprite = f'<img src="../img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
             method_text = f" ({p['method']})" if i > 0 else ""
             rom_evo = ""
             if p_rom.get('evolution'):
                 for re in p_rom['evolution']:
-                    if re['target'] and re['target'].lower() == p['name'].lower():
+                    if re['target'] and normalize_name(re['target']) == p_norm:
                         rom_evo = f'<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: {re["method"]}</span>'
-            stage_md.append(f"{sprite} **[{p['name'].capitalize()}]( {p['name']}.md)**{method_text}{rom_evo}")
+            stage_md.append(f"{sprite} **[{p['name'].capitalize()}](../pokemon/{p_norm}.md)**{method_text}{rom_evo}")
         md += " | ".join(stage_md)
     md += "\n\n"
 
@@ -142,7 +148,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     ab2_new = p_rom.get('abilities', {}).get('two')
     orig_abs = [a.replace('-', ' ').capitalize() for a in p_base['abilities']]
     def get_ab_info(ab_name):
-        norm = ab_name.lower().replace(' ', '-')
+        norm = normalize_name(ab_name)
         desc = ability_data.get(norm, {}).get('description', '')
         return f"**[{ab_name}](../abilities/{norm}.md)**: {desc}"
     md += "| Slot | Original | New |\n"
@@ -188,7 +194,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         md += "| Route | Method | Rate |\n"
         md += "| --- | --- | --- |\n"
         for loc in locations[name]:
-            fname = loc['route'].lower().replace(' ', '_').replace('’', '').replace("'", "").replace('/', '_')
+            fname = normalize_name(loc['route'])
             m_lower = loc['method'].lower()
             icon = "grass-normal.png"
             if 'doubles' in m_lower: icon = "grass-doubles.png"
@@ -274,14 +280,14 @@ def generate_move_page(name, move_info, pokemon_list, m_rom):
     md += f"**PP:** {move_info['pp']}  \n\n"
     md += f"## Description\n{move_info['description']}\n\n"
     md += "## Learned by\n"
-    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{p}.md)\n"
+    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{normalize_name(p)}.md)\n"
     return md
 
 def generate_ability_page(name, ability_info, pokemon_list):
     md = f"# {name.replace('-', ' ').capitalize()}\n\n"
     md += f"## Description\n{ability_info['description']}\n\n"
     md += "## Pokemon with this Ability\n"
-    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{p}.md)\n"
+    for p in sorted(pokemon_list): md += f"- [{p.capitalize()}](../pokemon/{normalize_name(p)}.md)\n"
     return md
 
 def generate_route_page(name, route_data, base_data, trainer_data):
@@ -306,11 +312,12 @@ def generate_route_page(name, route_data, base_data, trainer_data):
         md += "| Sprite | Pokemon | Rate |\n"
         md += "| --- | --- | --- |\n"
         for enc in encs:
-            p_name = enc['pokemon'].lower().replace(' ', '-').replace('.', '')
-            p_info = base_data.get(p_name)
+            p_norm = normalize_name(enc['pokemon'])
+            p_info = base_data.get(p_norm)
             sprite = f'<img src="../img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
-            md += f"| {sprite} | [{enc['pokemon']}](../pokemon/{p_name}.md) | {enc['rate']}% |\n"
+            md += f"| {sprite} | [{enc['pokemon']}](../pokemon/{p_norm}.md) | {enc['rate']}% |\n"
         md += "\n"
+    
     location_trainers = trainer_data.get(name)
     if location_trainers:
         md += "\n## Trainers\n"
@@ -319,10 +326,10 @@ def generate_route_page(name, route_data, base_data, trainer_data):
             md += "| Sprite | Pokemon | Level | Ability | Item | Moves |\n"
             md += "| --- | --- | --- | --- | --- | --- |\n"
             for p in trainer['pokemon']:
-                p_norm = p['name'].lower().replace(' ', '-').replace('.', '')
+                p_norm = normalize_name(p['name'])
                 p_base = base_data.get(p_norm)
                 sprite = f'<img src="../img/pokemon/{p_base["id"]:03}.png" width="40" />' if p_base else ""
-                md += f"| {sprite} | {p['name']} | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
+                md += f"| {sprite} | [{p['name']}](../pokemon/{p_norm}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
             md += "\n"
     return md
 
@@ -331,35 +338,99 @@ if __name__ == "__main__":
     locations = {}
     for r_data in romhack['wild_pokemon']:
         for enc in r_data['encounters']:
-            p_name = enc['pokemon'].lower().replace(' ', '-').replace('.', '')
-            if p_name not in locations: locations[p_name] = []
-            locations[p_name].append({'route': r_data['name'], 'method': enc['method'], 'rate': enc['rate']})
+            p_norm = normalize_name(enc['pokemon'])
+            if p_norm not in locations: locations[p_norm] = []
+            locations[p_norm].append({'route': r_data['name'], 'method': enc['method'], 'rate': enc['rate']})
+
     if not os.path.exists("docs/pokemon"): os.makedirs("docs/pokemon")
-    for name in base['pokemon']:
+    pokemon_nav = []
+    pkmn_list = sorted(base['pokemon'].values(), key=lambda x: x['id'])
+    for p in pkmn_list:
+        name = p['name']
         md = generate_pokemon_page(name, base['pokemon'], romhack, base['moves'], base['abilities'], locations)
         with open(os.path.join("docs/pokemon", f"{name}.md"), 'w') as f: f.write(md)
+        pokemon_nav.append({p['name'].capitalize(): f"pokemon/{name}.md"})
+    
+    with open("docs/pokemon/index.md", 'w') as f:
+        f.write("# Pokemon\n\n")
+        for p in pkmn_list: f.write(f"- [{p['name'].capitalize()}]({p['name']}.md)\n")
+
     if not os.path.exists("docs/moves"): os.makedirs("docs/moves")
     move_to_pokemon = {}
     for p_name, p_data in base['pokemon'].items():
         for m in p_data['moves']:
             if m['name'] not in move_to_pokemon: move_to_pokemon[m['name']] = []
             move_to_pokemon[m['name']].append(p_name)
-    for m_name, m_info in base['moves'].items():
+    move_nav = []
+    for m_name, m_info in sorted(base['moves'].items()):
         md = generate_move_page(m_name, m_info, move_to_pokemon.get(m_name, []), romhack['move_stat_changes'].get(m_name, {}))
         with open(os.path.join("docs/moves", f"{m_name}.md"), 'w') as f: f.write(md)
+        move_nav.append({m_name.replace('-', ' ').capitalize(): f"moves/{m_name}.md"})
+    
+    with open("docs/moves/index.md", 'w') as f:
+        f.write("# Moves\n\n")
+        for m_name in sorted(base['moves'].keys()): f.write(f"- [{m_name.replace('-', ' ').capitalize()}]({m_name}.md)\n")
+
     if not os.path.exists("docs/abilities"): os.makedirs("docs/abilities")
     ability_to_pokemon = {}
     for p_name, p_data in base['pokemon'].items():
         for a in p_data['abilities']:
             if a not in ability_to_pokemon: ability_to_pokemon[a] = []
             ability_to_pokemon[a].append(p_name)
-    for a_name, a_info in base['abilities'].items():
+    ability_nav = []
+    for a_name, a_info in sorted(base['abilities'].items()):
         md = generate_ability_page(a_name, a_info, ability_to_pokemon.get(a_name, []))
         with open(os.path.join("docs/abilities", f"{a_name}.md"), 'w') as f: f.write(md)
+        ability_nav.append({a_name.replace('-', ' ').capitalize(): f"abilities/{a_name}.md"})
+    
+    with open("docs/abilities/index.md", 'w') as f:
+        f.write("# Abilities\n\n")
+        for a_name in sorted(base['abilities'].keys()): f.write(f"- [{a_name.replace('-', ' ').capitalize()}]({a_name}.md)\n")
+
     if not os.path.exists("docs/routes"): os.makedirs("docs/routes")
+    route_nav = []
     for r_data in romhack['wild_pokemon']:
         r_name = r_data['name']
         md = generate_route_page(r_name, r_data, base['pokemon'], romhack['trainers'])
-        fname = r_name.lower().replace(' ', '_').replace('’', '').replace("'", "").replace('/', '_')
+        fname = normalize_name(r_name)
         with open(os.path.join("docs/routes", f"{fname}.md"), 'w') as f: f.write(md)
-    print("All pages generated.")
+        route_nav.append({r_name: f"routes/{fname}.md"})
+    
+    with open("docs/routes/index.md", 'w') as f:
+        f.write("# Routes\n\n")
+        for r_data in romhack['wild_pokemon']:
+            fname = normalize_name(r_data['name'])
+            f.write(f"- [{r_data['name']}]({fname}.md)\n")
+
+    with open("mkdocs.yml", 'r') as f:
+        lines = f.readlines()
+    
+    # Manually update nav section to avoid YAML issues with Python names
+    new_lines = []
+    in_nav = False
+    for line in lines:
+        if line.startswith('nav:'):
+            in_nav = True
+            new_lines.append('nav:\n')
+            new_lines.append('  - Home: README.md\n')
+            new_lines.append('  - Pokemon:\n')
+            new_lines.append('    - pokemon/index.md\n')
+            for p in pkmn_list: new_lines.append(f"    - {p['name'].capitalize()}: pokemon/{p['name']}.md\n")
+            new_lines.append('  - Routes:\n')
+            new_lines.append('    - routes/index.md\n')
+            for r_data in romhack['wild_pokemon']:
+                fname = normalize_name(r_data['name'])
+                new_lines.append(f"    - {r_data['name']}: routes/{fname}.md\n")
+            new_lines.append('  - Moves:\n')
+            new_lines.append('    - moves/index.md\n')
+            for m_name in sorted(base['moves'].keys()): new_lines.append(f"    - {m_name.replace('-', ' ').capitalize()}: moves/{m_name}.md\n")
+            new_lines.append('  - Abilities:\n')
+            new_lines.append('    - abilities/index.md\n')
+            for a_name in sorted(base['abilities'].keys()): new_lines.append(f"    - {a_name.replace('-', ' ').capitalize()}: abilities/{a_name}.md\n")
+        elif not in_nav:
+            new_lines.append(line)
+    
+    with open("mkdocs.yml", 'w') as f:
+        f.writelines(new_lines)
+
+    print("All pages generated and mkdocs.yml updated.")

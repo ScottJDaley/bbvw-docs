@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/299.png" width="40" /> **[Nosepass]( nosepass.md)**  ➡️  <img src="../img/pokemon/476.png" width="40" /> **[Probopass]( probopass.md)** (At mt-coronet)
+<img src="../img/pokemon/299.png" width="40" /> **[Nosepass](../pokemon/nosepass.md)**  ➡️  <img src="../img/pokemon/476.png" width="40" /> **[Probopass](../pokemon/probopass.md)** (At mt-coronet)
 
 ## Abilities
 | Slot | Original | New |

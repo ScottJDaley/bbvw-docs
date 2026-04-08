@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/361.png" width="40" /> **[Snorunt]( snorunt.md)**  ➡️  <img src="../img/pokemon/362.png" width="40" /> **[Glalie]( glalie.md)** (Lv. 42) | <img src="../img/pokemon/478.png" width="40" /> **[Froslass]( froslass.md)** (Use dawn-stone)
+<img src="../img/pokemon/361.png" width="40" /> **[Snorunt](../pokemon/snorunt.md)**  ➡️  <img src="../img/pokemon/362.png" width="40" /> **[Glalie](../pokemon/glalie.md)** (Lv. 42) | <img src="../img/pokemon/478.png" width="40" /> **[Froslass](../pokemon/froslass.md)** (Use dawn-stone)
 
 ## Abilities
 | Slot | Original | New |

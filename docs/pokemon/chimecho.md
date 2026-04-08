@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/433.png" width="40" /> **[Chingling]( chingling.md)**  ➡️  <img src="../img/pokemon/358.png" width="40" /> **[Chimecho]( chimecho.md)** (Happiness)
+<img src="../img/pokemon/433.png" width="40" /> **[Chingling](../pokemon/chingling.md)**  ➡️  <img src="../img/pokemon/358.png" width="40" /> **[Chimecho](../pokemon/chimecho.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,8 +36,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

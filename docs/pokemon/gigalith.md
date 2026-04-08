@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola]( roggenrola.md)**  ➡️  <img src="../img/pokemon/525.png" width="40" /> **[Boldore]( boldore.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/526.png" width="40" /> **[Gigalith]( gigalith.md)** (Trade)
+<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola](../pokemon/roggenrola.md)**  ➡️  <img src="../img/pokemon/525.png" width="40" /> **[Boldore](../pokemon/boldore.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/526.png" width="40" /> **[Gigalith](../pokemon/gigalith.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |

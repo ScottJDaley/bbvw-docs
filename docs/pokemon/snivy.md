@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/495.png" width="40" /> **[Snivy]( snivy.md)**  ➡️  <img src="../img/pokemon/496.png" width="40" /> **[Servine]( servine.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/497.png" width="40" /> **[Serperior]( serperior.md)** (Lv. 36)
+<img src="../img/pokemon/495.png" width="40" /> **[Snivy](../pokemon/snivy.md)**  ➡️  <img src="../img/pokemon/496.png" width="40" /> **[Servine](../pokemon/servine.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/497.png" width="40" /> **[Serperior](../pokemon/serperior.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

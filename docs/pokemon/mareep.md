@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/179.png" width="40" /> **[Mareep]( mareep.md)**  ➡️  <img src="../img/pokemon/180.png" width="40" /> **[Flaaffy]( flaaffy.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/181.png" width="40" /> **[Ampharos]( ampharos.md)** (Lv. 30)
+<img src="../img/pokemon/179.png" width="40" /> **[Mareep](../pokemon/mareep.md)**  ➡️  <img src="../img/pokemon/180.png" width="40" /> **[Flaaffy](../pokemon/flaaffy.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/181.png" width="40" /> **[Ampharos](../pokemon/ampharos.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

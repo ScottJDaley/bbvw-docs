@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/278.png" width="40" /> **[Wingull]( wingull.md)**  ➡️  <img src="../img/pokemon/279.png" width="40" /> **[Pelipper]( pelipper.md)** (Lv. 25)
+<img src="../img/pokemon/278.png" width="40" /> **[Wingull](../pokemon/wingull.md)**  ➡️  <img src="../img/pokemon/279.png" width="40" /> **[Pelipper](../pokemon/pelipper.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,11 +39,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Marvelous Bridge](../routes/marvelous_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Marvelous Bridge](../routes/marvelous-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

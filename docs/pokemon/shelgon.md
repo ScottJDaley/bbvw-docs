@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/371.png" width="40" /> **[Bagon]( bagon.md)**  ➡️  <img src="../img/pokemon/372.png" width="40" /> **[Shelgon]( shelgon.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/373.png" width="40" /> **[Salamence]( salamence.md)** (Lv. 50)
+<img src="../img/pokemon/371.png" width="40" /> **[Bagon](../pokemon/bagon.md)**  ➡️  <img src="../img/pokemon/372.png" width="40" /> **[Shelgon](../pokemon/shelgon.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/373.png" width="40" /> **[Salamence](../pokemon/salamence.md)** (Lv. 50)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

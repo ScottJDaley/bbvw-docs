@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/390.png" width="40" /> **[Chimchar]( chimchar.md)**  ➡️  <img src="../img/pokemon/391.png" width="40" /> **[Monferno]( monferno.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/392.png" width="40" /> **[Infernape]( infernape.md)** (Lv. 36)
+<img src="../img/pokemon/390.png" width="40" /> **[Chimchar](../pokemon/chimchar.md)**  ➡️  <img src="../img/pokemon/391.png" width="40" /> **[Monferno](../pokemon/monferno.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/392.png" width="40" /> **[Infernape](../pokemon/infernape.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

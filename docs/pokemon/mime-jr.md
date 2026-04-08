@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/439.png" width="40" /> **[Mime-jr]( mime-jr.md)**  ➡️  <img src="../img/pokemon/122.png" width="40" /> **[Mr-mime]( mr-mime.md)** (Know mimic)  ➡️   **[Mr-rime]( mr-rime.md)** (Lv. 42)
+<img src="../img/pokemon/439.png" width="40" /> **[Mime-jr](../pokemon/mime-jr.md)**  ➡️  <img src="../img/pokemon/122.png" width="40" /> **[Mr-mime](../pokemon/mr-mime.md)** (Know mimic)  ➡️   **[Mr-rime](../pokemon/mr-rime.md)** (Lv. 42)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,9 +36,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

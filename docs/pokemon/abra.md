@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/063.png" width="40" /> **[Abra]( abra.md)**  ➡️  <img src="../img/pokemon/064.png" width="40" /> **[Kadabra]( kadabra.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/065.png" width="40" /> **[Alakazam]( alakazam.md)** (Trade)
+<img src="../img/pokemon/063.png" width="40" /> **[Abra](../pokemon/abra.md)**  ➡️  <img src="../img/pokemon/064.png" width="40" /> **[Kadabra](../pokemon/kadabra.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/065.png" width="40" /> **[Alakazam](../pokemon/alakazam.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

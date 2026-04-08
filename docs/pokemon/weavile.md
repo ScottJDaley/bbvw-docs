@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/215.png" width="40" /> **[Sneasel]( sneasel.md)**  ➡️  <img src="../img/pokemon/461.png" width="40" /> **[Weavile]( weavile.md)** (Hold razor-claw) |  **[Sneasler]( sneasler.md)** (Hold razor-claw)
+<img src="../img/pokemon/215.png" width="40" /> **[Sneasel](../pokemon/sneasel.md)**  ➡️  <img src="../img/pokemon/461.png" width="40" /> **[Weavile](../pokemon/weavile.md)** (Hold razor-claw) |  **[Sneasler](../pokemon/sneasler.md)** (Hold razor-claw)
 
 ## Abilities
 | Slot | Original | New |

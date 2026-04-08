@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/108.png" width="40" /> **[Lickitung]( lickitung.md)**  ➡️  <img src="../img/pokemon/463.png" width="40" /> **[Lickilicky]( lickilicky.md)** (Know rollout)
+<img src="../img/pokemon/108.png" width="40" /> **[Lickitung](../pokemon/lickitung.md)**  ➡️  <img src="../img/pokemon/463.png" width="40" /> **[Lickilicky](../pokemon/lickilicky.md)** (Know rollout)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-normal.png' width='20' /> Shaking Grass | 5% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Shaking Grass | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

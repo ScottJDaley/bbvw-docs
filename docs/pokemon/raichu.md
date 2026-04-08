@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/172.png" width="40" /> **[Pichu]( pichu.md)**  ➡️  <img src="../img/pokemon/025.png" width="40" /> **[Pikachu]( pikachu.md)** (Happiness)  ➡️  <img src="../img/pokemon/026.png" width="40" /> **[Raichu]( raichu.md)** (Use thunder-stone)
+<img src="../img/pokemon/172.png" width="40" /> **[Pichu](../pokemon/pichu.md)**  ➡️  <img src="../img/pokemon/025.png" width="40" /> **[Pikachu](../pokemon/pikachu.md)** (Happiness)  ➡️  <img src="../img/pokemon/026.png" width="40" /> **[Raichu](../pokemon/raichu.md)** (Use thunder-stone)
 
 ## Abilities
 | Slot | Original | New |

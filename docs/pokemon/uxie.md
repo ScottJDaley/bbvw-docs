@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/480.png" width="40" /> **[Uxie]( uxie.md)**
+<img src="../img/pokemon/480.png" width="40" /> **[Uxie](../pokemon/uxie.md)**
 
 ## Abilities
 | Slot | Original | New |

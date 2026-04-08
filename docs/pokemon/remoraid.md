@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/223.png" width="40" /> **[Remoraid]( remoraid.md)**  ➡️  <img src="../img/pokemon/224.png" width="40" /> **[Octillery]( octillery.md)** (Lv. 25)
+<img src="../img/pokemon/223.png" width="40" /> **[Remoraid](../pokemon/remoraid.md)**  ➡️  <img src="../img/pokemon/224.png" width="40" /> **[Octillery](../pokemon/octillery.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,10 +37,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
-| [Undella Bay](../routes/undella_bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
+| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

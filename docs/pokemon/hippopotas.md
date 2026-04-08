@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/449.png" width="40" /> **[Hippopotas]( hippopotas.md)**  ➡️  <img src="../img/pokemon/450.png" width="40" /> **[Hippowdon]( hippowdon.md)** (Lv. 34)
+<img src="../img/pokemon/449.png" width="40" /> **[Hippopotas](../pokemon/hippopotas.md)**  ➡️  <img src="../img/pokemon/450.png" width="40" /> **[Hippowdon](../pokemon/hippowdon.md)** (Lv. 34)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Desert Resort](../routes/desert_resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

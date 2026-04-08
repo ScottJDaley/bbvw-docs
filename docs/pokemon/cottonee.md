@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/546.png" width="40" /> **[Cottonee]( cottonee.md)**  ➡️  <img src="../img/pokemon/547.png" width="40" /> **[Whimsicott]( whimsicott.md)** (Use sun-stone)
+<img src="../img/pokemon/546.png" width="40" /> **[Cottonee](../pokemon/cottonee.md)**  ➡️  <img src="../img/pokemon/547.png" width="40" /> **[Whimsicott](../pokemon/whimsicott.md)** (Use sun-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

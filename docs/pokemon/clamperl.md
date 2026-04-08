@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail]( huntail.md)** (Trade hold deep-sea-tooth)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaTooth equipped.</span> | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss]( gorebyss.md)** (Trade hold deep-sea-scale)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaScale equipped.</span>
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl](../pokemon/clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail](../pokemon/huntail.md)** (Trade hold deep-sea-tooth)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaTooth equipped.</span> | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss](../pokemon/gorebyss.md)** (Trade hold deep-sea-scale)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaScale equipped.</span>
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

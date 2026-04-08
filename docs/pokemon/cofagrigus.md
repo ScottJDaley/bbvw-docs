@@ -7,7 +7,7 @@ Original: <img src="../img/types/ghost.png" width="60" />
 New: <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/562.png" width="40" /> **[Yamask]( yamask.md)**  ➡️  <img src="../img/pokemon/563.png" width="40" /> **[Cofagrigus]( cofagrigus.md)** (Lv. 34) |  **[Runerigus]( runerigus.md)** (First Stage)
+<img src="../img/pokemon/562.png" width="40" /> **[Yamask](../pokemon/yamask.md)**  ➡️  <img src="../img/pokemon/563.png" width="40" /> **[Cofagrigus](../pokemon/cofagrigus.md)** (Lv. 34) |  **[Runerigus](../pokemon/runerigus.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -47,8 +47,8 @@ New: <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/stee
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

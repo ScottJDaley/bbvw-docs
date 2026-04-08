@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/211.png" width="40" /> **[Qwilfish]( qwilfish.md)**  ➡️   **[Overqwil]( overqwil.md)** (First Stage)
+<img src="../img/pokemon/211.png" width="40" /> **[Qwilfish](../pokemon/qwilfish.md)**  ➡️   **[Overqwil](../pokemon/overqwil.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -41,10 +41,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

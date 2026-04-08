@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/570.png" width="40" /> **[Zorua]( zorua.md)**  ➡️  <img src="../img/pokemon/571.png" width="40" /> **[Zoroark]( zoroark.md)** (Lv. 30)
+<img src="../img/pokemon/570.png" width="40" /> **[Zorua](../pokemon/zorua.md)**  ➡️  <img src="../img/pokemon/571.png" width="40" /> **[Zoroark](../pokemon/zoroark.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

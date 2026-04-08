@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/639.png" width="40" /> **[Terrakion]( terrakion.md)**
+<img src="../img/pokemon/639.png" width="40" /> **[Terrakion](../pokemon/terrakion.md)**
 
 ## Abilities
 | Slot | Original | New |

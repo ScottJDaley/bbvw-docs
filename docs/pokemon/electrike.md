@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/309.png" width="40" /> **[Electrike]( electrike.md)**  ➡️  <img src="../img/pokemon/310.png" width="40" /> **[Manectric]( manectric.md)** (Lv. 26)
+<img src="../img/pokemon/309.png" width="40" /> **[Electrike](../pokemon/electrike.md)**  ➡️  <img src="../img/pokemon/310.png" width="40" /> **[Manectric](../pokemon/manectric.md)** (Lv. 26)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 16](../routes/route_16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 16](../routes/route-16.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

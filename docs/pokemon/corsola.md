@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/222.png" width="40" /> **[Corsola]( corsola.md)**  ➡️   **[Cursola]( cursola.md)** (Lv. 38)
+<img src="../img/pokemon/222.png" width="40" /> **[Corsola](../pokemon/corsola.md)**  ➡️   **[Cursola](../pokemon/cursola.md)** (Lv. 38)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,11 +40,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Undella Town](../routes/undella_town.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 40% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Undella Town](../routes/undella-town.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

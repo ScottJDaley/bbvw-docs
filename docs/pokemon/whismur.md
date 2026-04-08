@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/293.png" width="40" /> **[Whismur]( whismur.md)**  ➡️  <img src="../img/pokemon/294.png" width="40" /> **[Loudred]( loudred.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/295.png" width="40" /> **[Exploud]( exploud.md)** (Lv. 40)
+<img src="../img/pokemon/293.png" width="40" /> **[Whismur](../pokemon/whismur.md)**  ➡️  <img src="../img/pokemon/294.png" width="40" /> **[Loudred](../pokemon/loudred.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/295.png" width="40" /> **[Exploud](../pokemon/exploud.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,7 +33,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

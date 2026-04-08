@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/349.png" width="40" /> **[Feebas]( feebas.md)**  ➡️  <img src="../img/pokemon/350.png" width="40" /> **[Milotic]( milotic.md)** (Level Up)
+<img src="../img/pokemon/349.png" width="40" /> **[Feebas](../pokemon/feebas.md)**  ➡️  <img src="../img/pokemon/350.png" width="40" /> **[Milotic](../pokemon/milotic.md)** (Level Up)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

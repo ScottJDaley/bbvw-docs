@@ -7,7 +7,7 @@ Original: <img src="../img/types/bug.png" width="60" />
 New: <img src="../img/types/bug.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/313.png" width="40" /> **[Volbeat]( volbeat.md)**
+<img src="../img/pokemon/313.png" width="40" /> **[Volbeat](../pokemon/volbeat.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@ New: <img src="../img/types/bug.png" width="60" /> <img src="../img/types/electr
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 4% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 4% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

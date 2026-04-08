@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/074.png" width="40" /> **[Geodude]( geodude.md)**  ➡️  <img src="../img/pokemon/075.png" width="40" /> **[Graveler]( graveler.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/076.png" width="40" /> **[Golem]( golem.md)** (Trade)
+<img src="../img/pokemon/074.png" width="40" /> **[Geodude](../pokemon/geodude.md)**  ➡️  <img src="../img/pokemon/075.png" width="40" /> **[Graveler](../pokemon/graveler.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/076.png" width="40" /> **[Golem](../pokemon/golem.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |

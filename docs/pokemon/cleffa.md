@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/173.png" width="40" /> **[Cleffa]( cleffa.md)**  ➡️  <img src="../img/pokemon/035.png" width="40" /> **[Clefairy]( clefairy.md)** (Happiness)  ➡️  <img src="../img/pokemon/036.png" width="40" /> **[Clefable]( clefable.md)** (Use moon-stone)
+<img src="../img/pokemon/173.png" width="40" /> **[Cleffa](../pokemon/cleffa.md)**  ➡️  <img src="../img/pokemon/035.png" width="40" /> **[Clefairy](../pokemon/clefairy.md)** (Happiness)  ➡️  <img src="../img/pokemon/036.png" width="40" /> **[Clefable](../pokemon/clefable.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |

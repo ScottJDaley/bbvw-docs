@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/543.png" width="40" /> **[Venipede]( venipede.md)**  ➡️  <img src="../img/pokemon/544.png" width="40" /> **[Whirlipede]( whirlipede.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/545.png" width="40" /> **[Scolipede]( scolipede.md)** (Lv. 30)
+<img src="../img/pokemon/543.png" width="40" /> **[Venipede](../pokemon/venipede.md)**  ➡️  <img src="../img/pokemon/544.png" width="40" /> **[Whirlipede](../pokemon/whirlipede.md)** (Lv. 22)  ➡️  <img src="../img/pokemon/545.png" width="40" /> **[Scolipede](../pokemon/scolipede.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,9 +39,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

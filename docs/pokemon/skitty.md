@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/300.png" width="40" /> **[Skitty]( skitty.md)**  ➡️  <img src="../img/pokemon/301.png" width="40" /> **[Delcatty]( delcatty.md)** (Use moon-stone)
+<img src="../img/pokemon/300.png" width="40" /> **[Skitty](../pokemon/skitty.md)**  ➡️  <img src="../img/pokemon/301.png" width="40" /> **[Delcatty](../pokemon/delcatty.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,9 +33,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

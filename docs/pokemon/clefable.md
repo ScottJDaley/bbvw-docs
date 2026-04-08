@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/173.png" width="40" /> **[Cleffa]( cleffa.md)**  ➡️  <img src="../img/pokemon/035.png" width="40" /> **[Clefairy]( clefairy.md)** (Happiness)  ➡️  <img src="../img/pokemon/036.png" width="40" /> **[Clefable]( clefable.md)** (Use moon-stone)
+<img src="../img/pokemon/173.png" width="40" /> **[Cleffa](../pokemon/cleffa.md)**  ➡️  <img src="../img/pokemon/035.png" width="40" /> **[Clefairy](../pokemon/clefairy.md)** (Happiness)  ➡️  <img src="../img/pokemon/036.png" width="40" /> **[Clefable](../pokemon/clefable.md)** (Use moon-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -31,7 +31,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

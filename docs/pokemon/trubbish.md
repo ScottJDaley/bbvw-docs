@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/568.png" width="40" /> **[Trubbish]( trubbish.md)**  ➡️  <img src="../img/pokemon/569.png" width="40" /> **[Garbodor]( garbodor.md)** (Lv. 36)
+<img src="../img/pokemon/568.png" width="40" /> **[Trubbish](../pokemon/trubbish.md)**  ➡️  <img src="../img/pokemon/569.png" width="40" /> **[Garbodor](../pokemon/garbodor.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

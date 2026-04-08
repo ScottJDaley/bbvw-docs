@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/129.png" width="40" /> **[Magikarp]( magikarp.md)**  ➡️  <img src="../img/pokemon/130.png" width="40" /> **[Gyarados]( gyarados.md)** (Lv. 20)
+<img src="../img/pokemon/129.png" width="40" /> **[Magikarp](../pokemon/magikarp.md)**  ➡️  <img src="../img/pokemon/130.png" width="40" /> **[Gyarados](../pokemon/gyarados.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

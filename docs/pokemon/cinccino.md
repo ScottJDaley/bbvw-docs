@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/572.png" width="40" /> **[Minccino]( minccino.md)**  ➡️  <img src="../img/pokemon/573.png" width="40" /> **[Cinccino]( cinccino.md)** (Use shiny-stone)
+<img src="../img/pokemon/572.png" width="40" /> **[Minccino](../pokemon/minccino.md)**  ➡️  <img src="../img/pokemon/573.png" width="40" /> **[Cinccino](../pokemon/cinccino.md)** (Use shiny-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,8 +33,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route_5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

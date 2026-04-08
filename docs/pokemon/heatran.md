@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/485.png" width="40" /> **[Heatran]( heatran.md)**
+<img src="../img/pokemon/485.png" width="40" /> **[Heatran](../pokemon/heatran.md)**
 
 ## Abilities
 | Slot | Original | New |

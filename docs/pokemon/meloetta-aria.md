@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
- **[Meloetta]( meloetta.md)**
+ **[Meloetta](../pokemon/meloetta.md)**
 
 ## Abilities
 | Slot | Original | New |

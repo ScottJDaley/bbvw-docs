@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/177.png" width="40" /> **[Natu]( natu.md)**  ➡️  <img src="../img/pokemon/178.png" width="40" /> **[Xatu]( xatu.md)** (Lv. 25)
+<img src="../img/pokemon/177.png" width="40" /> **[Natu](../pokemon/natu.md)**  ➡️  <img src="../img/pokemon/178.png" width="40" /> **[Xatu](../pokemon/xatu.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -41,8 +41,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 6 – Spring / Summer / Autumn](../routes/route_6_–_spring___summer___autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

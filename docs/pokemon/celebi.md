@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/251.png" width="40" /> **[Celebi]( celebi.md)**
+<img src="../img/pokemon/251.png" width="40" /> **[Celebi](../pokemon/celebi.md)**
 
 ## Abilities
 | Slot | Original | New |

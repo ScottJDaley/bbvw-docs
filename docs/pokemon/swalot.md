@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/316.png" width="40" /> **[Gulpin]( gulpin.md)**  ➡️  <img src="../img/pokemon/317.png" width="40" /> **[Swalot]( swalot.md)** (Lv. 26)
+<img src="../img/pokemon/316.png" width="40" /> **[Gulpin](../pokemon/gulpin.md)**  ➡️  <img src="../img/pokemon/317.png" width="40" /> **[Swalot](../pokemon/swalot.md)** (Lv. 26)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus_city,_route_8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 4% |
-| [Moor of Icirrus](../routes/moor_of_icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
+| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 4% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

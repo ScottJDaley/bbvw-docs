@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/570.png" width="40" /> **[Zorua]( zorua.md)**  ➡️  <img src="../img/pokemon/571.png" width="40" /> **[Zoroark]( zoroark.md)** (Lv. 30)
+<img src="../img/pokemon/570.png" width="40" /> **[Zorua](../pokemon/zorua.md)**  ➡️  <img src="../img/pokemon/571.png" width="40" /> **[Zoroark](../pokemon/zoroark.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |

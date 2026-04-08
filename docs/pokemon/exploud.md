@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/293.png" width="40" /> **[Whismur]( whismur.md)**  ➡️  <img src="../img/pokemon/294.png" width="40" /> **[Loudred]( loudred.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/295.png" width="40" /> **[Exploud]( exploud.md)** (Lv. 40)
+<img src="../img/pokemon/293.png" width="40" /> **[Whismur](../pokemon/whismur.md)**  ➡️  <img src="../img/pokemon/294.png" width="40" /> **[Loudred](../pokemon/loudred.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/295.png" width="40" /> **[Exploud](../pokemon/exploud.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

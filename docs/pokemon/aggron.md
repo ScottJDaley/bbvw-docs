@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/304.png" width="40" /> **[Aron]( aron.md)**  ➡️  <img src="../img/pokemon/305.png" width="40" /> **[Lairon]( lairon.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/306.png" width="40" /> **[Aggron]( aggron.md)** (Lv. 42)
+<img src="../img/pokemon/304.png" width="40" /> **[Aron](../pokemon/aron.md)**  ➡️  <img src="../img/pokemon/305.png" width="40" /> **[Lairon](../pokemon/lairon.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/306.png" width="40" /> **[Aggron](../pokemon/aggron.md)** (Lv. 42)
 
 ## Abilities
 | Slot | Original | New |

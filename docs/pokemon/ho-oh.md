@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/250.png" width="40" /> **[Ho-oh]( ho-oh.md)**
+<img src="../img/pokemon/250.png" width="40" /> **[Ho-oh](../pokemon/ho-oh.md)**
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/506.png" width="40" /> **[Lillipup]( lillipup.md)**  ➡️  <img src="../img/pokemon/507.png" width="40" /> **[Herdier]( herdier.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/508.png" width="40" /> **[Stoutland]( stoutland.md)** (Lv. 32)
+<img src="../img/pokemon/506.png" width="40" /> **[Lillipup](../pokemon/lillipup.md)**  ➡️  <img src="../img/pokemon/507.png" width="40" /> **[Herdier](../pokemon/herdier.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/508.png" width="40" /> **[Stoutland](../pokemon/stoutland.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,11 +33,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless_otherwise_stated,_fishing_encounters_have_not_been_edited..md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Cold Storage](../routes/cold_storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

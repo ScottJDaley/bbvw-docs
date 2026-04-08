@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/318.png" width="40" /> **[Carvanha]( carvanha.md)**  ➡️  <img src="../img/pokemon/319.png" width="40" /> **[Sharpedo]( sharpedo.md)** (Lv. 30)
+<img src="../img/pokemon/318.png" width="40" /> **[Carvanha](../pokemon/carvanha.md)**  ➡️  <img src="../img/pokemon/319.png" width="40" /> **[Sharpedo](../pokemon/sharpedo.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,11 +42,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

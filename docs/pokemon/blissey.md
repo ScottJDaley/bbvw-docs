@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/440.png" width="40" /> **[Happiny]( happiny.md)**  ➡️  <img src="../img/pokemon/113.png" width="40" /> **[Chansey]( chansey.md)** (Hold oval-stone)  ➡️  <img src="../img/pokemon/242.png" width="40" /> **[Blissey]( blissey.md)** (Happiness)
+<img src="../img/pokemon/440.png" width="40" /> **[Happiny](../pokemon/happiny.md)**  ➡️  <img src="../img/pokemon/113.png" width="40" /> **[Chansey](../pokemon/chansey.md)** (Hold oval-stone)  ➡️  <img src="../img/pokemon/242.png" width="40" /> **[Blissey](../pokemon/blissey.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |
@@ -33,8 +33,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 25% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 25% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

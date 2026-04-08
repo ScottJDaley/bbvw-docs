@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/140.png" width="40" /> **[Kabuto]( kabuto.md)**  ➡️  <img src="../img/pokemon/141.png" width="40" /> **[Kabutops]( kabutops.md)** (Lv. 40)
+<img src="../img/pokemon/140.png" width="40" /> **[Kabuto](../pokemon/kabuto.md)**  ➡️  <img src="../img/pokemon/141.png" width="40" /> **[Kabutops](../pokemon/kabutops.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |

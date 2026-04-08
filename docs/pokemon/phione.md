@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/489.png" width="40" /> **[Phione]( phione.md)**  ➡️  <img src="../img/pokemon/490.png" width="40" /> **[Manaphy]( manaphy.md)** (First Stage)
+<img src="../img/pokemon/489.png" width="40" /> **[Phione](../pokemon/phione.md)**  ➡️  <img src="../img/pokemon/490.png" width="40" /> **[Manaphy](../pokemon/manaphy.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |

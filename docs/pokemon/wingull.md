@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/278.png" width="40" /> **[Wingull]( wingull.md)**  ➡️  <img src="../img/pokemon/279.png" width="40" /> **[Pelipper]( pelipper.md)** (Lv. 25)
+<img src="../img/pokemon/278.png" width="40" /> **[Wingull](../pokemon/wingull.md)**  ➡️  <img src="../img/pokemon/279.png" width="40" /> **[Pelipper](../pokemon/pelipper.md)** (Lv. 25)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Driftveil Drawbidge](../routes/driftveil_drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

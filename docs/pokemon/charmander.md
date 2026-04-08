@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/004.png" width="40" /> **[Charmander]( charmander.md)**  ➡️  <img src="../img/pokemon/005.png" width="40" /> **[Charmeleon]( charmeleon.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/006.png" width="40" /> **[Charizard]( charizard.md)** (Lv. 36)
+<img src="../img/pokemon/004.png" width="40" /> **[Charmander](../pokemon/charmander.md)**  ➡️  <img src="../img/pokemon/005.png" width="40" /> **[Charmeleon](../pokemon/charmeleon.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/006.png" width="40" /> **[Charizard](../pokemon/charizard.md)** (Lv. 36)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

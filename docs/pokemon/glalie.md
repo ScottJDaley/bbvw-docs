@@ -7,7 +7,7 @@ Original: <img src="../img/types/ice.png" width="60" />
 New: <img src="../img/types/ice.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/361.png" width="40" /> **[Snorunt]( snorunt.md)**  ➡️  <img src="../img/pokemon/362.png" width="40" /> **[Glalie]( glalie.md)** (Lv. 42) | <img src="../img/pokemon/478.png" width="40" /> **[Froslass]( froslass.md)** (Use dawn-stone)
+<img src="../img/pokemon/361.png" width="40" /> **[Snorunt](../pokemon/snorunt.md)**  ➡️  <img src="../img/pokemon/362.png" width="40" /> **[Glalie](../pokemon/glalie.md)** (Lv. 42) | <img src="../img/pokemon/478.png" width="40" /> **[Froslass](../pokemon/froslass.md)** (Use dawn-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@ New: <img src="../img/types/ice.png" width="60" /> <img src="../img/types/rock.p
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

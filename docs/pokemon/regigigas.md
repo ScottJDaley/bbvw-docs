@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/486.png" width="40" /> **[Regigigas]( regigigas.md)**
+<img src="../img/pokemon/486.png" width="40" /> **[Regigigas](../pokemon/regigigas.md)**
 
 ## Abilities
 | Slot | Original | New |

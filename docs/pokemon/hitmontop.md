@@ -6,13 +6,13 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee]( hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan]( hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop]( hitmontop.md)** (Lv. 20)
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue](../pokemon/tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee](../pokemon/hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan](../pokemon/hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop](../pokemon/hitmontop.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Guts (Tyrogue) / Intimidate (Hitmontop)](../abilities/guts-(tyrogue)-/-intimidate-(hitmontop).md)**:  |
-| Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Vital Spirit (Tyrogue) / Technician (Hitmontop)](../abilities/vital-spirit-(tyrogue)-/-technician-(hitmontop).md)**:  |
+| Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Guts (Tyrogue) / Intimidate (Hitmontop)](../abilities/guts-(tyrogue)---intimidate-(hitmontop).md)**:  |
+| Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Vital Spirit (Tyrogue) / Technician (Hitmontop)](../abilities/vital-spirit-(tyrogue)---technician-(hitmontop).md)**:  |
 
 ## Type Defenses
 | Type | Effectiveness |

@@ -6,12 +6,12 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/511.png" width="40" /> **[Pansage]( pansage.md)**  ➡️  <img src="../img/pokemon/512.png" width="40" /> **[Simisage]( simisage.md)** (Use leaf-stone)
+<img src="../img/pokemon/511.png" width="40" /> **[Pansage](../pokemon/pansage.md)**  ➡️  <img src="../img/pokemon/512.png" width="40" /> **[Simisage](../pokemon/simisage.md)** (Use leaf-stone)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Pansage) / Unburden (Simisage)](../abilities/gluttony-(pansage)-/-unburden-(simisage).md)**:  |
+| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Pansage) / Unburden (Simisage)](../abilities/gluttony-(pansage)---unburden-(simisage).md)**:  |
 | Ability 2 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 
 ## Type Defenses
@@ -40,7 +40,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

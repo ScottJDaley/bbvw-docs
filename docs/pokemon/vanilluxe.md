@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/582.png" width="40" /> **[Vanillite]( vanillite.md)**  ➡️  <img src="../img/pokemon/583.png" width="40" /> **[Vanillish]( vanillish.md)** (Lv. 35)  ➡️  <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe]( vanilluxe.md)** (Lv. 47)
+<img src="../img/pokemon/582.png" width="40" /> **[Vanillite](../pokemon/vanillite.md)**  ➡️  <img src="../img/pokemon/583.png" width="40" /> **[Vanillish](../pokemon/vanillish.md)** (Lv. 35)  ➡️  <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe](../pokemon/vanilluxe.md)** (Lv. 47)
 
 ## Abilities
 | Slot | Original | New |

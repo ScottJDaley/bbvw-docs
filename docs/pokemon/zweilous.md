@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/633.png" width="40" /> **[Deino]( deino.md)**  ➡️  <img src="../img/pokemon/634.png" width="40" /> **[Zweilous]( zweilous.md)** (Lv. 50)  ➡️  <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon]( hydreigon.md)** (Lv. 64)
+<img src="../img/pokemon/633.png" width="40" /> **[Deino](../pokemon/deino.md)**  ➡️  <img src="../img/pokemon/634.png" width="40" /> **[Zweilous](../pokemon/zweilous.md)** (Lv. 50)  ➡️  <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon](../pokemon/hydreigon.md)** (Lv. 64)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,9 +42,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

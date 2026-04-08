@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/322.png" width="40" /> **[Numel]( numel.md)**  ➡️  <img src="../img/pokemon/323.png" width="40" /> **[Camerupt]( camerupt.md)** (Lv. 33)
+<img src="../img/pokemon/322.png" width="40" /> **[Numel](../pokemon/numel.md)**  ➡️  <img src="../img/pokemon/323.png" width="40" /> **[Camerupt](../pokemon/camerupt.md)** (Lv. 33)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,7 +38,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

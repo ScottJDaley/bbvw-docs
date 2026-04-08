@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/506.png" width="40" /> **[Lillipup]( lillipup.md)**  ➡️  <img src="../img/pokemon/507.png" width="40" /> **[Herdier]( herdier.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/508.png" width="40" /> **[Stoutland]( stoutland.md)** (Lv. 32)
+<img src="../img/pokemon/506.png" width="40" /> **[Lillipup](../pokemon/lillipup.md)**  ➡️  <img src="../img/pokemon/507.png" width="40" /> **[Herdier](../pokemon/herdier.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/508.png" width="40" /> **[Stoutland](../pokemon/stoutland.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |

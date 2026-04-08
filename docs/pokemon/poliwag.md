@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/060.png" width="40" /> **[Poliwag]( poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl]( poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath]( poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed]( politoed.md)** (Trade hold kings-rock)
+<img src="../img/pokemon/060.png" width="40" /> **[Poliwag](../pokemon/poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl](../pokemon/poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath](../pokemon/poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed](../pokemon/politoed.md)** (Trade hold kings-rock)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 40% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 40% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail]( huntail.md)** (Trade hold deep-sea-tooth) | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss]( gorebyss.md)** (Trade hold deep-sea-scale)
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl](../pokemon/clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail](../pokemon/huntail.md)** (Trade hold deep-sea-tooth) | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss](../pokemon/gorebyss.md)** (Trade hold deep-sea-scale)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route_4.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 5% |
+| [Route 4](../routes/route-4.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

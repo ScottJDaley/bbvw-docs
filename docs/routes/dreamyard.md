@@ -11,8 +11,8 @@
 | <img src="../img/pokemon/280.png" width="40" /> | [Ralts](../pokemon/ralts.md) | 10% |
 | <img src="../img/pokemon/035.png" width="40" /> | [Clefairy](../pokemon/clefairy.md) | 5% |
 | <img src="../img/pokemon/039.png" width="40" /> | [Jigglypuff](../pokemon/jigglypuff.md) | 5% |
-|  | [Nidoran♂](../pokemon/nidoran♂.md) | 5% |
-|  | [Nidoran♀](../pokemon/nidoran♀.md) | 5% |
+| <img src="../img/pokemon/032.png" width="40" /> | [Nidoran♂](../pokemon/nidoran-m.md) | 5% |
+| <img src="../img/pokemon/029.png" width="40" /> | [Nidoran♀](../pokemon/nidoran-f.md) | 5% |
 
 ## <img src='../img/items/grass-doubles.png' width='30' style='vertical-align:middle;' /> Grass, Doubles
 | Sprite | Pokemon | Rate |
@@ -42,27 +42,27 @@
 ### Lass Eri
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/161.png" width="40" /> | Sentret | 10 | - | - |  |
-| <img src="../img/pokemon/300.png" width="40" /> | Skitty | 10 | - | - |  |
-| <img src="../img/pokemon/396.png" width="40" /> | Starly | 10 | - | - |  |
-| <img src="../img/pokemon/298.png" width="40" /> | Azurill | 10 | - | - |  |
+| <img src="../img/pokemon/161.png" width="40" /> | [Sentret](../pokemon/sentret.md) | 10 | - | - |  |
+| <img src="../img/pokemon/300.png" width="40" /> | [Skitty](../pokemon/skitty.md) | 10 | - | - |  |
+| <img src="../img/pokemon/396.png" width="40" /> | [Starly](../pokemon/starly.md) | 10 | - | - |  |
+| <img src="../img/pokemon/298.png" width="40" /> | [Azurill](../pokemon/azurill.md) | 10 | - | - |  |
 
 ### Youngster Joey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/019.png" width="40" /> | Rattata | 11 | - | - |  |
+| <img src="../img/pokemon/019.png" width="40" /> | [Rattata](../pokemon/rattata.md) | 11 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/568.png" width="40" /> | Trubbish | 14 | - | - |  |
-| <img src="../img/pokemon/023.png" width="40" /> | Ekans | 14 | - | - |  |
-| <img src="../img/pokemon/096.png" width="40" /> | Drowzee | 15 | - | - |  |
+| <img src="../img/pokemon/568.png" width="40" /> | [Trubbish](../pokemon/trubbish.md) | 14 | - | - |  |
+| <img src="../img/pokemon/023.png" width="40" /> | [Ekans](../pokemon/ekans.md) | 14 | - | - |  |
+| <img src="../img/pokemon/096.png" width="40" /> | [Drowzee](../pokemon/drowzee.md) | 15 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| <img src="../img/pokemon/109.png" width="40" /> | Koffing | 14 | - | - |  |
-| <img src="../img/pokemon/088.png" width="40" /> | Grimer | 14 | - | - |  |
-| <img src="../img/pokemon/331.png" width="40" /> | Cacnea | 15 | - | - |  |
+| <img src="../img/pokemon/109.png" width="40" /> | [Koffing](../pokemon/koffing.md) | 14 | - | - |  |
+| <img src="../img/pokemon/088.png" width="40" /> | [Grimer](../pokemon/grimer.md) | 14 | - | - |  |
+| <img src="../img/pokemon/331.png" width="40" /> | [Cacnea](../pokemon/cacnea.md) | 15 | - | - |  |
 

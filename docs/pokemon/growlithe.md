@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/058.png" width="40" /> **[Growlithe]( growlithe.md)**  ➡️  <img src="../img/pokemon/059.png" width="40" /> **[Arcanine]( arcanine.md)** (Use fire-stone)
+<img src="../img/pokemon/058.png" width="40" /> **[Growlithe](../pokemon/growlithe.md)**  ➡️  <img src="../img/pokemon/059.png" width="40" /> **[Arcanine](../pokemon/arcanine.md)** (Use fire-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,8 +39,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

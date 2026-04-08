@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/374.png" width="40" /> **[Beldum]( beldum.md)**  ➡️  <img src="../img/pokemon/375.png" width="40" /> **[Metang]( metang.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/376.png" width="40" /> **[Metagross]( metagross.md)** (Lv. 45)
+<img src="../img/pokemon/374.png" width="40" /> **[Beldum](../pokemon/beldum.md)**  ➡️  <img src="../img/pokemon/375.png" width="40" /> **[Metang](../pokemon/metang.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/376.png" width="40" /> **[Metagross](../pokemon/metagross.md)** (Lv. 45)
 
 ## Abilities
 | Slot | Original | New |
@@ -44,9 +44,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

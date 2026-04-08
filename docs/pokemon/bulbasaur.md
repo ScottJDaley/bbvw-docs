@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/001.png" width="40" /> **[Bulbasaur]( bulbasaur.md)**  ➡️  <img src="../img/pokemon/002.png" width="40" /> **[Ivysaur]( ivysaur.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/003.png" width="40" /> **[Venusaur]( venusaur.md)** (Lv. 32)
+<img src="../img/pokemon/001.png" width="40" /> **[Bulbasaur](../pokemon/bulbasaur.md)**  ➡️  <img src="../img/pokemon/002.png" width="40" /> **[Ivysaur](../pokemon/ivysaur.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/003.png" width="40" /> **[Venusaur](../pokemon/venusaur.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -39,7 +39,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

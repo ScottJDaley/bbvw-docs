@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/602.png" width="40" /> **[Tynamo]( tynamo.md)**  ➡️  <img src="../img/pokemon/603.png" width="40" /> **[Eelektrik]( eelektrik.md)** (Lv. 39)  ➡️  <img src="../img/pokemon/604.png" width="40" /> **[Eelektross]( eelektross.md)** (Use thunder-stone)
+<img src="../img/pokemon/602.png" width="40" /> **[Tynamo](../pokemon/tynamo.md)**  ➡️  <img src="../img/pokemon/603.png" width="40" /> **[Eelektrik](../pokemon/eelektrik.md)** (Lv. 39)  ➡️  <img src="../img/pokemon/604.png" width="40" /> **[Eelektross](../pokemon/eelektross.md)** (Use thunder-stone)
 
 ## Abilities
 | Slot | Original | New |

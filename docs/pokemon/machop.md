@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/066.png" width="40" /> **[Machop]( machop.md)**  ➡️  <img src="../img/pokemon/067.png" width="40" /> **[Machoke]( machoke.md)** (Lv. 28)  ➡️  <img src="../img/pokemon/068.png" width="40" /> **[Machamp]( machamp.md)** (Trade)
+<img src="../img/pokemon/066.png" width="40" /> **[Machop](../pokemon/machop.md)**  ➡️  <img src="../img/pokemon/067.png" width="40" /> **[Machoke](../pokemon/machoke.md)** (Lv. 28)  ➡️  <img src="../img/pokemon/068.png" width="40" /> **[Machamp](../pokemon/machamp.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -36,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

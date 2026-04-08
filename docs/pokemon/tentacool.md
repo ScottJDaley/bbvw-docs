@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/072.png" width="40" /> **[Tentacool]( tentacool.md)**  ➡️  <img src="../img/pokemon/073.png" width="40" /> **[Tentacruel]( tentacruel.md)** (Lv. 30)
+<img src="../img/pokemon/072.png" width="40" /> **[Tentacool](../pokemon/tentacool.md)**  ➡️  <img src="../img/pokemon/073.png" width="40" /> **[Tentacruel](../pokemon/tentacruel.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -41,11 +41,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Driftveil City](../routes/driftveil_city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Route 17](../routes/route_17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [P2 Laboratory](../routes/p2_laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Route 17](../routes/route-17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

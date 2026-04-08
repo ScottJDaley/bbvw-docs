@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/422.png" width="40" /> **[Shellos]( shellos.md)**  ➡️  <img src="../img/pokemon/423.png" width="40" /> **[Gastrodon]( gastrodon.md)** (Lv. 30)
+<img src="../img/pokemon/422.png" width="40" /> **[Shellos](../pokemon/shellos.md)**  ➡️  <img src="../img/pokemon/423.png" width="40" /> **[Gastrodon](../pokemon/gastrodon.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,9 +37,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Wellspring Cave 1F](../routes/wellspring_cave_1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

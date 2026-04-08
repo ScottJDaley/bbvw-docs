@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/048.png" width="40" /> **[Venonat]( venonat.md)**  ➡️  <img src="../img/pokemon/049.png" width="40" /> **[Venomoth]( venomoth.md)** (Lv. 31)
+<img src="../img/pokemon/048.png" width="40" /> **[Venonat](../pokemon/venonat.md)**  ➡️  <img src="../img/pokemon/049.png" width="40" /> **[Venomoth](../pokemon/venomoth.md)** (Lv. 31)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/436.png" width="40" /> **[Bronzor]( bronzor.md)**  ➡️  <img src="../img/pokemon/437.png" width="40" /> **[Bronzong]( bronzong.md)** (Lv. 33)
+<img src="../img/pokemon/436.png" width="40" /> **[Bronzor](../pokemon/bronzor.md)**  ➡️  <img src="../img/pokemon/437.png" width="40" /> **[Bronzong](../pokemon/bronzong.md)** (Lv. 33)
 
 ## Abilities
 | Slot | Original | New |
@@ -44,8 +44,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
-| [Abundant Shrine](../routes/abundant_shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

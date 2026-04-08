@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/187.png" width="40" /> **[Hoppip]( hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom]( skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff]( jumpluff.md)** (Lv. 27)
+<img src="../img/pokemon/187.png" width="40" /> **[Hoppip](../pokemon/hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom](../pokemon/skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff](../pokemon/jumpluff.md)** (Lv. 27)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,12 +40,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 13](../routes/route_13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Marvelous Bridge](../routes/marvelous_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 13](../routes/route-13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Marvelous Bridge](../routes/marvelous-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/285.png" width="40" /> **[Shroomish]( shroomish.md)**  ➡️  <img src="../img/pokemon/286.png" width="40" /> **[Breloom]( breloom.md)** (Lv. 23)
+<img src="../img/pokemon/285.png" width="40" /> **[Shroomish](../pokemon/shroomish.md)**  ➡️  <img src="../img/pokemon/286.png" width="40" /> **[Breloom](../pokemon/breloom.md)** (Lv. 23)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 14](../routes/route_14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

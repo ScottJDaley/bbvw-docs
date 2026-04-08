@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/410.png" width="40" /> **[Shieldon]( shieldon.md)**  ➡️  <img src="../img/pokemon/411.png" width="40" /> **[Bastiodon]( bastiodon.md)** (Lv. 30)
+<img src="../img/pokemon/410.png" width="40" /> **[Shieldon](../pokemon/shieldon.md)**  ➡️  <img src="../img/pokemon/411.png" width="40" /> **[Bastiodon](../pokemon/bastiodon.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |

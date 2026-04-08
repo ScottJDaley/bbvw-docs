@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/385.png" width="40" /> **[Jirachi]( jirachi.md)**
+<img src="../img/pokemon/385.png" width="40" /> **[Jirachi](../pokemon/jirachi.md)**
 
 ## Abilities
 | Slot | Original | New |

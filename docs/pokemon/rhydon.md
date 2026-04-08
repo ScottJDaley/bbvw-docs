@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/111.png" width="40" /> **[Rhyhorn]( rhyhorn.md)**  ➡️  <img src="../img/pokemon/112.png" width="40" /> **[Rhydon]( rhydon.md)** (Lv. 42)  ➡️  <img src="../img/pokemon/464.png" width="40" /> **[Rhyperior]( rhyperior.md)** (Trade hold protector)
+<img src="../img/pokemon/111.png" width="40" /> **[Rhyhorn](../pokemon/rhyhorn.md)**  ➡️  <img src="../img/pokemon/112.png" width="40" /> **[Rhydon](../pokemon/rhydon.md)** (Lv. 42)  ➡️  <img src="../img/pokemon/464.png" width="40" /> **[Rhyperior](../pokemon/rhyperior.md)** (Trade hold protector)
 
 ## Abilities
 | Slot | Original | New |
@@ -43,9 +43,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Mistralton Cave 1F – 2F](../routes/mistralton_cave_1f_–_2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Victory Road](../routes/victory_road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Route 11](../routes/route_11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Route 11](../routes/route-11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

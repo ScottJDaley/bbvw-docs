@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/187.png" width="40" /> **[Hoppip]( hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom]( skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff]( jumpluff.md)** (Lv. 27)
+<img src="../img/pokemon/187.png" width="40" /> **[Hoppip](../pokemon/hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom](../pokemon/skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff](../pokemon/jumpluff.md)** (Lv. 27)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Driftveil Drawbidge](../routes/driftveil_drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | <img src='../img/items/grass-special.png' width='20' /> Bridge, Special | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

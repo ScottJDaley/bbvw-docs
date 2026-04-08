@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/092.png" width="40" /> **[Gastly]( gastly.md)**  ➡️  <img src="../img/pokemon/093.png" width="40" /> **[Haunter]( haunter.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/094.png" width="40" /> **[Gengar]( gengar.md)** (Trade)
+<img src="../img/pokemon/092.png" width="40" /> **[Gastly](../pokemon/gastly.md)**  ➡️  <img src="../img/pokemon/093.png" width="40" /> **[Haunter](../pokemon/haunter.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/094.png" width="40" /> **[Gengar](../pokemon/gengar.md)** (Trade)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic_castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
-| [Celestial Tower](../routes/celestial_tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

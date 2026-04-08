@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/083.png" width="40" /> **[Farfetchd]( farfetchd.md)**  ➡️   **[Sirfetchd]( sirfetchd.md)** (First Stage)
+<img src="../img/pokemon/083.png" width="40" /> **[Farfetchd](../pokemon/farfetchd.md)**  ➡️   **[Sirfetchd](../pokemon/sirfetchd.md)** (First Stage)
 
 ## Abilities
 | Slot | Original | New |
@@ -34,6 +34,13 @@
 | Special attack | 58 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:28.999999999999996%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 62 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:31.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

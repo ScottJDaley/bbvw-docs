@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/060.png" width="40" /> **[Poliwag]( poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl]( poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath]( poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed]( politoed.md)** (Trade hold kings-rock)
+<img src="../img/pokemon/060.png" width="40" /> **[Poliwag](../pokemon/poliwag.md)**  ➡️  <img src="../img/pokemon/061.png" width="40" /> **[Poliwhirl](../pokemon/poliwhirl.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/062.png" width="40" /> **[Poliwrath](../pokemon/poliwrath.md)** (Use water-stone) | <img src="../img/pokemon/186.png" width="40" /> **[Politoed](../pokemon/politoed.md)** (Trade hold kings-rock)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,8 +42,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Challenger’s Cave – All Floors](../routes/challengers_cave_–_all_floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

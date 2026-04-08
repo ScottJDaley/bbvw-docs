@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/483.png" width="40" /> **[Dialga]( dialga.md)**
+<img src="../img/pokemon/483.png" width="40" /> **[Dialga](../pokemon/dialga.md)**
 
 ## Abilities
 | Slot | Original | New |

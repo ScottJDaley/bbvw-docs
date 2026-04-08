@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/527.png" width="40" /> **[Woobat]( woobat.md)**  ➡️  <img src="../img/pokemon/528.png" width="40" /> **[Swoobat]( swoobat.md)** (Happiness)
+<img src="../img/pokemon/527.png" width="40" /> **[Woobat](../pokemon/woobat.md)**  ➡️  <img src="../img/pokemon/528.png" width="40" /> **[Swoobat](../pokemon/swoobat.md)** (Happiness)
 
 ## Abilities
 | Slot | Original | New |

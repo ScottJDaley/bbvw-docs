@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/597.png" width="40" /> **[Ferroseed]( ferroseed.md)**  ➡️  <img src="../img/pokemon/598.png" width="40" /> **[Ferrothorn]( ferrothorn.md)** (Lv. 40)
+<img src="../img/pokemon/597.png" width="40" /> **[Ferroseed](../pokemon/ferroseed.md)**  ➡️  <img src="../img/pokemon/598.png" width="40" /> **[Ferrothorn](../pokemon/ferrothorn.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone_cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

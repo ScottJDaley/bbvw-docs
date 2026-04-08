@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/220.png" width="40" /> **[Swinub]( swinub.md)**  ➡️  <img src="../img/pokemon/221.png" width="40" /> **[Piloswine]( piloswine.md)** (Lv. 33)  ➡️  <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine]( mamoswine.md)** (Know ancient-power)
+<img src="../img/pokemon/220.png" width="40" /> **[Swinub](../pokemon/swinub.md)**  ➡️  <img src="../img/pokemon/221.png" width="40" /> **[Piloswine](../pokemon/piloswine.md)** (Lv. 33)  ➡️  <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine](../pokemon/mamoswine.md)** (Know ancient-power)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,7 +38,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm – Outside Area](../routes/giant_chasm_–_outside_area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

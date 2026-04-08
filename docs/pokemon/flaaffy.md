@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/179.png" width="40" /> **[Mareep]( mareep.md)**  ➡️  <img src="../img/pokemon/180.png" width="40" /> **[Flaaffy]( flaaffy.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/181.png" width="40" /> **[Ampharos]( ampharos.md)** (Lv. 30)
+<img src="../img/pokemon/179.png" width="40" /> **[Mareep](../pokemon/mareep.md)**  ➡️  <img src="../img/pokemon/180.png" width="40" /> **[Flaaffy](../pokemon/flaaffy.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/181.png" width="40" /> **[Ampharos](../pokemon/ampharos.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route_9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Route 9](../routes/route-9.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

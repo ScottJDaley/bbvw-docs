@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/383.png" width="40" /> **[Groudon]( groudon.md)**
+<img src="../img/pokemon/383.png" width="40" /> **[Groudon](../pokemon/groudon.md)**
 
 ## Abilities
 | Slot | Original | New |

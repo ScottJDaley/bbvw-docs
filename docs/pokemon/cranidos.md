@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/408.png" width="40" /> **[Cranidos]( cranidos.md)**  ➡️  <img src="../img/pokemon/409.png" width="40" /> **[Rampardos]( rampardos.md)** (Lv. 30)
+<img src="../img/pokemon/408.png" width="40" /> **[Cranidos](../pokemon/cranidos.md)**  ➡️  <img src="../img/pokemon/409.png" width="40" /> **[Rampardos](../pokemon/rampardos.md)** (Lv. 30)
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/519.png" width="40" /> **[Pidove]( pidove.md)**  ➡️  <img src="../img/pokemon/520.png" width="40" /> **[Tranquill]( tranquill.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/521.png" width="40" /> **[Unfezant]( unfezant.md)** (Lv. 32)
+<img src="../img/pokemon/519.png" width="40" /> **[Pidove](../pokemon/pidove.md)**  ➡️  <img src="../img/pokemon/520.png" width="40" /> **[Tranquill](../pokemon/tranquill.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/521.png" width="40" /> **[Unfezant](../pokemon/unfezant.md)** (Lv. 32)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,8 +38,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route_10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 40% |
+| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/172.png" width="40" /> **[Pichu]( pichu.md)**  ➡️  <img src="../img/pokemon/025.png" width="40" /> **[Pikachu]( pikachu.md)** (Happiness)  ➡️  <img src="../img/pokemon/026.png" width="40" /> **[Raichu]( raichu.md)** (Use thunder-stone)
+<img src="../img/pokemon/172.png" width="40" /> **[Pichu](../pokemon/pichu.md)**  ➡️  <img src="../img/pokemon/025.png" width="40" /> **[Pikachu](../pokemon/pikachu.md)** (Happiness)  ➡️  <img src="../img/pokemon/026.png" width="40" /> **[Raichu](../pokemon/raichu.md)** (Use thunder-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -35,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn_forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

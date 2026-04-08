@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)**  ➡️   **[Wormadam]( wormadam.md)** (Lv. 20) | <img src="../img/pokemon/414.png" width="40" /> **[Mothim]( mothim.md)** (Lv. 20)
+<img src="../img/pokemon/412.png" width="40" /> **[Burmy](../pokemon/burmy.md)**  ➡️   **[Wormadam](../pokemon/wormadam.md)** (Lv. 20) | <img src="../img/pokemon/414.png" width="40" /> **[Mothim](../pokemon/mothim.md)** (Lv. 20)
 
 ## Abilities
 | Slot | Original | New |
@@ -37,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel_forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 9% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

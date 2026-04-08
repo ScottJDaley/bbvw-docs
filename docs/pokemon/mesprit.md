@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/481.png" width="40" /> **[Mesprit]( mesprit.md)**
+<img src="../img/pokemon/481.png" width="40" /> **[Mesprit](../pokemon/mesprit.md)**
 
 ## Abilities
 | Slot | Original | New |

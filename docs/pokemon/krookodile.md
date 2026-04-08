@@ -6,12 +6,12 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/551.png" width="40" /> **[Sandile]( sandile.md)**  ➡️  <img src="../img/pokemon/552.png" width="40" /> **[Krokorok]( krokorok.md)** (Lv. 29)  ➡️  <img src="../img/pokemon/553.png" width="40" /> **[Krookodile]( krookodile.md)** (Lv. 40)
+<img src="../img/pokemon/551.png" width="40" /> **[Sandile](../pokemon/sandile.md)**  ➡️  <img src="../img/pokemon/552.png" width="40" /> **[Krokorok](../pokemon/krokorok.md)** (Lv. 29)  ➡️  <img src="../img/pokemon/553.png" width="40" /> **[Krookodile](../pokemon/krookodile.md)** (Lv. 40)
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)](../abilities/anger-point-(sandile)-/-anger-point-(krokorok)-/-intimidate-(krookodile).md)**:  |
+| Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Anger Point (Sandile) / Anger Point (Krokorok) / Intimidate (Krookodile)](../abilities/anger-point-(sandile)---anger-point-(krokorok)---intimidate-(krookodile).md)**:  |
 | Ability 2 | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
 ## Type Defenses

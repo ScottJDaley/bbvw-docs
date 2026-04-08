@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/010.png" width="40" /> **[Caterpie]( caterpie.md)**  ➡️  <img src="../img/pokemon/011.png" width="40" /> **[Metapod]( metapod.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/012.png" width="40" /> **[Butterfree]( butterfree.md)** (Lv. 10)
+<img src="../img/pokemon/010.png" width="40" /> **[Caterpie](../pokemon/caterpie.md)**  ➡️  <img src="../img/pokemon/011.png" width="40" /> **[Metapod](../pokemon/metapod.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/012.png" width="40" /> **[Butterfree](../pokemon/butterfree.md)** (Lv. 10)
 
 ## Abilities
 | Slot | Original | New |
@@ -40,8 +40,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 2](../routes/route_2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
-| [Route 12](../routes/route_12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 2](../routes/route-2.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Route 12](../routes/route-12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

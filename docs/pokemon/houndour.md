@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/228.png" width="40" /> **[Houndour]( houndour.md)**  ➡️  <img src="../img/pokemon/229.png" width="40" /> **[Houndoom]( houndoom.md)** (Lv. 24)
+<img src="../img/pokemon/228.png" width="40" /> **[Houndour](../pokemon/houndour.md)**  ➡️  <img src="../img/pokemon/229.png" width="40" /> **[Houndoom](../pokemon/houndoom.md)** (Lv. 24)
 
 ## Abilities
 | Slot | Original | New |
@@ -42,7 +42,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 3](../routes/route_3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/175.png" width="40" /> **[Togepi]( togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic]( togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss]( togekiss.md)** (Use shiny-stone)
+<img src="../img/pokemon/175.png" width="40" /> **[Togepi](../pokemon/togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic](../pokemon/togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss](../pokemon/togekiss.md)** (Use shiny-stone)
 
 ## Abilities
 | Slot | Original | New |
@@ -38,7 +38,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Village Bridge](../routes/village_bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
