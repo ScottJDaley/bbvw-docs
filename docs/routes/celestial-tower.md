@@ -1,6 +1,7 @@
 # Celestial Tower
 
-## ![2F, 3F](../img/items/grass-normal.png){ style='vertical-align:middle;' } 2F, 3F
+## 2F, 3F
+### ![Tower, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Tower, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) | 20% |
@@ -12,7 +13,8 @@
 | ![Wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) | 10% |
 | ![Bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 10% |
 
-## ![4F](../img/items/grass-normal.png){ style='vertical-align:middle;' } 4F
+## 4F
+### ![Tower, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Tower, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) | 20% |
@@ -24,7 +26,8 @@
 | ![Wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 10% |
 | ![Bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) | 10% |
 
-## ![5F (Roof)](../img/items/grass-normal.png){ style='vertical-align:middle;' } 5F (Roof)
+## 5F (Roof)
+### ![Tower, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Tower, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 20% |

@@ -1,6 +1,7 @@
 # Relic Castle
 
-## ![1F](../img/items/grass-normal.png){ style='vertical-align:middle;' } 1F
+## 1F
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
@@ -12,7 +13,8 @@
 | ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 10% |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
 
-## ![B1F](../img/items/grass-normal.png){ style='vertical-align:middle;' } B1F
+## B1F
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 20% |
@@ -26,7 +28,8 @@
 | ![Larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) | 4% |
 | ![Larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 2% |
 
-## ![B2F, B3F, B4F, B5F](../img/items/grass-normal.png){ style='vertical-align:middle;' } B2F, B3F, B4F, B5F
+## B2F, B3F, B4F, B5F
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
@@ -40,7 +43,8 @@
 |  | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![Camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 
-## ![B6F, Maze](../img/items/grass-normal.png){ style='vertical-align:middle;' } B6F, Maze
+## B6F, Maze
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
@@ -54,7 +58,8 @@
 |  | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![Camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 
-## ![Pot Rooms](../img/items/grass-normal.png){ style='vertical-align:middle;' } Pot Rooms
+## Pot Rooms
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |

@@ -1,6 +1,7 @@
 # Desert Resort
 
-## ![Entrance](../img/items/grass-normal.png){ style='vertical-align:middle;' } Entrance
+## Entrance
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
@@ -12,7 +13,8 @@
 | ![Baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) | 10% |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
 
-## ![Main](../img/items/grass-normal.png){ style='vertical-align:middle;' } Main
+## Main
+### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 20% |

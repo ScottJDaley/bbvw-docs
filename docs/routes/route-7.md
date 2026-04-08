@@ -1,6 +1,7 @@
 # Route 7
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) | 20% |
@@ -13,6 +14,10 @@
 | ![Pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 5% |
 | ![Torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) | 5% |
 | ![Gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | 5% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) | 20% |
 | ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 20% |
 | ![Magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) | 10% |
@@ -23,6 +28,10 @@
 | ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 5% |
 | ![Miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) | 5% |
 | ![Tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) | 5% |
+
+### ![Grass, Shaking](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Shaking
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 60% |
 | ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 30% |
 | ![Gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 10% |

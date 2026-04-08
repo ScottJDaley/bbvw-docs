@@ -1,6 +1,7 @@
 # Dreamyard
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) | 20% |
@@ -13,6 +14,10 @@
 | ![Jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) | 5% |
 | ![Nidoran♂](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) | 5% |
 | ![Nidoran♀](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) | 5% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) | 20% |
 | ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 20% |
 | ![Clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) | 10% |
@@ -21,6 +26,10 @@
 | ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 10% |
 | ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 10% |
 | ![Spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) | 10% |
+
+### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
 | ![Togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) | 20% |
 | ![Cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) | 10% |

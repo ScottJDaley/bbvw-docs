@@ -1,6 +1,7 @@
 # Twist Mountain
 
-## ![1F - All Seasons](../img/items/grass-normal.png){ style='vertical-align:middle;' } 1F - All Seasons
+## 1F - All Seasons
+### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) | 20% |
@@ -13,10 +14,15 @@
 | ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 5% |
 | ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
 | ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 5% |
+
+### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
-## ![Not 1F - All Seasons](../img/items/grass-normal.png){ style='vertical-align:middle;' } Not 1F - All Seasons
+## Not 1F - All Seasons
+### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 20% |
@@ -29,6 +35,10 @@
 | ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 5% |
 | ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
 | ![Durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 5% |
+
+### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 

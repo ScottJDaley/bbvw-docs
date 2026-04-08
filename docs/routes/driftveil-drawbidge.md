@@ -1,6 +1,7 @@
 # Driftveil Drawbidge
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Bridge, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Bridge, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) | 20% |

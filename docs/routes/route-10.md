@@ -1,6 +1,7 @@
 # Route 10
 
-## ![Main Route](../img/items/grass-normal.png){ style='vertical-align:middle;' } Main Route
+## Main Route
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 20% |
@@ -11,6 +12,10 @@
 | ![Primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) | 10% |
 | ![Amoonguss](../img/pokemon/591.png) | [Amoonguss](../pokemon/amoonguss.md) | 10% |
 | ![Tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 10% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 20% |
 | ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 20% |
 | ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 10% |
@@ -19,9 +24,14 @@
 | ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 10% |
 | ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
 | ![Manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 10% |
+
+### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 100% |
 
-## ![League Path](../img/items/grass-normal.png){ style='vertical-align:middle;' } League Path
+## League Path
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 20% |
@@ -32,6 +42,10 @@
 | ![Dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) | 10% |
 | ![Zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 10% |
 | ![Seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 10% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 20% |
 | ![Pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 20% |
 | ![Cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 10% |
@@ -40,6 +54,10 @@
 | ![Rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) | 10% |
 | ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 10% |
 | ![Girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 10% |
+
+### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 90% |
 | ![Blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
 

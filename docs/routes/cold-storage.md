@@ -1,6 +1,7 @@
 # Cold Storage
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) | 20% |
@@ -11,6 +12,10 @@
 | ![Buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 10% |
 | ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 10% |
 | ![Taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) | 10% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) | 20% |
 | ![Herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 20% |
 | ![Swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 10% |
@@ -19,6 +24,10 @@
 | ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 10% |
 | ![Smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) | 10% |
 | ![Piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 10% |
+
+### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 90% |
 | ![Mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) | 10% |
 

@@ -709,37 +709,49 @@ nav:
       - Genesect: pokemon/genesect.md
   - Routes:
     - routes/index.md
+    - Nuvema Town: routes/nuvema-town.md
     - Route 1: routes/route-1.md
+    - Accumula Town: routes/accumula-town.md
     - Route 2: routes/route-2.md
-    - Striaton City: routes/striaton-city.md
+    - Striation City: routes/striation-city.md
     - Dreamyard: routes/dreamyard.md
     - Route 3: routes/route-3.md
     - Wellspring Cave: routes/wellspring-cave.md
+    - Nacrene City: routes/nacrene-city.md
     - Pinwheel Forest: routes/pinwheel-forest.md
-    - Liberty Garden: routes/liberty-garden.md
+    - Castelia City: routes/castelia-city.md
     - Route 4: routes/route-4.md
     - Desert Resort: routes/desert-resort.md
     - Relic Castle: routes/relic-castle.md
-    - Route 5: routes/route-5.md
+    - Nimbasa City: routes/nimbasa-city.md
     - Route 16: routes/route-16.md
-    - Lostlorn Forest: routes/lostlorn-forest.md
-    - Driftveil Drawbidge: routes/driftveil-drawbidge.md
-    - Driftveil City: routes/driftveil-city.md
+    - Route 5: routes/route-5.md
     - Cold Storage: routes/cold-storage.md
+    - Driftveil City: routes/driftveil-city.md
     - Route 6: routes/route-6.md
     - Chargestone Cave: routes/chargestone-cave.md
     - Route 7: routes/route-7.md
     - Celestial Tower: routes/celestial-tower.md
+    - Mistralton City: routes/mistralton-city.md
     - Route 17: routes/route-17.md
-    - P2 Laboratory: routes/p2-laboratory.md
+    - Route 18: routes/route-18.md
     - Mistralton Cave: routes/mistralton-cave.md
     - Twist Mountain: routes/twist-mountain.md
-    - Icirrus City, Route 8: routes/icirrus-city,-route-8.md
+    - Icirrus City: routes/icirrus-city.md
+    - Route 8: routes/route-8.md
     - Moor of Icirrus: routes/moor-of-icirrus.md
     - Dragonspiral Tower: routes/dragonspiral-tower.md
+    - Tubeline Bridge: routes/tubeline-bridge.md
     - Route 9: routes/route-9.md
+    - Opelucid City: routes/opelucid-city.md
     - Route 10: routes/route-10.md
     - Victory Road: routes/victory-road.md
+    - Striaton City: routes/striaton-city.md
+    - Liberty Garden: routes/liberty-garden.md
+    - Lostlorn Forest: routes/lostlorn-forest.md
+    - Driftveil Drawbidge: routes/driftveil-drawbidge.md
+    - P2 Laboratory: routes/p2-laboratory.md
+    - Icirrus City, Route 8: routes/icirrus-city,-route-8.md
     - N’s Castle: routes/ns-castle.md
     - Route 11: routes/route-11.md
     - Village Bridge: routes/village-bridge.md

@@ -1,6 +1,7 @@
 # Marvelous Bridge
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Bridge, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Bridge, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) | 20% |

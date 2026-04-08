@@ -1,6 +1,7 @@
 # Route 5
 
-## ![General](../img/items/grass-normal.png){ style='vertical-align:middle;' } General
+## General
+### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) | 20% |
@@ -13,6 +14,10 @@
 | ![Mime Jr.](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
 | ![Bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![Pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 5% |
+
+### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) | 20% |
 | ![Nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) | 20% |
 | ![Rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) | 10% |
@@ -23,6 +28,10 @@
 | ![Tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) | 5% |
 | ![Bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) | 5% |
 | ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 5% |
+
+### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
 | ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 20% |
 | ![Cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) | 10% |

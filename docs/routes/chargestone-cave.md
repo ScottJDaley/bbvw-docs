@@ -1,6 +1,7 @@
 # Chargestone Cave
 
-## ![1F](../img/items/grass-normal.png){ style='vertical-align:middle;' } 1F
+## 1F
+### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) | 20% |
@@ -11,10 +12,15 @@
 | ![Ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) | 10% |
 | ![Nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 10% |
 | ![Lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) | 10% |
+
+### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
 | ![Diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
 
-## ![B1F](../img/items/grass-normal.png){ style='vertical-align:middle;' } B1F
+## B1F
+### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) | 20% |
@@ -25,10 +31,15 @@
 | ![Durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 10% |
 | ![Nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 10% |
 | ![Deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) | 10% |
+
+### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
 | ![Diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
 
-## ![B2F](../img/items/grass-normal.png){ style='vertical-align:middle;' } B2F
+## B2F
+### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 20% |
@@ -41,6 +52,10 @@
 | ![Eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) | 5% |
 | ![Porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) | 5% |
 | ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 4% |
+
+### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 

@@ -73,7 +73,6 @@ def parse_wild_pokemon():
         section = section.strip()
         if not section: continue
         
-        # Split by blocks (triple newline or double newline)
         blocks = re.split(r'\n\s*\n', section)
         main_area_name = ""
         route_data = None
@@ -84,16 +83,13 @@ def parse_wild_pokemon():
             lines = [l.strip() for l in block.split('\n') if l.strip()]
             if not lines: continue
             
-            # Skip fluff
             if any(x in lines[0] for x in ["Wild Pokémon", "Recall that", "Serebii.net", "649", "Note that", "Special' refers", "Thanks go to", "You won’t be able", "There are a couple"]):
                 continue
 
-            # Legendary/Special
             if "LEGENDARY ENCOUNTER" in lines[0] or "SPECIAL ENCOUNTER" in lines[0]:
                 if route_data: route_data['specials'].append(block)
                 continue
 
-            # If it's a name block (no colons)
             if not any(":" in l for l in lines):
                 potential_name = lines[0]
                 if not main_area_name:
@@ -105,7 +101,6 @@ def parse_wild_pokemon():
                         routes.append(route_data)
                 continue
 
-            # If it's an encounter block (has colons)
             if any(":" in l for l in lines):
                 if not route_data: continue
                 
@@ -203,12 +198,17 @@ def parse_trainers():
                 trainer_data['pokemon'].append(p_data)
             if current_location not in trainers: trainers[current_location] = []
             trainers[current_location].append(trainer_data)
+    
     with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         gen_content = f.read()
+    
+    # We want to capture the order of locations in Trainer Rosters too
+    trainer_locations_ordered = []
     sections = gen_content.split('\n---\n')
     for i in range(0, len(sections)-1):
         loc_lines = sections[i].strip().split('\n')
         location = loc_lines[-1].strip()
+        if location not in trainer_locations_ordered: trainer_locations_ordered.append(location)
         trainer_lines = sections[i+1].strip().split('\n')
         if i+1 < len(sections):
              trainer_list = []
@@ -226,12 +226,25 @@ def parse_trainers():
                          if pk_match: trainer_data['pokemon'].append({'name': pk_match.group(1).strip(), 'level': pk_match.group(2).strip(), 'moves': [], 'item': '-', 'ability': '-'})
                      if location not in trainers: trainers[location] = []
                      trainers[location].append(trainer_data)
-    return trainers
+    return trainers, trainer_locations_ordered
 
 if __name__ == "__main__":
     pokemon_changes = parse_pokemon_changes()
     wild_pkmn = parse_wild_pokemon()
     move_changes, move_stat_changes = parse_move_changes()
-    trainer_data = parse_trainers()
-    with open('scripts/data/romhack_data.json', 'w') as f: json.dump({'pokemon_changes': pokemon_changes, 'wild_pokemon': wild_pkmn, 'move_changes': move_changes, 'move_stat_changes': move_stat_changes, 'trainers': trainer_data}, f, indent=2)
+    trainer_data, trainer_order = parse_trainers()
+    
+    # Identify unique route names from wild_pkmn to preserve order
+    wild_order = [r['name'] for r in wild_pkmn]
+    
+    with open('scripts/data/romhack_data.json', 'w') as f: 
+        json.dump({
+            'pokemon_changes': pokemon_changes, 
+            'wild_pokemon': wild_pkmn, 
+            'move_changes': move_changes, 
+            'move_stat_changes': move_stat_changes, 
+            'trainers': trainer_data,
+            'trainer_order': trainer_order,
+            'wild_order': wild_order
+        }, f, indent=2)
     print("Parsing complete.")
