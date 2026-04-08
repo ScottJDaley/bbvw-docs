@@ -46,7 +46,3 @@
 | 1 | <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Destiny bond](moves/destiny-bond.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |  |
 | 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM20 Safeguard](moves/safeguard.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 25 |  |
 | 1 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Mirror coat](moves/mirror-coat.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | - | 100 | 20 |  |
-
-## Learnable Moves
-| Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |

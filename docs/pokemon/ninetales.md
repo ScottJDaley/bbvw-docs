@@ -55,13 +55,11 @@
 | 44 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Power swap](moves/power-swap.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 | <span class="change-new-label">NEW</span> |
 | 51 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Morning sun](moves/morning-sun.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 | <span class="change-new-label">NEW</span> |
 
-## Learnable Moves
+## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM45 Attract](moves/attract.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [TM04 Calm mind](moves/calm-mind.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Covet](moves/covet.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 25 |
-| <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
 | <img src="img/types/ground.png" width="40" alt="ground" /> | [TM28 Dig](moves/dig.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM32 Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [TM85 Dream eater](moves/dream-eater.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 100 | 100 | 15 |
@@ -70,16 +68,12 @@
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM38 Fire blast](moves/fire-blast.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 110 | 85 | 5 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM43 Flame charge](moves/flame-charge.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 100 | 20 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM35 Flamethrower](moves/flamethrower.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 15 |
-| <img src="img/types/dark.png" width="40" alt="dark" /> | [Foul play](moves/foul-play.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 95 | 100 | 15 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM21 Frustration](moves/frustration.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM68 Giga impact](moves/giga-impact.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 150 | 90 | 5 |
-| <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 95 | 90 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM15 Hyper beam](moves/hyper-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 150 | 90 | 5 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM59 Incinerate](moves/incinerate.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
-| <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron tail](moves/iron-tail.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 75 | 15 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM50 Overheat](moves/overheat.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 130 | 90 | 5 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Pain split](moves/pain-split.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
 | <img src="img/types/dark.png" width="40" alt="dark" /> | [TM66 Payback](moves/payback.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 100 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM17 Protect](moves/protect.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM77 Psych up](moves/psych-up.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
@@ -87,15 +81,25 @@
 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [TM44 Rest](moves/rest.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM27 Return](moves/return.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 100 | 20 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM05 Roar](moves/roar.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
-| <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Role play](moves/role-play.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM48 Round](moves/round.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
 | <img src="img/types/grass.png" width="40" alt="grass" /> | [TM22 Solar beam](moves/solar-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 120 | 100 | 10 |
-| <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM90 Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM11 Sunny day](moves/sunny-day.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 5 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM87 Swagger](moves/swagger.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 85 | 15 |
 | <img src="img/types/poison.png" width="40" alt="poison" /> | [TM06 Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 90 | 10 |
 | <img src="img/types/fire.png" width="40" alt="fire" /> | [TM61 Will o wisp](moves/will-o-wisp.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 85 | 15 |
+
+## Tutor Moves
+| Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Covet](moves/covet.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 25 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Foul play](moves/foul-play.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 95 | 100 | 15 |
+| <img src="img/types/fire.png" width="40" alt="fire" /> | [Heat wave](moves/heat-wave.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 95 | 90 | 10 |
+| <img src="img/types/steel.png" width="40" alt="steel" /> | [Iron tail](moves/iron-tail.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 75 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Pain split](moves/pain-split.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 |
+| <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Role play](moves/role-play.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
+| <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 10 |
 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 90 | 15 |

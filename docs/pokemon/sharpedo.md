@@ -69,15 +69,12 @@
 | 50 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Skull bash](moves/skull-bash.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 130 | 100 | 10 |  |
 | 56 | <img src="img/types/dark.png" width="40" alt="dark" /> | [Night slash](moves/night-slash.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 15 |  |
 
-## Learnable Moves
+## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM45 Attract](moves/attract.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
 | <img src="img/types/ice.png" width="40" alt="ice" /> | [TM14 Blizzard](moves/blizzard.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 110 | 70 | 5 |
-| <img src="img/types/flying.png" width="40" alt="flying" /> | [Bounce](moves/bounce.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 85 | 85 | 5 |
 | <img src="img/types/ground.png" width="40" alt="ground" /> | [TM78 Bulldoze](moves/bulldoze.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |
-| <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [HM06 Dive](moves/dive.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM32 Double team](moves/double-team.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 15 |
 | <img src="img/types/ground.png" width="40" alt="ground" /> | [TM26 Earthquake](moves/earthquake.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 100 | 100 | 10 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM42 Facade](moves/facade.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 70 | 100 | 20 |
@@ -87,7 +84,6 @@
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM10 Hidden power](moves/hidden-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM15 Hyper beam](moves/hyper-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 150 | 90 | 5 |
 | <img src="img/types/ice.png" width="40" alt="ice" /> | [TM13 Ice beam](moves/ice-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
-| <img src="img/types/ice.png" width="40" alt="ice" /> | [Icy wind](moves/icy-wind.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
 | <img src="img/types/dark.png" width="40" alt="dark" /> | [TM66 Payback](moves/payback.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 50 | 100 | 10 |
 | <img src="img/types/poison.png" width="40" alt="poison" /> | [TM84 Poison jab](moves/poison-jab.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 20 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM17 Protect](moves/protect.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
@@ -100,17 +96,29 @@
 | <img src="img/types/rock.png" width="40" alt="rock" /> | [TM39 Rock tomb](moves/rock-tomb.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 95 | 15 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM48 Round](moves/round.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 60 | 100 | 15 |
 | <img src="img/types/water.png" width="40" alt="water" /> | [TM55 Scald](moves/scald.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
 | <img src="img/types/dark.png" width="40" alt="dark" /> | [TM95 Snarl](moves/snarl.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
-| <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [HM04 Strength](moves/strength.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |
 | <img src="img/types/normal.png" width="40" alt="normal" /> | [TM90 Substitute](moves/substitute.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Super fang](moves/super-fang.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 90 | 10 |
-| <img src="img/types/water.png" width="40" alt="water" /> | [HM03 Surf](moves/surf.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 15 |
 | <img src="img/types/dark.png" width="40" alt="dark" /> | [TM46 Thief](moves/thief.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 25 |
 | <img src="img/types/dark.png" width="40" alt="dark" /> | [TM41 Torment](moves/torment.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 15 |
 | <img src="img/types/poison.png" width="40" alt="poison" /> | [TM06 Toxic](moves/toxic.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 90 | 10 |
-| <img src="img/types/normal.png" width="40" alt="normal" /> | [Uproar](moves/uproar.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
+
+## HM Moves
+| Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/types/water.png" width="40" alt="water" /> | [HM06 Dive](moves/dive.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [HM04 Strength](moves/strength.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |
+| <img src="img/types/water.png" width="40" alt="water" /> | [HM03 Surf](moves/surf.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 15 |
 | <img src="img/types/water.png" width="40" alt="water" /> | [HM05 Waterfall](moves/waterfall.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 100 | 15 |
+
+## Tutor Moves
+| Type | Move | Cat | Power | Acc | PP |
+| --- | --- | --- | --- | --- | --- |
+| <img src="img/types/flying.png" width="40" alt="flying" /> | [Bounce](moves/bounce.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 85 | 85 | 5 |
+| <img src="img/types/dark.png" width="40" alt="dark" /> | [Dark pulse](moves/dark-pulse.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 80 | 100 | 15 |
+| <img src="img/types/ice.png" width="40" alt="ice" /> | [Icy wind](moves/icy-wind.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Sleep talk](moves/sleep-talk.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Snore](moves/snore.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 15 |
+| <img src="img/types/ghost.png" width="40" alt="ghost" /> | [Spite](moves/spite.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 100 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Super fang](moves/super-fang.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | - | 90 | 10 |
+| <img src="img/types/normal.png" width="40" alt="normal" /> | [Uproar](moves/uproar.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 |
 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Zen headbutt](moves/zen-headbutt.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 80 | 90 | 15 |

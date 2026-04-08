@@ -45,7 +45,7 @@
 | 1 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Spark](moves/spark.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 65 | 100 | 20 |  |
 | 1 | <img src="img/types/electric.png" width="40" alt="electric" /> | [TM57 Charge beam](moves/charge-beam.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 90 | 10 |  |
 
-## Learnable Moves
+## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Magnet rise](moves/magnet-rise.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 10 |

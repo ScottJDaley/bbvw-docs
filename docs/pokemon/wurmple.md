@@ -47,7 +47,7 @@
 | 5 | <img src="img/types/poison.png" width="40" alt="poison" /> | [Poison sting](moves/poison-sting.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 15 | 100 | 35 |  |
 | 15 | <img src="img/types/bug.png" width="40" alt="bug" /> | [Bug bite](moves/bug-bite.md) | <img src="img/types/physical.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="physical" /> | 60 | 100 | 20 |  |
 
-## Learnable Moves
+## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Electroweb](moves/electroweb.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |

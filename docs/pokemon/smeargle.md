@@ -39,7 +39,3 @@
 | Level | Type | Move | Cat | Power | Acc | PP | Change |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <img src="img/types/normal.png" width="40" alt="normal" /> | [Sketch](moves/sketch.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 1 |  |
-
-## Learnable Moves
-| Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |

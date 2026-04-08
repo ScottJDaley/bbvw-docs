@@ -48,7 +48,7 @@
 | 1 | <img src="img/types/bug.png" width="40" alt="bug" /> | [String shot](moves/string-shot.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | 95 | 40 |  |
 | 6 | <img src="img/types/bug.png" width="40" alt="bug" /> | [TM76 Struggle bug](moves/struggle-bug.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 50 | 100 | 20 | <span class="change-new-label">NEW</span> |
 
-## Learnable Moves
+## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
 | --- | --- | --- | --- | --- | --- |
 | <img src="img/types/electric.png" width="40" alt="electric" /> | [Electroweb](moves/electroweb.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 55 | 95 | 15 |

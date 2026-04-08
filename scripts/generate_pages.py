@@ -67,7 +67,6 @@ def get_move_display(m_name, move_data, move_stat_changes):
     return f"| {type_icon} | [{display_name}](moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
 
 def get_full_evolution_chain(p_base):
-    # Returns a list of stages, each being a list of species in that stage
     chain = p_base['evolution_chain']['chain']
     stages = []
     
@@ -75,7 +74,6 @@ def get_full_evolution_chain(p_base):
         if len(stages) <= stage_idx: stages.append([])
         name = node['species']['name']
         
-        # Get evolution method TO this node
         method = "First Stage"
         if node['evolution_details']:
             d = node['evolution_details'][0]
@@ -123,7 +121,6 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     # Evolution
     md += "## Evolution\n"
     stages = get_full_evolution_chain(p_base)
-    
     for i, stage in enumerate(stages):
         if i > 0: md += "  ➡️  "
         stage_md = []
@@ -131,14 +128,11 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             p_info = base_data.get(p['name'])
             sprite = f'<img src="img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
             method_text = f" ({p['method']})" if i > 0 else ""
-            
-            # Check for ROM changes to evolution
             rom_evo = ""
             if p_rom.get('evolution'):
                 for re in p_rom['evolution']:
                     if re['target'] and re['target'].lower() == p['name'].lower():
                         rom_evo = f'<br/><span class="change-new-label">NEW: {re["method"]}</span>'
-            
             stage_md.append(f"{sprite} **[{p['name'].capitalize()}](pokemon/{p['name']}.md)**{method_text}{rom_evo}")
         md += " | ".join(stage_md)
     md += "\n\n"
@@ -148,12 +142,10 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     ab1_new = p_rom.get('abilities', {}).get('one')
     ab2_new = p_rom.get('abilities', {}).get('two')
     orig_abs = [a.replace('-', ' ').capitalize() for a in p_base['abilities']]
-    
     def get_ab_info(ab_name):
         norm = ab_name.lower().replace(' ', '-')
         desc = ability_data.get(norm, {}).get('description', '')
         return f"**[{ab_name}](abilities/{norm}.md)**: {desc}"
-
     md += "| Slot | Original | New |\n"
     md += "| --- | --- | --- |\n"
     orig1 = orig_abs[0] if len(orig_abs) > 0 else "-"
@@ -208,7 +200,6 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             elif 'fish' in m_lower: icon = "fishing-normal.png"
             elif 'cave special' in m_lower: icon = "cave-special.png"
             elif 'cave' in m_lower: icon = "cave-normal.png"
-            
             md += f"| [{loc['route']}](routes/{fname}.md) | <img src='img/items/{icon}' width='20' /> {loc['method']} | {loc['rate']}% |\n"
         md += "\n"
 
@@ -216,49 +207,55 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     md += "## Level Up Moves\n"
     md += "| Level | Type | Move | Cat | Power | Acc | PP | Change |\n"
     md += "| --- | --- | --- | --- | --- | --- | --- | --- |\n"
-    
     base_lv_moves = [m for m in p_base['moves'] if m['method'] == 'level-up']
     rom_moves = p_moves_rom
     all_moves = []
-    
     if not rom_moves:
         for bm in base_lv_moves: all_moves.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
     else:
         for rm in rom_moves: all_moves.append(rm)
         for bm in base_lv_moves:
-            # Replaced moves (-): ROM move is new, base move is removed
             is_replaced = any(rm['level'] == bm['level'] and rm['marker'] == '-' for rm in rom_moves)
-            # Shifted moves (=): base move exists at a DIFFERENT level in ROM
             was_shifted = any(rm['name'] == bm['name'] and rm['marker'] == '=' for rm in rom_moves)
-            
             if is_replaced:
                 all_moves.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'})
             elif not was_shifted and not any(rm['name'] == bm['name'] for rm in rom_moves):
                 all_moves.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
-
     all_moves.sort(key=lambda x: x['level'])
     for m in all_moves:
         row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
         marker = m.get('marker', '')
         change_text = ""
-        if marker == '+': change_text = '<span class="change-new-label">NEW</span>'
-        elif marker == '-': change_text = '<span class="change-new-label">NEW</span>' # Replaced means a NEW move took its place
+        if marker in ['+', '-']: change_text = '<span class="change-new-label">NEW</span>'
         elif marker == 'REMOVED': change_text = '<span class="change-old-label">REMOVED</span>'
         elif marker == '=':
             old_lv = next((x['level'] for x in base_lv_moves if x['name'] == m['name']), "?")
             change_text = f'<span class="change-move-shifted">SHIFTED (from {old_lv})</span>'
         md += f"| {m['level']} {row} {change_text} |\n"
     
-    # Learnable Moves
-    md += "\n## Learnable Moves\n"
-    md += "| Type | Move | Cat | Power | Acc | PP |\n"
-    md += "| --- | --- | --- | --- | --- | --- |\n"
+    # Separated Learnable Moves
     learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
-    learnable.sort(key=lambda x: x['name'])
-    for m in learnable:
-        row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
-        row_parts = row.split('|')
-        md += "|" + "|".join(row_parts[1:]) + "\n"
+    tm_moves = [m for m in learnable if m['method'] == 'machine' and move_data.get(m['name'], {}).get('tm_num', '').startswith('TM')]
+    hm_moves = [m for m in learnable if m['method'] == 'machine' and move_data.get(m['name'], {}).get('tm_num', '').startswith('HM')]
+    egg_moves = [m for m in learnable if m['method'] == 'egg']
+    tutor_moves = [m for m in learnable if m['method'] == 'tutor']
+
+    def gen_move_table(title, moves_list):
+        if not moves_list: return ""
+        res = f"\n## {title}\n"
+        res += "| Type | Move | Cat | Power | Acc | PP |\n"
+        res += "| --- | --- | --- | --- | --- | --- |\n"
+        moves_list.sort(key=lambda x: x['name'])
+        for m in moves_list:
+            row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
+            row_parts = row.split('|')
+            res += "|" + "|".join(row_parts[1:]) + "\n"
+        return res
+
+    md += gen_move_table("TM Moves", tm_moves)
+    md += gen_move_table("HM Moves", hm_moves)
+    md += gen_move_table("Egg Moves", egg_moves)
+    md += gen_move_table("Tutor Moves", tutor_moves)
             
     return md
 
@@ -295,7 +292,6 @@ def generate_route_page(name, route_data, base_data, trainer_data):
         m = enc['method']
         if m not in methods: methods[m] = []
         methods[m].append(enc)
-        
     for m, encs in methods.items():
         m_lower = m.lower()
         icon = "grass-normal.png"
@@ -307,7 +303,6 @@ def generate_route_page(name, route_data, base_data, trainer_data):
         elif 'fish' in m_lower: icon = "fishing-normal.png"
         elif 'cave special' in m_lower: icon = "cave-special.png"
         elif 'cave' in m_lower: icon = "cave-normal.png"
-        
         md += f"## <img src='img/items/{icon}' width='30' style='vertical-align:middle;' /> {m}\n"
         md += "| Sprite | Pokemon | Rate |\n"
         md += "| --- | --- | --- |\n"
@@ -317,8 +312,6 @@ def generate_route_page(name, route_data, base_data, trainer_data):
             sprite = f'<img src="img/pokemon/{p_info["id"]:03}.png" width="40" />' if p_info else ""
             md += f"| {sprite} | [{enc['pokemon']}](pokemon/{p_name}.md) | {enc['rate']}% |\n"
         md += "\n"
-    
-    # Trainers
     location_trainers = trainer_data.get(name)
     if location_trainers:
         md += "\n## Trainers\n"
@@ -342,7 +335,6 @@ if __name__ == "__main__":
             p_name = enc['pokemon'].lower().replace(' ', '-').replace('.', '')
             if p_name not in locations: locations[p_name] = []
             locations[p_name].append({'route': r_data['name'], 'method': enc['method'], 'rate': enc['rate']})
-
     if not os.path.exists("docs/pokemon"): os.makedirs("docs/pokemon")
     for name in base['pokemon']:
         md = generate_pokemon_page(name, base['pokemon'], romhack, base['moves'], base['abilities'], locations)

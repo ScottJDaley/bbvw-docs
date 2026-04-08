@@ -48,7 +48,3 @@
 | 41 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Cosmic power](moves/cosmic-power.md) | <img src="img/types/status.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="status" /> | - | - | 20 | <span class="change-new-label">NEW</span> |
 | 51 | <img src="img/types/ground.png" width="40" alt="ground" /> | [Earth power](moves/earth-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 90 | 100 | 10 | <span class="change-new-label">NEW</span> |
 | 61 | <img src="img/types/psychic.png" width="40" alt="psychic" /> | [Stored power](moves/stored-power.md) | <img src="img/types/special.png" width="30" style="vertical-align:middle; object-fit:contain;" alt="special" /> | 20 | 100 | 10 | <span class="change-new-label">NEW</span> |
-
-## Learnable Moves
-| Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
