@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/631.png" width="40" /> **[Heatmor](../pokemon/heatmor.md)**
+<img src="../img/pokemon/631.png" width="40" /> **[Heatmor]( heatmor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,13 @@
 | Ability 2 | **[Flash fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | **[Moody](../abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +37,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 20% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

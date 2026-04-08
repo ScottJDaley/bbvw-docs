@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/175.png" width="40" /> **[Togepi](../pokemon/togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic](../pokemon/togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss](../pokemon/togekiss.md)** (Use shiny-stone)
+<img src="../img/pokemon/175.png" width="40" /> **[Togepi]( togepi.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/176.png" width="40" /> **[Togetic]( togetic.md)** ➡️ Use shiny-stone ➡️ <img src="../img/pokemon/468.png" width="40" /> **[Togekiss]( togekiss.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,6 +30,9 @@
 | Special attack | 120 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:60.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 115 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:57.49999999999999%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Togetic]( togetic.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/453.png" width="40" /> **[Croagunk](../pokemon/croagunk.md)**  ➡️  <img src="../img/pokemon/454.png" width="40" /> **[Toxicroak](../pokemon/toxicroak.md)** (Lv. 37)
+<img src="../img/pokemon/453.png" width="40" /> **[Croagunk]( croagunk.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/454.png" width="40" /> **[Toxicroak]( toxicroak.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,14 @@
 | Ability 2 | **[Dry skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | **[Dry Skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/psychic.png' width='40' /> | x4.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +37,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-normal.png' width='20' /> Puddle, Normal | 10% |
 
 ## Level Up Moves

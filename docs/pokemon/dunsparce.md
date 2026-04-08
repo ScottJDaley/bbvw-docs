@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/206.png" width="40" /> **[Dunsparce](../pokemon/dunsparce.md)**  ➡️   **[Dudunsparce](../pokemon/dudunsparce.md)** (Know hyper-drill)
+<img src="../img/pokemon/206.png" width="40" /> **[Dunsparce]( dunsparce.md)** ➡️ Know hyper-drill ➡️  **[Dudunsparce]( dudunsparce.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Run away](../abilities/run-away.md)**: Ensures success fleeing from wild battles. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,7 +32,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

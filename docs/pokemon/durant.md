@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/632.png" width="40" /> **[Durant](../pokemon/durant.md)**
+<img src="../img/pokemon/632.png" width="40" /> **[Durant]( durant.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,15 @@
 | Ability 2 | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x4.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/dragon.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/poison.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> |  | <img src='../img/types/fire.png' width='40' /> |
+|  | <img src='../img/types/grass.png' width='40' /> |  |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/psychic.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/dragon.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,10 +38,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

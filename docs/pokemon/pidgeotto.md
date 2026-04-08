@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/016.png" width="40" /> **[Pidgey](../pokemon/pidgey.md)**  ➡️  <img src="../img/pokemon/017.png" width="40" /> **[Pidgeotto](../pokemon/pidgeotto.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/018.png" width="40" /> **[Pidgeot](../pokemon/pidgeot.md)** (Lv. 36)
+<img src="../img/pokemon/016.png" width="40" /> **[Pidgey]( pidgey.md)** ➡️ Lv. 18 ➡️ <img src="../img/pokemon/017.png" width="40" /> **[Pidgeotto]( pidgeotto.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/018.png" width="40" /> **[Pidgeot]( pidgeot.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Tangled feet](../abilities/tangled-feet.md)**: Doubles evasion when confused. | **[Tangled Feet](../abilities/tangled-feet.md)**: Doubles evasion when confused. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+| <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,12 +34,12 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
+| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

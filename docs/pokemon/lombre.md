@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/270.png" width="40" /> **[Lotad](../pokemon/lotad.md)**  ➡️  <img src="../img/pokemon/271.png" width="40" /> **[Lombre](../pokemon/lombre.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo](../pokemon/ludicolo.md)** (Use water-stone)
+<img src="../img/pokemon/270.png" width="40" /> **[Lotad]( lotad.md)** ➡️ Lv. 14 ➡️ <img src="../img/pokemon/271.png" width="40" /> **[Lombre]( lombre.md)** ➡️ Use water-stone ➡️ <img src="../img/pokemon/272.png" width="40" /> **[Ludicolo]( ludicolo.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,11 @@
 | Ability 2 | **[Rain dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. | **[Rain Dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/steel.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/152.png" width="40" /> **[Chikorita](../pokemon/chikorita.md)**  ➡️  <img src="../img/pokemon/153.png" width="40" /> **[Bayleef](../pokemon/bayleef.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/154.png" width="40" /> **[Meganium](../pokemon/meganium.md)** (Lv. 32)
+<img src="../img/pokemon/152.png" width="40" /> **[Chikorita]( chikorita.md)** ➡️ Lv. 16 ➡️ <img src="../img/pokemon/153.png" width="40" /> **[Bayleef]( bayleef.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/154.png" width="40" /> **[Meganium]( meganium.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,13 @@
 | Ability 2 | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/066.png" width="40" /> **[Machop](../pokemon/machop.md)**  ➡️  <img src="../img/pokemon/067.png" width="40" /> **[Machoke](../pokemon/machoke.md)** (Lv. 28)  ➡️  <img src="../img/pokemon/068.png" width="40" /> **[Machamp](../pokemon/machamp.md)** (Trade)
+<img src="../img/pokemon/066.png" width="40" /> **[Machop]( machop.md)** ➡️ Lv. 28 ➡️ <img src="../img/pokemon/067.png" width="40" /> **[Machoke]( machoke.md)** ➡️ Trade ➡️ <img src="../img/pokemon/068.png" width="40" /> **[Machamp]( machamp.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[No guard](../abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit. | **[No Guard](../abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves

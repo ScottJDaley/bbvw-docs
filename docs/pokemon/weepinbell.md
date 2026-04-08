@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/069.png" width="40" /> **[Bellsprout](../pokemon/bellsprout.md)**  ➡️  <img src="../img/pokemon/070.png" width="40" /> **[Weepinbell](../pokemon/weepinbell.md)** (Lv. 21)  ➡️  <img src="../img/pokemon/071.png" width="40" /> **[Victreebel](../pokemon/victreebel.md)** (Use leaf-stone)
+<img src="../img/pokemon/069.png" width="40" /> **[Bellsprout]( bellsprout.md)** ➡️ Lv. 21 ➡️ <img src="../img/pokemon/070.png" width="40" /> **[Weepinbell]( weepinbell.md)** ➡️ Use leaf-stone ➡️ <img src="../img/pokemon/071.png" width="40" /> **[Victreebel]( victreebel.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,12 @@
 | Ability 2 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Route 13](../routes/route-13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 

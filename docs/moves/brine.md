@@ -13,6 +13,7 @@ Has double power against Pokémon that have less than half their max HP remainin
 
 ## Learned by
 - [Alomomola](../pokemon/alomomola.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Carracosta](../pokemon/carracosta.md)

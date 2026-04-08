@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/296.png" width="40" /> **[Makuhita](../pokemon/makuhita.md)**  ➡️  <img src="../img/pokemon/297.png" width="40" /> **[Hariyama](../pokemon/hariyama.md)** (Lv. 24)
+<img src="../img/pokemon/296.png" width="40" /> **[Makuhita]( makuhita.md)** ➡️ Lv. 24 ➡️ <img src="../img/pokemon/297.png" width="40" /> **[Hariyama]( hariyama.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

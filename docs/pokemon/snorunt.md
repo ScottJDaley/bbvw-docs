@@ -6,7 +6,9 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/361.png" width="40" /> **[Snorunt](../pokemon/snorunt.md)**  ➡️  <img src="../img/pokemon/362.png" width="40" /> **[Glalie](../pokemon/glalie.md)** (Lv. 42) | <img src="../img/pokemon/478.png" width="40" /> **[Froslass](../pokemon/froslass.md)** (Use dawn-stone)
+<img src="../img/pokemon/361.png" width="40" /> **[Snorunt]( snorunt.md)** ➡️ Lv. 42 ➡️ <img src="../img/pokemon/362.png" width="40" /> **[Glalie]( glalie.md)**
+
+<img src="../img/pokemon/361.png" width="40" /> **[Snorunt]( snorunt.md)** ➡️ Use dawn-stone ➡️ <img src="../img/pokemon/478.png" width="40" /> **[Froslass]( froslass.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +17,12 @@
 | Ability 2 | **[Ice body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | **[Moody](../abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

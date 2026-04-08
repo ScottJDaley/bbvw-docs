@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/626.png" width="40" /> **[Bouffalant](../pokemon/bouffalant.md)**
+<img src="../img/pokemon/626.png" width="40" /> **[Bouffalant]( bouffalant.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Sap sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. | **[Sap Sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,7 +33,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves

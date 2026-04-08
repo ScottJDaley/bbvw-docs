@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/322.png" width="40" /> **[Numel](../pokemon/numel.md)**  ➡️  <img src="../img/pokemon/323.png" width="40" /> **[Camerupt](../pokemon/camerupt.md)** (Lv. 33)
+<img src="../img/pokemon/322.png" width="40" /> **[Numel]( numel.md)** ➡️ Lv. 33 ➡️ <img src="../img/pokemon/323.png" width="40" /> **[Camerupt]( camerupt.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,12 @@
 | Ability 2 | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x4.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/610.png" width="40" /> **[Axew](../pokemon/axew.md)**  ➡️  <img src="../img/pokemon/611.png" width="40" /> **[Fraxure](../pokemon/fraxure.md)** (Lv. 38)  ➡️  <img src="../img/pokemon/612.png" width="40" /> **[Haxorus](../pokemon/haxorus.md)** (Lv. 48)
+<img src="../img/pokemon/610.png" width="40" /> **[Axew]( axew.md)** ➡️ Lv. 38 ➡️ <img src="../img/pokemon/611.png" width="40" /> **[Fraxure]( fraxure.md)** ➡️ Lv. 48 ➡️ <img src="../img/pokemon/612.png" width="40" /> **[Haxorus]( haxorus.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Mold breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> |  |  |
+|  | <img src='../img/types/grass.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves

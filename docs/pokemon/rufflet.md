@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/627.png" width="40" /> **[Rufflet](../pokemon/rufflet.md)**  ➡️  <img src="../img/pokemon/628.png" width="40" /> **[Braviary](../pokemon/braviary.md)** (Lv. 54)
+<img src="../img/pokemon/627.png" width="40" /> **[Rufflet]( rufflet.md)** ➡️ Lv. 54 ➡️ <img src="../img/pokemon/628.png" width="40" /> **[Braviary]( braviary.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Sheer force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+| <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 5](../routes/route-5.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

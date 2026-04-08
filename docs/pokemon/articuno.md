@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/144.png" width="40" /> **[Articuno](../pokemon/articuno.md)**
+<img src="../img/pokemon/144.png" width="40" /> **[Articuno]( articuno.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Snow cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. | **[Snow Cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/rock.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,6 +30,9 @@
 | Special attack | 95 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:47.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 125 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:62.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 85 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:42.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+No known wild location.
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

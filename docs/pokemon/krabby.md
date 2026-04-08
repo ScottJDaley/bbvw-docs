@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/098.png" width="40" /> **[Krabby](../pokemon/krabby.md)**  ➡️  <img src="../img/pokemon/099.png" width="40" /> **[Kingler](../pokemon/kingler.md)** (Lv. 28)
+<img src="../img/pokemon/098.png" width="40" /> **[Krabby]( krabby.md)** ➡️ Lv. 28 ➡️ <img src="../img/pokemon/099.png" width="40" /> **[Kingler]( kingler.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

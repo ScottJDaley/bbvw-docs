@@ -13,6 +13,7 @@ Inflicts damage equal to the user’s remaining HP.  User faints.
 
 ## Learned by
 - [Accelgor](../pokemon/accelgor.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Diglett](../pokemon/diglett.md)
 - [Mankey](../pokemon/mankey.md)

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/129.png" width="40" /> **[Magikarp](../pokemon/magikarp.md)**  ➡️  <img src="../img/pokemon/130.png" width="40" /> **[Gyarados](../pokemon/gyarados.md)** (Lv. 20)
+<img src="../img/pokemon/129.png" width="40" /> **[Magikarp]( magikarp.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/130.png" width="40" /> **[Gyarados]( gyarados.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 

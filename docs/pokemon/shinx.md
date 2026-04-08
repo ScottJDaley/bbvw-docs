@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/403.png" width="40" /> **[Shinx](../pokemon/shinx.md)**  ➡️  <img src="../img/pokemon/404.png" width="40" /> **[Luxio](../pokemon/luxio.md)** (Lv. 15)  ➡️  <img src="../img/pokemon/405.png" width="40" /> **[Luxray](../pokemon/luxray.md)** (Lv. 30)
+<img src="../img/pokemon/403.png" width="40" /> **[Shinx]( shinx.md)** ➡️ Lv. 15 ➡️ <img src="../img/pokemon/404.png" width="40" /> **[Luxio]( luxio.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/405.png" width="40" /> **[Luxray]( luxray.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,12 +15,11 @@
 | Ability 2 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

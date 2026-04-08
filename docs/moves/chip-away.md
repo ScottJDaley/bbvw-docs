@@ -12,6 +12,7 @@
 Ignores the target’s stat modifiers.
 
 ## Learned by
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Conkeldurr](../pokemon/conkeldurr.md)
 - [Corphish](../pokemon/corphish.md)

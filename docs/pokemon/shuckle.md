@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/213.png" width="40" /> **[Shuckle](../pokemon/shuckle.md)**
+<img src="../img/pokemon/213.png" width="40" /> **[Shuckle]( shuckle.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Solid Rock](../abilities/solid-rock.md)**: Decreases damage taken from super-effective moves by 1/4. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

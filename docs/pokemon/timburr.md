@@ -6,7 +6,7 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/532.png" width="40" /> **[Timburr](../pokemon/timburr.md)**  ➡️  <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr](../pokemon/gurdurr.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr](../pokemon/conkeldurr.md)** (Trade)
+<img src="../img/pokemon/532.png" width="40" /> **[Timburr]( timburr.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/533.png" width="40" /> **[Gurdurr]( gurdurr.md)** ➡️ Trade ➡️ <img src="../img/pokemon/534.png" width="40" /> **[Conkeldurr]( conkeldurr.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Sheer force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | **[Iron Fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -20,6 +20,7 @@ Raises the user’s Speed by two stages.
 - [Archeops](../pokemon/archeops.md)
 - [Ariados](../pokemon/ariados.md)
 - [Articuno](../pokemon/articuno.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beedrill](../pokemon/beedrill.md)
 - [Blitzle](../pokemon/blitzle.md)

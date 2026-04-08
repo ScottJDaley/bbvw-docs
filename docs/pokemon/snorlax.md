@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/446.png" width="40" /> **[Munchlax](../pokemon/munchlax.md)**  ➡️  <img src="../img/pokemon/143.png" width="40" /> **[Snorlax](../pokemon/snorlax.md)** (Happiness)
+<img src="../img/pokemon/446.png" width="40" /> **[Munchlax]( munchlax.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/143.png" width="40" /> **[Snorlax]( snorlax.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

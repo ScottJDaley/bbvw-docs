@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/431.png" width="40" /> **[Glameow](../pokemon/glameow.md)**  ➡️  <img src="../img/pokemon/432.png" width="40" /> **[Purugly](../pokemon/purugly.md)** (Lv. 38)
+<img src="../img/pokemon/431.png" width="40" /> **[Glameow]( glameow.md)** ➡️ Lv. 38 ➡️ <img src="../img/pokemon/432.png" width="40" /> **[Purugly]( purugly.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Own tempo](../abilities/own-tempo.md)**: Prevents confusion. | **[Own Tempo](../abilities/own-tempo.md)**: Prevents confusion. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

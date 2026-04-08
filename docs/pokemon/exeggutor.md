@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/102.png" width="40" /> **[Exeggcute](../pokemon/exeggcute.md)**  ➡️  <img src="../img/pokemon/103.png" width="40" /> **[Exeggutor](../pokemon/exeggutor.md)** (Use leaf-stone)
+<img src="../img/pokemon/102.png" width="40" /> **[Exeggcute]( exeggcute.md)** ➡️ Use leaf-stone ➡️ <img src="../img/pokemon/103.png" width="40" /> **[Exeggutor]( exeggutor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,21 +15,14 @@
 | Ability 2 | **[Harvest](../abilities/harvest.md)**: Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime. | **[Harvest](../abilities/harvest.md)**: Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

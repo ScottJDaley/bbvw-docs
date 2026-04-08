@@ -6,26 +6,22 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/511.png" width="40" /> **[Pansage](../pokemon/pansage.md)**  ➡️  <img src="../img/pokemon/512.png" width="40" /> **[Simisage](../pokemon/simisage.md)** (Use leaf-stone)
+<img src="../img/pokemon/511.png" width="40" /> **[Pansage]( pansage.md)** ➡️ Use leaf-stone ➡️ <img src="../img/pokemon/512.png" width="40" /> **[Simisage]( simisage.md)**
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony (Pansage) / Unburden (Simisage)](../abilities/gluttony-(pansage)---unburden-(simisage).md)**:  |
+| Ability 1 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 | Ability 2 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

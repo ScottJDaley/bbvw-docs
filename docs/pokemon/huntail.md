@@ -6,7 +6,9 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/366.png" width="40" /> **[Clamperl](../pokemon/clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail](../pokemon/huntail.md)** (Trade hold deep-sea-tooth) | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss](../pokemon/gorebyss.md)** (Trade hold deep-sea-scale)
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)** ➡️ Trade hold deep-sea-tooth ➡️ <img src="../img/pokemon/367.png" width="40" /> **[Huntail]( huntail.md)**
+
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)** ➡️ Trade hold deep-sea-scale ➡️ <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss]( gorebyss.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +17,12 @@
 | Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

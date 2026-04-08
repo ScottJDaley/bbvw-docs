@@ -6,7 +6,7 @@
 <img src="../img/types/fire.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/390.png" width="40" /> **[Chimchar](../pokemon/chimchar.md)**  ➡️  <img src="../img/pokemon/391.png" width="40" /> **[Monferno](../pokemon/monferno.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/392.png" width="40" /> **[Infernape](../pokemon/infernape.md)** (Lv. 36)
+<img src="../img/pokemon/390.png" width="40" /> **[Chimchar]( chimchar.md)** ➡️ Lv. 14 ➡️ <img src="../img/pokemon/391.png" width="40" /> **[Monferno]( monferno.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/392.png" width="40" /> **[Infernape]( infernape.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,18 +15,14 @@
 | Ability 2 | **[Iron fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. | **[Iron fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,6 +33,9 @@
 | Special attack | 78 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:39.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 52 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:26.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 81 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Chimchar]( chimchar.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

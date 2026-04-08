@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/613.png" width="40" /> **[Cubchoo](../pokemon/cubchoo.md)**  ➡️  <img src="../img/pokemon/614.png" width="40" /> **[Beartic](../pokemon/beartic.md)** (Lv. 37)
+<img src="../img/pokemon/613.png" width="40" /> **[Cubchoo]( cubchoo.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/614.png" width="40" /> **[Beartic]( beartic.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,12 @@
 | Ability 2 | **[Slush rush](../abilities/slush-rush.md)**: During Hail, this Pokémon has double Speed. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,8 +36,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/048.png" width="40" /> **[Venonat](../pokemon/venonat.md)**  ➡️  <img src="../img/pokemon/049.png" width="40" /> **[Venomoth](../pokemon/venomoth.md)** (Lv. 31)
+<img src="../img/pokemon/048.png" width="40" /> **[Venonat]( venonat.md)** ➡️ Lv. 31 ➡️ <img src="../img/pokemon/049.png" width="40" /> **[Venomoth]( venomoth.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,12 @@
 | Ability 2 | **[Tinted lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. | **[Tinted Lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

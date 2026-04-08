@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/509.png" width="40" /> **[Purrloin](../pokemon/purrloin.md)**  ➡️  <img src="../img/pokemon/510.png" width="40" /> **[Liepard](../pokemon/liepard.md)** (Lv. 20)
+<img src="../img/pokemon/509.png" width="40" /> **[Purrloin]( purrloin.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/510.png" width="40" /> **[Liepard]( liepard.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,10 @@
 | Ability 2 | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

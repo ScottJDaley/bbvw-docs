@@ -48,12 +48,12 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="../img/pokemon/118.png" width="40" /> | [Goldeen](../pokemon/goldeen.md) | 70% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 30% |
 
 ## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="../img/pokemon/118.png" width="40" /> | [Goldeen](../pokemon/goldeen.md) | 60% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 30% |
 | <img src="../img/pokemon/119.png" width="40" /> | [Seaking](../pokemon/seaking.md) | 10% |
 

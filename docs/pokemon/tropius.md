@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/357.png" width="40" /> **[Tropius](../pokemon/tropius.md)**
+<img src="../img/pokemon/357.png" width="40" /> **[Tropius]( tropius.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,12 @@
 | Ability 2 | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | **[Harvest](../abilities/harvest.md)**: Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -42,7 +37,7 @@
 | --- | --- | --- |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves

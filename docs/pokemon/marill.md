@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/298.png" width="40" /> **[Azurill](../pokemon/azurill.md)**  ➡️  <img src="../img/pokemon/183.png" width="40" /> **[Marill](../pokemon/marill.md)** (Happiness)  ➡️  <img src="../img/pokemon/184.png" width="40" /> **[Azumarill](../pokemon/azumarill.md)** (Lv. 18)
+<img src="../img/pokemon/298.png" width="40" /> **[Azurill]( azurill.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/183.png" width="40" /> **[Marill]( marill.md)** ➡️ Lv. 18 ➡️ <img src="../img/pokemon/184.png" width="40" /> **[Azumarill]( azumarill.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Huge power](../abilities/huge-power.md)**: Doubles Attack in battle. | **[Huge Power](../abilities/huge-power.md)**: Doubles Attack in battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
+| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
 | [Striaton City](../routes/striaton-city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 100% |
 | [Route 3](../routes/route-3.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
 | [Route 3](../routes/route-3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |

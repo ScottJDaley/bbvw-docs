@@ -6,7 +6,7 @@
 <img src="../img/types/steel.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/436.png" width="40" /> **[Bronzor](../pokemon/bronzor.md)**  ➡️  <img src="../img/pokemon/437.png" width="40" /> **[Bronzong](../pokemon/bronzong.md)** (Lv. 33)
+<img src="../img/pokemon/436.png" width="40" /> **[Bronzor]( bronzor.md)** ➡️ Lv. 33 ➡️ <img src="../img/pokemon/437.png" width="40" /> **[Bronzong]( bronzong.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,21 +15,16 @@
 | Ability 2 | **[Heatproof](../abilities/heatproof.md)**: Halves damage from fire moves and burns. | **[Heatproof](../abilities/heatproof.md)**: Halves damage from fire moves and burns. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dragon.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.25 |
-| <img src='../img/types/poison.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/dragon.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -44,10 +39,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves

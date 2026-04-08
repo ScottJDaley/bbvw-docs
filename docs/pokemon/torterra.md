@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/387.png" width="40" /> **[Turtwig](../pokemon/turtwig.md)**  ➡️  <img src="../img/pokemon/388.png" width="40" /> **[Grotle](../pokemon/grotle.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/389.png" width="40" /> **[Torterra](../pokemon/torterra.md)** (Lv. 32)
+<img src="../img/pokemon/387.png" width="40" /> **[Turtwig]( turtwig.md)** ➡️ Lv. 18 ➡️ <img src="../img/pokemon/388.png" width="40" /> **[Grotle]( grotle.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/389.png" width="40" /> **[Torterra]( torterra.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -34,6 +30,9 @@
 | Special attack | 75 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:37.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 85 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:42.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 56 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:28.000000000000004%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Grotle]( grotle.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

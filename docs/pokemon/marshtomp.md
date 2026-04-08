@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/258.png" width="40" /> **[Mudkip](../pokemon/mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp](../pokemon/marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert](../pokemon/swampert.md)** (Lv. 36)
+<img src="../img/pokemon/258.png" width="40" /> **[Mudkip]( mudkip.md)** ➡️ Lv. 16 ➡️ <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp]( marshtomp.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/260.png" width="40" /> **[Swampert]( swampert.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,6 +31,9 @@
 | Special attack | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 70 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:35.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 50 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:25.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Mudkip]( mudkip.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

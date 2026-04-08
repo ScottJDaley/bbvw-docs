@@ -14,6 +14,7 @@ Changes the target’s type to Water.
 ## Learned by
 - [Alomomola](../pokemon/alomomola.md)
 - [Azurill](../pokemon/azurill.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Finneon](../pokemon/finneon.md)
 - [Goldeen](../pokemon/goldeen.md)

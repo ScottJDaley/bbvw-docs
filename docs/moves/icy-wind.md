@@ -23,6 +23,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 - [Azurill](../pokemon/azurill.md)
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)

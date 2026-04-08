@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/420.png" width="40" /> **[Cherubi](../pokemon/cherubi.md)**  ➡️  <img src="../img/pokemon/421.png" width="40" /> **[Cherrim](../pokemon/cherrim.md)** (Lv. 25)
+<img src="../img/pokemon/420.png" width="40" /> **[Cherubi]( cherubi.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/421.png" width="40" /> **[Cherrim]( cherrim.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,13 @@
 | Ability 2 | - | **[Flower Gift](../abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -41,7 +37,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Route 12](../routes/route-12.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 
 ## Level Up Moves

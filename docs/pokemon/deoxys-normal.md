@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
- **[Deoxys](../pokemon/deoxys.md)**
+ **[Deoxys]( deoxys.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | - | - |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,6 +30,9 @@
 | Special attack | 150 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:75.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 50 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:25.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 150 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:75.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+No known wild location.
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

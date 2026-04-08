@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/090.png" width="40" /> **[Shellder](../pokemon/shellder.md)**  ➡️  <img src="../img/pokemon/091.png" width="40" /> **[Cloyster](../pokemon/cloyster.md)** (Use water-stone)
+<img src="../img/pokemon/090.png" width="40" /> **[Shellder]( shellder.md)** ➡️ Use water-stone ➡️ <img src="../img/pokemon/091.png" width="40" /> **[Cloyster]( cloyster.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Skill link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. | **[Skill Link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,14 +35,14 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 100% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 100% |
 | [Route 13](../routes/route-13.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 65% |
 | [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

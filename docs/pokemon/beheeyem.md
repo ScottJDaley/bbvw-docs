@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/605.png" width="40" /> **[Elgyem](../pokemon/elgyem.md)**  ➡️  <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem](../pokemon/beheeyem.md)** (Lv. 42)
+<img src="../img/pokemon/605.png" width="40" /> **[Elgyem]( elgyem.md)** ➡️ Lv. 42 ➡️ <img src="../img/pokemon/606.png" width="40" /> **[Beheeyem]( beheeyem.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Synchronize](../abilities/synchronize.md)**: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | **[Synchronize](../abilities/synchronize.md)**: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
+| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 20% |
 | [Route 14](../routes/route-14.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves

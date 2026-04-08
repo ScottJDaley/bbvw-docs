@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola](../pokemon/roggenrola.md)**  ➡️  <img src="../img/pokemon/525.png" width="40" /> **[Boldore](../pokemon/boldore.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/526.png" width="40" /> **[Gigalith](../pokemon/gigalith.md)** (Trade)
+<img src="../img/pokemon/524.png" width="40" /> **[Roggenrola]( roggenrola.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/525.png" width="40" /> **[Boldore]( boldore.md)** ➡️ Trade ➡️ <img src="../img/pokemon/526.png" width="40" /> **[Gigalith]( gigalith.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,13 @@
 | Ability 2 | **[Sand stream](../abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle. | **[Sand Force](../abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,6 +32,9 @@
 | Special attack | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 25 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:12.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Boldore]( boldore.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

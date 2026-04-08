@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/209.png" width="40" /> **[Snubbull](../pokemon/snubbull.md)**  ➡️  <img src="../img/pokemon/210.png" width="40" /> **[Granbull](../pokemon/granbull.md)** (Lv. 23)
+<img src="../img/pokemon/209.png" width="40" /> **[Snubbull]( snubbull.md)** ➡️ Lv. 23 ➡️ <img src="../img/pokemon/210.png" width="40" /> **[Granbull]( granbull.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,8 +15,8 @@
 | Ability 2 | **[Run away](../abilities/run-away.md)**: Ensures success fleeing from wild battles. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -31,7 +31,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/187.png" width="40" /> **[Hoppip](../pokemon/hoppip.md)**  ➡️  <img src="../img/pokemon/188.png" width="40" /> **[Skiploom](../pokemon/skiploom.md)** (Lv. 18)  ➡️  <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff](../pokemon/jumpluff.md)** (Lv. 27)
+<img src="../img/pokemon/187.png" width="40" /> **[Hoppip]( hoppip.md)** ➡️ Lv. 18 ➡️ <img src="../img/pokemon/188.png" width="40" /> **[Skiploom]( skiploom.md)** ➡️ Lv. 27 ➡️ <img src="../img/pokemon/189.png" width="40" /> **[Jumpluff]( jumpluff.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +15,12 @@
 | Ability 2 | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 13](../routes/route-13.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |

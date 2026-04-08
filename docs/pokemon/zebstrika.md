@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/522.png" width="40" /> **[Blitzle](../pokemon/blitzle.md)**  ➡️  <img src="../img/pokemon/523.png" width="40" /> **[Zebstrika](../pokemon/zebstrika.md)** (Lv. 27)
+<img src="../img/pokemon/522.png" width="40" /> **[Blitzle]( blitzle.md)** ➡️ Lv. 27 ➡️ <img src="../img/pokemon/523.png" width="40" /> **[Zebstrika]( zebstrika.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,12 +15,11 @@
 | Ability 2 | **[Motor drive](../abilities/motor-drive.md)**: Absorbs electric moves, raising Speed one stage. | **[Sap Sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -31,6 +30,9 @@
 | Special attack | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 63 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:31.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 116 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:57.99999999999999%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Blitzle]( blitzle.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

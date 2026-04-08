@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/128.png" width="40" /> **[Tauros](../pokemon/tauros.md)**
+<img src="../img/pokemon/128.png" width="40" /> **[Tauros]( tauros.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Anger point](../abilities/anger-point.md)**: Raises Attack to the maximum of six stages upon receiving a critical hit. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

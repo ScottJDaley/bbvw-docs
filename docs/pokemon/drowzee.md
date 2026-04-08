@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/096.png" width="40" /> **[Drowzee](../pokemon/drowzee.md)**  ➡️  <img src="../img/pokemon/097.png" width="40" /> **[Hypno](../pokemon/hypno.md)** (Lv. 26)
+<img src="../img/pokemon/096.png" width="40" /> **[Drowzee]( drowzee.md)** ➡️ Lv. 26 ➡️ <img src="../img/pokemon/097.png" width="40" /> **[Hypno]( hypno.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

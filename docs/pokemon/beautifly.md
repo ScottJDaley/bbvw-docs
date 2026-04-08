@@ -6,7 +6,9 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/265.png" width="40" /> **[Wurmple](../pokemon/wurmple.md)**  ➡️  <img src="../img/pokemon/266.png" width="40" /> **[Silcoon](../pokemon/silcoon.md)** (Lv. 7) | <img src="../img/pokemon/268.png" width="40" /> **[Cascoon](../pokemon/cascoon.md)** (Lv. 7)  ➡️  <img src="../img/pokemon/267.png" width="40" /> **[Beautifly](../pokemon/beautifly.md)** (Lv. 10) | <img src="../img/pokemon/269.png" width="40" /> **[Dustox](../pokemon/dustox.md)** (Lv. 10)
+<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/266.png" width="40" /> **[Silcoon]( silcoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/267.png" width="40" /> **[Beautifly]( beautifly.md)**
+
+<img src="../img/pokemon/265.png" width="40" /> **[Wurmple]( wurmple.md)** ➡️ Lv. 7 ➡️ <img src="../img/pokemon/268.png" width="40" /> **[Cascoon]( cascoon.md)** ➡️ Lv. 10 ➡️ <img src="../img/pokemon/269.png" width="40" /> **[Dustox]( dustox.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,17 +17,12 @@
 | Ability 2 | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | **[Shield Dust](../abilities/shield-dust.md)**: Protects against incoming moves' extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/rock.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.25 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  |  | <img src='../img/types/flying.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

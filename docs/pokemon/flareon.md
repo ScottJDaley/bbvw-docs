@@ -6,7 +6,21 @@
 <img src="../img/types/fire.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/133.png" width="40" /> **[Eevee](../pokemon/eevee.md)**  ➡️  <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon](../pokemon/vaporeon.md)** (Use water-stone) | <img src="../img/pokemon/135.png" width="40" /> **[Jolteon](../pokemon/jolteon.md)** (Use thunder-stone) | <img src="../img/pokemon/136.png" width="40" /> **[Flareon](../pokemon/flareon.md)** (Use fire-stone) | <img src="../img/pokemon/196.png" width="40" /> **[Espeon](../pokemon/espeon.md)** (Happiness) | <img src="../img/pokemon/197.png" width="40" /> **[Umbreon](../pokemon/umbreon.md)** (Happiness) | <img src="../img/pokemon/470.png" width="40" /> **[Leafeon](../pokemon/leafeon.md)** (At eterna-forest) | <img src="../img/pokemon/471.png" width="40" /> **[Glaceon](../pokemon/glaceon.md)** (At sinnoh-route-217) |  **[Sylveon](../pokemon/sylveon.md)** (Level Up)
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use water-stone ➡️ <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon]( vaporeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use thunder-stone ➡️ <img src="../img/pokemon/135.png" width="40" /> **[Jolteon]( jolteon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use fire-stone ➡️ <img src="../img/pokemon/136.png" width="40" /> **[Flareon]( flareon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/196.png" width="40" /> **[Espeon]( espeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/197.png" width="40" /> **[Umbreon]( umbreon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ At eterna-forest ➡️ <img src="../img/pokemon/470.png" width="40" /> **[Leafeon]( leafeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ At sinnoh-route-217 ➡️ <img src="../img/pokemon/471.png" width="40" /> **[Glaceon]( glaceon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Level Up ➡️  **[Sylveon]( sylveon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +29,13 @@
 | Ability 2 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,6 +46,9 @@
 | Special attack | <span style="color:green; font-weight:bold;">60</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">65</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">110</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:47.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Eevee]( eevee.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

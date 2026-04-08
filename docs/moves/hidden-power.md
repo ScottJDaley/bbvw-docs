@@ -44,6 +44,7 @@ Power and type depend upon user’s IVs.  Power can range from 30 to 70.
 - [Baltoy](../pokemon/baltoy.md)
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

@@ -13,6 +13,7 @@ Inflicts double damage if the user takes damage before attacking this turn.
 
 ## Learned by
 - [Aipom](../pokemon/aipom.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bouffalant](../pokemon/bouffalant.md)
 - [Cacturne](../pokemon/cacturne.md)

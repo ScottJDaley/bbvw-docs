@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/615.png" width="40" /> **[Cryogonal](../pokemon/cryogonal.md)**
+<img src="../img/pokemon/615.png" width="40" /> **[Cryogonal]( cryogonal.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,12 @@
 | Ability 2 | - | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -36,8 +35,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

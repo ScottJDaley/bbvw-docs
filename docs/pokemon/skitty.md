@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/300.png" width="40" /> **[Skitty](../pokemon/skitty.md)**  ➡️  <img src="../img/pokemon/301.png" width="40" /> **[Delcatty](../pokemon/delcatty.md)** (Use moon-stone)
+<img src="../img/pokemon/300.png" width="40" /> **[Skitty]( skitty.md)** ➡️ Use moon-stone ➡️ <img src="../img/pokemon/301.png" width="40" /> **[Delcatty]( delcatty.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Normalize](../abilities/normalize.md)**: Makes the Pokémon's moves all act normal-type. | **[Wonder Skin](../abilities/wonder-skin.md)**: Lowers incoming non-damaging moves' base accuracy to exactly 50%. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

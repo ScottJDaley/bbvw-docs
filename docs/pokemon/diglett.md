@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/050.png" width="40" /> **[Diglett](../pokemon/diglett.md)**  ➡️  <img src="../img/pokemon/051.png" width="40" /> **[Dugtrio](../pokemon/dugtrio.md)** (Lv. 26)
+<img src="../img/pokemon/050.png" width="40" /> **[Diglett]( diglett.md)** ➡️ Lv. 26 ➡️ <img src="../img/pokemon/051.png" width="40" /> **[Dugtrio]( dugtrio.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,11 @@
 | Ability 2 | **[Arena trap](../abilities/arena-trap.md)**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air. | **[Arena Trap](../abilities/arena-trap.md)**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/ice.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,9 +34,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 40% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 40% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
 
 ## Level Up Moves

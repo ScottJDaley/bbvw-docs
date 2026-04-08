@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/406.png" width="40" /> **[Budew](../pokemon/budew.md)**  ➡️  <img src="../img/pokemon/315.png" width="40" /> **[Roselia](../pokemon/roselia.md)** (Happiness)  ➡️  <img src="../img/pokemon/407.png" width="40" /> **[Roserade](../pokemon/roserade.md)** (Use shiny-stone)
+<img src="../img/pokemon/406.png" width="40" /> **[Budew]( budew.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/315.png" width="40" /> **[Roselia]( roselia.md)** ➡️ Use shiny-stone ➡️ <img src="../img/pokemon/407.png" width="40" /> **[Roserade]( roserade.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,12 @@
 | Ability 2 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Poison Point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 | [Village Bridge](../routes/village-bridge.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 
 ## Level Up Moves

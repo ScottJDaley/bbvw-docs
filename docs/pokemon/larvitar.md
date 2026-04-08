@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/246.png" width="40" /> **[Larvitar](../pokemon/larvitar.md)**  ➡️  <img src="../img/pokemon/247.png" width="40" /> **[Pupitar](../pokemon/pupitar.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar](../pokemon/tyranitar.md)** (Lv. 55)
+<img src="../img/pokemon/246.png" width="40" /> **[Larvitar]( larvitar.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/247.png" width="40" /> **[Pupitar]( pupitar.md)** ➡️ Lv. 55 ➡️ <img src="../img/pokemon/248.png" width="40" /> **[Tyranitar]( tyranitar.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,20 +15,13 @@
 | Ability 2 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x4.0 |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.25 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/steel.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 4% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 4% |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves

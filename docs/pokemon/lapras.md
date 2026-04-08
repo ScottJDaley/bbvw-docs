@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/131.png" width="40" /> **[Lapras](../pokemon/lapras.md)**
+<img src="../img/pokemon/131.png" width="40" /> **[Lapras]( lapras.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Shell Armor](../abilities/shell-armor.md)**: Protects against critical hits. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,8 +36,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

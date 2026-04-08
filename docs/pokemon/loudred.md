@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/293.png" width="40" /> **[Whismur](../pokemon/whismur.md)**  ➡️  <img src="../img/pokemon/294.png" width="40" /> **[Loudred](../pokemon/loudred.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/295.png" width="40" /> **[Exploud](../pokemon/exploud.md)** (Lv. 40)
+<img src="../img/pokemon/293.png" width="40" /> **[Whismur]( whismur.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/294.png" width="40" /> **[Loudred]( loudred.md)** ➡️ Lv. 40 ➡️ <img src="../img/pokemon/295.png" width="40" /> **[Exploud]( exploud.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Scrappy](../abilities/scrappy.md)**: Lets the Pokémon's normal and fighting moves hit ghost Pokémon. | **[Scrappy](../abilities/scrappy.md)**: Lets the Pokémon's normal and fighting moves hit ghost Pokémon. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,8 +32,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 | [Route 11](../routes/route-11.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 
 ## Level Up Moves

@@ -17,6 +17,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 - [Archen](../pokemon/archen.md)
 - [Archeops](../pokemon/archeops.md)
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Carnivine](../pokemon/carnivine.md)
 - [Carracosta](../pokemon/carracosta.md)

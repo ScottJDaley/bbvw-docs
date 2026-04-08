@@ -13,6 +13,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bouffalant](../pokemon/bouffalant.md)
 - [Gible](../pokemon/gible.md)

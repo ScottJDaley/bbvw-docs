@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/582.png" width="40" /> **[Vanillite](../pokemon/vanillite.md)**  ➡️  <img src="../img/pokemon/583.png" width="40" /> **[Vanillish](../pokemon/vanillish.md)** (Lv. 35)  ➡️  <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe](../pokemon/vanilluxe.md)** (Lv. 47)
+<img src="../img/pokemon/582.png" width="40" /> **[Vanillite]( vanillite.md)** ➡️ Lv. 35 ➡️ <img src="../img/pokemon/583.png" width="40" /> **[Vanillish]( vanillish.md)** ➡️ Lv. 47 ➡️ <img src="../img/pokemon/584.png" width="40" /> **[Vanilluxe]( vanilluxe.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,12 @@
 | Ability 2 | **[Snow warning](../abilities/snow-warning.md)**: Summons hail that lasts indefinitely upon entering battle. | **[Weak Armor](../abilities/weak-armor.md)**: Raises Speed and lowers Defense by one stage each upon being hit by a physical move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,6 +31,9 @@
 | Special attack | <span style="color:green; font-weight:bold;">145</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">110</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:72.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:45.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">79</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Vanillish]( vanillish.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/572.png" width="40" /> **[Minccino](../pokemon/minccino.md)**  ➡️  <img src="../img/pokemon/573.png" width="40" /> **[Cinccino](../pokemon/cinccino.md)** (Use shiny-stone)
+<img src="../img/pokemon/572.png" width="40" /> **[Minccino]( minccino.md)** ➡️ Use shiny-stone ➡️ <img src="../img/pokemon/573.png" width="40" /> **[Cinccino]( cinccino.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

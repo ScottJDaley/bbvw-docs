@@ -42,6 +42,7 @@ Has a $effect_chance% chance to make the target flinch.  Only works if the user 
 - [Bagon](../pokemon/bagon.md)
 - [Baltoy](../pokemon/baltoy.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

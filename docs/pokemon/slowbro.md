@@ -6,7 +6,9 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/079.png" width="40" /> **[Slowpoke](../pokemon/slowpoke.md)**  ➡️  <img src="../img/pokemon/080.png" width="40" /> **[Slowbro](../pokemon/slowbro.md)** (Lv. 37) | <img src="../img/pokemon/199.png" width="40" /> **[Slowking](../pokemon/slowking.md)** (Trade hold kings-rock)
+<img src="../img/pokemon/079.png" width="40" /> **[Slowpoke]( slowpoke.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/080.png" width="40" /> **[Slowbro]( slowbro.md)**
+
+<img src="../img/pokemon/079.png" width="40" /> **[Slowpoke]( slowpoke.md)** ➡️ Trade hold kings-rock ➡️ <img src="../img/pokemon/199.png" width="40" /> **[Slowking]( slowking.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +17,14 @@
 | Ability 2 | **[Own tempo](../abilities/own-tempo.md)**: Prevents confusion. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

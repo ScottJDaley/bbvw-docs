@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/396.png" width="40" /> **[Starly](../pokemon/starly.md)**  ➡️  <img src="../img/pokemon/397.png" width="40" /> **[Staravia](../pokemon/staravia.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/398.png" width="40" /> **[Staraptor](../pokemon/staraptor.md)** (Lv. 34)
+<img src="../img/pokemon/396.png" width="40" /> **[Starly]( starly.md)** ➡️ Lv. 14 ➡️ <img src="../img/pokemon/397.png" width="40" /> **[Staravia]( staravia.md)** ➡️ Lv. 34 ➡️ <img src="../img/pokemon/398.png" width="40" /> **[Staraptor]( staraptor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+| <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

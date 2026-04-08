@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/433.png" width="40" /> **[Chingling](../pokemon/chingling.md)**  ➡️  <img src="../img/pokemon/358.png" width="40" /> **[Chimecho](../pokemon/chimecho.md)** (Happiness)
+<img src="../img/pokemon/433.png" width="40" /> **[Chingling]( chingling.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/358.png" width="40" /> **[Chimecho]( chimecho.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | - | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
-| [Celestial Tower](../routes/celestial-tower.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
+| [Celestial Tower 2F, 3F](../routes/celestial-tower-2f,-3f.md) | <img src='../img/items/grass-normal.png' width='20' /> Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

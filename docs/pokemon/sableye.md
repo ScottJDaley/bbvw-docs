@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/302.png" width="40" /> **[Sableye](../pokemon/sableye.md)**
+<img src="../img/pokemon/302.png" width="40" /> **[Sableye]( sableye.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,12 +15,11 @@
 | Ability 2 | **[Stall](../abilities/stall.md)**: Makes the Pokémon move last within its move's priority bracket. | **[Analytic](../abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |  |
+| <img src='../img/types/fighting.png' width='40' /> |  |  |  |
+| <img src='../img/types/psychic.png' width='40' /> |  |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,11 +34,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

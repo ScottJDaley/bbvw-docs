@@ -7,7 +7,7 @@ Original: <img src="../img/types/ice.png" width="60" />
 New: <img src="../img/types/ice.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/613.png" width="40" /> **[Cubchoo](../pokemon/cubchoo.md)**  ➡️  <img src="../img/pokemon/614.png" width="40" /> **[Beartic](../pokemon/beartic.md)** (Lv. 37)
+<img src="../img/pokemon/613.png" width="40" /> **[Cubchoo]( cubchoo.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/614.png" width="40" /> **[Beartic]( beartic.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -16,16 +16,13 @@ New: <img src="../img/types/ice.png" width="60" /> <img src="../img/types/fighti
 | Ability 2 | **[Slush rush](../abilities/slush-rush.md)**: During Hail, this Pokémon has double Speed. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  |  | <img src='../img/types/psychic.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,8 +37,8 @@ New: <img src="../img/types/ice.png" width="60" /> <img src="../img/types/fighti
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves

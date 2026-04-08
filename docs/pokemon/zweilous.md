@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/633.png" width="40" /> **[Deino](../pokemon/deino.md)**  ➡️  <img src="../img/pokemon/634.png" width="40" /> **[Zweilous](../pokemon/zweilous.md)** (Lv. 50)  ➡️  <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon](../pokemon/hydreigon.md)** (Lv. 64)
+<img src="../img/pokemon/633.png" width="40" /> **[Deino]( deino.md)** ➡️ Lv. 50 ➡️ <img src="../img/pokemon/634.png" width="40" /> **[Zweilous]( zweilous.md)** ➡️ Lv. 64 ➡️ <img src="../img/pokemon/635.png" width="40" /> **[Hydreigon]( hydreigon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +15,14 @@
 | Ability 2 | - | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
+|  | <img src='../img/types/ghost.png' width='40' /> |  |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,8 +38,8 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

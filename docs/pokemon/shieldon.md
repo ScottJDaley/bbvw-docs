@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/410.png" width="40" /> **[Shieldon](../pokemon/shieldon.md)**  ➡️  <img src="../img/pokemon/411.png" width="40" /> **[Bastiodon](../pokemon/bastiodon.md)** (Lv. 30)
+<img src="../img/pokemon/410.png" width="40" /> **[Shieldon]( shieldon.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/411.png" width="40" /> **[Bastiodon]( bastiodon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +15,15 @@
 | Ability 2 | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x4.0 |
-| <img src='../img/types/ground.png' width='40' /> | x4.0 |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dragon.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.25 |
-| <img src='../img/types/flying.png' width='40' /> | x0.25 |
-| <img src='../img/types/poison.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |
+|  | <img src='../img/types/ice.png' width='40' /> |  | <img src='../img/types/ground.png' width='40' /> |
+|  | <img src='../img/types/flying.png' width='40' /> |  |  |
+|  | <img src='../img/types/psychic.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/dragon.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,6 +34,9 @@
 | Special attack | 42 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:21.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 88 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:44.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 30 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:15.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+No known wild location.
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

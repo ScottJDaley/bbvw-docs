@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew](../pokemon/sandshrew.md)**  ➡️  <img src="../img/pokemon/028.png" width="40" /> **[Sandslash](../pokemon/sandslash.md)** (Lv. 22)
+<img src="../img/pokemon/027.png" width="40" /> **[Sandshrew]( sandshrew.md)** ➡️ Lv. 22 ➡️ <img src="../img/pokemon/028.png" width="40" /> **[Sandslash]( sandslash.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,11 @@
 | Ability 2 | **[Sand rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | **[Sand Rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/ice.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,11 +34,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

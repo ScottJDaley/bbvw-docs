@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/207.png" width="40" /> **[Gligar](../pokemon/gligar.md)**  ➡️  <img src="../img/pokemon/472.png" width="40" /> **[Gliscor](../pokemon/gliscor.md)** (Hold razor-fang)
+<img src="../img/pokemon/207.png" width="40" /> **[Gligar]( gligar.md)** ➡️ Hold razor-fang ➡️ <img src="../img/pokemon/472.png" width="40" /> **[Gliscor]( gliscor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Immunity](../abilities/immunity.md)**: Prevents poison. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,7 +34,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Desert Resort Entrance](../routes/desert-resort-entrance.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 | [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 5% |
 | [Route 11](../routes/route-11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 | [Route 15](../routes/route-15.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |

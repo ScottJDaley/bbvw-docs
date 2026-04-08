@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/steel.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/529.png" width="40" /> **[Drilbur](../pokemon/drilbur.md)**  ➡️  <img src="../img/pokemon/530.png" width="40" /> **[Excadrill](../pokemon/excadrill.md)** (Lv. 31)
+<img src="../img/pokemon/529.png" width="40" /> **[Drilbur]( drilbur.md)** ➡️ Lv. 31 ➡️ <img src="../img/pokemon/530.png" width="40" /> **[Excadrill]( excadrill.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,21 +15,15 @@
 | Ability 2 | **[Sand force](../abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/dragon.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.25 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+| <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/dragon.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -44,17 +38,17 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 25% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 100% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Cave, Special | 50% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

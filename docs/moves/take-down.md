@@ -19,6 +19,7 @@ User receives 1/4 the damage it inflicts in recoil.
 - [Aron](../pokemon/aron.md)
 - [Audino](../pokemon/audino.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beldum](../pokemon/beldum.md)

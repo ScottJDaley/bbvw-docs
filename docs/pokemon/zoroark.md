@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/570.png" width="40" /> **[Zorua](../pokemon/zorua.md)**  ➡️  <img src="../img/pokemon/571.png" width="40" /> **[Zoroark](../pokemon/zoroark.md)** (Lv. 30)
+<img src="../img/pokemon/570.png" width="40" /> **[Zorua]( zorua.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/571.png" width="40" /> **[Zoroark]( zoroark.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,10 @@
 | Ability 2 | - | **[Illusion](../abilities/illusion.md)**: Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,6 +29,9 @@
 | Special attack | 120 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:60.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 105 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:52.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Zorua]( zorua.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

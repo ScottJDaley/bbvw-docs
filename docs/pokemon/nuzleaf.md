@@ -6,7 +6,7 @@
 <img src="../img/types/grass.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/273.png" width="40" /> **[Seedot](../pokemon/seedot.md)**  ➡️  <img src="../img/pokemon/274.png" width="40" /> **[Nuzleaf](../pokemon/nuzleaf.md)** (Lv. 14)  ➡️  <img src="../img/pokemon/275.png" width="40" /> **[Shiftry](../pokemon/shiftry.md)** (Use leaf-stone)
+<img src="../img/pokemon/273.png" width="40" /> **[Seedot]( seedot.md)** ➡️ Lv. 14 ➡️ <img src="../img/pokemon/274.png" width="40" /> **[Nuzleaf]( nuzleaf.md)** ➡️ Use leaf-stone ➡️ <img src="../img/pokemon/275.png" width="40" /> **[Shiftry]( shiftry.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,21 +15,14 @@
 | Ability 2 | **[Early bird](../abilities/early-bird.md)**: Makes sleep pass twice as quickly. | **[Early Bird](../abilities/early-bird.md)**: Makes sleep pass twice as quickly. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |
+|  | <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/535.png" width="40" /> **[Tympole](../pokemon/tympole.md)**  ➡️  <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad](../pokemon/palpitoad.md)** (Lv. 25)  ➡️  <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad](../pokemon/seismitoad.md)** (Lv. 36)
+<img src="../img/pokemon/535.png" width="40" /> **[Tympole]( tympole.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/536.png" width="40" /> **[Palpitoad]( palpitoad.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/537.png" width="40" /> **[Seismitoad]( seismitoad.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Poison touch](../abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact. | **[Poison Touch](../abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

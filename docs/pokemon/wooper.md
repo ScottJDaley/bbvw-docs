@@ -6,7 +6,9 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/194.png" width="40" /> **[Wooper](../pokemon/wooper.md)**  ➡️  <img src="../img/pokemon/195.png" width="40" /> **[Quagsire](../pokemon/quagsire.md)** (Lv. 20) |  **[Clodsire](../pokemon/clodsire.md)** (Lv. 20)
+<img src="../img/pokemon/194.png" width="40" /> **[Wooper]( wooper.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/195.png" width="40" /> **[Quagsire]( quagsire.md)**
+
+<img src="../img/pokemon/194.png" width="40" /> **[Wooper]( wooper.md)** ➡️ Lv. 20 ➡️  **[Clodsire]( clodsire.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +17,12 @@
 | Ability 2 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,8 +37,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/298.png" width="40" /> **[Azurill](../pokemon/azurill.md)**  ➡️  <img src="../img/pokemon/183.png" width="40" /> **[Marill](../pokemon/marill.md)** (Happiness)  ➡️  <img src="../img/pokemon/184.png" width="40" /> **[Azumarill](../pokemon/azumarill.md)** (Lv. 18)
+<img src="../img/pokemon/298.png" width="40" /> **[Azurill]( azurill.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/183.png" width="40" /> **[Marill]( marill.md)** ➡️ Lv. 18 ➡️ <img src="../img/pokemon/184.png" width="40" /> **[Azumarill]( azumarill.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Huge power](../abilities/huge-power.md)**: Doubles Attack in battle. | **[Huge Power](../abilities/huge-power.md)**: Doubles Attack in battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,7 +32,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Unless otherwise stated, fishing encounters have not been edited.](../routes/unless-otherwise-stated,-fishing-encounters-have-not-been-edited.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
+| [Recall that no shaking grass will appear until after the first badge has been obtained!](../routes/recall-that-no-shaking-grass-will-appear-until-after-the-first-badge-has-been-obtained!.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

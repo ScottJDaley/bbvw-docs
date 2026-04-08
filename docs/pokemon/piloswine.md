@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/220.png" width="40" /> **[Swinub](../pokemon/swinub.md)**  ➡️  <img src="../img/pokemon/221.png" width="40" /> **[Piloswine](../pokemon/piloswine.md)** (Lv. 33)  ➡️  <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine](../pokemon/mamoswine.md)** (Know ancient-power)
+<img src="../img/pokemon/220.png" width="40" /> **[Swinub]( swinub.md)** ➡️ Lv. 33 ➡️ <img src="../img/pokemon/221.png" width="40" /> **[Piloswine]( piloswine.md)** ➡️ Know ancient-power ➡️ <img src="../img/pokemon/473.png" width="40" /> **[Mamoswine]( mamoswine.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,13 @@
 | Ability 2 | **[Snow cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. | **[Snow Cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/water.png' width='40' /> |  |
+|  |  | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,7 +37,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Cold Storage](../routes/cold-storage.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
+| [Twist Mountain 1F - All Seasons](../routes/twist-mountain-1f---all-seasons.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 10% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
 

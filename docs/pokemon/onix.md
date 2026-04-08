@@ -6,7 +6,7 @@
 <img src="../img/types/rock.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/095.png" width="40" /> **[Onix](../pokemon/onix.md)**  ➡️  <img src="../img/pokemon/208.png" width="40" /> **[Steelix](../pokemon/steelix.md)** (Trade hold metal-coat)
+<img src="../img/pokemon/095.png" width="40" /> **[Onix]( onix.md)** ➡️ Trade hold metal-coat ➡️ <img src="../img/pokemon/208.png" width="40" /> **[Steelix]( steelix.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,20 +15,13 @@
 | Ability 2 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x4.0 |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/normal.png' width='40' /> | x0.5 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.25 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> | <img src='../img/types/steel.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 10% |
 | [Mistralton Cave 1F – 2F](../routes/mistralton-cave-1f---2f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 20% |
 
 ## Level Up Moves

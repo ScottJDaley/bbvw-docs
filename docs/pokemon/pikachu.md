@@ -6,7 +6,7 @@
 <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/172.png" width="40" /> **[Pichu](../pokemon/pichu.md)**  ➡️  <img src="../img/pokemon/025.png" width="40" /> **[Pikachu](../pokemon/pikachu.md)** (Happiness)  ➡️  <img src="../img/pokemon/026.png" width="40" /> **[Raichu](../pokemon/raichu.md)** (Use thunder-stone)
+<img src="../img/pokemon/172.png" width="40" /> **[Pichu]( pichu.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/025.png" width="40" /> **[Pikachu]( pikachu.md)** ➡️ Use thunder-stone ➡️ <img src="../img/pokemon/026.png" width="40" /> **[Raichu]( raichu.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,12 +15,11 @@
 | Ability 2 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[LightningRod](../abilities/lightningrod.md)**:  |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/flying.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -14,6 +14,7 @@ Has a $effect_chance% chance to lower the target’s accuracy by one stage.
 ## Learned by
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Clamperl](../pokemon/clamperl.md)
 - [Gastrodon](../pokemon/gastrodon.md)

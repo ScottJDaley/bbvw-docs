@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/320.png" width="40" /> **[Wailmer](../pokemon/wailmer.md)**  ➡️  <img src="../img/pokemon/321.png" width="40" /> **[Wailord](../pokemon/wailord.md)** (Lv. 40)
+<img src="../img/pokemon/320.png" width="40" /> **[Wailmer]( wailmer.md)** ➡️ Lv. 40 ➡️ <img src="../img/pokemon/321.png" width="40" /> **[Wailord]( wailord.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +38,7 @@
 | [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 | [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

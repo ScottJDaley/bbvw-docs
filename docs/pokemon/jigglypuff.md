@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff](../pokemon/igglybuff.md)**  ➡️  <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff](../pokemon/jigglypuff.md)** (Happiness)  ➡️  <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff](../pokemon/wigglytuff.md)** (Use moon-stone)
+<img src="../img/pokemon/174.png" width="40" /> **[Igglybuff]( igglybuff.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/039.png" width="40" /> **[Jigglypuff]( jigglypuff.md)** ➡️ Use moon-stone ➡️ <img src="../img/pokemon/040.png" width="40" /> **[Wigglytuff]( wigglytuff.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Friend Guard](../abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

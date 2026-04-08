@@ -44,6 +44,7 @@ Randomly uses one of the user’s other three moves.  Only works if the user is 
 - [Baltoy](../pokemon/baltoy.md)
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

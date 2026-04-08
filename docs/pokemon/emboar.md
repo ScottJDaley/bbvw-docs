@@ -7,7 +7,7 @@ Original: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/
 New: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/498.png" width="40" /> **[Tepig](../pokemon/tepig.md)**  ➡️  <img src="../img/pokemon/499.png" width="40" /> **[Pignite](../pokemon/pignite.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/500.png" width="40" /> **[Emboar](../pokemon/emboar.md)** (Lv. 36)
+<img src="../img/pokemon/498.png" width="40" /> **[Tepig]( tepig.md)** ➡️ Lv. 17 ➡️ <img src="../img/pokemon/499.png" width="40" /> **[Pignite]( pignite.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/500.png" width="40" /> **[Emboar]( emboar.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -16,15 +16,12 @@ New: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/groun
 | Ability 2 | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/water.png' width='40' /> | x4.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/water.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,6 +32,9 @@ New: <img src="../img/types/fire.png" width="60" /> <img src="../img/types/groun
 | Special attack | <span style="color:green; font-weight:bold;">70</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">100</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:35.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">55</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:27.500000000000004%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Pignite]( pignite.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

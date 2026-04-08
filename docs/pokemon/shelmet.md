@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/616.png" width="40" /> **[Shelmet](../pokemon/shelmet.md)**  ➡️  <img src="../img/pokemon/617.png" width="40" /> **[Accelgor](../pokemon/accelgor.md)** (Trade)
+<img src="../img/pokemon/616.png" width="40" /> **[Shelmet]( shelmet.md)** ➡️ Trade ➡️ <img src="../img/pokemon/617.png" width="40" /> **[Accelgor]( accelgor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,11 @@
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

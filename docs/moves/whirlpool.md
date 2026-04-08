@@ -13,6 +13,7 @@ Prevents the target from leaving battle and inflicts 1/16 its max HP in damage f
 
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Buizel](../pokemon/buizel.md)
 - [Chinchou](../pokemon/chinchou.md)

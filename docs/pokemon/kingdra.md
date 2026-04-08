@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/116.png" width="40" /> **[Horsea](../pokemon/horsea.md)**  ➡️  <img src="../img/pokemon/117.png" width="40" /> **[Seadra](../pokemon/seadra.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/230.png" width="40" /> **[Kingdra](../pokemon/kingdra.md)** (Trade hold dragon-scale)
+<img src="../img/pokemon/116.png" width="40" /> **[Horsea]( horsea.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/117.png" width="40" /> **[Seadra]( seadra.md)** ➡️ Trade hold dragon-scale ➡️ <img src="../img/pokemon/230.png" width="40" /> **[Kingdra]( kingdra.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,12 +15,11 @@
 | Ability 2 | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/fire.png' width='40' /> | x0.25 |
-| <img src='../img/types/water.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -35,8 +34,8 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 9% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 9% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 9% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 9% |
 | [Route 13](../routes/route-13.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
 
 ## Level Up Moves

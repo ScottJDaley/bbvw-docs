@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/137.png" width="40" /> **[Porygon](../pokemon/porygon.md)**  ➡️  <img src="../img/pokemon/233.png" width="40" /> **[Porygon2](../pokemon/porygon2.md)** (Trade hold up-grade)  ➡️  <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z](../pokemon/porygon-z.md)** (Trade hold dubious-disc)
+<img src="../img/pokemon/137.png" width="40" /> **[Porygon]( porygon.md)** ➡️ Trade hold up-grade ➡️ <img src="../img/pokemon/233.png" width="40" /> **[Porygon2]( porygon2.md)** ➡️ Trade hold dubious-disc ➡️ <img src="../img/pokemon/474.png" width="40" /> **[Porygon-z]( porygon-z.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,7 +32,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
+| [Chargestone Cave 1F](../routes/chargestone-cave-1f.md) | <img src='../img/items/cave-normal.png' width='20' /> Cave, Normal | 5% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 20% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 

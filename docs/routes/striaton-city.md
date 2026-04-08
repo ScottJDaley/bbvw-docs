@@ -20,6 +20,6 @@
 ## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Basculin](../pokemon/basculin.md) | 60% |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 60% |
 | <img src="../img/pokemon/120.png" width="40" /> | [Staryu](../pokemon/staryu.md) | 40% |
 

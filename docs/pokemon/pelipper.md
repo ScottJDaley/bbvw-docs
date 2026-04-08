@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/278.png" width="40" /> **[Wingull](../pokemon/wingull.md)**  ➡️  <img src="../img/pokemon/279.png" width="40" /> **[Pelipper](../pokemon/pelipper.md)** (Lv. 25)
+<img src="../img/pokemon/278.png" width="40" /> **[Wingull]( wingull.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/279.png" width="40" /> **[Pelipper]( pelipper.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,13 @@
 | Ability 2 | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. | **[Rain Dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x4.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |
+|  | <img src='../img/types/water.png' width='40' /> |  |  |
+|  | <img src='../img/types/fighting.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

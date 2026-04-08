@@ -7,7 +7,7 @@ Original: <img src="../img/types/grass.png" width="60" />
 New: <img src="../img/types/grass.png" width="60" /> <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/495.png" width="40" /> **[Snivy](../pokemon/snivy.md)**  ➡️  <img src="../img/pokemon/496.png" width="40" /> **[Servine](../pokemon/servine.md)** (Lv. 17)  ➡️  <img src="../img/pokemon/497.png" width="40" /> **[Serperior](../pokemon/serperior.md)** (Lv. 36)
+<img src="../img/pokemon/495.png" width="40" /> **[Snivy]( snivy.md)** ➡️ Lv. 17 ➡️ <img src="../img/pokemon/496.png" width="40" /> **[Servine]( servine.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/497.png" width="40" /> **[Serperior]( serperior.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -16,17 +16,12 @@ New: <img src="../img/types/grass.png" width="60" /> <img src="../img/types/drag
 | Ability 2 | **[Contrary](../abilities/contrary.md)**: Inverts stat changes. | **[Contrary](../abilities/contrary.md)**: Inverts stat changes. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.25 |
-| <img src='../img/types/electric.png' width='40' /> | x0.25 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,6 +32,9 @@ New: <img src="../img/types/grass.png" width="60" /> <img src="../img/types/drag
 | Special attack | 75 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:37.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 95 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:47.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 113 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:56.49999999999999%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Servine]( servine.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

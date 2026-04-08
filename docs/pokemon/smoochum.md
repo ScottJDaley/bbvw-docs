@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/238.png" width="40" /> **[Smoochum](../pokemon/smoochum.md)**  ➡️  <img src="../img/pokemon/124.png" width="40" /> **[Jynx](../pokemon/jynx.md)** (Lv. 30)
+<img src="../img/pokemon/238.png" width="40" /> **[Smoochum]( smoochum.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/124.png" width="40" /> **[Jynx]( jynx.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,14 @@
 | Ability 2 | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

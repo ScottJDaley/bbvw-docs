@@ -16,6 +16,7 @@ Never misses.
 - [Aipom](../pokemon/aipom.md)
 - [Ambipom](../pokemon/ambipom.md)
 - [Azelf](../pokemon/azelf.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Buizel](../pokemon/buizel.md)
 - [Carvanha](../pokemon/carvanha.md)

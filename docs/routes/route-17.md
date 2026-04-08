@@ -1,41 +1,5 @@
 # Route 17
 
-## <img src='../img/items/surf-normal.png' width='30' style='vertical-align:middle;' /> Surf, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| <img src="../img/pokemon/320.png" width="40" /> | [Wailmer](../pokemon/wailmer.md) | 60% |
-| <img src="../img/pokemon/222.png" width="40" /> | [Corsola](../pokemon/corsola.md) | 30% |
-| <img src="../img/pokemon/458.png" width="40" /> | [Mantyke](../pokemon/mantyke.md) | 10% |
-| <img src="../img/pokemon/318.png" width="40" /> | [Carvanha](../pokemon/carvanha.md) | 60% |
-| <img src="../img/pokemon/370.png" width="40" /> | [Luvdisc](../pokemon/luvdisc.md) | 30% |
-| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 10% |
-
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Surf, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| <img src="../img/pokemon/321.png" width="40" /> | [Wailord](../pokemon/wailord.md) | 60% |
-| <img src="../img/pokemon/222.png" width="40" /> | [Corsola](../pokemon/corsola.md) | 30% |
-| <img src="../img/pokemon/226.png" width="40" /> | [Mantine](../pokemon/mantine.md) | 10% |
-| <img src="../img/pokemon/594.png" width="40" /> | [Alomomola](../pokemon/alomomola.md) | 60% |
-| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 30% |
-| <img src="../img/pokemon/319.png" width="40" /> | [Sharpedo](../pokemon/sharpedo.md) | 10% |
-
-## <img src='../img/items/fishing-normal.png' width='30' style='vertical-align:middle;' /> Fish, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| <img src="../img/pokemon/370.png" width="40" /> | [Luvdisc](../pokemon/luvdisc.md) | 100% |
-| <img src="../img/pokemon/072.png" width="40" /> | [Tentacool](../pokemon/tentacool.md) | 60% |
-| <img src="../img/pokemon/116.png" width="40" /> | [Horsea](../pokemon/horsea.md) | 40% |
-
-## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| <img src="../img/pokemon/594.png" width="40" /> | [Alomomola](../pokemon/alomomola.md) | 60% |
-| <img src="../img/pokemon/222.png" width="40" /> | [Corsola](../pokemon/corsola.md) | 40% |
-| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 60% |
-| <img src="../img/pokemon/117.png" width="40" /> | [Seadra](../pokemon/seadra.md) | 30% |
-| <img src="../img/pokemon/073.png" width="40" /> | [Tentacruel](../pokemon/tentacruel.md) | 10% |
-
 ## <img src='../img/items/grass-normal.png' width='30' style='vertical-align:middle;' /> Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
@@ -67,12 +31,39 @@
 | <img src="../img/pokemon/143.png" width="40" /> | [Snorlax](../pokemon/snorlax.md) | 5% |
 | <img src="../img/pokemon/463.png" width="40" /> | [Lickilicky](../pokemon/lickilicky.md) | 5% |
 
+## <img src='../img/items/surf-normal.png' width='30' style='vertical-align:middle;' /> Surf, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| <img src="../img/pokemon/318.png" width="40" /> | [Carvanha](../pokemon/carvanha.md) | 60% |
+| <img src="../img/pokemon/370.png" width="40" /> | [Luvdisc](../pokemon/luvdisc.md) | 30% |
+| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 10% |
+
+## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Surf, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| <img src="../img/pokemon/594.png" width="40" /> | [Alomomola](../pokemon/alomomola.md) | 60% |
+| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 30% |
+| <img src="../img/pokemon/319.png" width="40" /> | [Sharpedo](../pokemon/sharpedo.md) | 10% |
+
+## <img src='../img/items/fishing-normal.png' width='30' style='vertical-align:middle;' /> Fish, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| <img src="../img/pokemon/072.png" width="40" /> | [Tentacool](../pokemon/tentacool.md) | 60% |
+| <img src="../img/pokemon/116.png" width="40" /> | [Horsea](../pokemon/horsea.md) | 40% |
+
+## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 60% |
+| <img src="../img/pokemon/117.png" width="40" /> | [Seadra](../pokemon/seadra.md) | 30% |
+| <img src="../img/pokemon/073.png" width="40" /> | [Tentacruel](../pokemon/tentacruel.md) | 10% |
+
 
 ## Trainers
 ### Fisherman Lydon
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [Basculin](../pokemon/basculin.md) | 52 | - | - |  |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 52 | - | - |  |
 | <img src="../img/pokemon/211.png" width="40" /> | [Qwilfish](../pokemon/qwilfish.md) | 52 | - | - |  |
 | <img src="../img/pokemon/130.png" width="40" /> | [Gyarados](../pokemon/gyarados.md) | 52 | - | - |  |
 

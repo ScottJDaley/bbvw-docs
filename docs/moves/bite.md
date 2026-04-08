@@ -18,6 +18,7 @@ Has a $effect_chance% chance to make the target flinch.
 - [Arcanine](../pokemon/arcanine.md)
 - [Archen](../pokemon/archen.md)
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Blastoise](../pokemon/blastoise.md)
 - [Carnivine](../pokemon/carnivine.md)

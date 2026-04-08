@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/063.png" width="40" /> **[Abra](../pokemon/abra.md)**  ➡️  <img src="../img/pokemon/064.png" width="40" /> **[Kadabra](../pokemon/kadabra.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/065.png" width="40" /> **[Alakazam](../pokemon/alakazam.md)** (Trade)
+<img src="../img/pokemon/063.png" width="40" /> **[Abra]( abra.md)** ➡️ Lv. 16 ➡️ <img src="../img/pokemon/064.png" width="40" /> **[Kadabra]( kadabra.md)** ➡️ Trade ➡️ <img src="../img/pokemon/065.png" width="40" /> **[Alakazam]( alakazam.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

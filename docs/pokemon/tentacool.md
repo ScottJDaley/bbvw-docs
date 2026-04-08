@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/072.png" width="40" /> **[Tentacool](../pokemon/tentacool.md)**  ➡️  <img src="../img/pokemon/073.png" width="40" /> **[Tentacruel](../pokemon/tentacruel.md)** (Lv. 30)
+<img src="../img/pokemon/072.png" width="40" /> **[Tentacool]( tentacool.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/073.png" width="40" /> **[Tentacruel]( tentacruel.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,18 +15,15 @@
 | Ability 2 | **[Liquid ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. | **[Liquid Ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> |  |  |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -41,11 +38,11 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 30% |
 | [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
 | [P2 Laboratory](../routes/p2-laboratory.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

@@ -6,7 +6,7 @@
 <img src="../img/types/dark.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/629.png" width="40" /> **[Vullaby](../pokemon/vullaby.md)**  ➡️  <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz](../pokemon/mandibuzz.md)** (Lv. 54)
+<img src="../img/pokemon/629.png" width="40" /> **[Vullaby]( vullaby.md)** ➡️ Lv. 54 ➡️ <img src="../img/pokemon/630.png" width="40" /> **[Mandibuzz]( mandibuzz.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,11 @@
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+| <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,9 +34,9 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
-| [Route 10](../routes/route-10.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
+| [Desert Resort Entrance](../routes/desert-resort-entrance.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 5% |
+| [Route 10 Main Route](../routes/route-10-main-route.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 20% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
 | [Route 11](../routes/route-11.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
 
 ## Level Up Moves

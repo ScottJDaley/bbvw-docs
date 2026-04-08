@@ -74,8 +74,8 @@
 ### Kumi & Amy D
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [NidoranM](../pokemon/nidoranm.md) | 14 | - | - |  |
-|  | [NidoranF](../pokemon/nidoranf.md) | 14 | - | - |  |
+| <img src="../img/pokemon/032.png" width="40" /> | [NidoranM](../pokemon/nidoran-m.md) | 14 | - | - |  |
+| <img src="../img/pokemon/029.png" width="40" /> | [NidoranF](../pokemon/nidoran-f.md) | 14 | - | - |  |
 
 ### Nursery Aide Autumn
 | Sprite | Pokemon | Level | Ability | Item | Moves |

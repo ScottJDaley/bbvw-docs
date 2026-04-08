@@ -46,12 +46,12 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="../img/pokemon/318.png" width="40" /> | [Carvanha](../pokemon/carvanha.md) | 70% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 30% |
 
 ## <img src='../img/items/grass-special.png' width='30' style='vertical-align:middle;' /> Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | <img src="../img/pokemon/318.png" width="40" /> | [Carvanha](../pokemon/carvanha.md) | 60% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
+| <img src="../img/pokemon/550.png" width="40" /> | [Basculin](../pokemon/basculin.md) | 30% |
 | <img src="../img/pokemon/319.png" width="40" /> | [Sharpedo](../pokemon/sharpedo.md) | 10% |
 

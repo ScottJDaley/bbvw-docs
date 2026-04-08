@@ -6,7 +6,9 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/562.png" width="40" /> **[Yamask](../pokemon/yamask.md)**  ➡️  <img src="../img/pokemon/563.png" width="40" /> **[Cofagrigus](../pokemon/cofagrigus.md)** (Lv. 34) |  **[Runerigus](../pokemon/runerigus.md)** (First Stage)
+<img src="../img/pokemon/562.png" width="40" /> **[Yamask]( yamask.md)** ➡️ Lv. 34 ➡️ <img src="../img/pokemon/563.png" width="40" /> **[Cofagrigus]( cofagrigus.md)**
+
+<img src="../img/pokemon/562.png" width="40" /> **[Yamask]( yamask.md)** ➡️  ➡️  **[Runerigus]( runerigus.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +17,10 @@
 | Ability 2 | - | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+| <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,7 +35,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
+| [Relic Castle 1F](../routes/relic-castle-1f.md) | <img src='../img/items/grass-normal.png' width='20' /> Sand | 20% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

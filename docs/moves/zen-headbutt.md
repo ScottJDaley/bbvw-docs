@@ -20,6 +20,7 @@ Has a $effect_chance% chance to make the target flinch.
 - [Azelf](../pokemon/azelf.md)
 - [Bagon](../pokemon/bagon.md)
 - [Baltoy](../pokemon/baltoy.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beheeyem](../pokemon/beheeyem.md)
 - [Beldum](../pokemon/beldum.md)

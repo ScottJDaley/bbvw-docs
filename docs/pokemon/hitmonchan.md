@@ -6,7 +6,11 @@
 <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue](../pokemon/tyrogue.md)**  ➡️  <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee](../pokemon/hitmonlee.md)** (Lv. 20) | <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan](../pokemon/hitmonchan.md)** (Lv. 20) | <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop](../pokemon/hitmontop.md)** (Lv. 20)
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/106.png" width="40" /> **[Hitmonlee]( hitmonlee.md)**
+
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/107.png" width="40" /> **[Hitmonchan]( hitmonchan.md)**
+
+<img src="../img/pokemon/236.png" width="40" /> **[Tyrogue]( tyrogue.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/237.png" width="40" /> **[Hitmontop]( hitmontop.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +19,11 @@
 | Ability 2 | **[Iron fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. | **[Iron Fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,6 +34,9 @@
 | Special attack | 35 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:17.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 110 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:55.00000000000001%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 76 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:38.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Tyrogue]( tyrogue.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

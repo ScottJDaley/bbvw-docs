@@ -19,6 +19,7 @@ Inflicts regular damage and can hit Dive users.
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)

@@ -17,6 +17,7 @@ Has a $effect_chance% chance to make the target flinch.
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Blastoise](../pokemon/blastoise.md)

@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/200.png" width="40" /> **[Misdreavus](../pokemon/misdreavus.md)**  ➡️  <img src="../img/pokemon/429.png" width="40" /> **[Mismagius](../pokemon/mismagius.md)** (Use dusk-stone)
+<img src="../img/pokemon/200.png" width="40" /> **[Misdreavus]( misdreavus.md)** ➡️ Use dusk-stone ➡️ <img src="../img/pokemon/429.png" width="40" /> **[Mismagius]( mismagius.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,10 @@
 | Ability 2 | - | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+| <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -14,6 +14,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 ## Learned by
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Chinchou](../pokemon/chinchou.md)
 - [Corphish](../pokemon/corphish.md)

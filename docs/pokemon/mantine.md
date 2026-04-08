@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/458.png" width="40" /> **[Mantyke](../pokemon/mantyke.md)**  ➡️  <img src="../img/pokemon/226.png" width="40" /> **[Mantine](../pokemon/mantine.md)** (Level Up)
+<img src="../img/pokemon/458.png" width="40" /> **[Mantyke]( mantyke.md)** ➡️ Level Up ➡️ <img src="../img/pokemon/226.png" width="40" /> **[Mantine]( mantine.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,16 +15,13 @@
 | Ability 2 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x4.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |
+|  | <img src='../img/types/water.png' width='40' /> |  |  |
+|  | <img src='../img/types/fighting.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,7 +37,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 10% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

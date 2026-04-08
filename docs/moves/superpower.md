@@ -18,6 +18,7 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 - [Aron](../pokemon/aron.md)
 - [Axew](../pokemon/axew.md)
 - [Azumarill](../pokemon/azumarill.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bibarel](../pokemon/bibarel.md)

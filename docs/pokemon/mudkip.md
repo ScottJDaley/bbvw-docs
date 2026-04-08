@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/258.png" width="40" /> **[Mudkip](../pokemon/mudkip.md)**  ➡️  <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp](../pokemon/marshtomp.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/260.png" width="40" /> **[Swampert](../pokemon/swampert.md)** (Lv. 36)
+<img src="../img/pokemon/258.png" width="40" /> **[Mudkip]( mudkip.md)** ➡️ Lv. 16 ➡️ <img src="../img/pokemon/259.png" width="40" /> **[Marshtomp]( marshtomp.md)** ➡️ Lv. 36 ➡️ <img src="../img/pokemon/260.png" width="40" /> **[Swampert]( swampert.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -22,6 +22,7 @@ Inflicts regular damage with no additional effect.
 - [Axew](../pokemon/axew.md)
 - [Azumarill](../pokemon/azumarill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bibarel](../pokemon/bibarel.md)
 - [Bidoof](../pokemon/bidoof.md)

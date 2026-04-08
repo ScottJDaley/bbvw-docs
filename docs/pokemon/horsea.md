@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/116.png" width="40" /> **[Horsea](../pokemon/horsea.md)**  ➡️  <img src="../img/pokemon/117.png" width="40" /> **[Seadra](../pokemon/seadra.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/230.png" width="40" /> **[Kingdra](../pokemon/kingdra.md)** (Trade hold dragon-scale)
+<img src="../img/pokemon/116.png" width="40" /> **[Horsea]( horsea.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/117.png" width="40" /> **[Seadra]( seadra.md)** ➡️ Trade hold dragon-scale ➡️ <img src="../img/pokemon/230.png" width="40" /> **[Kingdra]( kingdra.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,10 +37,10 @@
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
 | [Route 17](../routes/route-17.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

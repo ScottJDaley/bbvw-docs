@@ -22,6 +22,7 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 - [Audino](../pokemon/audino.md)
 - [Azelf](../pokemon/azelf.md)
 - [Azurill](../pokemon/azurill.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beheeyem](../pokemon/beheeyem.md)
 - [Bellossom](../pokemon/bellossom.md)

@@ -16,6 +16,7 @@ Hits every turn for 2-3 turns, then confuses the user.
 - [Archeops](../pokemon/archeops.md)
 - [Bagon](../pokemon/bagon.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Blitzle](../pokemon/blitzle.md)

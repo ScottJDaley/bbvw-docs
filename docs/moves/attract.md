@@ -40,6 +40,7 @@ Target falls in love if it has the opposite gender, and has a 50% chance to refu
 - [Bagon](../pokemon/bagon.md)
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

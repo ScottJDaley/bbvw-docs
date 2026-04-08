@@ -18,6 +18,7 @@ Lowers the target’s Speed by two stages.
 - [Ariados](../pokemon/ariados.md)
 - [Axew](../pokemon/axew.md)
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bisharp](../pokemon/bisharp.md)
 - [Bouffalant](../pokemon/bouffalant.md)

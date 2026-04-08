@@ -13,6 +13,7 @@ Inflicts regular damage with no additional effect.
 
 ## Learned by
 - [Alomomola](../pokemon/alomomola.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Buizel](../pokemon/buizel.md)

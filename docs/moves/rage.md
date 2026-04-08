@@ -13,6 +13,7 @@ If the user is hit after using this move, its Attack rises by one stage.
 
 ## Learned by
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beedrill](../pokemon/beedrill.md)
 - [Blitzle](../pokemon/blitzle.md)

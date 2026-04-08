@@ -24,6 +24,7 @@ Inflicts regular damage with no additional effect.
 - [Aron](../pokemon/aron.md)
 - [Axew](../pokemon/axew.md)
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bayleef](../pokemon/bayleef.md)
 - [Beartic](../pokemon/beartic.md)

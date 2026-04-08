@@ -7,7 +7,7 @@ Original: <img src="../img/types/electric.png" width="60" />
 New: <img src="../img/types/electric.png" width="60" /> <img src="../img/types/fighting.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/239.png" width="40" /> **[Elekid](../pokemon/elekid.md)**  ➡️  <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz](../pokemon/electabuzz.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/466.png" width="40" /> **[Electivire](../pokemon/electivire.md)** (Trade hold electirizer)
+<img src="../img/pokemon/239.png" width="40" /> **[Elekid]( elekid.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/125.png" width="40" /> **[Electabuzz]( electabuzz.md)** ➡️ Trade hold electirizer ➡️ <img src="../img/pokemon/466.png" width="40" /> **[Electivire]( electivire.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -16,15 +16,13 @@ New: <img src="../img/types/electric.png" width="60" /> <img src="../img/types/f
 | Ability 2 | **[Vital spirit](../abilities/vital-spirit.md)**: Prevents sleep. | **[Vital Spirit](../abilities/vital-spirit.md)**: Prevents sleep. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/dark.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/dark.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/086.png" width="40" /> **[Seel](../pokemon/seel.md)**  ➡️  <img src="../img/pokemon/087.png" width="40" /> **[Dewgong](../pokemon/dewgong.md)** (Lv. 34)
+<img src="../img/pokemon/086.png" width="40" /> **[Seel]( seel.md)** ➡️ Lv. 34 ➡️ <img src="../img/pokemon/087.png" width="40" /> **[Dewgong]( dewgong.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,8 +37,8 @@
 | --- | --- | --- |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 | [Route 6 – Spring / Summer / Autumn](../routes/route-6---spring---summer---autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
 | [Giant Chasm – Outside Area](../routes/giant-chasm---outside-area.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 40% |
 
 ## Level Up Moves

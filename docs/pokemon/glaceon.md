@@ -6,7 +6,21 @@
 <img src="../img/types/ice.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/133.png" width="40" /> **[Eevee](../pokemon/eevee.md)**  ➡️  <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon](../pokemon/vaporeon.md)** (Use water-stone) | <img src="../img/pokemon/135.png" width="40" /> **[Jolteon](../pokemon/jolteon.md)** (Use thunder-stone) | <img src="../img/pokemon/136.png" width="40" /> **[Flareon](../pokemon/flareon.md)** (Use fire-stone) | <img src="../img/pokemon/196.png" width="40" /> **[Espeon](../pokemon/espeon.md)** (Happiness) | <img src="../img/pokemon/197.png" width="40" /> **[Umbreon](../pokemon/umbreon.md)** (Happiness) | <img src="../img/pokemon/470.png" width="40" /> **[Leafeon](../pokemon/leafeon.md)** (At eterna-forest) | <img src="../img/pokemon/471.png" width="40" /> **[Glaceon](../pokemon/glaceon.md)** (At sinnoh-route-217) |  **[Sylveon](../pokemon/sylveon.md)** (Level Up)
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use water-stone ➡️ <img src="../img/pokemon/134.png" width="40" /> **[Vaporeon]( vaporeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use thunder-stone ➡️ <img src="../img/pokemon/135.png" width="40" /> **[Jolteon]( jolteon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Use fire-stone ➡️ <img src="../img/pokemon/136.png" width="40" /> **[Flareon]( flareon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/196.png" width="40" /> **[Espeon]( espeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/197.png" width="40" /> **[Umbreon]( umbreon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ At eterna-forest ➡️ <img src="../img/pokemon/470.png" width="40" /> **[Leafeon]( leafeon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ At sinnoh-route-217 ➡️ <img src="../img/pokemon/471.png" width="40" /> **[Glaceon]( glaceon.md)**
+
+<img src="../img/pokemon/133.png" width="40" /> **[Eevee]( eevee.md)** ➡️ Level Up ➡️  **[Sylveon]( sylveon.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +29,12 @@
 | Ability 2 | **[Ice body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/steel.png' width='40' /> | x2.0 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
+|  |  | <img src='../img/types/steel.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -32,6 +45,9 @@
 | Special attack | 130 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:65.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 95 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:47.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Eevee]( eevee.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

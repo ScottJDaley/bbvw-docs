@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/054.png" width="40" /> **[Psyduck](../pokemon/psyduck.md)**  ➡️  <img src="../img/pokemon/055.png" width="40" /> **[Golduck](../pokemon/golduck.md)** (Lv. 33)
+<img src="../img/pokemon/054.png" width="40" /> **[Psyduck]( psyduck.md)** ➡️ Lv. 33 ➡️ <img src="../img/pokemon/055.png" width="40" /> **[Golduck]( golduck.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Cloud nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. | **[Cloud Nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,9 +37,9 @@
 | --- | --- | --- |
 | [Striaton City](../routes/striaton-city.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
 | [Route 3](../routes/route-3.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 30% |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 60% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Normal | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 90% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 90% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

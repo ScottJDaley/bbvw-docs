@@ -6,7 +6,7 @@
 <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/355.png" width="40" /> **[Duskull](../pokemon/duskull.md)**  ➡️  <img src="../img/pokemon/356.png" width="40" /> **[Dusclops](../pokemon/dusclops.md)** (Lv. 37)  ➡️  <img src="../img/pokemon/477.png" width="40" /> **[Dusknoir](../pokemon/dusknoir.md)** (Trade hold reaper-cloth)
+<img src="../img/pokemon/355.png" width="40" /> **[Duskull]( duskull.md)** ➡️ Lv. 37 ➡️ <img src="../img/pokemon/356.png" width="40" /> **[Dusclops]( dusclops.md)** ➡️ Trade hold reaper-cloth ➡️ <img src="../img/pokemon/477.png" width="40" /> **[Dusknoir]( dusknoir.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,10 @@
 | Ability 2 | **[Frisk](../abilities/frisk.md)**: Reveals an opponent's held item upon entering battle. | **[Cursed Body](../abilities/cursed-body.md)**: Has a 30% chance of Disabling any move that hits the Pokémon. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+| <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -33,6 +29,9 @@
 | Special attack | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 135 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:67.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 45 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:22.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Dusclops]( dusclops.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

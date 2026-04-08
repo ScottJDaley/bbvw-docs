@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/173.png" width="40" /> **[Cleffa](../pokemon/cleffa.md)**  ➡️  <img src="../img/pokemon/035.png" width="40" /> **[Clefairy](../pokemon/clefairy.md)** (Happiness)  ➡️  <img src="../img/pokemon/036.png" width="40" /> **[Clefable](../pokemon/clefable.md)** (Use moon-stone)
+<img src="../img/pokemon/173.png" width="40" /> **[Cleffa]( cleffa.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/035.png" width="40" /> **[Clefairy]( clefairy.md)** ➡️ Use moon-stone ➡️ <img src="../img/pokemon/036.png" width="40" /> **[Clefable]( clefable.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,8 +15,8 @@
 | Ability 2 | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
 
 ## Base Stats
 | Stat | Value | Bar |

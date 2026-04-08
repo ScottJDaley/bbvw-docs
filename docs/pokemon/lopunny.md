@@ -6,7 +6,7 @@
 <img src="../img/types/normal.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/427.png" width="40" /> **[Buneary](../pokemon/buneary.md)**  ➡️  <img src="../img/pokemon/428.png" width="40" /> **[Lopunny](../pokemon/lopunny.md)** (Happiness)
+<img src="../img/pokemon/427.png" width="40" /> **[Buneary]( buneary.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/428.png" width="40" /> **[Lopunny]( lopunny.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,10 +15,9 @@
 | Ability 2 | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. | **[Limber](../abilities/limber.md)**: Prevents paralysis. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/ghost.png' width='40' /> |  | <img src='../img/types/fighting.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/118.png" width="40" /> **[Goldeen](../pokemon/goldeen.md)**  ➡️  <img src="../img/pokemon/119.png" width="40" /> **[Seaking](../pokemon/seaking.md)** (Lv. 33)
+<img src="../img/pokemon/118.png" width="40" /> **[Goldeen]( goldeen.md)** ➡️ Lv. 33 ➡️ <img src="../img/pokemon/119.png" width="40" /> **[Seaking]( seaking.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[LightningRod](../abilities/lightningrod.md)**:  |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,7 +41,7 @@
 | [Route 14](../routes/route-14.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 | [Route 14](../routes/route-14.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Challenger’s Cave – All Floors](../routes/challengers-cave---all-floors.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
+| [Challenger’s Cave – All Floors 1F](../routes/challengers-cave---all-floors-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

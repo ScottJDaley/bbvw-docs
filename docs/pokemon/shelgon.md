@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/371.png" width="40" /> **[Bagon](../pokemon/bagon.md)**  ➡️  <img src="../img/pokemon/372.png" width="40" /> **[Shelgon](../pokemon/shelgon.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/373.png" width="40" /> **[Salamence](../pokemon/salamence.md)** (Lv. 50)
+<img src="../img/pokemon/371.png" width="40" /> **[Bagon]( bagon.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/372.png" width="40" /> **[Shelgon]( shelgon.md)** ➡️ Lv. 50 ➡️ <img src="../img/pokemon/373.png" width="40" /> **[Salamence]( salamence.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> |  |  |
+|  | <img src='../img/types/grass.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

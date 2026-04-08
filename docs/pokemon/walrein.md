@@ -6,7 +6,7 @@
 <img src="../img/types/ice.png" width="60" /> <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/363.png" width="40" /> **[Spheal](../pokemon/spheal.md)**  ➡️  <img src="../img/pokemon/364.png" width="40" /> **[Sealeo](../pokemon/sealeo.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/365.png" width="40" /> **[Walrein](../pokemon/walrein.md)** (Lv. 44)
+<img src="../img/pokemon/363.png" width="40" /> **[Spheal]( spheal.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/364.png" width="40" /> **[Sealeo]( sealeo.md)** ➡️ Lv. 44 ➡️ <img src="../img/pokemon/365.png" width="40" /> **[Walrein]( walrein.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Ice body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | **[Ice Body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  |  | <img src='../img/types/fighting.png' width='40' /> |  |
+|  |  | <img src='../img/types/rock.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

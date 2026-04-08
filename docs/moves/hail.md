@@ -20,6 +20,7 @@ Changes the weather to a hailstorm for five turns.
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Blastoise](../pokemon/blastoise.md)

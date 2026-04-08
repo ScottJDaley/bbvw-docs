@@ -6,7 +6,9 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/ghost.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/290.png" width="40" /> **[Nincada](../pokemon/nincada.md)**  ➡️  <img src="../img/pokemon/291.png" width="40" /> **[Ninjask](../pokemon/ninjask.md)** (Lv. 20) | <img src="../img/pokemon/292.png" width="40" /> **[Shedinja](../pokemon/shedinja.md)** (First Stage)
+<img src="../img/pokemon/290.png" width="40" /> **[Nincada]( nincada.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/291.png" width="40" /> **[Ninjask]( ninjask.md)**
+
+<img src="../img/pokemon/290.png" width="40" /> **[Nincada]( nincada.md)** ➡️  ➡️ <img src="../img/pokemon/292.png" width="40" /> **[Shedinja]( shedinja.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +17,13 @@
 | Ability 2 | - | **[Wonder Guard](../abilities/wonder-guard.md)**: Protects against damaging moves that are not super effective. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x2.0 |
-| <img src='../img/types/flying.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/ground.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/normal.png' width='40' /> | x0.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/normal.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  |
+| <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | <img src='../img/types/bug.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,6 +34,9 @@
 | Special attack | 30 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:15.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 30 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:15.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 40 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+Evolve from [Nincada]( nincada.md)
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

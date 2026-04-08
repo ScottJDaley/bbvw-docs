@@ -24,6 +24,7 @@ Has a $effect_chance% chance to freeze the target.
 - [Azurill](../pokemon/azurill.md)
 - [Baltoy](../pokemon/baltoy.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beartic](../pokemon/beartic.md)

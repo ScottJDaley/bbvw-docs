@@ -6,7 +6,9 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/412.png" width="40" /> **[Burmy](../pokemon/burmy.md)**  ➡️   **[Wormadam](../pokemon/wormadam.md)** (Lv. 20) | <img src="../img/pokemon/414.png" width="40" /> **[Mothim](../pokemon/mothim.md)** (Lv. 20)
+<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)** ➡️ Lv. 20 ➡️  **[Wormadam]( wormadam.md)**
+
+<img src="../img/pokemon/412.png" width="40" /> **[Burmy]( burmy.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/414.png" width="40" /> **[Mothim]( mothim.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +17,13 @@
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x4.0 |
-| <img src='../img/types/flying.png' width='40' /> | x4.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/ground.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,6 +34,9 @@
 | Special attack | 79 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:39.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Special defense | 105 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:52.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
 | Speed | 36 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:18.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+
+## Locations
+No known wild location.
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

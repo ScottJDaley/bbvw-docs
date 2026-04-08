@@ -550,6 +550,7 @@
 - [Petilil](petilil.md)
 - [Lilligant](lilligant.md)
 - [Basculin-red-striped](basculin-red-striped.md)
+- [Basculin-red-striped](basculin-red-striped.md)
 - [Sandile](sandile.md)
 - [Krokorok](krokorok.md)
 - [Krookodile](krookodile.md)

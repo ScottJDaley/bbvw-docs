@@ -6,7 +6,7 @@
 <img src="../img/types/psychic.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/577.png" width="40" /> **[Solosis](../pokemon/solosis.md)**  ➡️  <img src="../img/pokemon/578.png" width="40" /> **[Duosion](../pokemon/duosion.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/579.png" width="40" /> **[Reuniclus](../pokemon/reuniclus.md)** (Lv. 41)
+<img src="../img/pokemon/577.png" width="40" /> **[Solosis]( solosis.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/578.png" width="40" /> **[Duosion]( duosion.md)** ➡️ Lv. 41 ➡️ <img src="../img/pokemon/579.png" width="40" /> **[Reuniclus]( reuniclus.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +15,11 @@
 | Ability 2 | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

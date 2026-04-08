@@ -4,6 +4,10 @@ import os
 
 DATA_DIR = "scripts/data"
 
+def normalize_name(name):
+    if not name: return ""
+    return name.lower().replace(' ', '-').replace('.', '').replace("'", "").replace('’', '').replace('♂', '-m').replace('♀', '-f').replace('/', '-').replace('–', '-').strip()
+
 def parse_pokemon_changes():
     changes = {}
     with open(os.path.join(DATA_DIR, "Pokemon Changes.txt"), 'r', encoding='utf-8', errors='ignore') as f:
@@ -47,10 +51,12 @@ def parse_pokemon_changes():
                 data['stats'][stat_name] = {'old': int(stat_match.group(2)), 'new': int(stat_match.group(3))}
                 continue
             
+            # Match ability changes carefully. Handle Tyrogue-style line: Ability One: Guts (Tyrogue) / Intimidate (Hitmontop)
             ab_match = re.match(r'Ability (One|Two):\s+(.+)', line)
             if ab_match:
                 slot = ab_match.group(1).lower()
-                data['abilities'][slot] = ab_match.group(2).strip()
+                ab_val = ab_match.group(2).strip()
+                data['abilities'][slot] = ab_val
                 continue
             
             type_match = re.match(r'Type:\s+(.+)', line)
@@ -87,41 +93,71 @@ def parse_wild_pokemon():
     with open(os.path.join(DATA_DIR, "Wild Pokemon.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
     
+    # Split by major area separator
     sections = re.split(r'={10,}', content)
     
     for section in sections:
-        lines = section.strip().split('\n')
-        if not lines: continue
+        # Each section can have multiple sub-areas (like 1F, B1F)
+        # We split by double or triple line breaks to find sub-areas
+        blocks = re.split(r'\n\s*\n\s*\n', section.strip())
         
-        route_name = ""
-        header_idx = -1
-        for i, line in enumerate(lines):
-            line = line.strip()
-            if not line or line == "Wild Pokémon" or "Recall that" in line or "Serebii.net" in line or "649" in line or "Note that" in line or "'Special' refers" in line:
+        main_area_name = ""
+        
+        for block in blocks:
+            lines = [l.strip() for l in block.strip().split('\n') if l.strip()]
+            if not lines: continue
+            
+            # Is this block a legendary encounter?
+            if "LEGENDARY ENCOUNTER" in lines[0] or "SPECIAL ENCOUNTER" in lines[0]:
+                if routes:
+                    # Add to previous route
+                    routes[-1]['specials'].append(block.strip())
                 continue
-            route_name = line
-            header_idx = i
-            break
-        
-        if not route_name: continue
-        
-        route_data = {'name': route_name, 'encounters': []}
-        
-        for line in lines[header_idx+1:]:
-            line = line.strip()
-            enc_match = re.match(r'([^:]+):\s+(.+)', line)
-            if enc_match:
-                method = enc_match.group(1).strip()
-                pkmn_list = enc_match.group(2).strip()
-                pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
-                for pkmn, rate in pkmns:
-                    route_data['encounters'].append({
-                        'method': method,
-                        'pokemon': pkmn.strip(),
-                        'rate': int(rate)
-                    })
-        if route_data['encounters']:
-            routes.append(route_data)
+
+            # First line might be area name
+            header = lines[0]
+            if header == "Wild Pokémon" or "Recall that" in header or "Serebii.net" in header or "649" in header or "Note that" in header or "'Special' refers" in header:
+                if len(lines) > 1:
+                    header = lines[1]
+                else:
+                    continue
+            
+            if not main_area_name:
+                main_area_name = header
+            
+            # Check if this block contains encounters
+            encounters = []
+            current_sub_area = main_area_name
+            
+            # Sometimes the first line of a block within an area is a sub-area name (e.g. "1F")
+            potential_sub = lines[0]
+            start_idx = 0
+            if ":" not in potential_sub and len(lines) > 1 and ":" in lines[1]:
+                current_sub_area = f"{main_area_name} {potential_sub}" if potential_sub != main_area_name else main_area_name
+                start_idx = 1
+            elif ":" not in potential_sub and len(lines) == 1:
+                # Just a header block, skip and set as main_area_name
+                main_area_name = potential_sub
+                continue
+
+            for line in lines[start_idx:]:
+                enc_match = re.match(r'([^:]+):\s+(.+)', line)
+                if enc_match:
+                    method = enc_match.group(1).strip()
+                    pkmn_list = enc_match.group(2).strip()
+                    pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
+                    for pkmn, rate in pkmns:
+                        encounters.append({
+                            'method': method,
+                            'pokemon': pkmn.strip(),
+                            'rate': int(rate)
+                        })
+            
+            if encounters:
+                # Deduplicate sub-areas if they just say "1F" etc
+                name = current_sub_area
+                routes.append({'name': name, 'encounters': encounters, 'specials': []})
+                
     return routes
 
 def parse_move_changes():
@@ -171,8 +207,6 @@ def parse_move_changes():
 
 def parse_trainers():
     trainers = {} 
-    
-    # 1. Parse Important Trainers
     with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         imp_content = f.read()
     
@@ -180,13 +214,11 @@ def parse_trainers():
     
     current_trainer = None
     current_location = None
-    important_data = {} # Keyed by name for matching later
 
     for entry in entries:
         lines = entry.strip().split('\n')
         if not lines: continue
         header = lines[0].strip()
-        
         loc_match = re.search(r'Location:\s+(.+)', entry)
         if loc_match: current_location = loc_match.group(1).strip()
         
@@ -236,38 +268,24 @@ def parse_trainers():
             
             if current_location not in trainers: trainers[current_location] = []
             trainers[current_location].append(trainer_data)
-            # Save for name-based lookup from other doc
-            short_name = trainer_name.split('–')[0].split('-')[0].replace('Rival', '').replace('PKMN Trainer', '').strip()
-            important_data[short_name] = trainer_data
 
-    # 2. Parse General Trainers
     with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         gen_content = f.read()
     
     sections = gen_content.split('\n---\n')
     for i in range(0, len(sections)-1):
-        # Format is likely: Location \n --- \n Trainers...
         loc_lines = sections[i].strip().split('\n')
         location = loc_lines[-1].strip()
         trainer_lines = sections[i+1].strip().split('\n')
-        # Stop before next location
         if i+1 < len(sections):
-             # The next location is actually the last line of the current trainer list
              location = loc_lines[-1].strip()
              trainer_list = []
              for line in trainer_lines:
                  if not line.strip() or line.strip() == location: continue
-                 # Check if this line is actually the NEXT location (if it only has one line)
                  trainer_list.append(line.strip())
              
              for t_line in trainer_list:
-                 if t_line.startswith('*'):
-                     # This refers to an important trainer
-                     name = t_line.replace('*', '').strip()
-                     # If we already added it from Important Roster, skip or update?
-                     continue
-                 
-                 # Format: Class Name: Pkmn1 L10, Pkmn2 L12
+                 if t_line.startswith('*'): continue
                  match = re.match(r'([^:]+):\s+(.+)', t_line)
                  if match:
                      t_name = match.group(1).strip()
@@ -275,7 +293,6 @@ def parse_trainers():
                      pkmn_entries = pkmn_raw.split(',')
                      trainer_data = {'name': t_name, 'pokemon': [], 'important': False}
                      for pk_entry in pkmn_entries:
-                         # Pkmn1 L10
                          pk_match = re.match(r'(.+)\s+L(\d+)', pk_entry.strip())
                          if pk_match:
                              trainer_data['pokemon'].append({
@@ -285,7 +302,6 @@ def parse_trainers():
                              })
                      if location not in trainers: trainers[location] = []
                      trainers[location].append(trainer_data)
-
     return trainers
 
 if __name__ == "__main__":

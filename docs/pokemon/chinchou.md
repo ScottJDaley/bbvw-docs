@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/electric.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/170.png" width="40" /> **[Chinchou](../pokemon/chinchou.md)**  ➡️  <img src="../img/pokemon/171.png" width="40" /> **[Lanturn](../pokemon/lanturn.md)** (Lv. 27)
+<img src="../img/pokemon/170.png" width="40" /> **[Chinchou]( chinchou.md)** ➡️ Lv. 27 ➡️ <img src="../img/pokemon/171.png" width="40" /> **[Lanturn]( lanturn.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,13 @@
 | Ability 2 | **[Illuminate](../abilities/illuminate.md)**: Doubles the wild encounter rate. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/flying.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/flying.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

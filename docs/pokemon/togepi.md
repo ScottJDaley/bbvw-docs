@@ -6,7 +6,7 @@
 <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/175.png" width="40" /> **[Togepi](../pokemon/togepi.md)**  ➡️  <img src="../img/pokemon/176.png" width="40" /> **[Togetic](../pokemon/togetic.md)** (Happiness)  ➡️  <img src="../img/pokemon/468.png" width="40" /> **[Togekiss](../pokemon/togekiss.md)** (Use shiny-stone)
+<img src="../img/pokemon/175.png" width="40" /> **[Togepi]( togepi.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/176.png" width="40" /> **[Togetic]( togetic.md)** ➡️ Use shiny-stone ➡️ <img src="../img/pokemon/468.png" width="40" /> **[Togekiss]( togekiss.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,8 +15,8 @@
 | Ability 2 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
 
 ## Base Stats
 | Stat | Value | Bar |

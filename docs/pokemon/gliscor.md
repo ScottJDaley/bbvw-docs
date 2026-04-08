@@ -6,7 +6,7 @@
 <img src="../img/types/ground.png" width="60" /> <img src="../img/types/flying.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/207.png" width="40" /> **[Gligar](../pokemon/gligar.md)**  ➡️  <img src="../img/pokemon/472.png" width="40" /> **[Gliscor](../pokemon/gliscor.md)** (Hold razor-fang)
+<img src="../img/pokemon/207.png" width="40" /> **[Gligar]( gligar.md)** ➡️ Hold razor-fang ➡️ <img src="../img/pokemon/472.png" width="40" /> **[Gliscor]( gliscor.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,15 +15,11 @@
 | Ability 2 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Poison Heal](../abilities/poison-heal.md)**: Heals for 1/8 max HP after each turn when poisoned in place of damage. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x4.0 |
-| <img src='../img/types/water.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
-| <img src='../img/types/ground.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |
+| <img src='../img/types/ground.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -39,7 +35,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 7 – All Seasons](../routes/route-7---all-seasons.md) | <img src='../img/items/grass-normal.png' width='20' /> Grass, Shaking | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-normal.png' width='20' /> Rocky Grass | 10% |
 | [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 | [Route 15](../routes/route-15.md) | <img src='../img/items/grass-special.png' width='20' /> Grass, Special | 5% |
 

@@ -18,6 +18,7 @@ User receives 1/3 the damage inflicted in recoil.
 - [Audino](../pokemon/audino.md)
 - [Azumarill](../pokemon/azumarill.md)
 - [Bagon](../pokemon/bagon.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bidoof](../pokemon/bidoof.md)
 - [Blissey](../pokemon/blissey.md)

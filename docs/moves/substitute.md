@@ -44,6 +44,7 @@ Transfers 1/4 of the user’s max HP into a doll, protecting the user from furth
 - [Baltoy](../pokemon/baltoy.md)
 - [Banette](../pokemon/banette.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

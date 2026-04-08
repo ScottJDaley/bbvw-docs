@@ -5,6 +5,7 @@ Bypasses targets' abilities if they could hinder or prevent a move.
 
 ## Pokemon with this Ability
 - [Axew](../pokemon/axew.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Cranidos](../pokemon/cranidos.md)
 - [Drilbur](../pokemon/drilbur.md)

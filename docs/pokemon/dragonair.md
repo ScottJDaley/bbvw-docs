@@ -6,7 +6,7 @@
 <img src="../img/types/dragon.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/147.png" width="40" /> **[Dratini](../pokemon/dratini.md)**  ➡️  <img src="../img/pokemon/148.png" width="40" /> **[Dragonair](../pokemon/dragonair.md)** (Lv. 30)  ➡️  <img src="../img/pokemon/149.png" width="40" /> **[Dragonite](../pokemon/dragonite.md)** (Lv. 55)
+<img src="../img/pokemon/147.png" width="40" /> **[Dratini]( dratini.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/148.png" width="40" /> **[Dragonair]( dragonair.md)** ➡️ Lv. 55 ➡️ <img src="../img/pokemon/149.png" width="40" /> **[Dragonite]( dragonite.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Marvel scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. | **[Marvel Scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/dragon.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/dragon.png' width='40' /> |  |
+|  | <img src='../img/types/electric.png' width='40' /> |  |  |
+|  | <img src='../img/types/grass.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,10 +35,10 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 40% |
+| [Dragonspiral Tower Outside (Both Areas) – Spring, Summer, Autumn](../routes/dragonspiral-tower-outside-(both-areas)---spring,-summer,-autumn.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 | [Route 11](../routes/route-11.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 35% |
 
 ## Level Up Moves

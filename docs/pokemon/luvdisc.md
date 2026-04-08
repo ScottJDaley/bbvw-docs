@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/370.png" width="40" /> **[Luvdisc](../pokemon/luvdisc.md)**
+<img src="../img/pokemon/370.png" width="40" /> **[Luvdisc]( luvdisc.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -44,8 +42,8 @@
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 5% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

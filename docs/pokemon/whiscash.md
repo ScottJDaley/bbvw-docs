@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" /> <img src="../img/types/ground.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/339.png" width="40" /> **[Barboach](../pokemon/barboach.md)**  ➡️  <img src="../img/pokemon/340.png" width="40" /> **[Whiscash](../pokemon/whiscash.md)** (Lv. 30)
+<img src="../img/pokemon/339.png" width="40" /> **[Barboach]( barboach.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/340.png" width="40" /> **[Whiscash]( whiscash.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Anticipation](../abilities/anticipation.md)**: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/grass.png' width='40' /> | x4.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/rock.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |  | <img src='../img/types/grass.png' width='40' /> |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/rock.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -37,15 +35,15 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
-| [Wellspring Cave 1F](../routes/wellspring-cave-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 100% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/surf-normal.png' width='20' /> Surf, Normal | 60% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
+| [Wellspring Cave 1F 1F](../routes/wellspring-cave-1f-1f.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 100% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 | [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Surf, Special | 60% |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/fishing-normal.png' width='20' /> Fish, Normal | 10% |
+| [Victory Road Outside](../routes/victory-road-outside.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 10% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

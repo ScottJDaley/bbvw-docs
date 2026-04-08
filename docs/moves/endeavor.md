@@ -17,6 +17,7 @@ Lowers the target’s HP to equal the user’s.
 - [Archeops](../pokemon/archeops.md)
 - [Aron](../pokemon/aron.md)
 - [Axew](../pokemon/axew.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beedrill](../pokemon/beedrill.md)
 - [Blissey](../pokemon/blissey.md)

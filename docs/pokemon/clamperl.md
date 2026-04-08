@@ -6,7 +6,9 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/366.png" width="40" /> **[Clamperl](../pokemon/clamperl.md)**  ➡️  <img src="../img/pokemon/367.png" width="40" /> **[Huntail](../pokemon/huntail.md)** (Trade hold deep-sea-tooth)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaTooth equipped.</span> | <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss](../pokemon/gorebyss.md)** (Trade hold deep-sea-scale)<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">NEW: Level Up at Night with a DeepSeaScale equipped.</span>
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)** ➡️ Trade hold deep-sea-tooth ➡️ <img src="../img/pokemon/367.png" width="40" /> **[Huntail]( huntail.md)**<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">ROM: Level Up at Night with a DeepSeaTooth equipped.</span>
+
+<img src="../img/pokemon/366.png" width="40" /> **[Clamperl]( clamperl.md)** ➡️ Trade hold deep-sea-scale ➡️ <img src="../img/pokemon/368.png" width="40" /> **[Gorebyss]( gorebyss.md)**<br/><span style="background: #4caf50; color: white; padding: 1px 4px; border-radius: 3px; font-size: 0.7em;">ROM: Level Up at Night with a DeepSeaScale equipped.</span>
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +17,12 @@
 | Ability 2 | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

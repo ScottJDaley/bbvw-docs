@@ -6,7 +6,7 @@
 <img src="../img/types/water.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/223.png" width="40" /> **[Remoraid](../pokemon/remoraid.md)**  ➡️  <img src="../img/pokemon/224.png" width="40" /> **[Octillery](../pokemon/octillery.md)** (Lv. 25)
+<img src="../img/pokemon/223.png" width="40" /> **[Remoraid]( remoraid.md)** ➡️ Lv. 25 ➡️ <img src="../img/pokemon/224.png" width="40" /> **[Octillery]( octillery.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/electric.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x2.0 |
-| <img src='../img/types/fire.png' width='40' /> | x0.5 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/ice.png' width='40' /> | x0.5 |
-| <img src='../img/types/steel.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fire.png' width='40' /> | <img src='../img/types/electric.png' width='40' /> |  |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/grass.png' width='40' /> |  |
+|  | <img src='../img/types/ice.png' width='40' /> |  |  |
+|  | <img src='../img/types/steel.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -38,7 +36,7 @@
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Undella Town](../routes/undella-town.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
-| [Undella Bay](../routes/undella-bay.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
+| [Undella Bay All Seasons](../routes/undella-bay-all-seasons.md) | <img src='../img/items/grass-special.png' width='20' /> Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP | Change |

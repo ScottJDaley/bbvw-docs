@@ -7,7 +7,7 @@ Original: <img src="../img/types/psychic.png" width="60" />
 New: <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/dark.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/574.png" width="40" /> **[Gothita](../pokemon/gothita.md)**  ➡️  <img src="../img/pokemon/575.png" width="40" /> **[Gothorita](../pokemon/gothorita.md)** (Lv. 32)  ➡️  <img src="../img/pokemon/576.png" width="40" /> **[Gothitelle](../pokemon/gothitelle.md)** (Lv. 41)
+<img src="../img/pokemon/574.png" width="40" /> **[Gothita]( gothita.md)** ➡️ Lv. 32 ➡️ <img src="../img/pokemon/575.png" width="40" /> **[Gothorita]( gothorita.md)** ➡️ Lv. 41 ➡️ <img src="../img/pokemon/576.png" width="40" /> **[Gothitelle]( gothitelle.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -16,10 +16,9 @@ New: <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/da
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Magic Bounce](../abilities/magic-bounce.md)**: Reflects most non-damaging moves back at their user. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x4.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.0 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+| <img src='../img/types/psychic.png' width='40' /> |  |  | <img src='../img/types/bug.png' width='40' /> |
 
 ## Base Stats
 | Stat | Value | Bar |

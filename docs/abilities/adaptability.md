@@ -4,6 +4,7 @@
 Increases the same-type attack bonus from 1.5× to 2×.
 
 ## Pokemon with this Ability
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Corphish](../pokemon/corphish.md)
 - [Crawdaunt](../pokemon/crawdaunt.md)

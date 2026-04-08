@@ -6,7 +6,7 @@
 <img src="../img/types/poison.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f](../pokemon/nidoran-f.md)**  ➡️  <img src="../img/pokemon/030.png" width="40" /> **[Nidorina](../pokemon/nidorina.md)** (Lv. 16)  ➡️  <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen](../pokemon/nidoqueen.md)** (Use moon-stone)
+<img src="../img/pokemon/029.png" width="40" /> **[Nidoran-f]( nidoran-f.md)** ➡️ Lv. 16 ➡️ <img src="../img/pokemon/030.png" width="40" /> **[Nidorina]( nidorina.md)** ➡️ Use moon-stone ➡️ <img src="../img/pokemon/031.png" width="40" /> **[Nidoqueen]( nidoqueen.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,14 +15,12 @@
 | Ability 2 | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/ground.png' width='40' /> | x2.0 |
-| <img src='../img/types/psychic.png' width='40' /> | x2.0 |
-| <img src='../img/types/grass.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/poison.png' width='40' /> | x0.5 |
-| <img src='../img/types/bug.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/ground.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/psychic.png' width='40' /> |  |
+|  | <img src='../img/types/poison.png' width='40' /> |  |  |
+|  | <img src='../img/types/bug.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |

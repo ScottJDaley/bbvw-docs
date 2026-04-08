@@ -6,7 +6,9 @@
 <img src="../img/types/psychic.png" width="60" /> <img src="../img/types/fairy.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/280.png" width="40" /> **[Ralts](../pokemon/ralts.md)**  ➡️  <img src="../img/pokemon/281.png" width="40" /> **[Kirlia](../pokemon/kirlia.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/282.png" width="40" /> **[Gardevoir](../pokemon/gardevoir.md)** (Lv. 30) | <img src="../img/pokemon/475.png" width="40" /> **[Gallade](../pokemon/gallade.md)** (Use dawn-stone)
+<img src="../img/pokemon/280.png" width="40" /> **[Ralts]( ralts.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/281.png" width="40" /> **[Kirlia]( kirlia.md)** ➡️ Lv. 30 ➡️ <img src="../img/pokemon/282.png" width="40" /> **[Gardevoir]( gardevoir.md)**
+
+<img src="../img/pokemon/280.png" width="40" /> **[Ralts]( ralts.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/281.png" width="40" /> **[Kirlia]( kirlia.md)** ➡️ Use dawn-stone ➡️ <img src="../img/pokemon/475.png" width="40" /> **[Gallade]( gallade.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,13 +17,11 @@
 | Ability 2 | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/ghost.png' width='40' /> | x2.0 |
-| <img src='../img/types/dark.png' width='40' /> | x2.0 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/psychic.png' width='40' /> | x0.5 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/psychic.png' width='40' /> | <img src='../img/types/ghost.png' width='40' /> |  |
+|  |  | <img src='../img/types/dark.png' width='40' /> |  |
 
 ## Base Stats
 | Stat | Value | Bar |

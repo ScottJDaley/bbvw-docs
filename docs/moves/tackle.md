@@ -16,6 +16,7 @@ Inflicts regular damage with no additional effect.
 - [Ampharos](../pokemon/ampharos.md)
 - [Aron](../pokemon/aron.md)
 - [Azumarill](../pokemon/azumarill.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Bayleef](../pokemon/bayleef.md)

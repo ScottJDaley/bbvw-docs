@@ -22,6 +22,7 @@ User bounces high into the air, dodging all attacks, and hits next turn.
 - [Azumarill](../pokemon/azumarill.md)
 - [Azurill](../pokemon/azurill.md)
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Blaziken](../pokemon/blaziken.md)
 - [Blitzle](../pokemon/blitzle.md)

@@ -6,7 +6,7 @@
 <img src="../img/types/bug.png" width="60" /> <img src="../img/types/grass.png" width="60" />
 
 ## Evolution
-<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle](../pokemon/sewaddle.md)**  ➡️  <img src="../img/pokemon/541.png" width="40" /> **[Swadloon](../pokemon/swadloon.md)** (Lv. 20)  ➡️  <img src="../img/pokemon/542.png" width="40" /> **[Leavanny](../pokemon/leavanny.md)** (Happiness)
+<img src="../img/pokemon/540.png" width="40" /> **[Sewaddle]( sewaddle.md)** ➡️ Lv. 20 ➡️ <img src="../img/pokemon/541.png" width="40" /> **[Swadloon]( swadloon.md)** ➡️ Happiness ➡️ <img src="../img/pokemon/542.png" width="40" /> **[Leavanny]( leavanny.md)**
 
 ## Abilities
 | Slot | Original | New |
@@ -15,19 +15,13 @@
 | Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 
 ## Type Defenses
-| Type | Effectiveness |
-| --- | --- |
-| <img src='../img/types/fire.png' width='40' /> | x4.0 |
-| <img src='../img/types/flying.png' width='40' /> | x4.0 |
-| <img src='../img/types/ice.png' width='40' /> | x2.0 |
-| <img src='../img/types/poison.png' width='40' /> | x2.0 |
-| <img src='../img/types/bug.png' width='40' /> | x2.0 |
-| <img src='../img/types/rock.png' width='40' /> | x2.0 |
-| <img src='../img/types/water.png' width='40' /> | x0.5 |
-| <img src='../img/types/electric.png' width='40' /> | x0.5 |
-| <img src='../img/types/fighting.png' width='40' /> | x0.5 |
-| <img src='../img/types/grass.png' width='40' /> | x0.25 |
-| <img src='../img/types/ground.png' width='40' /> | x0.25 |
+| 0x | 0.5x | 2x | 4x |
+| --- | --- | --- | --- |
+|  | <img src='../img/types/water.png' width='40' /> | <img src='../img/types/ice.png' width='40' /> | <img src='../img/types/fire.png' width='40' /> |
+|  | <img src='../img/types/electric.png' width='40' /> | <img src='../img/types/poison.png' width='40' /> | <img src='../img/types/flying.png' width='40' /> |
+|  | <img src='../img/types/grass.png' width='40' /> | <img src='../img/types/bug.png' width='40' /> |  |
+|  | <img src='../img/types/fighting.png' width='40' /> | <img src='../img/types/rock.png' width='40' /> |  |
+|  | <img src='../img/types/ground.png' width='40' /> |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -42,7 +36,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
+| [Pinwheel Forest Outside](../routes/pinwheel-forest-outside.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 | [Lostlorn Forest](../routes/lostlorn-forest.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 5% |
 | [Route 12](../routes/route-12.md) | <img src='../img/items/grass-doubles.png' width='20' /> Grass, Doubles | 10% |
 

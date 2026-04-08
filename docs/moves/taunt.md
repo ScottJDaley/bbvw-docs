@@ -24,6 +24,7 @@ For the next few turns, the target can only use damaging moves.
 - [Axew](../pokemon/axew.md)
 - [Azelf](../pokemon/azelf.md)
 - [Banette](../pokemon/banette.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Bastiodon](../pokemon/bastiodon.md)
 - [Beartic](../pokemon/beartic.md)

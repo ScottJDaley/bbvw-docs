@@ -9474,7 +9474,7 @@
   },
   "wild_pokemon": [
     {
-      "name": "Unless otherwise stated, fishing encounters have not been edited.",
+      "name": "Recall that no shaking grass will appear until after the first badge has been obtained!",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -9646,7 +9646,8 @@
           "pokemon": "Milotic",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 2",
@@ -9736,7 +9737,8 @@
           "pokemon": "Dustox",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Striaton City",
@@ -9776,7 +9778,8 @@
           "pokemon": "Staryu",
           "rate": 40
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Dreamyard",
@@ -9906,7 +9909,8 @@
           "pokemon": "Solrock",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 3",
@@ -10116,10 +10120,11 @@
           "pokemon": "Remoraid",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Wellspring Cave 1F",
+      "name": "Wellspring Cave 1F 1F",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -10306,10 +10311,11 @@
           "pokemon": "Cloyster",
           "rate": 100
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Pinwheel Forest",
+      "name": "Pinwheel Forest Outside",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -10616,6 +10622,9 @@
           "pokemon": "Politoed",
           "rate": 5
         }
+      ],
+      "specials": [
+        "LEGENDARY ENCOUNTER\n\nVictini, Level 20\nLiberty Tower Basement\n\nThere are no Wild Pokemon in here as usual, but this is the only place to catch Victini. It is currently impossible to give the ticket in-game and have it work fully. \n\nYou will need your .sav file. If you are using a flashcard such as an R4 or an Acekard, then it is likely to be readily available; you will just need to utilize your .sav file. Those of you using DeSmuME will have to use the Export Backup Memory found in the File drop-down, which will export your .dsv as a .sav. Finally, no$gba users will have to use the savegames converter to change the .sav in their BATTERY folder into a regular .sav.\n\nYou then need to load up your .sav with the Pok\u00e9mon Mystery Gift Editor, made by Grovyle91. The setup was included in the download for the patch. If somehow you have this document but NOT the enclosed setup, you can download it here. Once installed, you will also need the .pgf file for the Liberty Ticket event. This also came with the download, but if you are missing it then you can get it from here.\n\nThe rest is simple; load up your .sav with the Pok\u00e9mon Mystery Gift Editor (you don\u2019t even need to take it off the storage device if you\u2019re using a flashcard!) Once the new bit opens, click on Import PGF (change the Current Gift if you happen to already have wonder cards on there) and choose the Liberty Ticket pgf. Once loaded, simply hit the Save button at the top. This will save the Wonder Card to your save file.\n\nFlashcards already have their .sav ready to play, but for the others; DeSmuME users should use the Import Backup Memory under the file tab to bring in the newly edited .sav. Be sure to reset the ROM afterwards for the best results. No$gba users can simply slot their .sav in the BATTERY folder and it should convert back to the no$ format automatically when the ROM is booted.\n\nWith the wonder card loaded, simply go into any Pok\u00e9mon Center and talk to the blue guy on the right. You will get the Liberty Ticket and all required flags will be activated, allowing you to sail on the ship at the far left port of the city to the island. It\u2019s all normal from there. Note that the trainer levels are sufficent for you to catch Victini the moment you first reach Castelia City. \n\nDon\u2019t let the length of the words fool you; it\u2019s simple!"
       ]
     },
     {
@@ -10731,10 +10740,11 @@
           "pokemon": "Relicanth",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Desert Resort",
+      "name": "Desert Resort Entrance",
       "encounters": [
         {
           "method": "Sand",
@@ -10826,10 +10836,11 @@
           "pokemon": "Mandibuzz",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Relic Castle",
+      "name": "Relic Castle 1F",
       "encounters": [
         {
           "method": "Sand",
@@ -11026,7 +11037,8 @@
           "pokemon": "Unown",
           "rate": 100
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 5",
@@ -11161,7 +11173,8 @@
           "pokemon": "Braviary",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 16",
@@ -11281,7 +11294,8 @@
           "pokemon": "Lopunny",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Lostlorn Forest",
@@ -11471,7 +11485,8 @@
           "pokemon": "Gyarados",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Driftveil Drawbidge",
@@ -11501,7 +11516,8 @@
           "pokemon": "Hoppip",
           "rate": 20
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Driftveil City",
@@ -11566,7 +11582,8 @@
           "pokemon": "Mantyke",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Cold Storage",
@@ -11661,7 +11678,8 @@
           "pokemon": "Mienshao",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 6 \u2013 Spring / Summer / Autumn",
@@ -12016,10 +12034,11 @@
           "pokemon": "Lanturn",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Chargestone Cave",
+      "name": "Chargestone Cave 1F",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -12181,7 +12200,8 @@
           "pokemon": "Dugtrio",
           "rate": 50
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 7 \u2013 All Seasons",
@@ -12301,10 +12321,11 @@
           "pokemon": "Gliscor",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Celestial Tower",
+      "name": "Celestial Tower 2F, 3F",
       "encounters": [
         {
           "method": "Tower, Normal",
@@ -12416,7 +12437,8 @@
           "pokemon": "Spiritomb",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 17",
@@ -12465,7 +12487,13 @@
           "method": "Fish, Special",
           "pokemon": "Corsola",
           "rate": 40
-        },
+        }
+      ],
+      "specials": []
+    },
+    {
+      "name": "Route 17",
+      "encounters": [
         {
           "method": "Grass, Normal",
           "pokemon": "Throh",
@@ -12616,7 +12644,8 @@
           "pokemon": "Tentacruel",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "P2 Laboratory",
@@ -12711,7 +12740,8 @@
           "pokemon": "Crawdaunt",
           "rate": 40
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Mistralton Cave 1F \u2013 2F",
@@ -12816,10 +12846,11 @@
           "pokemon": "Dugtrio",
           "rate": 50
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Twist Mountain",
+      "name": "Twist Mountain 1F - All Seasons",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -12941,7 +12972,8 @@
           "pokemon": "Dugtrio",
           "rate": 50
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Icirrus City, Route 8",
@@ -13051,7 +13083,8 @@
           "pokemon": "Whiscash",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Moor of Icirrus",
@@ -13141,10 +13174,11 @@
           "pokemon": "Whiscash",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Dragonspiral Tower",
+      "name": "Dragonspiral Tower Outside (Both Areas) \u2013 Spring, Summer, Autumn",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13401,7 +13435,8 @@
           "pokemon": "Golurk",
           "rate": 50
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 9",
@@ -13501,10 +13536,11 @@
           "pokemon": "Reuniclus",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Route 10",
+      "name": "Route 10 Main Route",
       "encounters": [
         {
           "method": "Grass, Normal",
@@ -13681,10 +13717,11 @@
           "pokemon": "Blissey",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Victory Road",
+      "name": "Victory Road Outside",
       "encounters": [
         {
           "method": "Rocky Grass",
@@ -13896,6 +13933,9 @@
           "pokemon": "Sandslash",
           "rate": 25
         }
+      ],
+      "specials": [
+        "LEGENDARY ENCOUNTER\n /\nReshiram (Blaze Black) | Zekrom (Volt White)\nLevel 70\nN\u2019s Castle"
       ]
     },
     {
@@ -14046,7 +14086,8 @@
           "pokemon": "Seaking",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Village Bridge",
@@ -14186,7 +14227,8 @@
           "pokemon": "Sharpedo",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 12",
@@ -14266,7 +14308,8 @@
           "pokemon": "Vespiquen",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 13",
@@ -14436,7 +14479,8 @@
           "pokemon": "Cloyster",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Giant Chasm \u2013 Outside Area",
@@ -14545,7 +14589,13 @@
           "method": "Grass, Special",
           "pokemon": "Nidoqueen",
           "rate": 5
-        },
+        }
+      ],
+      "specials": []
+    },
+    {
+      "name": "Giant Chasm \u2013 Outside Area",
+      "encounters": [
         {
           "method": "Cave, Normal",
           "pokemon": "Woobat",
@@ -14635,7 +14685,13 @@
           "method": "Fish, Special",
           "pokemon": "Poliwrath",
           "rate": 5
-        },
+        }
+      ],
+      "specials": []
+    },
+    {
+      "name": "Giant Chasm \u2013 Outside Area",
+      "encounters": [
         {
           "method": "Grass, Normal",
           "pokemon": "Clefairy",
@@ -14741,7 +14797,8 @@
           "pokemon": "Metagross",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Undella Town",
@@ -14796,10 +14853,11 @@
           "pokemon": "Cloyster",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Undella Bay",
+      "name": "Undella Bay All Seasons",
       "encounters": [
         {
           "method": "Surf, Normal",
@@ -14856,7 +14914,8 @@
           "pokemon": "Cloyster",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 14",
@@ -14996,7 +15055,8 @@
           "pokemon": "Seaking",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Abundant Shrine",
@@ -15151,7 +15211,8 @@
           "pokemon": "Seaking",
           "rate": 10
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Route 15",
@@ -15266,7 +15327,8 @@
           "pokemon": "Conkeldurr",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     },
     {
       "name": "Marvelous Bridge",
@@ -15296,10 +15358,11 @@
           "pokemon": "Skiploom",
           "rate": 20
         }
-      ]
+      ],
+      "specials": []
     },
     {
-      "name": "Challenger\u2019s Cave \u2013 All Floors",
+      "name": "Challenger\u2019s Cave \u2013 All Floors 1F",
       "encounters": [
         {
           "method": "Cave, Normal",
@@ -15506,7 +15569,8 @@
           "pokemon": "Politoed",
           "rate": 5
         }
-      ]
+      ],
+      "specials": []
     }
   ],
   "move_changes": {

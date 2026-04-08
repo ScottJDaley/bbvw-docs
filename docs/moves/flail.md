@@ -13,6 +13,7 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 
 ## Learned by
 - [Barboach](../pokemon/barboach.md)
+- [Basculin](../pokemon/basculin.md)
 - [Basculin-red-striped](../pokemon/basculin-red-striped.md)
 - [Beartic](../pokemon/beartic.md)
 - [Bonsly](../pokemon/bonsly.md)
