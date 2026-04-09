@@ -57,7 +57,7 @@ def load_data():
     with open(os.path.join(DATA_DIR, "romhack_data.json"), 'r') as f: romhack = json.load(f)
     return base, romhack
 
-def get_move_display(m_name, move_data, move_stat_changes, base_path="../"):
+def get_move_display(m_name, move_data, move_stat_changes, base_path="../", show_tm=False):
     m_info = move_data.get(m_name)
     if not m_info: return f"| - | {m_name.replace('-', ' ').capitalize()} | - | - | - | - |"
     
@@ -71,8 +71,13 @@ def get_move_display(m_name, move_data, move_stat_changes, base_path="../"):
     acc = format_stat('accuracy', m_info['accuracy'])
     type_icon = f'![{m_info["type"]}]({base_path}img/types/{m_info["type"]}.png)'
     cat_icon = f'![{m_info["damage_class"]}]({base_path}img/types/{m_info["damage_class"]}.png){{ style="vertical-align:middle; object-fit:contain;" }}'
-    tm_num = m_info.get('tm_num', '')
-    display_name = f"{tm_num + ' ' if tm_num else ''}{m_info['name'].replace('-', ' ').capitalize()}"
+    
+    display_name = m_info['name'].replace('-', ' ').capitalize()
+    
+    if show_tm:
+        tm_num = m_info.get('tm_num', '-')
+        return f"| {tm_num} | {type_icon} | [{display_name}]({base_path}moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
+    
     return f"| {type_icon} | [{display_name}]({base_path}moves/{m_info['name']}.md) | {cat_icon} | {power} | {acc} | {m_info['pp']} |"
 
 def get_full_evolution_chains(p_base):
@@ -119,6 +124,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     md = f"# {name.capitalize()}\n\n"
     md += f'![{name}](../img/pokemon/{p_base["id"]:03}.png)\n\n'
     
+    # Types
     types_orig = p_base['types']
     types_new = p_rom.get('types')
     curr_types = types_new if types_new else types_orig
@@ -129,25 +135,92 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     else:
         md += ' '.join([f'![{t}](../img/types/{t}.png)' for t in types_orig]) + "\n\n"
         
+    # Evolution (Markdown Table for vertical alignment)
     md += "## Evolution\n"
     paths = get_full_evolution_chains(p_base)
+    # Determine max stages across all paths
+    max_stages = max(len(p) for p in paths)
+    
+    # We'll use a 2n-1 column table (Stage, Arrow, Stage, Arrow...)
+    header = "|" + " | ".join(["Stage" if i%2==0 else "" for i in range(2*max_stages-1)]) + " |"
+    sep = "|" + " | ".join([":---:" for i in range(2*max_stages-1)]) + " |"
+    md += header + "\n" + sep + "\n"
+    
     for path in paths:
-        path_md = []
-        for i, step in enumerate(path):
-            p_norm = normalize_name(step['name'])
-            p_info = base_data.get(p_norm)
-            sprite = f'![{step["name"]}](../img/pokemon/{p_info["id"]:03}.png)' if p_info else ""
-            rom_evo_method = ""
-            if p_rom.get('evolution'):
-                for rev in p_rom['evolution']:
-                    if rev['target'] and normalize_name(rev['target']) == p_norm: rom_evo_method = rev['method']
-            if i > 0:
-                method_display = rom_evo_method if rom_evo_method else step['method']
-                label_class = 'class="rom-label"' if rom_evo_method else 'class="evo-method"'
-                path_md.append(f'<div class="evo-arrow"><div>➡️</div><div {label_class}>{method_display}</div></div>')
-            path_md.append(f'<div class="evo-item">{sprite}<div style="font-weight: bold; font-size: 0.9em;">[{step["name"].capitalize()}]( {p_norm}.md)</div></div>')
-        md += f'<div class="evo-chain">{"".join(path_md)}</div>\n\n'
+        row = "|"
+        for i in range(max_stages):
+            if i < len(path):
+                step = path[i]
+                p_norm = normalize_name(step['name'])
+                p_info = base_data.get(p_norm)
+                sprite = f'![{step["name"]}](../img/pokemon/{p_info["id"]:03}.png)' if p_info else ""
+                rom_method = ""
+                if p_rom.get('evolution'):
+                    for rev in p_rom['evolution']:
+                        if rev['target'] and normalize_name(rev['target']) == p_norm: rom_method = rev['method']
+                
+                method_txt = rom_method if rom_method else step['method']
+                label_style = ' <span class="rom-label">ROM</span>' if rom_method else ""
+                
+                # First col is pkmn
+                row += f" {sprite}<br>**[{step['name'].capitalize()}]( {p_norm}.md)** |"
+                # Next col is arrow/method if not last in path
+                if i < max_stages - 1:
+                    if i < len(path) - 1:
+                        next_method = path[i+1]['method']
+                        # Check ROM for next step
+                        next_p_norm = normalize_name(path[i+1]['name'])
+                        next_p_rom = rom_data['pokemon_changes'].get(path[i+1]['name'].lower(), {})
+                        next_rom_method = ""
+                        # Wait, we need the ROM method for the NEXT pokemon in the chain relative to THIS pokemon
+                        # Actually we already checked it above for 'step'
+                        # Let's just use the current step's method for the arrow leading TO it.
+                        row += " |" # Arrow column placeholder, we'll fill it in next iteration? No.
+                    else:
+                        row += " |"
+            else:
+                row += " | |" # Empty stage and arrow
+        
+        # Correct row building: 
+        # Path: [A, B, C]
+        # Cols: A | arrow B | B | arrow C | C
+        row_parts = []
+        for i in range(max_stages):
+            if i < len(path):
+                step = path[i]
+                p_norm = normalize_name(step['name'])
+                p_info = base_data.get(p_norm)
+                sprite = f'![{step["name"]}](../img/pokemon/{p_info["id"]:03}.png)' if p_info else ""
+                row_parts.append(f"{sprite}<br>**[{step['name'].capitalize()}]( {p_norm}.md)**")
+                if i < max_stages - 1:
+                    if i + 1 < len(path):
+                        # Arrow to next
+                        next_step = path[i+1]
+                        next_p_norm = normalize_name(next_step['name'])
+                        # Check for ROM method FOR NEXT POKEMON
+                        rom_method = ""
+                        # Evolution changes are stored in the ROM data of the BASE pokemon
+                        # But wait, our p_rom is for the CURRENT page pokemon. 
+                        # We need the p_rom for the pokemon that IS evolving.
+                        current_p_rom = rom_data['pokemon_changes'].get(step['name'].lower(), {})
+                        if current_p_rom.get('evolution'):
+                            for rev in current_p_rom['evolution']:
+                                if rev['target'] and normalize_name(rev['target']) == next_p_norm:
+                                    rom_method = rev['method']
+                        
+                        m_txt = rom_method if rom_method else next_step['method']
+                        style = ' <br><span class="rom-label">ROM</span>' if rom_method else ""
+                        row_parts.append(f"➡️<br>{m_txt}{style}")
+                    else:
+                        row_parts.append("")
+            else:
+                row_parts.append("")
+                if i < max_stages - 1: row_parts.append("")
+        
+        md += "|" + " | ".join(row_parts) + " |\n"
+    md += "\n"
 
+    # Abilities
     md += "## Abilities\n"
     ab1_new = extract_specific_ability(p_rom.get('abilities', {}).get('one', ''), name)
     ab2_new = extract_specific_ability(p_rom.get('abilities', {}).get('two', ''), name)
@@ -164,6 +237,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     new2 = ab2_new if ab2_new else (orig2 if orig2 != "-" else "-")
     md += f"| Ability 2 | {get_ab_info(orig2) if orig2 != '-' else '-'} | {get_ab_info(new2) if new2 != '-' else '-'} |\n\n"
     
+    # Base Happiness
     md += "## Base Happiness\n"
     hap = p_rom.get('happiness')
     if hap:
@@ -171,6 +245,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         else: md += f'{hap["new"]}\n\n'
     else: md += "70\n\n"
 
+    # Held Items
     md += "## Held Items\n"
     if p_rom.get('items'):
         for item in p_rom['items']:
@@ -180,6 +255,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     else: md += "None\n"
     md += "\n"
 
+    # Type Defenses
     md += "## Type Defenses\n"
     eff = get_type_effectiveness(curr_types)
     md += "| 0x | 0.5x | 1x | 2x | 4x |\n| --- | --- | --- | --- | --- |\n"
@@ -260,12 +336,12 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     for m in all_moves:
         row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
         marker, change_text = m.get('marker', ''), ""
-        if marker in ['+', '-']: change_text = '<span class="pill pill-new">NEW</span> '
-        elif marker == 'REMOVED': change_text = '<span class="pill pill-removed">REMOVED</span> '
+        if marker in ['+', '-']: change_text = ' <span class="pill pill-new">NEW</span>'
+        elif marker == 'REMOVED': change_text = ' <span class="pill pill-removed">REMOVED</span>'
         elif marker == '=':
             old_lv = next((x['level'] for x in base_lv_moves if x['name'] == m['name']), "?")
-            change_text = f'<span class="pill pill-shifted">SHIFTED (from {old_lv})</span> '
-        md += f"| {change_text}{m['level']} {row}\n"
+            change_text = f' <span class="pill pill-shifted">SHIFTED (from {old_lv})</span>'
+        md += f"| {m['level']}{change_text} {row}\n"
     
     learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
     rom_machines = p_rom.get('tm_hm', [])
@@ -277,11 +353,16 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
 
     def gen_move_table(title, moves_list):
         if not moves_list: return ""
-        res = f"\n## {title}\n| Type | Move | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n"
+        res = f"\n## {title}\n| No. | Type | Move | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
         moves_list.sort(key=lambda x: x['name'])
         for m in moves_list:
-            row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'])
-            res += "|" + "|".join(row.split('|')[1:]) + "\n"
+            row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'], show_tm=True)
+            # Add NEW pill to No. column if rom_new
+            if m.get('rom_new'):
+                row_parts = row.split('|')
+                row_parts[1] = row_parts[1] + ' <span class="pill pill-new">NEW</span>'
+                row = "|".join(row_parts)
+            res += row + "\n"
         return res
     md += gen_move_table("TM Moves", [m for m in learnable if m['method'] == 'machine' and move_data.get(m['name'], {}).get('tm_num', '').startswith('TM')])
     md += gen_move_table("HM Moves", [m for m in learnable if m['method'] == 'machine' and move_data.get(m['name'], {}).get('tm_num', '').startswith('HM')])
@@ -412,7 +493,8 @@ if __name__ == "__main__":
     for r_name in all_locations:
         r_data = next((r for r in romhack['wild_pokemon'] if r['name'] == r_name), None)
         md = generate_route_page(r_name, r_data, base['pokemon'], romhack['trainers'])
-        with open(os.path.join("docs/routes", f"{normalize_name(r_name)}.md"), 'w') as f: f.write(md)
+        fname = normalize_name(r_name)
+        with open(os.path.join("docs/routes", f"{fname}.md"), 'w') as f: f.write(md)
     with open("docs/routes/index.md", 'w') as f:
         f.write("# Routes\n\n")
         for r_name in all_locations: f.write(f"- [{r_name}]({normalize_name(r_name)}.md)\n")

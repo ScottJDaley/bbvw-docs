@@ -6,9 +6,10 @@
 ![bug](../img/types/bug.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![wurmple](../img/pokemon/265.png)<div style="font-weight: bold; font-size: 0.9em;">[Wurmple]( wurmple.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 7</div></div><div class="evo-item">![silcoon](../img/pokemon/266.png)<div style="font-weight: bold; font-size: 0.9em;">[Silcoon]( silcoon.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 10</div></div><div class="evo-item">![beautifly](../img/pokemon/267.png)<div style="font-weight: bold; font-size: 0.9em;">[Beautifly]( beautifly.md)</div></div></div>
-
-<div class="evo-chain"><div class="evo-item">![wurmple](../img/pokemon/265.png)<div style="font-weight: bold; font-size: 0.9em;">[Wurmple]( wurmple.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 7</div></div><div class="evo-item">![cascoon](../img/pokemon/268.png)<div style="font-weight: bold; font-size: 0.9em;">[Cascoon]( cascoon.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 10</div></div><div class="evo-item">![dustox](../img/pokemon/269.png)<div style="font-weight: bold; font-size: 0.9em;">[Dustox]( dustox.md)</div></div></div>
+|Stage |  | Stage |  | Stage |
+|:---: | :---: | :---: | :---: | :---: |
+|![wurmple](../img/pokemon/265.png)<br>**[Wurmple]( wurmple.md)** | ➡️<br>Lv. 7 | ![silcoon](../img/pokemon/266.png)<br>**[Silcoon]( silcoon.md)** | ➡️<br>Lv. 10 | ![beautifly](../img/pokemon/267.png)<br>**[Beautifly]( beautifly.md)** |
+|![wurmple](../img/pokemon/265.png)<br>**[Wurmple]( wurmple.md)** | ➡️<br>Lv. 7 | ![cascoon](../img/pokemon/268.png)<br>**[Cascoon]( cascoon.md)** | ➡️<br>Lv. 10 | ![dustox](../img/pokemon/269.png)<br>**[Dustox]( dustox.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -54,20 +55,20 @@ Evolve from [Wurmple](../pokemon/wurmple.md)
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <span class="pill pill-shifted">SHIFTED (from ?)</span> 1 | ![poison](../img/types/poison.png) | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
-| <span class="pill pill-shifted">SHIFTED (from ?)</span> 1 | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 1 <span class="pill pill-shifted">SHIFTED (from ?)</span> | ![poison](../img/types/poison.png) | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
+| 1 <span class="pill pill-shifted">SHIFTED (from ?)</span> | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 1 | ![normal](../img/types/normal.png) | [Harden](../moves/harden.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
-| <span class="pill pill-new">NEW</span> 10 | ![flying](../img/types/flying.png) | [Air cutter](../moves/air-cutter.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 |
-| <span class="pill pill-new">NEW</span> 10 | ![poison](../img/types/poison.png) | [Clear smog](../moves/clear-smog.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | - | 15 |
-| <span class="pill pill-new">NEW</span> 10 | ![bug](../img/types/bug.png) | [TM76 Struggle bug](../moves/struggle-bug.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
-| <span class="pill pill-new">NEW</span> 17 | ![grass](../img/types/grass.png) | [Sleep powder](../moves/sleep-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |
-| <span class="pill pill-new">NEW</span> 17 | - | Reflect, light screen | - | - | - | - |
-| <span class="pill pill-new">NEW</span> 49 | ![flying](../img/types/flying.png) | [Air slash](../moves/air-slash.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
-| <span class="pill pill-new">NEW</span> 49 | ![flying](../img/types/flying.png) | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 10 <span class="pill pill-new">NEW</span> | ![flying](../img/types/flying.png) | [Air cutter](../moves/air-cutter.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 |
+| 10 <span class="pill pill-new">NEW</span> | ![poison](../img/types/poison.png) | [Clear smog](../moves/clear-smog.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | - | 15 |
+| 10 <span class="pill pill-new">NEW</span> | ![bug](../img/types/bug.png) | [Struggle bug](../moves/struggle-bug.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
+| 17 <span class="pill pill-new">NEW</span> | ![grass](../img/types/grass.png) | [Sleep powder](../moves/sleep-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |
+| 17 <span class="pill pill-new">NEW</span> | - | Reflect, light screen | - | - | - | - |
+| 49 <span class="pill pill-new">NEW</span> | ![flying](../img/types/flying.png) | [Air slash](../moves/air-slash.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
+| 49 <span class="pill pill-new">NEW</span> | ![flying](../img/types/flying.png) | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 
 ## Tutor Moves
-| Type | Move | Cat | Power | Acc | PP |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
-| ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
-| ![steel](../img/types/steel.png) | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| No. | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+|  | ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+|  | ![steel](../img/types/steel.png) | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |

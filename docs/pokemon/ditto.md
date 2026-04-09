@@ -6,7 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![ditto](../img/pokemon/132.png)<div style="font-weight: bold; font-size: 0.9em;">[Ditto]( ditto.md)</div></div></div>
+|Stage |
+|:---: |
+|![ditto](../img/pokemon/132.png)<br>**[Ditto]( ditto.md)** |
 
 ## Abilities
 | Slot | Original | New |

@@ -6,7 +6,9 @@
 ![psychic](../img/types/psychic.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![wynaut](../img/pokemon/360.png)<div style="font-weight: bold; font-size: 0.9em;">[Wynaut]( wynaut.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 15</div></div><div class="evo-item">![wobbuffet](../img/pokemon/202.png)<div style="font-weight: bold; font-size: 0.9em;">[Wobbuffet]( wobbuffet.md)</div></div></div>
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![wynaut](../img/pokemon/360.png)<br>**[Wynaut]( wynaut.md)** | ➡️<br>Lv. 15 | ![wobbuffet](../img/pokemon/202.png)<br>**[Wobbuffet]( wobbuffet.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -58,8 +60,8 @@ None
 | 1 | ![normal](../img/types/normal.png) | [Splash](../moves/splash.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 1 | ![fairy](../img/types/fairy.png) | [Charm](../moves/charm.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 1 | ![normal](../img/types/normal.png) | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
-| <span class="pill pill-new">NEW</span> 15 | ![normal](../img/types/normal.png) | [Mimic](../moves/mimic.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 15 <span class="pill pill-new">NEW</span> | ![normal](../img/types/normal.png) | [Mimic](../moves/mimic.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 15 | ![fighting](../img/types/fighting.png) | [Counter](../moves/counter.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 15 | ![ghost](../img/types/ghost.png) | [Destiny bond](../moves/destiny-bond.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| 15 | ![normal](../img/types/normal.png) | [TM20 Safeguard](../moves/safeguard.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 25 |
+| 15 | ![normal](../img/types/normal.png) | [Safeguard](../moves/safeguard.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 25 |
 | 15 | ![psychic](../img/types/psychic.png) | [Mirror coat](../moves/mirror-coat.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |

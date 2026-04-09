@@ -6,7 +6,9 @@
 ![electric](../img/types/electric.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![tynamo](../img/pokemon/602.png)<div style="font-weight: bold; font-size: 0.9em;">[Tynamo]( tynamo.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 39</div></div><div class="evo-item">![eelektrik](../img/pokemon/603.png)<div style="font-weight: bold; font-size: 0.9em;">[Eelektrik]( eelektrik.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Use thunder-stone</div></div><div class="evo-item">![eelektross](../img/pokemon/604.png)<div style="font-weight: bold; font-size: 0.9em;">[Eelektross]( eelektross.md)</div></div></div>
+|Stage |  | Stage |  | Stage |
+|:---: | :---: | :---: | :---: | :---: |
+|![tynamo](../img/pokemon/602.png)<br>**[Tynamo]( tynamo.md)** | ➡️<br>Lv. 39 | ![eelektrik](../img/pokemon/603.png)<br>**[Eelektrik]( eelektrik.md)** | ➡️<br>Use thunder-stone | ![eelektross](../img/pokemon/604.png)<br>**[Eelektross]( eelektross.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -57,13 +59,13 @@ None
 | Level | Type | Move | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
-| 1 | ![electric](../img/types/electric.png) | [TM73 Thunder wave](../moves/thunder-wave.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |
+| 1 | ![electric](../img/types/electric.png) | [Thunder wave](../moves/thunder-wave.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |
 | 1 | ![electric](../img/types/electric.png) | [Spark](../moves/spark.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
-| 1 | ![electric](../img/types/electric.png) | [TM57 Charge beam](../moves/charge-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |
-| <span class="pill pill-new">NEW</span> 54 | ![poison](../img/types/poison.png) | [Coil](../moves/coil.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| <span class="pill pill-new">NEW</span> 64 | ![normal](../img/types/normal.png) | [Super fang](../moves/super-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 1 | ![electric](../img/types/electric.png) | [Charge beam](../moves/charge-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |
+| 54 <span class="pill pill-new">NEW</span> | ![poison](../img/types/poison.png) | [Coil](../moves/coil.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 64 <span class="pill pill-new">NEW</span> | ![normal](../img/types/normal.png) | [Super fang](../moves/super-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
 
 ## Tutor Moves
-| Type | Move | Cat | Power | Acc | PP |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ![electric](../img/types/electric.png) | [Magnet rise](../moves/magnet-rise.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| No. | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | ![electric](../img/types/electric.png) | [Magnet rise](../moves/magnet-rise.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |

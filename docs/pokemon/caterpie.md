@@ -6,7 +6,9 @@
 ![bug](../img/types/bug.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![caterpie](../img/pokemon/010.png)<div style="font-weight: bold; font-size: 0.9em;">[Caterpie]( caterpie.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 7</div></div><div class="evo-item">![metapod](../img/pokemon/011.png)<div style="font-weight: bold; font-size: 0.9em;">[Metapod]( metapod.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 10</div></div><div class="evo-item">![butterfree](../img/pokemon/012.png)<div style="font-weight: bold; font-size: 0.9em;">[Butterfree]( butterfree.md)</div></div></div>
+|Stage |  | Stage |  | Stage |
+|:---: | :---: | :---: | :---: | :---: |
+|![caterpie](../img/pokemon/010.png)<br>**[Caterpie]( caterpie.md)** | ➡️<br>Lv. 7 | ![metapod](../img/pokemon/011.png)<br>**[Metapod]( metapod.md)** | ➡️<br>Lv. 10 | ![butterfree](../img/pokemon/012.png)<br>**[Butterfree]( butterfree.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -54,14 +56,14 @@ None
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <span class="pill pill-shifted">SHIFTED (from 15)</span> 1 | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
-| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| 1 <span class="pill pill-shifted">SHIFTED (from 15)</span> | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 1 <span class="pill pill-new">NEW</span> | ![normal](../img/types/normal.png) | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
 | 1 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | ![bug](../img/types/bug.png) | [String shot](../moves/string-shot.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |
-| <span class="pill pill-new">NEW</span> 6 | ![bug](../img/types/bug.png) | [TM76 Struggle bug](../moves/struggle-bug.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
+| 6 <span class="pill pill-new">NEW</span> | ![bug](../img/types/bug.png) | [Struggle bug](../moves/struggle-bug.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
 
 ## Tutor Moves
-| Type | Move | Cat | Power | Acc | PP |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
-| ![normal](../img/types/normal.png) | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| No. | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+|  | ![normal](../img/types/normal.png) | [Snore](../moves/snore.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |

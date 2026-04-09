@@ -6,7 +6,9 @@
 ![bug](../img/types/bug.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![caterpie](../img/pokemon/010.png)<div style="font-weight: bold; font-size: 0.9em;">[Caterpie]( caterpie.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 7</div></div><div class="evo-item">![metapod](../img/pokemon/011.png)<div style="font-weight: bold; font-size: 0.9em;">[Metapod]( metapod.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 10</div></div><div class="evo-item">![butterfree](../img/pokemon/012.png)<div style="font-weight: bold; font-size: 0.9em;">[Butterfree]( butterfree.md)</div></div></div>
+|Stage |  | Stage |  | Stage |
+|:---: | :---: | :---: | :---: | :---: |
+|![caterpie](../img/pokemon/010.png)<br>**[Caterpie]( caterpie.md)** | ➡️<br>Lv. 7 | ![metapod](../img/pokemon/011.png)<br>**[Metapod]( metapod.md)** | ➡️<br>Lv. 10 | ![butterfree](../img/pokemon/012.png)<br>**[Butterfree]( butterfree.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -55,8 +57,8 @@ Evolve from [Caterpie](../pokemon/caterpie.md)
 | 1 | ![normal](../img/types/normal.png) | [Harden](../moves/harden.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
 
 ## Tutor Moves
-| Type | Move | Cat | Power | Acc | PP |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
-| ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
-| ![steel](../img/types/steel.png) | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| No. | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+|  | ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+|  | ![steel](../img/types/steel.png) | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |

@@ -6,7 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![smeargle](../img/pokemon/235.png)<div style="font-weight: bold; font-size: 0.9em;">[Smeargle]( smeargle.md)</div></div></div>
+|Stage |
+|:---: |
+|![smeargle](../img/pokemon/235.png)<br>**[Smeargle]( smeargle.md)** |
 
 ## Abilities
 | Slot | Original | New |

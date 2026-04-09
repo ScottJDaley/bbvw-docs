@@ -6,7 +6,9 @@
 ![bug](../img/types/bug.png) ![poison](../img/types/poison.png)
 
 ## Evolution
-<div class="evo-chain"><div class="evo-item">![weedle](../img/pokemon/013.png)<div style="font-weight: bold; font-size: 0.9em;">[Weedle]( weedle.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 7</div></div><div class="evo-item">![kakuna](../img/pokemon/014.png)<div style="font-weight: bold; font-size: 0.9em;">[Kakuna]( kakuna.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 10</div></div><div class="evo-item">![beedrill](../img/pokemon/015.png)<div style="font-weight: bold; font-size: 0.9em;">[Beedrill]( beedrill.md)</div></div></div>
+|Stage |  | Stage |  | Stage |
+|:---: | :---: | :---: | :---: | :---: |
+|![weedle](../img/pokemon/013.png)<br>**[Weedle]( weedle.md)** | ➡️<br>Lv. 7 | ![kakuna](../img/pokemon/014.png)<br>**[Kakuna]( kakuna.md)** | ➡️<br>Lv. 10 | ![beedrill](../img/pokemon/015.png)<br>**[Beedrill]( beedrill.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -52,12 +54,12 @@ None
 ## Level Up Moves
 | Level | Type | Move | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| <span class="pill pill-shifted">SHIFTED (from 15)</span> 1 | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 1 <span class="pill pill-shifted">SHIFTED (from 15)</span> | ![bug](../img/types/bug.png) | [Bug bite](../moves/bug-bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 1 | ![poison](../img/types/poison.png) | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
 | 1 | ![bug](../img/types/bug.png) | [String shot](../moves/string-shot.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |
-| <span class="pill pill-new">NEW</span> 6 | ![poison](../img/types/poison.png) | [Poison tail](../moves/poison-tail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
+| 6 <span class="pill pill-new">NEW</span> | ![poison](../img/types/poison.png) | [Poison tail](../moves/poison-tail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
 
 ## Tutor Moves
-| Type | Move | Cat | Power | Acc | PP |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| No. | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  | ![electric](../img/types/electric.png) | [Electroweb](../moves/electroweb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
