@@ -6,7 +6,7 @@
 ![ground](../img/types/ground.png)
 
 ## Evolution
-![groudon](../img/pokemon/383.png) **[Groudon]( groudon.md)**
+<div class="evo-chain"><div class="evo-item">![groudon](../img/pokemon/383.png)<div style="font-weight: bold; font-size: 0.9em;">[Groudon]( groudon.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,46 +14,61 @@
 | Ability 1 | **[Drought](../abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle. | **[Drought](../abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle. |
 | Ability 2 | - | **[Drought](../abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-| ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) |  |
-|  | ![rock](../img/types/rock.png) | ![grass](../img/types/grass.png) |  |
-|  |  | ![ice](../img/types/ice.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+| ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  |
+|  | ![rock](../img/types/rock.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  |  | ![fighting](../img/types/fighting.png) | ![ice](../img/types/ice.png) |  |
+|  |  | ![ground](../img/types/ground.png) |  |  |
+|  |  | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
+|  |  | ![bug](../img/types/bug.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 150 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:75.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 140 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:70.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 90 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:45.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 90 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:45.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Attack | 150 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:75.0%; background:#23CD5E;'></div></div> |
+| Defense | 140 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:70.0%; background:#A0E515;'></div></div> |
+| Special attack | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
+| Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
+| **Total** | **670** | |
 
 ## Locations
 No known wild location.
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![ground](../img/types/ground.png) | [Mud shot](../moves/mud-shot.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |  |
-| 5 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 15 | ![fire](../img/types/fire.png) | [Lava plume](../moves/lava-plume.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |  |
-| 20 | ![fighting](../img/types/fighting.png) | [Hammer arm](../moves/hammer-arm.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 90 | 10 |  |
-| 30 | ![psychic](../img/types/psychic.png) | [TM44 Rest](../moves/rest.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |  |
-| 35 | ![ground](../img/types/ground.png) | [TM26 Earthquake](../moves/earthquake.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |  |
-| 45 | ![rock](../img/types/rock.png) | [Ancient power](../moves/ancient-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |  |
-| 50 | ![fire](../img/types/fire.png) | [Eruption](../moves/eruption.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 100 | 5 |  |
-| 60 | ![fighting](../img/types/fighting.png) | [TM08 Bulk up](../moves/bulk-up.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 65 | ![ground](../img/types/ground.png) | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |  |
-| 75 | ![ground](../img/types/ground.png) | [Fissure](../moves/fissure.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |  |
-| 80 | ![grass](../img/types/grass.png) | [TM22 Solar beam](../moves/solar-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |  |
-| 90 | ![fire](../img/types/fire.png) | [TM38 Fire blast](../moves/fire-blast.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 85 | 5 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | ![ground](../img/types/ground.png) | [Mud shot](../moves/mud-shot.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| 5 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 15 | ![fire](../img/types/fire.png) | [Lava plume](../moves/lava-plume.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
+| 20 | ![fighting](../img/types/fighting.png) | [Hammer arm](../moves/hammer-arm.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 90 | 10 |
+| 30 | ![psychic](../img/types/psychic.png) | [TM44 Rest](../moves/rest.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 35 | ![ground](../img/types/ground.png) | [TM26 Earthquake](../moves/earthquake.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |
+| 45 | ![rock](../img/types/rock.png) | [Ancient power](../moves/ancient-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |
+| 50 | ![fire](../img/types/fire.png) | [Eruption](../moves/eruption.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 100 | 5 |
+| 60 | ![fighting](../img/types/fighting.png) | [TM08 Bulk up](../moves/bulk-up.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 65 | ![ground](../img/types/ground.png) | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 75 | ![ground](../img/types/ground.png) | [Fissure](../moves/fissure.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |
+| 80 | ![grass](../img/types/grass.png) | [TM22 Solar beam](../moves/solar-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| 90 | ![fire](../img/types/fire.png) | [TM38 Fire blast](../moves/fire-blast.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 85 | 5 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | ![fighting](../img/types/fighting.png) | [TM31 Brick break](../moves/brick-break.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | ![ground](../img/types/ground.png) | [TM78 Bulldoze](../moves/bulldoze.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
@@ -97,13 +112,13 @@ No known wild location.
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [Block](../moves/block.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | ![dragon](../img/types/dragon.png) | [Dragon pulse](../moves/dragon-pulse.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
 | ![fire](../img/types/fire.png) | [Fire punch](../moves/fire-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |

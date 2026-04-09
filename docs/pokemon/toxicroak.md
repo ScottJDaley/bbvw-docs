@@ -6,7 +6,7 @@
 ![poison](../img/types/poison.png) ![fighting](../img/types/fighting.png)
 
 ## Evolution
-![croagunk](../img/pokemon/453.png) **[Croagunk]( croagunk.md)** ➡️ Lv. 37 ➡️ ![toxicroak](../img/pokemon/454.png) **[Toxicroak]( toxicroak.md)**
+<div class="evo-chain"><div class="evo-item">![croagunk](../img/pokemon/453.png)<div style="font-weight: bold; font-size: 0.9em;">[Croagunk]( croagunk.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 37</div></div><div class="evo-item">![toxicroak](../img/pokemon/454.png)<div style="font-weight: bold; font-size: 0.9em;">[Toxicroak]( toxicroak.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,25 +14,34 @@
 | Ability 1 | **[Anticipation](../abilities/anticipation.md)**: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | **[Poison Touch](../abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact. |
 | Ability 2 | **[Dry skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | **[Dry Skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) | ![psychic](../img/types/psychic.png) |
-|  | ![fighting](../img/types/fighting.png) | ![flying](../img/types/flying.png) |  |
-|  | ![poison](../img/types/poison.png) |  |  |
-|  | ![bug](../img/types/bug.png) |  |  |
-|  | ![rock](../img/types/rock.png) |  |  |
-|  | ![dark](../img/types/dark.png) |  |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![ground](../img/types/ground.png) | ![psychic](../img/types/psychic.png) |
+|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![flying](../img/types/flying.png) |  |
+|  | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![electric](../img/types/electric.png) |  |  |
+|  | ![rock](../img/types/rock.png) | ![ice](../img/types/ice.png) |  |  |
+|  | ![dark](../img/types/dark.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 83 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:41.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 106 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:53.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 86 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:43.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 85 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:42.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 83 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.5%; background:#FFDD57;'></div></div> |
+| Attack | 106 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.0%; background:#FFDD57;'></div></div> |
+| Defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
+| Special attack | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
+| Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
+| Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
+| **Total** | **490** | |
 
 ## Locations
 | Route | Method | Rate |
@@ -41,27 +50,31 @@
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle, normal](../img/items/grass-normal.png) Puddle, Normal | 10% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![poison](../img/types/poison.png) | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |  |
-| 1 | ![ground](../img/types/ground.png) | [Mud slap](../moves/mud-slap.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |  |
-| 1 | ![ghost](../img/types/ghost.png) | [Astonish](../moves/astonish.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 15 |  |
-| 10 | ![dark](../img/types/dark.png) | [TM12 Taunt](../moves/taunt.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
-| 15 | ![dark](../img/types/dark.png) | [Pursuit](../moves/pursuit.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |  |
-| 17 | ![dark](../img/types/dark.png) | [Feint attack](../moves/feint-attack.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |  |
-| 22 | ![fighting](../img/types/fighting.png) | [Revenge](../moves/revenge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |  |
-| 24 | ![normal](../img/types/normal.png) | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |  |
-| 29 | ![ground](../img/types/ground.png) | [Mud bomb](../moves/mud-bomb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 85 | 10 |  |
-| 31 | ![dark](../img/types/dark.png) | [Sucker punch](../moves/sucker-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |  |
-| 36 | ![poison](../img/types/poison.png) | [TM09 Venoshock](../moves/venoshock.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 10 |  |
-| 41 | ![dark](../img/types/dark.png) | [Nasty plot](../moves/nasty-plot.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 49 | ![poison](../img/types/poison.png) | [TM84 Poison jab](../moves/poison-jab.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |  |
-| 54 | ![poison](../img/types/poison.png) | [TM36 Sludge bomb](../moves/sludge-bomb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |  |
-| 62 | ![dark](../img/types/dark.png) | [Flatter](../moves/flatter.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | - | Thunderpunch | - | - | - | - |
+| <span class="pill pill-new">NEW</span> 1 | ![ice](../img/types/ice.png) | [Ice punch](../moves/ice-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
+| 1 | ![poison](../img/types/poison.png) | [Poison sting](../moves/poison-sting.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
+| 1 | ![ground](../img/types/ground.png) | [Mud slap](../moves/mud-slap.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| 1 | ![ghost](../img/types/ghost.png) | [Astonish](../moves/astonish.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 15 |
+| 10 | ![dark](../img/types/dark.png) | [TM12 Taunt](../moves/taunt.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| 15 | ![dark](../img/types/dark.png) | [Pursuit](../moves/pursuit.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |
+| 17 | ![dark](../img/types/dark.png) | [Feint attack](../moves/feint-attack.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 22 | ![fighting](../img/types/fighting.png) | [Revenge](../moves/revenge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
+| 24 | ![normal](../img/types/normal.png) | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |
+| <span class="pill pill-new">NEW</span> 26 | ![fighting](../img/types/fighting.png) | [Drain punch](../moves/drain-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
+| 29 | ![ground](../img/types/ground.png) | [Mud bomb](../moves/mud-bomb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 85 | 10 |
+| 31 | ![dark](../img/types/dark.png) | [Sucker punch](../moves/sucker-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
+| <span class="pill pill-new">NEW</span> 33 | ![fighting](../img/types/fighting.png) | [Cross chop](../moves/cross-chop.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 80 | 5 |
+| 36 | ![poison](../img/types/poison.png) | [TM09 Venoshock](../moves/venoshock.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 10 |
+| 41 | ![dark](../img/types/dark.png) | [Nasty plot](../moves/nasty-plot.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 49 | ![poison](../img/types/poison.png) | [TM84 Poison jab](../moves/poison-jab.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
+| 54 | ![poison](../img/types/poison.png) | [TM36 Sludge bomb](../moves/sludge-bomb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 62 | ![dark](../img/types/dark.png) | [Flatter](../moves/flatter.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![fighting](../img/types/fighting.png) | [TM31 Brick break](../moves/brick-break.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | ![fighting](../img/types/fighting.png) | [TM08 Bulk up](../moves/bulk-up.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
@@ -102,13 +115,13 @@
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [Bounce](../moves/bounce.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |
 | ![dark](../img/types/dark.png) | [Dark pulse](../moves/dark-pulse.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | ![fighting](../img/types/fighting.png) | [Drain punch](../moves/drain-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |

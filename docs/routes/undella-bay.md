@@ -28,7 +28,3 @@
 | ![Octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) | 5% |
 | ![Cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-

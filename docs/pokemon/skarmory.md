@@ -6,7 +6,7 @@
 ![steel](../img/types/steel.png) ![flying](../img/types/flying.png)
 
 ## Evolution
-![skarmory](../img/pokemon/227.png) **[Skarmory]( skarmory.md)**
+<div class="evo-chain"><div class="evo-item">![skarmory](../img/pokemon/227.png)<div style="font-weight: bold; font-size: 0.9em;">[Skarmory]( skarmory.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,26 +14,33 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Light Metal](../abilities/light-metal.md)**: Halves the Pokémon's weight. |
 | Ability 2 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
-| ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) |  |
-|  | ![flying](../img/types/flying.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![bug](../img/types/bug.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
+| ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |
+|  | ![flying](../img/types/flying.png) | ![fighting](../img/types/fighting.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 140 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:70.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 40 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 70 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:35.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 70 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:35.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
+| Attack | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| Defense | 140 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:70.0%; background:#A0E515;'></div></div> |
+| Special attack | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
+| Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
+| Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
+| **Total** | **465** | |
 
 ## Locations
 | Route | Method | Rate |
@@ -43,32 +50,32 @@
 | [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![bug](../img/types/bug.png) | [Fury cutter](../moves/fury-cutter.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 95 | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 1 | ![normal](../img/types/normal.png) | [Leer](../moves/leer.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |  |
-| 1 | ![flying](../img/types/flying.png) | [Peck](../moves/peck.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 100 | 35 |  |
-| 6 | ![ground](../img/types/ground.png) | [Sand attack](../moves/sand-attack.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 9 | ![normal](../img/types/normal.png) | [Swift](../moves/swift.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |  |
-| 12 | ![psychic](../img/types/psychic.png) | [Agility](../moves/agility.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |  |
-| 17 | ![normal](../img/types/normal.png) | [Fury attack](../moves/fury-attack.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 20 |  |
-| 20 | ![normal](../img/types/normal.png) | [Feint](../moves/feint.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 10 |  |
-| 22 | ![flying](../img/types/flying.png) | [TM58 Sky drop](../moves/sky-drop.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 24 | ![flying](../img/types/flying.png) | [Air cutter](../moves/air-cutter.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 | <span style="background:#1976d2; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">SHIFTED (from 23)</span> |
-| 26 | ![flying](../img/types/flying.png) | [Roost](../moves/roost.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 28 | ![ground](../img/types/ground.png) | [Spikes](../moves/spikes.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 31 | ![steel](../img/types/steel.png) | [Metal sound](../moves/metal-sound.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |  |
-| 34 | ![steel](../img/types/steel.png) | [Steel wing](../moves/steel-wing.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 90 | 25 |  |
-| 37 | ![flying](../img/types/flying.png) | [Drill peck](../moves/drill-peck.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 39 | ![steel](../img/types/steel.png) | [Autotomize](../moves/autotomize.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |  |
-| 42 | ![flying](../img/types/flying.png) | [Air slash](../moves/air-slash.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |  |
-| 45 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |  |
-| 50 | ![dark](../img/types/dark.png) | [Night slash](../moves/night-slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |  |
-| 56 | ![flying](../img/types/flying.png) | [Brave bird](../moves/brave-bird.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | ![bug](../img/types/bug.png) | [Fury cutter](../moves/fury-cutter.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 95 | 20 |
+| 1 | ![normal](../img/types/normal.png) | [Leer](../moves/leer.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
+| 1 | ![flying](../img/types/flying.png) | [Peck](../moves/peck.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 100 | 35 |
+| 6 | ![ground](../img/types/ground.png) | [Sand attack](../moves/sand-attack.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 9 | ![normal](../img/types/normal.png) | [Swift](../moves/swift.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 12 | ![psychic](../img/types/psychic.png) | [Agility](../moves/agility.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
+| 17 | ![normal](../img/types/normal.png) | [Fury attack](../moves/fury-attack.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 20 |
+| 20 | ![normal](../img/types/normal.png) | [Feint](../moves/feint.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 10 |
+| <span class="pill pill-new">NEW</span> 22 | ![flying](../img/types/flying.png) | [TM58 Sky drop](../moves/sky-drop.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
+| <span class="pill pill-shifted">SHIFTED (from 23)</span> 24 | ![flying](../img/types/flying.png) | [Air cutter](../moves/air-cutter.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 |
+| <span class="pill pill-new">NEW</span> 26 | ![flying](../img/types/flying.png) | [Roost](../moves/roost.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 28 | ![ground](../img/types/ground.png) | [Spikes](../moves/spikes.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 31 | ![steel](../img/types/steel.png) | [Metal sound](../moves/metal-sound.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |
+| 34 | ![steel](../img/types/steel.png) | [Steel wing](../moves/steel-wing.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 90 | 25 |
+| <span class="pill pill-new">NEW</span> 37 | ![flying](../img/types/flying.png) | [Drill peck](../moves/drill-peck.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
+| 39 | ![steel](../img/types/steel.png) | [Autotomize](../moves/autotomize.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 42 | ![flying](../img/types/flying.png) | [Air slash](../moves/air-slash.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
+| 45 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| 50 | ![dark](../img/types/dark.png) | [Night slash](../moves/night-slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
+| <span class="pill pill-new">NEW</span> 56 | ![flying](../img/types/flying.png) | [Brave bird](../moves/brave-bird.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![normal](../img/types/normal.png) | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
@@ -101,13 +108,13 @@
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![flying](../img/types/flying.png) | [HM02 Fly](../moves/fly.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 95 | 15 |
 
 ## Egg Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![dark](../img/types/dark.png) | [Assurance](../moves/assurance.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
 | ![flying](../img/types/flying.png) | [Brave bird](../moves/brave-bird.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 | ![ghost](../img/types/ghost.png) | [Curse](../moves/curse.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
@@ -121,7 +128,7 @@
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![dark](../img/types/dark.png) | [Dark pulse](../moves/dark-pulse.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | ![ice](../img/types/ice.png) | [Icy wind](../moves/icy-wind.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
 | ![steel](../img/types/steel.png) | [Iron defense](../moves/iron-defense.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |

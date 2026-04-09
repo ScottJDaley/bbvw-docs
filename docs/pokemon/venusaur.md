@@ -6,7 +6,7 @@
 ![grass](../img/types/grass.png) ![poison](../img/types/poison.png)
 
 ## Evolution
-![bulbasaur](../img/pokemon/001.png) **[Bulbasaur]( bulbasaur.md)** ➡️ Lv. 16 ➡️ ![ivysaur](../img/pokemon/002.png) **[Ivysaur]( ivysaur.md)** ➡️ Lv. 32 ➡️ ![venusaur](../img/pokemon/003.png) **[Venusaur]( venusaur.md)**
+<div class="evo-chain"><div class="evo-item">![bulbasaur](../img/pokemon/001.png)<div style="font-weight: bold; font-size: 0.9em;">[Bulbasaur]( bulbasaur.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 16</div></div><div class="evo-item">![ivysaur](../img/pokemon/002.png)<div style="font-weight: bold; font-size: 0.9em;">[Ivysaur]( ivysaur.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 32</div></div><div class="evo-item">![venusaur](../img/pokemon/003.png)<div style="font-weight: bold; font-size: 0.9em;">[Venusaur]( venusaur.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,53 +14,65 @@
 | Ability 1 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 
+## Base Happiness
+70
+
+## Held Items
+- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
-|  | ![electric](../img/types/electric.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![flying](../img/types/flying.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![psychic](../img/types/psychic.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
+|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 82 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:41.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 83 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:41.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| Attack | 82 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.0%; background:#FFDD57;'></div></div> |
+| Defense | 83 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.5%; background:#FFDD57;'></div></div> |
+| Special attack | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| **Total** | **525** | |
 
 ## Locations
 Evolve from [Ivysaur](../pokemon/ivysaur.md)
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | - | Ancientpower | - | - | - | - | - | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 1 | ![grass](../img/types/grass.png) | [Vine whip](../moves/vine-whip.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 45 | 100 | 25 |  |
-| 1 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |  |
-| 1 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |  |
-| 13 | ![poison](../img/types/poison.png) | [Poison powder](../moves/poison-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 35 |  |
-| 13 | ![grass](../img/types/grass.png) | [Sleep powder](../moves/sleep-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |  |
-| 15 | ![normal](../img/types/normal.png) | [Take down](../moves/take-down.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |  |
-| 20 | ![grass](../img/types/grass.png) | [Razor leaf](../moves/razor-leaf.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |  |
-| 23 | ![normal](../img/types/normal.png) | [Sweet scent](../moves/sweet-scent.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
-| 28 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 31 | ![normal](../img/types/normal.png) | [Double edge](../moves/double-edge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |  |
-| 32 | ![grass](../img/types/grass.png) | [Petal dance](../moves/petal-dance.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |  |
-| 36 | ![normal](../img/types/normal.png) | [Nature power](../moves/nature-power.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 39 | ![grass](../img/types/grass.png) | [Worry seed](../moves/worry-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 45 | ![grass](../img/types/grass.png) | [Synthesis](../moves/synthesis.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |  |
-| 53 | ![grass](../img/types/grass.png) | [TM22 Solar beam](../moves/solar-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |  |
-| 57 | ![grass](../img/types/grass.png) | [Power whip](../moves/power-whip.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 85 | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 63 | ![grass](../img/types/grass.png) | [Leaf storm](../moves/leaf-storm.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 5 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | - | Ancientpower | - | - | - | - |
+| 1 | ![grass](../img/types/grass.png) | [Vine whip](../moves/vine-whip.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 45 | 100 | 25 |
+| 1 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
+| 1 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 13 | ![poison](../img/types/poison.png) | [Poison powder](../moves/poison-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 35 |
+| 13 | ![grass](../img/types/grass.png) | [Sleep powder](../moves/sleep-powder.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |
+| 15 | ![normal](../img/types/normal.png) | [Take down](../moves/take-down.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
+| 20 | ![grass](../img/types/grass.png) | [Razor leaf](../moves/razor-leaf.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |
+| 23 | ![normal](../img/types/normal.png) | [Sweet scent](../moves/sweet-scent.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| 28 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 31 | ![normal](../img/types/normal.png) | [Double edge](../moves/double-edge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
+| 32 | ![grass](../img/types/grass.png) | [Petal dance](../moves/petal-dance.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| <span class="pill pill-new">NEW</span> 36 | ![normal](../img/types/normal.png) | [Nature power](../moves/nature-power.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 39 | ![grass](../img/types/grass.png) | [Worry seed](../moves/worry-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 45 | ![grass](../img/types/grass.png) | [Synthesis](../moves/synthesis.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 53 | ![grass](../img/types/grass.png) | [TM22 Solar beam](../moves/solar-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| <span class="pill pill-new">NEW</span> 57 | ![grass](../img/types/grass.png) | [Power whip](../moves/power-whip.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 85 | 10 |
+| <span class="pill pill-new">NEW</span> 63 | ![grass](../img/types/grass.png) | [Leaf storm](../moves/leaf-storm.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 5 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![ground](../img/types/ground.png) | [TM78 Bulldoze](../moves/bulldoze.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | ![normal](../img/types/normal.png) | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
@@ -83,6 +95,7 @@ Evolve from [Ivysaur](../pokemon/ivysaur.md)
 | ![normal](../img/types/normal.png) | [TM48 Round](../moves/round.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
 | ![normal](../img/types/normal.png) | [TM20 Safeguard](../moves/safeguard.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 25 |
 | ![poison](../img/types/poison.png) | [TM36 Sludge bomb](../moves/sludge-bomb.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| ![poison](../img/types/poison.png) | [TM34 Sludge wave](../moves/sludge-wave.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 10 |
 | ![normal](../img/types/normal.png) | [TM90 Substitute](../moves/substitute.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | ![fire](../img/types/fire.png) | [TM11 Sunny day](../moves/sunny-day.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | ![normal](../img/types/normal.png) | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |
@@ -92,13 +105,13 @@ Evolve from [Ivysaur](../pokemon/ivysaur.md)
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [Bind](../moves/bind.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 20 |
 | ![normal](../img/types/normal.png) | [Block](../moves/block.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | ![grass](../img/types/grass.png) | [Frenzy plant](../moves/frenzy-plant.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |

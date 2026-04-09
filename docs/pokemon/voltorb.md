@@ -6,7 +6,7 @@
 ![electric](../img/types/electric.png)
 
 ## Evolution
-![voltorb](../img/pokemon/100.png) **[Voltorb]( voltorb.md)** ➡️ Lv. 30 ➡️ ![electrode](../img/pokemon/101.png) **[Electrode]( electrode.md)**
+<div class="evo-chain"><div class="evo-item">![voltorb](../img/pokemon/100.png)<div style="font-weight: bold; font-size: 0.9em;">[Voltorb]( voltorb.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 30</div></div><div class="evo-item">![electrode](../img/pokemon/101.png)<div style="font-weight: bold; font-size: 0.9em;">[Electrode]( electrode.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,22 +14,39 @@
 | Ability 1 | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. |
 | Ability 2 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
-|  | ![flying](../img/types/flying.png) |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![electric](../img/types/electric.png) | ![normal](../img/types/normal.png) | ![ground](../img/types/ground.png) |  |
+|  | ![flying](../img/types/flying.png) | ![fire](../img/types/fire.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![water](../img/types/water.png) |  |  |
+|  |  | ![grass](../img/types/grass.png) |  |  |
+|  |  | ![ice](../img/types/ice.png) |  |  |
+|  |  | ![fighting](../img/types/fighting.png) |  |  |
+|  |  | ![poison](../img/types/poison.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
+|  |  | ![bug](../img/types/bug.png) |  |  |
+|  |  | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 40 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:20.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 30 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:15.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 50 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:25.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 55 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:27.500000000000004%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 55 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:27.500000000000004%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
+| Attack | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
+| Defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
+| Special attack | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
+| Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
+| Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| **Total** | **330** | |
 
 ## Locations
 | Route | Method | Rate |
@@ -37,27 +54,29 @@
 | [Chargestone Cave](../routes/chargestone-cave.md) | ![cave, normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![electric](../img/types/electric.png) | [Charge](../moves/charge.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 5 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 8 | ![normal](../img/types/normal.png) | [Sonic boom](../moves/sonic-boom.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |  |
-| 12 | ![electric](../img/types/electric.png) | [Spark](../moves/spark.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |  |
-| 15 | ![rock](../img/types/rock.png) | [Rollout](../moves/rollout.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 90 | 20 |  |
-| 19 | ![normal](../img/types/normal.png) | [Screech](../moves/screech.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |  |
-| 22 | ![electric](../img/types/electric.png) | [TM57 Charge beam](../moves/charge-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |  |
-| 26 | ![psychic](../img/types/psychic.png) | [TM16 Light screen](../moves/light-screen.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |  |
-| 29 | ![electric](../img/types/electric.png) | [Electro ball](../moves/electro-ball.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 33 | ![normal](../img/types/normal.png) | [Self destruct](../moves/self-destruct.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 200 | 100 | 5 |  |
-| 36 | ![normal](../img/types/normal.png) | [Swift](../moves/swift.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |  |
-| 40 | ![electric](../img/types/electric.png) | [Magnet rise](../moves/magnet-rise.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
-| 43 | ![steel](../img/types/steel.png) | [TM74 Gyro ball](../moves/gyro-ball.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |  |
-| 47 | ![normal](../img/types/normal.png) | [TM64 Explosion](../moves/explosion.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 250 | 100 | 5 |  |
-| 50 | ![psychic](../img/types/psychic.png) | [Mirror coat](../moves/mirror-coat.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | ![psychic](../img/types/psychic.png) | [Agility](../moves/agility.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
+| 1 | ![electric](../img/types/electric.png) | [Charge](../moves/charge.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 5 | ![normal](../img/types/normal.png) | [Tackle](../moves/tackle.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 8 | ![normal](../img/types/normal.png) | [Sonic boom](../moves/sonic-boom.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |
+| 12 | ![electric](../img/types/electric.png) | [Spark](../moves/spark.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
+| 15 | ![rock](../img/types/rock.png) | [Rollout](../moves/rollout.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 90 | 20 |
+| 19 | ![normal](../img/types/normal.png) | [Screech](../moves/screech.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |
+| 22 | ![electric](../img/types/electric.png) | [TM57 Charge beam](../moves/charge-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |
+| <span class="pill pill-new">NEW</span> 24 | ![bug](../img/types/bug.png) | [Signal beam](../moves/signal-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
+| 26 | ![psychic](../img/types/psychic.png) | [TM16 Light screen](../moves/light-screen.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
+| 29 | ![electric](../img/types/electric.png) | [Electro ball](../moves/electro-ball.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 33 | ![normal](../img/types/normal.png) | [Self destruct](../moves/self-destruct.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 200 | 100 | 5 |
+| 36 | ![normal](../img/types/normal.png) | [Swift](../moves/swift.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 40 | ![electric](../img/types/electric.png) | [Magnet rise](../moves/magnet-rise.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 43 | ![steel](../img/types/steel.png) | [TM74 Gyro ball](../moves/gyro-ball.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| 47 | ![normal](../img/types/normal.png) | [TM64 Explosion](../moves/explosion.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 250 | 100 | 5 |
+| 50 | ![psychic](../img/types/psychic.png) | [Mirror coat](../moves/mirror-coat.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | ![normal](../img/types/normal.png) | [TM42 Facade](../moves/facade.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | ![normal](../img/types/normal.png) | [TM70 Flash](../moves/flash.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
@@ -82,7 +101,7 @@
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![dark](../img/types/dark.png) | [Foul play](../moves/foul-play.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 15 |
 | ![psychic](../img/types/psychic.png) | [Magic coat](../moves/magic-coat.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | ![bug](../img/types/bug.png) | [Signal beam](../moves/signal-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |

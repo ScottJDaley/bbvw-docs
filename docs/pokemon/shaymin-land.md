@@ -6,7 +6,7 @@
 ![grass](../img/types/grass.png)
 
 ## Evolution
- **[Shaymin]( shaymin.md)**
+<div class="evo-chain"><div class="evo-item"><div style="font-weight: bold; font-size: 0.9em;">[Shaymin]( shaymin.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,47 +14,57 @@
 | Ability 1 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 | Ability 2 | - | - |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
-|  | ![electric](../img/types/electric.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![poison](../img/types/poison.png) |  |
-|  | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
-|  |  | ![bug](../img/types/bug.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) | ![ice](../img/types/ice.png) |  |
+|  | ![grass](../img/types/grass.png) | ![psychic](../img/types/psychic.png) | ![poison](../img/types/poison.png) |  |
+|  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Attack | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Special attack | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| **Total** | **600** | |
 
 ## Locations
 No known wild location.
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 10 | ![grass](../img/types/grass.png) | [Magical leaf](../moves/magical-leaf.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |  |
-| 19 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |  |
-| 28 | ![grass](../img/types/grass.png) | [Synthesis](../moves/synthesis.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |  |
-| 37 | ![normal](../img/types/normal.png) | [Sweet scent](../moves/sweet-scent.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
-| 46 | ![normal](../img/types/normal.png) | [Natural gift](../moves/natural-gift.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 55 | ![grass](../img/types/grass.png) | [Worry seed](../moves/worry-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 64 | ![grass](../img/types/grass.png) | [Aromatherapy](../moves/aromatherapy.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |  |
-| 73 | ![grass](../img/types/grass.png) | [TM53 Energy ball](../moves/energy-ball.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |  |
-| 82 | ![fairy](../img/types/fairy.png) | [Sweet kiss](../moves/sweet-kiss.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 10 |  |
-| 91 | ![psychic](../img/types/psychic.png) | [Healing wish](../moves/healing-wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
-| 100 | ![grass](../img/types/grass.png) | [Seed flare](../moves/seed-flare.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 85 | 5 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 10 | ![grass](../img/types/grass.png) | [Magical leaf](../moves/magical-leaf.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 19 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 28 | ![grass](../img/types/grass.png) | [Synthesis](../moves/synthesis.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 37 | ![normal](../img/types/normal.png) | [Sweet scent](../moves/sweet-scent.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| 46 | ![normal](../img/types/normal.png) | [Natural gift](../moves/natural-gift.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 55 | ![grass](../img/types/grass.png) | [Worry seed](../moves/worry-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 64 | ![grass](../img/types/grass.png) | [Aromatherapy](../moves/aromatherapy.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 73 | ![grass](../img/types/grass.png) | [TM53 Energy ball](../moves/energy-ball.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 82 | ![fairy](../img/types/fairy.png) | [Sweet kiss](../moves/sweet-kiss.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 10 |
+| 91 | ![psychic](../img/types/psychic.png) | [Healing wish](../moves/healing-wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 100 | ![grass](../img/types/grass.png) | [Seed flare](../moves/seed-flare.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 85 | 5 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | ![normal](../img/types/normal.png) | [TM42 Facade](../moves/facade.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | ![normal](../img/types/normal.png) | [TM70 Flash](../moves/flash.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
@@ -79,7 +89,7 @@ No known wild location.
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [Covet](../moves/covet.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | ![ground](../img/types/ground.png) | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
 | ![normal](../img/types/normal.png) | [Endeavor](../moves/endeavor.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |

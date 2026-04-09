@@ -6,7 +6,7 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-![audino](../img/pokemon/531.png) **[Audino]( audino.md)**
+<div class="evo-chain"><div class="evo-item">![audino](../img/pokemon/531.png)<div style="font-weight: bold; font-size: 0.9em;">[Audino]( audino.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,20 +14,41 @@
 | Ability 1 | **[Healer](../abilities/healer.md)**: Has a 30% chance of curing each adjacent ally of any major status ailment after each turn. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 | Ability 2 | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-| ![ghost](../img/types/ghost.png) |  | ![fighting](../img/types/fighting.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+| ![ghost](../img/types/ghost.png) |  | ![normal](../img/types/normal.png) | ![fighting](../img/types/fighting.png) |  |
+|  |  | ![fire](../img/types/fire.png) |  |  |
+|  |  | ![water](../img/types/water.png) |  |  |
+|  |  | ![electric](../img/types/electric.png) |  |  |
+|  |  | ![grass](../img/types/grass.png) |  |  |
+|  |  | ![ice](../img/types/ice.png) |  |  |
+|  |  | ![poison](../img/types/poison.png) |  |  |
+|  |  | ![ground](../img/types/ground.png) |  |  |
+|  |  | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
+|  |  | ![bug](../img/types/bug.png) |  |  |
+|  |  | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 103 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:51.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 86 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:43.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 86 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:43.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 50 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:25.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 103 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:51.5%; background:#FFDD57;'></div></div> |
+| Attack | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
+| Defense | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
+| Special attack | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
+| Special defense | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
+| Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
+| **Total** | **445** | |
 
 ## Locations
 | Route | Method | Rate |
@@ -57,32 +78,32 @@
 | [Route 15](../routes/route-15.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 70% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png) | [Yawn](../moves/yawn.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 1 | ![normal](../img/types/normal.png) | [Heal bell](../moves/heal-bell.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 1 | ![normal](../img/types/normal.png) | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 1 | ![normal](../img/types/normal.png) | [Pound](../moves/pound.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |  |
-| 1 | ![normal](../img/types/normal.png) | [Helping hand](../moves/helping-hand.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 5 | ![normal](../img/types/normal.png) | [Refresh](../moves/refresh.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 10 | ![normal](../img/types/normal.png) | [Double slap](../moves/double-slap.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 10 |  |
-| 15 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 20 | ![normal](../img/types/normal.png) | [Secret power](../moves/secret-power.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |  |
-| 25 | ![normal](../img/types/normal.png) | [Entrainment](../moves/entrainment.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 30 | ![normal](../img/types/normal.png) | [Take down](../moves/take-down.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |  |
-| 35 | ![psychic](../img/types/psychic.png) | [Heal pulse](../moves/heal-pulse.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
-| 40 | ![normal](../img/types/normal.png) | [After you](../moves/after-you.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |  |
-| 45 | ![normal](../img/types/normal.png) | [Simple beam](../moves/simple-beam.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 50 | ![normal](../img/types/normal.png) | [Double edge](../moves/double-edge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |  |
-| 55 | ![normal](../img/types/normal.png) | [Last resort](../moves/last-resort.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |  |
-| 60 | ![psychic](../img/types/psychic.png) | [Healing wish](../moves/healing-wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 65 | ![normal](../img/types/normal.png) | [Wish](../moves/wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
-| 70 | ![psychic](../img/types/psychic.png) | [Gravity](../moves/gravity.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Yawn](../moves/yawn.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Heal bell](../moves/heal-bell.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| 1 | ![normal](../img/types/normal.png) | [Pound](../moves/pound.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
+| 1 | ![normal](../img/types/normal.png) | [Helping hand](../moves/helping-hand.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 5 | ![normal](../img/types/normal.png) | [Refresh](../moves/refresh.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 10 | ![normal](../img/types/normal.png) | [Double slap](../moves/double-slap.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 10 |
+| 15 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 20 | ![normal](../img/types/normal.png) | [Secret power](../moves/secret-power.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| 25 | ![normal](../img/types/normal.png) | [Entrainment](../moves/entrainment.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 30 | ![normal](../img/types/normal.png) | [Take down](../moves/take-down.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
+| 35 | ![psychic](../img/types/psychic.png) | [Heal pulse](../moves/heal-pulse.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 40 | ![normal](../img/types/normal.png) | [After you](../moves/after-you.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 45 | ![normal](../img/types/normal.png) | [Simple beam](../moves/simple-beam.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 50 | ![normal](../img/types/normal.png) | [Double edge](../moves/double-edge.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
+| 55 | ![normal](../img/types/normal.png) | [Last resort](../moves/last-resort.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
+| <span class="pill pill-new">NEW</span> 60 | ![psychic](../img/types/psychic.png) | [Healing wish](../moves/healing-wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| <span class="pill pill-new">NEW</span> 65 | ![normal](../img/types/normal.png) | [Wish](../moves/wish.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| <span class="pill pill-new">NEW</span> 70 | ![psychic](../img/types/psychic.png) | [Gravity](../moves/gravity.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![ice](../img/types/ice.png) | [TM14 Blizzard](../moves/blizzard.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 5 |
 | ![psychic](../img/types/psychic.png) | [TM04 Calm mind](../moves/calm-mind.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | ![electric](../img/types/electric.png) | [TM57 Charge beam](../moves/charge-beam.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |
@@ -129,12 +150,12 @@
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![water](../img/types/water.png) | [HM03 Surf](../moves/surf.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |
 
 ## Egg Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![psychic](../img/types/psychic.png) | [Amnesia](../moves/amnesia.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | ![normal](../img/types/normal.png) | [Bestow](../moves/bestow.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | ![normal](../img/types/normal.png) | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
@@ -148,7 +169,7 @@
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [Covet](../moves/covet.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | ![fighting](../img/types/fighting.png) | [Drain punch](../moves/drain-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
 | ![fire](../img/types/fire.png) | [Fire punch](../moves/fire-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |

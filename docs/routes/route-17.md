@@ -85,13 +85,6 @@
 | ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 30% |
 | ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 10% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    SPECIAL ENCOUNTER
-
 
 ## Trainers
 ### Fisherman Lydon

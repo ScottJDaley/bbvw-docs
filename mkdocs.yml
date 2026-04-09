@@ -50,7 +50,7 @@ nav:
   - Home: README.md
   - Pokemon:
     - pokemon/index.md
-    - "1-100":
+    - Kanto:
       - Bulbasaur: pokemon/bulbasaur.md
       - Ivysaur: pokemon/ivysaur.md
       - Venusaur: pokemon/venusaur.md
@@ -151,7 +151,6 @@ nav:
       - Krabby: pokemon/krabby.md
       - Kingler: pokemon/kingler.md
       - Voltorb: pokemon/voltorb.md
-    - "101-200":
       - Electrode: pokemon/electrode.md
       - Exeggcute: pokemon/exeggcute.md
       - Exeggutor: pokemon/exeggutor.md
@@ -203,6 +202,7 @@ nav:
       - Dragonite: pokemon/dragonite.md
       - Mewtwo: pokemon/mewtwo.md
       - Mew: pokemon/mew.md
+    - Johto:
       - Chikorita: pokemon/chikorita.md
       - Bayleef: pokemon/bayleef.md
       - Meganium: pokemon/meganium.md
@@ -252,7 +252,6 @@ nav:
       - Murkrow: pokemon/murkrow.md
       - Slowking: pokemon/slowking.md
       - Misdreavus: pokemon/misdreavus.md
-    - "201-300":
       - Unown: pokemon/unown.md
       - Wobbuffet: pokemon/wobbuffet.md
       - Girafarig: pokemon/girafarig.md
@@ -304,6 +303,7 @@ nav:
       - Lugia: pokemon/lugia.md
       - Ho-oh: pokemon/ho-oh.md
       - Celebi: pokemon/celebi.md
+    - Hoenn:
       - Treecko: pokemon/treecko.md
       - Grovyle: pokemon/grovyle.md
       - Sceptile: pokemon/sceptile.md
@@ -353,7 +353,6 @@ nav:
       - Azurill: pokemon/azurill.md
       - Nosepass: pokemon/nosepass.md
       - Skitty: pokemon/skitty.md
-    - "301-400":
       - Delcatty: pokemon/delcatty.md
       - Sableye: pokemon/sableye.md
       - Mawile: pokemon/mawile.md
@@ -440,6 +439,7 @@ nav:
       - Rayquaza: pokemon/rayquaza.md
       - Jirachi: pokemon/jirachi.md
       - Deoxys-normal: pokemon/deoxys-normal.md
+    - Sinnoh:
       - Turtwig: pokemon/turtwig.md
       - Grotle: pokemon/grotle.md
       - Torterra: pokemon/torterra.md
@@ -454,7 +454,6 @@ nav:
       - Staraptor: pokemon/staraptor.md
       - Bidoof: pokemon/bidoof.md
       - Bibarel: pokemon/bibarel.md
-    - "401-500":
       - Kricketot: pokemon/kricketot.md
       - Kricketune: pokemon/kricketune.md
       - Shinx: pokemon/shinx.md
@@ -548,6 +547,7 @@ nav:
       - Darkrai: pokemon/darkrai.md
       - Shaymin-land: pokemon/shaymin-land.md
       - Arceus: pokemon/arceus.md
+    - Unova:
       - Victini: pokemon/victini.md
       - Snivy: pokemon/snivy.md
       - Servine: pokemon/servine.md
@@ -555,7 +555,6 @@ nav:
       - Tepig: pokemon/tepig.md
       - Pignite: pokemon/pignite.md
       - Emboar: pokemon/emboar.md
-    - "501-600":
       - Oshawott: pokemon/oshawott.md
       - Dewott: pokemon/dewott.md
       - Samurott: pokemon/samurott.md
@@ -656,7 +655,6 @@ nav:
       - Ferroseed: pokemon/ferroseed.md
       - Ferrothorn: pokemon/ferrothorn.md
       - Klink: pokemon/klink.md
-    - "601-650":
       - Klang: pokemon/klang.md
       - Klinklang: pokemon/klinklang.md
       - Tynamo: pokemon/tynamo.md

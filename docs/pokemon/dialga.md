@@ -6,7 +6,7 @@
 ![steel](../img/types/steel.png) ![dragon](../img/types/dragon.png)
 
 ## Evolution
-![dialga](../img/pokemon/483.png) **[Dialga]( dialga.md)**
+<div class="evo-chain"><div class="evo-item">![dialga](../img/pokemon/483.png)<div style="font-weight: bold; font-size: 0.9em;">[Dialga]( dialga.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,52 +14,59 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fighting](../img/types/fighting.png) |  |
-|  | ![water](../img/types/water.png) | ![ground](../img/types/ground.png) |  |
-|  | ![electric](../img/types/electric.png) |  |  |
-|  | ![grass](../img/types/grass.png) |  |  |
-|  | ![flying](../img/types/flying.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![bug](../img/types/bug.png) |  |  |
-|  | ![rock](../img/types/rock.png) |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![fighting](../img/types/fighting.png) |  |
+|  | ![water](../img/types/water.png) | ![ice](../img/types/ice.png) | ![ground](../img/types/ground.png) |  |
+|  | ![electric](../img/types/electric.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![grass](../img/types/grass.png) | ![dragon](../img/types/dragon.png) |  |  |
+|  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) |  |  |  |
+|  | ![bug](../img/types/bug.png) |  |  |  |
+|  | ![rock](../img/types/rock.png) |  |  |  |
+|  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 120 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:60.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 120 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:60.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 150 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:75.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 100 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:50.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 90 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:45.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Attack | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
+| Defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
+| Special attack | 150 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:75.0%; background:#23CD5E;'></div></div> |
+| Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
+| Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
+| **Total** | **680** | |
 
 ## Locations
 No known wild location.
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 1 | ![dragon](../img/types/dragon.png) | [Dragon breath](../moves/dragon-breath.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |  |
-| 6 | ![steel](../img/types/steel.png) | [Metal claw](../moves/metal-claw.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 35 |  |
-| 10 | ![rock](../img/types/rock.png) | [Ancient power](../moves/ancient-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |  |
-| 15 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |  |
-| 19 | ![rock](../img/types/rock.png) | [Power gem](../moves/power-gem.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |  |
-| 24 | ![steel](../img/types/steel.png) | [Metal burst](../moves/metal-burst.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 28 | ![dragon](../img/types/dragon.png) | [TM02 Dragon claw](../moves/dragon-claw.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |  |
-| 33 | ![ground](../img/types/ground.png) | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |  |
-| 37 | ![fighting](../img/types/fighting.png) | [Aura sphere](../moves/aura-sphere.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | - | 20 |  |
-| 42 | ![steel](../img/types/steel.png) | [Iron tail](../moves/iron-tail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |  |
-| 46 | ![dragon](../img/types/dragon.png) | [Roar of time](../moves/roar-of-time.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |  |
-| 50 | ![steel](../img/types/steel.png) | [TM91 Flash cannon](../moves/flash-cannon.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 1 | ![dragon](../img/types/dragon.png) | [Dragon breath](../moves/dragon-breath.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 6 | ![steel](../img/types/steel.png) | [Metal claw](../moves/metal-claw.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 35 |
+| 10 | ![rock](../img/types/rock.png) | [Ancient power](../moves/ancient-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |
+| 15 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| 19 | ![rock](../img/types/rock.png) | [Power gem](../moves/power-gem.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
+| 24 | ![steel](../img/types/steel.png) | [Metal burst](../moves/metal-burst.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 28 | ![dragon](../img/types/dragon.png) | [TM02 Dragon claw](../moves/dragon-claw.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
+| 33 | ![ground](../img/types/ground.png) | [Earth power](../moves/earth-power.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 37 | ![fighting](../img/types/fighting.png) | [Aura sphere](../moves/aura-sphere.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | - | 20 |
+| 42 | ![steel](../img/types/steel.png) | [Iron tail](../moves/iron-tail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
+| 46 | ![dragon](../img/types/dragon.png) | [Roar of time](../moves/roar-of-time.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
+| 50 | ![steel](../img/types/steel.png) | [TM91 Flash cannon](../moves/flash-cannon.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | ![ice](../img/types/ice.png) | [TM14 Blizzard](../moves/blizzard.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 5 |
 | ![fighting](../img/types/fighting.png) | [TM31 Brick break](../moves/brick-break.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
@@ -106,13 +113,13 @@ No known wild location.
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![dragon](../img/types/dragon.png) | [Draco meteor](../moves/draco-meteor.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 5 |
 | ![dragon](../img/types/dragon.png) | [Dragon pulse](../moves/dragon-pulse.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
 | ![psychic](../img/types/psychic.png) | [Gravity](../moves/gravity.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |

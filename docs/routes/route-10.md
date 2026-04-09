@@ -12,28 +12,6 @@
 | ![Primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) | 10% |
 | ![Amoonguss](../img/pokemon/591.png) | [Amoonguss](../pokemon/amoonguss.md) | 10% |
 | ![Tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 10% |
-
-### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| ![Mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 20% |
-| ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 20% |
-| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 10% |
-| ![Grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) | 10% |
-| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 10% |
-| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 10% |
-| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
-| ![Manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 10% |
-
-### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 100% |
-
-## League Path
-### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 20% |
 | ![Bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) | 20% |
 | ![Skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
@@ -46,6 +24,14 @@
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
+| ![Mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 20% |
+| ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 20% |
+| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 10% |
+| ![Grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) | 10% |
+| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 10% |
+| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 10% |
+| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
+| ![Manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 10% |
 | ![Scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 20% |
 | ![Pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 20% |
 | ![Cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 10% |
@@ -58,23 +44,9 @@
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
+| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 100% |
 | ![Chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 90% |
 | ![Blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
-
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    / 
-    Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
-    Route 10, Main Route
-    Grass, Shaking, 1%
-    * While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
 
 
 ## Trainers

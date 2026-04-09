@@ -6,7 +6,7 @@
 ![grass](../img/types/grass.png) ![fairy](../img/types/fairy.png)
 
 ## Evolution
-![cottonee](../img/pokemon/546.png) **[Cottonee]( cottonee.md)** ➡️ Use sun-stone ➡️ ![whimsicott](../img/pokemon/547.png) **[Whimsicott]( whimsicott.md)**
+<div class="evo-chain"><div class="evo-item">![cottonee](../img/pokemon/546.png)<div style="font-weight: bold; font-size: 0.9em;">[Cottonee]( cottonee.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Use sun-stone</div></div><div class="evo-item">![whimsicott](../img/pokemon/547.png)<div style="font-weight: bold; font-size: 0.9em;">[Whimsicott]( whimsicott.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,24 +14,34 @@
 | Ability 1 | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. |
 | Ability 2 | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
-|  | ![electric](../img/types/electric.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![poison](../img/types/poison.png) |  |
-|  | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
-|  |  | ![bug](../img/types/bug.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) | ![ice](../img/types/ice.png) |  |
+|  | ![grass](../img/types/grass.png) | ![psychic](../img/types/psychic.png) | ![poison](../img/types/poison.png) |  |
+|  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 60 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:30.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 67 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:33.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 85 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:42.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 77 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:38.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 75 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:37.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 116 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:57.99999999999999%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
+| Attack | 67 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:33.5%; background:#FF7F0E;'></div></div> |
+| Defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
+| Special attack | 77 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.5%; background:#FFDD57;'></div></div> |
+| Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
+| Speed | 116 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.99999999999999%; background:#A0E515;'></div></div> |
+| **Total** | **480** | |
 
 ## Locations
 | Route | Method | Rate |
@@ -40,19 +50,23 @@
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![grass, special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![grass](../img/types/grass.png) | [Mega drain](../moves/mega-drain.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |  |
-| 1 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |  |
-| 1 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |  |
-| 1 | ![grass](../img/types/grass.png) | [Cotton spore](../moves/cotton-spore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |  |
-| 10 | ![flying](../img/types/flying.png) | [Gust](../moves/gust.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 28 | ![flying](../img/types/flying.png) | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |  |
-| 46 | ![flying](../img/types/flying.png) | [Hurricane](../moves/hurricane.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Encore](../moves/encore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| <span class="pill pill-new">NEW</span> 1 | ![dark](../img/types/dark.png) | [Switcheroo](../moves/switcheroo.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| <span class="pill pill-new">NEW</span> 1 | ![normal](../img/types/normal.png) | [Tickle](../moves/tickle.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| 1 | ![grass](../img/types/grass.png) | [Mega drain](../moves/mega-drain.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
+| 1 | ![grass](../img/types/grass.png) | [Leech seed](../moves/leech-seed.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 1 | ![normal](../img/types/normal.png) | [Growth](../moves/growth.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 1 | ![grass](../img/types/grass.png) | [Cotton spore](../moves/cotton-spore.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
+| 10 | ![flying](../img/types/flying.png) | [Gust](../moves/gust.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 28 | ![flying](../img/types/flying.png) | [Tailwind](../moves/tailwind.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 46 | ![flying](../img/types/flying.png) | [Hurricane](../moves/hurricane.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
+| <span class="pill pill-new">NEW</span> 64 | - | Grasswhistle | - | - | - | - |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![normal](../img/types/normal.png) | [TM32 Double team](../moves/double-team.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | ![psychic](../img/types/psychic.png) | [TM85 Dream eater](../moves/dream-eater.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 15 |
@@ -85,7 +99,7 @@
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [Covet](../moves/covet.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | ![normal](../img/types/normal.png) | [Endeavor](../moves/endeavor.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
 | ![grass](../img/types/grass.png) | [Giga drain](../moves/giga-drain.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |

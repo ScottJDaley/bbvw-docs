@@ -62,7 +62,3 @@
 | ![Kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 5% |
 | ![Cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-

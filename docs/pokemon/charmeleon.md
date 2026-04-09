@@ -6,7 +6,7 @@
 ![fire](../img/types/fire.png)
 
 ## Evolution
-![charmander](../img/pokemon/004.png) **[Charmander]( charmander.md)** ➡️ Lv. 16 ➡️ ![charmeleon](../img/pokemon/005.png) **[Charmeleon]( charmeleon.md)** ➡️ Lv. 36 ➡️ ![charizard](../img/pokemon/006.png) **[Charizard]( charizard.md)**
+<div class="evo-chain"><div class="evo-item">![charmander](../img/pokemon/004.png)<div style="font-weight: bold; font-size: 0.9em;">[Charmander]( charmander.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 16</div></div><div class="evo-item">![charmeleon](../img/pokemon/005.png)<div style="font-weight: bold; font-size: 0.9em;">[Charmeleon]( charmeleon.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 36</div></div><div class="evo-item">![charizard](../img/pokemon/006.png)<div style="font-weight: bold; font-size: 0.9em;">[Charizard]( charizard.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,48 +14,59 @@
 | Ability 1 | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-|  | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) |  |
-|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) |  |
-|  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
-|  | ![bug](../img/types/bug.png) |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+|  | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  |
+|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
+|  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) | ![rock](../img/types/rock.png) |  |
+|  | ![bug](../img/types/bug.png) | ![poison](../img/types/poison.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 58 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:28.999999999999996%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 64 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 58 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:28.999999999999996%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 58 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.999999999999996%; background:#FF7F0E;'></div></div> |
+| Attack | 64 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.0%; background:#FF7F0E;'></div></div> |
+| Defense | 58 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.999999999999996%; background:#FF7F0E;'></div></div> |
+| Special attack | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
+| Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| **Total** | **405** | |
 
 ## Locations
 Evolve from [Charmander](../pokemon/charmander.md)
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![normal](../img/types/normal.png) | [Scratch](../moves/scratch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |  |
-| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |  |
-| 1 | ![fire](../img/types/fire.png) | [Ember](../moves/ember.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |  |
-| 10 | ![normal](../img/types/normal.png) | [Smokescreen](../moves/smokescreen.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |  |
-| 17 | ![dragon](../img/types/dragon.png) | [Dragon rage](../moves/dragon-rage.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 21 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 28 | ![fire](../img/types/fire.png) | [Fire fang](../moves/fire-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |  |
-| 32 | ![fire](../img/types/fire.png) | [Flame burst](../moves/flame-burst.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |  |
-| 39 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |  |
-| 43 | ![fire](../img/types/fire.png) | [TM35 Flamethrower](../moves/flamethrower.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |  |
-| 50 | ![fire](../img/types/fire.png) | [Fire spin](../moves/fire-spin.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |  |
-| 54 | ![fire](../img/types/fire.png) | [Inferno](../moves/inferno.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 50 | 5 |  |
-| 61 | ![normal](../img/types/normal.png) | [Belly drum](../moves/belly-drum.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 | <span style="background:#4caf50; color:white; padding:1px 4px; border-radius:3px; font-size:0.7em; font-weight:bold;">NEW</span> |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | ![normal](../img/types/normal.png) | [Scratch](../moves/scratch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1 | ![normal](../img/types/normal.png) | [Growl](../moves/growl.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
+| 1 | ![fire](../img/types/fire.png) | [Ember](../moves/ember.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |
+| 10 | ![normal](../img/types/normal.png) | [Smokescreen](../moves/smokescreen.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| 17 | ![dragon](../img/types/dragon.png) | [Dragon rage](../moves/dragon-rage.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 21 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 28 | ![fire](../img/types/fire.png) | [Fire fang](../moves/fire-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
+| 32 | ![fire](../img/types/fire.png) | [Flame burst](../moves/flame-burst.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
+| 39 | ![normal](../img/types/normal.png) | [Slash](../moves/slash.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| 43 | ![fire](../img/types/fire.png) | [TM35 Flamethrower](../moves/flamethrower.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |
+| 50 | ![fire](../img/types/fire.png) | [Fire spin](../moves/fire-spin.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |
+| 54 | ![fire](../img/types/fire.png) | [Inferno](../moves/inferno.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 50 | 5 |
+| <span class="pill pill-new">NEW</span> 61 | ![normal](../img/types/normal.png) | [Belly drum](../moves/belly-drum.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![fighting](../img/types/fighting.png) | [TM31 Brick break](../moves/brick-break.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
@@ -89,13 +100,13 @@ Evolve from [Charmander](../pokemon/charmander.md)
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![fire](../img/types/fire.png) | [Fire pledge](../moves/fire-pledge.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | ![fire](../img/types/fire.png) | [Fire punch](../moves/fire-punch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | ![fire](../img/types/fire.png) | [Heat wave](../moves/heat-wave.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 90 | 10 |

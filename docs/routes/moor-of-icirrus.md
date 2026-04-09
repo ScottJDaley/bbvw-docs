@@ -38,10 +38,6 @@
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
 
 ## Trainers
 ### PKMN Ranger Harry

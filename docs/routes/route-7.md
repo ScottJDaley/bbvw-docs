@@ -1,6 +1,6 @@
 # Route 7
 
-## General
+## All Seasons
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |

@@ -1,1 +1,78 @@
 img { image-rendering: pixelated; }
+
+/* Reduce table padding */
+.md-typeset table:not([class]) th, 
+.md-typeset table:not([class]) td {
+    padding: 4px 8px !important;
+}
+
+/* Stat bar colors */
+.stat-bar-bg {
+    background: #eee;
+    width: 300px;
+    height: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+}
+
+/* Evolution layout */
+.evo-chain {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.evo-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 80px;
+    text-align: center;
+}
+
+.evo-arrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.evo-method {
+    font-size: 0.75em;
+    color: #666;
+    max-width: 100px;
+}
+
+.rom-label {
+    background: #4caf50;
+    color: white;
+    padding: 1px 4px;
+    border-radius: 3px;
+    font-size: 0.7em;
+    margin-top: 2px;
+}
+
+/* Move tables column widths */
+.move-table th:nth-child(1), .move-table td:nth-child(1) { width: 45px; } /* Level/Type */
+.move-table th:nth-child(4), .move-table td:nth-child(4) { width: 40px; } /* Power */
+.move-table th:nth-child(5), .move-table td:nth-child(5) { width: 40px; } /* Acc */
+.move-table th:nth-child(6), .move-table td:nth-child(6) { width: 35px; } /* PP */
+
+/* Change pills */
+.pill {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 10px;
+    color: white;
+    font-size: 0.7em;
+    font-weight: bold;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.pill-new { background-color: #4caf50; }
+.pill-removed { background-color: #c62828; }
+.pill-shifted { background-color: #1976d2; }

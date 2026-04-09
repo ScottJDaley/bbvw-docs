@@ -6,7 +6,7 @@
 ![ground](../img/types/ground.png) ![dark](../img/types/dark.png)
 
 ## Evolution
-![sandile](../img/pokemon/551.png) **[Sandile]( sandile.md)** ➡️ Lv. 29 ➡️ ![krokorok](../img/pokemon/552.png) **[Krokorok]( krokorok.md)** ➡️ Lv. 40 ➡️ ![krookodile](../img/pokemon/553.png) **[Krookodile]( krookodile.md)**
+<div class="evo-chain"><div class="evo-item">![sandile](../img/pokemon/551.png)<div style="font-weight: bold; font-size: 0.9em;">[Sandile]( sandile.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 29</div></div><div class="evo-item">![krokorok](../img/pokemon/552.png)<div style="font-weight: bold; font-size: 0.9em;">[Krokorok]( krokorok.md)</div></div><div class="evo-arrow"><div>➡️</div><div class="evo-method">Lv. 40</div></div><div class="evo-item">![krookodile](../img/pokemon/553.png)<div style="font-weight: bold; font-size: 0.9em;">[Krookodile]( krookodile.md)</div></div></div>
 
 ## Abilities
 | Slot | Original | New |
@@ -14,52 +14,62 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
+## Base Happiness
+70
+
+## Held Items
+None
+
 ## Type Defenses
-| 0x | 0.5x | 2x | 4x |
-| --- | --- | --- | --- |
-| ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) |  |
-| ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) | ![grass](../img/types/grass.png) |  |
-|  | ![ghost](../img/types/ghost.png) | ![ice](../img/types/ice.png) |  |
-|  | ![dark](../img/types/dark.png) | ![fighting](../img/types/fighting.png) |  |
-|  |  | ![bug](../img/types/bug.png) |  |
+| 0x | 0.5x | 1x | 2x | 4x |
+| --- | --- | --- | --- | --- |
+| ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  |
+| ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) | ![ice](../img/types/ice.png) |  |
+|  | ![dark](../img/types/dark.png) | ![flying](../img/types/flying.png) | ![fighting](../img/types/fighting.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
 | --- | --- | --- |
-| Hp | 95 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:47.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Attack | 117 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:58.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Defense | 80 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:40.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special attack | 65 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:32.5%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Special defense | 70 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:35.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
-| Speed | 92 | <div style="background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;"><div style="height:100%; width:46.0%; background:linear-gradient(to right, #ff7f0e, #4caf50);"></div></div> |
+| Hp | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
+| Attack | 117 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:58.5%; background:#A0E515;'></div></div> |
+| Defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
+| Special attack | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
+| Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
+| Speed | 92 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:46.0%; background:#FFDD57;'></div></div> |
+| **Total** | **519** | |
 
 ## Locations
 Evolve from [Krokorok](../pokemon/krokorok.md)
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP | Change |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | ![ground](../img/types/ground.png) | [Sand attack](../moves/sand-attack.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 1 | ![normal](../img/types/normal.png) | [Leer](../moves/leer.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |  |
-| 1 | ![dark](../img/types/dark.png) | [Bite](../moves/bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |  |
-| 1 | ![normal](../img/types/normal.png) | [Rage](../moves/rage.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 20 |  |
-| 10 | ![dark](../img/types/dark.png) | [TM41 Torment](../moves/torment.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 13 | ![ground](../img/types/ground.png) | [Sand tomb](../moves/sand-tomb.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |  |
-| 16 | ![dark](../img/types/dark.png) | [Assurance](../moves/assurance.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |  |
-| 19 | ![ground](../img/types/ground.png) | [Mud slap](../moves/mud-slap.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |  |
-| 22 | ![dark](../img/types/dark.png) | [TM63 Embargo](../moves/embargo.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |  |
-| 25 | ![normal](../img/types/normal.png) | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |  |
-| 28 | ![dark](../img/types/dark.png) | [Crunch](../moves/crunch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |  |
-| 32 | ![ground](../img/types/ground.png) | [TM28 Dig](../moves/dig.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |  |
-| 36 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |  |
-| 42 | ![dark](../img/types/dark.png) | [Foul play](../moves/foul-play.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 15 |  |
-| 48 | ![rock](../img/types/rock.png) | [TM37 Sandstorm](../moves/sandstorm.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |  |
-| 54 | ![ground](../img/types/ground.png) | [TM26 Earthquake](../moves/earthquake.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |  |
-| 60 | ![dragon](../img/types/dragon.png) | [Outrage](../moves/outrage.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |  |
+| Level | Type | Move | Cat | Power | Acc | PP |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <span class="pill pill-new">NEW</span> 1 | ![fire](../img/types/fire.png) | [Fire fang](../moves/fire-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
+| <span class="pill pill-new">NEW</span> 1 | ![electric](../img/types/electric.png) | [Thunder fang](../moves/thunder-fang.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
+| 1 | ![ground](../img/types/ground.png) | [Sand attack](../moves/sand-attack.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 1 | ![normal](../img/types/normal.png) | [Leer](../moves/leer.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
+| 1 | ![dark](../img/types/dark.png) | [Bite](../moves/bite.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
+| 1 | ![normal](../img/types/normal.png) | [Rage](../moves/rage.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 20 |
+| 10 | ![dark](../img/types/dark.png) | [TM41 Torment](../moves/torment.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 13 | ![ground](../img/types/ground.png) | [Sand tomb](../moves/sand-tomb.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |
+| 16 | ![dark](../img/types/dark.png) | [Assurance](../moves/assurance.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
+| 19 | ![ground](../img/types/ground.png) | [Mud slap](../moves/mud-slap.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| 22 | ![dark](../img/types/dark.png) | [TM63 Embargo](../moves/embargo.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 25 | ![normal](../img/types/normal.png) | [TM87 Swagger](../moves/swagger.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |
+| 28 | ![dark](../img/types/dark.png) | [Crunch](../moves/crunch.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
+| 32 | ![ground](../img/types/ground.png) | [TM28 Dig](../moves/dig.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
+| 36 | ![normal](../img/types/normal.png) | [Scary face](../moves/scary-face.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 42 | ![dark](../img/types/dark.png) | [Foul play](../moves/foul-play.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 15 |
+| 48 | ![rock](../img/types/rock.png) | [TM37 Sandstorm](../moves/sandstorm.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 54 | ![ground](../img/types/ground.png) | [TM26 Earthquake](../moves/earthquake.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |
+| 60 | ![dragon](../img/types/dragon.png) | [Outrage](../moves/outrage.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 
 ## TM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![flying](../img/types/flying.png) | [TM40 Aerial ace](../moves/aerial-ace.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | ![normal](../img/types/normal.png) | [TM45 Attract](../moves/attract.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | ![fighting](../img/types/fighting.png) | [TM31 Brick break](../moves/brick-break.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
@@ -101,13 +111,13 @@ Evolve from [Krokorok](../pokemon/krokorok.md)
 
 ## HM Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![normal](../img/types/normal.png) | [HM01 Cut](../moves/cut.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | ![normal](../img/types/normal.png) | [HM04 Strength](../moves/strength.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | Type | Move | Cat | Power | Acc | PP |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | ![water](../img/types/water.png) | [Aqua tail](../moves/aqua-tail.md) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
 | ![normal](../img/types/normal.png) | [Block](../moves/block.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | ![dark](../img/types/dark.png) | [Dark pulse](../moves/dark-pulse.md) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |

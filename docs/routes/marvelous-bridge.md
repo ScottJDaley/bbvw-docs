@@ -10,7 +10,3 @@
 | ![Fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) | 20% |
 | ![Skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 20% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-

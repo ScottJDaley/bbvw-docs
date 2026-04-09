@@ -12,17 +12,6 @@
 | ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
 | ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
 | ![Hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) | 10% |
-
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-
-## B1F
-### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
 | ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 20% |
 | ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 10% |
@@ -31,17 +20,6 @@
 | ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 10% |
 | ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
 | ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 10% |
-
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-
-## B2F
-### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
 | ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 20% |
 | ![Kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) | 10% |
@@ -54,6 +32,10 @@
 ### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
@@ -83,17 +65,4 @@
 | ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 30% |
 | ![Poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
 | ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
-
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
 

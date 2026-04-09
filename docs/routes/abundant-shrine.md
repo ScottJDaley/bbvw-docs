@@ -59,10 +59,3 @@
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-

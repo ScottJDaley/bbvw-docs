@@ -38,13 +38,6 @@
 | ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 5% |
 | ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 5% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    SPECIAL ENCOUNTER
-
 
 ## Trainers
 ### Lass Eri

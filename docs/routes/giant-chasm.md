@@ -1,6 +1,6 @@
 # Giant Chasm
 
-## General
+## Outside Area
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
@@ -34,7 +34,7 @@
 | ![Nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) | 5% |
 | ![Nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) | 5% |
 
-## General
+## Outside Area
 ### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
@@ -77,7 +77,7 @@
 |  | [Baculin](../pokemon/baculin.md) | 30% |
 | ![Poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
 
-## General
+## Outside Area
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
@@ -110,28 +110,4 @@
 | ![Wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) | 5% |
 | ![Mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 5% |
 | ![Metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 5% |
-
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-    / 
-    Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
-    Giant Chasm, Inside Plains
-    Grass, Doubles, 1%
-    * The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
-
-!!! info
-    LEGENDARY ENCOUNTER
 

@@ -12,11 +12,6 @@
 | ![Bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 10% |
 | ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 10% |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
-
-## B1F
-### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 20% |
 | ![Gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) | 20% |
 | ![Shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) | 10% |
@@ -27,11 +22,6 @@
 | ![Beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) | 4% |
 | ![Larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) | 4% |
 | ![Larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 2% |
-
-## B2F, B3F, B4F, B5F
-### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
 | ![Cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 20% |
 | ![Vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) | 10% |
@@ -42,11 +32,6 @@
 | ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
 |  | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![Camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
-
-## B6F, Maze
-### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
 | ![Cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 20% |
 | ![Vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) | 10% |
@@ -57,25 +42,7 @@
 | ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
 |  | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![Camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
-
-## Pot Rooms
-### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
-
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    SPECIAL ENCOUNTER
 
 
 ## Trainers

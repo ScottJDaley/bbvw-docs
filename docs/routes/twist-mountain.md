@@ -14,17 +14,6 @@
 | ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 5% |
 | ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
 | ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 5% |
-
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-
-## Not 1F - All Seasons
-### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
-| Sprite | Pokemon | Rate |
-| --- | --- | --- |
 | ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 20% |
 | ![Ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 20% |
 | ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 10% |
@@ -41,10 +30,8 @@
 | --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
 
 ## Trainers

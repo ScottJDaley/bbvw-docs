@@ -66,10 +66,3 @@
 | ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 30% |
 | ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 10% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-

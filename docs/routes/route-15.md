@@ -35,7 +35,3 @@
 | ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 5% |
 | ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 5% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-

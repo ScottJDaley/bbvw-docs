@@ -32,13 +32,6 @@
 | ![Gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) | 5% |
 | ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 5% |
 
-## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-
-!!! info
-    LEGENDARY ENCOUNTER
-
 
 ## Trainers
 ### Roughneck Reese
