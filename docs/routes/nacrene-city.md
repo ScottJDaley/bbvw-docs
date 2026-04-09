@@ -36,3 +36,8 @@
 | ![Jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) | 18 | - | - |  |
 | ![Delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) | 18 | - | - |  |
 
+### PKMN Trainer N – 2
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 19 | - | - |  |
+

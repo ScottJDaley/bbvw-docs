@@ -251,8 +251,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         elif marker == '=':
             old_lv = next((x['level'] for x in base_lv_moves if x['name'] == m['name']), "?")
             change_text = f' <span class="pill pill-shifted">SHIFTED (from {old_lv})</span>'
-        row_parts = row.split('|'); row_parts[1] = row_parts[1] + change_text; row = "|".join(row_parts)
-        md += f"| {m['level']} {row}\n"
+        md += f"| {m['level']}{change_text} {row}\n"
     
     learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
     rom_machines = p_rom.get('tm_hm', [])
@@ -269,7 +268,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         for m in moves_list:
             row = get_move_display(m['name'], move_data, rom_data['move_stat_changes'], show_tm=True)
             if m.get('rom_new'):
-                row_parts = row.split('|'); row_parts[2] = row_parts[2] + ' <span class="pill pill-new">NEW</span>'; row = "|".join(row_parts)
+                row_parts = row.split('|'); row_parts[1] = row_parts[1] + ' <span class="pill pill-new">NEW</span>'; row = "|".join(row_parts)
             res += row + "\n"
         return res
     md += gen_move_table("TM Moves", [m for m in learnable if m['method'] == 'machine' and move_data.get(m['name'], {}).get('tm_num', '').startswith('TM')])

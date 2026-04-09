@@ -144,3 +144,8 @@
 | ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 42 | - | - |  |
 | ![Arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) | 42 | - | - |  |
 
+### PKMN Trainer N – 4
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 47 | - | - |  |
+

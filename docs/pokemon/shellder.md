@@ -65,8 +65,8 @@ None
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 4 | [Withdraw](../moves/withdraw.md) | ![water](../img/types/water.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
-| 7 | [Supersonic](../moves/supersonic.md)  <span class="pill pill-shifted">SHIFTED (from 8)</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 55 | 20 |
-| 10 | -  <span class="pill pill-new">NEW</span>| Bubblebeam | - | - | - | - |
+| 7 <span class="pill pill-shifted">SHIFTED (from 8)</span> | [Supersonic](../moves/supersonic.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 55 | 20 |
+| 10 <span class="pill pill-new">NEW</span> | - | Bubblebeam | - | - | - | - |
 | 13 | [Icicle spear](../moves/icicle-spear.md) | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 25 | 100 | 30 |
 | 16 | [Protect](../moves/protect.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 20 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |

@@ -145,6 +145,7 @@ def parse_trainers():
             if "–" in header and not current_location:
                 parts = header.split("–")
                 if len(parts) > 1 and any(x in parts[1] for x in ["Route", "Town", "City", "Gym"]): current_location = parts[1].strip()
+        
         if "Team" in header and current_location:
             trainer_name = current_trainer if current_trainer else header
             trainer_data = {'name': trainer_name, 'pokemon': [], 'important': True}
@@ -160,8 +161,14 @@ def parse_trainers():
                 for ml in [m1, m2, m3, m4]:
                     if j < len(ml): p_data['moves'].append(ml[j])
                 trainer_data['pokemon'].append(p_data)
-            if current_location not in important_rosters: important_rosters[current_location] = []
-            important_rosters[current_location].append(trainer_data)
+            
+            # Normalize location: map Gym to City/Town
+            norm_loc = current_location.replace(' Gym', ' City') # Usually City
+            if 'Nacrene' in norm_loc: norm_loc = 'Nacrene City'
+            if 'Striaton' in norm_loc: norm_loc = 'Striaton City'
+            
+            if norm_loc not in important_rosters: important_rosters[norm_loc] = []
+            important_rosters[norm_loc].append(trainer_data)
 
     trainers, trainer_locations_ordered = {}, []
     with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
@@ -195,6 +202,16 @@ def parse_trainers():
                          if pk_match: trainer_data['pokemon'].append({'name': pk_match.group(1).strip(), 'level': pk_match.group(2).strip(), 'moves': [], 'item': '-', 'ability': '-'})
                      if location not in trainers: trainers[location] = []
                      trainers[location].append(trainer_data)
+    
+    # Merge any important rosters that weren't picked up by the summary list
+    for loc, teams in important_rosters.items():
+        if loc not in trainers:
+            trainers[loc] = teams
+        else:
+            for team in teams:
+                if not any(t['name'] == team['name'] for t in trainers[loc]):
+                    trainers[loc].append(team)
+
     return trainers, trainer_locations_ordered
 
 if __name__ == "__main__":

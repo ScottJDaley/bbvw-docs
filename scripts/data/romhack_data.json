@@ -28823,6 +28823,23 @@
           }
         ],
         "important": true
+      },
+      {
+        "name": "Rival Bianca \u2013 Final",
+        "pokemon": [
+          {
+            "name": "Persian",
+            "level": "88",
+            "item": "Normal Gem",
+            "ability": "-",
+            "moves": [
+              "Nasty Plot",
+              "Hypnosis",
+              "Swift"
+            ]
+          }
+        ],
+        "important": true
       }
     ],
     "Route 1": [
@@ -29025,6 +29042,19 @@
           {
             "name": "Tepig",
             "level": "?",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
+      },
+      {
+        "name": "Rival Bianca \u2013 2",
+        "pokemon": [
+          {
+            "name": "Meowth",
+            "level": "9",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -29730,6 +29760,19 @@
           }
         ],
         "important": false
+      },
+      {
+        "name": "PKMN Trainer N \u2013 2",
+        "pokemon": [
+          {
+            "name": "Drilbur",
+            "level": "19",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
       }
     ],
     "Pinwheel Forest": [
@@ -31913,6 +31956,19 @@
           }
         ],
         "important": false
+      },
+      {
+        "name": "PKMN Trainer N \u2013 3",
+        "pokemon": [
+          {
+            "name": "Hippopotas",
+            "level": "33",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
       }
     ],
     "Route 16": [
@@ -32705,6 +32761,19 @@
           }
         ],
         "important": true
+      },
+      {
+        "name": "Rival Bianca \u2013 4",
+        "pokemon": [
+          {
+            "name": "Mienfoo",
+            "level": "41",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
       }
     ],
     "Route 6": [
@@ -33232,6 +33301,19 @@
           }
         ],
         "important": false
+      },
+      {
+        "name": "PKMN Trainer N \u2013 4",
+        "pokemon": [
+          {
+            "name": "Rotom",
+            "level": "47",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
       }
     ],
     "Route 7": [
@@ -34917,6 +34999,23 @@
           }
         ],
         "important": true
+      },
+      {
+        "name": "Rival Bianca \u2013 5",
+        "pokemon": [
+          {
+            "name": "Persian",
+            "level": "61",
+            "item": "Chople Berry",
+            "ability": "-",
+            "moves": [
+              "Nasty Plot",
+              "Hypnosis",
+              "Swift"
+            ]
+          }
+        ],
+        "important": true
       }
     ],
     "Moor of Icirrus": [
@@ -36020,6 +36119,39 @@
           }
         ],
         "important": false
+      },
+      {
+        "name": "PKMN Trainer N \u2013 Final",
+        "pokemon": [
+          {
+            "name": "Zoroark",
+            "level": "73",
+            "item": "Dark Gem",
+            "ability": "-",
+            "moves": [
+              "Night Daze"
+            ]
+          }
+        ],
+        "important": true
+      },
+      {
+        "name": "Team Plasma Ghetsis",
+        "pokemon": [
+          {
+            "name": "Drapion",
+            "level": "75",
+            "item": "Scope Lens",
+            "ability": "-",
+            "moves": [
+              "Night Slash",
+              "Cross Poison",
+              "Storm Throw*",
+              "Toxic Spikes"
+            ]
+          }
+        ],
+        "important": true
       }
     ],
     "Victory Road": [
@@ -36350,6 +36482,21 @@
           }
         ],
         "important": false
+      }
+    ],
+    "Castelia City-Route 4 Gatehouse": [
+      {
+        "name": "Rival Bianca \u2013 3",
+        "pokemon": [
+          {
+            "name": "Munna",
+            "level": "29",
+            "item": "-",
+            "ability": "-",
+            "moves": []
+          }
+        ],
+        "important": true
       }
     ]
   },

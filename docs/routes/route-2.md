@@ -58,3 +58,8 @@
 | ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
 | ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
 
+### Rival Bianca – 2
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 9 | - | - |  |
+

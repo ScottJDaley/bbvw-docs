@@ -106,3 +106,13 @@
 | ![Skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 63 | - | - |  |
 | ![Luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) | 63 | - | - |  |
 
+### PKMN Trainer N – Final
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Zoroark](../img/pokemon/571.png) | [Zoroark](../pokemon/zoroark.md) | 73 | - | Dark Gem | Night Daze |
+
+### Team Plasma Ghetsis
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 75 | - | Scope Lens | Night Slash, Cross Poison, Storm Throw*, Toxic Spikes |
+

@@ -47,3 +47,8 @@
 | ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 35 | - | - |  |
 | ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
 
+### PKMN Trainer N – 3
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 33 | - | - |  |
+
