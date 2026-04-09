@@ -12,16 +12,22 @@
 Has an increased chance for a critical hit.
 
 ## Learned by
-- [Bellossom](../pokemon/bellossom.md)
-- [Farfetchd](../pokemon/farfetchd.md)
-- [Gallade](../pokemon/gallade.md)
-- [Grovyle](../pokemon/grovyle.md)
-- [Leafeon](../pokemon/leafeon.md)
-- [Leavanny](../pokemon/leavanny.md)
-- [Sceptile](../pokemon/sceptile.md)
-- [Serperior](../pokemon/serperior.md)
-- [Servine](../pokemon/servine.md)
-- [Snivy](../pokemon/snivy.md)
-- [Tropius](../pokemon/tropius.md)
-- [Victreebel](../pokemon/victreebel.md)
-- [Virizion](../pokemon/virizion.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
+| ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
+| ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
+| ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
+| ![grovyle](../img/pokemon/253.png) | [Grovyle](../pokemon/grovyle.md) |
+| ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
+| ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
+| ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
+| ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
+| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
+| ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
+| ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
+| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
+| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
+| ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |
+| ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
+| ![virizion](../img/pokemon/640.png) | [Virizion](../pokemon/virizion.md) |

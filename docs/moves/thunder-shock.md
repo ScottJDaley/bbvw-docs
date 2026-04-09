@@ -12,25 +12,27 @@
 Has a $effect_chance% chance to paralyze the target.
 
 ## Learned by
-- [Ampharos](../pokemon/ampharos.md)
-- [Electabuzz](../pokemon/electabuzz.md)
-- [Electivire](../pokemon/electivire.md)
-- [Elekid](../pokemon/elekid.md)
-- [Emolga](../pokemon/emolga.md)
-- [Flaaffy](../pokemon/flaaffy.md)
-- [Jolteon](../pokemon/jolteon.md)
-- [Klang](../pokemon/klang.md)
-- [Klink](../pokemon/klink.md)
-- [Klinklang](../pokemon/klinklang.md)
-- [Magnemite](../pokemon/magnemite.md)
-- [Magneton](../pokemon/magneton.md)
-- [Magnezone](../pokemon/magnezone.md)
-- [Mareep](../pokemon/mareep.md)
-- [Pichu](../pokemon/pichu.md)
-- [Pikachu](../pokemon/pikachu.md)
-- [Raichu](../pokemon/raichu.md)
-- [Raikou](../pokemon/raikou.md)
-- [Rotom](../pokemon/rotom.md)
-- [Stunfisk](../pokemon/stunfisk.md)
-- [Thundurus-incarnate](../pokemon/thundurus-incarnate.md)
-- [Zapdos](../pokemon/zapdos.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
+| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
+| ![electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) |
+| ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
+| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
+| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
+| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
+| ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
+| ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
+| ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |
+| ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
+| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
+| ![thundurus-incarnate](../img/pokemon/642.png) | [Thundurus-incarnate](../pokemon/thundurus-incarnate.md) |
+| ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |

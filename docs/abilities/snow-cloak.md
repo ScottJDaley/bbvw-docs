@@ -4,13 +4,11 @@
 Increases evasion to 1.25× during hail.  Protects against hail damage.
 
 ## Pokemon with this Ability
-- [Articuno](../pokemon/articuno.md)
-- [Beartic](../pokemon/beartic.md)
-- [Cubchoo](../pokemon/cubchoo.md)
-- [Froslass](../pokemon/froslass.md)
-- [Glaceon](../pokemon/glaceon.md)
-- [Mamoswine](../pokemon/mamoswine.md)
-- [Piloswine](../pokemon/piloswine.md)
-- [Swinub](../pokemon/swinub.md)
-- [Vanillish](../pokemon/vanillish.md)
-- [Vanillite](../pokemon/vanillite.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![articuno](../img/pokemon/144.png) | [Articuno](../pokemon/articuno.md) |
+| ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
+| ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
+| ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
+| ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
+| ![swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) |

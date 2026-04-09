@@ -12,5 +12,10 @@
 Scatters money on the ground worth five times the user’s level.
 
 ## Learned by
-- [Meowth](../pokemon/meowth.md)
-- [Purrloin](../pokemon/purrloin.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
+| ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
+| ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
+| ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
+| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |

@@ -4,15 +4,17 @@
 Strengthens moves to 1.3× their power when moving last.
 
 ## Pokemon with this Ability
-- [Beheeyem](../pokemon/beheeyem.md)
-- [Elgyem](../pokemon/elgyem.md)
-- [Magnemite](../pokemon/magnemite.md)
-- [Magneton](../pokemon/magneton.md)
-- [Magnezone](../pokemon/magnezone.md)
-- [Patrat](../pokemon/patrat.md)
-- [Porygon](../pokemon/porygon.md)
-- [Porygon-z](../pokemon/porygon-z.md)
-- [Porygon2](../pokemon/porygon2.md)
-- [Starmie](../pokemon/starmie.md)
-- [Staryu](../pokemon/staryu.md)
-- [Watchog](../pokemon/watchog.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
+| ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
+| ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
+| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
+| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
+| ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
+| ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
+| ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |

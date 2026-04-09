@@ -12,4 +12,6 @@
 User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.
 
 ## Learned by
-- [Giratina-altered](../pokemon/giratina-altered.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![giratina-altered](../img/pokemon/487.png) | [Giratina-altered](../pokemon/giratina-altered.md) |

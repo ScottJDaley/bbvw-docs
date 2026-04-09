@@ -33,7 +33,7 @@
 | ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
 | ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 10% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 25% |
@@ -51,7 +51,7 @@
 | ![Dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 60% |
 | ![Lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 60% |
@@ -64,7 +64,7 @@
 | ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 30% |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |

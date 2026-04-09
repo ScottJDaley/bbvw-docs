@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to burn the target.
 
 ## Learned by
-- [Reshiram](../pokemon/reshiram.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |

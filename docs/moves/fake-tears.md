@@ -12,36 +12,42 @@
 Lowers the target’s Special Defense by two stages.
 
 ## Learned by
-- [Azurill](../pokemon/azurill.md)
-- [Bonsly](../pokemon/bonsly.md)
-- [Buneary](../pokemon/buneary.md)
-- [Cleffa](../pokemon/cleffa.md)
-- [Cottonee](../pokemon/cottonee.md)
-- [Deerling](../pokemon/deerling.md)
-- [Eevee](../pokemon/eevee.md)
-- [Glameow](../pokemon/glameow.md)
-- [Gothita](../pokemon/gothita.md)
-- [Gothitelle](../pokemon/gothitelle.md)
-- [Gothorita](../pokemon/gothorita.md)
-- [Igglybuff](../pokemon/igglybuff.md)
-- [Illumise](../pokemon/illumise.md)
-- [Jynx](../pokemon/jynx.md)
-- [Mawile](../pokemon/mawile.md)
-- [Minccino](../pokemon/minccino.md)
-- [Minun](../pokemon/minun.md)
-- [Pachirisu](../pokemon/pachirisu.md)
-- [Plusle](../pokemon/plusle.md)
-- [Purrloin](../pokemon/purrloin.md)
-- [Shroomish](../pokemon/shroomish.md)
-- [Skitty](../pokemon/skitty.md)
-- [Smoochum](../pokemon/smoochum.md)
-- [Snorunt](../pokemon/snorunt.md)
-- [Spinda](../pokemon/spinda.md)
-- [Teddiursa](../pokemon/teddiursa.md)
-- [Totodile](../pokemon/totodile.md)
-- [Ursaring](../pokemon/ursaring.md)
-- [Vullaby](../pokemon/vullaby.md)
-- [Whismur](../pokemon/whismur.md)
-- [Woobat](../pokemon/woobat.md)
-- [Yamask](../pokemon/yamask.md)
-- [Zorua](../pokemon/zorua.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
+| ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) |
+| ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
+| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
+| ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
+| ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
+| ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
+| ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
+| ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
+| ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
+| ![gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) |
+| ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) |
+| ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
+| ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
+| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
+| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
+| ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
+| ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
+| ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
+| ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
+| ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
+| ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
+| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
+| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
+| ![snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) |
+| ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |
+| ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
+| ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
+| ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
+| ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
+| ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |
+| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
+| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
+| ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

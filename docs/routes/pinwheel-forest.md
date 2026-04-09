@@ -73,7 +73,7 @@
 | --- | --- | --- |
 | ![Surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) | 100% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) | 100% |
@@ -84,7 +84,7 @@
 | ![Psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 60% |
 | ![Poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) | 40% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 95% |

@@ -4,4 +4,7 @@
 Transforms upon entering battle.
 
 ## Pokemon with this Ability
-- [Ditto](../pokemon/ditto.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) |
+| ![ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) |

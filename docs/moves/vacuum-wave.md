@@ -12,8 +12,14 @@
 Inflicts regular damage with no additional effect.
 
 ## Learned by
-- [Croagunk](../pokemon/croagunk.md)
-- [Hitmonchan](../pokemon/hitmonchan.md)
-- [Riolu](../pokemon/riolu.md)
-- [Scyther](../pokemon/scyther.md)
-- [Tyrogue](../pokemon/tyrogue.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
+| ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
+| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
+| ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
+| ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
+| ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
+| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
+| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
+| ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) |

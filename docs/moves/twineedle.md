@@ -12,9 +12,11 @@
 Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.
 
 ## Learned by
-- [Beedrill](../pokemon/beedrill.md)
-- [Escavalier](../pokemon/escavalier.md)
-- [Shellder](../pokemon/shellder.md)
-- [Skorupi](../pokemon/skorupi.md)
-- [Spinarak](../pokemon/spinarak.md)
-- [Venipede](../pokemon/venipede.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
+| ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
+| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+| ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
+| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
+| ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |

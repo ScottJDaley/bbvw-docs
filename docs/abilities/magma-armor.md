@@ -4,6 +4,6 @@
 Prevents freezing.
 
 ## Pokemon with this Ability
-- [Camerupt](../pokemon/camerupt.md)
-- [Magcargo](../pokemon/magcargo.md)
-- [Slugma](../pokemon/slugma.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |

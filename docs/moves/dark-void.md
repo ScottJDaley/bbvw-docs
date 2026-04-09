@@ -12,4 +12,6 @@
 Puts the target to sleep.
 
 ## Learned by
-- [Darkrai](../pokemon/darkrai.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |

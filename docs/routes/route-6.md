@@ -71,7 +71,7 @@
 | ![Spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
@@ -90,7 +90,7 @@
 | ![Spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |

@@ -4,10 +4,8 @@
 Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.
 
 ## Pokemon with this Ability
-- [Barboach](../pokemon/barboach.md)
-- [Croagunk](../pokemon/croagunk.md)
-- [Eevee](../pokemon/eevee.md)
-- [Ferrothorn](../pokemon/ferrothorn.md)
-- [Toxicroak](../pokemon/toxicroak.md)
-- [Whiscash](../pokemon/whiscash.md)
-- [Wormadam-plant](../pokemon/wormadam-plant.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
+| ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
+| ![wormadam-plant](../img/pokemon/413.png) | [Wormadam-plant](../pokemon/wormadam-plant.md) |

@@ -4,32 +4,16 @@
 Prevents accuracy from being lowered.
 
 ## Pokemon with this Ability
-- [Braviary](../pokemon/braviary.md)
-- [Chatot](../pokemon/chatot.md)
-- [Drapion](../pokemon/drapion.md)
-- [Ducklett](../pokemon/ducklett.md)
-- [Farfetchd](../pokemon/farfetchd.md)
-- [Fearow](../pokemon/fearow.md)
-- [Furret](../pokemon/furret.md)
-- [Glameow](../pokemon/glameow.md)
-- [Hitmonchan](../pokemon/hitmonchan.md)
-- [Hoothoot](../pokemon/hoothoot.md)
-- [Noctowl](../pokemon/noctowl.md)
-- [Patrat](../pokemon/patrat.md)
-- [Pelipper](../pokemon/pelipper.md)
-- [Pidgeot](../pokemon/pidgeot.md)
-- [Pidgeotto](../pokemon/pidgeotto.md)
-- [Pidgey](../pokemon/pidgey.md)
-- [Rufflet](../pokemon/rufflet.md)
-- [Sableye](../pokemon/sableye.md)
-- [Sentret](../pokemon/sentret.md)
-- [Skarmory](../pokemon/skarmory.md)
-- [Skorupi](../pokemon/skorupi.md)
-- [Skuntank](../pokemon/skuntank.md)
-- [Sneasel](../pokemon/sneasel.md)
-- [Spearow](../pokemon/spearow.md)
-- [Starly](../pokemon/starly.md)
-- [Stunky](../pokemon/stunky.md)
-- [Swanna](../pokemon/swanna.md)
-- [Watchog](../pokemon/watchog.md)
-- [Wingull](../pokemon/wingull.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
+| ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
+| ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
+| ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) |
+| ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
+| ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
+| ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
+| ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
+| ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
+| ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |
+| ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |

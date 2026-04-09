@@ -7,7 +7,7 @@
 | ![Mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) | 60% |
 | ![Wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) | 60% |
@@ -20,7 +20,7 @@
 | ![Shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 30% |
 | ![Luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 5% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 60% |

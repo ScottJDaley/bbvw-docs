@@ -12,36 +12,40 @@
 Has a $effect_chance% chance to lower the target’s Speed by one stage.
 
 ## Learned by
-- [Azumarill](../pokemon/azumarill.md)
-- [Azurill](../pokemon/azurill.md)
-- [Blastoise](../pokemon/blastoise.md)
-- [Chinchou](../pokemon/chinchou.md)
-- [Corphish](../pokemon/corphish.md)
-- [Corsola](../pokemon/corsola.md)
-- [Crawdaunt](../pokemon/crawdaunt.md)
-- [Empoleon](../pokemon/empoleon.md)
-- [Frillish-male](../pokemon/frillish-male.md)
-- [Horsea](../pokemon/horsea.md)
-- [Jellicent-male](../pokemon/jellicent-male.md)
-- [Kingdra](../pokemon/kingdra.md)
-- [Kingler](../pokemon/kingler.md)
-- [Krabby](../pokemon/krabby.md)
-- [Lanturn](../pokemon/lanturn.md)
-- [Manaphy](../pokemon/manaphy.md)
-- [Mantine](../pokemon/mantine.md)
-- [Mantyke](../pokemon/mantyke.md)
-- [Marill](../pokemon/marill.md)
-- [Masquerain](../pokemon/masquerain.md)
-- [Palpitoad](../pokemon/palpitoad.md)
-- [Phione](../pokemon/phione.md)
-- [Piplup](../pokemon/piplup.md)
-- [Poliwag](../pokemon/poliwag.md)
-- [Poliwhirl](../pokemon/poliwhirl.md)
-- [Prinplup](../pokemon/prinplup.md)
-- [Seadra](../pokemon/seadra.md)
-- [Seismitoad](../pokemon/seismitoad.md)
-- [Squirtle](../pokemon/squirtle.md)
-- [Surskit](../pokemon/surskit.md)
-- [Tentacool](../pokemon/tentacool.md)
-- [Tympole](../pokemon/tympole.md)
-- [Wartortle](../pokemon/wartortle.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
+| ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
+| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
+| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
+| ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
+| ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
+| ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
+| ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
+| ![frillish-male](../img/pokemon/592.png) | [Frillish-male](../pokemon/frillish-male.md) |
+| ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
+| ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
+| ![jellicent-male](../img/pokemon/593.png) | [Jellicent-male](../pokemon/jellicent-male.md) |
+| ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
+| ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
+| ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
+| ![magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) |
+| ![manaphy](../img/pokemon/490.png) | [Manaphy](../pokemon/manaphy.md) |
+| ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
+| ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
+| ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
+| ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
+| ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
+| ![phione](../img/pokemon/489.png) | [Phione](../pokemon/phione.md) |
+| ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
+| ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
+| ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
+| ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) |
+| ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
+| ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
+| ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
+| ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
+| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
+| ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
+| ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |

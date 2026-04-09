@@ -12,10 +12,12 @@
 Inflicts regular damage with no additional effect.
 
 ## Learned by
-- [Geodude](../pokemon/geodude.md)
-- [Golett](../pokemon/golett.md)
-- [Golurk](../pokemon/golurk.md)
-- [Hitmonchan](../pokemon/hitmonchan.md)
-- [Kangaskhan](../pokemon/kangaskhan.md)
-- [Magby](../pokemon/magby.md)
-- [Mew](../pokemon/mew.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
+| ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
+| ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
+| ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
+| ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
+| ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |

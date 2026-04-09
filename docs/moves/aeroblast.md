@@ -12,4 +12,6 @@
 Has an increased chance for a critical hit.
 
 ## Learned by
-- [Lugia](../pokemon/lugia.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |

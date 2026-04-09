@@ -12,4 +12,6 @@
 If the user is holding a appropriate plate or drive, the damage inflicted will match it.
 
 ## Learned by
-- [Arceus](../pokemon/arceus.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |

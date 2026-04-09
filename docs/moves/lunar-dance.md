@@ -12,4 +12,6 @@
 User faints, and its replacement is fully healed.
 
 ## Learned by
-- [Cresselia](../pokemon/cresselia.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |

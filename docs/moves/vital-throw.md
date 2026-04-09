@@ -12,11 +12,13 @@
 Never misses.
 
 ## Learned by
-- [Hariyama](../pokemon/hariyama.md)
-- [Machamp](../pokemon/machamp.md)
-- [Machoke](../pokemon/machoke.md)
-- [Machop](../pokemon/machop.md)
-- [Makuhita](../pokemon/makuhita.md)
-- [Mienfoo](../pokemon/mienfoo.md)
-- [Pinsir](../pokemon/pinsir.md)
-- [Throh](../pokemon/throh.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
+| ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
+| ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) |
+| ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
+| ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
+| ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
+| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |
+| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |

@@ -12,9 +12,16 @@
 Ends wild battles.  Forces trainers to switch Pokémon.
 
 ## Learned by
-- [Buneary](../pokemon/buneary.md)
-- [Kangaskhan](../pokemon/kangaskhan.md)
-- [Poliwrath](../pokemon/poliwrath.md)
-- [Riolu](../pokemon/riolu.md)
-- [Throh](../pokemon/throh.md)
-- [Whismur](../pokemon/whismur.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
+| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
+| ![electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) |
+| ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
+| ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
+| ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
+| ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
+| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
+| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |

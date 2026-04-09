@@ -24,7 +24,7 @@
 | ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 30% |
 | ![Pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
@@ -37,7 +37,7 @@
 | ![Krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 60% |
 | ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 40% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 60% |

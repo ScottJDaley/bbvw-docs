@@ -4,6 +4,7 @@
 Prevents poison.
 
 ## Pokemon with this Ability
-- [Gligar](../pokemon/gligar.md)
-- [Snorlax](../pokemon/snorlax.md)
-- [Zangoose](../pokemon/zangoose.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
+| ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |

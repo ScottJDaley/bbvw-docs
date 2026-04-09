@@ -12,21 +12,23 @@
 Hits 2-5 times in one turn.
 
 ## Learned by
-- [Ariados](../pokemon/ariados.md)
-- [Beedrill](../pokemon/beedrill.md)
-- [Budew](../pokemon/budew.md)
-- [Cacnea](../pokemon/cacnea.md)
-- [Cacturne](../pokemon/cacturne.md)
-- [Drapion](../pokemon/drapion.md)
-- [Ferroseed](../pokemon/ferroseed.md)
-- [Ferrothorn](../pokemon/ferrothorn.md)
-- [Jolteon](../pokemon/jolteon.md)
-- [Joltik](../pokemon/joltik.md)
-- [Maractus](../pokemon/maractus.md)
-- [Pineco](../pokemon/pineco.md)
-- [Qwilfish](../pokemon/qwilfish.md)
-- [Roselia](../pokemon/roselia.md)
-- [Skorupi](../pokemon/skorupi.md)
-- [Spinarak](../pokemon/spinarak.md)
-- [Venipede](../pokemon/venipede.md)
-- [Zigzagoon](../pokemon/zigzagoon.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
+| ![budew](../img/pokemon/406.png) | [Budew](../pokemon/budew.md) |
+| ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
+| ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
+| ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
+| ![ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) |
+| ![ferrothorn](../img/pokemon/598.png) | [Ferrothorn](../pokemon/ferrothorn.md) |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
+| ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
+| ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
+| ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
+| ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
+| ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
+| ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
+| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
+| ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |
+| ![zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) |

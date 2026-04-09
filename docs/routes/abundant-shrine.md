@@ -40,7 +40,7 @@
 | --- | --- | --- |
 | ![Slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) | 100% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 60% |
@@ -52,7 +52,7 @@
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |

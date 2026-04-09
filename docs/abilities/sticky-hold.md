@@ -4,11 +4,8 @@
 Prevents a held item from being removed by other Pokémon.
 
 ## Pokemon with this Ability
-- [Accelgor](../pokemon/accelgor.md)
-- [Gastrodon](../pokemon/gastrodon.md)
-- [Grimer](../pokemon/grimer.md)
-- [Gulpin](../pokemon/gulpin.md)
-- [Muk](../pokemon/muk.md)
-- [Shellos](../pokemon/shellos.md)
-- [Swalot](../pokemon/swalot.md)
-- [Trubbish](../pokemon/trubbish.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
+| ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
+| ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |

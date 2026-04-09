@@ -12,23 +12,25 @@
 Has a $effect_chance% chance to poison the target.
 
 ## Learned by
-- [Chandelure](../pokemon/chandelure.md)
-- [Emboar](../pokemon/emboar.md)
-- [Flareon](../pokemon/flareon.md)
-- [Gastly](../pokemon/gastly.md)
-- [Gulpin](../pokemon/gulpin.md)
-- [Houndoom](../pokemon/houndoom.md)
-- [Houndour](../pokemon/houndour.md)
-- [Koffing](../pokemon/koffing.md)
-- [Lampent](../pokemon/lampent.md)
-- [Litwick](../pokemon/litwick.md)
-- [Magby](../pokemon/magby.md)
-- [Magcargo](../pokemon/magcargo.md)
-- [Magmar](../pokemon/magmar.md)
-- [Magmortar](../pokemon/magmortar.md)
-- [Pignite](../pokemon/pignite.md)
-- [Slugma](../pokemon/slugma.md)
-- [Stunky](../pokemon/stunky.md)
-- [Tepig](../pokemon/tepig.md)
-- [Torkoal](../pokemon/torkoal.md)
-- [Weezing](../pokemon/weezing.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![chandelure](../img/pokemon/609.png) | [Chandelure](../pokemon/chandelure.md) |
+| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
+| ![flareon](../img/pokemon/136.png) | [Flareon](../pokemon/flareon.md) |
+| ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
+| ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
+| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
+| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
+| ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
+| ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
+| ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
+| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
+| ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
+| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
+| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
+| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
+| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
+| ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
+| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
+| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |

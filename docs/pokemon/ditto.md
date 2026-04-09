@@ -55,10 +55,10 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass, normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass, doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| [Route 5](../routes/route-5.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
-| Level | Type | Move | Cat | Power | Acc | PP |
+| Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | ![normal](../img/types/normal.png) | [Transform](../moves/transform.md) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 1 | [Transform](../moves/transform.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |

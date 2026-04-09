@@ -12,8 +12,10 @@
 User foregoes its next turn to recharge.
 
 ## Learned by
-- [Blastoise](../pokemon/blastoise.md)
-- [Empoleon](../pokemon/empoleon.md)
-- [Feraligatr](../pokemon/feraligatr.md)
-- [Samurott](../pokemon/samurott.md)
-- [Swampert](../pokemon/swampert.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
+| ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
+| ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
+| ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
+| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |

@@ -12,19 +12,21 @@
 Has a $effect_chance% chance to confuse the target.
 
 ## Learned by
-- [Breloom](../pokemon/breloom.md)
-- [Cacnea](../pokemon/cacnea.md)
-- [Conkeldurr](../pokemon/conkeldurr.md)
-- [Croagunk](../pokemon/croagunk.md)
-- [Elekid](../pokemon/elekid.md)
-- [Golett](../pokemon/golett.md)
-- [Golurk](../pokemon/golurk.md)
-- [Gurdurr](../pokemon/gurdurr.md)
-- [Machamp](../pokemon/machamp.md)
-- [Machoke](../pokemon/machoke.md)
-- [Machop](../pokemon/machop.md)
-- [Magby](../pokemon/magby.md)
-- [Makuhita](../pokemon/makuhita.md)
-- [Meditite](../pokemon/meditite.md)
-- [Poliwrath](../pokemon/poliwrath.md)
-- [Timburr](../pokemon/timburr.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
+| ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
+| ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
+| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
+| ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
+| ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
+| ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
+| ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) |
+| ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
+| ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) |
+| ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
+| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
+| ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
+| ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
+| ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |

@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.
 
 ## Learned by
-- [Ho-oh](../pokemon/ho-oh.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |

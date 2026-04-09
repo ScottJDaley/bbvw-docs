@@ -12,8 +12,10 @@
 Has a $effect_chance% chance to make the target flinch.
 
 ## Learned by
-- [Jynx](../pokemon/jynx.md)
-- [Miltank](../pokemon/miltank.md)
-- [Smoochum](../pokemon/smoochum.md)
-- [Swoobat](../pokemon/swoobat.md)
-- [Woobat](../pokemon/woobat.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
+| ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
+| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
+| ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
+| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |

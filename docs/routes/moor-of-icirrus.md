@@ -19,7 +19,7 @@
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 60% |
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 60% |
@@ -31,7 +31,7 @@
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 70% |
 | ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 60% |

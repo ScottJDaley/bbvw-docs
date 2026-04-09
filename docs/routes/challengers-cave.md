@@ -29,7 +29,7 @@
 | ![Ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 10% |
 | ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 10% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
@@ -45,7 +45,7 @@
 | ![Psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 90% |
 | ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
@@ -58,7 +58,7 @@
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 90% |
 | ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 60% |

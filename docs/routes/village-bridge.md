@@ -37,7 +37,7 @@
 | ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
 | ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |
@@ -49,7 +49,7 @@
 | ![Carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 70% |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 60% |

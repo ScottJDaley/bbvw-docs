@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | ![Magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 100% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 100% |
@@ -59,7 +59,7 @@
 | ![Magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 30% |
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |

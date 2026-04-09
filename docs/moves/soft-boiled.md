@@ -12,5 +12,7 @@
 Heals the user by half its max HP.
 
 ## Learned by
-- [Blissey](../pokemon/blissey.md)
-- [Chansey](../pokemon/chansey.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |

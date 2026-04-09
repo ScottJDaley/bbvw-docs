@@ -12,4 +12,6 @@
 Has an increased chance for a critical hit.
 
 ## Learned by
-- [Vespiquen](../pokemon/vespiquen.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |

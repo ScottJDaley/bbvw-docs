@@ -4,20 +4,13 @@
 Prevents confusion.
 
 ## Pokemon with this Ability
-- [Glameow](../pokemon/glameow.md)
-- [Grumpig](../pokemon/grumpig.md)
-- [Lickilicky](../pokemon/lickilicky.md)
-- [Lickitung](../pokemon/lickitung.md)
-- [Lilligant](../pokemon/lilligant.md)
-- [Lombre](../pokemon/lombre.md)
-- [Lotad](../pokemon/lotad.md)
-- [Ludicolo](../pokemon/ludicolo.md)
-- [Numel](../pokemon/numel.md)
-- [Petilil](../pokemon/petilil.md)
-- [Purugly](../pokemon/purugly.md)
-- [Slowbro](../pokemon/slowbro.md)
-- [Slowking](../pokemon/slowking.md)
-- [Slowpoke](../pokemon/slowpoke.md)
-- [Smeargle](../pokemon/smeargle.md)
-- [Spinda](../pokemon/spinda.md)
-- [Spoink](../pokemon/spoink.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
+| ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
+| ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
+| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) |
+| ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
+| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
+| ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |
+| ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |

@@ -25,7 +25,7 @@
 | ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
 | ![Durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 5% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |

@@ -4,8 +4,8 @@
 Prevents opponents from fleeing or switching out.
 
 ## Pokemon with this Ability
-- [Gothita](../pokemon/gothita.md)
-- [Gothitelle](../pokemon/gothitelle.md)
-- [Gothorita](../pokemon/gothorita.md)
-- [Wobbuffet](../pokemon/wobbuffet.md)
-- [Wynaut](../pokemon/wynaut.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) |
+| ![wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) |
+| ![wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) |

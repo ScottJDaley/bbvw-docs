@@ -4,7 +4,9 @@
 Damages opponents using leeching moves for as much as they would heal.
 
 ## Pokemon with this Ability
-- [Gulpin](../pokemon/gulpin.md)
-- [Swalot](../pokemon/swalot.md)
-- [Tentacool](../pokemon/tentacool.md)
-- [Tentacruel](../pokemon/tentacruel.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
+| ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
+| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
+| ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |

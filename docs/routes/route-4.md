@@ -21,7 +21,7 @@
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 30% |
 | ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 |  | [Jellicent](../pokemon/jellicent.md) | 60% |
@@ -36,7 +36,7 @@
 | ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30% |
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 60% |

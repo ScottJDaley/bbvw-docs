@@ -47,7 +47,7 @@
 | ![Psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 30% |
 | ![Marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 60% |
@@ -63,7 +63,7 @@
 | ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 5% |
 | ![Remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) | 5% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 60% |

@@ -12,6 +12,8 @@
 Inflicts regular damage with no additional effect.
 
 ## Learned by
-- [Blissey](../pokemon/blissey.md)
-- [Chansey](../pokemon/chansey.md)
-- [Exeggutor](../pokemon/exeggutor.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
+| ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |

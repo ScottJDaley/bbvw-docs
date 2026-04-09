@@ -12,9 +12,11 @@
 Paralyzes the target.
 
 ## Learned by
-- [Arbok](../pokemon/arbok.md)
-- [Druddigon](../pokemon/druddigon.md)
-- [Dunsparce](../pokemon/dunsparce.md)
-- [Ekans](../pokemon/ekans.md)
-- [Seviper](../pokemon/seviper.md)
-- [Snivy](../pokemon/snivy.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
+| ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
+| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
+| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
+| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
+| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |

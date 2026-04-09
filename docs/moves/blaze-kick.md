@@ -12,7 +12,10 @@
 Has an increased chance for a critical hit and a $effect_chance% chance to burn the target.
 
 ## Learned by
-- [Blaziken](../pokemon/blaziken.md)
-- [Chimchar](../pokemon/chimchar.md)
-- [Hitmonlee](../pokemon/hitmonlee.md)
-- [Riolu](../pokemon/riolu.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
+| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
+| ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
+| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
+| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |

@@ -4,10 +4,8 @@
 Prevents the Pokémon from using its held item in battle.
 
 ## Pokemon with this Ability
-- [Audino](../pokemon/audino.md)
-- [Buneary](../pokemon/buneary.md)
-- [Golett](../pokemon/golett.md)
-- [Golurk](../pokemon/golurk.md)
-- [Lopunny](../pokemon/lopunny.md)
-- [Swoobat](../pokemon/swoobat.md)
-- [Woobat](../pokemon/woobat.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
+| ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
+| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |

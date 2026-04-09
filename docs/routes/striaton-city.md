@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | ![Marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) | 100% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) | 100% |
@@ -18,7 +18,7 @@
 | ![Slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) | 30% |
 | ![Staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |

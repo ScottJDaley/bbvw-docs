@@ -4,20 +4,18 @@
 Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.
 
 ## Pokemon with this Ability
-- [Arcanine](../pokemon/arcanine.md)
-- [Chandelure](../pokemon/chandelure.md)
-- [Cyndaquil](../pokemon/cyndaquil.md)
-- [Flareon](../pokemon/flareon.md)
-- [Growlithe](../pokemon/growlithe.md)
-- [Heatmor](../pokemon/heatmor.md)
-- [Heatran](../pokemon/heatran.md)
-- [Houndoom](../pokemon/houndoom.md)
-- [Houndour](../pokemon/houndour.md)
-- [Lampent](../pokemon/lampent.md)
-- [Litwick](../pokemon/litwick.md)
-- [Ninetales](../pokemon/ninetales.md)
-- [Ponyta](../pokemon/ponyta.md)
-- [Quilava](../pokemon/quilava.md)
-- [Rapidash](../pokemon/rapidash.md)
-- [Typhlosion](../pokemon/typhlosion.md)
-- [Vulpix](../pokemon/vulpix.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
+| ![flareon](../img/pokemon/136.png) | [Flareon](../pokemon/flareon.md) |
+| ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
+| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
+| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
+| ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
+| ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
+| ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
+| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
+| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
+| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
+| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |

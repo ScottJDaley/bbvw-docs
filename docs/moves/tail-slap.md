@@ -12,7 +12,9 @@
 Hits 2-5 times in one turn.
 
 ## Learned by
-- [Buizel](../pokemon/buizel.md)
-- [Cinccino](../pokemon/cinccino.md)
-- [Minccino](../pokemon/minccino.md)
-- [Vulpix](../pokemon/vulpix.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
+| ![cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) |
+| ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
+| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |

@@ -12,14 +12,31 @@
 Raises user’s Attack, Special Attack, and Speed by two stages.  Lower user’s Defense and Special Defense by one stage.
 
 ## Learned by
-- [Carracosta](../pokemon/carracosta.md)
-- [Clamperl](../pokemon/clamperl.md)
-- [Crustle](../pokemon/crustle.md)
-- [Dwebble](../pokemon/dwebble.md)
-- [Magcargo](../pokemon/magcargo.md)
-- [Omanyte](../pokemon/omanyte.md)
-- [Omastar](../pokemon/omastar.md)
-- [Shellder](../pokemon/shellder.md)
-- [Shuckle](../pokemon/shuckle.md)
-- [Tirtouga](../pokemon/tirtouga.md)
-- [Torkoal](../pokemon/torkoal.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) |
+| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
+| ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
+| ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) |
+| ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) |
+| ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
+| ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
+| ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) |
+| ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) |
+| ![grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) |
+| ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
+| ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
+| ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
+| ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
+| ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |
+| ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
+| ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
+| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+| ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
+| ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
+| ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
+| ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
+| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
+| ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
+| ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |

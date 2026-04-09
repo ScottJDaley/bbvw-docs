@@ -8,7 +8,7 @@
 | ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 30% |
 | ![Mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Wailord](../img/pokemon/321.png) | [Wailord](../pokemon/wailord.md) | 60% |
@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | ![Luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 100% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 60% |
@@ -65,7 +65,7 @@
 | ![Luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 30% |
 | ![Qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 60% |
@@ -78,7 +78,7 @@
 | ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 60% |
 | ![Horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) | 40% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) | 60% |

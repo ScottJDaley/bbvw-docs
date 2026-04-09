@@ -12,8 +12,10 @@
 User foregoes its next turn to recharge.
 
 ## Learned by
-- [Meganium](../pokemon/meganium.md)
-- [Sceptile](../pokemon/sceptile.md)
-- [Serperior](../pokemon/serperior.md)
-- [Torterra](../pokemon/torterra.md)
-- [Venusaur](../pokemon/venusaur.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
+| ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
+| ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
+| ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |

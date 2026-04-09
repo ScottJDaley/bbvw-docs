@@ -12,27 +12,33 @@
 Has an increased chance for a critical hit.
 
 ## Learned by
-- [Baltoy](../pokemon/baltoy.md)
-- [Beedrill](../pokemon/beedrill.md)
-- [Claydol](../pokemon/claydol.md)
-- [Dewgong](../pokemon/dewgong.md)
-- [Drilbur](../pokemon/drilbur.md)
-- [Dunsparce](../pokemon/dunsparce.md)
-- [Excadrill](../pokemon/excadrill.md)
-- [Fearow](../pokemon/fearow.md)
-- [Forretress](../pokemon/forretress.md)
-- [Goldeen](../pokemon/goldeen.md)
-- [Hitmontop](../pokemon/hitmontop.md)
-- [Lapras](../pokemon/lapras.md)
-- [Mew](../pokemon/mew.md)
-- [Nidoking](../pokemon/nidoking.md)
-- [Nidoran-m](../pokemon/nidoran-m.md)
-- [Nidorino](../pokemon/nidorino.md)
-- [Pineco](../pokemon/pineco.md)
-- [Rapidash](../pokemon/rapidash.md)
-- [Rhydon](../pokemon/rhydon.md)
-- [Rhyhorn](../pokemon/rhyhorn.md)
-- [Rhyperior](../pokemon/rhyperior.md)
-- [Seaking](../pokemon/seaking.md)
-- [Seel](../pokemon/seel.md)
-- [Spearow](../pokemon/spearow.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
+| ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
+| ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
+| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
+| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
+| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) |
+| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
+| ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
+| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) |
+| ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
+| ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
+| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
+| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
+| ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
+| ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
+| ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
+| ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
+| ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
+| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
+| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |
+| ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
+| ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) |
+| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) |
+| ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
+| ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |

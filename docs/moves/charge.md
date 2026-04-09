@@ -12,28 +12,32 @@
 Raises the user’s Special Defense by one stage.  User’s Electric moves have doubled power next turn.
 
 ## Learned by
-- [Ampharos](../pokemon/ampharos.md)
-- [Blitzle](../pokemon/blitzle.md)
-- [Chinchou](../pokemon/chinchou.md)
-- [Electrike](../pokemon/electrike.md)
-- [Electrode](../pokemon/electrode.md)
-- [Emolga](../pokemon/emolga.md)
-- [Flaaffy](../pokemon/flaaffy.md)
-- [Klang](../pokemon/klang.md)
-- [Klink](../pokemon/klink.md)
-- [Klinklang](../pokemon/klinklang.md)
-- [Lanturn](../pokemon/lanturn.md)
-- [Luxio](../pokemon/luxio.md)
-- [Luxray](../pokemon/luxray.md)
-- [Manectric](../pokemon/manectric.md)
-- [Mareep](../pokemon/mareep.md)
-- [Minun](../pokemon/minun.md)
-- [Pachirisu](../pokemon/pachirisu.md)
-- [Pichu](../pokemon/pichu.md)
-- [Plusle](../pokemon/plusle.md)
-- [Rotom](../pokemon/rotom.md)
-- [Shinx](../pokemon/shinx.md)
-- [Thundurus-incarnate](../pokemon/thundurus-incarnate.md)
-- [Voltorb](../pokemon/voltorb.md)
-- [Zapdos](../pokemon/zapdos.md)
-- [Zebstrika](../pokemon/zebstrika.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
+| ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
+| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
+| ![electrike](../img/pokemon/309.png) | [Electrike](../pokemon/electrike.md) |
+| ![electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
+| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
+| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
+| ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
+| ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
+| ![manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) |
+| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
+| ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |
+| ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
+| ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
+| ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
+| ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
+| ![thundurus-incarnate](../img/pokemon/642.png) | [Thundurus-incarnate](../pokemon/thundurus-incarnate.md) |
+| ![voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) |
+| ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |
+| ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) |

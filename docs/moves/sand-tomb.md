@@ -12,25 +12,27 @@
 Prevents the target from fleeing and inflicts damage for 2-5 turns.
 
 ## Learned by
-- [Bonsly](../pokemon/bonsly.md)
-- [Dugtrio](../pokemon/dugtrio.md)
-- [Dwebble](../pokemon/dwebble.md)
-- [Flygon](../pokemon/flygon.md)
-- [Gabite](../pokemon/gabite.md)
-- [Garchomp](../pokemon/garchomp.md)
-- [Gible](../pokemon/gible.md)
-- [Gligar](../pokemon/gligar.md)
-- [Hippopotas](../pokemon/hippopotas.md)
-- [Hippowdon](../pokemon/hippowdon.md)
-- [Krokorok](../pokemon/krokorok.md)
-- [Krookodile](../pokemon/krookodile.md)
-- [Onix](../pokemon/onix.md)
-- [Pineco](../pokemon/pineco.md)
-- [Sandile](../pokemon/sandile.md)
-- [Sandshrew](../pokemon/sandshrew.md)
-- [Sandslash](../pokemon/sandslash.md)
-- [Shuckle](../pokemon/shuckle.md)
-- [Sudowoodo](../pokemon/sudowoodo.md)
-- [Trapinch](../pokemon/trapinch.md)
-- [Turtwig](../pokemon/turtwig.md)
-- [Vibrava](../pokemon/vibrava.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) |
+| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) |
+| ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) |
+| ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
+| ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
+| ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
+| ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
+| ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
+| ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
+| ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
+| ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
+| ![onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) |
+| ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
+| ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
+| ![sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) |
+| ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) |
+| ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
+| ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
+| ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
+| ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
+| ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |

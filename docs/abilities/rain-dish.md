@@ -4,14 +4,11 @@
 Heals for 1/16 max HP after each turn during rain.
 
 ## Pokemon with this Ability
-- [Blastoise](../pokemon/blastoise.md)
-- [Lombre](../pokemon/lombre.md)
-- [Lotad](../pokemon/lotad.md)
-- [Ludicolo](../pokemon/ludicolo.md)
-- [Pelipper](../pokemon/pelipper.md)
-- [Squirtle](../pokemon/squirtle.md)
-- [Surskit](../pokemon/surskit.md)
-- [Tentacool](../pokemon/tentacool.md)
-- [Tentacruel](../pokemon/tentacruel.md)
-- [Wartortle](../pokemon/wartortle.md)
-- [Wingull](../pokemon/wingull.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
+| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
+| ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
+| ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
+| ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
+| ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |

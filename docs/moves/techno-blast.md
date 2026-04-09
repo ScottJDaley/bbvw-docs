@@ -12,4 +12,6 @@
 If the user is holding a appropriate plate or drive, the damage inflicted will match it.
 
 ## Learned by
-- [Genesect](../pokemon/genesect.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |

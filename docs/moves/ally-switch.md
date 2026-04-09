@@ -12,18 +12,20 @@
 User switches places with the friendly Pokémon opposite it.
 
 ## Learned by
-- [Abra](../pokemon/abra.md)
-- [Alakazam](../pokemon/alakazam.md)
-- [Baltoy](../pokemon/baltoy.md)
-- [Beheeyem](../pokemon/beheeyem.md)
-- [Claydol](../pokemon/claydol.md)
-- [Deoxys-normal](../pokemon/deoxys-normal.md)
-- [Elgyem](../pokemon/elgyem.md)
-- [Gallade](../pokemon/gallade.md)
-- [Gardevoir](../pokemon/gardevoir.md)
-- [Kadabra](../pokemon/kadabra.md)
-- [Kirlia](../pokemon/kirlia.md)
-- [Mew](../pokemon/mew.md)
-- [Natu](../pokemon/natu.md)
-- [Ralts](../pokemon/ralts.md)
-- [Xatu](../pokemon/xatu.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![abra](../img/pokemon/063.png) | [Abra](../pokemon/abra.md) |
+| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
+| ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
+| ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
+| ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
+| ![deoxys-normal](../img/pokemon/386.png) | [Deoxys-normal](../pokemon/deoxys-normal.md) |
+| ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
+| ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
+| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
+| ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
+| ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
+| ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
+| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
+| ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
+| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |

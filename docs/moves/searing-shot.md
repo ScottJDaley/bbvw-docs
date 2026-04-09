@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to burn the target.
 
 ## Learned by
-- [Victini](../pokemon/victini.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |

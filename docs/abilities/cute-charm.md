@@ -4,15 +4,10 @@
 Has a 30% chance of infatuating attacking Pokémon on contact.
 
 ## Pokemon with this Ability
-- [Cinccino](../pokemon/cinccino.md)
-- [Clefable](../pokemon/clefable.md)
-- [Clefairy](../pokemon/clefairy.md)
-- [Cleffa](../pokemon/cleffa.md)
-- [Delcatty](../pokemon/delcatty.md)
-- [Igglybuff](../pokemon/igglybuff.md)
-- [Jigglypuff](../pokemon/jigglypuff.md)
-- [Lopunny](../pokemon/lopunny.md)
-- [Milotic](../pokemon/milotic.md)
-- [Minccino](../pokemon/minccino.md)
-- [Skitty](../pokemon/skitty.md)
-- [Wigglytuff](../pokemon/wigglytuff.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
+| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
+| ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
+| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |

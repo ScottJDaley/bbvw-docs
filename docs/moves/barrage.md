@@ -12,5 +12,7 @@
 Hits 2-5 times in one turn.
 
 ## Learned by
-- [Exeggcute](../pokemon/exeggcute.md)
-- [Exeggutor](../pokemon/exeggutor.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
+| ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |

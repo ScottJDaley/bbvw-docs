@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to paralyze the target.
 
 ## Learned by
-- [Zekrom](../pokemon/zekrom.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |

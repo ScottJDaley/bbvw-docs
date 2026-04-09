@@ -12,8 +12,10 @@
 Never misses.
 
 ## Learned by
-- [Genesect](../pokemon/genesect.md)
-- [Magnemite](../pokemon/magnemite.md)
-- [Magneton](../pokemon/magneton.md)
-- [Magnezone](../pokemon/magnezone.md)
-- [Probopass](../pokemon/probopass.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
+| ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
+| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |

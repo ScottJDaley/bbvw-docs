@@ -12,4 +12,7 @@
 Lowers the target’s Speed by one stage.
 
 ## Learned by
-- [Kyurem](../pokemon/kyurem.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |

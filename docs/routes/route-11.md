@@ -38,7 +38,7 @@
 | ![Buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 60% |
 | ![Floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) | 60% |
@@ -51,7 +51,7 @@
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |

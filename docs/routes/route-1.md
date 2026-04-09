@@ -41,7 +41,7 @@
 | ![Marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) | 30% |
 | ![Feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |
@@ -55,7 +55,7 @@
 | ![Magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 30% |
 | ![Feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |

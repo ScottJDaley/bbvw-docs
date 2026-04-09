@@ -12,4 +12,6 @@
 User receives 1/4 the damage it inflicts in recoil.
 
 ## Learned by
-- [Bouffalant](../pokemon/bouffalant.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |

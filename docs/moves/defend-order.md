@@ -12,4 +12,6 @@
 Raises the user’s Defense and Special Defense by one stage.
 
 ## Learned by
-- [Vespiquen](../pokemon/vespiquen.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |

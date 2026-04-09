@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to lower the target’s Special Attack by one stage.
 
 ## Learned by
-- [Latias](../pokemon/latias.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |

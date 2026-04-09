@@ -12,11 +12,13 @@
 Target loses 1/4 its max HP every turn as long as it’s asleep.
 
 ## Learned by
-- [Darkrai](../pokemon/darkrai.md)
-- [Gastly](../pokemon/gastly.md)
-- [Gengar](../pokemon/gengar.md)
-- [Haunter](../pokemon/haunter.md)
-- [Hypno](../pokemon/hypno.md)
-- [Munna](../pokemon/munna.md)
-- [Spiritomb](../pokemon/spiritomb.md)
-- [Yamask](../pokemon/yamask.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
+| ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
+| ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
+| ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
+| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
+| ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
+| ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

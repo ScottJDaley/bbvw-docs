@@ -12,36 +12,38 @@
 Hits 2-5 times in one turn.
 
 ## Learned by
-- [Altaria](../pokemon/altaria.md)
-- [Beedrill](../pokemon/beedrill.md)
-- [Bouffalant](../pokemon/bouffalant.md)
-- [Braviary](../pokemon/braviary.md)
-- [Chatot](../pokemon/chatot.md)
-- [Dodrio](../pokemon/dodrio.md)
-- [Doduo](../pokemon/doduo.md)
-- [Donphan](../pokemon/donphan.md)
-- [Empoleon](../pokemon/empoleon.md)
-- [Escavalier](../pokemon/escavalier.md)
-- [Farfetchd](../pokemon/farfetchd.md)
-- [Fearow](../pokemon/fearow.md)
-- [Goldeen](../pokemon/goldeen.md)
-- [Heracross](../pokemon/heracross.md)
-- [Karrablast](../pokemon/karrablast.md)
-- [Mandibuzz](../pokemon/mandibuzz.md)
-- [Nidoran-m](../pokemon/nidoran-m.md)
-- [Nidorino](../pokemon/nidorino.md)
-- [Piloswine](../pokemon/piloswine.md)
-- [Pinsir](../pokemon/pinsir.md)
-- [Piplup](../pokemon/piplup.md)
-- [Prinplup](../pokemon/prinplup.md)
-- [Rapidash](../pokemon/rapidash.md)
-- [Rhydon](../pokemon/rhydon.md)
-- [Rhyhorn](../pokemon/rhyhorn.md)
-- [Rhyperior](../pokemon/rhyperior.md)
-- [Rufflet](../pokemon/rufflet.md)
-- [Seaking](../pokemon/seaking.md)
-- [Skarmory](../pokemon/skarmory.md)
-- [Spearow](../pokemon/spearow.md)
-- [Starly](../pokemon/starly.md)
-- [Swablu](../pokemon/swablu.md)
-- [Vullaby](../pokemon/vullaby.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
+| ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
+| ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
+| ![chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) |
+| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
+| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
+| ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
+| ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
+| ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
+| ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
+| ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
+| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
+| ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
+| ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
+| ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
+| ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
+| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |
+| ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
+| ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) |
+| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
+| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |
+| ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
+| ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) |
+| ![rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) |
+| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) |
+| ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
+| ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
+| ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
+| ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |
+| ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |

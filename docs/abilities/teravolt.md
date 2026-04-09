@@ -4,4 +4,7 @@
 Bypasses targets' abilities if they could hinder or prevent moves.
 
 ## Pokemon with this Ability
-- [Zekrom](../pokemon/zekrom.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |
+| ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |

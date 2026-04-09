@@ -45,7 +45,7 @@
 | ![Horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) | 60% |
 | ![Dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 60% |
@@ -63,7 +63,7 @@
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![Dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 60% |

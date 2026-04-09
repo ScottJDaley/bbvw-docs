@@ -12,28 +12,30 @@
 If the target is asleep, has double power and wakes it up.
 
 ## Learned by
-- [Alomomola](../pokemon/alomomola.md)
-- [Clefairy](../pokemon/clefairy.md)
-- [Conkeldurr](../pokemon/conkeldurr.md)
-- [Croagunk](../pokemon/croagunk.md)
-- [Froslass](../pokemon/froslass.md)
-- [Glameow](../pokemon/glameow.md)
-- [Gurdurr](../pokemon/gurdurr.md)
-- [Hariyama](../pokemon/hariyama.md)
-- [Jigglypuff](../pokemon/jigglypuff.md)
-- [Jynx](../pokemon/jynx.md)
-- [Machamp](../pokemon/machamp.md)
-- [Machoke](../pokemon/machoke.md)
-- [Machop](../pokemon/machop.md)
-- [Makuhita](../pokemon/makuhita.md)
-- [Meloetta-aria](../pokemon/meloetta-aria.md)
-- [Miltank](../pokemon/miltank.md)
-- [Mime-jr](../pokemon/mime-jr.md)
-- [Minccino](../pokemon/minccino.md)
-- [Mr-mime](../pokemon/mr-mime.md)
-- [Poliwag](../pokemon/poliwag.md)
-- [Poliwhirl](../pokemon/poliwhirl.md)
-- [Shroomish](../pokemon/shroomish.md)
-- [Skitty](../pokemon/skitty.md)
-- [Smoochum](../pokemon/smoochum.md)
-- [Timburr](../pokemon/timburr.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
+| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
+| ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
+| ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
+| ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) |
+| ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
+| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
+| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
+| ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
+| ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) |
+| ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
+| ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
+| ![meloetta-aria](../img/pokemon/648.png) | [Meloetta-aria](../pokemon/meloetta-aria.md) |
+| ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
+| ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
+| ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
+| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
+| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
+| ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |

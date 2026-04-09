@@ -21,7 +21,7 @@
 | ![Fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) | 10% |
 | ![Zweilous](../img/pokemon/634.png) | [Zweilous](../pokemon/zweilous.md) | 10% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |

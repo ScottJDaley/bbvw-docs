@@ -23,7 +23,7 @@
 | ![Loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) | 10% |
 | ![Quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) | 10% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 40% |
@@ -40,7 +40,7 @@
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 60% |
 | ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) | 60% |
@@ -56,7 +56,7 @@
 | ![Shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 10% |
 | ![Whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 100% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 100% |

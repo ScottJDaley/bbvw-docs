@@ -4,4 +4,7 @@
 Bypasses targets' abilities if they could hinder or prevent moves.
 
 ## Pokemon with this Ability
-- [Reshiram](../pokemon/reshiram.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |
+| ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |

@@ -12,4 +12,6 @@
 User and target swap stat changes.
 
 ## Learned by
-- [Manaphy](../pokemon/manaphy.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![manaphy](../img/pokemon/490.png) | [Manaphy](../pokemon/manaphy.md) |

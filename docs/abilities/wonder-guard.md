@@ -4,4 +4,7 @@
 Protects against damaging moves that are not super effective.
 
 ## Pokemon with this Ability
-- [Shedinja](../pokemon/shedinja.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
+| ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |

@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to lower the target’s Special Defense by one stage.
 
 ## Learned by
-- [Latios](../pokemon/latios.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |

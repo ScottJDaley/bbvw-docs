@@ -12,6 +12,8 @@
 Power is higher when the user weighs more than the target, up to a maximum of 120.
 
 ## Learned by
-- [Emboar](../pokemon/emboar.md)
-- [Pignite](../pokemon/pignite.md)
-- [Tepig](../pokemon/tepig.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
+| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
+| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |

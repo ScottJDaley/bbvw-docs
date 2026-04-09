@@ -12,7 +12,9 @@
 Hits 2-5 times in one turn.
 
 ## Learned by
-- [Cubone](../pokemon/cubone.md)
-- [Lucario](../pokemon/lucario.md)
-- [Mandibuzz](../pokemon/mandibuzz.md)
-- [Marowak](../pokemon/marowak.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
+| ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
+| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |

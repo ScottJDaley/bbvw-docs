@@ -4,17 +4,14 @@
 Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage.
 
 ## Pokemon with this Ability
-- [Boldore](../pokemon/boldore.md)
-- [Diglett](../pokemon/diglett.md)
-- [Drilbur](../pokemon/drilbur.md)
-- [Dugtrio](../pokemon/dugtrio.md)
-- [Excadrill](../pokemon/excadrill.md)
-- [Gastrodon](../pokemon/gastrodon.md)
-- [Gigalith](../pokemon/gigalith.md)
-- [Hippopotas](../pokemon/hippopotas.md)
-- [Hippowdon](../pokemon/hippowdon.md)
-- [Landorus-incarnate](../pokemon/landorus-incarnate.md)
-- [Nosepass](../pokemon/nosepass.md)
-- [Probopass](../pokemon/probopass.md)
-- [Roggenrola](../pokemon/roggenrola.md)
-- [Shellos](../pokemon/shellos.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) |
+| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
+| ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
+| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) |
+| ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
+| ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
+| ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
+| ![landorus-incarnate](../img/pokemon/645.png) | [Landorus-incarnate](../pokemon/landorus-incarnate.md) |
+| ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |

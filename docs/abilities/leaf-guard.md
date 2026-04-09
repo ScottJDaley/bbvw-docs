@@ -4,17 +4,12 @@
 Protects against major status ailments during strong sunlight.
 
 ## Pokemon with this Ability
-- [Bayleef](../pokemon/bayleef.md)
-- [Budew](../pokemon/budew.md)
-- [Chikorita](../pokemon/chikorita.md)
-- [Hoppip](../pokemon/hoppip.md)
-- [Jumpluff](../pokemon/jumpluff.md)
-- [Leafeon](../pokemon/leafeon.md)
-- [Lilligant](../pokemon/lilligant.md)
-- [Meganium](../pokemon/meganium.md)
-- [Petilil](../pokemon/petilil.md)
-- [Roselia](../pokemon/roselia.md)
-- [Skiploom](../pokemon/skiploom.md)
-- [Swadloon](../pokemon/swadloon.md)
-- [Tangela](../pokemon/tangela.md)
-- [Tangrowth](../pokemon/tangrowth.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
+| ![budew](../img/pokemon/406.png) | [Budew](../pokemon/budew.md) |
+| ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
+| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) |
+| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
+| ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) |
+| ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |

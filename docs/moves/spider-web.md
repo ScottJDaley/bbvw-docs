@@ -12,7 +12,9 @@
 Prevents the target from leaving battle.
 
 ## Learned by
-- [Ariados](../pokemon/ariados.md)
-- [Galvantula](../pokemon/galvantula.md)
-- [Joltik](../pokemon/joltik.md)
-- [Spinarak](../pokemon/spinarak.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
+| ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
+| ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
+| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |

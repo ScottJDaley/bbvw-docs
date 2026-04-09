@@ -12,30 +12,34 @@
 Inflicts regular damage with no additional effect.
 
 ## Learned by
-- [Alomomola](../pokemon/alomomola.md)
-- [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin.md)
-- [Beartic](../pokemon/beartic.md)
-- [Buizel](../pokemon/buizel.md)
-- [Carracosta](../pokemon/carracosta.md)
-- [Carvanha](../pokemon/carvanha.md)
-- [Dewgong](../pokemon/dewgong.md)
-- [Dewott](../pokemon/dewott.md)
-- [Dratini](../pokemon/dratini.md)
-- [Empoleon](../pokemon/empoleon.md)
-- [Floatzel](../pokemon/floatzel.md)
-- [Golduck](../pokemon/golduck.md)
-- [Kabuto](../pokemon/kabuto.md)
-- [Kabutops](../pokemon/kabutops.md)
-- [Keldeo-ordinary](../pokemon/keldeo-ordinary.md)
-- [Luvdisc](../pokemon/luvdisc.md)
-- [Marill](../pokemon/marill.md)
-- [Oshawott](../pokemon/oshawott.md)
-- [Qwilfish](../pokemon/qwilfish.md)
-- [Samurott](../pokemon/samurott.md)
-- [Seel](../pokemon/seel.md)
-- [Sharpedo](../pokemon/sharpedo.md)
-- [Squirtle](../pokemon/squirtle.md)
-- [Surskit](../pokemon/surskit.md)
-- [Tirtouga](../pokemon/tirtouga.md)
-- [Totodile](../pokemon/totodile.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
+| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
+| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
+| ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
+| ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
+| ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) |
+| ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
+| ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
+| ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
+| ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
+| ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
+| ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
+| ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
+| ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
+| ![keldeo-ordinary](../img/pokemon/647.png) | [Keldeo-ordinary](../pokemon/keldeo-ordinary.md) |
+| ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) |
+| ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
+| ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
+| ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
+| ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
+| ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
+| ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
+| ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
+| ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
+| ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
+| ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
+| ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |

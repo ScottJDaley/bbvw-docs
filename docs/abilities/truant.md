@@ -4,6 +4,7 @@
 Skips every second turn.
 
 ## Pokemon with this Ability
-- [Durant](../pokemon/durant.md)
-- [Slaking](../pokemon/slaking.md)
-- [Slakoth](../pokemon/slakoth.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) |
+| ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) |

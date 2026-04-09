@@ -12,4 +12,6 @@
 Hits three times, increasing power by 100% with each successful hit.
 
 ## Learned by
-- [Hitmontop](../pokemon/hitmontop.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |

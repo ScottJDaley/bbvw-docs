@@ -4,11 +4,13 @@
 Lets the Pokémon's normal and fighting moves hit ghost Pokémon.
 
 ## Pokemon with this Ability
-- [Exploud](../pokemon/exploud.md)
-- [Herdier](../pokemon/herdier.md)
-- [Kangaskhan](../pokemon/kangaskhan.md)
-- [Loudred](../pokemon/loudred.md)
-- [Miltank](../pokemon/miltank.md)
-- [Stoutland](../pokemon/stoutland.md)
-- [Swellow](../pokemon/swellow.md)
-- [Taillow](../pokemon/taillow.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
+| ![herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) |
+| ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
+| ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
+| ![stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) |
+| ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
+| ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |

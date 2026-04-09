@@ -4,8 +4,9 @@
 Decreases all direct damage taken by friendly Pokémon to 0.75×.
 
 ## Pokemon with this Ability
-- [Clefairy](../pokemon/clefairy.md)
-- [Cleffa](../pokemon/cleffa.md)
-- [Happiny](../pokemon/happiny.md)
-- [Igglybuff](../pokemon/igglybuff.md)
-- [Jigglypuff](../pokemon/jigglypuff.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
+| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
+| ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
+| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |

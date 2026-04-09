@@ -12,10 +12,12 @@
 Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.
 
 ## Learned by
-- [Camerupt](../pokemon/camerupt.md)
-- [Cyndaquil](../pokemon/cyndaquil.md)
-- [Entei](../pokemon/entei.md)
-- [Groudon](../pokemon/groudon.md)
-- [Quilava](../pokemon/quilava.md)
-- [Torkoal](../pokemon/torkoal.md)
-- [Typhlosion](../pokemon/typhlosion.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) |
+| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
+| ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
+| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
+| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |

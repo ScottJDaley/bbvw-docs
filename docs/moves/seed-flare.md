@@ -12,4 +12,6 @@
 Has a $effect_chance% chance to lower the target’s Special Defense by two stages.
 
 ## Learned by
-- [Shaymin-land](../pokemon/shaymin-land.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![shaymin-land](../img/pokemon/492.png) | [Shaymin-land](../pokemon/shaymin-land.md) |

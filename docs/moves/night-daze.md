@@ -12,5 +12,7 @@
 Has a $effect_chance% chance to lower the target’s accuracy by one stage.
 
 ## Learned by
-- [Zoroark](../pokemon/zoroark.md)
-- [Zorua](../pokemon/zorua.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![zoroark](../img/pokemon/571.png) | [Zoroark](../pokemon/zoroark.md) |
+| ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

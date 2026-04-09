@@ -4,17 +4,10 @@
 Reveals an opponent's held item upon entering battle.
 
 ## Pokemon with this Ability
-- [Banette](../pokemon/banette.md)
-- [Dusclops](../pokemon/dusclops.md)
-- [Dusknoir](../pokemon/dusknoir.md)
-- [Duskull](../pokemon/duskull.md)
-- [Furret](../pokemon/furret.md)
-- [Gothita](../pokemon/gothita.md)
-- [Gothitelle](../pokemon/gothitelle.md)
-- [Gothorita](../pokemon/gothorita.md)
-- [Sentret](../pokemon/sentret.md)
-- [Shuppet](../pokemon/shuppet.md)
-- [Stantler](../pokemon/stantler.md)
-- [Wigglytuff](../pokemon/wigglytuff.md)
-- [Yanma](../pokemon/yanma.md)
-- [Yanmega](../pokemon/yanmega.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
+| ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
+| ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) |
+| ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
+| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |

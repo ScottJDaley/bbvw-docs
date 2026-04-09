@@ -47,7 +47,7 @@
 | ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 10% |
 | ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 100% |
@@ -58,7 +58,7 @@
 | ![Seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 60% |
 | ![Dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 40% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) | 100% |
@@ -70,7 +70,7 @@
 | ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 5% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 65% |

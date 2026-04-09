@@ -12,14 +12,20 @@
 Heals the user by half its max HP.  Affected by weather.
 
 ## Learned by
-- [Clefairy](../pokemon/clefairy.md)
-- [Cresselia](../pokemon/cresselia.md)
-- [Dustox](../pokemon/dustox.md)
-- [Exeggcute](../pokemon/exeggcute.md)
-- [Gloom](../pokemon/gloom.md)
-- [Illumise](../pokemon/illumise.md)
-- [Munna](../pokemon/munna.md)
-- [Oddish](../pokemon/oddish.md)
-- [Sableye](../pokemon/sableye.md)
-- [Umbreon](../pokemon/umbreon.md)
-- [Volbeat](../pokemon/volbeat.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
+| ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
+| ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
+| ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
+| ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
+| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
+| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
+| ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
+| ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
+| ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
+| ![weavile](../img/pokemon/461.png) | [Weavile](../pokemon/weavile.md) |

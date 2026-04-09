@@ -31,7 +31,7 @@
 | ![Porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) | 5% |
 | ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 4% |
 
-### ![Cave, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Cave, Special
+### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |

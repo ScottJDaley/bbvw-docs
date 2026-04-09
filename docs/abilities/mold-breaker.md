@@ -4,16 +4,21 @@
 Bypasses targets' abilities if they could hinder or prevent a move.
 
 ## Pokemon with this Ability
-- [Axew](../pokemon/axew.md)
-- [Basculin](../pokemon/basculin.md)
-- [Basculin-red-striped](../pokemon/basculin.md)
-- [Cranidos](../pokemon/cranidos.md)
-- [Drilbur](../pokemon/drilbur.md)
-- [Druddigon](../pokemon/druddigon.md)
-- [Excadrill](../pokemon/excadrill.md)
-- [Fraxure](../pokemon/fraxure.md)
-- [Haxorus](../pokemon/haxorus.md)
-- [Pinsir](../pokemon/pinsir.md)
-- [Rampardos](../pokemon/rampardos.md)
-- [Sawk](../pokemon/sawk.md)
-- [Throh](../pokemon/throh.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
+| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
+| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) |
+| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) |
+| ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
+| ![haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) |
+| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
+| ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
+| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |
+| ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
+| ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) |
+| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
+| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |

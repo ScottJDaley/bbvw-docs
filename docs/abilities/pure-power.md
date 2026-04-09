@@ -4,5 +4,7 @@
 Doubles Attack in battle.
 
 ## Pokemon with this Ability
-- [Medicham](../pokemon/medicham.md)
-- [Meditite](../pokemon/meditite.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
+| ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |

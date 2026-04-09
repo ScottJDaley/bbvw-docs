@@ -8,7 +8,7 @@
 | ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 30% |
 | ![Staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) | 10% |
 
-### ![Surf, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) | 60% |
@@ -22,7 +22,7 @@
 | ![Wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) | 30% |
 | ![Mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) | 10% |
 
-### ![Fish, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![Wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) | 60% |

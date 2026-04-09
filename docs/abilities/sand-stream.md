@@ -4,7 +4,8 @@
 Summons a sandstorm that lasts indefinitely upon entering battle.
 
 ## Pokemon with this Ability
-- [Gigalith](../pokemon/gigalith.md)
-- [Hippopotas](../pokemon/hippopotas.md)
-- [Hippowdon](../pokemon/hippowdon.md)
-- [Tyranitar](../pokemon/tyranitar.md)
+| Sprite | Pokemon |
+| --- | --- |
+| ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
+| ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
+| ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
