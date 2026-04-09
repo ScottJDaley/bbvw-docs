@@ -31,11 +31,6 @@
 
 
 ## Trainers
-### Rival Bianca – 4
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 41 | - | - |  |
-
 ### Motorcyclist Charles
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
@@ -87,4 +82,11 @@
 | ![Nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) | 38 | - | - |  |
 | ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 38 | - | - |  |
 | ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 38 | - | - |  |
+
+### Rival Bianca – 1
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
+| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
 

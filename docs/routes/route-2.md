@@ -28,11 +28,6 @@
 
 
 ## Trainers
-### Rival Bianca – 2
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 9 | - | - |  |
-
 ### Youngster Jimmy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
@@ -55,4 +50,11 @@
 | ![Bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) | 7 | - | - |  |
 | ![Kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) | 7 | - | - |  |
 | ![Weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) | 7 | - | - |  |
+
+### Rival Bianca – 1
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
+| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
 

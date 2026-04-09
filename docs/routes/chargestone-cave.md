@@ -43,11 +43,6 @@
 
 
 ## Trainers
-### PKMN Trainer N – 4
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 47 | - | - |  |
-
 ### Ace Trainer Jared
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |

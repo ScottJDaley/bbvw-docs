@@ -2,10 +2,10 @@
 
 
 ## Trainers
-### PKMN Trainer N – 2
+### PKMN Trainer N – 1
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 19 | - | - |  |
+| ![Nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) | 6 | - | - |  |
 
 ### Lass Dye
 | Sprite | Pokemon | Level | Ability | Item | Moves |

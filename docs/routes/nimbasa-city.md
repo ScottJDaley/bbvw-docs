@@ -2,16 +2,16 @@
 
 
 ## Trainers
-### PKMN Trainer N – 3
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 33 | - | - |  |
-
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 31 | - | - |  |
 | ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 31 | - | - |  |
+
+### PKMN Trainer N – 1
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) | 6 | - | - |  |
 
 ### Lady Magnolia
 | Sprite | Pokemon | Level | Ability | Item | Moves |

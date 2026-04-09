@@ -2,11 +2,6 @@
 
 
 ## Trainers
-### Rival Bianca – 5
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 61 | - | Chople Berry | Nasty Plot, Hypnosis, Swift |
-
 ### PKMN Ranger Lewis
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
@@ -40,4 +35,11 @@
 | ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 58 | - | - |  |
 | ![Cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) | 58 | - | - |  |
 | ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 58 | - | - |  |
+
+### Rival Bianca – 1
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
+| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
 
