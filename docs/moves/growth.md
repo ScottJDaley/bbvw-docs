@@ -38,7 +38,6 @@ Raises the user’s Attack and Special Attack by one stage.
 | ![parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) |
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
-| ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |

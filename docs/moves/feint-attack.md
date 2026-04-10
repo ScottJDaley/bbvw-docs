@@ -53,8 +53,6 @@ Never misses.
 | ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
 | ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
 | ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
-| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
 | ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
@@ -93,6 +91,7 @@ Never misses.
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
+| ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
 | ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |

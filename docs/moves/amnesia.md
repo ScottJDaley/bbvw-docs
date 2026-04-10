@@ -35,7 +35,6 @@ Raises the user’s Special Defense by two stages.
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
 | ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
-| ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
@@ -50,7 +49,6 @@ Raises the user’s Special Defense by two stages.
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
-| ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |

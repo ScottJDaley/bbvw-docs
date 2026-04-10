@@ -128,7 +128,6 @@ Raises the user’s Attack by two stages.
 | ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
 | ![scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) |
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
-| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |

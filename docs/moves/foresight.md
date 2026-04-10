@@ -14,7 +14,6 @@ Forces the target to have no Evade, and allows it to be hit by Normal and Fighti
 | --- | --- |
 | ![abra](../img/pokemon/063.png) | [Abra](../pokemon/abra.md) |
 | ![aerodactyl](../img/pokemon/142.png) | [Aerodactyl](../pokemon/aerodactyl.md) |
-| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
 | ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
 | ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
@@ -26,7 +25,6 @@ Forces the target to have no Evade, and allows it to be hit by Normal and Fighti
 | ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
-| ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |

@@ -24,7 +24,7 @@ Has a $effect_chance% chance to burn the target.
 | ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
 | ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
-| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |

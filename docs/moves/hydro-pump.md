@@ -25,8 +25,6 @@ Inflicts regular damage with no additional effect.
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
-| ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
-| ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
 | ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
 | ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
@@ -42,7 +40,6 @@ Inflicts regular damage with no additional effect.
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
-| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
@@ -60,6 +57,7 @@ Inflicts regular damage with no additional effect.
 | ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
 | ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
+| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
@@ -73,8 +71,10 @@ Inflicts regular damage with no additional effect.
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
-| ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
+| ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
@@ -88,3 +88,4 @@ Inflicts regular damage with no additional effect.
 | ![wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) |
 | ![wailord](../img/pokemon/321.png) | [Wailord](../pokemon/wailord.md) |
 | ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |
+| ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) |

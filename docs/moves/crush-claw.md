@@ -30,5 +30,4 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |
-| ![vigoroth](../img/pokemon/288.png) | [Vigoroth](../pokemon/vigoroth.md) |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |

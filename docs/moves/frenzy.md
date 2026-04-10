@@ -13,6 +13,7 @@ User foregoes its next turn to recharge.
 | Sprite | Pokemon |
 | --- | --- |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |

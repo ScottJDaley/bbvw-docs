@@ -116,6 +116,7 @@ Has a $effect_chance% chance to burn the target.
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
 | ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
 | ![shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) |
 | ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) |

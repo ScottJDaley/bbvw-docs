@@ -18,7 +18,6 @@ Hits once for every conscious Pokémon the trainer has.
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
-| ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
@@ -28,5 +27,4 @@ Hits once for every conscious Pokémon the trainer has.
 | ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
-| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |

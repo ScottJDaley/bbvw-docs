@@ -12,10 +12,8 @@ Inflicts double damage if the user takes damage before attacking this turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
-| ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |

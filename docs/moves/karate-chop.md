@@ -19,7 +19,6 @@ Has an increased chance for a critical hit.
 | ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
 | ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
-| ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
 | ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) |

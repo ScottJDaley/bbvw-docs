@@ -25,7 +25,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
 | ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
-| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
@@ -34,14 +33,10 @@ Has a $effect_chance% chance to make the target flinch.
 | ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
 | ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |
-| ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
-| ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
 | ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
-| ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
-| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |
 | ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |

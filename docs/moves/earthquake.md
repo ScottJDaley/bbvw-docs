@@ -137,6 +137,7 @@ Inflicts regular damage and can hit Dig users.
 | ![onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) |
 | ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
 | ![phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) |
+| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |

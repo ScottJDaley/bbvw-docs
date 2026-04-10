@@ -14,5 +14,6 @@ Hits 2-5 times in one turn.
 | --- | --- |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) |
+| ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |

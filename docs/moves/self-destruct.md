@@ -19,6 +19,7 @@ User faints.
 | ![ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) |
 | ![ferrothorn](../img/pokemon/598.png) | [Ferrothorn](../pokemon/ferrothorn.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
+| ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
 | ![golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) |
@@ -30,6 +31,7 @@ User faints.
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
+| ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) |
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |

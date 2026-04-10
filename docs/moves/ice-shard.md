@@ -23,7 +23,6 @@ Inflicts regular damage with no additional effect.
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
 | ![phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) |
-| ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |

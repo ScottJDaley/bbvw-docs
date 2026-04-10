@@ -13,10 +13,8 @@ Inflicts regular damage with no additional effect.
 | Sprite | Pokemon |
 | --- | --- |
 | ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
-| ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
-| ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
 | ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |

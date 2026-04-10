@@ -145,7 +145,6 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |
@@ -184,7 +183,6 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) |
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |

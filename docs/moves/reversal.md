@@ -18,7 +18,6 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
-| ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) |
@@ -35,7 +34,6 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
 | ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
-| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
 | ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |

@@ -29,6 +29,7 @@ Confuses the target.
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
+| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
@@ -36,6 +37,7 @@ Confuses the target.
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
+| ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
 | ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
@@ -68,7 +70,6 @@ Confuses the target.
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
-| ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |
 | ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |

@@ -13,8 +13,6 @@ Inflicts damage equal to the user’s level.
 | Sprite | Pokemon |
 | --- | --- |
 | ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
-| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
-| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |

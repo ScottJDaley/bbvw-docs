@@ -15,7 +15,6 @@ Hits 2-5 times in one turn.
 | ![cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
-| ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |

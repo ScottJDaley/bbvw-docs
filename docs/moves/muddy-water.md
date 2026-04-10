@@ -18,9 +18,7 @@ Has a $effect_chance% chance to lower the target’s accuracy by one stage.
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
-| ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
-| ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |

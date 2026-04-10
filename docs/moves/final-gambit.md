@@ -19,7 +19,6 @@ Inflicts damage equal to the user’s remaining HP.  User faints.
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
-| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |

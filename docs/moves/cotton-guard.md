@@ -17,6 +17,8 @@ Raises the user’s Defense by three stages.
 | ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
+| ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
 | ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
+| ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) |
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |

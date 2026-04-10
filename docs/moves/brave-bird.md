@@ -14,10 +14,14 @@ User receives 1/3 the damage inflicted in recoil.
 | --- | --- |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
+| ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
+| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
 | ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
+| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
 | ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) |
@@ -29,6 +33,7 @@ User receives 1/3 the damage inflicted in recoil.
 | ![staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) |
 | ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
 | ![swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) |
+| ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
 | ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |

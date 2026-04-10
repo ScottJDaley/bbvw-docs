@@ -33,4 +33,3 @@ Scatters poisoned spikes, poisoning opposing Pokémon that switch in.
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |
 | ![venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) |
-| ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |

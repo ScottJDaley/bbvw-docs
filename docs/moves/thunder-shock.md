@@ -20,6 +20,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
 | ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
 | ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |

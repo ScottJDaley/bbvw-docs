@@ -14,8 +14,6 @@ Raises the user’s Attack, Defense, and accuracy by one stage each.
 | --- | --- |
 | ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
-| ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
-| ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
 | ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) |
@@ -26,4 +24,3 @@ Raises the user’s Attack, Defense, and accuracy by one stage each.
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
-| ![tynamo](../img/pokemon/602.png) | [Tynamo](../pokemon/tynamo.md) |

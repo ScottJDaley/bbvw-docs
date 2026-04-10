@@ -33,6 +33,7 @@ Power doubles every turn this move is used in succession after the first, resett
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
+| ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
 | ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
 | ![graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) |

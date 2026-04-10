@@ -35,9 +35,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
-| ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |

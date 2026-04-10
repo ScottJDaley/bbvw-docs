@@ -22,6 +22,7 @@ Power is higher when the user has greater Speed than the target, up to a maximum
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |

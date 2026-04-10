@@ -51,7 +51,6 @@ Drains half the damage inflicted to heal the user.
 | ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
-| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
@@ -63,7 +62,6 @@ Drains half the damage inflicted to heal the user.
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
 | ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
 | ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
-| ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
 | ![regigigas](../img/pokemon/486.png) | [Regigigas](../pokemon/regigigas.md) |
 | ![regirock](../img/pokemon/377.png) | [Regirock](../pokemon/regirock.md) |
@@ -83,5 +81,6 @@ Drains half the damage inflicted to heal the user.
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
+| ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
 | ![vileplume](../img/pokemon/045.png) | [Vileplume](../pokemon/vileplume.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |

@@ -27,7 +27,6 @@ Inflicts regular damage and can hit Pokémon in the air.
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
-| ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |

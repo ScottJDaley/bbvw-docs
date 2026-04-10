@@ -28,7 +28,6 @@ Resets all Pokémon’s stats, accuracy, and evasion.
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
-| ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
@@ -41,7 +40,6 @@ Resets all Pokémon’s stats, accuracy, and evasion.
 | ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
 | ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
 | ![remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) |
-| ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |

@@ -21,7 +21,6 @@ Has a $effect_chance% chance to burn the target.
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
-| ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |

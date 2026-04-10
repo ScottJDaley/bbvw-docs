@@ -13,6 +13,4 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 | Sprite | Pokemon |
 | --- | --- |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
 | ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |

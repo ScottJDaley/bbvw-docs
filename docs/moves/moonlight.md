@@ -20,10 +20,8 @@ Heals the user by half its max HP.  Affected by weather.
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
 | ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
 | ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
-| ![weavile](../img/pokemon/461.png) | [Weavile](../pokemon/weavile.md) |

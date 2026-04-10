@@ -14,7 +14,6 @@ Power is higher the more the user’s stats have been raised, to a maximum of 31
 | --- | --- |
 | ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
 | ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
-| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
@@ -26,9 +25,7 @@ Power is higher the more the user’s stats have been raised, to a maximum of 31
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
-| ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
-| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) |
 | ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |

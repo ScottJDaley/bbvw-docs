@@ -33,7 +33,6 @@ Has a $effect_chance% chance to burn the target.
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
-| ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
 | ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
@@ -67,7 +66,6 @@ Has a $effect_chance% chance to burn the target.
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
-| ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) |
@@ -80,7 +78,6 @@ Has a $effect_chance% chance to burn the target.
 | ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |
 | ![rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) |
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
@@ -97,12 +94,10 @@ Has a $effect_chance% chance to burn the target.
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
-| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
-| ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |

@@ -16,7 +16,6 @@ Lowers the target’s evasion by one stage.
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
 | ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
 | ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
-| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) |
 | ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
@@ -26,7 +25,6 @@ Lowers the target’s evasion by one stage.
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
 | ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
-| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
 | ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) |

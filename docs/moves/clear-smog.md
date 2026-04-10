@@ -13,9 +13,7 @@ Removes all of the target’s stat modifiers.
 | Sprite | Pokemon |
 | --- | --- |
 | ![amoonguss](../img/pokemon/591.png) | [Amoonguss](../pokemon/amoonguss.md) |
-| ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
@@ -31,9 +29,7 @@ Removes all of the target’s stat modifiers.
 | ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
 | ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |

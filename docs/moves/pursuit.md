@@ -31,8 +31,6 @@ Has double power against, and can hit, Pokémon attempting to switch out.
 | ![dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) |
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
-| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
-| ![electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) |
 | ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |

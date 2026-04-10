@@ -54,7 +54,6 @@ Inflicts damage equal to half the target’s HP.
 | ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
-| ![tynamo](../img/pokemon/602.png) | [Tynamo](../pokemon/tynamo.md) |
 | ![walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) |
 | ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |

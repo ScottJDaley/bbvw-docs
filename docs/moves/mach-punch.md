@@ -14,7 +14,6 @@ Inflicts regular damage with no additional effect.
 | --- | --- |
 | ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
-| ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) |
 | ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |

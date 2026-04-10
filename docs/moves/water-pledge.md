@@ -20,9 +20,13 @@ With Grass Pledge, halves opposing Pokémon’s Speed for four turns.
 | ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
+| ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
+| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
 | ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) |
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
 | ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |

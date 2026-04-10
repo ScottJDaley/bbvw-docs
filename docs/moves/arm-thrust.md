@@ -16,4 +16,3 @@ Hits 2-5 times in one turn.
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
 | ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |

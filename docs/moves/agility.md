@@ -38,7 +38,6 @@ Raises the user’s Speed by two stages.
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) |
-| ![electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) |
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
@@ -59,7 +58,6 @@ Raises the user’s Speed by two stages.
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
-| ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
@@ -68,8 +66,6 @@ Raises the user’s Speed by two stages.
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
 | ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) |
 | ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
-| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
-| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
@@ -100,7 +96,6 @@ Raises the user’s Speed by two stages.
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
-| ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
@@ -110,7 +105,6 @@ Raises the user’s Speed by two stages.
 | ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
 | ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |
-| ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |

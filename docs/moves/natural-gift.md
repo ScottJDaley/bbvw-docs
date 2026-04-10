@@ -48,6 +48,9 @@ Power and type depend on the held berry.
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |

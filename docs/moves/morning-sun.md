@@ -19,7 +19,6 @@ Heals the user by half its max HP.  Affected by weather.
 | ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
 | ![pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
@@ -27,7 +26,6 @@ Heals the user by half its max HP.  Affected by weather.
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |
 | ![sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
-| ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |
 | ![venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) |
 | ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |

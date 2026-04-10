@@ -29,7 +29,6 @@ Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
-| ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) |
 | ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
@@ -39,8 +38,6 @@ Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
-| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
-| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |
 | ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
 | ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) |
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |

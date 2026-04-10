@@ -34,9 +34,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
-| ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) |
-| ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
 | ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |

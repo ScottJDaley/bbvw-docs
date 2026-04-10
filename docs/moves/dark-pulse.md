@@ -61,7 +61,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) |
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
-| ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
 | ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
@@ -77,9 +76,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |
 | ![persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
-| ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
 | ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
-| ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
@@ -87,11 +84,9 @@ Has a $effect_chance% chance to make the target flinch.
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) |
 | ![scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
-| ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |

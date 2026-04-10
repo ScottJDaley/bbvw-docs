@@ -21,6 +21,4 @@ Copies the target’s last used move.
 | ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
 | ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
-| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
 | ![wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) |
-| ![wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) |

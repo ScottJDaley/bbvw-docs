@@ -23,12 +23,10 @@ Hits 2-5 times in one turn.
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
-| ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
-| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |

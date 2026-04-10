@@ -69,7 +69,6 @@ Lowers the target’s HP to equal the user’s.
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
 | ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
-| ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |

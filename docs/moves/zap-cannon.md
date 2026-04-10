@@ -12,8 +12,11 @@ Has a $effect_chance% chance to paralyze the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
 | ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
+| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
@@ -22,6 +25,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
 | ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
 | ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
 | ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |

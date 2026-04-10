@@ -21,7 +21,6 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
-| ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
@@ -35,7 +34,6 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
 | ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
-| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |

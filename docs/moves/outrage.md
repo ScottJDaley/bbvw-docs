@@ -54,7 +54,6 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
 | ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |
-| ![magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
@@ -74,15 +73,12 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) |
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
-| ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |
 | ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
-| ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
 | ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |

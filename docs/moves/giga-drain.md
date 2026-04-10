@@ -26,7 +26,6 @@ Drains half the damage inflicted to heal the user.
 | ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
 | ![budew](../img/pokemon/406.png) | [Budew](../pokemon/budew.md) |
 | ![bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) |
-| ![burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |

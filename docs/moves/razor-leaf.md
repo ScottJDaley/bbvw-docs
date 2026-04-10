@@ -14,7 +14,6 @@ Has an increased chance for a critical hit.
 | --- | --- |
 | ![abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
-| ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
 | ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
 | ![budew](../img/pokemon/406.png) | [Budew](../pokemon/budew.md) |
 | ![bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) |
@@ -22,19 +21,16 @@ Has an increased chance for a critical hit.
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
-| ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
-| ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
 | ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |
@@ -46,5 +42,4 @@ Has an increased chance for a critical hit.
 | ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
 | ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
-| ![vileplume](../img/pokemon/045.png) | [Vileplume](../pokemon/vileplume.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |

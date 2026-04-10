@@ -15,11 +15,9 @@ Has a $effect_chance% chance to make the target flinch.
 | ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
-| ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
@@ -30,6 +28,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
 | ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
+| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) |
@@ -41,7 +40,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
 | ![swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) |
@@ -56,7 +54,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
+| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |
 | ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |

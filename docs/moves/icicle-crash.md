@@ -14,4 +14,6 @@ Has a $effect_chance% chance to make the target flinch.
 | --- | --- |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) |
+| ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
+| ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) |

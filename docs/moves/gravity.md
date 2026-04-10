@@ -91,4 +91,3 @@ Disables moves and immunities that involve flying or levitating for five turns.
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
-| ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

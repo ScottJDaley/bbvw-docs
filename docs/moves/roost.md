@@ -17,7 +17,6 @@ Heals the user by half its max HP.
 | ![archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) |
 | ![archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) |
 | ![articuno](../img/pokemon/144.png) | [Articuno](../pokemon/articuno.md) |
-| ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
@@ -68,7 +67,6 @@ Heals the user by half its max HP.
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
 | ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
-| ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
@@ -81,7 +79,6 @@ Heals the user by half its max HP.
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
-| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |

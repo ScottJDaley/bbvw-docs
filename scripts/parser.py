@@ -111,28 +111,72 @@ def parse_move_changes():
     stat_matches = re.findall(r'(\w+(?:\s+\w+)?):\s+Base Power\s+(\d+)\s+->\s+(\d+),\s+Accuracy\s+(\d+)\s+->\s+(\d+)', content)
     for name, bp_old, bp_new, acc_old, acc_new in stat_matches:
         move_stat_changes[normalize_name(name)] = {'power': {'old': int(bp_old), 'new': int(bp_new)}, 'accuracy': {'old': int(acc_old), 'new': int(acc_new)}}
+    
     entries = re.split(r'\n(?=#\d{3})', content)
     for entry in entries:
-        lines = entry.strip().split('\n'); header = lines[0]
-        pkmn_matches = re.findall(r'#(\d{3})\s+([^,\n]+)', header)
+        lines = entry.strip().split('\n')
+        if not lines: continue
+        header = lines[0]
+        pkmn_matches = re.findall(r'#(\d{3})\s+([^,\-\n]+)', header)
         if not pkmn_matches: continue
         target_group = [m[1].strip().lower() for m in pkmn_matches]
-        moves_raw = []
+        
+        current_sub_group = target_group
+        
         for line in lines[1:]:
             line = line.strip()
-            move_match = re.match(r'([+\-=])\s+Level\s+(\d+)\s+-\s+([^(]+)(?:\s+\((.+)\))?', line)
+            if not line: continue
+            
+            if "As for the second evolutions" in line:
+                if len(target_group) == 6:
+                    current_sub_group = target_group[1::2]
+                continue
+
+            # Support both (...) and [...] for pokemon filters, and allow spaces in move names
+            move_match = re.match(r'([+\-=]?)\s*Level\s+([\d\s/–-]+)\s*[-–]\s*(.*?)(?:\s*[(\[](.+)[)\]])?\s*$', line)
+
             if move_match:
-                marker, lv, mname, filter_text = move_match.groups()
-                moves_raw.append({'level': int(lv), 'name': normalize_name(mname.strip()), 'marker': marker, 'filters': [f.strip().lower() for f in filter_text.split(',')] if filter_text else []})
-            else:
-                 move_match2 = re.match(r'([+\-=])\s+([^(]+)\s+-\s+Level\s+(\d+)(?:\s+\((.+)\))?', line)
-                 if move_match2:
-                     marker, mname, lv, filter_text = move_match2.groups()
-                     moves_raw.append({'level': int(lv), 'name': normalize_name(mname.strip()), 'marker': marker, 'filters': [f.strip().lower() for f in filter_text.split(',')] if filter_text else []})
-        for p_name in target_group:
-            if p_name not in move_changes: move_changes[p_name] = []
-            for mr in moves_raw:
-                if not mr['filters'] or p_name in mr['filters']: move_changes[p_name].append({'level': mr['level'], 'name': mr['name'], 'marker': mr['marker']})
+                groups = move_match.groups()
+                marker = groups[0] if groups[0] else ""
+                lv_str = groups[1]
+                mname_str = groups[2].strip()
+                filter_text = groups[3] if len(groups) == 4 and groups[3] else ""
+
+                levels = [l.strip() for l in re.split(r'[/–-]', lv_str) if l.strip()]
+                moves = [m.strip() for m in mname_str.split('/')]
+                filters = [f.strip().lower() for f in filter_text.split(',')] if filter_text else []
+                
+                same_for_all = False
+                if filter_text and "same for all" in filter_text.lower():
+                    same_for_all = True
+                    filters = []
+
+                applicable_pokemon = []
+                if filters and not same_for_all:
+                    for p in current_sub_group:
+                        for f in filters:
+                            f_clean = f.replace(" only", "").strip()
+                            if f_clean == p or (f_clean + "s" == p) or (p.startswith(f_clean + "-")):
+                                applicable_pokemon.append(p)
+                                break
+                else:
+                    applicable_pokemon = current_sub_group
+
+                for j, p_name in enumerate(applicable_pokemon):
+                    mname = moves[j] if j < len(moves) else moves[-1]
+                    if mname.lower() == "nothing":
+                        continue
+                    
+                    lv = levels[j] if j < len(levels) else levels[-1]
+                    
+                    if p_name not in move_changes:
+                        move_changes[p_name] = []
+                    
+                    move_changes[p_name].append({
+                        'level': int(lv),
+                        'name': normalize_name(mname),
+                        'marker': marker
+                    })
     return move_changes, move_stat_changes
 
 def parse_trainers():

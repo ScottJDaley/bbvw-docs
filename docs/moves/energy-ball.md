@@ -111,7 +111,6 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
-| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |

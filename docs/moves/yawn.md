@@ -41,6 +41,7 @@ Target sleeps at the end of the next turn.
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) |
 | ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) |
 | ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) |

@@ -182,6 +182,5 @@ Protects the user’s field from major status ailments and confusion for five tu
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
 | ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
 | ![wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) |
-| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
 | ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |

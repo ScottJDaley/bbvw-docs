@@ -14,13 +14,10 @@ Has a $effect_chance% chance to poison the target.
 | --- | --- |
 | ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
 | ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
-| ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
-| ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
@@ -36,7 +33,6 @@ Has a $effect_chance% chance to poison the target.
 | ![sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) |
 | ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) |
 | ![scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
 | ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |

@@ -15,6 +15,7 @@ Only works if the target is about to use a damaging move.
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) |
 | ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
 | ![banette](../img/pokemon/354.png) | [Banette](../pokemon/banette.md) |
+| ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
@@ -36,6 +37,8 @@ Only works if the target is about to use a damaging move.
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
+| ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
+| ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
@@ -51,8 +54,8 @@ Only works if the target is about to use a damaging move.
 | ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
+| ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) |
-| ![scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) |
 | ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
@@ -62,7 +65,6 @@ Only works if the target is about to use a damaging move.
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
 | ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

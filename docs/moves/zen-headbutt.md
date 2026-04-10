@@ -129,7 +129,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
 | ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |
 | ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
 | ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |

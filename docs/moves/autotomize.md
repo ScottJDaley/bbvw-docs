@@ -23,6 +23,5 @@ Raises the user’s Speed by two stages and halves the user’s weight.
 | ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
-| ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |
 | ![vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) |
 | ![vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) |

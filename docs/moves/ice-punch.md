@@ -22,7 +22,6 @@ Has a $effect_chance% chance to freeze the target.
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
-| ![beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
@@ -30,7 +29,6 @@ Has a $effect_chance% chance to freeze the target.
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
 | ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
-| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
@@ -78,7 +76,6 @@ Has a $effect_chance% chance to freeze the target.
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
-| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
@@ -104,7 +101,6 @@ Has a $effect_chance% chance to freeze the target.
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
-| ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
@@ -148,7 +144,6 @@ Has a $effect_chance% chance to freeze the target.
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
-| ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |

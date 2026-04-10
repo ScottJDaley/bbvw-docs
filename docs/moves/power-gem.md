@@ -16,9 +16,11 @@ Inflicts regular damage with no additional effect.
 | ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
+| ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
+| ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
 | ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
@@ -29,6 +31,7 @@ Inflicts regular damage with no additional effect.
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
+| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
 | ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |

@@ -18,7 +18,6 @@ Inflicts regular damage with no additional effect.
 | ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
-| ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |

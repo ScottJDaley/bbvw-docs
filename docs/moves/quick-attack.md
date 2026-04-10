@@ -77,7 +77,6 @@ Inflicts regular damage with no additional effect.
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
-| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |

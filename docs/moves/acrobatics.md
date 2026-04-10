@@ -22,13 +22,11 @@ Has double power if the user has no held item.
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
 | ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
-| ![combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
 | ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
-| ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
 | ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) |

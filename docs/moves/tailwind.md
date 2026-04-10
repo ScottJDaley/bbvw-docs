@@ -22,7 +22,6 @@ For three turns, friendly Pokémon have doubled Speed.
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) |
 | ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
 | ![chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) |
@@ -76,7 +75,6 @@ For three turns, friendly Pokémon have doubled Speed.
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
 | ![staraptor](../img/pokemon/398.png) | [Staraptor](../pokemon/staraptor.md) |
@@ -102,7 +100,6 @@ For three turns, friendly Pokémon have doubled Speed.
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

@@ -16,7 +16,6 @@ Has an increased chance for a critical hit.
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
-| ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
@@ -36,6 +35,8 @@ Has an increased chance for a critical hit.
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
 | ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) |
+| ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
+| ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
 | ![ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) |
@@ -50,7 +51,6 @@ Has an increased chance for a critical hit.
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
-| ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |

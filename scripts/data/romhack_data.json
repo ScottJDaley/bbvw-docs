@@ -17183,20 +17183,6 @@
         "marker": "+"
       }
     ],
-    "charmander": [
-      {
-        "level": 50,
-        "name": "belly-drum",
-        "marker": "+"
-      }
-    ],
-    "charmeleon": [
-      {
-        "level": 61,
-        "name": "belly-drum",
-        "marker": "+"
-      }
-    ],
     "charizard": [
       {
         "level": 1,
@@ -17529,90 +17515,6 @@
         "marker": "+"
       }
     ],
-    "rattata": [
-      {
-        "level": 1,
-        "name": "bite",
-        "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "flame-wheel",
-        "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "reversal",
-        "marker": "+"
-      },
-      {
-        "level": 37,
-        "name": "endeavor",
-        "marker": "="
-      },
-      {
-        "level": 40,
-        "name": "me-first",
-        "marker": "+"
-      },
-      {
-        "level": 43,
-        "name": "final-gambit",
-        "marker": "+"
-      }
-    ],
-    "raticate": [
-      {
-        "level": 1,
-        "name": "bite",
-        "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "flame-wheel",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "swords-dance",
-        "marker": "="
-      },
-      {
-        "level": 20,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "thunder-fang",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "ice-fang",
-        "marker": "+"
-      },
-      {
-        "level": 44,
-        "name": "reversal",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "endeavor",
-        "marker": "="
-      },
-      {
-        "level": 54,
-        "name": "me-first",
-        "marker": "+"
-      },
-      {
-        "level": 59,
-        "name": "final-gambit",
-        "marker": "+"
-      }
-    ],
     "spearow": [
       {
         "level": 1,
@@ -17676,79 +17578,12 @@
         "level": 38,
         "name": "dizzy-punch",
         "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "charge",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "volt-tackle",
-        "marker": "+"
       }
     ],
     "pikachu": [
       {
-        "level": 23,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "sing",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "dizzy-punch",
-        "marker": "+"
-      },
-      {
         "level": 32,
         "name": "charge",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "volt-tackle",
-        "marker": "+"
-      }
-    ],
-    "raichu": [
-      {
-        "level": 23,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "sing",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "dizzy-punch",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "charge",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "volt-tackle",
         "marker": "+"
       }
     ],
@@ -17786,10 +17621,30 @@
         "marker": "+"
       }
     ],
-    "nidoran-f": [
+    "nidoran": [
       {
         "level": 1,
         "name": "moonlight",
+        "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "sweet-kiss",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "lovely-kiss",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "super-fang",
+        "marker": "+"
+      },
+      {
+        "level": 1,
+        "name": "morning-sun",
         "marker": "+"
       },
       {
@@ -17811,28 +17666,6 @@
     "nidorina": [
       {
         "level": 31,
-        "name": "super-fang",
-        "marker": "+"
-      }
-    ],
-    "nidoran-m": [
-      {
-        "level": 1,
-        "name": "morning-sun",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "sweet-kiss",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "lovely-kiss",
-        "marker": "+"
-      },
-      {
-        "level": 28,
         "name": "super-fang",
         "marker": "+"
       }
@@ -17859,106 +17692,16 @@
         "level": 25,
         "name": "petal-dance",
         "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "aromatherapy",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "belly-drum",
-        "marker": "+"
-      },
-      {
-        "level": 47,
-        "name": "wish",
-        "marker": "+"
       }
     ],
     "clefairy": [
       {
-        "level": 19,
-        "name": "stored-power",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "swift",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
         "level": 34,
         "name": "aromatherapy",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "belly-drum",
-        "marker": "+"
-      },
-      {
-        "level": 47,
-        "name": "wish",
         "marker": "+"
       }
     ],
     "clefable": [
-      {
-        "level": 19,
-        "name": "stored-power",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "swift",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "aromatherapy",
-        "marker": "+"
-      },
       {
         "level": 23,
         "name": "fire-punch",
@@ -18041,11 +17784,6 @@
         "marker": "+"
       },
       {
-        "level": 19,
-        "name": "perish-song",
-        "marker": "+"
-      },
-      {
         "level": 21,
         "name": "fake-tears",
         "marker": "+"
@@ -18058,26 +17796,6 @@
       {
         "level": 29,
         "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "magic-coat",
-        "marker": "+"
-      },
-      {
-        "level": 47,
-        "name": "heal-bell",
         "marker": "+"
       }
     ],
@@ -18093,72 +17811,12 @@
         "marker": "+"
       },
       {
-        "level": 21,
-        "name": "fake-tears",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "mimic",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
         "level": 23,
         "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "magic-coat",
-        "marker": "+"
-      },
-      {
-        "level": 47,
-        "name": "heal-bell",
         "marker": "+"
       }
     ],
     "wigglytuff": [
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "perish-song",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "fake-tears",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "mimic",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "wish",
-        "marker": "+"
-      },
       {
         "level": 23,
         "name": "gravity",
@@ -18182,11 +17840,6 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
         "level": 16,
         "name": "wing-attack",
         "marker": "="
@@ -18197,46 +17850,19 @@
         "marker": "+"
       },
       {
-        "level": 22,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
-    "golbat": [
-      {
-        "level": 1,
-        "name": "flail",
+        "level": 49,
+        "name": "nasty-plot",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "wing-attack",
-        "marker": "="
-      },
-      {
-        "level": 18,
-        "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "roost",
+        "level": 53,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
     "crobat": [
       {
         "level": 1,
-        "name": "flail",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "heat-wave",
         "marker": "+"
       },
@@ -18253,6 +17879,43 @@
       {
         "level": 22,
         "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "brave-bird",
+        "marker": "+"
+      }
+    ],
+    "golbat": [
+      {
+        "level": 16,
+        "name": "wing-attack",
+        "marker": "="
+      },
+      {
+        "level": 18,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
@@ -18261,30 +17924,12 @@
         "level": 1,
         "name": "leech-seed",
         "marker": "+"
-      },
+      }
+    ],
+    "bellossom": [
       {
         "level": 1,
         "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "nature-power",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "earth-power",
         "marker": "+"
       },
       {
@@ -18300,126 +17945,14 @@
     ],
     "gloom": [
       {
-        "level": 1,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "nature-power",
-        "marker": "+"
-      },
-      {
         "level": 21,
         "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "earth-power",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 65,
-        "name": "earth-power",
         "marker": "+"
       }
     ],
     "vileplume": [
       {
-        "level": 1,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "nature-power",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
         "level": 38,
-        "name": "earth-power",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 65,
-        "name": "earth-power",
-        "marker": "+"
-      }
-    ],
-    "bellossom": [
-      {
-        "level": 1,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "nature-power",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "earth-power",
-        "marker": "+"
-      },
-      {
-        "level": 38,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 65,
         "name": "earth-power",
         "marker": "+"
       }
@@ -18497,7 +18030,7 @@
         "marker": "+"
       }
     ],
-    "meowth": [
+    "persian": [
       {
         "level": 1,
         "name": "icy-wind",
@@ -18524,17 +18057,7 @@
         "marker": "+"
       }
     ],
-    "persian": [
-      {
-        "level": 1,
-        "name": "icy-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "water-pulse",
-        "marker": "+"
-      },
+    "meowth": [
       {
         "level": 12,
         "name": "hypnosis",
@@ -18571,24 +18094,9 @@
         "level": 25,
         "name": "psybeam",
         "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "cross-chop",
-        "marker": "+"
       }
     ],
     "golduck": [
-      {
-        "level": 1,
-        "name": "petal-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "tri-attack",
-        "marker": "+"
-      },
       {
         "level": 12,
         "name": "hypnosis",
@@ -18676,29 +18184,9 @@
         "level": 13,
         "name": "mud-shot",
         "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "metronome",
-        "marker": "+"
       }
     ],
     "poliwhirl": [
-      {
-        "level": 1,
-        "name": "growth",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "sweet-kiss",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "lovely-kiss",
-        "marker": "+"
-      },
       {
         "level": 13,
         "name": "mud-shot",
@@ -18742,7 +18230,9 @@
         "level": 1,
         "name": "metronome",
         "marker": "+"
-      },
+      }
+    ],
+    "alakazam": [
       {
         "level": 1,
         "name": "gravity",
@@ -18766,21 +18256,6 @@
     ],
     "kadabra": [
       {
-        "level": 1,
-        "name": "foresight",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
         "level": 20,
         "name": "shock-wave",
         "marker": "+"
@@ -18788,43 +18263,6 @@
       {
         "level": 32,
         "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 56,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
-    "alakazam": [
-      {
-        "level": 1,
-        "name": "foresight",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "shock-wave",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 56,
-        "name": "aura-sphere",
         "marker": "+"
       }
     ],
@@ -18838,17 +18276,22 @@
         "level": 16,
         "name": "metronome",
         "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "close-combat",
+        "marker": "+"
       }
     ],
     "machoke": [
       {
-        "level": 1,
-        "name": "thrash",
+        "level": 16,
+        "name": "metronome",
         "marker": "+"
       },
       {
-        "level": 16,
-        "name": "metronome",
+        "level": 59,
+        "name": "close-combat",
         "marker": "+"
       }
     ],
@@ -18918,16 +18361,6 @@
     ],
     "weepinbell": [
       {
-        "level": 3,
-        "name": "sweet-kiss",
-        "marker": "+"
-      },
-      {
-        "level": 5,
-        "name": "lovely-kiss",
-        "marker": "+"
-      },
-      {
         "level": 9,
         "name": "leech-life",
         "marker": "+"
@@ -18970,12 +18403,17 @@
         "level": 1,
         "name": "confuse-ray",
         "marker": "+"
+      },
+      {
+        "level": 59,
+        "name": "acupressure",
+        "marker": "+"
       }
     ],
     "tentacruel": [
       {
-        "level": 1,
-        "name": "confuse-ray",
+        "level": 66,
+        "name": "acupressure",
         "marker": "+"
       }
     ],
@@ -18986,61 +18424,14 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "fire-punch",
+        "level": 53,
+        "name": "hammer-arm",
         "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 18,
-        "name": "bulldoze",
-        "marker": "="
-      },
-      {
-        "level": 36,
-        "name": "steamroller",
-        "marker": "="
-      }
-    ],
-    "graveler": [
-      {
-        "level": 1,
-        "name": "rapid-spin",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 18,
-        "name": "bulldoze",
-        "marker": "="
-      },
-      {
-        "level": 36,
-        "name": "steamroller",
-        "marker": "="
       }
     ],
     "golem": [
       {
         "level": 1,
-        "name": "rapid-spin",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "fire-punch",
         "marker": "+"
       },
@@ -19058,17 +18449,24 @@
         "level": 36,
         "name": "steamroller",
         "marker": "="
+      },
+      {
+        "level": 70,
+        "name": "hammer-arm",
+        "marker": "+"
+      }
+    ],
+    "graveler": [
+      {
+        "level": 70,
+        "name": "hammer-arm",
+        "marker": "+"
       }
     ],
     "ponyta": [
       {
         "level": 1,
         "name": "baton-pass",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "morning-sun",
         "marker": "+"
       },
       {
@@ -19084,11 +18482,6 @@
       {
         "level": 35,
         "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "horn-drill",
         "marker": "+"
       }
     ],
@@ -19129,22 +18522,12 @@
         "level": 21,
         "name": "brine",
         "marker": "+"
-      },
-      {
-        "level": 62,
-        "name": "aura-sphere",
-        "marker": "+"
       }
     ],
     "slowbro": [
       {
         "level": 21,
         "name": "brine",
-        "marker": "+"
-      },
-      {
-        "level": 62,
-        "name": "aura-sphere",
         "marker": "+"
       }
     ],
@@ -19170,19 +18553,9 @@
         "level": 25,
         "name": "signal-beam",
         "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "tri-attack",
-        "marker": "="
       }
     ],
     "magneton": [
-      {
-        "level": 1,
-        "name": "agility",
-        "marker": "+"
-      },
       {
         "level": 25,
         "name": "signal-beam",
@@ -19196,19 +18569,9 @@
     ],
     "magnezone": [
       {
-        "level": 1,
-        "name": "agility",
-        "marker": "+"
-      },
-      {
         "level": 25,
         "name": "signal-beam",
         "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "tri-attack",
-        "marker": "="
       }
     ],
     "farfetch'd": [
@@ -19240,24 +18603,24 @@
         "marker": "+"
       },
       {
-        "level": 31,
-        "name": "drill-run",
+        "level": 54,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
     "dodrio": [
       {
-        "level": 1,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
         "level": 31,
         "name": "drill-run",
         "marker": "+"
+      },
+      {
+        "level": 66,
+        "name": "brave-bird",
+        "marker": "+"
       }
     ],
-    "grimer": [
+    "muk": [
       {
         "level": 1,
         "name": "curse",
@@ -19274,12 +18637,7 @@
         "marker": "+"
       }
     ],
-    "muk": [
-      {
-        "level": 1,
-        "name": "curse",
-        "marker": "+"
-      },
+    "grimer": [
       {
         "level": 15,
         "name": "shadow-sneak",
@@ -19320,50 +18678,6 @@
         "marker": "+"
       }
     ],
-    "gastly": [
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 24,
-        "name": "clear-smog",
-        "marker": "+"
-      },
-      {
-        "level": 68,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
-    "haunter": [
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 24,
-        "name": "clear-smog",
-        "marker": "+"
-      },
-      {
-        "level": 68,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
     "gengar": [
       {
         "level": 1,
@@ -19381,8 +18695,47 @@
         "marker": "+"
       },
       {
+        "level": 36,
+        "name": "icy-wind",
+        "marker": "+"
+      },
+      {
         "level": 68,
         "name": "aura-sphere",
+        "marker": "+"
+      }
+    ],
+    "gastly": [
+      {
+        "level": 17,
+        "name": "ominous-wind",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "clear-smog",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "icy-wind",
+        "marker": "+"
+      }
+    ],
+    "haunter": [
+      {
+        "level": 17,
+        "name": "ominous-wind",
+        "marker": "+"
+      },
+      {
+        "level": 24,
+        "name": "clear-smog",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "icy-wind",
         "marker": "+"
       }
     ],
@@ -19424,11 +18777,6 @@
     ],
     "hypno": [
       {
-        "level": 1,
-        "name": "amnesia",
-        "marker": "+"
-      },
-      {
         "level": 13,
         "name": "dream-eater",
         "marker": "="
@@ -19444,8 +18792,20 @@
         "marker": "+"
       }
     ],
-    "krabby": [],
-    "kingler": [],
+    "krabby": [
+      {
+        "level": 49,
+        "name": "superpower",
+        "marker": "+"
+      }
+    ],
+    "kingler": [
+      {
+        "level": 70,
+        "name": "superpower",
+        "marker": "+"
+      }
+    ],
     "voltorb": [
       {
         "level": 1,
@@ -19459,11 +18819,6 @@
       }
     ],
     "electrode": [
-      {
-        "level": 1,
-        "name": "agility",
-        "marker": "+"
-      },
       {
         "level": 24,
         "name": "signal-beam",
@@ -19504,23 +18859,6 @@
         "marker": "+"
       }
     ],
-    "cubone": [
-      {
-        "level": 1,
-        "name": "sing",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      }
-    ],
     "marowak": [
       {
         "level": 1,
@@ -19535,6 +18873,28 @@
       {
         "level": 1,
         "name": "thunder-punch",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "belly-drum",
+        "marker": "+"
+      },
+      {
+        "level": 70,
+        "name": "perish-song",
+        "marker": "+"
+      }
+    ],
+    "cubone": [
+      {
+        "level": 51,
+        "name": "belly-drum",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "perish-song",
         "marker": "+"
       }
     ],
@@ -19552,61 +18912,61 @@
         "marker": "+"
       }
     ],
-    "lickitung": [],
-    "lickilicky": [],
-    "koffing": [],
-    "weezing": [],
-    "rhyhorn": [
+    "lickitung": [
       {
-        "level": 1,
-        "name": "fire-fang",
+        "level": 61,
+        "name": "belly-drum",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "thunder-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "crunch",
+        "level": 65,
+        "name": "hammer-arm",
         "marker": "+"
       }
     ],
-    "rhydon": [
+    "lickilicky": [
       {
-        "level": 1,
-        "name": "fire-fang",
+        "level": 65,
+        "name": "belly-drum",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "thunder-fang",
+        "level": 69,
+        "name": "hammer-arm",
+        "marker": "+"
+      }
+    ],
+    "koffing": [
+      {
+        "level": 59,
+        "name": "pain-split",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ice-fang",
+        "level": 63,
+        "name": "destiny-bond",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "superpower",
+        "level": 67,
+        "name": "gunk-shot",
+        "marker": "+"
+      }
+    ],
+    "weezing": [
+      {
+        "level": 71,
+        "name": "pain-split",
         "marker": "+"
       },
       {
-        "level": 27,
-        "name": "crunch",
+        "level": 77,
+        "name": "destiny-bond",
+        "marker": "+"
+      },
+      {
+        "level": 83,
+        "name": "gunk-shot",
         "marker": "+"
       }
     ],
@@ -19627,50 +18987,52 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "superpower",
+        "level": 27,
+        "name": "crunch",
         "marker": "+"
       },
+      {
+        "level": 52,
+        "name": "dragon-rush",
+        "marker": "+"
+      },
+      {
+        "level": 85,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "rhyhorn": [
       {
         "level": 27,
         "name": "crunch",
         "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "dragon-rush",
+        "marker": "+"
+      },
+      {
+        "level": 73,
+        "name": "double-edge",
+        "marker": "+"
       }
     ],
-    "happiny": [
+    "rhydon": [
       {
-        "level": 1,
-        "name": "sweet-scent",
+        "level": 27,
+        "name": "crunch",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "wish",
+        "level": 52,
+        "name": "dragon-rush",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "seismic-toss",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "last-resort",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "aromatherapy",
-        "marker": "+"
-      },
-      {
-        "level": 58,
-        "name": "gravity",
+        "level": 85,
+        "name": "double-edge",
         "marker": "+"
       }
     ],
@@ -19679,44 +19041,9 @@
         "level": 1,
         "name": "sweet-scent",
         "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "seismic-toss",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "last-resort",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "aromatherapy",
-        "marker": "+"
-      },
-      {
-        "level": 58,
-        "name": "gravity",
-        "marker": "+"
       }
     ],
-    "blissey": [
-      {
-        "level": 1,
-        "name": "sweet-scent",
-        "marker": "+"
-      },
+    "happiny": [
       {
         "level": 1,
         "name": "wish",
@@ -19730,21 +19057,6 @@
       {
         "level": 16,
         "name": "last-resort",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "aromatherapy",
-        "marker": "+"
-      },
-      {
-        "level": 58,
-        "name": "gravity",
         "marker": "+"
       }
     ],
@@ -19763,19 +19075,9 @@
         "level": 31,
         "name": "giga-drain",
         "marker": "+"
-      },
-      {
-        "level": 60,
-        "name": "leaf-storm",
-        "marker": "+"
       }
     ],
     "tangrowth": [
-      {
-        "level": 1,
-        "name": "synthesis",
-        "marker": "+"
-      },
       {
         "level": 17,
         "name": "nature-power",
@@ -19844,19 +19146,9 @@
         "level": 32,
         "name": "dragon-breath",
         "marker": "+"
-      },
-      {
-        "level": 65,
-        "name": "outrage",
-        "marker": "+"
       }
     ],
     "seadra": [
-      {
-        "level": 1,
-        "name": "haze",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "dragon-rage",
@@ -19871,19 +19163,9 @@
         "level": 32,
         "name": "dragon-breath",
         "marker": "+"
-      },
-      {
-        "level": 65,
-        "name": "outrage",
-        "marker": "+"
       }
     ],
     "kingdra": [
-      {
-        "level": 1,
-        "name": "haze",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "dragon-rage",
@@ -19912,30 +19194,25 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "body-slam",
+        "level": 64,
+        "name": "bounce",
         "marker": "+"
       }
     ],
     "seaking": [
       {
         "level": 1,
-        "name": "swords-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "aqua-tail",
         "marker": "+"
       },
       {
         "level": 33,
         "name": "body-slam",
+        "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "bounce",
         "marker": "+"
       }
     ],
@@ -19975,27 +19252,10 @@
         "marker": "+"
       }
     ],
-    "mr. mime": [
-      {
-        "level": 13,
-        "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "nasty-plot",
-        "marker": "+"
-      }
-    ],
-    "scyther": [
+    "scizor": [
       {
         "level": 1,
         "name": "crabhammer",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "sonic-boom",
         "marker": "+"
       },
       {
@@ -20009,12 +19269,7 @@
         "marker": "+"
       }
     ],
-    "scizor": [
-      {
-        "level": 1,
-        "name": "crabhammer",
-        "marker": "+"
-      },
+    "scyther": [
       {
         "level": 1,
         "name": "sonic-boom",
@@ -20038,23 +19293,13 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "water-pulse",
-        "marker": "+"
-      },
-      {
         "level": 30,
         "name": "metronome",
         "marker": "+"
       },
       {
-        "level": 71,
-        "name": "psycho-boost",
+        "level": 51,
+        "name": "nasty-plot",
         "marker": "+"
       }
     ],
@@ -20075,8 +19320,8 @@
         "marker": "+"
       },
       {
-        "level": 30,
-        "name": "metronome",
+        "level": 65,
+        "name": "nasty-plot",
         "marker": "+"
       },
       {
@@ -20092,19 +19337,31 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ice-punch",
+        "level": 30,
+        "name": "pursuit",
         "marker": "+"
       },
       {
-        "level": 30,
-        "name": "pursuit",
+        "level": 38,
+        "name": "cross-chop",
+        "marker": "+"
+      }
+    ],
+    "electivire": [
+      {
+        "level": 1,
+        "name": "ice-punch",
         "marker": "+"
       },
       {
         "level": 32,
         "name": "circle-throw",
         "marker": "-"
+      },
+      {
+        "level": 41,
+        "name": "cross-chop",
+        "marker": "+"
       },
       {
         "level": 50,
@@ -20119,120 +19376,14 @@
     ],
     "electabuzz": [
       {
-        "level": 1,
-        "name": "dizzy-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
         "level": 30,
-        "name": "pursuit",
+        "name": "zap-cannon",
         "marker": "+"
       },
       {
-        "level": 32,
-        "name": "circle-throw",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "close-combat",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "volt-tackle",
-        "marker": "-"
-      }
-    ],
-    "electivire": [
-      {
-        "level": 1,
-        "name": "dizzy-punch",
+        "level": 41,
+        "name": "cross-chop",
         "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "pursuit",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "circle-throw",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "close-combat",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "volt-tackle",
-        "marker": "-"
-      }
-    ],
-    "magby": [
-      {
-        "level": 1,
-        "name": "nasty-plot",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "faint-attack",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "flare-blitz",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "aura-sphere",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "magma-storm",
-        "marker": "-"
-      }
-    ],
-    "magmar": [
-      {
-        "level": 1,
-        "name": "nasty-plot",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "faint-attack",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "flare-blitz",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "aura-sphere",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "magma-storm",
-        "marker": "-"
       }
     ],
     "magmortar": [
@@ -20242,14 +19393,14 @@
         "marker": "+"
       },
       {
-        "level": 30,
-        "name": "faint-attack",
-        "marker": "+"
-      },
-      {
         "level": 32,
         "name": "flare-blitz",
         "marker": "-"
+      },
+      {
+        "level": 41,
+        "name": "cross-chop",
+        "marker": "+"
       },
       {
         "level": 50,
@@ -20260,6 +19411,30 @@
         "level": 62,
         "name": "magma-storm",
         "marker": "-"
+      }
+    ],
+    "magby": [
+      {
+        "level": 30,
+        "name": "faint-attack",
+        "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "cross-chop",
+        "marker": "+"
+      }
+    ],
+    "magmar": [
+      {
+        "level": 30,
+        "name": "heat-wave",
+        "marker": "+"
+      },
+      {
+        "level": 41,
+        "name": "cross-chop",
+        "marker": "+"
       }
     ],
     "pinsir": [
@@ -20321,34 +19496,9 @@
         "level": 1,
         "name": "reversal",
         "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "outrage",
-        "marker": "+"
       }
     ],
     "gyarados": [
-      {
-        "level": 1,
-        "name": "bubble",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bounce",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "reversal",
-        "marker": "+"
-      },
       {
         "level": 50,
         "name": "crunch",
@@ -20400,176 +19550,716 @@
     "eevee": [
       {
         "level": 1,
-        "name": "growth",
-        "marker": "+"
+        "name": "tail-whip",
+        "marker": ""
       },
       {
-        "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
-        "marker": "+"
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
       },
       {
-        "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
-        "marker": "+"
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
       },
-      {
-        "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
-        "marker": "+"
-      }
-    ],
-    "vaporeon": [
       {
         "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "growl",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "bite",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "yawn",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "baton-pass",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "take-down",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "wish",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "trump-card",
+        "marker": ""
+      }
+    ],
+    "vaporeon": [
+      {
+        "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "growth",
+        "marker": "+"
+      },
+      {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "water-gun",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "bite",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "water-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "aurora-beam",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "aqua-ring",
+        "marker": ""
+      },
+      {
+        "level": 43,
+        "name": "scald",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "haze",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "acid-armor",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "hydro-pump",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "muddy-water",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "heal-bell",
         "marker": "+"
       }
     ],
     "jolteon": [
       {
         "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "thundershock",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "double-kick",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "shock-wave",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "pin-missile",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "thunder-fang",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "electro-ball",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "thunder-wave",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "agility",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "thunder",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "discharge",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "volt-tackle",
         "marker": "+"
       }
     ],
     "flareon": [
       {
         "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "ember",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "bite",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "flame-wheel",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "fire-spin",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "fire-fang",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "superpower",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "smog",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "scary-face",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "fire-blast",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "lava-plume",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "flare-blitz",
         "marker": "+"
       }
     ],
     "espeon": [
       {
         "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "confusion",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "swift",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "power-gem",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "psybeam",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "future-sight",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "fake-tears",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "psych-up",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "psychic",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "morning-sun",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "power-swap",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "aura-sphere",
         "marker": "+"
       }
     ],
     "umbreon": [
       {
         "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "pursuit",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "confuse-ray",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "tickle",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "faint-attack",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "assurance",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "foul-play",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "mean-look",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "screech",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "moonlight",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "guard-swap",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "power-trick",
         "marker": "+"
       }
     ],
     "leafeon": [
       {
         "level": 1,
-        "name": "growth",
-        "marker": "+"
+        "name": "tail-whip",
+        "marker": ""
       },
       {
-        "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
-        "marker": "+"
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
       },
       {
-        "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
-        "marker": "+"
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
       },
-      {
-        "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
-        "marker": "+"
-      }
-    ],
-    "glaceon": [
       {
         "level": 1,
         "name": "growth",
         "marker": "+"
       },
       {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "razor-leaf",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "synthesis",
+        "marker": ""
+      },
+      {
         "level": 28,
-        "name": "yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam",
+        "name": "aromatherapy",
         "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "magical-leaf",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "giga-drain",
+        "marker": ""
       },
       {
         "level": 43,
-        "name": "wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power",
+        "name": "dragon-rush",
         "marker": "+"
       },
       {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "grasswhistle",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "sunny-day",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "leaf-blade",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "swords-dance",
+        "marker": ""
+      },
+      {
         "level": 73,
-        "name": "nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold",
+        "name": "wood-hammer",
+        "marker": "+"
+      }
+    ],
+    "glaceon": [
+      {
+        "level": 1,
+        "name": "tail-whip",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "tackle",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "helping-hand",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "growth",
+        "marker": "+"
+      },
+      {
+        "level": 8,
+        "name": "sand-attack",
+        "marker": ""
+      },
+      {
+        "level": 13,
+        "name": "icy-wind",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "quick-attack",
+        "marker": ""
+      },
+      {
+        "level": 23,
+        "name": "bite",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "aurora-beam",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "ice-shard",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "ice-fang",
+        "marker": ""
+      },
+      {
+        "level": 43,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "last-resort",
+        "marker": ""
+      },
+      {
+        "level": 53,
+        "name": "mirror-coat",
+        "marker": ""
+      },
+      {
+        "level": 58,
+        "name": "hail",
+        "marker": ""
+      },
+      {
+        "level": 63,
+        "name": "blizzard",
+        "marker": ""
+      },
+      {
+        "level": 68,
+        "name": "barrier",
+        "marker": ""
+      },
+      {
+        "level": 73,
+        "name": "sheer-cold",
         "marker": "+"
       }
     ],
@@ -20581,17 +20271,27 @@
       },
       {
         "level": 1,
+        "name": "transform",
+        "marker": "+"
+      },
+      {
+        "level": 1,
         "name": "barrier",
         "marker": "+"
       },
       {
         "level": 1,
-        "name": "dark-pulse",
+        "name": "barrier",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "pain-split",
+        "level": 67,
+        "name": "gravity",
+        "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "gravity",
         "marker": "+"
       }
     ],
@@ -20602,40 +20302,8 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "barrier",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "dark-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "pain-split",
-        "marker": "+"
-      }
-    ],
-    "porygon-z": [
-      {
-        "level": 1,
-        "name": "transform",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "barrier",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "dark-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "pain-split",
+        "level": 72,
+        "name": "gravity",
         "marker": "+"
       }
     ],
@@ -20644,12 +20312,22 @@
         "level": 40,
         "name": "power-gem",
         "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "earth-power",
+        "marker": "+"
       }
     ],
     "omastar": [
       {
         "level": 40,
         "name": "power-gem",
+        "marker": "+"
+      },
+      {
+        "level": 83,
+        "name": "earth-power",
         "marker": "+"
       }
     ],
@@ -20682,16 +20360,6 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "gunk-shot",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
         "level": 62,
         "name": "slack-off",
         "marker": "+"
@@ -20708,16 +20376,6 @@
       }
     ],
     "snorlax": [
-      {
-        "level": 1,
-        "name": "sweet-kiss",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "lovely-kiss",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "gunk-shot",
@@ -20751,92 +20409,48 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "coil",
+        "level": 61,
+        "name": "dragon-pulse",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "extreme-speed",
-        "marker": "+"
+        "level": 65,
+        "name": "hyper-beam",
+        "marker": "="
       }
     ],
     "dragonair": [
       {
         "level": 1,
-        "name": "hydro-pump",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "coil",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "extreme-speed",
+        "level": 75,
+        "name": "dragon-pulse",
         "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "hyper-beam",
+        "marker": "="
       }
     ],
     "dragonite": [
       {
         "level": 1,
-        "name": "hydro-pump",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "coil",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "extreme-speed",
         "marker": "+"
-      }
-    ],
-    "chikorita": [
+      },
       {
-        "level": 1,
-        "name": "grasswhistle",
+        "level": 75,
+        "name": "dragon-pulse",
         "marker": "+"
       },
       {
-        "level": 9,
-        "name": "stun-spore",
-        "marker": "+"
-      },
-      {
-        "level": 9,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "nature-power",
-        "marker": "+"
-      }
-    ],
-    "bayleef": [
-      {
-        "level": 1,
-        "name": "grasswhistle",
-        "marker": "+"
-      },
-      {
-        "level": 9,
-        "name": "stun-spore",
-        "marker": "+"
-      },
-      {
-        "level": 9,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "nature-power",
-        "marker": "+"
+        "level": 89,
+        "name": "hyper-beam",
+        "marker": "="
       }
     ],
     "meganium": [
@@ -20859,39 +20473,54 @@
         "level": 15,
         "name": "nature-power",
         "marker": "+"
-      }
-    ],
-    "cyndaquil": [
-      {
-        "level": 1,
-        "name": "earth-power",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "extrasensory",
+        "level": 72,
+        "name": "leaf-storm",
         "marker": "+"
       }
     ],
-    "quilava": [
+    "chikorita": [
       {
-        "level": 1,
-        "name": "earth-power",
+        "level": 9,
+        "name": "stun-spore",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "thunder-punch",
+        "level": 9,
+        "name": "sleep-powder",
         "marker": "+"
       },
       {
-        "level": 16,
-        "name": "extrasensory",
+        "level": 15,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "leaf-storm",
+        "marker": "+"
+      }
+    ],
+    "bayleef": [
+      {
+        "level": 9,
+        "name": "stun-spore",
+        "marker": "+"
+      },
+      {
+        "level": 9,
+        "name": "sleep-powder",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "leaf-storm",
         "marker": "+"
       }
     ],
@@ -20910,29 +20539,34 @@
         "level": 16,
         "name": "extrasensory",
         "marker": "+"
-      }
-    ],
-    "totodile": [
-      {
-        "level": 1,
-        "name": "submission",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ice-punch",
+        "level": 65,
+        "name": "nature-power",
         "marker": "+"
       }
     ],
-    "croconaw": [
+    "cyndaquil": [
       {
-        "level": 1,
-        "name": "submission",
+        "level": 16,
+        "name": "extrasensory",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ice-punch",
+        "level": 52,
+        "name": "nature-power",
+        "marker": "+"
+      }
+    ],
+    "quilava": [
+      {
+        "level": 16,
+        "name": "extrasensory",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "nature-power",
         "marker": "+"
       }
     ],
@@ -20946,6 +20580,25 @@
         "level": 1,
         "name": "ice-punch",
         "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "dragon-dance",
+        "marker": "+"
+      }
+    ],
+    "totodile": [
+      {
+        "level": 54,
+        "name": "dragon-dance",
+        "marker": "+"
+      }
+    ],
+    "croconaw": [
+      {
+        "level": 64,
+        "name": "dragon-dance",
+        "marker": "+"
       }
     ],
     "sentret": [
@@ -20953,12 +20606,17 @@
         "level": 1,
         "name": "dizzy-punch",
         "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "super-fang",
+        "marker": "+"
       }
     ],
     "furret": [
       {
-        "level": 1,
-        "name": "dizzy-punch",
+        "level": 25,
+        "name": "super-fang",
         "marker": "+"
       }
     ],
@@ -20969,29 +20627,14 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
+        "level": 61,
+        "name": "nasty-plot",
         "marker": "+"
       }
     ],
     "noctowl": [
       {
         "level": 1,
-        "name": "night-shade",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "ominous-wind",
         "marker": "+"
       },
@@ -21004,10 +20647,40 @@
         "level": 1,
         "name": "heat-wave",
         "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "nasty-plot",
+        "marker": "+"
       }
     ],
-    "ledyba": [],
-    "ledian": [],
+    "ledian": [
+      {
+        "level": 18,
+        "name": "fire-punch",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "thunder-punch",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 18,
+        "name": "dizzy-punch",
+        "marker": "+"
+      }
+    ],
     "spinarak": [
       {
         "level": 12,
@@ -21039,106 +20712,20 @@
         "marker": "+"
       }
     ],
-    "lanturn": [
-      {
-        "level": 1,
-        "name": "light-screen",
-        "marker": "+"
-      }
-    ],
-    "togepi": [
-      {
-        "level": 1,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "tri-attack",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "stored-power",
-        "marker": "+"
-      },
-      {
-        "level": 31,
-        "name": "softboiled",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
-    "togetic": [
-      {
-        "level": 1,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "tri-attack",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "stored-power",
-        "marker": "+"
-      },
-      {
-        "level": 31,
-        "name": "softboiled",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
     "togekiss": [
       {
         "level": 1,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "tri-attack",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "stored-power",
-        "marker": "+"
-      },
-      {
-        "level": 31,
-        "name": "softboiled",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "heat-wave",
         "marker": "+"
       },
       {
         "level": 1,
         "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "nasty-plot",
         "marker": "+"
       }
     ],
@@ -21157,14 +20744,19 @@
         "level": 14,
         "name": "confusion",
         "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "psycho-cut",
+        "marker": "+"
+      },
+      {
+        "level": 42,
+        "name": "air-slash",
+        "marker": "+"
       }
     ],
     "xatu": [
-      {
-        "level": 1,
-        "name": "safeguard",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "air-cutter",
@@ -21174,39 +20766,15 @@
         "level": 14,
         "name": "confusion",
         "marker": "+"
-      }
-    ],
-    "mareep": [
+      },
       {
-        "level": 1,
-        "name": "tail-glow",
+        "level": 33,
+        "name": "psycho-cut",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "dragon-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "charge",
-        "marker": "+"
-      }
-    ],
-    "flaaffy": [
-      {
-        "level": 1,
-        "name": "tail-glow",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "dragon-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "charge",
+        "level": 51,
+        "name": "air-slash",
         "marker": "+"
       }
     ],
@@ -21225,17 +20793,49 @@
         "level": 1,
         "name": "charge",
         "marker": "+"
-      }
-    ],
-    "azurill": [
+      },
       {
-        "level": 1,
-        "name": "dizzy-punch",
+        "level": 17,
+        "name": "shock-wave",
         "marker": "+"
       },
       {
-        "level": 21,
-        "name": "sing",
+        "level": 87,
+        "name": "zap-cannon",
+        "marker": "+"
+      }
+    ],
+    "mareep": [
+      {
+        "level": 1,
+        "name": "charge",
+        "marker": "+"
+      },
+      {
+        "level": 16,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "zap-cannon",
+        "marker": "+"
+      }
+    ],
+    "flaaffy": [
+      {
+        "level": 1,
+        "name": "charge",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "zap-cannon",
         "marker": "+"
       }
     ],
@@ -21244,19 +20844,9 @@
         "level": 1,
         "name": "dizzy-punch",
         "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "sing",
-        "marker": "+"
       }
     ],
-    "azumarill": [
-      {
-        "level": 1,
-        "name": "dizzy-punch",
-        "marker": "+"
-      },
+    "azurill": [
       {
         "level": 21,
         "name": "sing",
@@ -21292,54 +20882,27 @@
         "marker": "+"
       },
       {
-        "level": 79,
-        "name": "aromatherapy",
+        "level": 52,
+        "name": "cotton-guard",
         "marker": "+"
       }
     ],
     "skiploom": [
       {
-        "level": 1,
-        "name": "agility",
-        "marker": "+"
-      },
-      {
-        "level": 79,
-        "name": "aromatherapy",
+        "level": 64,
+        "name": "cotton-guard",
         "marker": "+"
       }
     ],
     "jumpluff": [
       {
-        "level": 1,
-        "name": "agility",
+        "level": 74,
+        "name": "cotton-guard",
         "marker": "+"
       },
       {
         "level": 79,
         "name": "aromatherapy",
-        "marker": "+"
-      }
-    ],
-    "aipom": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 47,
-        "name": "fake-out",
         "marker": "+"
       }
     ],
@@ -21365,8 +20928,13 @@
         "marker": "+"
       }
     ],
-    "sunkern": [],
-    "sunflora": [],
+    "aipom": [
+      {
+        "level": 47,
+        "name": "fake-out",
+        "marker": "+"
+      }
+    ],
     "yanma": [
       {
         "level": 1,
@@ -21391,11 +20959,6 @@
     ],
     "yanmega": [
       {
-        "level": 1,
-        "name": "steel-wing",
-        "marker": "+"
-      },
-      {
         "level": 20,
         "name": "air-cutter",
         "marker": "+"
@@ -21418,30 +20981,40 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "body-slam",
+        "level": 12,
+        "name": "acid-spray",
         "marker": "+"
       },
       {
-        "level": 12,
-        "name": "acid-spray",
+        "level": 26,
+        "name": "aqua-tail",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "recover",
         "marker": "+"
       }
     ],
     "quagsire": [
       {
         "level": 1,
-        "name": "belly-drum",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "body-slam",
         "marker": "+"
       },
       {
         "level": 12,
         "name": "acid-spray",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "aqua-tail",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "recover",
         "marker": "+"
       }
     ],
@@ -21452,24 +21025,19 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "heat-wave",
+        "level": 35,
+        "name": "drill-peck",
         "marker": "+"
       },
       {
-        "level": 35,
-        "name": "drill-peck",
+        "level": 71,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
     "honchkrow": [
       {
         "level": 1,
-        "name": "beat-up",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "heat-wave",
         "marker": "+"
       },
@@ -21477,22 +21045,10 @@
         "level": 35,
         "name": "drill-peck",
         "marker": "+"
-      }
-    ],
-    "misdreavus": [
-      {
-        "level": 1,
-        "name": "inferno",
-        "marker": "+"
       },
       {
-        "level": 25,
-        "name": "wonder-room",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "icy-wind",
+        "level": 85,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
@@ -21510,6 +21066,38 @@
       {
         "level": 35,
         "name": "icy-wind",
+        "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "destiny-bond",
+        "marker": "+"
+      }
+    ],
+    "misdreavus": [
+      {
+        "level": 60,
+        "name": "nasty-plot",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "destiny-bond",
         "marker": "+"
       }
     ],
@@ -21542,13 +21130,6 @@
       {
         "level": 61,
         "name": "stored-power",
-        "marker": "+"
-      }
-    ],
-    "wynaut": [
-      {
-        "level": 15,
-        "name": "mimic",
         "marker": "+"
       }
     ],
@@ -21597,17 +21178,22 @@
         "level": 1,
         "name": "metronome",
         "marker": "+"
+      },
+      {
+        "level": 53,
+        "name": "close-combat",
+        "marker": "+"
       }
     ],
     "granbull": [
       {
         "level": 1,
-        "name": "lovely-kiss",
+        "name": "metronome",
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "metronome",
+        "level": 61,
+        "name": "close-combat",
         "marker": "+"
       }
     ],
@@ -21647,11 +21233,6 @@
         "marker": "+"
       },
       {
-        "level": 1,
-        "name": "fake-out",
-        "marker": "+"
-      },
-      {
         "level": 32,
         "name": "ice-punch",
         "marker": "+"
@@ -21659,22 +21240,12 @@
       {
         "level": 56,
         "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 56,
-        "name": "low-kick",
         "marker": "+"
       }
     ],
     "weavile": [
       {
         "level": 1,
-        "name": "moonlight",
-        "marker": "+"
-      },
-      {
-        "level": 1,
         "name": "fake-out",
         "marker": "+"
       },
@@ -21685,39 +21256,7 @@
       },
       {
         "level": 56,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 56,
         "name": "low-kick",
-        "marker": "+"
-      }
-    ],
-    "teddiursa": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "close-combat",
         "marker": "+"
       }
     ],
@@ -21739,6 +21278,11 @@
       },
       {
         "level": 1,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 1,
         "name": "crunch",
         "marker": "+"
       },
@@ -21748,59 +21292,17 @@
         "marker": "+"
       }
     ],
-    "slugma": [],
-    "magcargo": [],
-    "swinub": [
+    "slugma": [
       {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-shard",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "icicle-spear",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "body-slam",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "avalanche",
+        "level": 60,
+        "name": "power-gem",
         "marker": "+"
       }
     ],
-    "piloswine": [
+    "magcargo": [
       {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-shard",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "icicle-spear",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "body-slam",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "avalanche",
+        "level": 74,
+        "name": "power-gem",
         "marker": "+"
       }
     ],
@@ -21829,6 +21331,55 @@
         "level": 30,
         "name": "avalanche",
         "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "icicle-crash",
+        "marker": "+"
+      }
+    ],
+    "swinub": [
+      {
+        "level": 11,
+        "name": "icicle-spear",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "body-slam",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "avalanche",
+        "marker": "+"
+      },
+      {
+        "level": 42,
+        "name": "icicle-crash",
+        "marker": "+"
+      }
+    ],
+    "piloswine": [
+      {
+        "level": 11,
+        "name": "icicle-spear",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "body-slam",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "avalanche",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "icicle-crash",
+        "marker": "+"
       }
     ],
     "remoraid": [
@@ -21841,29 +21392,9 @@
         "level": 1,
         "name": "amnesia",
         "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "acid-spray",
-        "marker": "+"
       }
     ],
     "octillery": [
-      {
-        "level": 1,
-        "name": "mist",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "amnesia",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "seed-bomb",
@@ -21942,7 +21473,7 @@
         "marker": "+"
       }
     ],
-    "mantyke": [
+    "mantine": [
       {
         "level": 1,
         "name": "gust",
@@ -21954,12 +21485,7 @@
         "marker": "+"
       }
     ],
-    "mantine": [
-      {
-        "level": 1,
-        "name": "gust",
-        "marker": "+"
-      },
+    "mantyke": [
       {
         "level": 53,
         "name": "mirror-coat",
@@ -22003,6 +21529,11 @@
         "level": 23,
         "name": "snarl",
         "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "dark-pulse",
+        "marker": "+"
       }
     ],
     "houndoom": [
@@ -22010,22 +21541,10 @@
         "level": 23,
         "name": "snarl",
         "marker": "+"
-      }
-    ],
-    "phanpy": [
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
       },
       {
-        "level": 21,
-        "name": "ice-shard",
-        "marker": "+"
-      },
-      {
-        "level": 63,
-        "name": "head-smash",
+        "level": 43,
+        "name": "dark-pulse",
         "marker": "+"
       }
     ],
@@ -22043,6 +21562,13 @@
       {
         "level": 63,
         "name": "head-smash",
+        "marker": "+"
+      }
+    ],
+    "phanpy": [
+      {
+        "level": 21,
+        "name": "seed-bomb",
         "marker": "+"
       }
     ],
@@ -22141,50 +21667,6 @@
         "marker": "+"
       }
     ],
-    "larvitar": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "iron-tail",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "iron-defense",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "dragon-dance",
-        "marker": "+"
-      }
-    ],
-    "pupitar": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "iron-tail",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "iron-defense",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "dragon-dance",
-        "marker": "+"
-      }
-    ],
     "tyranitar": [
       {
         "level": 1,
@@ -22197,13 +21679,22 @@
         "marker": "+"
       },
       {
-        "level": 25,
-        "name": "iron-defense",
-        "marker": "+"
-      },
-      {
         "level": 55,
         "name": "dragon-dance",
+        "marker": "+"
+      }
+    ],
+    "larvitar": [
+      {
+        "level": 25,
+        "name": "iron-tail",
+        "marker": "+"
+      }
+    ],
+    "pupitar": [
+      {
+        "level": 25,
+        "name": "iron-defense",
         "marker": "+"
       }
     ],
@@ -22211,50 +21702,6 @@
       {
         "level": 1,
         "name": "nasty-plot",
-        "marker": "+"
-      }
-    ],
-    "treecko": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "magical-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 36,
-        "name": "dragon-pulse",
-        "marker": "+"
-      }
-    ],
-    "grovyle": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "magical-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 36,
-        "name": "dragon-pulse",
         "marker": "+"
       }
     ],
@@ -22270,57 +21717,8 @@
         "marker": "+"
       },
       {
-        "level": 16,
-        "name": "magical-leaf",
-        "marker": "+"
-      },
-      {
         "level": 36,
         "name": "dragon-pulse",
-        "marker": "+"
-      }
-    ],
-    "torchic": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "baton-pass",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "low-kick",
-        "marker": "+"
-      }
-    ],
-    "combusken": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "baton-pass",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "low-kick",
         "marker": "+"
       }
     ],
@@ -22334,15 +21732,12 @@
         "level": 1,
         "name": "night-slash",
         "marker": "+"
-      },
+      }
+    ],
+    "torchic": [
       {
         "level": 22,
         "name": "baton-pass",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "low-kick",
         "marker": "+"
       }
     ],
@@ -22350,16 +21745,6 @@
       {
         "level": 1,
         "name": "yawn",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mirror-coat",
         "marker": "+"
       },
       {
@@ -22372,21 +21757,6 @@
       {
         "level": 1,
         "name": "yawn",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "ice-ball",
         "marker": "+"
       }
     ],
@@ -22404,38 +21774,6 @@
       {
         "level": 1,
         "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 21,
-        "name": "ice-ball",
-        "marker": "+"
-      }
-    ],
-    "poochyena": [
-      {
-        "level": 1,
-        "name": "super-fang",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "thunder-fang",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "ice-fang",
         "marker": "+"
       }
     ],
@@ -22466,23 +21804,6 @@
         "marker": "+"
       }
     ],
-    "zigzagoon": [
-      {
-        "level": 1,
-        "name": "super-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "rock-climb",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
     "linoone": [
       {
         "level": 1,
@@ -22510,109 +21831,12 @@
         "level": 1,
         "name": "bug-bite",
         "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "clear-smog",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "struggle-bug",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "reflect,-light-screen",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "air-slash",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "tailwind",
-        "marker": "+"
-      }
-    ],
-    "silcoon": [
-      {
-        "level": 1,
-        "name": "poison-sting",
-        "marker": "="
-      },
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "clear-smog",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "struggle-bug",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "reflect,-light-screen",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "air-slash",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "tailwind",
-        "marker": "+"
       }
     ],
     "beautifly": [
       {
-        "level": 1,
-        "name": "poison-sting",
-        "marker": "="
-      },
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "="
-      },
-      {
         "level": 10,
         "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "clear-smog",
         "marker": "+"
       },
       {
@@ -22626,85 +21850,13 @@
         "marker": "+"
       },
       {
-        "level": 17,
-        "name": "reflect,-light-screen",
-        "marker": "+"
-      },
-      {
         "level": 49,
         "name": "air-slash",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "tailwind",
-        "marker": "+"
-      }
-    ],
-    "cascoon": [
-      {
-        "level": 1,
-        "name": "poison-sting",
-        "marker": "="
-      },
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "clear-smog",
-        "marker": "+"
-      },
-      {
-        "level": 10,
-        "name": "struggle-bug",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "reflect,-light-screen",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "air-slash",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "tailwind",
         "marker": "+"
       }
     ],
     "dustox": [
       {
-        "level": 1,
-        "name": "poison-sting",
-        "marker": "="
-      },
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "="
-      },
-      {
-        "level": 10,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
         "level": 10,
         "name": "clear-smog",
         "marker": "+"
@@ -22716,156 +21868,12 @@
       },
       {
         "level": 17,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 17,
         "name": "reflect,-light-screen",
         "marker": "+"
       },
       {
         "level": 49,
-        "name": "air-slash",
-        "marker": "+"
-      },
-      {
-        "level": 49,
         "name": "tailwind",
-        "marker": "+"
-      }
-    ],
-    "lotad": [
-      {
-        "level": 1,
-        "name": "rain-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "teeter-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 9,
-        "name": "water-gun",
-        "marker": "+"
-      },
-      {
-        "level": 13,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "synthesis",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "water-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "hydro-pump",
-        "marker": "+"
-      }
-    ],
-    "lombre": [
-      {
-        "level": 1,
-        "name": "rain-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "teeter-dance",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 9,
-        "name": "water-gun",
-        "marker": "+"
-      },
-      {
-        "level": 13,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "synthesis",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "water-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "hydro-pump",
         "marker": "+"
       }
     ],
@@ -22906,6 +21914,13 @@
         "marker": "+"
       },
       {
+        "level": 50,
+        "name": "hydro-pump",
+        "marker": "+"
+      }
+    ],
+    "lotad": [
+      {
         "level": 9,
         "name": "water-gun",
         "marker": "+"
@@ -22921,6 +21936,23 @@
         "marker": "+"
       },
       {
+        "level": 22,
+        "name": "razor-leaf",
+        "marker": "+"
+      }
+    ],
+    "lombre": [
+      {
+        "level": 9,
+        "name": "water-gun",
+        "marker": "+"
+      },
+      {
+        "level": 13,
+        "name": "leech-seed",
+        "marker": "+"
+      },
+      {
         "level": 17,
         "name": "water-pulse",
         "marker": "+"
@@ -22928,175 +21960,6 @@
       {
         "level": 22,
         "name": "razor-leaf",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "hydro-pump",
-        "marker": "+"
-      }
-    ],
-    "seedot": [
-      {
-        "level": 1,
-        "name": "hurricane",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "icy-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "leaf-blade",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "twister",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bullet-seed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "quick-attack",
-        "marker": "+"
-      },
-      {
-        "level": 14,
-        "name": "razor-leaf",
-        "marker": "="
-      },
-      {
-        "level": 16,
-        "name": "foul-play",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 26,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "beat-up",
-        "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "dark-pulse",
-        "marker": "+"
-      }
-    ],
-    "nuzleaf": [
-      {
-        "level": 1,
-        "name": "hurricane",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "icy-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "leaf-blade",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "twister",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bullet-seed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "quick-attack",
-        "marker": "+"
-      },
-      {
-        "level": 14,
-        "name": "razor-leaf",
-        "marker": "="
-      },
-      {
-        "level": 16,
-        "name": "foul-play",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 26,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "beat-up",
-        "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "dark-pulse",
         "marker": "+"
       }
     ],
@@ -23137,10 +22000,34 @@
         "marker": "+"
       },
       {
+        "level": 34,
+        "name": "dark-pulse",
+        "marker": "+"
+      }
+    ],
+    "seedot": [
+      {
         "level": 1,
         "name": "bullet-seed",
         "marker": "+"
       },
+      {
+        "level": 1,
+        "name": "quick-attack",
+        "marker": "+"
+      },
+      {
+        "level": 17,
+        "name": "seed-bomb",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "leech-seed",
+        "marker": "+"
+      }
+    ],
+    "nuzleaf": [
       {
         "level": 1,
         "name": "quick-attack",
@@ -23157,18 +22044,8 @@
         "marker": "+"
       },
       {
-        "level": 17,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
         "level": 22,
         "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 26,
-        "name": "leech-seed",
         "marker": "+"
       },
       {
@@ -23179,28 +22056,6 @@
       {
         "level": 34,
         "name": "dark-pulse",
-        "marker": "+"
-      }
-    ],
-    "taillow": [
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 16,
-        "name": "mirror-move",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "steel-wing",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "extreme-speed",
         "marker": "+"
       }
     ],
@@ -23224,12 +22079,27 @@
         "level": 22,
         "name": "extreme-speed",
         "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "brave-bird",
+        "marker": "+"
       }
     ],
-    "wingull": [
+    "taillow": [
       {
-        "level": 1,
-        "name": "shock-wave",
+        "level": 16,
+        "name": "mirror-move",
+        "marker": "+"
+      },
+      {
+        "level": 22,
+        "name": "steel-wing",
+        "marker": "+"
+      },
+      {
+        "level": 59,
+        "name": "brave-bird",
         "marker": "+"
       }
     ],
@@ -23237,117 +22107,6 @@
       {
         "level": 1,
         "name": "shock-wave",
-        "marker": "+"
-      }
-    ],
-    "ralts": [
-      {
-        "level": 1,
-        "name": "sacred-sword",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "psybeam",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "shock-wave",
-        "marker": "+"
-      },
-      {
-        "level": 85,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
-    "kirlia": [
-      {
-        "level": 1,
-        "name": "sacred-sword",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "psybeam",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "shock-wave",
-        "marker": "+"
-      },
-      {
-        "level": 85,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
-    "gardevoir": [
-      {
-        "level": 1,
-        "name": "sacred-sword",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "psybeam",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "shock-wave",
-        "marker": "+"
-      },
-      {
-        "level": 85,
-        "name": "aura-sphere",
         "marker": "+"
       }
     ],
@@ -23371,7 +22130,9 @@
         "level": 1,
         "name": "thunder-punch",
         "marker": "+"
-      },
+      }
+    ],
+    "ralts": [
       {
         "level": 15,
         "name": "psybeam",
@@ -23380,6 +22141,45 @@
       {
         "level": 19,
         "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "confuse-ray",
+        "marker": "+"
+      }
+    ],
+    "kirlia": [
+      {
+        "level": 15,
+        "name": "psybeam",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "confuse-ray",
+        "marker": "+"
+      }
+    ],
+    "gardevoir": [
+      {
+        "level": 15,
+        "name": "psybeam",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 28,
+        "name": "confuse-ray",
         "marker": "+"
       },
       {
@@ -23395,40 +22195,15 @@
         "marker": "+"
       },
       {
-        "level": 29,
-        "name": "scald",
-        "marker": "+"
-      },
-      {
         "level": 34,
         "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 65,
-        "name": "hydro-pump",
-        "marker": "+"
-      },
-      {
-        "level": 73,
-        "name": "hurricane",
         "marker": "+"
       }
     ],
     "masquerain": [
       {
-        "level": 28,
-        "name": "psybeam",
-        "marker": "+"
-      },
-      {
         "level": 29,
         "name": "scald",
-        "marker": "+"
-      },
-      {
-        "level": 34,
-        "name": "giga-drain",
         "marker": "+"
       },
       {
@@ -23439,33 +22214,6 @@
       {
         "level": 73,
         "name": "hurricane",
-        "marker": "+"
-      }
-    ],
-    "shroomish": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 13,
-        "name": "bullet-seed",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "spore",
-        "marker": "+"
-      },
-      {
-        "level": 57,
-        "name": "focus-punch",
         "marker": "+"
       }
     ],
@@ -23496,57 +22244,10 @@
         "marker": "+"
       }
     ],
-    "slakoth": [
+    "shroomish": [
       {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 18,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 36,
-        "name": "crush-claw",
-        "marker": "+"
-      }
-    ],
-    "vigoroth": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 18,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 36,
-        "name": "crush-claw",
+        "level": 13,
+        "name": "bullet-seed",
         "marker": "+"
       }
     ],
@@ -23577,30 +22278,22 @@
         "marker": "+"
       }
     ],
+    "vigoroth": [
+      {
+        "level": 18,
+        "name": "night-slash",
+        "marker": "+"
+      }
+    ],
     "nincada": [
       {
         "level": 1,
         "name": "bug-bite",
         "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "extreme-speed",
-        "marker": "+"
       }
     ],
     "ninjask": [
       {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "+"
-      },
-      {
         "level": 20,
         "name": "night-slash",
         "marker": "+"
@@ -23608,87 +22301,6 @@
       {
         "level": 20,
         "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
-    "shedinja": [
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "night-slash",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
-    "whismur": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fake-tears",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "circle-throw",
-        "marker": "+"
-      },
-      {
-        "level": 67,
-        "name": "hammer-arm",
-        "marker": "+"
-      }
-    ],
-    "loudred": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fake-tears",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "circle-throw",
-        "marker": "+"
-      },
-      {
-        "level": 67,
-        "name": "hammer-arm",
         "marker": "+"
       }
     ],
@@ -23724,20 +22336,17 @@
         "marker": "+"
       }
     ],
-    "makuhita": [
+    "whismur": [
       {
         "level": 1,
-        "name": "fire-punch",
+        "name": "fake-tears",
         "marker": "+"
-      },
+      }
+    ],
+    "loudred": [
       {
         "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
+        "name": "fake-tears",
         "marker": "+"
       }
     ],
@@ -23755,6 +22364,18 @@
       {
         "level": 1,
         "name": "thunder-punch",
+        "marker": "+"
+      },
+      {
+        "level": 67,
+        "name": "cross-chop",
+        "marker": "+"
+      }
+    ],
+    "makuhita": [
+      {
+        "level": 49,
+        "name": "cross-chop",
         "marker": "+"
       }
     ],
@@ -23816,26 +22437,6 @@
       {
         "level": 1,
         "name": "pay-day",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "wish",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "captivate",
-        "marker": "+"
-      },
-      {
-        "level": 45,
-        "name": "sucker-punch",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "double-edge",
         "marker": "+"
       }
     ],
@@ -23915,40 +22516,6 @@
         "marker": "+"
       }
     ],
-    "aron": [
-      {
-        "level": 1,
-        "name": "head-smash",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bullet-punch",
-        "marker": "+"
-      }
-    ],
-    "lairon": [
-      {
-        "level": 1,
-        "name": "head-smash",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bullet-punch",
-        "marker": "+"
-      }
-    ],
     "aggron": [
       {
         "level": 1,
@@ -23963,28 +22530,6 @@
       {
         "level": 1,
         "name": "bullet-punch",
-        "marker": "+"
-      }
-    ],
-    "meditite": [
-      {
-        "level": 1,
-        "name": "bullet-punch",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "force-palm",
-        "marker": "="
-      },
-      {
-        "level": 28,
-        "name": "psycho-cut",
-        "marker": "+"
-      },
-      {
-        "level": 37,
-        "name": "drain-punch",
         "marker": "+"
       }
     ],
@@ -24010,10 +22555,15 @@
         "marker": "+"
       }
     ],
-    "electrike": [
+    "meditite": [
       {
-        "level": 26,
-        "name": "flame-burst",
+        "level": 20,
+        "name": "force-palm",
+        "marker": "="
+      },
+      {
+        "level": 28,
+        "name": "psycho-cut",
         "marker": "+"
       }
     ],
@@ -24108,45 +22658,10 @@
         "level": 25,
         "name": "giga-drain",
         "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 52,
-        "name": "leaf-storm",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "petal-dance",
-        "marker": "+"
       }
     ],
     "roselia": [
       {
-        "level": 19,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
         "level": 49,
         "name": "sleep-powder",
         "marker": "+"
@@ -24159,60 +22674,13 @@
       {
         "level": 55,
         "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "petal-dance",
         "marker": "+"
       }
     ],
     "roserade": [
       {
-        "level": 19,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 49,
-        "name": "sleep-powder",
-        "marker": "+"
-      },
-      {
-        "level": 52,
-        "name": "leaf-storm",
-        "marker": "+"
-      },
-      {
-        "level": 55,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
         "level": 55,
         "name": "petal-dance",
-        "marker": "+"
-      }
-    ],
-    "gulpin": [
-      {
-        "level": 1,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "pain-split",
         "marker": "+"
       }
     ],
@@ -24228,18 +22696,6 @@
         "marker": "+"
       }
     ],
-    "carvanha": [
-      {
-        "level": 1,
-        "name": "super-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "zen-headbutt",
-        "marker": "+"
-      }
-    ],
     "sharpedo": [
       {
         "level": 1,
@@ -24250,12 +22706,27 @@
         "level": 1,
         "name": "zen-headbutt",
         "marker": "+"
+      },
+      {
+        "level": 62,
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "hydro-pump",
+        "marker": "+"
       }
     ],
-    "wailmer": [
+    "carvanha": [
       {
-        "level": 1,
-        "name": "zen-headbutt",
+        "level": 41,
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "hydro-pump",
         "marker": "+"
       }
     ],
@@ -24264,12 +22735,17 @@
         "level": 1,
         "name": "zen-headbutt",
         "marker": "+"
+      },
+      {
+        "level": 78,
+        "name": "fissure",
+        "marker": "+"
       }
     ],
-    "numel": [
+    "wailmer": [
       {
-        "level": 1,
-        "name": "heat-wave",
+        "level": 53,
+        "name": "fissure",
         "marker": "+"
       }
     ],
@@ -24289,6 +22765,16 @@
       {
         "level": 58,
         "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "eruption",
+        "marker": "+"
+      },
+      {
+        "level": 78,
+        "name": "stealth-rock",
         "marker": "+"
       }
     ],
@@ -24344,6 +22830,13 @@
         "name": "bug-bite",
         "marker": "+"
       },
+      {
+        "level": 35,
+        "name": "giga-drain",
+        "marker": "+"
+      }
+    ],
+    "flygon": [
       {
         "level": 1,
         "name": "heat-wave",
@@ -24407,157 +22900,8 @@
     ],
     "vibrava": [
       {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bug-buzz",
-        "marker": "+"
-      },
-      {
         "level": 35,
         "name": "dragon-dance",
-        "marker": "+"
-      },
-      {
-        "level": 48,
-        "name": "signal-beam",
-        "marker": "+"
-      },
-      {
-        "level": 51,
-        "name": "earth-power",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "sandstorm",
-        "marker": "="
-      },
-      {
-        "level": 57,
-        "name": "dragon-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 61,
-        "name": "dragon-tail",
-        "marker": "="
-      },
-      {
-        "level": 65,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 69,
-        "name": "outrage",
-        "marker": "+"
-      },
-      {
-        "level": 73,
-        "name": "hyper-beam",
-        "marker": "="
-      }
-    ],
-    "flygon": [
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "bug-buzz",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "dragon-dance",
-        "marker": "+"
-      },
-      {
-        "level": 48,
-        "name": "signal-beam",
-        "marker": "+"
-      },
-      {
-        "level": 51,
-        "name": "earth-power",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "sandstorm",
-        "marker": "="
-      },
-      {
-        "level": 57,
-        "name": "dragon-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 61,
-        "name": "dragon-tail",
-        "marker": "="
-      },
-      {
-        "level": 65,
-        "name": "quiver-dance",
-        "marker": "+"
-      },
-      {
-        "level": 69,
-        "name": "outrage",
-        "marker": "+"
-      },
-      {
-        "level": 73,
-        "name": "hyper-beam",
-        "marker": "="
-      }
-    ],
-    "cacnea": [
-      {
-        "level": 1,
-        "name": "nasty-plot",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "dark-pulse",
         "marker": "+"
       }
     ],
@@ -24581,22 +22925,24 @@
         "level": 33,
         "name": "dark-pulse",
         "marker": "+"
+      },
+      {
+        "level": 77,
+        "name": "teeter-dance",
+        "marker": "+"
+      }
+    ],
+    "cacnea": [
+      {
+        "level": 61,
+        "name": "teeter-dance",
+        "marker": "+"
       }
     ],
     "swablu": [
       {
         "level": 1,
         "name": "roost",
-        "marker": "+"
-      },
-      {
-        "level": 42,
-        "name": "hyper-voice",
-        "marker": "+"
-      },
-      {
-        "level": 50,
-        "name": "outrage",
         "marker": "+"
       }
     ],
@@ -24700,24 +23046,32 @@
         "marker": "+"
       }
     ],
-    "barboach": [
-      {
-        "level": 1,
-        "name": "spark",
-        "marker": "+"
-      }
-    ],
     "whiscash": [
       {
         "level": 1,
         "name": "spark",
         "marker": "+"
+      },
+      {
+        "level": 63,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "hydro-pump",
+        "marker": "+"
       }
     ],
-    "corphish": [
+    "barboach": [
       {
-        "level": 1,
-        "name": "avalanche",
+        "level": 51,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "hydro-pump",
         "marker": "+"
       }
     ],
@@ -24726,12 +23080,27 @@
         "level": 1,
         "name": "avalanche",
         "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 70,
+        "name": "superpower",
+        "marker": "+"
       }
     ],
-    "baltoy": [
+    "corphish": [
       {
-        "level": 1,
-        "name": "gravity",
+        "level": 50,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 56,
+        "name": "superpower",
         "marker": "+"
       }
     ],
@@ -24739,23 +23108,6 @@
       {
         "level": 1,
         "name": "gravity",
-        "marker": "+"
-      }
-    ],
-    "lileep": [
-      {
-        "level": 1,
-        "name": "seed-bomb",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 40,
-        "name": "recover",
         "marker": "+"
       }
     ],
@@ -24774,22 +23126,17 @@
         "level": 40,
         "name": "recover",
         "marker": "+"
+      },
+      {
+        "level": 86,
+        "name": "earth-power",
+        "marker": "+"
       }
     ],
-    "anorith": [
+    "lileep": [
       {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "cross-poison",
+        "level": 71,
+        "name": "earth-power",
         "marker": "+"
       }
     ],
@@ -24825,29 +23172,9 @@
         "level": 25,
         "name": "dragon-pulse",
         "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "mirror-coat",
-        "marker": "+"
       }
     ],
     "milotic": [
-      {
-        "level": 10,
-        "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "brine",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "dragon-pulse",
-        "marker": "+"
-      },
       {
         "level": 53,
         "name": "mirror-coat",
@@ -24876,6 +23203,11 @@
         "level": 16,
         "name": "pain-split",
         "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "gunk-shot",
+        "marker": "+"
       }
     ],
     "banette": [
@@ -24888,11 +23220,34 @@
         "level": 16,
         "name": "pain-split",
         "marker": "+"
+      },
+      {
+        "level": 81,
+        "name": "gunk-shot",
+        "marker": "+"
       }
     ],
-    "duskull": [],
-    "dusclops": [],
-    "dusknoir": [],
+    "duskull": [
+      {
+        "level": 49,
+        "name": "trick",
+        "marker": "+"
+      }
+    ],
+    "dusclops": [
+      {
+        "level": 61,
+        "name": "trick",
+        "marker": "+"
+      }
+    ],
+    "dusknoir": [
+      {
+        "level": 61,
+        "name": "trick",
+        "marker": "+"
+      }
+    ],
     "tropius": [
       {
         "level": 1,
@@ -24964,18 +23319,11 @@
         "level": 72,
         "name": "sucker-punch",
         "marker": "+"
-      }
-    ],
-    "snorunt": [
-      {
-        "level": 37,
-        "name": "avalanche",
-        "marker": "-"
       },
       {
-        "level": 37,
-        "name": "ice-beam",
-        "marker": "-"
+        "level": 77,
+        "name": "superpower",
+        "marker": "+"
       }
     ],
     "glalie": [
@@ -24985,55 +23333,26 @@
         "marker": "-"
       },
       {
-        "level": 37,
-        "name": "ice-beam",
-        "marker": "-"
+        "level": 42,
+        "name": "rollout",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "head-smash",
+        "marker": "+"
+      },
+      {
+        "level": 73,
+        "name": "rock-wrecker",
+        "marker": "+"
       }
     ],
     "froslass": [
       {
         "level": 37,
-        "name": "avalanche",
-        "marker": "-"
-      },
-      {
-        "level": 37,
         "name": "ice-beam",
         "marker": "-"
-      }
-    ],
-    "spheal": [
-      {
-        "level": 1,
-        "name": "curse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "super-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      }
-    ],
-    "sealeo": [
-      {
-        "level": 1,
-        "name": "curse",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "super-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
       }
     ],
     "walrein": [
@@ -25070,68 +23389,10 @@
         "marker": "="
       }
     ],
-    "huntail": [
-      {
-        "level": 25,
-        "name": "muddy-water",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "barrier",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "shell-smash",
-        "marker": "="
-      }
-    ],
-    "gorebyss": [
-      {
-        "level": 25,
-        "name": "muddy-water",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "barrier",
-        "marker": "+"
-      },
-      {
-        "level": 35,
-        "name": "shell-smash",
-        "marker": "="
-      }
-    ],
     "relicanth": [
       {
         "level": 1,
         "name": "zen-headbutt",
-        "marker": "+"
-      }
-    ],
-    "bagon": [
-      {
-        "level": 1,
-        "name": "hydro-pump",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
-    "shelgon": [
-      {
-        "level": 1,
-        "name": "hydro-pump",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "roost",
         "marker": "+"
       }
     ],
@@ -25144,6 +23405,40 @@
       {
         "level": 1,
         "name": "roost",
+        "marker": "+"
+      },
+      {
+        "level": 75,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 85,
+        "name": "outrage",
+        "marker": "+"
+      }
+    ],
+    "bagon": [
+      {
+        "level": 61,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "outrage",
+        "marker": "+"
+      }
+    ],
+    "shelgon": [
+      {
+        "level": 66,
+        "name": "dragon-dance",
+        "marker": "+"
+      },
+      {
+        "level": 72,
+        "name": "outrage",
         "marker": "+"
       }
     ],
@@ -25162,61 +23457,9 @@
         "level": 1,
         "name": "headbutt",
         "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      }
-    ],
-    "metang": [
-      {
-        "level": 1,
-        "name": "zen-headbutt",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "iron-head",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "headbutt",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
       }
     ],
     "metagross": [
-      {
-        "level": 1,
-        "name": "zen-headbutt",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "iron-head",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "headbutt",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "thunder-punch",
@@ -25230,56 +23473,27 @@
     ],
     "turtwig": [
       {
-        "level": 69,
-        "name": "shell-smash",
+        "level": 49,
+        "name": "seed-bomb",
         "marker": "+"
       }
     ],
     "grotle": [
       {
-        "level": 69,
-        "name": "shell-smash",
+        "level": 57,
+        "name": "seed-bomb",
         "marker": "+"
       }
     ],
     "torterra": [
       {
+        "level": 63,
+        "name": "seed-bomb",
+        "marker": "+"
+      },
+      {
         "level": 69,
         "name": "shell-smash",
-        "marker": "+"
-      }
-    ],
-    "chimchar": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fake-out",
-        "marker": "+"
-      }
-    ],
-    "monferno": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fake-out",
         "marker": "+"
       }
     ],
@@ -25321,32 +23535,30 @@
         "marker": "+"
       }
     ],
-    "starly": [
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
-    "staravia": [
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      }
-    ],
     "staraptor": [
       {
         "level": 1,
         "name": "roost",
         "marker": "+"
+      },
+      {
+        "level": 65,
+        "name": "double-edge",
+        "marker": "+"
       }
     ],
-    "bidoof": [
+    "starly": [
       {
-        "level": 15,
-        "name": "aqua-tail",
-        "marker": "-"
+        "level": 45,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "staravia": [
+      {
+        "level": 53,
+        "name": "double-edge",
+        "marker": "+"
       }
     ],
     "bibarel": [
@@ -25354,21 +23566,21 @@
         "level": 15,
         "name": "aqua-tail",
         "marker": "-"
+      },
+      {
+        "level": 58,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "bidoof": [
+      {
+        "level": 49,
+        "name": "double-edge",
+        "marker": "+"
       }
     ],
     "kricketot": [
-      {
-        "level": 1,
-        "name": "struggle-bug",
-        "marker": "="
-      },
-      {
-        "level": 1,
-        "name": "bug-bite",
-        "marker": "="
-      }
-    ],
-    "kricketune": [
       {
         "level": 1,
         "name": "struggle-bug",
@@ -25387,33 +23599,8 @@
         "marker": "="
       },
       {
-        "level": 1,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-fang",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "double-kick",
-        "marker": "+"
-      },
-      {
         "level": 17,
         "name": "thunder-wave",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "dark-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 70,
-        "name": "volt-tackle",
         "marker": "+"
       }
     ],
@@ -25424,33 +23611,13 @@
         "marker": "="
       },
       {
-        "level": 1,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-fang",
-        "marker": "+"
-      },
-      {
         "level": 15,
         "name": "double-kick",
         "marker": "+"
       },
       {
-        "level": 17,
-        "name": "thunder-wave",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "dark-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 70,
-        "name": "volt-tackle",
+        "level": 18,
+        "name": "night-slash",
         "marker": "+"
       }
     ],
@@ -25476,8 +23643,8 @@
         "marker": "+"
       },
       {
-        "level": 17,
-        "name": "thunder-wave",
+        "level": 18,
+        "name": "night-slash",
         "marker": "+"
       },
       {
@@ -25491,18 +23658,6 @@
         "marker": "+"
       }
     ],
-    "cranidos": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      }
-    ],
     "rampardos": [
       {
         "level": 1,
@@ -25513,12 +23668,27 @@
         "level": 1,
         "name": "thunder-punch",
         "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "crunch",
+        "marker": "+"
+      },
+      {
+        "level": 69,
+        "name": "hammer-arm",
+        "marker": "+"
       }
     ],
-    "shieldon": [
+    "cranidos": [
       {
-        "level": 1,
-        "name": "magnet-rise",
+        "level": 50,
+        "name": "crunch",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "hammer-arm",
         "marker": "+"
       }
     ],
@@ -25537,48 +23707,11 @@
       },
       {
         "level": 1,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "hurricane",
-        "marker": "+"
-      }
-    ],
-    "wormadam": [
-      {
-        "level": 1,
-        "name": "string-shot",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "giga-drain",
-        "marker": "+"
-      },
-      {
-        "level": 20,
-        "name": "air-cutter",
-        "marker": "+"
-      },
-      {
-        "level": 53,
-        "name": "hurricane",
+        "name": "snore",
         "marker": "+"
       }
     ],
     "mothim": [
-      {
-        "level": 1,
-        "name": "string-shot",
-        "marker": "+"
-      },
       {
         "level": 1,
         "name": "giga-drain",
@@ -25605,29 +23738,9 @@
         "level": 19,
         "name": "endeavor",
         "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "acrobatics",
-        "marker": "+"
       }
     ],
     "vespiquen": [
-      {
-        "level": 16,
-        "name": "tailwind",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "endeavor",
-        "marker": "+"
-      },
       {
         "level": 23,
         "name": "silver-wind",
@@ -25651,24 +23764,32 @@
         "marker": "+"
       }
     ],
-    "buizel": [
-      {
-        "level": 1,
-        "name": "low-kick",
-        "marker": "+"
-      }
-    ],
     "floatzel": [
       {
         "level": 1,
         "name": "low-kick",
         "marker": "+"
+      },
+      {
+        "level": 34,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "tail-slap",
+        "marker": "+"
       }
     ],
-    "cherubi": [
+    "buizel": [
       {
-        "level": 1,
-        "name": "weather-ball",
+        "level": 32,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "tail-slap",
         "marker": "+"
       }
     ],
@@ -25676,23 +23797,6 @@
       {
         "level": 1,
         "name": "weather-ball",
-        "marker": "+"
-      }
-    ],
-    "shellos": [
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 19,
-        "name": "brine",
         "marker": "+"
       }
     ],
@@ -25711,17 +23815,22 @@
         "level": 19,
         "name": "brine",
         "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "earth-power",
+        "marker": "+"
       }
     ],
-    "drifloon": [
+    "shellos": [
       {
-        "level": 1,
-        "name": "shock-wave",
+        "level": 19,
+        "name": "brine",
         "marker": "+"
       },
       {
-        "level": 28,
-        "name": "air-cutter",
+        "level": 41,
+        "name": "earth-power",
         "marker": "+"
       }
     ],
@@ -25734,6 +23843,48 @@
       {
         "level": 28,
         "name": "air-cutter",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 66,
+        "name": "destiny-bond",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "tailwind",
+        "marker": "+"
+      },
+      {
+        "level": 76,
+        "name": "hurricane",
+        "marker": "+"
+      }
+    ],
+    "drifloon": [
+      {
+        "level": 49,
+        "name": "hypnosis",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "destiny-bond",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "tailwind",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "hurricane",
         "marker": "+"
       }
     ],
@@ -25776,12 +23927,22 @@
         "level": 11,
         "name": "bite",
         "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "super-fang",
+        "marker": "+"
       }
     ],
     "purugly": [
       {
         "level": 11,
         "name": "bite",
+        "marker": "+"
+      },
+      {
+        "level": 68,
+        "name": "super-fang",
         "marker": "+"
       }
     ],
@@ -25795,6 +23956,11 @@
         "level": 25,
         "name": "flame-burst",
         "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "foul-play",
+        "marker": "+"
       }
     ],
     "skuntank": [
@@ -25807,9 +23973,14 @@
         "level": 25,
         "name": "flame-burst",
         "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "foul-play",
+        "marker": "+"
       }
     ],
-    "bronzor": [
+    "bronzong": [
       {
         "level": 1,
         "name": "trick",
@@ -25831,17 +24002,7 @@
         "marker": "+"
       }
     ],
-    "bronzong": [
-      {
-        "level": 1,
-        "name": "trick",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
+    "bronzor": [
       {
         "level": 16,
         "name": "rollout",
@@ -25887,30 +24048,6 @@
         "marker": "+"
       }
     ],
-    "gible": [
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 69,
-        "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
-    "gabite": [
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 69,
-        "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
     "garchomp": [
       {
         "level": 1,
@@ -25918,45 +24055,27 @@
         "marker": "+"
       },
       {
+        "level": 63,
+        "name": "outrage",
+        "marker": "+"
+      },
+      {
         "level": 69,
         "name": "extreme-speed",
         "marker": "+"
       }
     ],
-    "riolu": [
+    "gible": [
       {
-        "level": 1,
-        "name": "blaze-kick",
+        "level": 44,
+        "name": "outrage",
         "marker": "+"
-      },
+      }
+    ],
+    "gabite": [
       {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "vacuum-wave",
-        "marker": "+"
-      },
-      {
-        "level": 22,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 26,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "hi-jump-kick",
+        "level": 58,
+        "name": "outrage",
         "marker": "+"
       }
     ],
@@ -25975,7 +24094,9 @@
         "level": 1,
         "name": "ice-punch",
         "marker": "+"
-      },
+      }
+    ],
+    "riolu": [
       {
         "level": 1,
         "name": "vacuum-wave",
@@ -25997,22 +24118,27 @@
         "marker": "+"
       }
     ],
-    "hippopotas": [],
-    "hippowdon": [],
-    "skorupi": [
+    "hippopotas": [
       {
-        "level": 1,
-        "name": "aqua-tail",
+        "level": 56,
+        "name": "slack-off",
         "marker": "+"
       },
       {
-        "level": 40,
-        "name": "night-slash",
+        "level": 63,
+        "name": "superpower",
+        "marker": "+"
+      }
+    ],
+    "hippowdon": [
+      {
+        "level": 70,
+        "name": "slack-off",
         "marker": "+"
       },
       {
-        "level": 40,
-        "name": "storm-throw",
+        "level": 80,
+        "name": "superpower",
         "marker": "+"
       }
     ],
@@ -26030,28 +24156,6 @@
       {
         "level": 40,
         "name": "storm-throw",
-        "marker": "+"
-      }
-    ],
-    "croagunk": [
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 26,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "cross-chop",
         "marker": "+"
       }
     ],
@@ -26074,6 +24178,28 @@
       {
         "level": 33,
         "name": "cross-chop",
+        "marker": "+"
+      },
+      {
+        "level": 70,
+        "name": "gunk-shot",
+        "marker": "+"
+      }
+    ],
+    "croagunk": [
+      {
+        "level": 26,
+        "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "cross-chop",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "gunk-shot",
         "marker": "+"
       }
     ],
@@ -26104,23 +24230,6 @@
         "marker": "+"
       }
     ],
-    "finneon": [
-      {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "psybeam",
-        "marker": "+"
-      },
-      {
-        "level": 31,
-        "name": "quiver-dance",
-        "marker": "+"
-      }
-    ],
     "lumineon": [
       {
         "level": 1,
@@ -26138,37 +24247,17 @@
         "marker": "+"
       }
     ],
-    "snover": [],
-    "abomasnow": [],
-    "rotom": [
+    "snover": [
       {
-        "level": 1,
-        "name": "signal-beam",
+        "level": 51,
+        "name": "seed-bomb",
         "marker": "+"
-      },
+      }
+    ],
+    "abomasnow": [
       {
-        "level": 1,
-        "name": "hurricane",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "glaciate",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "lava-plume",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "scald",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "energy-ball",
+        "level": 69,
+        "name": "seed-bomb",
         "marker": "+"
       }
     ],
@@ -26189,53 +24278,6 @@
         "marker": "+"
       }
     ],
-    "snivy": [
-      {
-        "level": 17,
-        "name": "twister",
-        "marker": "+"
-      },
-      {
-        "level": 24,
-        "name": "zen-headbutt",
-        "marker": "-"
-      },
-      {
-        "level": 36,
-        "name": "dragon-breath",
-        "marker": "+"
-      },
-      {
-        "level": 44,
-        "name": "iron-tail",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "dragon-pulse",
-        "marker": "-"
-      },
-      {
-        "level": 56,
-        "name": "power-whip",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "outrage",
-        "marker": "+"
-      },
-      {
-        "level": 68,
-        "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 74,
-        "name": "leaf-storm",
-        "marker": "="
-      }
-    ],
     "servine": [
       {
         "level": 17,
@@ -26246,41 +24288,6 @@
         "level": 24,
         "name": "zen-headbutt",
         "marker": "-"
-      },
-      {
-        "level": 36,
-        "name": "dragon-breath",
-        "marker": "+"
-      },
-      {
-        "level": 44,
-        "name": "iron-tail",
-        "marker": "-"
-      },
-      {
-        "level": 50,
-        "name": "dragon-pulse",
-        "marker": "-"
-      },
-      {
-        "level": 56,
-        "name": "power-whip",
-        "marker": "-"
-      },
-      {
-        "level": 62,
-        "name": "outrage",
-        "marker": "+"
-      },
-      {
-        "level": 68,
-        "name": "mirror-coat",
-        "marker": "+"
-      },
-      {
-        "level": 74,
-        "name": "leaf-storm",
-        "marker": "="
       }
     ],
     "serperior": [
@@ -26330,90 +24337,6 @@
         "marker": "="
       }
     ],
-    "tepig": [
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "focus-punch",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "magnitude",
-        "marker": "-"
-      },
-      {
-        "level": 20,
-        "name": "arm-thrust",
-        "marker": "-"
-      },
-      {
-        "level": 28,
-        "name": "sucker-punch",
-        "marker": "-"
-      },
-      {
-        "level": 34,
-        "name": "bulldoze",
-        "marker": "+"
-      }
-    ],
-    "pignite": [
-      {
-        "level": 1,
-        "name": "superpower",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "focus-punch",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "magnitude",
-        "marker": "-"
-      },
-      {
-        "level": 20,
-        "name": "arm-thrust",
-        "marker": "-"
-      },
-      {
-        "level": 28,
-        "name": "sucker-punch",
-        "marker": "-"
-      },
-      {
-        "level": 34,
-        "name": "bulldoze",
-        "marker": "+"
-      }
-    ],
     "emboar": [
       {
         "level": 1,
@@ -26454,49 +24377,37 @@
         "level": 34,
         "name": "bulldoze",
         "marker": "+"
-      }
-    ],
-    "oshawott": [
-      {
-        "level": 1,
-        "name": "secret-sword",
-        "marker": "+"
       },
       {
-        "level": 17,
-        "name": "karate-chop",
-        "marker": "+"
-      },
-      {
-        "level": 36,
-        "name": "sacred-sword",
-        "marker": "+"
-      },
-      {
-        "level": 76,
-        "name": "shell-smash",
+        "level": 47,
+        "name": "earthquake",
         "marker": "+"
       }
     ],
-    "dewott": [
-      {
-        "level": 1,
-        "name": "secret-sword",
-        "marker": "+"
-      },
+    "pignite": [
       {
         "level": 17,
-        "name": "karate-chop",
+        "name": "magnitude",
+        "marker": "-"
+      },
+      {
+        "level": 20,
+        "name": "arm-thrust",
+        "marker": "-"
+      },
+      {
+        "level": 28,
+        "name": "sucker-punch",
+        "marker": "-"
+      },
+      {
+        "level": 34,
+        "name": "bulldoze",
         "marker": "+"
       },
       {
-        "level": 36,
-        "name": "sacred-sword",
-        "marker": "+"
-      },
-      {
-        "level": 76,
-        "name": "shell-smash",
+        "level": 42,
+        "name": "earthquake",
         "marker": "+"
       }
     ],
@@ -26517,13 +24428,42 @@
         "marker": "+"
       },
       {
+        "level": 69,
+        "name": "close-combat",
+        "marker": "+"
+      },
+      {
         "level": 76,
         "name": "shell-smash",
         "marker": "+"
       }
     ],
-    "patrat": [],
-    "watchog": [],
+    "dewott": [
+      {
+        "level": 17,
+        "name": "karate-chop",
+        "marker": "+"
+      },
+      {
+        "level": 55,
+        "name": "close-combat",
+        "marker": "+"
+      }
+    ],
+    "patrat": [
+      {
+        "level": 39,
+        "name": "zen-headbutt",
+        "marker": "+"
+      }
+    ],
+    "watchog": [
+      {
+        "level": 46,
+        "name": "zen-headbutt",
+        "marker": "+"
+      }
+    ],
     "purrloin": [
       {
         "level": 8,
@@ -26534,6 +24474,16 @@
         "level": 17,
         "name": "night-slash",
         "marker": "="
+      },
+      {
+        "level": 37,
+        "name": "foul-play",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "dark-pulse",
+        "marker": "+"
       }
     ],
     "liepard": [
@@ -26546,107 +24496,702 @@
         "level": 17,
         "name": "night-slash",
         "marker": "="
+      },
+      {
+        "level": 43,
+        "name": "foul-play",
+        "marker": "+"
+      },
+      {
+        "level": 60,
+        "name": "dark-pulse",
+        "marker": "+"
       }
     ],
     "pansage": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
-        "marker": "+"
+        "name": "scratch",
+        "marker": ""
       },
       {
-        "level": 1,
-        "name": "low-kick--low-kick--low-kick",
-        "marker": "+"
+        "level": 6,
+        "name": "leer",
+        "marker": ""
       },
       {
-        "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
-        "marker": "+"
+        "level": 8,
+        "name": "vine-whip",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "magical-leaf",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "leech-seed",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "seed-bomb",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "grass-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "grasswhistle",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "power-whip",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "leaf-storm",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "frenzy-plant",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
       }
     ],
     "simisage": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
+        "name": "scratch",
+        "marker": ""
+      },
+      {
+        "level": 6,
+        "name": "leer",
+        "marker": ""
+      },
+      {
+        "level": 8,
+        "name": "incinerate",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "flame-burst",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "yawn",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "lava-plume",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "fire-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "sleep-talk",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "fire-blast",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "overheat",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "blast-burn",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "nasty-plot",
         "marker": "+"
       },
       {
         "level": 1,
-        "name": "low-kick--low-kick--low-kick",
+        "name": "low-kick",
         "marker": "+"
       },
       {
         "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
+        "name": "leaf-storm",
         "marker": "+"
       }
     ],
     "pansear": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
-        "marker": "+"
+        "name": "scratch",
+        "marker": ""
       },
       {
-        "level": 1,
-        "name": "low-kick--low-kick--low-kick",
-        "marker": "+"
+        "level": 6,
+        "name": "leer",
+        "marker": ""
       },
       {
-        "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
-        "marker": "+"
+        "level": 8,
+        "name": "water-gun",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "water-pulse",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "tickle",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "scald",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "water-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "role-play",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "hydro-pump",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "water-spout",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "hydro-cannon",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
       }
     ],
     "simisear": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
+        "name": "scratch",
+        "marker": ""
+      },
+      {
+        "level": 6,
+        "name": "leer",
+        "marker": ""
+      },
+      {
+        "level": 8,
+        "name": "water-gun",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "water-pulse",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "tickle",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "scald",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "water-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "role-play",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "hydro-pump",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "water-spout",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "hydro-cannon",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "nasty-plot",
         "marker": "+"
       },
       {
         "level": 1,
-        "name": "low-kick--low-kick--low-kick",
+        "name": "low-kick",
         "marker": "+"
       },
       {
         "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
+        "name": "overheat",
         "marker": "+"
       }
     ],
     "panpour": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
-        "marker": "+"
+        "name": "scratch",
+        "marker": ""
       },
       {
-        "level": 1,
-        "name": "low-kick--low-kick--low-kick",
-        "marker": "+"
+        "level": 6,
+        "name": "leer",
+        "marker": ""
       },
       {
-        "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
-        "marker": "+"
+        "level": 8,
+        "name": "water-gun",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "water-pulse",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "tickle",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "scald",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "water-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "role-play",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "hydro-pump",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "water-spout",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "hydro-cannon",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
       }
     ],
     "simipour": [
       {
         "level": 1,
-        "name": "nasty-plot--nasty-plot--nasty-plot",
+        "name": "scratch",
+        "marker": ""
+      },
+      {
+        "level": 6,
+        "name": "leer",
+        "marker": ""
+      },
+      {
+        "level": 8,
+        "name": "water-gun",
+        "marker": ""
+      },
+      {
+        "level": 10,
+        "name": "hone-claws",
+        "marker": ""
+      },
+      {
+        "level": 12,
+        "name": "acrobatics",
+        "marker": ""
+      },
+      {
+        "level": 14,
+        "name": "water-pulse",
+        "marker": ""
+      },
+      {
+        "level": 16,
+        "name": "lick",
+        "marker": ""
+      },
+      {
+        "level": 18,
+        "name": "tickle",
+        "marker": ""
+      },
+      {
+        "level": 20,
+        "name": "scald",
+        "marker": ""
+      },
+      {
+        "level": 22,
+        "name": "torment",
+        "marker": ""
+      },
+      {
+        "level": 24,
+        "name": "crunch",
+        "marker": ""
+      },
+      {
+        "level": 26,
+        "name": "fling",
+        "marker": ""
+      },
+      {
+        "level": 28,
+        "name": "natural-gift",
+        "marker": ""
+      },
+      {
+        "level": 30,
+        "name": "water-pledge",
+        "marker": ""
+      },
+      {
+        "level": 32,
+        "name": "low-kick",
+        "marker": ""
+      },
+      {
+        "level": 34,
+        "name": "nasty-plot",
+        "marker": ""
+      },
+      {
+        "level": 36,
+        "name": "role-play",
+        "marker": ""
+      },
+      {
+        "level": 38,
+        "name": "hydro-pump",
+        "marker": ""
+      },
+      {
+        "level": 40,
+        "name": "water-spout",
+        "marker": ""
+      },
+      {
+        "level": 42,
+        "name": "hydro-cannon",
+        "marker": ""
+      },
+      {
+        "level": 46,
+        "name": "baton-pass",
+        "marker": ""
+      },
+      {
+        "level": 1,
+        "name": "nasty-plot",
         "marker": "+"
       },
       {
         "level": 1,
-        "name": "low-kick--low-kick--low-kick",
+        "name": "low-kick",
         "marker": "+"
       },
       {
         "level": 49,
-        "name": "leaf-storm--overheat--water-spout",
+        "name": "water-spout",
         "marker": "+"
       }
     ],
@@ -26660,92 +25205,13 @@
         "level": 27,
         "name": "psyshock",
         "marker": "+"
-      },
-      {
-        "level": 39,
-        "name": "psychic",
-        "marker": "+"
       }
     ],
     "musharna": [
       {
-        "level": 21,
-        "name": "baton-pass",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "psyshock",
-        "marker": "+"
-      },
-      {
         "level": 39,
         "name": "psychic",
         "marker": "+"
-      }
-    ],
-    "pidove": [
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "morning-sun",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "swift",
-        "marker": "-"
-      }
-    ],
-    "tranquill": [
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "silver-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ominous-wind",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "hypnosis",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "morning-sun",
-        "marker": "+"
-      },
-      {
-        "level": 11,
-        "name": "swift",
-        "marker": "-"
       }
     ],
     "unfezant": [
@@ -26778,12 +25244,61 @@
         "level": 11,
         "name": "swift",
         "marker": "-"
+      },
+      {
+        "level": 38,
+        "name": "hyper-voice",
+        "marker": "-"
+      },
+      {
+        "level": 66,
+        "name": "hurricane",
+        "marker": "-"
+      }
+    ],
+    "pidove": [
+      {
+        "level": 11,
+        "name": "swift",
+        "marker": "-"
+      },
+      {
+        "level": 32,
+        "name": "hyper-voice",
+        "marker": "-"
+      },
+      {
+        "level": 50,
+        "name": "hurricane",
+        "marker": "-"
+      }
+    ],
+    "tranquill": [
+      {
+        "level": 11,
+        "name": "swift",
+        "marker": "-"
+      },
+      {
+        "level": 36,
+        "name": "hyper-voice",
+        "marker": "-"
+      },
+      {
+        "level": 59,
+        "name": "hurricane",
+        "marker": "-"
       }
     ],
     "blitzle": [
       {
         "level": 13,
         "name": "double-kick",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "volt-tackle",
         "marker": "+"
       }
     ],
@@ -26792,39 +25307,10 @@
         "level": 13,
         "name": "double-kick",
         "marker": "+"
-      }
-    ],
-    "roggenrola": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "heavy-slam",
-        "marker": "+"
-      },
-      {
-        "level": 12,
-        "name": "magnitude",
-        "marker": "+"
-      }
-    ],
-    "boldore": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "heavy-slam",
-        "marker": "+"
-      },
-      {
-        "level": 12,
-        "name": "magnitude",
+        "level": 58,
+        "name": "volt-tackle",
         "marker": "+"
       }
     ],
@@ -26845,15 +25331,17 @@
         "marker": "+"
       }
     ],
-    "woobat": [
+    "roggenrola": [
       {
-        "level": 1,
-        "name": "roost",
+        "level": 12,
+        "name": "magnitude",
         "marker": "+"
-      },
+      }
+    ],
+    "boldore": [
       {
-        "level": 52,
-        "name": "stored-power",
+        "level": 12,
+        "name": "magnitude",
         "marker": "+"
       }
     ],
@@ -26869,10 +25357,10 @@
         "marker": "+"
       }
     ],
-    "drilbur": [
+    "woobat": [
       {
-        "level": 1,
-        "name": "iron-head",
+        "level": 52,
+        "name": "stored-power",
         "marker": "+"
       }
     ],
@@ -26915,50 +25403,6 @@
         "marker": "+"
       }
     ],
-    "timburr": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mach-punch",
-        "marker": "+"
-      }
-    ],
-    "gurdurr": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "mach-punch",
-        "marker": "+"
-      }
-    ],
     "conkeldurr": [
       {
         "level": 1,
@@ -26979,29 +25423,24 @@
         "level": 1,
         "name": "mach-punch",
         "marker": "+"
-      }
-    ],
-    "tympole": [
-      {
-        "level": 1,
-        "name": "gunk-shot",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "ice-punch",
+        "level": 61,
+        "name": "drain-punch",
         "marker": "+"
       }
     ],
-    "palpitoad": [
+    "timburr": [
       {
-        "level": 1,
-        "name": "gunk-shot",
+        "level": 53,
+        "name": "drain-punch",
         "marker": "+"
-      },
+      }
+    ],
+    "gurdurr": [
       {
-        "level": 1,
-        "name": "ice-punch",
+        "level": 61,
+        "name": "drain-punch",
         "marker": "+"
       }
     ],
@@ -27014,6 +25453,25 @@
       {
         "level": 1,
         "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 64,
+        "name": "earth-power",
+        "marker": "+"
+      }
+    ],
+    "tympole": [
+      {
+        "level": 48,
+        "name": "earth-power",
+        "marker": "+"
+      }
+    ],
+    "palpitoad": [
+      {
+        "level": 55,
+        "name": "earth-power",
         "marker": "+"
       }
     ],
@@ -27061,57 +25519,15 @@
         "marker": "+"
       }
     ],
-    "sewaddle": [
-      {
-        "level": 20,
-        "name": "synthesis",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "screech",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "me-first",
-        "marker": "+"
-      },
-      {
-        "level": 58,
-        "name": "agility",
-        "marker": "+"
-      }
-    ],
     "swadloon": [
       {
         "level": 20,
         "name": "synthesis",
         "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "screech",
-        "marker": "+"
-      },
-      {
-        "level": 54,
-        "name": "me-first",
-        "marker": "+"
-      },
-      {
-        "level": 58,
-        "name": "agility",
-        "marker": "+"
       }
     ],
     "leavanny": [
       {
-        "level": 20,
-        "name": "synthesis",
-        "marker": "+"
-      },
-      {
         "level": 25,
         "name": "screech",
         "marker": "+"
@@ -27124,50 +25540,6 @@
       {
         "level": 58,
         "name": "agility",
-        "marker": "+"
-      }
-    ],
-    "venipede": [
-      {
-        "level": 1,
-        "name": "spikes",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "toxic-spikes",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "twinneedle",
-        "marker": "+"
-      },
-      {
-        "level": 61,
-        "name": "superpower",
-        "marker": "+"
-      }
-    ],
-    "whirlipede": [
-      {
-        "level": 1,
-        "name": "spikes",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "toxic-spikes",
-        "marker": "+"
-      },
-      {
-        "level": 17,
-        "name": "twinneedle",
-        "marker": "+"
-      },
-      {
-        "level": 61,
-        "name": "superpower",
         "marker": "+"
       }
     ],
@@ -27193,25 +25565,17 @@
         "marker": "+"
       }
     ],
-    "cottonee": [
+    "venipede": [
       {
-        "level": 1,
-        "name": "encore",
+        "level": 17,
+        "name": "twinneedle",
         "marker": "+"
-      },
+      }
+    ],
+    "whirlipede": [
       {
-        "level": 1,
-        "name": "switcheroo",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "tickle",
-        "marker": "+"
-      },
-      {
-        "level": 64,
-        "name": "grass-whistle",
+        "level": 17,
+        "name": "twinneedle",
         "marker": "+"
       }
     ],
@@ -27237,33 +25601,6 @@
         "marker": "+"
       }
     ],
-    "petilil": [
-      {
-        "level": 1,
-        "name": "charm",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "sweet-scent",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ingrain",
-        "marker": "+"
-      },
-      {
-        "level": 15,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
-        "level": 64,
-        "name": "earth-power",
-        "marker": "+"
-      }
-    ],
     "lilligant": [
       {
         "level": 1,
@@ -27281,13 +25618,15 @@
         "marker": "+"
       },
       {
-        "level": 15,
-        "name": "extrasensory",
-        "marker": "+"
-      },
-      {
         "level": 64,
         "name": "earth-power",
+        "marker": "+"
+      }
+    ],
+    "petilil": [
+      {
+        "level": 15,
+        "name": "extrasensory",
         "marker": "+"
       }
     ],
@@ -27303,30 +25642,6 @@
         "marker": "+"
       }
     ],
-    "sandile": [
-      {
-        "level": 1,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-fang",
-        "marker": "+"
-      }
-    ],
-    "krokorok": [
-      {
-        "level": 1,
-        "name": "fire-fang",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-fang",
-        "marker": "+"
-      }
-    ],
     "krookodile": [
       {
         "level": 1,
@@ -27337,17 +25652,31 @@
         "level": 1,
         "name": "thunder-fang",
         "marker": "+"
+      },
+      {
+        "level": 66,
+        "name": "sucker-punch",
+        "marker": "+"
+      }
+    ],
+    "sandile": [
+      {
+        "level": 49,
+        "name": "sucker-punch",
+        "marker": "+"
+      }
+    ],
+    "krokorok": [
+      {
+        "level": 56,
+        "name": "sucker-punch",
+        "marker": "+"
       }
     ],
     "darumaka": [
       {
         "level": 1,
         "name": "yawn",
-        "marker": "+"
-      },
-      {
-        "level": 61,
-        "name": "focus-punch",
         "marker": "+"
       }
     ],
@@ -27399,38 +25728,6 @@
         "marker": "+"
       }
     ],
-    "scraggy": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "drain-punch",
-        "marker": "+"
-      },
-      {
-        "level": 25,
-        "name": "zen-headbutt",
-        "marker": "+"
-      },
-      {
-        "level": 51,
-        "name": "sucker-punch",
-        "marker": "-"
-      }
-    ],
     "scrafty": [
       {
         "level": 1,
@@ -27458,9 +25755,31 @@
         "marker": "+"
       },
       {
+        "level": 39,
+        "name": "crunch",
+        "marker": "="
+      },
+      {
         "level": 51,
         "name": "sucker-punch",
         "marker": "-"
+      },
+      {
+        "level": 72,
+        "name": "dragon-dance",
+        "marker": "+"
+      }
+    ],
+    "scraggy": [
+      {
+        "level": 25,
+        "name": "zen-headbutt",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "dragon-dance",
+        "marker": "+"
       }
     ],
     "sigilyph": [
@@ -27482,33 +25801,6 @@
       {
         "level": 57,
         "name": "hurricane",
-        "marker": "+"
-      }
-    ],
-    "yamask": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "disable",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "pain-split",
-        "marker": "+"
-      },
-      {
-        "level": 27,
-        "name": "nasty-plot",
-        "marker": "+"
-      },
-      {
-        "level": 63,
-        "name": "metal-burst",
         "marker": "+"
       }
     ],
@@ -27539,10 +25831,15 @@
         "marker": "+"
       }
     ],
-    "archen": [
+    "yamask": [
       {
-        "level": 37,
-        "name": "dragon-pulse",
+        "level": 23,
+        "name": "pain-split",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "nasty-plot",
         "marker": "+"
       }
     ],
@@ -27550,6 +25847,28 @@
       {
         "level": 37,
         "name": "dragon-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 66,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 71,
+        "name": "head-smash",
+        "marker": "+"
+      }
+    ],
+    "archen": [
+      {
+        "level": 54,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "head-smash",
         "marker": "+"
       }
     ],
@@ -27573,6 +25892,11 @@
         "level": 32,
         "name": "pain-split",
         "marker": "+"
+      },
+      {
+        "level": 49,
+        "name": "selfdestruct",
+        "marker": "+"
       }
     ],
     "garbodor": [
@@ -27595,27 +25919,10 @@
         "level": 32,
         "name": "pain-split",
         "marker": "+"
-      }
-    ],
-    "zorua": [
-      {
-        "level": 1,
-        "name": "extrasensory",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "low-kick",
-        "marker": "+"
-      },
-      {
-        "level": 30,
-        "name": "dark-pulse",
+        "level": 64,
+        "name": "selfdestruct",
         "marker": "+"
       }
     ],
@@ -27641,33 +25948,6 @@
         "marker": "+"
       }
     ],
-    "minccino": [
-      {
-        "level": 1,
-        "name": "icicle-spear",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "iron-tail",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "magic-coat",
-        "marker": "+"
-      },
-      {
-        "level": 46,
-        "name": "endeavor",
-        "marker": "+"
-      }
-    ],
     "cinccino": [
       {
         "level": 1,
@@ -27675,16 +25955,6 @@
         "marker": "+"
       },
       {
-        "level": 23,
-        "name": "iron-tail",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
         "level": 29,
         "name": "magic-coat",
         "marker": "+"
@@ -27695,47 +25965,15 @@
         "marker": "+"
       }
     ],
-    "gothita": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
+    "minccino": [
       {
         "level": 23,
-        "name": "recover",
+        "name": "iron-tail",
         "marker": "+"
       },
       {
-        "level": 32,
-        "name": "dark-pulse",
-        "marker": "+"
-      }
-    ],
-    "gothorita": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "metronome",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "recover",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "dark-pulse",
+        "level": 29,
+        "name": "aqua-tail",
         "marker": "+"
       }
     ],
@@ -27759,49 +25997,59 @@
         "level": 32,
         "name": "dark-pulse",
         "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "foul-play",
+        "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "mirror-coat",
+        "marker": "+"
       }
     ],
-    "solosis": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "trick",
-        "marker": "+"
-      },
+    "gothita": [
       {
         "level": 23,
-        "name": "shock-wave",
+        "name": "recover",
         "marker": "+"
       },
       {
         "level": 32,
-        "name": "confuse-ray",
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 35,
+        "name": "foul-play",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "mirror-coat",
         "marker": "+"
       }
     ],
-    "duosion": [
-      {
-        "level": 1,
-        "name": "gravity",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "trick",
-        "marker": "+"
-      },
+    "gothorita": [
       {
         "level": 23,
-        "name": "shock-wave",
+        "name": "recover",
         "marker": "+"
       },
       {
         "level": 32,
-        "name": "confuse-ray",
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "foul-play",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "mirror-coat",
         "marker": "+"
       }
     ],
@@ -27825,17 +26073,44 @@
         "level": 32,
         "name": "confuse-ray",
         "marker": "+"
+      },
+      {
+        "level": 50,
+        "name": "magic-coat",
+        "marker": "+"
       }
     ],
-    "ducklett": [
+    "solosis": [
       {
-        "level": 1,
-        "name": "heat-wave",
+        "level": 23,
+        "name": "shock-wave",
         "marker": "+"
       },
       {
-        "level": 35,
-        "name": "acrobatics",
+        "level": 32,
+        "name": "confuse-ray",
+        "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "magic-coat",
+        "marker": "+"
+      }
+    ],
+    "duosion": [
+      {
+        "level": 23,
+        "name": "shock-wave",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "confuse-ray",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "magic-coat",
         "marker": "+"
       }
     ],
@@ -27848,60 +26123,6 @@
       {
         "level": 35,
         "name": "acrobatics",
-        "marker": "+"
-      }
-    ],
-    "vanillite": [
-      {
-        "level": 1,
-        "name": "magnet-rise",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "autotomize",
-        "marker": "+"
-      },
-      {
-        "level": 24,
-        "name": "water-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "ice-shard",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "extrasensory",
-        "marker": "+"
-      }
-    ],
-    "vanillish": [
-      {
-        "level": 1,
-        "name": "magnet-rise",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "autotomize",
-        "marker": "+"
-      },
-      {
-        "level": 24,
-        "name": "water-pulse",
-        "marker": "+"
-      },
-      {
-        "level": 29,
-        "name": "ice-shard",
-        "marker": "+"
-      },
-      {
-        "level": 33,
-        "name": "extrasensory",
         "marker": "+"
       }
     ],
@@ -27932,10 +26153,37 @@
         "marker": "+"
       }
     ],
-    "deerling": [
+    "vanillite": [
       {
-        "level": 1,
-        "name": "wood-hammer",
+        "level": 24,
+        "name": "water-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "ice-shard",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "extrasensory",
+        "marker": "+"
+      }
+    ],
+    "vanillish": [
+      {
+        "level": 24,
+        "name": "water-pulse",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "ice-shard",
+        "marker": "+"
+      },
+      {
+        "level": 33,
+        "name": "extrasensory",
         "marker": "+"
       }
     ],
@@ -27983,7 +26231,7 @@
         "marker": "+"
       }
     ],
-    "karrablast": [
+    "escavalier": [
       {
         "level": 1,
         "name": "needle-arm",
@@ -28010,27 +26258,7 @@
         "marker": "+"
       }
     ],
-    "escavalier": [
-      {
-        "level": 1,
-        "name": "needle-arm",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "drill-peck",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "counter",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "drill-run",
-        "marker": "+"
-      },
+    "karrablast": [
       {
         "level": 60,
         "name": "megahorn",
@@ -28061,11 +26289,6 @@
       {
         "level": 30,
         "name": "body-slam",
-        "marker": "+"
-      },
-      {
-        "level": 40,
-        "name": "seed-bomb",
         "marker": "+"
       }
     ],
@@ -28137,38 +26360,6 @@
         "marker": "+"
       }
     ],
-    "ferroseed": [
-      {
-        "level": 1,
-        "name": "stealth-rock",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "rapid-spin",
-        "marker": "+"
-      },
-      {
-        "level": 23,
-        "name": "bullet-seed",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 28,
-        "name": "spikes",
-        "marker": "+"
-      },
-      {
-        "level": 32,
-        "name": "seed-bomb",
-        "marker": "+"
-      }
-    ],
     "ferrothorn": [
       {
         "level": 1,
@@ -28187,11 +26378,6 @@
       },
       {
         "level": 28,
-        "name": "leech-seed",
-        "marker": "+"
-      },
-      {
-        "level": 28,
         "name": "spikes",
         "marker": "+"
       },
@@ -28201,27 +26387,25 @@
         "marker": "+"
       }
     ],
-    "klink": [
+    "ferroseed": [
       {
         "level": 1,
-        "name": "gravity",
+        "name": "rapid-spin",
         "marker": "+"
       },
       {
-        "level": 33,
-        "name": "spark",
-        "marker": "+"
-      }
-    ],
-    "klang": [
-      {
-        "level": 1,
-        "name": "gravity",
+        "level": 23,
+        "name": "bullet-seed",
         "marker": "+"
       },
       {
-        "level": 33,
-        "name": "spark",
+        "level": 28,
+        "name": "leech-seed",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "seed-bomb",
         "marker": "+"
       }
     ],
@@ -28237,27 +26421,17 @@
         "marker": "+"
       }
     ],
-    "tynamo": [
+    "klink": [
       {
-        "level": 54,
-        "name": "coil",
-        "marker": "+"
-      },
-      {
-        "level": 64,
-        "name": "super-fang",
+        "level": 33,
+        "name": "spark",
         "marker": "+"
       }
     ],
-    "eelektrik": [
+    "klang": [
       {
-        "level": 54,
-        "name": "coil",
-        "marker": "+"
-      },
-      {
-        "level": 64,
-        "name": "super-fang",
+        "level": 33,
+        "name": "spark",
         "marker": "+"
       }
     ],
@@ -28273,18 +26447,6 @@
         "marker": "+"
       }
     ],
-    "elgyem": [
-      {
-        "level": 1,
-        "name": "power-swap",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "guard-swap",
-        "marker": "+"
-      }
-    ],
     "beheeyem": [
       {
         "level": 1,
@@ -28295,12 +26457,27 @@
         "level": 1,
         "name": "guard-swap",
         "marker": "+"
+      },
+      {
+        "level": 37,
+        "name": "psych-up",
+        "marker": "="
+      },
+      {
+        "level": 42,
+        "name": "psychic",
+        "marker": "="
+      },
+      {
+        "level": 73,
+        "name": "nasty-plot",
+        "marker": "+"
       }
     ],
-    "litwick": [
+    "elgyem": [
       {
-        "level": 34,
-        "name": "heat-wave",
+        "level": 59,
+        "name": "nasty-plot",
         "marker": "+"
       }
     ],
@@ -28309,57 +26486,11 @@
         "level": 34,
         "name": "heat-wave",
         "marker": "+"
-      }
-    ],
-    "chandelure": [
-      {
-        "level": 34,
-        "name": "heat-wave",
-        "marker": "+"
-      }
-    ],
-    "axew": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
       },
       {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "iron-tail",
-        "marker": "+"
-      }
-    ],
-    "fraxure": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "aqua-tail",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "iron-tail",
-        "marker": "+"
+        "level": 39,
+        "name": "inferno",
+        "marker": "="
       }
     ],
     "haxorus": [
@@ -28389,16 +26520,6 @@
         "level": 1,
         "name": "yawn",
         "marker": "+"
-      },
-      {
-        "level": 41,
-        "name": "storm-throw",
-        "marker": "-"
-      },
-      {
-        "level": 53,
-        "name": "close-combat",
-        "marker": "-"
       }
     ],
     "beartic": [
@@ -28418,28 +26539,6 @@
         "marker": "-"
       }
     ],
-    "shelmet": [
-      {
-        "level": 1,
-        "name": "extremespeed",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "gunk-shot",
-        "marker": "+"
-      },
-      {
-        "level": 56,
-        "name": "shell-smash",
-        "marker": "-"
-      },
-      {
-        "level": 60,
-        "name": "aura-sphere",
-        "marker": "+"
-      }
-    ],
     "accelgor": [
       {
         "level": 1,
@@ -28452,14 +26551,16 @@
         "marker": "+"
       },
       {
-        "level": 56,
-        "name": "shell-smash",
-        "marker": "-"
-      },
-      {
         "level": 60,
         "name": "aura-sphere",
         "marker": "+"
+      }
+    ],
+    "shelmet": [
+      {
+        "level": 56,
+        "name": "shell-smash",
+        "marker": "-"
       }
     ],
     "stunfisk": [
@@ -28474,18 +26575,21 @@
         "marker": "+"
       }
     ],
-    "mienfoo": [
-      {
-        "level": 1,
-        "name": "vacuum-wave",
-        "marker": "+"
-      }
-    ],
     "mienshao": [
       {
         "level": 1,
         "name": "vacuum-wave",
         "marker": "+"
+      },
+      {
+        "level": 43,
+        "name": "u-turn",
+        "marker": "="
+      },
+      {
+        "level": 51,
+        "name": "bounce",
+        "marker": "="
       }
     ],
     "druddigon": [
@@ -28510,23 +26614,6 @@
         "marker": "+"
       }
     ],
-    "golett": [
-      {
-        "level": 1,
-        "name": "fire-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "thunder-punch",
-        "marker": "+"
-      },
-      {
-        "level": 1,
-        "name": "ice-punch",
-        "marker": "+"
-      }
-    ],
     "golurk": [
       {
         "level": 1,
@@ -28542,6 +26629,11 @@
         "level": 1,
         "name": "ice-punch",
         "marker": "+"
+      },
+      {
+        "level": 36,
+        "name": "heavy-slam",
+        "marker": "="
       }
     ],
     "pawniard": [
@@ -28566,6 +26658,36 @@
         "level": 1,
         "name": "leaf-blade",
         "marker": "+"
+      },
+      {
+        "level": 40,
+        "name": "metal-sound",
+        "marker": "="
+      },
+      {
+        "level": 43,
+        "name": "embargo",
+        "marker": "="
+      },
+      {
+        "level": 46,
+        "name": "psycho-cut",
+        "marker": "+"
+      },
+      {
+        "level": 48,
+        "name": "iron-defense",
+        "marker": "="
+      },
+      {
+        "level": 52,
+        "name": "night-slash",
+        "marker": "="
+      },
+      {
+        "level": 54,
+        "name": "sucker-punch",
+        "marker": "+"
       }
     ],
     "bouffalant": [
@@ -28577,23 +26699,6 @@
       {
         "level": 1,
         "name": "zen-headbutt",
-        "marker": "+"
-      }
-    ],
-    "rufflet": [
-      {
-        "level": 1,
-        "name": "roost",
-        "marker": "+"
-      },
-      {
-        "level": 39,
-        "name": "close-combat",
-        "marker": "+"
-      },
-      {
-        "level": 75,
-        "name": "extreme-speed",
         "marker": "+"
       }
     ],
@@ -28609,20 +26714,28 @@
         "marker": "+"
       },
       {
-        "level": 75,
-        "name": "extreme-speed",
-        "marker": "+"
-      }
-    ],
-    "vullaby": [
-      {
-        "level": 1,
-        "name": "heat-wave",
-        "marker": "+"
+        "level": 44,
+        "name": "air-slash",
+        "marker": "="
       },
       {
-        "level": 1,
-        "name": "roost",
+        "level": 48,
+        "name": "crush-claw",
+        "marker": "="
+      },
+      {
+        "level": 52,
+        "name": "sky-drop",
+        "marker": "="
+      },
+      {
+        "level": 55,
+        "name": "superpower",
+        "marker": "="
+      },
+      {
+        "level": 75,
+        "name": "extreme-speed",
         "marker": "+"
       }
     ],
@@ -28636,6 +26749,26 @@
         "level": 1,
         "name": "roost",
         "marker": "+"
+      },
+      {
+        "level": 44,
+        "name": "air-slash",
+        "marker": "="
+      },
+      {
+        "level": 48,
+        "name": "dark-pulse",
+        "marker": "="
+      },
+      {
+        "level": 52,
+        "name": "embargo",
+        "marker": "="
+      },
+      {
+        "level": 55,
+        "name": "bone-rush",
+        "marker": "="
       }
     ],
     "heatmor": [
@@ -28681,8 +26814,33 @@
         "marker": "+"
       },
       {
+        "level": 33,
+        "name": "dragon-pulse",
+        "marker": "="
+      },
+      {
+        "level": 36,
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
         "level": 40,
         "name": "work-up",
+        "marker": "="
+      },
+      {
+        "level": 44,
+        "name": "dragon-rush",
+        "marker": "="
+      },
+      {
+        "level": 47,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "body-slam",
         "marker": "="
       },
       {
@@ -28708,21 +26866,34 @@
         "marker": "+"
       },
       {
+        "level": 33,
+        "name": "dragon-pulse",
+        "marker": "="
+      },
+      {
+        "level": 36,
+        "name": "dark-pulse",
+        "marker": "+"
+      },
+      {
         "level": 40,
         "name": "work-up",
         "marker": "="
       },
       {
-        "level": 55,
-        "name": "head-smash",
-        "marker": "-"
-      }
-    ],
-    "larvesta": [
+        "level": 44,
+        "name": "dragon-rush",
+        "marker": "="
+      },
       {
-        "level": 1,
-        "name": "morning-sun",
+        "level": 47,
+        "name": "earth-power",
         "marker": "+"
+      },
+      {
+        "level": 51,
+        "name": "body-slam",
+        "marker": "="
       }
     ],
     "volcarona": [
@@ -28730,6 +26901,11 @@
         "level": 1,
         "name": "morning-sun",
         "marker": "+"
+      },
+      {
+        "level": 45,
+        "name": "quiver-dance",
+        "marker": "="
       }
     ],
     "cobalion": [

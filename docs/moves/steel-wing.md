@@ -32,5 +32,4 @@ Has a 10% chance to raise the user’s Defense by one stage.
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
-| ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |
 | ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |

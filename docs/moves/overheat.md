@@ -60,6 +60,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
 | ![rayquaza](../img/pokemon/384.png) | [Rayquaza](../pokemon/rayquaza.md) |
 | ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
 | ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) |

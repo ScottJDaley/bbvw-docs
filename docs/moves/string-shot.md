@@ -19,7 +19,6 @@ Lowers the target’s Speed by two stages.
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
-| ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |

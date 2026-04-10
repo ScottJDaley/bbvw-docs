@@ -15,7 +15,6 @@ Power is higher when the user weighs more than the target, up to a maximum of 12
 | ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
 | ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) |
-| ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) |
 | ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) |
 | ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |

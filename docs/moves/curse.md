@@ -73,7 +73,6 @@ Ghosts pay half their max HP to hurt the target every turn.  Others decrease Spe
 | ![registeel](../img/pokemon/379.png) | [Registeel](../pokemon/registeel.md) |
 | ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
 | ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |
-| ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
 | ![shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) |

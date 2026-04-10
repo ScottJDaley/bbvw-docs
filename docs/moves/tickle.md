@@ -44,12 +44,15 @@ Lowers the target’s Attack and Defense by one stage.
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
 | ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) |
 | ![tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) |
 | ![tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
 | ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
+| ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) |
 | ![wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) |
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) |

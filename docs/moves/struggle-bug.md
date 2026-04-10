@@ -19,7 +19,6 @@ Has a $effect_chance% chance to lower the target’s Special Attack by one stage
 | ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![caterpie](../img/pokemon/010.png) | [Caterpie](../pokemon/caterpie.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
@@ -59,7 +58,6 @@ Has a $effect_chance% chance to lower the target’s Special Attack by one stage
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
 | ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
 | ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
 | ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
@@ -73,5 +71,4 @@ Has a $effect_chance% chance to lower the target’s Special Attack by one stage
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
 | ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
 | ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

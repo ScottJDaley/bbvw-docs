@@ -203,7 +203,6 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | ![tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) |
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |

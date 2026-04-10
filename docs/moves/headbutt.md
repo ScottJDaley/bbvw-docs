@@ -52,8 +52,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
-| ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
-| ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |
 | ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
 | ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |

@@ -57,8 +57,6 @@ Ends wild battles.  Forces trainers to switch Pokémon.
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
-| ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
-| ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |
 | ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |
 | ![zweilous](../img/pokemon/634.png) | [Zweilous](../pokemon/zweilous.md) |

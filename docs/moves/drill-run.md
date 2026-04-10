@@ -17,7 +17,6 @@ Has an increased chance for a critical hit.
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
-| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
 | ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
@@ -26,7 +25,6 @@ Has an increased chance for a critical hit.
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
-| ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |

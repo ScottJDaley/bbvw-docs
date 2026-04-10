@@ -25,8 +25,6 @@ Frees the user from binding moves, removes Leech Seed, and blows away Spikes.
 | ![ferrothorn](../img/pokemon/598.png) | [Ferrothorn](../pokemon/ferrothorn.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
-| ![golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) |
-| ![graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) |
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |

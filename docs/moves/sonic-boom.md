@@ -20,7 +20,6 @@ Inflicts 20 points of damage.
 | ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
 | ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
-| ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
 | ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |

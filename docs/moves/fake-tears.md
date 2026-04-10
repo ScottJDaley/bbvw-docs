@@ -19,6 +19,7 @@ Lowers the target’s Special Defense by two stages.
 | ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
+| ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
 | ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
 | ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
@@ -26,7 +27,6 @@ Lowers the target’s Special Defense by two stages.
 | ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) |
 | ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
-| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
@@ -45,7 +45,6 @@ Lowers the target’s Special Defense by two stages.
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
 | ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |
-| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
 | ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

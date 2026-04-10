@@ -22,3 +22,4 @@ Raises one of a friendly Pokémon’s stats at random by two stages.
 | ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
+| ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |

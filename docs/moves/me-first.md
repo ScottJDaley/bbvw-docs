@@ -29,11 +29,9 @@ Uses the target’s move against it before it attacks, with power increased by h
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
-| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
-| ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |

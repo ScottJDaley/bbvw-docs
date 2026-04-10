@@ -32,4 +32,5 @@ Causes a one-hit KO.
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) |
+| ![wailord](../img/pokemon/321.png) | [Wailord](../pokemon/wailord.md) |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) |

@@ -12,6 +12,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
+| ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
 | ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
 | ![budew](../img/pokemon/406.png) | [Budew](../pokemon/budew.md) |
 | ![bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) |
@@ -24,14 +25,15 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![grovyle](../img/pokemon/253.png) | [Grovyle](../pokemon/grovyle.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
+| ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
-| ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) |
 | ![tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) |

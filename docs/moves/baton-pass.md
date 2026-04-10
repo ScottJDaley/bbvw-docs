@@ -16,12 +16,10 @@ Allows the trainer to switch out the user and pass effects along to its replacem
 | ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) |
 | ![ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
-| ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
 | ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
 | ![celebi](../img/pokemon/251.png) | [Celebi](../pokemon/celebi.md) |
-| ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
@@ -46,8 +44,10 @@ Allows the trainer to switch out the user and pass effects along to its replacem
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
-| ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) |
+| ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
+| ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
+| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
@@ -57,6 +57,9 @@ Allows the trainer to switch out the user and pass effects along to its replacem
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
 | ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
 | ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |

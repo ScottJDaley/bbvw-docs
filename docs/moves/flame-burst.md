@@ -30,6 +30,7 @@ Deals splash damage to Pokémon next to the target.
 | ![manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) |
 | ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |

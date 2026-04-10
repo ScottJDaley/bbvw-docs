@@ -59,10 +59,8 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) |
-| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
 | ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
-| ![magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
 | ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
@@ -74,6 +72,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
+| ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
 | ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![rayquaza](../img/pokemon/384.png) | [Rayquaza](../pokemon/rayquaza.md) |
@@ -90,6 +89,9 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
 | ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
 | ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
@@ -110,6 +112,5 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
 | ![walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) |
 | ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |
-| ![weavile](../img/pokemon/461.png) | [Weavile](../pokemon/weavile.md) |
 | ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |
 | ![zweilous](../img/pokemon/634.png) | [Zweilous](../pokemon/zweilous.md) |

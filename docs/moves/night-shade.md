@@ -29,7 +29,6 @@ Inflicts damage equal to the user’s level.
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
-| ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) |
 | ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |

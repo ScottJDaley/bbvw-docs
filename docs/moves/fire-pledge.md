@@ -24,6 +24,7 @@ With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for 
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
 | ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |

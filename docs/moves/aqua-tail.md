@@ -14,7 +14,6 @@ Inflicts regular damage with no additional effect.
 | --- | --- |
 | ![aerodactyl](../img/pokemon/142.png) | [Aerodactyl](../pokemon/aerodactyl.md) |
 | ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
-| ![anorith](../img/pokemon/347.png) | [Anorith](../pokemon/anorith.md) |
 | ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
 | ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
 | ![archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) |
@@ -49,9 +48,7 @@ Inflicts regular damage with no additional effect.
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
-| ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
-| ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |

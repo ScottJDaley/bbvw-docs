@@ -28,7 +28,6 @@ Protects the user’s stats from being changed by enemy moves.
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |

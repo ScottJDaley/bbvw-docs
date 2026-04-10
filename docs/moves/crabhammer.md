@@ -17,4 +17,3 @@ Has an increased chance for a critical hit.
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
-| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |

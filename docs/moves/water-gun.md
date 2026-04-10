@@ -39,7 +39,6 @@ Inflicts regular damage with no additional effect.
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
-| ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) |
 | ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
@@ -51,6 +50,7 @@ Inflicts regular damage with no additional effect.
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
+| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
@@ -62,6 +62,8 @@ Inflicts regular damage with no additional effect.
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) |
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
 | ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |

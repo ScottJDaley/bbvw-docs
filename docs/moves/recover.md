@@ -43,6 +43,7 @@ Heals the user by half its max HP.
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
 | ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
+| ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |

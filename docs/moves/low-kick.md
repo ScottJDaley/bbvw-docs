@@ -21,7 +21,6 @@ Inflicts more damage to heavier targets, with a maximum of 120 power.
 | ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) |
-| ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
@@ -33,7 +32,6 @@ Inflicts more damage to heavier targets, with a maximum of 120 power.
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
-| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
 | ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
@@ -102,7 +100,6 @@ Inflicts more damage to heavier targets, with a maximum of 120 power.
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) |
 | ![scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
@@ -129,4 +126,3 @@ Inflicts more damage to heavier targets, with a maximum of 120 power.
 | ![weavile](../img/pokemon/461.png) | [Weavile](../pokemon/weavile.md) |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |
 | ![zoroark](../img/pokemon/571.png) | [Zoroark](../pokemon/zoroark.md) |
-| ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

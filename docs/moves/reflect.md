@@ -20,12 +20,10 @@ Reduces damage from physical attacks by half.
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
-| ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
 | ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
 | ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
 | ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) |
 | ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
 | ![celebi](../img/pokemon/251.png) | [Celebi](../pokemon/celebi.md) |
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
@@ -109,7 +107,6 @@ Reduces damage from physical attacks by half.
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) |
 | ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
 | ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
@@ -140,6 +137,5 @@ Reduces damage from physical attacks by half.
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |

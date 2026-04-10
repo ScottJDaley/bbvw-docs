@@ -20,6 +20,7 @@ User receives 1/3 the damage inflicted in recoil.
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
+| ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
@@ -73,6 +74,9 @@ User receives 1/3 the damage inflicted in recoil.
 | ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
 | ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) |
+| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |
+| ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
+| ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) |
 | ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
@@ -86,6 +90,8 @@ User receives 1/3 the damage inflicted in recoil.
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |
 | ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) |
 | ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |
+| ![staraptor](../img/pokemon/398.png) | [Staraptor](../pokemon/staraptor.md) |
+| ![staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) |
 | ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |

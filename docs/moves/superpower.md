@@ -14,7 +14,6 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | --- | --- |
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) |
 | ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
-| ![anorith](../img/pokemon/347.png) | [Anorith](../pokemon/anorith.md) |
 | ![armaldo](../img/pokemon/348.png) | [Armaldo](../pokemon/armaldo.md) |
 | ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
@@ -114,7 +113,6 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
 | ![swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) |
-| ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
@@ -126,8 +124,6 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |
-| ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |
 | ![virizion](../img/pokemon/640.png) | [Virizion](../pokemon/virizion.md) |
-| ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |
 | ![zweilous](../img/pokemon/634.png) | [Zweilous](../pokemon/zweilous.md) |

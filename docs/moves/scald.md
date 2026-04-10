@@ -73,6 +73,7 @@ Has a $effect_chance% chance to burn the target.
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
+| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |
 | ![phione](../img/pokemon/489.png) | [Phione](../pokemon/phione.md) |
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
@@ -86,7 +87,6 @@ Has a $effect_chance% chance to burn the target.
 | ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) |
 | ![remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) |
-| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) |
@@ -94,6 +94,7 @@ Has a $effect_chance% chance to burn the target.
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
 | ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) |
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
 | ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |

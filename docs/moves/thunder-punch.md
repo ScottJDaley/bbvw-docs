@@ -19,9 +19,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) |
 | ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
-| ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
-| ![beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
@@ -35,13 +33,11 @@ Has a $effect_chance% chance to paralyze the target.
 | ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
 | ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
-| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
@@ -55,7 +51,6 @@ Has a $effect_chance% chance to paralyze the target.
 | ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
-| ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
@@ -93,7 +88,6 @@ Has a $effect_chance% chance to paralyze the target.
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
-| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
@@ -130,7 +124,6 @@ Has a $effect_chance% chance to paralyze the target.
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
-| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
 | ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
@@ -148,7 +141,6 @@ Has a $effect_chance% chance to paralyze the target.
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) |
 | ![scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
-| ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) |
 | ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) |
 | ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
@@ -157,10 +149,8 @@ Has a $effect_chance% chance to paralyze the target.
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
 | ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
-| ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |

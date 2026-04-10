@@ -31,4 +31,3 @@ Scatters Spikes, hurting opposing Pokémon that switch in.
 | ![snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |
-| ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |

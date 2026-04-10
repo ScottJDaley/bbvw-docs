@@ -66,6 +66,9 @@ Inflicts regular damage with no additional effect.
 | ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
+| ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
+| ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
+| ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
 | ![skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) |
 | ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) |
 | ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) |

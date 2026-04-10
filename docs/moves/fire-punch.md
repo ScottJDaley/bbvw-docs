@@ -19,7 +19,6 @@ Has a $effect_chance% chance to burn the target.
 | ![ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) |
 | ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
-| ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
@@ -31,7 +30,6 @@ Has a $effect_chance% chance to burn the target.
 | ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
 | ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
-| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
@@ -50,7 +48,6 @@ Has a $effect_chance% chance to burn the target.
 | ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
-| ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
@@ -80,12 +77,11 @@ Has a $effect_chance% chance to burn the target.
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
 | ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
-| ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
+| ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |
 | ![lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) |
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
-| ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
@@ -114,7 +110,6 @@ Has a $effect_chance% chance to burn the target.
 | ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
-| ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
 | ![regigigas](../img/pokemon/486.png) | [Regigigas](../pokemon/regigigas.md) |
@@ -136,7 +131,6 @@ Has a $effect_chance% chance to burn the target.
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
 | ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
