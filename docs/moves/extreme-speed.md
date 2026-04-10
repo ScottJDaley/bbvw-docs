@@ -14,9 +14,9 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) |
-| ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
-| ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
-| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
-| ![rayquaza](../img/pokemon/384.png) | [Rayquaza](../pokemon/rayquaza.md) |
-| ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
+|  | [Arcanine](../pokemon/arcanine.md) |
+|  | [Arceus](../pokemon/arceus.md) |
+|  | [Dratini](../pokemon/dratini.md) |
+|  | [Lucario](../pokemon/lucario.md) |
+|  | [Rayquaza](../pokemon/rayquaza.md) |
+|  | [Togekiss](../pokemon/togekiss.md) |

@@ -4,39 +4,39 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) | 20% |
-| ![Drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) | 20% |
-| ![Spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) | 10% |
-| ![Natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![Venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) | 10% |
-| ![Ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) | 10% |
-| ![Clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) | 5% |
-| ![Jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) | 5% |
-| ![Nidoran♂](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) | 5% |
-| ![Nidoran♀](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) | 5% |
+|  | [Munna](../pokemon/munna.md) | 20% |
+|  | [Drowzee](../pokemon/drowzee.md) | 20% |
+|  | [Spinda](../pokemon/spinda.md) | 10% |
+|  | [Natu](../pokemon/natu.md) | 10% |
+|  | [Venonat](../pokemon/venonat.md) | 10% |
+|  | [Ralts](../pokemon/ralts.md) | 10% |
+|  | [Clefairy](../pokemon/clefairy.md) | 5% |
+|  | [Jigglypuff](../pokemon/jigglypuff.md) | 5% |
+|  | [Nidoran♂](../pokemon/nidoran-m.md) | 5% |
+|  | [Nidoran♀](../pokemon/nidoran-f.md) | 5% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) | 20% |
-| ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 20% |
-| ![Clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) | 10% |
-| ![Jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) | 10% |
-| ![Xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 10% |
-| ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 10% |
-| ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 10% |
-| ![Spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) | 10% |
+|  | [Munna](../pokemon/munna.md) | 20% |
+|  | [Hypno](../pokemon/hypno.md) | 20% |
+|  | [Clefairy](../pokemon/clefairy.md) | 10% |
+|  | [Jigglypuff](../pokemon/jigglypuff.md) | 10% |
+|  | [Xatu](../pokemon/xatu.md) | 10% |
+|  | [Venomoth](../pokemon/venomoth.md) | 10% |
+|  | [Kirlia](../pokemon/kirlia.md) | 10% |
+|  | [Spinda](../pokemon/spinda.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
-| ![Togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) | 20% |
-| ![Cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) | 10% |
-| ![Igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) | 10% |
-| ![Chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) | 10% |
-| ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 5% |
-| ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 5% |
+|  | [Audino](../pokemon/audino.md) | 40% |
+|  | [Togepi](../pokemon/togepi.md) | 20% |
+|  | [Cleffa](../pokemon/cleffa.md) | 10% |
+|  | [Igglybuff](../pokemon/igglybuff.md) | 10% |
+|  | [Chingling](../pokemon/chingling.md) | 10% |
+|  | [Lunatone](../pokemon/lunatone.md) | 5% |
+|  | [Solrock](../pokemon/solrock.md) | 5% |
 
 
 ## Trainers

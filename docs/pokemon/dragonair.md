@@ -60,9 +60,9 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Hydro pump](../moves/hydro-pump.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
-| 1 <span class="pill pill-new">NEW</span> | [Coil](../moves/coil.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 1 <span class="pill pill-new">NEW</span> | - | Extremespeed | - | - | - | - |
+| 1 | [Hydro pump](../moves/hydro-pump.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
+| 1 | [Coil](../moves/coil.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 1 | -  <span class="pill pill-new">NEW</span>| Extremespeed | - | - | - | - |
 | 1 | [Wrap](../moves/wrap.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 90 | 20 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Thunder wave](../moves/thunder-wave.md) | ![electric](../img/types/electric.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |

@@ -48,3 +48,17 @@
 | ![Glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) | 58 | - | - |  |
 | ![Glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) | 58 | - | - |  |
 
+### Gym Leader Brycen
+**Battle Type:** Double Battle (Initial) / Triple Battle (Rematch)  
+**Reward:** [TM13](../moves/ice-beam.md) Ice Beam  
+
+#### Brycen’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | 61 | Snow Warning | Expert Belt | Blizzard, Ice Shard |
+| ![Glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) | 61 | Snow Cloak | Choice Scarf | Blizzard, Baton Pass |
+| ![Froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) | 61 | Snow Cloak | Life Orb | Blizzard, Disable |
+| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 63 | Ice Body | NeverMeltIce | Blizzard, Autotomize |
+| ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 61 | Levitate | Focus Sash | Blizzard, Protect |
+| ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 63 | Snow Cloak | White Herb | Icicle Crash, Rock Slide |
+

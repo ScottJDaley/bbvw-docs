@@ -49,8 +49,8 @@ Evolve from [Krokorok](../pokemon/krokorok.md)
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Fire fang](../moves/fire-fang.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
-| 1 <span class="pill pill-new">NEW</span> | [Thunder fang](../moves/thunder-fang.md) | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
+| 1 | [Fire fang](../moves/fire-fang.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
+| 1 | [Thunder fang](../moves/thunder-fang.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
 | 1 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |

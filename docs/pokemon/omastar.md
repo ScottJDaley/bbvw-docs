@@ -61,7 +61,7 @@ Evolve from [Omanyte](../pokemon/omanyte.md)
 | 28 | [Brine](../moves/brine.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 10 |
 | 34 | [Protect](../moves/protect.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 37 | [Ancient power](../moves/ancient-power.md) | ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |
-| 40 <span class="pill pill-new">NEW</span> | [Power gem](../moves/power-gem.md) | ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
+| 40 | [Power gem](../moves/power-gem.md)  <span class="pill pill-new">NEW</span>| ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
 | 40 | [Spike cannon](../moves/spike-cannon.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 15 |
 | 48 | [Tickle](../moves/tickle.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 56 | [Rock blast](../moves/rock-blast.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 25 | 90 | 10 |

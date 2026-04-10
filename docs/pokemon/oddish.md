@@ -55,25 +55,25 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Leech seed](../moves/leech-seed.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
-| 1 <span class="pill pill-new">NEW</span> | [Petal dance](../moves/petal-dance.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| 1 | [Leech seed](../moves/leech-seed.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 1 | [Petal dance](../moves/petal-dance.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 1 | [Absorb](../moves/absorb.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 25 |
 | 5 | [Sweet scent](../moves/sweet-scent.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 9 | [Acid](../moves/acid.md) | ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 11 <span class="pill pill-new">NEW</span> | [Razor leaf](../moves/razor-leaf.md) | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |
+| 11 | [Razor leaf](../moves/razor-leaf.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |
 | 13 | [Poison powder](../moves/poison-powder.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 35 |
 | 15 | [Stun spore](../moves/stun-spore.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 30 |
 | 17 | [Sleep powder](../moves/sleep-powder.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |
-| 19 <span class="pill pill-new">NEW</span> | [Nature power](../moves/nature-power.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 21 <span class="pill pill-new">NEW</span> | [Drain punch](../moves/drain-punch.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
+| 19 | [Nature power](../moves/nature-power.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 21 | [Drain punch](../moves/drain-punch.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
 | 21 | [Mega drain](../moves/mega-drain.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | 25 | [Lucky chant](../moves/lucky-chant.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
 | 29 | [Natural gift](../moves/natural-gift.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 33 | [Moonlight](../moves/moonlight.md) | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 37 | [Giga drain](../moves/giga-drain.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
-| 38 <span class="pill pill-new">NEW</span> | [Earth power](../moves/earth-power.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
-| 38 <span class="pill pill-new">NEW</span> | [Quiver dance](../moves/quiver-dance.md) | ![bug](../img/types/bug.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 65 <span class="pill pill-new">NEW</span> | [Earth power](../moves/earth-power.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 38 | [Earth power](../moves/earth-power.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 38 | [Quiver dance](../moves/quiver-dance.md)  <span class="pill pill-new">NEW</span>| ![bug](../img/types/bug.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 65 | [Earth power](../moves/earth-power.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

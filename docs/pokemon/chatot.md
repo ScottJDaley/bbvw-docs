@@ -57,7 +57,7 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Nasty plot](../moves/nasty-plot.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 1 | [Nasty plot](../moves/nasty-plot.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 1 | [Peck](../moves/peck.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 100 | 35 |
 | 5 | [Growl](../moves/growl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
 | 9 | [Mirror move](../moves/mirror-move.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
@@ -73,8 +73,8 @@ None
 | 49 | [Synchronoise](../moves/synchronoise.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 53 | [Feather dance](../moves/feather-dance.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 57 | [Hyper voice](../moves/hyper-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
-| 61 <span class="pill pill-new">NEW</span> | [Hurricane](../moves/hurricane.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
-| 65 <span class="pill pill-new">NEW</span> | [Heat wave](../moves/heat-wave.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 90 | 10 |
+| 61 | [Hurricane](../moves/hurricane.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
+| 65 | [Heat wave](../moves/heat-wave.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 90 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

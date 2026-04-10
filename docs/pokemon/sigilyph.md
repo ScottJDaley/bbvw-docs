@@ -64,18 +64,18 @@ None
 | 18 | [Psybeam](../moves/psybeam.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
 | 21 | [Air cutter](../moves/air-cutter.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 |
 | 24 | [Light screen](../moves/light-screen.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
-| 26 <span class="pill pill-new">NEW</span> | [Roost](../moves/roost.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| 26 | [Roost](../moves/roost.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 28 | [Reflect](../moves/reflect.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 31 | [Synchronoise](../moves/synchronoise.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 34 | [Mirror move](../moves/mirror-move.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 36 <span class="pill pill-new">NEW</span> | [Psycho shift](../moves/psycho-shift.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
+| 36 | [Psycho shift](../moves/psycho-shift.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 38 | [Gravity](../moves/gravity.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 41 | [Air slash](../moves/air-slash.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
 | 44 | [Psychic](../moves/psychic.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
 | 48 | [Cosmic power](../moves/cosmic-power.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 51 | [Sky attack](../moves/sky-attack.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 90 | 5 |
-| 54 <span class="pill pill-new">NEW</span> | [Stored power](../moves/stored-power.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
-| 57 <span class="pill pill-new">NEW</span> | [Hurricane](../moves/hurricane.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
+| 54 | [Stored power](../moves/stored-power.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| 57 | [Hurricane](../moves/hurricane.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -14,7 +14,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
-| ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
-| ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
-| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+|  | [Dewott](../pokemon/dewott.md) |
+|  | [Oshawott](../pokemon/oshawott.md) |
+|  | [Samurott](../pokemon/samurott.md) |
+|  | [Shellder](../pokemon/shellder.md) |

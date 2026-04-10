@@ -61,9 +61,9 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Fire punch](../moves/fire-punch.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 <span class="pill pill-new">NEW</span> | - | Thunderpunch | - | - | - | - |
-| 1 <span class="pill pill-new">NEW</span> | [Ice punch](../moves/ice-punch.md) | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
+| 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
+| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | [Tail whip](../moves/tail-whip.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 4 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
@@ -78,7 +78,7 @@ None
 | 36 | [Fling](../moves/fling.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 39 | [Nasty plot](../moves/nasty-plot.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 43 | [Last resort](../moves/last-resort.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
-| 47 <span class="pill pill-new">NEW</span> | [Fake out](../moves/fake-out.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 10 |
+| 47 | [Fake out](../moves/fake-out.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -8,11 +8,6 @@
 | ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 31 | - | - |  |
 | ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 31 | - | - |  |
 
-### PKMN Trainer N – 1
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) | 6 | - | - |  |
-
 ### Lady Magnolia
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
@@ -48,7 +43,29 @@
 | ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
 
 ### PKMN Trainer N – 3
+**Battle Type:** Double Battle  
+
+#### N’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 33 | - | - |  |
+| ![Maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) | 33 | - | - |  |
+| ![Gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | 33 | - | - |  |
+| ![Larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 33 | - | - |  |
+| ![Golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) | 33 | - | - |  |
+| ![Sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 33 | - | - |  |
+
+### Gym Leader Elesa
+**Battle Type:** Single Battle  
+**Reward:** [TM93](../moves/wild-charge.md) Wild Charge  
+
+#### Elesa’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 36 | Static | - | Wild Charge, U-turn, Acrobatics, Roost |
+| ![Manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 36 | Static | - | Thunderbolt, Volt Switch, Flamethrower, Attract |
+| ![Ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) | 36 | Static | - | Thunderbolt, Charge, Focus Blast, Cotton Guard |
+| ![Raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) | 36 | Static | - | Wild Charge, Volt Switch, Grass Knot, Focus Blast |
+| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 36 | Compoundeyes | - | Thunder, Volt Switch, Signal Beam, Energy Ball |
+| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 38 | Lightningrod | Sitrus Berry | Wild Charge, Volt Switch, Flame Charge, Double Kick |
 

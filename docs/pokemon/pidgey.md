@@ -55,16 +55,16 @@
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-shifted">SHIFTED (from 9)</span> | [Gust](../moves/gust.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
-| 1 <span class="pill pill-new">NEW</span> | [Razor wind](../moves/razor-wind.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
+| 1 | [Gust](../moves/gust.md)  <span class="pill pill-shifted">SHIFTED (from 9)</span>| ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1 | [Razor wind](../moves/razor-wind.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | 1 | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 5 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
-| 9 <span class="pill pill-new">NEW</span> | [Pluck](../moves/pluck.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
-| 11 <span class="pill pill-shifted">SHIFTED (from 13)</span> | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 13 <span class="pill pill-new">NEW</span> | - | Faint attack | - | - | - | - |
-| 15 <span class="pill pill-shifted">SHIFTED (from 17)</span> | [Whirlwind](../moves/whirlwind.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 17 <span class="pill pill-new">NEW</span> | [U turn](../moves/u-turn.md) | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
-| 19 <span class="pill pill-new">NEW</span> | [Mud slap](../moves/mud-slap.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| 9 | [Pluck](../moves/pluck.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 11 | [Quick attack](../moves/quick-attack.md)  <span class="pill pill-shifted">SHIFTED (from 13)</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
+| 13 | -  <span class="pill pill-new">NEW</span>| Faint attack | - | - | - | - |
+| 15 | [Whirlwind](../moves/whirlwind.md)  <span class="pill pill-shifted">SHIFTED (from 17)</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 17 | [U turn](../moves/u-turn.md)  <span class="pill pill-new">NEW</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| 19 | [Mud slap](../moves/mud-slap.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
 | 21 | [Twister](../moves/twister.md) | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |
 | 25 | [Feather dance](../moves/feather-dance.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 29 | [Agility](../moves/agility.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
@@ -74,7 +74,7 @@
 | 45 | [Mirror move](../moves/mirror-move.md) | ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 49 | [Air slash](../moves/air-slash.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
 | 53 | [Hurricane](../moves/hurricane.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
-| 57 <span class="pill pill-new">NEW</span> | [Brave bird](../moves/brave-bird.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
+| 57 | [Brave bird](../moves/brave-bird.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

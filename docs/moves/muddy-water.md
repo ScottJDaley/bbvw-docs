@@ -14,29 +14,29 @@ Has a $effect_chance% chance to lower the target’s accuracy by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
-| ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) |
-| ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
-| ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) |
-| ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
-| ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
-| ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |
-| ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
-| ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
-| ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
-| ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
-| ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
-| ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
-| ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) |
-| ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
-| ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
-| ![squirtle](../img/pokemon/007.png) | [Squirtle](../pokemon/squirtle.md) |
-| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
-| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
-| ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
-| ![vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) |
-| ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+|  | [Azurill](../pokemon/azurill.md) |
+|  | [Barboach](../pokemon/barboach.md) |
+|  | [Basculin-red-striped](../pokemon/basculin.md) |
+|  | [Basculin-red-striped](../pokemon/basculin.md) |
+|  | [Clamperl](../pokemon/clamperl.md) |
+|  | [Gastrodon](../pokemon/gastrodon.md) |
+|  | [Gorebyss](../pokemon/gorebyss.md) |
+|  | [Horsea](../pokemon/horsea.md) |
+|  | [Huntail](../pokemon/huntail.md) |
+|  | [Kyogre](../pokemon/kyogre.md) |
+|  | [Lickitung](../pokemon/lickitung.md) |
+|  | [Marill](../pokemon/marill.md) |
+|  | [Marshtomp](../pokemon/marshtomp.md) |
+|  | [Omanyte](../pokemon/omanyte.md) |
+|  | [Palpitoad](../pokemon/palpitoad.md) |
+|  | [Quagsire](../pokemon/quagsire.md) |
+|  | [Relicanth](../pokemon/relicanth.md) |
+|  | [Seismitoad](../pokemon/seismitoad.md) |
+|  | [Shellos](../pokemon/shellos.md) |
+|  | [Squirtle](../pokemon/squirtle.md) |
+|  | [Stunfisk](../pokemon/stunfisk.md) |
+|  | [Swampert](../pokemon/swampert.md) |
+|  | [Tentacool](../pokemon/tentacool.md) |
+|  | [Tympole](../pokemon/tympole.md) |
+|  | [Vaporeon](../pokemon/vaporeon.md) |
+|  | [Wooper](../pokemon/wooper.md) |

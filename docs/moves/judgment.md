@@ -14,4 +14,4 @@ If the user is holding a appropriate plate or drive, the damage inflicted will m
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
+|  | [Arceus](../pokemon/arceus.md) |

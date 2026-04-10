@@ -59,9 +59,9 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Bubble](../moves/bubble.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 1 <span class="pill pill-new">NEW</span> | [Bounce](../moves/bounce.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |
-| 1 <span class="pill pill-new">NEW</span> | [Reversal](../moves/reversal.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| 1 | [Bubble](../moves/bubble.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
+| 1 | [Bounce](../moves/bounce.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 85 | 5 |
+| 1 | [Reversal](../moves/reversal.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 1 | [Thrash](../moves/thrash.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 20 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | 23 | [Dragon rage](../moves/dragon-rage.md) | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
@@ -73,8 +73,8 @@ None
 | 41 | [Hydro pump](../moves/hydro-pump.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
 | 44 | [Dragon dance](../moves/dragon-dance.md) | ![dragon](../img/types/dragon.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 47 | [Hyper beam](../moves/hyper-beam.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
-| 50 <span class="pill pill-new">NEW</span> | [Crunch](../moves/crunch.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
-| 53 <span class="pill pill-new">NEW</span> | [Outrage](../moves/outrage.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| 50 | [Crunch](../moves/crunch.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
+| 53 | [Outrage](../moves/outrage.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

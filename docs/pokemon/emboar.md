@@ -54,10 +54,10 @@ Evolve from [Pignite](../pokemon/pignite.md)
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Superpower](../moves/superpower.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 5 |
-| 1 <span class="pill pill-new">NEW</span> | [Fire punch](../moves/fire-punch.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 <span class="pill pill-new">NEW</span> | - | Thunderpunch | - | - | - | - |
-| 1 <span class="pill pill-new">NEW</span> | [Focus punch](../moves/focus-punch.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 100 | 20 |
+| 1 | [Superpower](../moves/superpower.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 5 |
+| 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
+| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Focus punch](../moves/focus-punch.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 100 | 20 |
 | 1 | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | [Tail whip](../moves/tail-whip.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Ember](../moves/ember.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |
@@ -65,15 +65,15 @@ Evolve from [Pignite](../pokemon/pignite.md)
 | 1 | [Hammer arm](../moves/hammer-arm.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 90 | 10 |
 | 13 | [Defense curl](../moves/defense-curl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 15 | [Flame charge](../moves/flame-charge.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
-| 17 <span class="pill pill-new">NEW</span> | [Magnitude](../moves/magnitude.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
-| 17 <span class="pill pill-removed">REMOVED</span> | [Arm thrust](../moves/arm-thrust.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 20 |
-| 20 <span class="pill pill-new">NEW</span> | [Arm thrust](../moves/arm-thrust.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 20 |
-| 20 <span class="pill pill-removed">REMOVED</span> | [Smog](../moves/smog.md) | ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 70 | 20 |
+| 17 | [Magnitude](../moves/magnitude.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
+| 17 | [Arm thrust](../moves/arm-thrust.md)  <span class="pill pill-removed">REMOVED</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 20 |
+| 20 | [Arm thrust](../moves/arm-thrust.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 20 |
+| 20 | [Smog](../moves/smog.md)  <span class="pill pill-removed">REMOVED</span>| ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 70 | 20 |
 | 23 | [Rollout](../moves/rollout.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 90 | 20 |
-| 28 <span class="pill pill-new">NEW</span> | [Sucker punch](../moves/sucker-punch.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
-| 28 <span class="pill pill-removed">REMOVED</span> | [Take down](../moves/take-down.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
+| 28 | [Sucker punch](../moves/sucker-punch.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
+| 28 | [Take down](../moves/take-down.md)  <span class="pill pill-removed">REMOVED</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
 | 31 | [Heat crash](../moves/heat-crash.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
-| 34 <span class="pill pill-new">NEW</span> | [Bulldoze](../moves/bulldoze.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 34 | [Bulldoze](../moves/bulldoze.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 38 | [Assurance](../moves/assurance.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
 | 43 | [Flamethrower](../moves/flamethrower.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |
 | 50 | [Head smash](../moves/head-smash.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 80 | 5 |

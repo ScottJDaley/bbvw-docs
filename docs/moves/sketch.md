@@ -14,4 +14,4 @@ Permanently becomes the target’s last used move.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) |
+|  | [Smeargle](../pokemon/smeargle.md) |

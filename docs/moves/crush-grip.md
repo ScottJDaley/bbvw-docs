@@ -14,4 +14,4 @@ Power increases against targets with more HP remaining, up to a maximum of 121 p
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![regigigas](../img/pokemon/486.png) | [Regigigas](../pokemon/regigigas.md) |
+|  | [Regigigas](../pokemon/regigigas.md) |

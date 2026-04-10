@@ -14,19 +14,19 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
-| ![banette](../img/pokemon/354.png) | [Banette](../pokemon/banette.md) |
-| ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
-| ![dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) |
-| ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
-| ![giratina-altered](../img/pokemon/487.png) | [Giratina-altered](../pokemon/giratina-altered.md) |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
-| ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
-| ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
-| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
-| ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
-| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
-| ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
-| ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) |
-| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
-| ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
+|  | [Ariados](../pokemon/ariados.md) |
+|  | [Banette](../pokemon/banette.md) |
+|  | [Dusclops](../pokemon/dusclops.md) |
+|  | [Dusknoir](../pokemon/dusknoir.md) |
+|  | [Duskull](../pokemon/duskull.md) |
+|  | [Giratina-altered](../pokemon/giratina-altered.md) |
+|  | [Grimer](../pokemon/grimer.md) |
+|  | [Kecleon](../pokemon/kecleon.md) |
+|  | [Misdreavus](../pokemon/misdreavus.md) |
+|  | [Muk](../pokemon/muk.md) |
+|  | [Ralts](../pokemon/ralts.md) |
+|  | [Sableye](../pokemon/sableye.md) |
+|  | [Shedinja](../pokemon/shedinja.md) |
+|  | [Shuppet](../pokemon/shuppet.md) |
+|  | [Spinarak](../pokemon/spinarak.md) |
+|  | [Spiritomb](../pokemon/spiritomb.md) |

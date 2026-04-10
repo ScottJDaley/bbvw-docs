@@ -14,27 +14,27 @@ User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to 
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) |
-| ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
-| ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![darmanitan-standard](../img/pokemon/555.png) | [Darmanitan-standard](../pokemon/darmanitan-standard.md) |
-| ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
-| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
-| ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
-| ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
-| ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
-| ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
-| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
-| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
-| ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
-| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
-| ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
-| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
-| ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
-| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |
+|  | [Arcanine](../pokemon/arcanine.md) |
+|  | [Blaziken](../pokemon/blaziken.md) |
+|  | [Charizard](../pokemon/charizard.md) |
+|  | [Charmander](../pokemon/charmander.md) |
+|  | [Combusken](../pokemon/combusken.md) |
+|  | [Cyndaquil](../pokemon/cyndaquil.md) |
+|  | [Darmanitan-standard](../pokemon/darmanitan-standard.md) |
+|  | [Darumaka](../pokemon/darumaka.md) |
+|  | [Emboar](../pokemon/emboar.md) |
+|  | [Entei](../pokemon/entei.md) |
+|  | [Growlithe](../pokemon/growlithe.md) |
+|  | [Infernape](../pokemon/infernape.md) |
+|  | [Larvesta](../pokemon/larvesta.md) |
+|  | [Magby](../pokemon/magby.md) |
+|  | [Magmar](../pokemon/magmar.md) |
+|  | [Magmortar](../pokemon/magmortar.md) |
+|  | [Monferno](../pokemon/monferno.md) |
+|  | [Pignite](../pokemon/pignite.md) |
+|  | [Ponyta](../pokemon/ponyta.md) |
+|  | [Rapidash](../pokemon/rapidash.md) |
+|  | [Solrock](../pokemon/solrock.md) |
+|  | [Tepig](../pokemon/tepig.md) |
+|  | [Victini](../pokemon/victini.md) |
+|  | [Vulpix](../pokemon/vulpix.md) |

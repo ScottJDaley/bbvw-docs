@@ -66,8 +66,8 @@ None
 | 18 | [Confuse ray](../moves/confuse-ray.md) | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 21 | [Magic coat](../moves/magic-coat.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | 26 | [Zen headbutt](../moves/zen-headbutt.md) | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 90 | 15 |
-| 27 <span class="pill pill-new">NEW</span> | [Extrasensory](../moves/extrasensory.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
-| 28 <span class="pill pill-new">NEW</span> | [Shock wave](../moves/shock-wave.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 27 | [Extrasensory](../moves/extrasensory.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
+| 28 | [Shock wave](../moves/shock-wave.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 29 | [Rest](../moves/rest.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 29 | [Snore](../moves/snore.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
 | 37 | [Psyshock](../moves/psyshock.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |

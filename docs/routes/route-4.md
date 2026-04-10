@@ -4,53 +4,62 @@
 ### ![Sand](../img/items/grass-normal.png){ style='vertical-align:middle;' } Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
-| ![Sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) | 20% |
-| ![Darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) | 10% |
-| ![Scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) | 10% |
-| ![Cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 10% |
-| ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
-| ![Vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) | 10% |
-| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 5% |
-| ![Elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) | 5% |
+|  | [Sandile](../pokemon/sandile.md) | 20% |
+|  | [Sandshrew](../pokemon/sandshrew.md) | 20% |
+|  | [Darumaka](../pokemon/darumaka.md) | 10% |
+|  | [Scraggy](../pokemon/scraggy.md) | 10% |
+|  | [Cacnea](../pokemon/cacnea.md) | 10% |
+|  | [Trapinch](../pokemon/trapinch.md) | 10% |
+|  | [Vullaby](../pokemon/vullaby.md) | 10% |
+|  | [Hippopotas](../pokemon/hippopotas.md) | 5% |
+|  | [Elgyem](../pokemon/elgyem.md) | 5% |
 
 ### ![Surf, Normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 |  | [Frillish](../pokemon/frillish.md) | 60% |
-| ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 30% |
-| ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
+|  | [Clamperl](../pokemon/clamperl.md) | 30% |
+|  | [Relicanth](../pokemon/relicanth.md) | 10% |
 
 ### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 |  | [Jellicent](../pokemon/jellicent.md) | 60% |
-| ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 30% |
-| ![Huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) | 5% |
-| ![Gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) | 5% |
+|  | [Relicanth](../pokemon/relicanth.md) | 30% |
+|  | [Huntail](../pokemon/huntail.md) | 5% |
+|  | [Gorebyss](../pokemon/gorebyss.md) | 5% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 60% |
-| ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30% |
-| ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 10% |
+|  | [Krabby](../pokemon/krabby.md) | 60% |
+|  | [Corphish](../pokemon/corphish.md) | 30% |
+|  | [Clamperl](../pokemon/clamperl.md) | 10% |
 
 ### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 60% |
+|  | [Clamperl](../pokemon/clamperl.md) | 60% |
 |  | [Frillish](../pokemon/frillish.md) | 30% |
-| ![Relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
+|  | [Relicanth](../pokemon/relicanth.md) | 10% |
 
 
 ## Trainers
 ### Rival Bianca – 1
+**Battle Type:** Single Battle  
+
+#### Bianca’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
-| ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
-| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
+
+### Rival Cheren – 1
+**Battle Type:** Single Battle  
+
+#### Cheren’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
 
 ### Backpacker Keane
 | Sprite | Pokemon | Level | Ability | Item | Moves |

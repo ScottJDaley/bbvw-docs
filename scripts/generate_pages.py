@@ -251,7 +251,8 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         elif marker == '=':
             old_lv = next((x['level'] for x in base_lv_moves if x['name'] == m['name']), "?")
             change_text = f' <span class="pill pill-shifted">SHIFTED (from {old_lv})</span>'
-        md += f"| {m['level']}{change_text} {row}\n"
+        row_parts = row.split('|'); row_parts[1] = row_parts[1] + change_text; row = "|".join(row_parts)
+        md += f"| {m['level']} {row}\n"
     
     learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
     rom_machines = p_rom.get('tm_hm', [])
@@ -338,24 +339,56 @@ def generate_route_page(name, route_data, base_data, trainer_data):
                 md += f"!!! info\n"; lines = s.split('\n')
                 for l in lines: md += f"    {l}\n"
                 md += "\n"
+    
     location_trainers = trainer_data.get(name)
     if location_trainers:
         md += "\n## Trainers\n"
-        for trainer in location_trainers:
-            md += f"### {trainer['name']}\n"
-            md += "| Sprite | Pokemon | Level | Ability | Item | Moves |\n| --- | --- | --- | --- | --- | --- |\n"
-            for p in trainer['pokemon']:
-                p_norm = normalize_name(p['name']); p_base = base_data.get(p_norm)
-                sprite = f'![{p["name"]}](../img/pokemon/{p_base["id"]:03}.png)' if p_base else ""
-                md += f"| {sprite} | [{p['name']}](../pokemon/{p_norm}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
-            md += "\n"
+        # Group by group_header
+        groups = {}
+        for t in location_trainers:
+            h = t.get('group_header', '')
+            if h not in groups: groups[h] = []
+            groups[h].append(t)
+        
+        for h, teams in groups.items():
+            if h:
+                md += f"### {h}\n"
+                # Display battle type and reward from the first team in group
+                if teams[0].get('battle_type'): md += f"**Battle Type:** {teams[0]['battle_type']}  \n"
+                if teams[0].get('reward'):
+                    rew = teams[0]['reward']
+                    tm_match = re.search(r'(TM|HM)(\d+)', rew)
+                    if tm_match:
+                        # Find move name for link
+                        m_norm = ""
+                        for m_id, m_inf in base_data['moves'].items():
+                            if m_inf.get('tm_num') == tm_match.group(0): m_norm = m_id; break
+                        if m_norm: rew = rew.replace(tm_match.group(0), f"[{tm_match.group(0)}](../moves/{m_norm}.md)")
+                    md += f"**Reward:** {rew}  \n"
+                md += "\n"
+                for team in teams:
+                    md += f"#### {team['name']}\n"
+                    md += "| Sprite | Pokemon | Level | Ability | Item | Moves |\n| --- | --- | --- | --- | --- | --- |\n"
+                    for p in team['pokemon']:
+                        p_norm = normalize_name(p['name']); p_base = base_data['pokemon'].get(p_norm)
+                        sprite = f'![{p["name"]}](../img/pokemon/{p_base["id"]:03}.png)' if p_base else ""
+                        md += f"| {sprite} | [{p['name']}](../pokemon/{p_norm}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
+                    md += "\n"
+            else:
+                for team in teams:
+                    md += f"### {team['name']}\n"
+                    md += "| Sprite | Pokemon | Level | Ability | Item | Moves |\n| --- | --- | --- | --- | --- | --- |\n"
+                    for p in team['pokemon']:
+                        p_norm = normalize_name(p['name']); p_base = base_data['pokemon'].get(p_norm)
+                        sprite = f'![{p["name"]}](../img/pokemon/{p_base["id"]:03}.png)' if p_base else ""
+                        md += f"| {sprite} | [{p['name']}](../pokemon/{p_norm}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
+                    md += "\n"
     return md
 
 if __name__ == "__main__":
     base, romhack = load_data()
     if 'basculin-red-striped' in base['pokemon']: base['pokemon']['basculin'] = base['pokemon']['basculin-red-striped']
     
-    # Pre-calculate pokemon lists for abilities and moves based on FINAL romhack data
     final_ability_to_pokemon = {}
     final_move_to_pokemon = {}
     
@@ -407,7 +440,7 @@ if __name__ == "__main__":
 
     if not os.path.exists("docs/moves"): os.makedirs("docs/moves")
     for m_name, m_info in sorted(base['moves'].items()):
-        md = generate_move_page(m_name, m_info, final_move_to_pokemon.get(m_name, []), romhack['move_stat_changes'].get(m_name, {}), base['pokemon'])
+        md = generate_move_page(m_name, m_info, final_move_to_pokemon.get(m_name, []), romhack['move_stat_changes'].get(m_name, {}), base)
         with open(os.path.join("docs/moves", f"{m_name}.md"), 'w') as f: f.write(md)
     with open("docs/moves/index.md", 'w') as f:
         f.write("# Moves\n\n")
@@ -427,7 +460,7 @@ if __name__ == "__main__":
         if r['name'] not in all_locations: all_locations.append(r['name'])
     for r_name in all_locations:
         r_data = next((r for r in romhack['wild_pokemon'] if r['name'] == r_name), None)
-        md = generate_route_page(r_name, r_data, base['pokemon'], romhack['trainers'])
+        md = generate_route_page(r_name, r_data, base, romhack['trainers'])
         with open(os.path.join("docs/routes", f"{normalize_name(r_name)}.md"), 'w') as f: f.write(md)
     with open("docs/routes/index.md", 'w') as f:
         f.write("# Routes\n\n")

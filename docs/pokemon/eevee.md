@@ -68,22 +68,22 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Growth](../moves/growth.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 1 | [Growth](../moves/growth.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 1 | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | [Tail whip](../moves/tail-whip.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Helping hand](../moves/helping-hand.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 8 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 15 | [Growl](../moves/growl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
 | 22 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 28 <span class="pill pill-new">NEW</span> | - | Yawn / water pulse / shock wave / flame wheel / power gem / tickle / aromatherapy / aurora beam | - | - | - | - |
+| 28 | -  <span class="pill pill-new">NEW</span>| Yawn / water pulse / shock wave / flame wheel / power gem / tickle / aromatherapy / aurora beam | - | - | - | - |
 | 29 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | 36 | [Baton pass](../moves/baton-pass.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 37 | [Double edge](../moves/double-edge.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
-| 43 <span class="pill pill-new">NEW</span> | - | Wish / scald / electro ball / superpower / fake tears / foul play /  dragon rush / earth power | - | - | - | - |
+| 43 | -  <span class="pill pill-new">NEW</span>| Wish / scald / electro ball / superpower / fake tears / foul play /  dragon rush / earth power | - | - | - | - |
 | 43 | [Take down](../moves/take-down.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
 | 50 | [Last resort](../moves/last-resort.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
 | 57 | [Trump card](../moves/trump-card.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| 73 <span class="pill pill-new">NEW</span> | - | Nothing / heal bell / volt tackle / flare blitz / aura sphere / power trick / wood hammer / sheer cold | - | - | - | - |
+| 73 | -  <span class="pill pill-new">NEW</span>| Nothing / heal bell / volt tackle / flare blitz / aura sphere / power trick / wood hammer / sheer cold | - | - | - | - |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -4,32 +4,32 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) | 20% |
-| ![Herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 20% |
-| ![Snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) | 10% |
-| ![Swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) | 10% |
-| ![Cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) | 10% |
-| ![Buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 10% |
-| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 10% |
-| ![Taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) | 10% |
+|  | [Vanillite](../pokemon/vanillite.md) | 20% |
+|  | [Herdier](../pokemon/herdier.md) | 20% |
+|  | [Snorunt](../pokemon/snorunt.md) | 10% |
+|  | [Swinub](../pokemon/swinub.md) | 10% |
+|  | [Cubchoo](../pokemon/cubchoo.md) | 10% |
+|  | [Buizel](../pokemon/buizel.md) | 10% |
+|  | [Mienfoo](../pokemon/mienfoo.md) | 10% |
+|  | [Taillow](../pokemon/taillow.md) | 10% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) | 20% |
-| ![Herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 20% |
-| ![Swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 10% |
-| ![Floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) | 10% |
-| ![Sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) | 10% |
-| ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 10% |
-| ![Smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) | 10% |
-| ![Piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 10% |
+|  | [Vanillish](../pokemon/vanillish.md) | 20% |
+|  | [Herdier](../pokemon/herdier.md) | 20% |
+|  | [Swellow](../pokemon/swellow.md) | 10% |
+|  | [Floatzel](../pokemon/floatzel.md) | 10% |
+|  | [Sneasel](../pokemon/sneasel.md) | 10% |
+|  | [Delibird](../pokemon/delibird.md) | 10% |
+|  | [Smoochum](../pokemon/smoochum.md) | 10% |
+|  | [Piloswine](../pokemon/piloswine.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 90% |
-| ![Mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) | 10% |
+|  | [Audino](../pokemon/audino.md) | 90% |
+|  | [Mienshao](../pokemon/mienshao.md) | 10% |
 
 
 ## Trainers

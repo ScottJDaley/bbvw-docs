@@ -49,9 +49,9 @@ No known wild location.
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Fusion flare](../moves/fusion-flare.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
-| 1 <span class="pill pill-new">NEW</span> | [Fusion bolt](../moves/fusion-bolt.md) | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
-| 1 <span class="pill pill-new">NEW</span> | - | V create | - | - | - | - |
+| 1 | [Fusion flare](../moves/fusion-flare.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
+| 1 | [Fusion bolt](../moves/fusion-bolt.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
+| 1 | -  <span class="pill pill-new">NEW</span>| V create | - | - | - | - |
 | 1 | [Confusion](../moves/confusion.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
 | 1 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
 | 1 | [Focus energy](../moves/focus-energy.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |

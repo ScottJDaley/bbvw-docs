@@ -74,7 +74,7 @@ None
 | 55 | [Venoshock](../moves/venoshock.md) | ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 10 |
 | 61 | [Wring out](../moves/wring-out.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
 | 64 | [Coil](../moves/coil.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 67 <span class="pill pill-new">NEW</span> | [Gunk shot](../moves/gunk-shot.md) | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 80 | 5 |
+| 67 | [Gunk shot](../moves/gunk-shot.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 80 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -14,4 +14,4 @@ Has a $effect_chance% chance to put the target to sleep.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![meloetta-aria](../img/pokemon/648.png) | [Meloetta-aria](../pokemon/meloetta-aria.md) |
+|  | [Meloetta-aria](../pokemon/meloetta-aria.md) |

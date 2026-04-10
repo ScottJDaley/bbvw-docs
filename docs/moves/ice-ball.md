@@ -14,11 +14,11 @@ Power doubles every turn this move is used in succession after the first, resett
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
-| ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
-| ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
-| ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
-| ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) |
-| ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) |
-| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
-| ![walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) |
+|  | [Delibird](../pokemon/delibird.md) |
+|  | [Marshtomp](../pokemon/marshtomp.md) |
+|  | [Mudkip](../pokemon/mudkip.md) |
+|  | [Poliwag](../pokemon/poliwag.md) |
+|  | [Sealeo](../pokemon/sealeo.md) |
+|  | [Spheal](../pokemon/spheal.md) |
+|  | [Swampert](../pokemon/swampert.md) |
+|  | [Walrein](../pokemon/walrein.md) |

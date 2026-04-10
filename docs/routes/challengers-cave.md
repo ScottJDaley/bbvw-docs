@@ -4,65 +4,81 @@
 ### ![Cave, Normal](../img/items/cave-normal.png){ style='vertical-align:middle;' } Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
-| ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 20% |
-| ![Lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) | 10% |
-| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 10% |
-| ![Woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) | 10% |
-| ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
-| ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
-| ![Hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) | 10% |
-| ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
-| ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 20% |
-| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 10% |
-| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 10% |
-| ![Wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 10% |
-| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 10% |
-| ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
-| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 10% |
-| ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
-| ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 20% |
-| ![Kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) | 10% |
-| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 10% |
-| ![Zweilous](../img/pokemon/634.png) | [Zweilous](../pokemon/zweilous.md) | 10% |
-| ![Medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) | 10% |
-| ![Ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 10% |
-| ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 10% |
+|  | [Mawile](../pokemon/mawile.md) | 20% |
+|  | [Sableye](../pokemon/sableye.md) | 20% |
+|  | [Lickitung](../pokemon/lickitung.md) | 10% |
+|  | [Graveler](../pokemon/graveler.md) | 10% |
+|  | [Woobat](../pokemon/woobat.md) | 10% |
+|  | [Boldore](../pokemon/boldore.md) | 10% |
+|  | [Marowak](../pokemon/marowak.md) | 10% |
+|  | [Hariyama](../pokemon/hariyama.md) | 10% |
+|  | [Mawile](../pokemon/mawile.md) | 20% |
+|  | [Sableye](../pokemon/sableye.md) | 20% |
+|  | [Magneton](../pokemon/magneton.md) | 10% |
+|  | [Golbat](../pokemon/golbat.md) | 10% |
+|  | [Wobbuffet](../pokemon/wobbuffet.md) | 10% |
+|  | [Parasect](../pokemon/parasect.md) | 10% |
+|  | [Marowak](../pokemon/marowak.md) | 10% |
+|  | [Electrode](../pokemon/electrode.md) | 10% |
+|  | [Mawile](../pokemon/mawile.md) | 20% |
+|  | [Sableye](../pokemon/sableye.md) | 20% |
+|  | [Kadabra](../pokemon/kadabra.md) | 10% |
+|  | [Golbat](../pokemon/golbat.md) | 10% |
+|  | [Zweilous](../pokemon/zweilous.md) | 10% |
+|  | [Medicham](../pokemon/medicham.md) | 10% |
+|  | [Ursaring](../pokemon/ursaring.md) | 10% |
+|  | [Donphan](../pokemon/donphan.md) | 10% |
 
 ### ![Cave, Special](../img/items/cave-special.png){ style='vertical-align:middle;' } Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+|  | [Excadrill](../pokemon/excadrill.md) | 50% |
+|  | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+|  | [Excadrill](../pokemon/excadrill.md) | 50% |
+|  | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+|  | [Excadrill](../pokemon/excadrill.md) | 50% |
+|  | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
 ### ![Surf, Normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 90% |
-| ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 10% |
+|  | [Psyduck](../pokemon/psyduck.md) | 90% |
+|  | [Tentacool](../pokemon/tentacool.md) | 10% |
 
 ### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
-| ![Golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 30% |
-| ![Starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 10% |
+|  | [Tentacruel](../pokemon/tentacruel.md) | 60% |
+|  | [Golduck](../pokemon/golduck.md) | 30% |
+|  | [Starmie](../pokemon/starmie.md) | 10% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 90% |
-| ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 10% |
+|  | [Goldeen](../pokemon/goldeen.md) | 90% |
+|  | [Poliwhirl](../pokemon/poliwhirl.md) | 10% |
 
 ### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 60% |
-| ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 30% |
-| ![Poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
-| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
+|  | [Seaking](../pokemon/seaking.md) | 60% |
+|  | [Gyarados](../pokemon/gyarados.md) | 30% |
+|  | [Poliwrath](../pokemon/poliwrath.md) | 5% |
+|  | [Politoed](../pokemon/politoed.md) | 5% |
+
+
+## Trainers
+### Gym Leader Drayden
+**Battle Type:** Rotation Battle  
+**Reward:** [TM82](../moves/dragon-tail.md) Dragon Tail  
+
+#### Drayden’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 93 | Intimidate | White Herb | Earthquake, Dragon Claw, Fly |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 93 | Blaze | Life Orb | Fire Blast, SolarBeam, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 93 | Sheer Force | Life Orb | Dragon Claw, Superpower, Rock Slide |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 93 | Mold Breaker | Life Orb | Earthquake, Dragon Dance, Outrage |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 93 | Sniper | White Herb | Draco Meteor, Waterfall, Outrage |
+| ![Hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) | 95 | Levitate | White Herb | Fire Blast, Dark Pulse, Focus Blast |
 

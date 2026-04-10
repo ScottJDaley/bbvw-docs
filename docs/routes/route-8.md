@@ -37,14 +37,10 @@
 | ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 58 | - | - |  |
 
 ### Rival Bianca – 1
+**Battle Type:** Single Battle  
+
+#### Bianca’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
-| ![Oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) | ? | - | - |  |
-| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | ? | - | - |  |
-
-### Rival Bianca – 5
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 61 | - | Chople Berry | Nasty Plot, Hypnosis, Swift |
 

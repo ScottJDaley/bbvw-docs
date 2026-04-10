@@ -14,5 +14,5 @@ Lowers the target’s accuracy by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
-| ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
+|  | [Alakazam](../pokemon/alakazam.md) |
+|  | [Kadabra](../pokemon/kadabra.md) |

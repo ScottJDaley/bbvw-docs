@@ -14,5 +14,5 @@ Raises the user’s Attack by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
-| ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
+|  | [Cryogonal](../pokemon/cryogonal.md) |
+|  | [Porygon](../pokemon/porygon.md) |

@@ -14,13 +14,13 @@ Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 i
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
-| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
-| ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
-| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
-| ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
-| ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
-| ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
-| ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
-| ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) |
-| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+|  | [Chansey](../pokemon/chansey.md) |
+|  | [Cleffa](../pokemon/cleffa.md) |
+|  | [Delibird](../pokemon/delibird.md) |
+|  | [Happiny](../pokemon/happiny.md) |
+|  | [Igglybuff](../pokemon/igglybuff.md) |
+|  | [Marill](../pokemon/marill.md) |
+|  | [Miltank](../pokemon/miltank.md) |
+|  | [Pichu](../pokemon/pichu.md) |
+|  | [Snubbull](../pokemon/snubbull.md) |
+|  | [Togepi](../pokemon/togepi.md) |

@@ -14,21 +14,21 @@ Hits once for every conscious Pokémon the trainer has.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
-| ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
-| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
-| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
-| ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
-| ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
-| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
-| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
-| ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
-| ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
-| ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
-| ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
-| ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
-| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
-| ![sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) |
+|  | [Aipom](../pokemon/aipom.md) |
+|  | [Charmander](../pokemon/charmander.md) |
+|  | [Cottonee](../pokemon/cottonee.md) |
+|  | [Diglett](../pokemon/diglett.md) |
+|  | [Ekans](../pokemon/ekans.md) |
+|  | [Girafarig](../pokemon/girafarig.md) |
+|  | [Honchkrow](../pokemon/honchkrow.md) |
+|  | [Houndoom](../pokemon/houndoom.md) |
+|  | [Houndour](../pokemon/houndour.md) |
+|  | [Mankey](../pokemon/mankey.md) |
+|  | [Murkrow](../pokemon/murkrow.md) |
+|  | [Nidoran-f](../pokemon/nidoran-f.md) |
+|  | [Nidoran-m](../pokemon/nidoran-m.md) |
+|  | [Nuzleaf](../pokemon/nuzleaf.md) |
+|  | [Sandile](../pokemon/sandile.md) |
+|  | [Seedot](../pokemon/seedot.md) |
+|  | [Shiftry](../pokemon/shiftry.md) |
+|  | [Sneasel](../pokemon/sneasel.md) |

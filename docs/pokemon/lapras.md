@@ -58,8 +58,8 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
-| 1 <span class="pill pill-new">NEW</span> | [Future sight](../moves/future-sight.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| 1 | [Bite](../moves/bite.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
+| 1 | [Future sight](../moves/future-sight.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 1 | [Growl](../moves/growl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
 | 1 | [Sing](../moves/sing.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 55 | 15 |
 | 1 | [Water gun](../moves/water-gun.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |
@@ -74,11 +74,11 @@ None
 | 37 | [Brine](../moves/brine.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 10 |
 | 43 | [Safeguard](../moves/safeguard.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 25 |
 | 49 | [Hydro pump](../moves/hydro-pump.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
-| 53 <span class="pill pill-new">NEW</span> | [Dragon dance](../moves/dragon-dance.md) | ![dragon](../img/types/dragon.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 57 <span class="pill pill-new">NEW</span> | [Outrage](../moves/outrage.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
-| 61 <span class="pill pill-new">NEW</span> | [Aqua tail](../moves/aqua-tail.md) | ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
-| 65 <span class="pill pill-shifted">SHIFTED (from 55)</span> | [Sheer cold](../moves/sheer-cold.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |
-| 69 <span class="pill pill-new">NEW</span> | [Shell smash](../moves/shell-smash.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 53 | [Dragon dance](../moves/dragon-dance.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 57 | [Outrage](../moves/outrage.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
+| 61 | [Aqua tail](../moves/aqua-tail.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
+| 65 | [Sheer cold](../moves/sheer-cold.md)  <span class="pill pill-shifted">SHIFTED (from 55)</span>| ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |
+| 69 | [Shell smash](../moves/shell-smash.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

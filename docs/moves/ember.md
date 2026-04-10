@@ -14,44 +14,44 @@ Has a $effect_chance% chance to burn the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
-| ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
-| ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) |
-| ![castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
-| ![charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) |
-| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
-| ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
-| ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
-| ![flareon](../img/pokemon/136.png) | [Flareon](../pokemon/flareon.md) |
-| ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
-| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
-| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
-| ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
-| ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
-| ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
-| ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
-| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
-| ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
-| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
-| ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
-| ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
-| ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
-| ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
-| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
-| ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
-| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
-| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
-| ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) |
-| ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
-| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
-| ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
-| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
-| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
-| ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
-| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |
+|  | [Bagon](../pokemon/bagon.md) |
+|  | [Blaziken](../pokemon/blaziken.md) |
+|  | [Camerupt](../pokemon/camerupt.md) |
+|  | [Castform](../pokemon/castform.md) |
+|  | [Charizard](../pokemon/charizard.md) |
+|  | [Charmander](../pokemon/charmander.md) |
+|  | [Charmeleon](../pokemon/charmeleon.md) |
+|  | [Chimchar](../pokemon/chimchar.md) |
+|  | [Combusken](../pokemon/combusken.md) |
+|  | [Cyndaquil](../pokemon/cyndaquil.md) |
+|  | [Emboar](../pokemon/emboar.md) |
+|  | [Entei](../pokemon/entei.md) |
+|  | [Flareon](../pokemon/flareon.md) |
+|  | [Growlithe](../pokemon/growlithe.md) |
+|  | [Houndoom](../pokemon/houndoom.md) |
+|  | [Houndour](../pokemon/houndour.md) |
+|  | [Infernape](../pokemon/infernape.md) |
+|  | [Lampent](../pokemon/lampent.md) |
+|  | [Larvesta](../pokemon/larvesta.md) |
+|  | [Litwick](../pokemon/litwick.md) |
+|  | [Magby](../pokemon/magby.md) |
+|  | [Magcargo](../pokemon/magcargo.md) |
+|  | [Magmar](../pokemon/magmar.md) |
+|  | [Magmortar](../pokemon/magmortar.md) |
+|  | [Moltres](../pokemon/moltres.md) |
+|  | [Monferno](../pokemon/monferno.md) |
+|  | [Ninetales](../pokemon/ninetales.md) |
+|  | [Numel](../pokemon/numel.md) |
+|  | [Pignite](../pokemon/pignite.md) |
+|  | [Ponyta](../pokemon/ponyta.md) |
+|  | [Quilava](../pokemon/quilava.md) |
+|  | [Rapidash](../pokemon/rapidash.md) |
+|  | [Salamence](../pokemon/salamence.md) |
+|  | [Shelgon](../pokemon/shelgon.md) |
+|  | [Slugma](../pokemon/slugma.md) |
+|  | [Tepig](../pokemon/tepig.md) |
+|  | [Torchic](../pokemon/torchic.md) |
+|  | [Torkoal](../pokemon/torkoal.md) |
+|  | [Typhlosion](../pokemon/typhlosion.md) |
+|  | [Volcarona](../pokemon/volcarona.md) |
+|  | [Vulpix](../pokemon/vulpix.md) |

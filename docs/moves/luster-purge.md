@@ -14,4 +14,4 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |
+|  | [Latios](../pokemon/latios.md) |

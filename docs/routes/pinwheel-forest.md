@@ -4,91 +4,91 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) | 20% |
-| ![Timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) | 20% |
-| ![Meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) | 10% |
-| ![Spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) | 10% |
-| ![Ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) | 10% |
-| ![Machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) | 10% |
-| ![Makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) | 10% |
-| ![Croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) | 5% |
-| ![Slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) | 5% |
-| ![Cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) | 20% |
-| ![Petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) | 20% |
-| ![Sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) | 10% |
-| ![Venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) | 10% |
-| ![Oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) | 10% |
-| ![Bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) | 10% |
-| ![Shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) | 5% |
-| ![Exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) | 5% |
-| ![Murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 5% |
-| ![Misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 5% |
+|  | [Tympole](../pokemon/tympole.md) | 20% |
+|  | [Timburr](../pokemon/timburr.md) | 20% |
+|  | [Meditite](../pokemon/meditite.md) | 10% |
+|  | [Spinarak](../pokemon/spinarak.md) | 10% |
+|  | [Ledyba](../pokemon/ledyba.md) | 10% |
+|  | [Machop](../pokemon/machop.md) | 10% |
+|  | [Makuhita](../pokemon/makuhita.md) | 10% |
+|  | [Croagunk](../pokemon/croagunk.md) | 5% |
+|  | [Slakoth](../pokemon/slakoth.md) | 5% |
+|  | [Cottonee](../pokemon/cottonee.md) | 20% |
+|  | [Petilil](../pokemon/petilil.md) | 20% |
+|  | [Sewaddle](../pokemon/sewaddle.md) | 10% |
+|  | [Venipede](../pokemon/venipede.md) | 10% |
+|  | [Oddish](../pokemon/oddish.md) | 10% |
+|  | [Bellsprout](../pokemon/bellsprout.md) | 10% |
+|  | [Shroomish](../pokemon/shroomish.md) | 5% |
+|  | [Exeggcute](../pokemon/exeggcute.md) | 5% |
+|  | [Murkrow](../pokemon/murkrow.md) | 5% |
+|  | [Misdreavus](../pokemon/misdreavus.md) | 5% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 20% |
-| ![Sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 20% |
-| ![Dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) | 10% |
-| ![Doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) | 10% |
-| ![Snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) | 10% |
-| ![Aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) | 10% |
-| ![Cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) | 9% |
-| ![Burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) | 9% |
-| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 2% |
-| ![Tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) | 20% |
-| ![Roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 20% |
-| ![Swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) | 10% |
-| ![Whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) | 10% |
-| ![Gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) | 10% |
-| ![Weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) | 10% |
-| ![Carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) | 5% |
-| ![Scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 5% |
-| ![Pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 5% |
-| ![Vigoroth](../img/pokemon/288.png) | [Vigoroth](../pokemon/vigoroth.md) | 5% |
+|  | [Throh](../pokemon/throh.md) | 20% |
+|  | [Sawk](../pokemon/sawk.md) | 20% |
+|  | [Dunsparce](../pokemon/dunsparce.md) | 10% |
+|  | [Doduo](../pokemon/doduo.md) | 10% |
+|  | [Snubbull](../pokemon/snubbull.md) | 10% |
+|  | [Aipom](../pokemon/aipom.md) | 10% |
+|  | [Cubone](../pokemon/cubone.md) | 9% |
+|  | [Burmy](../pokemon/burmy.md) | 9% |
+|  | [Heracross](../pokemon/heracross.md) | 2% |
+|  | [Tangela](../pokemon/tangela.md) | 20% |
+|  | [Roselia](../pokemon/roselia.md) | 20% |
+|  | [Swadloon](../pokemon/swadloon.md) | 10% |
+|  | [Whirlipede](../pokemon/whirlipede.md) | 10% |
+|  | [Gloom](../pokemon/gloom.md) | 10% |
+|  | [Weepinbell](../pokemon/weepinbell.md) | 10% |
+|  | [Carnivine](../pokemon/carnivine.md) | 5% |
+|  | [Scyther](../pokemon/scyther.md) | 5% |
+|  | [Pinsir](../pokemon/pinsir.md) | 5% |
+|  | [Vigoroth](../pokemon/vigoroth.md) | 5% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 50% |
-| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | 10% |
-| ![Tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) | 10% |
-| ![Riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) | 10% |
-| ![Charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) | 5% |
-| ![Cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) | 5% |
-| ![Torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) | 5% |
-| ![Chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) | 5% |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 10% |
-| ![Pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) | 10% |
-| ![Panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) | 10% |
-| ![Pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) | 10% |
-| ![Bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) | 5% |
-| ![Chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) | 5% |
-| ![Treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) | 5% |
-| ![Turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) | 5% |
+|  | [Audino](../pokemon/audino.md) | 50% |
+|  | [Tepig](../pokemon/tepig.md) | 10% |
+|  | [Tyrogue](../pokemon/tyrogue.md) | 10% |
+|  | [Riolu](../pokemon/riolu.md) | 10% |
+|  | [Charmander](../pokemon/charmander.md) | 5% |
+|  | [Cyndaquil](../pokemon/cyndaquil.md) | 5% |
+|  | [Torchic](../pokemon/torchic.md) | 5% |
+|  | [Chimchar](../pokemon/chimchar.md) | 5% |
+|  | [Audino](../pokemon/audino.md) | 40% |
+|  | [Snivy](../pokemon/snivy.md) | 10% |
+|  | [Pansage](../pokemon/pansage.md) | 10% |
+|  | [Panpour](../pokemon/panpour.md) | 10% |
+|  | [Pansear](../pokemon/pansear.md) | 10% |
+|  | [Bulbasaur](../pokemon/bulbasaur.md) | 5% |
+|  | [Chikorita](../pokemon/chikorita.md) | 5% |
+|  | [Treecko](../pokemon/treecko.md) | 5% |
+|  | [Turtwig](../pokemon/turtwig.md) | 5% |
 
 ### ![Surf, Normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) | 100% |
+|  | [Surskit](../pokemon/surskit.md) | 100% |
 
 ### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) | 100% |
+|  | [Masquerain](../pokemon/masquerain.md) | 100% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 60% |
-| ![Poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) | 40% |
+|  | [Psyduck](../pokemon/psyduck.md) | 60% |
+|  | [Poliwag](../pokemon/poliwag.md) | 40% |
 
 ### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 95% |
-| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
+|  | [Poliwhirl](../pokemon/poliwhirl.md) | 95% |
+|  | [Politoed](../pokemon/politoed.md) | 5% |
 
 
 ## Trainers

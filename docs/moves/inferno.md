@@ -14,22 +14,22 @@ Has a $effect_chance% chance to burn the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
-| ![charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
-| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
-| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
-| ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
-| ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
-| ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
-| ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
-| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
-| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
-| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
-| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
-| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
-| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |
+|  | [Charizard](../pokemon/charizard.md) |
+|  | [Charmander](../pokemon/charmander.md) |
+|  | [Charmeleon](../pokemon/charmeleon.md) |
+|  | [Cyndaquil](../pokemon/cyndaquil.md) |
+|  | [Heatmor](../pokemon/heatmor.md) |
+|  | [Houndoom](../pokemon/houndoom.md) |
+|  | [Houndour](../pokemon/houndour.md) |
+|  | [Lampent](../pokemon/lampent.md) |
+|  | [Litwick](../pokemon/litwick.md) |
+|  | [Misdreavus](../pokemon/misdreavus.md) |
+|  | [Mismagius](../pokemon/mismagius.md) |
+|  | [Ponyta](../pokemon/ponyta.md) |
+|  | [Quilava](../pokemon/quilava.md) |
+|  | [Rapidash](../pokemon/rapidash.md) |
+|  | [Slugma](../pokemon/slugma.md) |
+|  | [Torkoal](../pokemon/torkoal.md) |
+|  | [Typhlosion](../pokemon/typhlosion.md) |
+|  | [Victini](../pokemon/victini.md) |
+|  | [Vulpix](../pokemon/vulpix.md) |

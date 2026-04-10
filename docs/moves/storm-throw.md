@@ -14,9 +14,9 @@ Always scores a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
-| ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
-| ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
-| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |
-| ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
-| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+|  | [Beartic](../pokemon/beartic.md) |
+|  | [Cubchoo](../pokemon/cubchoo.md) |
+|  | [Drapion](../pokemon/drapion.md) |
+|  | [Pinsir](../pokemon/pinsir.md) |
+|  | [Skorupi](../pokemon/skorupi.md) |
+|  | [Throh](../pokemon/throh.md) |

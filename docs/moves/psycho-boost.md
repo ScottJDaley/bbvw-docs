@@ -14,7 +14,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![deoxys-normal](../img/pokemon/386.png) | [Deoxys-normal](../pokemon/deoxys-normal.md) |
-| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
-| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
-| ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |
+|  | [Deoxys-normal](../pokemon/deoxys-normal.md) |
+|  | [Jynx](../pokemon/jynx.md) |
+|  | [Smoochum](../pokemon/smoochum.md) |
+|  | [Spinda](../pokemon/spinda.md) |

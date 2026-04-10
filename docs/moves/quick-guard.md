@@ -14,17 +14,17 @@ Prevents any priority moves from hitting friendly Pokémon this turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) |
-| ![archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) |
-| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
-| ![cobalion](../img/pokemon/638.png) | [Cobalion](../pokemon/cobalion.md) |
-| ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) |
-| ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
-| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
-| ![keldeo-ordinary](../img/pokemon/647.png) | [Keldeo-ordinary](../pokemon/keldeo-ordinary.md) |
-| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
-| ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
-| ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) |
-| ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
-| ![virizion](../img/pokemon/640.png) | [Virizion](../pokemon/virizion.md) |
+|  | [Archen](../pokemon/archen.md) |
+|  | [Archeops](../pokemon/archeops.md) |
+|  | [Chimchar](../pokemon/chimchar.md) |
+|  | [Cobalion](../pokemon/cobalion.md) |
+|  | [Escavalier](../pokemon/escavalier.md) |
+|  | [Hitmonchan](../pokemon/hitmonchan.md) |
+|  | [Hitmontop](../pokemon/hitmontop.md) |
+|  | [Keldeo-ordinary](../pokemon/keldeo-ordinary.md) |
+|  | [Lucario](../pokemon/lucario.md) |
+|  | [Mienfoo](../pokemon/mienfoo.md) |
+|  | [Mr-mime](../pokemon/mr-mime.md) |
+|  | [Sawk](../pokemon/sawk.md) |
+|  | [Terrakion](../pokemon/terrakion.md) |
+|  | [Virizion](../pokemon/virizion.md) |

@@ -52,13 +52,13 @@ Evolve from [Pansear](../pokemon/pansear.md)
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | - | Nasty plot / nasty plot / nasty plot | - | - | - | - |
-| 1 <span class="pill pill-new">NEW</span> | - | Low kick / low kick / low kick | - | - | - | - |
+| 1 | -  <span class="pill pill-new">NEW</span>| Nasty plot / nasty plot / nasty plot | - | - | - | - |
+| 1 | -  <span class="pill pill-new">NEW</span>| Low kick / low kick / low kick | - | - | - | - |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Lick](../moves/lick.md) | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 30 |
 | 1 | [Fury swipes](../moves/fury-swipes.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 18 | 80 | 15 |
 | 1 | [Flame burst](../moves/flame-burst.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
-| 49 <span class="pill pill-new">NEW</span> | - | Leaf storm / overheat / water spout | - | - | - | - |
+| 49 | -  <span class="pill pill-new">NEW</span>| Leaf storm / overheat / water spout | - | - | - | - |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

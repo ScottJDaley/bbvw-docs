@@ -57,20 +57,20 @@ Evolve from [Nosepass](../pokemon/nosepass.md)
 | 1 | [Magnet rise](../moves/magnet-rise.md) | ![electric](../img/types/electric.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 1 | [Magnet bomb](../moves/magnet-bomb.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 18 | [Rock blast](../moves/rock-blast.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 25 | 90 | 10 |
-| 22 <span class="pill pill-new">NEW</span> | [Shock wave](../moves/shock-wave.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
+| 22 | [Shock wave](../moves/shock-wave.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 25 | [Thunder wave](../moves/thunder-wave.md) | ![electric](../img/types/electric.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |
 | 25 | [Spark](../moves/spark.md) | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
-| 28 <span class="pill pill-new">NEW</span> | - | Ancientpower | - | - | - | - |
+| 28 | -  <span class="pill pill-new">NEW</span>| Ancientpower | - | - | - | - |
 | 31 | [Rock slide](../moves/rock-slide.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 90 | 10 |
-| 37 <span class="pill pill-shifted">SHIFTED (from 79)</span> | [Earth power](../moves/earth-power.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 37 | [Earth power](../moves/earth-power.md)  <span class="pill pill-shifted">SHIFTED (from 79)</span>| ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
 | 43 | [Rest](../moves/rest.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 49 | [Power gem](../moves/power-gem.md) | ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 20 |
 | 55 | [Discharge](../moves/discharge.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 61 | [Stone edge](../moves/stone-edge.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 80 | 5 |
 | 67 | [Zap cannon](../moves/zap-cannon.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 50 | 5 |
 | 73 | [Lock on](../moves/lock-on.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| 79 <span class="pill pill-shifted">SHIFTED (from 37)</span> | [Sandstorm](../moves/sandstorm.md) | ![rock](../img/types/rock.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
-| 85 <span class="pill pill-new">NEW</span> | [Head smash](../moves/head-smash.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 80 | 5 |
+| 79 | [Sandstorm](../moves/sandstorm.md)  <span class="pill pill-shifted">SHIFTED (from 37)</span>| ![rock](../img/types/rock.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 85 | [Head smash](../moves/head-smash.md)  <span class="pill pill-new">NEW</span>| ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 80 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

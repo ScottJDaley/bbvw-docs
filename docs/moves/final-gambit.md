@@ -14,21 +14,21 @@ Inflicts damage equal to the user’s remaining HP.  User faints.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
-| ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
-| ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
-| ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
-| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
-| ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
-| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
-| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
-| ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
-| ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
-| ![staraptor](../img/pokemon/398.png) | [Staraptor](../pokemon/staraptor.md) |
-| ![staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) |
-| ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
-| ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |
+|  | [Accelgor](../pokemon/accelgor.md) |
+|  | [Basculin-red-striped](../pokemon/basculin.md) |
+|  | [Basculin-red-striped](../pokemon/basculin.md) |
+|  | [Diglett](../pokemon/diglett.md) |
+|  | [Mankey](../pokemon/mankey.md) |
+|  | [Nincada](../pokemon/nincada.md) |
+|  | [Primeape](../pokemon/primeape.md) |
+|  | [Raticate](../pokemon/raticate.md) |
+|  | [Rattata](../pokemon/rattata.md) |
+|  | [Riolu](../pokemon/riolu.md) |
+|  | [Seviper](../pokemon/seviper.md) |
+|  | [Shelmet](../pokemon/shelmet.md) |
+|  | [Shuckle](../pokemon/shuckle.md) |
+|  | [Staraptor](../pokemon/staraptor.md) |
+|  | [Staravia](../pokemon/staravia.md) |
+|  | [Starly](../pokemon/starly.md) |
+|  | [Victini](../pokemon/victini.md) |
+|  | [Zangoose](../pokemon/zangoose.md) |

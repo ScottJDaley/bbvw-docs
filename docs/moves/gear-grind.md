@@ -14,6 +14,6 @@ Hits twice in one turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
-| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
-| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+|  | [Klang](../pokemon/klang.md) |
+|  | [Klink](../pokemon/klink.md) |
+|  | [Klinklang](../pokemon/klinklang.md) |

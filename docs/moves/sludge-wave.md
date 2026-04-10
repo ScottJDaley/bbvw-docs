@@ -14,46 +14,46 @@ Has a $effect_chance% chance to poison the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
-| ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) |
-| ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
-| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
-| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) |
-| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
-| ![frillish-male](../img/pokemon/592.png) | [Frillish-male](../pokemon/frillish-male.md) |
-| ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
-| ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
-| ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
-| ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
-| ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
-| ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
-| ![jellicent-male](../img/pokemon/593.png) | [Jellicent-male](../pokemon/jellicent-male.md) |
-| ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
-| ![landorus-incarnate](../img/pokemon/645.png) | [Landorus-incarnate](../pokemon/landorus-incarnate.md) |
-| ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
-| ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
-| ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
-| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
-| ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
-| ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
-| ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
-| ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
-| ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
-| ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
-| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
-| ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
-| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
-| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
-| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
-| ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |
-| ![thundurus-incarnate](../img/pokemon/642.png) | [Thundurus-incarnate](../pokemon/thundurus-incarnate.md) |
-| ![tornadus-incarnate](../img/pokemon/641.png) | [Tornadus-incarnate](../pokemon/tornadus-incarnate.md) |
-| ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
-| ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
-| ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
-| ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |
-| ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
-| ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+|  | [Arbok](../pokemon/arbok.md) |
+|  | [Cradily](../pokemon/cradily.md) |
+|  | [Crawdaunt](../pokemon/crawdaunt.md) |
+|  | [Croagunk](../pokemon/croagunk.md) |
+|  | [Dugtrio](../pokemon/dugtrio.md) |
+|  | [Ekans](../pokemon/ekans.md) |
+|  | [Frillish-male](../pokemon/frillish-male.md) |
+|  | [Garbodor](../pokemon/garbodor.md) |
+|  | [Gastly](../pokemon/gastly.md) |
+|  | [Gastrodon](../pokemon/gastrodon.md) |
+|  | [Gengar](../pokemon/gengar.md) |
+|  | [Grimer](../pokemon/grimer.md) |
+|  | [Gulpin](../pokemon/gulpin.md) |
+|  | [Haunter](../pokemon/haunter.md) |
+|  | [Jellicent-male](../pokemon/jellicent-male.md) |
+|  | [Koffing](../pokemon/koffing.md) |
+|  | [Landorus-incarnate](../pokemon/landorus-incarnate.md) |
+|  | [Marshtomp](../pokemon/marshtomp.md) |
+|  | [Mew](../pokemon/mew.md) |
+|  | [Mudkip](../pokemon/mudkip.md) |
+|  | [Muk](../pokemon/muk.md) |
+|  | [Nidoking](../pokemon/nidoking.md) |
+|  | [Nidoqueen](../pokemon/nidoqueen.md) |
+|  | [Octillery](../pokemon/octillery.md) |
+|  | [Palpitoad](../pokemon/palpitoad.md) |
+|  | [Quagsire](../pokemon/quagsire.md) |
+|  | [Qwilfish](../pokemon/qwilfish.md) |
+|  | [Seismitoad](../pokemon/seismitoad.md) |
+|  | [Seviper](../pokemon/seviper.md) |
+|  | [Shuckle](../pokemon/shuckle.md) |
+|  | [Stunfisk](../pokemon/stunfisk.md) |
+|  | [Swalot](../pokemon/swalot.md) |
+|  | [Swampert](../pokemon/swampert.md) |
+|  | [Tentacool](../pokemon/tentacool.md) |
+|  | [Tentacruel](../pokemon/tentacruel.md) |
+|  | [Thundurus-incarnate](../pokemon/thundurus-incarnate.md) |
+|  | [Tornadus-incarnate](../pokemon/tornadus-incarnate.md) |
+|  | [Toxicroak](../pokemon/toxicroak.md) |
+|  | [Trubbish](../pokemon/trubbish.md) |
+|  | [Tympole](../pokemon/tympole.md) |
+|  | [Venusaur](../pokemon/venusaur.md) |
+|  | [Weezing](../pokemon/weezing.md) |
+|  | [Wooper](../pokemon/wooper.md) |

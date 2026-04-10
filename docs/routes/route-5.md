@@ -4,43 +4,51 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) | 20% |
-| ![Gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) | 20% |
-| ![Koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) | 10% |
-| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 10% |
-| ![Gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) | 10% |
-| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 10% |
-| ![Ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) | 5% |
-| ![Mime Jr.](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
-| ![Bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
-| ![Pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 5% |
+|  | [Solosis](../pokemon/solosis.md) | 20% |
+|  | [Gothita](../pokemon/gothita.md) | 20% |
+|  | [Koffing](../pokemon/koffing.md) | 10% |
+|  | [Trubbish](../pokemon/trubbish.md) | 10% |
+|  | [Gulpin](../pokemon/gulpin.md) | 10% |
+|  | [Grimer](../pokemon/grimer.md) | 10% |
+|  | [Ditto](../pokemon/ditto.md) | 5% |
+|  | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
+|  | [Bonsly](../pokemon/bonsly.md) | 5% |
+|  | [Pachirisu](../pokemon/pachirisu.md) | 5% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) | 20% |
-| ![Nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) | 20% |
-| ![Rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) | 10% |
-| ![Lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) | 10% |
-| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 10% |
-| ![Minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) | 10% |
-| ![Miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) | 5% |
-| ![Tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) | 5% |
-| ![Bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) | 5% |
-| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 5% |
+|  | [Nidorina](../pokemon/nidorina.md) | 20% |
+|  | [Nidorino](../pokemon/nidorino.md) | 20% |
+|  | [Rufflet](../pokemon/rufflet.md) | 10% |
+|  | [Lickitung](../pokemon/lickitung.md) | 10% |
+|  | [Smeargle](../pokemon/smeargle.md) | 10% |
+|  | [Minccino](../pokemon/minccino.md) | 10% |
+|  | [Miltank](../pokemon/miltank.md) | 5% |
+|  | [Tauros](../pokemon/tauros.md) | 5% |
+|  | [Bagon](../pokemon/bagon.md) | 5% |
+|  | [Munchlax](../pokemon/munchlax.md) | 5% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 20% |
-| ![Cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) | 10% |
-| ![Nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) | 10% |
-| ![Nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) | 10% |
-| ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 10% |
+|  | [Audino](../pokemon/audino.md) | 40% |
+|  | [Emolga](../pokemon/emolga.md) | 20% |
+|  | [Cinccino](../pokemon/cinccino.md) | 10% |
+|  | [Nidoqueen](../pokemon/nidoqueen.md) | 10% |
+|  | [Nidoking](../pokemon/nidoking.md) | 10% |
+|  | [Braviary](../pokemon/braviary.md) | 10% |
 
 
 ## Trainers
+### Rival Cheren – 1
+**Battle Type:** Single Battle  
+
+#### Cheren’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+
 ### Preschooler Sarah
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |

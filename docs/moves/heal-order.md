@@ -14,4 +14,4 @@ Heals the user by half its max HP.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |
+|  | [Vespiquen](../pokemon/vespiquen.md) |

@@ -14,4 +14,4 @@ Heals the user by half its max HP.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
+|  | [Miltank](../pokemon/miltank.md) |

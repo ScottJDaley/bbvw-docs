@@ -14,24 +14,24 @@ Power is higher the more the user’s stats have been raised, to a maximum of 31
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
-| ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
-| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
-| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
-| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
-| ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
-| ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
-| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
-| ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
-| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
-| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
-| ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
-| ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
-| ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
-| ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
-| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
-| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
-| ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
-| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
-| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
+|  | [Chimecho](../pokemon/chimecho.md) |
+|  | [Chingling](../pokemon/chingling.md) |
+|  | [Clefable](../pokemon/clefable.md) |
+|  | [Clefairy](../pokemon/clefairy.md) |
+|  | [Cleffa](../pokemon/cleffa.md) |
+|  | [Eevee](../pokemon/eevee.md) |
+|  | [Gallade](../pokemon/gallade.md) |
+|  | [Gardevoir](../pokemon/gardevoir.md) |
+|  | [Kirlia](../pokemon/kirlia.md) |
+|  | [Munna](../pokemon/munna.md) |
+|  | [Natu](../pokemon/natu.md) |
+|  | [Ralts](../pokemon/ralts.md) |
+|  | [Sigilyph](../pokemon/sigilyph.md) |
+|  | [Swoobat](../pokemon/swoobat.md) |
+|  | [Togekiss](../pokemon/togekiss.md) |
+|  | [Togepi](../pokemon/togepi.md) |
+|  | [Togetic](../pokemon/togetic.md) |
+|  | [Unown](../pokemon/unown.md) |
+|  | [Victini](../pokemon/victini.md) |
+|  | [Woobat](../pokemon/woobat.md) |
+|  | [Xatu](../pokemon/xatu.md) |

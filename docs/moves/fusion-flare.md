@@ -14,5 +14,5 @@ With Fusion Bolt, inflicts double damage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![reshiram](../img/pokemon/643.png) | [Reshiram](../pokemon/reshiram.md) |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
+|  | [Reshiram](../pokemon/reshiram.md) |
+|  | [Victini](../pokemon/victini.md) |

@@ -14,4 +14,4 @@ Has an increased chance for a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
+|  | [Palkia](../pokemon/palkia.md) |

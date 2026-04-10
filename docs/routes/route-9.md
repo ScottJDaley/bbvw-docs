@@ -4,33 +4,33 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) | 20% |
-| ![Duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) | 20% |
-| ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 10% |
-| ![Minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) | 10% |
-| ![Pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) | 10% |
-| ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10% |
-| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 10% |
-| ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 10% |
+|  | [Gothorita](../pokemon/gothorita.md) | 20% |
+|  | [Duosion](../pokemon/duosion.md) | 20% |
+|  | [Kirlia](../pokemon/kirlia.md) | 10% |
+|  | [Minccino](../pokemon/minccino.md) | 10% |
+|  | [Pawniard](../pokemon/pawniard.md) | 10% |
+|  | [Skitty](../pokemon/skitty.md) | 10% |
+|  | [Liepard](../pokemon/liepard.md) | 10% |
+|  | [Persian](../pokemon/persian.md) | 10% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 20% |
-| ![Luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) | 20% |
-| ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 10% |
-| ![Cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) | 10% |
-| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 10% |
-| ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 10% |
-| ![Houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 10% |
-| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 10% |
+|  | [Flaaffy](../pokemon/flaaffy.md) | 20% |
+|  | [Luxio](../pokemon/luxio.md) | 20% |
+|  | [Hypno](../pokemon/hypno.md) | 10% |
+|  | [Cinccino](../pokemon/cinccino.md) | 10% |
+|  | [Bisharp](../pokemon/bisharp.md) | 10% |
+|  | [Garbodor](../pokemon/garbodor.md) | 10% |
+|  | [Houndoom](../pokemon/houndoom.md) | 10% |
+|  | [Granbull](../pokemon/granbull.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 90% |
-| ![Gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) | 5% |
-| ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 5% |
+|  | [Audino](../pokemon/audino.md) | 90% |
+|  | [Gothitelle](../pokemon/gothitelle.md) | 5% |
+|  | [Reuniclus](../pokemon/reuniclus.md) | 5% |
 
 
 ## Trainers

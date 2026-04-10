@@ -14,15 +14,15 @@ Poisons the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
-| ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
-| ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
-| ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
-| ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
-| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
-| ![skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) |
-| ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
-| ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
-| ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
-| ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
+|  | [Drowzee](../pokemon/drowzee.md) |
+|  | [Garbodor](../pokemon/garbodor.md) |
+|  | [Grimer](../pokemon/grimer.md) |
+|  | [Gulpin](../pokemon/gulpin.md) |
+|  | [Hypno](../pokemon/hypno.md) |
+|  | [Koffing](../pokemon/koffing.md) |
+|  | [Muk](../pokemon/muk.md) |
+|  | [Skuntank](../pokemon/skuntank.md) |
+|  | [Stunky](../pokemon/stunky.md) |
+|  | [Swalot](../pokemon/swalot.md) |
+|  | [Trubbish](../pokemon/trubbish.md) |
+|  | [Weezing](../pokemon/weezing.md) |

@@ -56,8 +56,8 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 <span class="pill pill-new">NEW</span> | - | Nasty plot / nasty plot / nasty plot | - | - | - | - |
-| 1 <span class="pill pill-new">NEW</span> | - | Low kick / low kick / low kick | - | - | - | - |
+| 1 | -  <span class="pill pill-new">NEW</span>| Nasty plot / nasty plot / nasty plot | - | - | - | - |
+| 1 | -  <span class="pill pill-new">NEW</span>| Low kick / low kick / low kick | - | - | - | - |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 4 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 7 | [Lick](../moves/lick.md) | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 30 |
@@ -73,7 +73,7 @@ None
 | 37 | [Recycle](../moves/recycle.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 40 | [Natural gift](../moves/natural-gift.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 43 | [Crunch](../moves/crunch.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
-| 49 <span class="pill pill-new">NEW</span> | - | Leaf storm / overheat / water spout | - | - | - | - |
+| 49 | -  <span class="pill pill-new">NEW</span>| Leaf storm / overheat / water spout | - | - | - | - |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

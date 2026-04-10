@@ -2,11 +2,6 @@
 
 
 ## Trainers
-### PKMN Trainer N – 1
-| Sprite | Pokemon | Level | Ability | Item | Moves |
-| --- | --- | --- | --- | --- | --- |
-| ![Nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) | 6 | - | - |  |
-
 ### Lass Dye
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
@@ -37,7 +32,28 @@
 | ![Delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) | 18 | - | - |  |
 
 ### PKMN Trainer N – 2
+**Battle Type:** Double Battle  
+
+#### N’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 19 | - | - |  |
+| ![Bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 19 | - | - |  |
+| ![Tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) | 19 | - | - |  |
+| ![Vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) | 19 | - | - |  |
+| ![Zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) | 19 | - | - |  |
+
+### Gym Leader Lenora
+**Battle Type:** Double Battle (Initial) / Single Battle (Rematch)  
+**Reward:** [TM67](../moves/retaliate.md) Retaliate  
+
+#### Lenora’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 18 | Intimidate | - | Retaliate, Hypnosis, Disable, Extrasensory |
+| ![Herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 18 | Intimidate | - | Retaliate, Bite, Helping Hand, Charm |
+| ![Furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) | 18 | Keen Eye | - | Retaliate, Follow Me, Thunderbolt, Reversal |
+| ![Bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) | 18 | Simple | - | Retaliate, Curse, Aqua Tail, Amnesia |
+| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 20 | Keen Eye | Sitrus Berry | Retaliate, Hypnosis, Super Fang, Crunch |
+| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 20 | Sap Sipper | Sitrus Berry | Retaliate, Aerial Ace, Rock Tomb, Revenge |
 

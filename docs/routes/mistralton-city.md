@@ -47,3 +47,17 @@
 | ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 52 | - | - |  |
 | ![Pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) | 52 | - | - |  |
 
+### Gym Leader Skyla
+**Battle Type:** Triple Battle  
+**Reward:** [TM62](../moves/acrobatics.md) Acrobatics  
+
+#### Skyla’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 54 | Big Pecks | - | Brave Bird, Tailwind, Rest |
+| ![Skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 54 | Sturdy | - | Brave Bird, Steel Wing, Roost |
+| ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 54 | Sheer Force | - | Brave Bird, Crush Claw, Bulk Up |
+| ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 56 | Defeatist | - | Acrobatics, Earthquake, Dragon Claw |
+| ![Gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 56 | Hyper Cutter | - | Acrobatics, Earthquake, Thunder Fang |
+| ![Swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) | 56 | Big Pecks | - | Hurricane, Ice Beam, Tailwind |
+

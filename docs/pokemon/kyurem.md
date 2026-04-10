@@ -64,8 +64,8 @@ No known wild location.
 | 50 | [Glaciate](../moves/glaciate.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 10 |
 | 57 | [Dragon pulse](../moves/dragon-pulse.md) | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
 | 71 | [Endeavor](../moves/endeavor.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
-| 78 <span class="pill pill-new">NEW</span> | - | Ice burn | - | - | - | - |
-| 78 <span class="pill pill-new">NEW</span> | - | Freeze shock | - | - | - | - |
+| 78 | -  <span class="pill pill-new">NEW</span>| Ice burn | - | - | - | - |
+| 78 | -  <span class="pill pill-new">NEW</span>| Freeze shock | - | - | - | - |
 | 78 | [Blizzard](../moves/blizzard.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 5 |
 | 85 | [Outrage](../moves/outrage.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 92 | [Hyper voice](../moves/hyper-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |

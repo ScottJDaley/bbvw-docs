@@ -14,13 +14,13 @@ Has a $effect_chance% chance to paralyze the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
-| ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
-| ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
-| ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
-| ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
-| ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
-| ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
-| ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
-| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
-| ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
+|  | [Breloom](../pokemon/breloom.md) |
+|  | [Hariyama](../pokemon/hariyama.md) |
+|  | [Lucario](../pokemon/lucario.md) |
+|  | [Makuhita](../pokemon/makuhita.md) |
+|  | [Medicham](../pokemon/medicham.md) |
+|  | [Meditite](../pokemon/meditite.md) |
+|  | [Mienfoo](../pokemon/mienfoo.md) |
+|  | [Mienshao](../pokemon/mienshao.md) |
+|  | [Riolu](../pokemon/riolu.md) |
+|  | [Timburr](../pokemon/timburr.md) |

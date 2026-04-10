@@ -138,3 +138,17 @@
 | ![Yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) | 26 | - | - |  |
 | ![Venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) | 26 | - | - |  |
 
+### Gym Leader Burgh
+**Battle Type:** Double Battle (Initial) / Single Battle (Rematch)  
+**Reward:** [TM89](../moves/u-turn.md) U-turn  
+
+#### Burgh’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) | 28 | Intimidate | - | Scald, Silver Wind, Stun Spore, Icy Wind |
+| ![Vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 28 | Pressure | - | Acrobatics, Toxic, Heal Order, U-turn |
+| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 28 | Guts | Flame Orb | Brick Break, Aerial Ace, Bug Bite, Night Slash |
+| ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 28 | Speed Boost | - | Protect, U-turn, Air Slash, Signal Beam |
+| ![Scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) | 30 | Swarm | Sitrus Berry | Toxic, Rock Climb, Megahorn, Rock Slide |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 30 | Swarm | Sitrus Berry | Protect, Leaf Blade, X-Scissor, GrassWhistle |
+

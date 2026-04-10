@@ -14,4 +14,4 @@ Hits the target two turns later.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
+|  | [Jirachi](../pokemon/jirachi.md) |

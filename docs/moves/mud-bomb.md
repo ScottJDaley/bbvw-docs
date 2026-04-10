@@ -14,32 +14,32 @@ Has a $effect_chance% chance to lower the target’s accuracy by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
-| ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
-| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
-| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
-| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
-| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) |
-| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
-| ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
-| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
-| ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |
-| ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
-| ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
-| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
-| ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
-| ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
-| ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
-| ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
-| ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
-| ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
-| ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |
-| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
-| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
-| ![swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) |
-| ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
-| ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
-| ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) |
-| ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+|  | [Arbok](../pokemon/arbok.md) |
+|  | [Barboach](../pokemon/barboach.md) |
+|  | [Chansey](../pokemon/chansey.md) |
+|  | [Croagunk](../pokemon/croagunk.md) |
+|  | [Diglett](../pokemon/diglett.md) |
+|  | [Dugtrio](../pokemon/dugtrio.md) |
+|  | [Ekans](../pokemon/ekans.md) |
+|  | [Gastrodon](../pokemon/gastrodon.md) |
+|  | [Grimer](../pokemon/grimer.md) |
+|  | [Happiny](../pokemon/happiny.md) |
+|  | [Mamoswine](../pokemon/mamoswine.md) |
+|  | [Marshtomp](../pokemon/marshtomp.md) |
+|  | [Mudkip](../pokemon/mudkip.md) |
+|  | [Muk](../pokemon/muk.md) |
+|  | [Numel](../pokemon/numel.md) |
+|  | [Piloswine](../pokemon/piloswine.md) |
+|  | [Poliwag](../pokemon/poliwag.md) |
+|  | [Poliwhirl](../pokemon/poliwhirl.md) |
+|  | [Psyduck](../pokemon/psyduck.md) |
+|  | [Quagsire](../pokemon/quagsire.md) |
+|  | [Shellos](../pokemon/shellos.md) |
+|  | [Skitty](../pokemon/skitty.md) |
+|  | [Stunfisk](../pokemon/stunfisk.md) |
+|  | [Swampert](../pokemon/swampert.md) |
+|  | [Swinub](../pokemon/swinub.md) |
+|  | [Toxicroak](../pokemon/toxicroak.md) |
+|  | [Tympole](../pokemon/tympole.md) |
+|  | [Whiscash](../pokemon/whiscash.md) |
+|  | [Wooper](../pokemon/wooper.md) |

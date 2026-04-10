@@ -14,19 +14,19 @@ Has a $effect_chance% chance to burn the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
-| ![flareon](../img/pokemon/136.png) | [Flareon](../pokemon/flareon.md) |
-| ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
-| ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
-| ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
-| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
-| ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
-| ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
-| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
-| ![slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) |
-| ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
-| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
+|  | [Camerupt](../pokemon/camerupt.md) |
+|  | [Cyndaquil](../pokemon/cyndaquil.md) |
+|  | [Entei](../pokemon/entei.md) |
+|  | [Flareon](../pokemon/flareon.md) |
+|  | [Groudon](../pokemon/groudon.md) |
+|  | [Heatran](../pokemon/heatran.md) |
+|  | [Magby](../pokemon/magby.md) |
+|  | [Magcargo](../pokemon/magcargo.md) |
+|  | [Magmar](../pokemon/magmar.md) |
+|  | [Magmortar](../pokemon/magmortar.md) |
+|  | [Numel](../pokemon/numel.md) |
+|  | [Quilava](../pokemon/quilava.md) |
+|  | [Rotom](../pokemon/rotom.md) |
+|  | [Slugma](../pokemon/slugma.md) |
+|  | [Torkoal](../pokemon/torkoal.md) |
+|  | [Typhlosion](../pokemon/typhlosion.md) |

@@ -63,9 +63,9 @@ None
 | 1 | [Clamp](../moves/clamp.md) | ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |
 | 1 | [Whirlpool](../moves/whirlpool.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |
 | 1 | [Iron defense](../moves/iron-defense.md) | ![steel](../img/types/steel.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
-| 25 <span class="pill pill-new">NEW</span> | [Muddy water](../moves/muddy-water.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 10 |
-| 30 <span class="pill pill-new">NEW</span> | [Barrier](../moves/barrier.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 35 <span class="pill pill-shifted">SHIFTED (from 51)</span> | [Shell smash](../moves/shell-smash.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| 25 | [Muddy water](../moves/muddy-water.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 10 |
+| 30 | [Barrier](../moves/barrier.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 35 | [Shell smash](../moves/shell-smash.md)  <span class="pill pill-shifted">SHIFTED (from 51)</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

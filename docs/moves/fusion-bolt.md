@@ -14,5 +14,5 @@ With Fusion Flare, inflicts double damage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
-| ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |
+|  | [Victini](../pokemon/victini.md) |
+|  | [Zekrom](../pokemon/zekrom.md) |

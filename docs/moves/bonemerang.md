@@ -14,5 +14,5 @@ Hits twice in one turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
-| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
+|  | [Cubone](../pokemon/cubone.md) |
+|  | [Marowak](../pokemon/marowak.md) |

@@ -14,33 +14,33 @@ Has an increased chance for a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) |
-| ![burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) |
-| ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) |
-| ![cascoon](../img/pokemon/268.png) | [Cascoon](../pokemon/cascoon.md) |
-| ![chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) |
-| ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
-| ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
-| ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
-| ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
-| ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
-| ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
-| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
-| ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
-| ![pidgey](../img/pokemon/016.png) | [Pidgey](../pokemon/pidgey.md) |
-| ![pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) |
-| ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
-| ![silcoon](../img/pokemon/266.png) | [Silcoon](../pokemon/silcoon.md) |
-| ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
-| ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
-| ![tornadus-incarnate](../img/pokemon/641.png) | [Tornadus-incarnate](../pokemon/tornadus-incarnate.md) |
-| ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
-| ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |
-| ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
-| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
-| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
-| ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
-| ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |
-| ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |
+|  | [Beautifly](../pokemon/beautifly.md) |
+|  | [Burmy](../pokemon/burmy.md) |
+|  | [Butterfree](../pokemon/butterfree.md) |
+|  | [Cascoon](../pokemon/cascoon.md) |
+|  | [Chatot](../pokemon/chatot.md) |
+|  | [Crobat](../pokemon/crobat.md) |
+|  | [Drifblim](../pokemon/drifblim.md) |
+|  | [Drifloon](../pokemon/drifloon.md) |
+|  | [Ducklett](../pokemon/ducklett.md) |
+|  | [Dustox](../pokemon/dustox.md) |
+|  | [Farfetchd](../pokemon/farfetchd.md) |
+|  | [Golbat](../pokemon/golbat.md) |
+|  | [Mothim](../pokemon/mothim.md) |
+|  | [Natu](../pokemon/natu.md) |
+|  | [Pidgey](../pokemon/pidgey.md) |
+|  | [Pidove](../pokemon/pidove.md) |
+|  | [Sigilyph](../pokemon/sigilyph.md) |
+|  | [Silcoon](../pokemon/silcoon.md) |
+|  | [Skarmory](../pokemon/skarmory.md) |
+|  | [Swoobat](../pokemon/swoobat.md) |
+|  | [Tornadus-incarnate](../pokemon/tornadus-incarnate.md) |
+|  | [Tranquill](../pokemon/tranquill.md) |
+|  | [Unfezant](../pokemon/unfezant.md) |
+|  | [Wingull](../pokemon/wingull.md) |
+|  | [Woobat](../pokemon/woobat.md) |
+|  | [Wurmple](../pokemon/wurmple.md) |
+|  | [Xatu](../pokemon/xatu.md) |
+|  | [Yanma](../pokemon/yanma.md) |
+|  | [Yanmega](../pokemon/yanmega.md) |
+|  | [Zubat](../pokemon/zubat.md) |

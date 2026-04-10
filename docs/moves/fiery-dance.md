@@ -14,4 +14,4 @@ Has a $effect_chance% chance to raise the user’s Special Attack by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
+|  | [Volcarona](../pokemon/volcarona.md) |

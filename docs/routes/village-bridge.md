@@ -4,55 +4,71 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) | 20% |
-| ![Bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) | 20% |
-| ![Zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 10% |
-| ![Seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 10% |
-| ![Volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) | 10% |
-| ![Illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) | 10% |
-| ![Farfetch'd](../img/pokemon/083.png) | [Farfetch'd](../pokemon/farfetchd.md) | 10% |
-| ![Chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) | 10% |
+|  | [Exeggcute](../pokemon/exeggcute.md) | 20% |
+|  | [Bibarel](../pokemon/bibarel.md) | 20% |
+|  | [Zangoose](../pokemon/zangoose.md) | 10% |
+|  | [Seviper](../pokemon/seviper.md) | 10% |
+|  | [Volbeat](../pokemon/volbeat.md) | 10% |
+|  | [Illumise](../pokemon/illumise.md) | 10% |
+|  | [Farfetch'd](../pokemon/farfetchd.md) | 10% |
+|  | [Chatot](../pokemon/chatot.md) | 10% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 20% |
-| ![Kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) | 20% |
-| ![Lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) | 20% |
-| ![Nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) | 20% |
-| ![Roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 10% |
+|  | [Flaaffy](../pokemon/flaaffy.md) | 20% |
+|  | [Kadabra](../pokemon/kadabra.md) | 20% |
+|  | [Lombre](../pokemon/lombre.md) | 20% |
+|  | [Nuzleaf](../pokemon/nuzleaf.md) | 20% |
+|  | [Roselia](../pokemon/roselia.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 75% |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
-| ![Togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) | 5% |
-| ![Exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) | 5% |
-| ![Roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) | 5% |
+|  | [Chansey](../pokemon/chansey.md) | 75% |
+|  | [Emolga](../pokemon/emolga.md) | 10% |
+|  | [Togetic](../pokemon/togetic.md) | 5% |
+|  | [Exeggutor](../pokemon/exeggutor.md) | 5% |
+|  | [Roserade](../pokemon/roserade.md) | 5% |
 
 ### ![Surf, Normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
-| ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 40% |
+|  | [Tentacruel](../pokemon/tentacruel.md) | 60% |
+|  | [Sharpedo](../pokemon/sharpedo.md) | 40% |
 
 ### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |
+|  | [Sharpedo](../pokemon/sharpedo.md) | 60% |
 |  | [Jellicent](../pokemon/jellicent.md) | 40% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 70% |
-| ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
+|  | [Carvanha](../pokemon/carvanha.md) | 70% |
+|  | [Basculin](../pokemon/basculin.md) | 30% |
 
 ### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 60% |
-| ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
-| ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 10% |
+|  | [Carvanha](../pokemon/carvanha.md) | 60% |
+|  | [Basculin](../pokemon/basculin.md) | 30% |
+|  | [Sharpedo](../pokemon/sharpedo.md) | 10% |
+
+
+## Trainers
+### Gym Leader Lenora
+**Battle Type:** Double Battle (Initial) / Single Battle (Rematch)  
+**Reward:** [TM67](../moves/retaliate.md) Retaliate  
+
+#### Lenora’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 87 | Intimidate | Air Balloon | Return, Crunch, Fire Fang, Wild Charge |
+| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 87 | Intimidate | Chople Berry | Thunder Wave, Return, Earthquake, Crunch |
+| ![Kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 87 | Scrappy | Expert Belt | Outrage, Return, Earthquake, Sucker Punch |
+| ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 87 | Technician | Scope Lens | Double Hit, Fake Out, Low Kick, U-turn |
+| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 87 | Keen Eye | Air Balloon | Super Fang, Crunch, Low Kick, Thunder Wave |
+| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 89 | Reckless | Sitrus Berry | Head Charge, Wild Charge, Stone Edge, Earthquake |
 

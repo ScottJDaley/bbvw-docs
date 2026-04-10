@@ -14,4 +14,4 @@ User foregoes its next turn to recharge.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
+|  | [Dialga](../pokemon/dialga.md) |

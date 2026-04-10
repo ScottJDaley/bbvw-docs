@@ -4,37 +4,37 @@
 ### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 20% |
-| ![Pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) | 20% |
-| ![Skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) | 10% |
-| ![Electrike](../img/pokemon/309.png) | [Electrike](../pokemon/electrike.md) | 10% |
-| ![Combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 10% |
-| ![Paras](../img/pokemon/046.png) | [Paras](../pokemon/paras.md) | 10% |
-| ![Buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) | 5% |
-| ![Pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) | 5% |
-| ![Drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) | 5% |
-| ![Spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) | 5% |
+|  | [Ekans](../pokemon/ekans.md) | 20% |
+|  | [Pineco](../pokemon/pineco.md) | 20% |
+|  | [Skorupi](../pokemon/skorupi.md) | 10% |
+|  | [Electrike](../pokemon/electrike.md) | 10% |
+|  | [Combee](../pokemon/combee.md) | 10% |
+|  | [Paras](../pokemon/paras.md) | 10% |
+|  | [Buneary](../pokemon/buneary.md) | 5% |
+|  | [Pawniard](../pokemon/pawniard.md) | 5% |
+|  | [Drifloon](../pokemon/drifloon.md) | 5% |
+|  | [Spoink](../pokemon/spoink.md) | 5% |
 
 ### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 20% |
-| ![Seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 20% |
-| ![Stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) | 10% |
-| ![Glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) | 10% |
-| ![Slugma](../img/pokemon/218.png) | [Slugma](../pokemon/slugma.md) | 10% |
-| ![Vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 10% |
-| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 10% |
-| ![Girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 5% |
-| ![Castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) | 5% |
+|  | [Zangoose](../pokemon/zangoose.md) | 20% |
+|  | [Seviper](../pokemon/seviper.md) | 20% |
+|  | [Stunky](../pokemon/stunky.md) | 10% |
+|  | [Glameow](../pokemon/glameow.md) | 10% |
+|  | [Slugma](../pokemon/slugma.md) | 10% |
+|  | [Vespiquen](../pokemon/vespiquen.md) | 10% |
+|  | [Parasect](../pokemon/parasect.md) | 10% |
+|  | [Girafarig](../pokemon/girafarig.md) | 5% |
+|  | [Castform](../pokemon/castform.md) | 5% |
 
 ### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
-| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 10% |
-| ![Lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) | 10% |
+|  | [Audino](../pokemon/audino.md) | 70% |
+|  | [Emolga](../pokemon/emolga.md) | 10% |
+|  | [Bisharp](../pokemon/bisharp.md) | 10% |
+|  | [Lopunny](../pokemon/lopunny.md) | 10% |
 
 
 ## Trainers

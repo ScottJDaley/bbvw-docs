@@ -14,4 +14,4 @@ Inflicts damage based on the target’s Defense, not Special Defense.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
+|  | [Mewtwo](../pokemon/mewtwo.md) |

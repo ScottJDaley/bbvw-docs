@@ -61,8 +61,8 @@ Evolve from [Eelektrik](../pokemon/eelektrik.md)
 | 1 | [Crunch](../moves/crunch.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 1 | [Crush claw](../moves/crush-claw.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 10 |
 | 1 | [Discharge](../moves/discharge.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
-| 54 <span class="pill pill-new">NEW</span> | [Coil](../moves/coil.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 64 <span class="pill pill-new">NEW</span> | [Super fang](../moves/super-fang.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| 54 | [Coil](../moves/coil.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 64 | [Super fang](../moves/super-fang.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

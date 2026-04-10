@@ -14,11 +14,11 @@ Never misses.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
-| ![dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) |
-| ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
-| ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
-| ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
-| ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
-| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
+|  | [Dusclops](../pokemon/dusclops.md) |
+|  | [Dusknoir](../pokemon/dusknoir.md) |
+|  | [Gengar](../pokemon/gengar.md) |
+|  | [Golett](../pokemon/golett.md) |
+|  | [Golurk](../pokemon/golurk.md) |
+|  | [Grimer](../pokemon/grimer.md) |
+|  | [Haunter](../pokemon/haunter.md) |
+|  | [Muk](../pokemon/muk.md) |

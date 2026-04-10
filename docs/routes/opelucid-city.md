@@ -74,3 +74,31 @@
 | ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 63 | - | - |  |
 | ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 63 | - | - |  |
 
+### Gym Leader Drayden
+**Battle Type:** Rotation Battle  
+**Reward:** [TM82](../moves/dragon-tail.md) Dragon Tail  
+
+#### Drayden’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 64 | Rough Skin | Rocky Helmet | Revenge, Earthquake, Dragon Tail |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 64 | Blaze | Salac Berry | Fire Punch, Earthquake, Substitute |
+| ![Flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) | 64 | Levitate | Yache Berry | Dragon Pulse, Earth Power, Fire Blast |
+| ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 64 | Intimidate | Life Orb | Hydro Pump, Brick Break, Fire Blast |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 64 | Sniper | White Herb | Waterfall, Outrage, Frost Breath |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 66 | Mold Breaker | Sitrus Berry | Outrage, Earthquake, Dragon Tail |
+
+### Gym Leader Iris
+**Battle Type:** Triple Battle  
+**Reward:** [TM82](../moves/dragon-tail.md) Dragon Tail  
+
+#### Iris’s Team
+| Sprite | Pokemon | Level | Ability | Item | Moves |
+| --- | --- | --- | --- | --- | --- |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 63 | Rough Skin | Rocky Helmet | Outrage, Revenge, Earthquake, Dragon Tail |
+| ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 63 | Intimidate | Wacan Berry | Dragon Dance, Aqua Tail, Ice Fang, Earthquake |
+| ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 63 | Natural Cure | Yache Berry | Cotton Guard, Dragon Pulse, Ice Beam, Fire Blast |
+| ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 65 | Inner Focus | Sitrus Berry | Stone Edge, Dragon Claw, Hurricane, Thunder |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 65 | Swift Swim | Damp Rock | Rain Dance, Hydro Pump, Dragon Pulse, Blizzard |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 65 | Mold Breaker | Dragon Gem | Dragon Dance, Outrage, Earthquake, Dragon Tail |
+

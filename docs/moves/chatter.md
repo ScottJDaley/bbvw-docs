@@ -14,4 +14,4 @@ Has a higher chance to confuse the target when the recorded sound is louder.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) |
+|  | [Chatot](../pokemon/chatot.md) |

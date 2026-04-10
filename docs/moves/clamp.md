@@ -14,5 +14,5 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) |
-| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+|  | [Clamperl](../pokemon/clamperl.md) |
+|  | [Shellder](../pokemon/shellder.md) |

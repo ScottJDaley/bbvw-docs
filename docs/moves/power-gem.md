@@ -14,23 +14,23 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
-| ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) |
-| ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
-| ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
-| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
-| ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
-| ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
-| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
-| ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
-| ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
-| ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
-| ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |
-| ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
-| ![persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) |
-| ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
-| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
-| ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
-| ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |
-| ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
-| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |
+|  | [Ampharos](../pokemon/ampharos.md) |
+|  | [Boldore](../pokemon/boldore.md) |
+|  | [Corsola](../pokemon/corsola.md) |
+|  | [Dialga](../pokemon/dialga.md) |
+|  | [Flaaffy](../pokemon/flaaffy.md) |
+|  | [Gigalith](../pokemon/gigalith.md) |
+|  | [Grumpig](../pokemon/grumpig.md) |
+|  | [Mareep](../pokemon/mareep.md) |
+|  | [Misdreavus](../pokemon/misdreavus.md) |
+|  | [Nosepass](../pokemon/nosepass.md) |
+|  | [Omanyte](../pokemon/omanyte.md) |
+|  | [Omastar](../pokemon/omastar.md) |
+|  | [Palkia](../pokemon/palkia.md) |
+|  | [Persian](../pokemon/persian.md) |
+|  | [Probopass](../pokemon/probopass.md) |
+|  | [Sableye](../pokemon/sableye.md) |
+|  | [Slowking](../pokemon/slowking.md) |
+|  | [Spoink](../pokemon/spoink.md) |
+|  | [Staryu](../pokemon/staryu.md) |
+|  | [Vespiquen](../pokemon/vespiquen.md) |

@@ -14,5 +14,5 @@ Drains half the damage inflicted to heal the user.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
-| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
+|  | [Sawsbuck](../pokemon/sawsbuck.md) |
+|  | [Stantler](../pokemon/stantler.md) |
