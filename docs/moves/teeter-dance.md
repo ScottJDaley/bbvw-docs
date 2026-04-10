@@ -14,6 +14,7 @@ Confuses the target.
 | --- | --- |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
+| ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) |

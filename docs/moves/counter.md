@@ -14,6 +14,7 @@ Inflicts twice the damage the user received from the last physical hit it took.
 | --- | --- |
 | ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) |
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |

@@ -13,6 +13,7 @@ Cures the entire party of major status effects.
 | Sprite | Pokemon |
 | --- | --- |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |

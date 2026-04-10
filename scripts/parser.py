@@ -132,7 +132,52 @@ def parse_move_changes():
                     current_sub_group = target_group[1::2]
                 continue
 
+            # Handle removal comments: * Exploud loses Fire Fang, Ice Fang and Thunder Fang from its movelist.
+            lose_match = re.match(r'\*\s*(.*?)\s+loses\s+(.*?)\s+from\s+its\s+movelist', line)
+            if lose_match:
+                who, what = lose_match.groups()
+                who_pkmn = [p for p in target_group if who.lower() in p]
+                moves_to_lose = [m.strip() for m in re.split(r',| and ', what)]
+                for p in who_pkmn:
+                    if p not in move_changes: move_changes[p] = []
+                    for m in moves_to_lose:
+                        move_changes[p].append({'level': 0, 'name': normalize_name(m), 'marker': 'REMOVED'})
+                continue
+
+            # Handle substitution comments: * Fire Blast replaces the Imprison at Level 64.
+            replace_match = re.match(r'\*\s*(.*?)\s+replaces\s+the\s+(.*?)\s+at\s+Level\s+(\d+)', line)
+            if replace_match:
+                new_m, old_m, lv = replace_match.groups()
+                for p in current_sub_group:
+                    if p not in move_changes: move_changes[p] = []
+                    move_changes[p].append({'level': int(lv), 'name': normalize_name(old_m), 'marker': 'REMOVED'})
+                    move_changes[p].append({'level': int(lv), 'name': normalize_name(new_m), 'marker': '+'})
+                continue
+
+            # Handle level shift comments: * All remaining moves have their level at 78, 85, 92.
+            shift_match = re.match(r'\*\s*All\s+remaining\s+moves\s+have\s+their\s+level\s+at\s+([\d\s,]+)', line)
+            if shift_match:
+                lvs = [int(l.strip()) for l in shift_match.group(1).split(',')]
+                for p in current_sub_group:
+                    if p not in move_changes: move_changes[p] = []
+                    # Special marker for generation script to handle "remaining" moves
+                    move_changes[p].append({'level_shifts': lvs, 'marker': 'SHIFT_REMAINING'})
+                continue
+
+            # Sunkern style "between" moves: + Nature Power between ... and ..., Level 20 (Sunkern, Sunflora)
+            between_match = re.match(r'([+\-=]?)\s*(.*?)\s+between\s+.*?\s+and\s+.*?,?\s*Level\s+(\d+)\s*[(\[](.+)[)\]]', line)
+            if between_match:
+                marker, mname, lv, filter_text = between_match.groups()
+                marker = marker if marker else ""
+                filters = [f.strip().lower() for f in re.split(r',| and ', filter_text)]
+                for p in current_sub_group:
+                    if any(f in p or p.startswith(f + "-") for f in filters if f != "only"):
+                        if p not in move_changes: move_changes[p] = []
+                        move_changes[p].append({'level': int(lv), 'name': normalize_name(mname), 'marker': marker})
+                continue
+
             # Support both (...) and [...] for pokemon filters, and allow spaces in move names
+            # Refined filter split to handle "Pikachu and Raichu only"
             move_match = re.match(r'([+\-=]?)\s*Level\s+([\d\s/–-]+)\s*[-–]\s*(.*?)(?:\s*[(\[](.+)[)\]])?\s*$', line)
 
             if move_match:
@@ -144,7 +189,8 @@ def parse_move_changes():
 
                 levels = [l.strip() for l in re.split(r'[/–-]', lv_str) if l.strip()]
                 moves = [m.strip() for m in mname_str.split('/')]
-                filters = [f.strip().lower() for f in filter_text.split(',')] if filter_text else []
+                # Split filter text by comma or " and "
+                filters = [f.strip().lower() for f in re.split(r',| and ', filter_text)] if filter_text else []
                 
                 same_for_all = False
                 if filter_text and "same for all" in filter_text.lower():
@@ -156,6 +202,7 @@ def parse_move_changes():
                     for p in current_sub_group:
                         for f in filters:
                             f_clean = f.replace(" only", "").strip()
+                            if not f_clean: continue
                             if f_clean == p or (f_clean + "s" == p) or (p.startswith(f_clean + "-")):
                                 applicable_pokemon.append(p)
                                 break
@@ -164,19 +211,10 @@ def parse_move_changes():
 
                 for j, p_name in enumerate(applicable_pokemon):
                     mname = moves[j] if j < len(moves) else moves[-1]
-                    if mname.lower() == "nothing":
-                        continue
-                    
+                    if mname.lower() == "nothing": continue
                     lv = levels[j] if j < len(levels) else levels[-1]
-                    
-                    if p_name not in move_changes:
-                        move_changes[p_name] = []
-                    
-                    move_changes[p_name].append({
-                        'level': int(lv),
-                        'name': normalize_name(mname),
-                        'marker': marker
-                    })
+                    if p_name not in move_changes: move_changes[p_name] = []
+                    move_changes[p_name].append({'level': int(lv), 'name': normalize_name(mname), 'marker': marker})
     return move_changes, move_stat_changes
 
 def parse_trainers():

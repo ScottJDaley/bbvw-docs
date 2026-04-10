@@ -17585,6 +17585,18 @@
         "level": 32,
         "name": "charge",
         "marker": "+"
+      },
+      {
+        "level": 54,
+        "name": "volt-tackle",
+        "marker": "+"
+      }
+    ],
+    "raichu": [
+      {
+        "level": 54,
+        "name": "volt-tackle",
+        "marker": "+"
       }
     ],
     "sandshrew": [
@@ -17924,6 +17936,21 @@
         "level": 1,
         "name": "leech-seed",
         "marker": "+"
+      },
+      {
+        "level": 11,
+        "name": "razor-leaf",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 23,
+        "name": "teeter-dance",
+        "marker": "+"
       }
     ],
     "bellossom": [
@@ -17945,8 +17972,23 @@
     ],
     "gloom": [
       {
+        "level": 11,
+        "name": "razor-leaf",
+        "marker": "+"
+      },
+      {
+        "level": 19,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
         "level": 21,
         "name": "drain-punch",
+        "marker": "+"
+      },
+      {
+        "level": 26,
+        "name": "teeter-dance",
         "marker": "+"
       }
     ],
@@ -18987,6 +19029,33 @@
         "marker": "+"
       },
       {
+        "level": 1,
+        "name": "superpower",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "crunch",
+        "marker": "+"
+      },
+      {
+        "level": 52,
+        "name": "dragon-rush",
+        "marker": "+"
+      },
+      {
+        "level": 85,
+        "name": "double-edge",
+        "marker": "+"
+      }
+    ],
+    "rhydon": [
+      {
+        "level": 1,
+        "name": "superpower",
+        "marker": "+"
+      },
+      {
         "level": 27,
         "name": "crunch",
         "marker": "+"
@@ -19019,27 +19088,25 @@
         "marker": "+"
       }
     ],
-    "rhydon": [
-      {
-        "level": 27,
-        "name": "crunch",
-        "marker": "+"
-      },
-      {
-        "level": 52,
-        "name": "dragon-rush",
-        "marker": "+"
-      },
-      {
-        "level": 85,
-        "name": "double-edge",
-        "marker": "+"
-      }
-    ],
     "chansey": [
       {
         "level": 1,
         "name": "sweet-scent",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "counter",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "aromatherapy",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "gravity",
         "marker": "+"
       }
     ],
@@ -19057,6 +19124,23 @@
       {
         "level": 16,
         "name": "last-resort",
+        "marker": "+"
+      }
+    ],
+    "blissey": [
+      {
+        "level": 25,
+        "name": "counter",
+        "marker": "+"
+      },
+      {
+        "level": 29,
+        "name": "aromatherapy",
+        "marker": "+"
+      },
+      {
+        "level": 58,
+        "name": "gravity",
         "marker": "+"
       }
     ],
@@ -20712,6 +20796,50 @@
         "marker": "+"
       }
     ],
+    "togepi": [
+      {
+        "level": 1,
+        "name": "extrasensory",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "tri-attack",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "stored-power",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "softboiled",
+        "marker": "+"
+      }
+    ],
+    "togetic": [
+      {
+        "level": 1,
+        "name": "extrasensory",
+        "marker": "+"
+      },
+      {
+        "level": 15,
+        "name": "tri-attack",
+        "marker": "+"
+      },
+      {
+        "level": 27,
+        "name": "stored-power",
+        "marker": "+"
+      },
+      {
+        "level": 31,
+        "name": "softboiled",
+        "marker": "+"
+      }
+    ],
     "togekiss": [
       {
         "level": 1,
@@ -20844,12 +20972,44 @@
         "level": 1,
         "name": "dizzy-punch",
         "marker": "+"
+      },
+      {
+        "level": 21,
+        "name": "aqua-jet",
+        "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 47,
+        "name": "superpower",
+        "marker": "+"
       }
     ],
     "azurill": [
       {
         "level": 21,
         "name": "sing",
+        "marker": "+"
+      }
+    ],
+    "azumarill": [
+      {
+        "level": 24,
+        "name": "aqua-jet",
+        "marker": "+"
+      },
+      {
+        "level": 30,
+        "name": "ice-punch",
+        "marker": "+"
+      },
+      {
+        "level": 61,
+        "name": "superpower",
         "marker": "+"
       }
     ],
@@ -20932,6 +21092,40 @@
       {
         "level": 47,
         "name": "fake-out",
+        "marker": "+"
+      }
+    ],
+    "sunkern": [
+      {
+        "level": 20,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "morning-sun",
+        "marker": "+"
+      }
+    ],
+    "sunflora": [
+      {
+        "level": 20,
+        "name": "nature-power",
+        "marker": "+"
+      },
+      {
+        "level": 32,
+        "name": "earth-power",
+        "marker": "+"
+      },
+      {
+        "level": 38,
+        "name": "fiery-dance",
         "marker": "+"
       }
     ],
@@ -21717,8 +21911,20 @@
         "marker": "+"
       },
       {
+        "level": 16,
+        "name": "magical-leaf",
+        "marker": "+"
+      },
+      {
         "level": 36,
         "name": "dragon-pulse",
+        "marker": "+"
+      }
+    ],
+    "grovyle": [
+      {
+        "level": 16,
+        "name": "magical-leaf",
         "marker": "+"
       }
     ],
@@ -21732,12 +21938,24 @@
         "level": 1,
         "name": "night-slash",
         "marker": "+"
+      },
+      {
+        "level": 25,
+        "name": "low-kick",
+        "marker": "+"
       }
     ],
     "torchic": [
       {
         "level": 22,
         "name": "baton-pass",
+        "marker": "+"
+      }
+    ],
+    "combusken": [
+      {
+        "level": 25,
+        "name": "low-kick",
         "marker": "+"
       }
     ],
@@ -21758,6 +21976,11 @@
         "level": 1,
         "name": "yawn",
         "marker": "+"
+      },
+      {
+        "level": 57,
+        "name": "superpower",
+        "marker": "+"
       }
     ],
     "swampert": [
@@ -21774,6 +21997,11 @@
       {
         "level": 1,
         "name": "mirror-coat",
+        "marker": "+"
+      },
+      {
+        "level": 77,
+        "name": "superpower",
         "marker": "+"
       }
     ],
@@ -22334,6 +22562,21 @@
         "level": 67,
         "name": "hammer-arm",
         "marker": "+"
+      },
+      {
+        "level": 0,
+        "name": "fire-fang",
+        "marker": "REMOVED"
+      },
+      {
+        "level": 0,
+        "name": "ice-fang",
+        "marker": "REMOVED"
+      },
+      {
+        "level": 0,
+        "name": "thunder-fang",
+        "marker": "REMOVED"
       }
     ],
     "whismur": [
@@ -26931,19 +27174,65 @@
     ],
     "reshiram": [
       {
+        "level": 64,
+        "name": "imprison",
+        "marker": "REMOVED"
+      },
+      {
+        "level": 64,
+        "name": "fire-blast",
+        "marker": "+"
+      },
+      {
         "level": 71,
         "name": "blue-flare",
         "marker": "="
+      },
+      {
+        "level_shifts": [
+          78,
+          85,
+          92
+        ],
+        "marker": "SHIFT_REMAINING"
       }
     ],
     "zekrom": [
       {
+        "level": 64,
+        "name": "imprison",
+        "marker": "REMOVED"
+      },
+      {
+        "level": 64,
+        "name": "thunder",
+        "marker": "+"
+      },
+      {
         "level": 71,
         "name": "bolt-strike",
         "marker": "="
+      },
+      {
+        "level_shifts": [
+          78,
+          85,
+          92
+        ],
+        "marker": "SHIFT_REMAINING"
       }
     ],
     "kyurem": [
+      {
+        "level": 64,
+        "name": "imprison",
+        "marker": "REMOVED"
+      },
+      {
+        "level": 64,
+        "name": "endeavor",
+        "marker": "+"
+      },
       {
         "level": 78,
         "name": "ice-burn",

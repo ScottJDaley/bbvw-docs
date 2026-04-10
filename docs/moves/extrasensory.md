@@ -37,6 +37,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |
 | ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |

@@ -228,12 +228,45 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
 
     md += "\n## Level Up Moves\n| Level | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
     blm = [m for m in p_base['moves'] if m['method'] == 'level-up']; am = []
-    if not p_moves_rom: am = [{'level': m['level'], 'name': m['name'], 'marker': ''} for m in blm]
-    else:
-        for rm in p_moves_rom: am.append(rm)
-        for bm in blm:
-            if not any(normalize_name(rm['name']) == normalize_name(bm['name']) for rm in p_moves_rom): am.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
-    am.sort(key=lambda x: x['level'])
+    
+    # Process explicit ROM changes
+    explicit_removed = set()
+    level_shifts = []
+    for rm in p_moves_rom:
+        if rm.get('marker') == 'REMOVED':
+            explicit_removed.add(normalize_name(rm['name']))
+        elif rm.get('marker') == 'SHIFT_REMAINING':
+            level_shifts = rm.get('level_shifts', [])
+        else:
+            am.append(rm)
+            
+    # Process base moves
+    base_idx_for_shift = 0
+    for bm in blm:
+        bn = normalize_name(bm['name'])
+        if bn in explicit_removed:
+            am.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'})
+            continue
+            
+        # Check if this base move was explicitly overridden by a non-REMOVED RM
+        is_overridden = any(normalize_name(rm['name']) == bn for rm in p_moves_rom if rm.get('marker') != 'REMOVED' and rm.get('marker') != 'SHIFT_REMAINING')
+        if is_overridden:
+            continue
+            
+        # If not overridden, it stays. Check if it needs a level shift.
+        # "Remaining moves" logic: any base move NOT explicitly changed gets its level from the shifts list.
+        if level_shifts and base_idx_for_shift < len(level_shifts):
+            # Only shift moves that are "high level" (usually legendaries shift their signature/late moves)
+            # A simple heuristic: if level > 50 or so, but let's just follow the list order for anything left
+            if bm['level'] >= 60: # Imprison was 64, so moves after it shift
+                new_lv = level_shifts[base_idx_for_shift]
+                am.append({'level': new_lv, 'name': bm['name'], 'marker': '='})
+                base_idx_for_shift += 1
+                continue
+
+        am.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
+
+    am.sort(key=lambda x: (x.get('level', 0), x['name']))
     for m in am:
         mn = m['name']; mnn = normalize_name(mn)
         if not mnn: continue
@@ -283,13 +316,13 @@ def generate_route_page(name, r_d, base_data, t_d):
             ms = {}
             for ec in sc['encounters']: ms[ec['method']] = ms.get(ec['method'], []) + [ec]
             for m, ecs in ms.items():
-                ml = m.lower().replace(',', ''); ic = "grass-normal.png"
-                if 'surf special' in ml: ic = "surf-special.png"
-                elif 'fish special' in ml: ic = "fishing-special.png"
-                elif 'cave' in ml: ic = "cave-normal.png"
-                elif 'surf' in ml: ic = "surf-normal.png"
-                elif 'fish' in ml: ic = "fishing-normal.png"
-                md += f"### ![{m}](../img/items/{ic}) {m}\n| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
+                ml = m.lower().replace(',', ''); icon = "grass-normal.png"
+                if 'surf special' in ml: icon = "surf-special.png"
+                elif 'fish special' in ml: icon = "fishing-special.png"
+                elif 'cave' in ml: icon = "cave-normal.png"
+                elif 'surf' in ml: icon = "surf-normal.png"
+                elif 'fish' in ml: icon = "fishing-normal.png"
+                md += f"### ![{m}](../img/items/{icon}) {m}\n| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
                 for ec in ecs:
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
@@ -333,7 +366,7 @@ if __name__ == "__main__":
         for ab in pa:
             an = CLEAN_ABILITIES.get(normalize_name(ab), normalize_name(ab))
             if an: (fab[an].append(pn) if an in fab else fab.update({an: [pn]}))
-        pms = set([m['name'] for m in p['moves']] + [rm['name'] for rm in rom['move_changes'].get(pn, [])])
+        pms = set([m['name'] for m in p['moves']] + [rm['name'] for rm in rom['move_changes'].get(pn, []) if rm.get('name')])
         for rl in pr.get('tm_hm', []):
             for m in re.findall(r'(TM|HM)\d+\s*,?\s*([^,.\n]+)', rl): pms.add(m[1])
         for tl in pr.get('tutor', []):

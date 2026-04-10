@@ -26,6 +26,7 @@ Power is higher the more the user’s stats have been raised, to a maximum of 31
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) |
 | ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |

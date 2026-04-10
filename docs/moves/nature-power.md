@@ -21,6 +21,7 @@ Uses a move which depends upon the terrain.
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
 | ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |
+| ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
@@ -31,6 +32,7 @@ Uses a move which depends upon the terrain.
 | ![quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
+| ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) |
 | ![sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) |
 | ![tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) |
 | ![tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) |

@@ -21,6 +21,7 @@ Has an increased chance for a critical hit.
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) |
+| ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
