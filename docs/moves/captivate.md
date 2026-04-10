@@ -47,5 +47,4 @@ Lowers the target’s Special Attack by two stages if it’s the opposite gender
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |
 | ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![zorua](../img/pokemon/570.png) | [Zorua](../pokemon/zorua.md) |

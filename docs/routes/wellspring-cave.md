@@ -67,21 +67,21 @@
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) | 15 | - | - |  |
-| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 15 | - | - |  |
-| ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) | 15 | - | - |  |
+| ![Zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) | 15 | - | - |  |
+| ![Tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 15 | - | - |  |
+| ![Poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) | 15 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) | 15 | - | - |  |
-| ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 15 | - | - |  |
-| ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) | 15 | - | - |  |
+| ![Voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) | 15 | - | - |  |
+| ![Carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 15 | - | - |  |
+| ![Pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) | 15 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) | 15 | - | - |  |
-| ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) | 15 | - | - |  |
-| ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) | 15 | - | - |  |
+| ![Gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) | 15 | - | - |  |
+| ![Numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) | 15 | - | - |  |
+| ![Houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) | 15 | - | - |  |
 

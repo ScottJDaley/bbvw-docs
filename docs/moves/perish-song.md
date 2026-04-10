@@ -24,7 +24,6 @@ User and target both faint after three turns.
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
-| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) |

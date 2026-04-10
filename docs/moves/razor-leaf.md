@@ -48,4 +48,3 @@ Has an increased chance for a critical hit.
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
 | ![vileplume](../img/pokemon/045.png) | [Vileplume](../pokemon/vileplume.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

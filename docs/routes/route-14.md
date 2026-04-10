@@ -65,18 +65,12 @@
 #### Clay’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 88 | Sand Stream | Passho Berry | [Earthquake](../moves/earthquake.md), [Slack Off](../moves/slack-off.md), [Stone Edge](../moves/stone-edge.md), [Crunch](../moves/crunch.md) |
-| |  | 88 | Poison Hand | Rindo Berry | [Earthquake](../moves/earthquake.md), [Muddy Water](../moves/muddy-water.md), [Grass Knot](../moves/grass-knot.md), [Drain Punch](../moves/drain-punch.md) |
-| |  | 88 | Solid Rock | Life Orb | [Earthquake](../moves/earthquake.md), [Stone Edge](../moves/stone-edge.md), [Megahorn](../moves/megahorn.md), [Superpower](../moves/superpower.md) |
-| ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) | Donphan | Sturdy | 88 | Sturdy, [Earthquake](../moves/earthquake.md), [Ice Shard](../moves/ice-shard.md), [Endeavor](../moves/endeavor.md) |
-| ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | Krookodile | Intimidate | 88 | Intimidate, [Earthquake](../moves/earthquake.md), [Crunch](../moves/crunch.md), [Stone Edge](../moves/stone-edge.md) |
-| ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) | Excadrill | Sand Rush | 90 | Sand Rush, [Earthquake](../moves/earthquake.md), [Rock Slide](../moves/rock-slide.md), [X-Scissor](../moves/x-scissor.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Stone Edge](../moves/stone-edge.md) | ? | - | - |  |
-| | [Outrage](../moves/outrage.md) | ? | - | - |  |
-| | [Horn Drill](../moves/horn-drill.md) | ? | - | - |  |
+| ![Hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) | 88 | Sand Stream | Passho Berry | Earthquake, Slack Off, Stone Edge, Crunch |
+| ![Seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | 88 | Poison Hand | Rindo Berry | Earthquake, Muddy Water, Grass Knot, Drain Punch |
+| ![Rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) | 88 | Solid Rock | Life Orb | Earthquake, Stone Edge, Megahorn, Superpower |
+| ![Donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 88 | Sturdy | Custap Berry | Earthquake, Ice Shard, Endeavor, Stone Edge |
+| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 88 | Intimidate | Chople Berry | Earthquake, Crunch, Stone Edge, Outrage |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 90 | Sand Rush | Air Balloon | Earthquake, Rock Slide, X-Scissor, Horn Drill |
 
 ### Gym Leader Skyla
 **Battle Type:** Triple Battle  
@@ -85,18 +79,12 @@
 #### Skyla’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 88 | Unaware | Focus Sash | [Psychic](../moves/psychic.md), [Charge Beam](../moves/charge-beam.md), [U-turn](../moves/u-turn.md) |
-| |  | 88 | Sheer Force | White Herb | [Crush Claw](../moves/crush-claw.md), [ExtremeSpeed](../moves/extreme-speed.md), [Earthquake](../moves/earthquake.md) |
-| |  | 88 | Chlorophyll | Power Herb | [Leaf Blade](../moves/leaf-blade.md), [Air Slash](../moves/air-slash.md), [Calm Mind](../moves/calm-mind.md) |
-| ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) | Skarmory | Sturdy | 90 | Sturdy, [Brave Bird](../moves/brave-bird.md), [Rock Slide](../moves/rock-slide.md) |
-| ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | Gliscor | Poison Heal | 90 | Hyper Cutter, [Fly](../moves/fly.md), [Roost](../moves/roost.md) |
-| ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | Swanna | Big Pecks | 90 | Big Pecks, [Steel Wing](../moves/steel-wing.md), [Steel Wing](../moves/steel-wing.md) |
-| | [Earthquake](../moves/earthquake.md) | Ice Beam | X-Scissor | Roost | [Fling](../moves/fling.md) |
-| |  | ? | Acrobatics | Stone Edge |  |
-| |  | ? | Tailwind | Brave Bird |  |
-| |  | ? | - | - |  |
-| | [Roost](../moves/roost.md) | ? | - | - |  |
-| | [Ice Beam](../moves/ice-beam.md) | ? | - | - |  |
+| ![Swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) | 88 | Unaware | Focus Sash | Psychic, Air Slash, Calm Mind |
+| ![Braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 88 | Sheer Force | White Herb | Crush Claw, Brave Bird, Rock Slide |
+| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 88 | Chlorophyll | Power Herb | Leaf Blade, Fly, Roost |
+| ![Skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 90 | Sturdy | Sitrus Berry | Brave Bird, Roost, X-Scissor |
+| ![Gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 90 | Hyper Cutter | Toxic Orb* | Earthquake, Stone Edge, Acrobatics |
+| ![Swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) | 90 | Big Pecks | Life Orb | Surf, Brave Bird, Tailwind |
 
 ### Gym Leader Brycen
 **Battle Type:** Double Battle (Initial) / Triple Battle (Rematch)  
@@ -105,15 +93,10 @@
 #### Brycen’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 88 | Snow Warning | Expert Belt | [Blizzard](../moves/blizzard.md), [Wood Hammer](../moves/wood-hammer.md), [Focus Blast](../moves/focus-blast.md) |
-| |  | 88 | Shell Armor | Chople Berry | [Blizzard](../moves/blizzard.md), [Hydro Pump](../moves/hydro-pump.md), [Sing](../moves/sing.md) |
-| |  | 88 | Ice Body | Occa Berry | [Blizzard](../moves/blizzard.md), [Earthquake](../moves/earthquake.md), [Ice Shard](../moves/ice-shard.md) |
-| ![abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | Perish Song | Cryogonal | Signal Beam | 88, Focus Sash, Levitate |
-| ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | Stone Edge | Vanilluxe | Reflect | 90, Life Orb, Weak Armor |
-| ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) | Flash Cannon | Beartic | Water Pulse | 90, Life Orb, Sheer Force |
-| | [Earthquake](../moves/earthquake.md) | Flash Cannon | Sheer Cold | Dive | [Sheer Cold](../moves/sheer-cold.md), [Superpower](../moves/superpower.md) |
-| | [Perish Song](../moves/perish-song.md) | Stone Edge | Energy Ball | - | [Close Combat](../moves/close-combat.md) |
-| | [Blizzard](../moves/blizzard.md) | ? | - | - |  |
-| | [Blizzard](../moves/blizzard.md) | ? | - | - |  |
-| | [Icicle Crash](../moves/icicle-crash.md) | ? | - | - |  |
+| ![Abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | 88 | Snow Warning | Expert Belt | Blizzard, Wood Hammer, Focus Blast |
+| ![Lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 88 | Shell Armor | Chople Berry | Blizzard, Hydro Pump, Sing |
+| ![Glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) | 88 | Ice Body | Occa Berry | Blizzard, Earthquake, Ice Shard |
+| ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 88 | Levitate | Focus Sash | Blizzard, Flash Cannon, Reflect |
+| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 90 | Ice Body | Life Orb | Blizzard, Flash Cannon, Water Pulse |
+| ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 90 | Snow Cloak | Life Orb | Icicle Crash, Stone Edge, Dive |
 

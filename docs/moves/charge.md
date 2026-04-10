@@ -35,7 +35,6 @@ Raises the user’s Special Defense by one stage.  User’s Electric moves have 
 | ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) |
 | ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |
 | ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) |

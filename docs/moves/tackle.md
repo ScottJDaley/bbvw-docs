@@ -37,7 +37,6 @@ Inflicts regular damage with no additional effect.
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
@@ -177,7 +176,6 @@ Inflicts regular damage with no additional effect.
 | ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |
 | ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

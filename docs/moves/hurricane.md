@@ -32,7 +32,6 @@ Has a $effect_chance% chance to confuse the target.
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
 | ![swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) |
-| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |
 | ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |

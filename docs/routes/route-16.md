@@ -41,36 +41,36 @@
 ### Cycling Hector
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) | 30 | - | - |  |
-| ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) | 30 | - | - |  |
+| ![Staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) | 30 | - | - |  |
+| ![Ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) | 30 | - | - |  |
 
 ### Backpacker Peter
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) | 30 | - | - |  |
-| ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) | 30 | - | - |  |
+| ![Klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) | 30 | - | - |  |
+| ![Prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) | 30 | - | - |  |
 
 ### Cycling Krissa
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) | 30 | - | - |  |
-| ![grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) | 30 | - | - |  |
+| ![Archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) | 30 | - | - |  |
+| ![Grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) | 30 | - | - |  |
 
 ### Policeman Daniel
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 30 | - | - |  |
-| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) | 30 | - | - |  |
+| ![Houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 30 | - | - |  |
+| ![Magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) | 30 | - | - |  |
 
 ### Backpacker Lora
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 30 | - | - |  |
-| ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) | 30 | - | - |  |
+| ![Cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 30 | - | - |  |
+| ![Monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) | 30 | - | - |  |
 
 ### Backpacker Stephen
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30 | - | - |  |
-| ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 30 | - | - |  |
+| ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30 | - | - |  |
+| ![Ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 30 | - | - |  |
 

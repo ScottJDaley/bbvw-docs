@@ -44,16 +44,10 @@
 #### Iris’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 87 | Swift Swim | Damp Rock | [Rain Dance](../moves/rain-dance.md), [Hydro Pump](../moves/hydro-pump.md), [Blizzard](../moves/blizzard.md), [Dragon Pulse](../moves/dragon-pulse.md) |
-| |  | 87 | Rough Skin | Rocky Helmet | [Outrage](../moves/outrage.md), [Superpower](../moves/superpower.md), [Rock Slide](../moves/rock-slide.md), [Substitute](../moves/substitute.md) |
-| |  | 87 | Natural Cure | Sitrus Berry | [Outrage](../moves/outrage.md), [Roost](../moves/roost.md), [Cotton Guard](../moves/cotton-guard.md), [Ice Beam](../moves/ice-beam.md) |
-| ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | Garchomp | Rough Skin | 89 | Sand Veil, [Outrage](../moves/outrage.md), [Earthquake](../moves/earthquake.md), [Stone Edge](../moves/stone-edge.md) |
-| ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | Dragonite | Multiscale | 89 | Inner Focus, [Outrage](../moves/outrage.md), [Hurricane](../moves/hurricane.md), [Thunder](../moves/thunder.md) |
-| ![altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | Haxorus | Mold Breaker | 89 | Mold Breaker, [Outrage](../moves/outrage.md), [Dual Chop](../moves/dual-chop.md), [Earthquake](../moves/earthquake.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Draco Meteor](../moves/draco-meteor.md) | ? | - | - |  |
-| | [Roost](../moves/roost.md) | ? | - | - |  |
-| | [Brick Break](../moves/brick-break.md) | ? | - | - |  |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 87 | Swift Swim | Damp Rock | Rain Dance, Hydro Pump, Blizzard, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 87 | Rough Skin | Rocky Helmet | Outrage, Superpower, Rock Slide, Substitute |
+| ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 87 | Natural Cure | Sitrus Berry | Outrage, Roost, Cotton Guard, Ice Beam |
+| ![Garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 89 | Sand Veil | Yache Berry | Outrage, Earthquake, Stone Edge, Draco Meteor |
+| ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 89 | Inner Focus | Sitrus Berry | Outrage, Hurricane, Thunder, Roost |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 89 | Mold Breaker | Choice Band | Outrage, Dual Chop, Earthquake, Brick Break |
 

@@ -31,25 +31,25 @@
 ### Youngster Jimmy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) | 7 | - | - |  |
-| ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) | 7 | - | - |  |
-| ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) | 7 | - | - |  |
+| ![Hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) | 7 | - | - |  |
+| ![Wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) | 7 | - | - |  |
+| ![Patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) | 7 | - | - |  |
 
 ### Lass Mail
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) | 7 | - | - |  |
-| ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 7 | - | - |  |
-| ![pidgey](../img/pokemon/016.png) | [Pidgey](../pokemon/pidgey.md) | 7 | - | - |  |
-| ![caterpie](../img/pokemon/010.png) | [Caterpie](../pokemon/caterpie.md) | 7 | - | - |  |
+| ![Zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) | 7 | - | - |  |
+| ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 7 | - | - |  |
+| ![Pidgey](../img/pokemon/016.png) | [Pidgey](../pokemon/pidgey.md) | 7 | - | - |  |
+| ![Caterpie](../img/pokemon/010.png) | [Caterpie](../pokemon/caterpie.md) | 7 | - | - |  |
 
 ### Youngster Roland
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) | 7 | - | - |  |
-| ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) | 7 | - | - |  |
-| ![kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) | 7 | - | - |  |
-| ![weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) | 7 | - | - |  |
+| ![Lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) | 7 | - | - |  |
+| ![Bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) | 7 | - | - |  |
+| ![Kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) | 7 | - | - |  |
+| ![Weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) | 7 | - | - |  |
 
 ### Rival Bianca – 1
 **Battle Type:** Single Battle  
@@ -57,9 +57,5 @@
 #### Bianca’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | Tepig | - | - |  |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | (Clean) |  |
-| | (Regular) | Adaptability | - | Overgrow |  |
-| | Contrary | ? | - | - |  |
-| | Blaze | ? | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
 

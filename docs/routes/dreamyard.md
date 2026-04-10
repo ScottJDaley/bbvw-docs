@@ -43,27 +43,27 @@
 ### Lass Eri
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) | 10 | - | - |  |
-| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10 | - | - |  |
-| ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) | 10 | - | - |  |
-| ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) | 10 | - | - |  |
+| ![Sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) | 10 | - | - |  |
+| ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10 | - | - |  |
+| ![Starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) | 10 | - | - |  |
+| ![Azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) | 10 | - | - |  |
 
 ### Youngster Joey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) | 11 | - | - |  |
+| ![Rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) | 11 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 14 | - | - |  |
-| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 14 | - | - |  |
-| ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) | 15 | - | - |  |
+| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 14 | - | - |  |
+| ![Ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 14 | - | - |  |
+| ![Drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) | 15 | - | - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) | 14 | - | - |  |
-| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 14 | - | - |  |
-| ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 15 | - | - |  |
+| ![Koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) | 14 | - | - |  |
+| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 14 | - | - |  |
+| ![Cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 15 | - | - |  |
 

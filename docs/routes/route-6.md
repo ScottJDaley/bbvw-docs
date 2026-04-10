@@ -104,46 +104,46 @@
 ### Scientist William
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | - |  |
+| ![Sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | - |  |
 
 ### PKMN Ranger Shanti
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
-| ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | - |  |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
+| ![Whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | - |  |
 
 ### Parasol Lady Nicole
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | - |  |
-| ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | - |  |
-| ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | - |  |
+| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | - |  |
+| ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | - |  |
+| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | - |  |
 
 ### Scientist Ron
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
-| ![electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
-| ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | - |  |
+| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
+| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
+| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | - |  |
 
 ### Scientist Maria
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | - |  |
-| ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | - |  |
-| ![parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | - |  |
+| ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | - |  |
+| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | - |  |
+| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | - |  |
 
 ### Parasol Lady Tihana
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | - |  |
-| ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | - |  |
-| ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | - |  |
+| ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | - |  |
+| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | - |  |
+| ![Milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | - |  |
 
 ### PKMN Ranger Richard
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | - |  |
-| ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | - |  |
-| ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | - |  |
+| ![Pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | - |  |
+| ![Sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | - |  |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | - |  |
 

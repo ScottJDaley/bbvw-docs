@@ -21,4 +21,3 @@ Protects against damage from weather.
 | ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

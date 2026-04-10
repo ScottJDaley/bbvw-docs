@@ -12,4 +12,3 @@ Has a $effect_chance% chance to lower the target’s Special Defense by two stag
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |

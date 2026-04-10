@@ -62,7 +62,6 @@ Heals the user by half its max HP.  Affected by weather.
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
-| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
@@ -83,4 +82,3 @@ Heals the user by half its max HP.  Affected by weather.
 | ![vileplume](../img/pokemon/045.png) | [Vileplume](../pokemon/vileplume.md) |
 | ![virizion](../img/pokemon/640.png) | [Virizion](../pokemon/virizion.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

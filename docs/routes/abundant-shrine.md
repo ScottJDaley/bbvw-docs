@@ -68,16 +68,10 @@
 #### Chili’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 86 | Blaze | Passho Berry | [Flare Blitz](../moves/flare-blitz.md), [Earthquake](../moves/earthquake.md), [Hammer Arm](../moves/hammer-arm.md), [Scald](../moves/scald.md) |
-| |  | 86 | Blaze | Charti Berry | [Fire Blast](../moves/fire-blast.md), [Air Slash](../moves/air-slash.md), [Outrage](../moves/outrage.md), [Earthquake](../moves/earthquake.md) |
-| |  | 86 | Blaze | Shuca Berry | [Eruption](../moves/eruption.md), [Focus Blast](../moves/focus-blast.md), [SolarBeam](../moves/solar-beam.md), [ThunderPunch](../moves/thunder-punch.md) |
-| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | Blaziken | Speed Boost | 86 | Blaze, [Hi Jump Kick](../moves/high-jump-kick.md), [Flare Blitz](../moves/flare-blitz.md), [Stone Edge](../moves/stone-edge.md) |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | Infernape | Iron Fist | 86 | Blaze, [Overheat](../moves/overheat.md), [Close Combat](../moves/close-combat.md), [Grass Knot](../moves/grass-knot.md) |
-| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | Simisear | Unburden | 88 | Gluttony, [Fire Blast](../moves/fire-blast.md), [Focus Blast](../moves/focus-blast.md), [Grass Knot](../moves/grass-knot.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [ThunderPunch](../moves/thunder-punch.md) | ? | - | - |  |
-| | [ThunderPunch](../moves/thunder-punch.md) | ? | - | - |  |
-| | [Will-O-Wisp](../moves/will-o-wisp.md) | ? | - | - |  |
+| ![Emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | 86 | Blaze | Passho Berry | Flare Blitz, Earthquake, Hammer Arm, Scald |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 86 | Blaze | Charti Berry | Fire Blast, Air Slash, Outrage, Earthquake |
+| ![Typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | 86 | Blaze | Shuca Berry | Eruption, Focus Blast, SolarBeam, ThunderPunch |
+| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 86 | Blaze | Payapa Berry | Hi Jump Kick, Flare Blitz, Stone Edge, ThunderPunch |
+| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 86 | Blaze | Coba Berry | Overheat, Close Combat, Grass Knot, ThunderPunch |
+| ![Simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) | 88 | Gluttony | Petaya Berry | Fire Blast, Focus Blast, Grass Knot, Will-O-Wisp |
 

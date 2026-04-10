@@ -67,32 +67,20 @@
 #### Cilan’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 86 | Overgrow | Yache Berry | [Leaf Storm](../moves/leaf-storm.md), [Light Screen](../moves/light-screen.md), [Reflect](../moves/reflect.md), [Sunny Day](../moves/sunny-day.md) |
-| |  | 86 | Overgrow | Payapa Berry | [Growth](../moves/growth.md), [Earthquake](../moves/earthquake.md), [Power Whip](../moves/power-whip.md), [Sludge Bomb](../moves/sludge-bomb.md) |
-| |  | 86 | Overgrow | Kebia Berry | [Aromatherapy](../moves/aromatherapy.md), [Petal Dance](../moves/petal-dance.md), [Toxic](../moves/toxic.md), [Leech Seed](../moves/leech-seed.md) |
-| ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) | Sceptile | Adaptability | 86 | Overgrow, [Energy Ball](../moves/energy-ball.md), [Focus Blast](../moves/focus-blast.md), [Dragon Pulse](../moves/dragon-pulse.md) |
-| ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | Torterra | Sturdy | 86 | Overgrow, [Earthquake](../moves/earthquake.md), [Crunch](../moves/crunch.md), [Wood Hammer](../moves/wood-hammer.md) |
-| ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | Simisage | Unburden | 88 | Gluttony, [Leaf Storm](../moves/leaf-storm.md), [Rock Slide](../moves/rock-slide.md), [Shadow Claw](../moves/shadow-claw.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Leaf Storm](../moves/leaf-storm.md) | ? | - | - |  |
-| | [Stone Edge](../moves/stone-edge.md) | ? | - | - |  |
-| | [Low Kick](../moves/low-kick.md) | ? | - | - |  |
+| ![Serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) | 86 | Overgrow | Yache Berry | Leaf Storm, Light Screen, Reflect, Sunny Day |
+| ![Venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | 86 | Overgrow | Payapa Berry | Growth, Earthquake, Power Whip, Sludge Bomb |
+| ![Meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 86 | Overgrow | Kebia Berry | Aromatherapy, Petal Dance, Toxic, Leech Seed |
+| ![Sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) | 86 | Overgrow | Tanga Berry | Energy Ball, Focus Blast, Dragon Pulse, Leaf Storm |
+| ![Torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) | 86 | Overgrow | Occa Berry | Earthquake, Crunch, Wood Hammer, Stone Edge |
+| ![Simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) | 88 | Gluttony | Liechi Berry | Leaf Storm, Rock Slide, Shadow Claw, Low Kick |
 
 #### Cress’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 86 | Torrent | Wacan Berry | Shell Smash**, [Aqua Jet](../moves/aqua-jet.md), [Megahorn](../moves/megahorn.md), [Razor Shell](../moves/razor-shell.md) |
-| |  | 86 | Torrent | Rindo Berry | Shell Smash*, [Hydro Pump](../moves/hydro-pump.md), [Blizzard](../moves/blizzard.md), [Focus Blast](../moves/focus-blast.md) |
-| |  | 86 | Torrent | Wacan Berry | [Dragon Dance](../moves/dragon-dance.md), [Waterfall](../moves/waterfall.md), [Crunch](../moves/crunch.md), [Earthquake](../moves/earthquake.md) |
-| ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | Swampert | Mold Breaker | 86 | Torrent, [Earthquake](../moves/earthquake.md), [Waterfall](../moves/waterfall.md), [Avalanche](../moves/avalanche.md) |
-| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | Empoleon | Defiant | 86 | Torrent, [Hydro Pump](../moves/hydro-pump.md), [Flash Cannon](../moves/flash-cannon.md), [Grass Knot](../moves/grass-knot.md) |
-| ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | Simipour | Unburden | 88 | Gluttony, [Hydro Pump](../moves/hydro-pump.md), [Ice Beam](../moves/ice-beam.md), [Grass Knot](../moves/grass-knot.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Hammer Arm](../moves/hammer-arm.md) | ? | - | - |  |
-| | [Aqua Jet](../moves/aqua-jet.md) | ? | - | - |  |
-| | [Focus Blast](../moves/focus-blast.md) | ? | - | - |  |
+| ![Samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | 86 | Torrent | Wacan Berry | Shell Smash**, Aqua Jet, Megahorn, Razor Shell |
+| ![Blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | 86 | Torrent | Rindo Berry | Shell Smash*, Hydro Pump, Blizzard, Focus Blast |
+| ![Feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | 86 | Torrent | Wacan Berry | Dragon Dance, Waterfall, Crunch, Earthquake |
+| ![Swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 86 | Torrent | Rindo Berry | Earthquake, Waterfall, Avalanche, Hammer Arm |
+| ![Empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) | 86 | Torrent | Shuca Berry | Hydro Pump, Flash Cannon, Grass Knot, Aqua Jet |
+| ![Simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) | 88 | Gluttony | Petaya Berry | Hydro Pump, Ice Beam, Grass Knot, Focus Blast |
 

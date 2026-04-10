@@ -34,13 +34,13 @@
 ### Hiker Hugh
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 52 | - | - |  |
-| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) | 52 | - | - |  |
-| ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 52 | - | - |  |
+| ![Mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 52 | - | - |  |
+| ![Klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) | 52 | - | - |  |
+| ![Aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 52 | - | - |  |
 
 ### Hiker Clarke
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) | 53 | - | - |  |
-| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 53 | - | - |  |
+| ![Bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) | 53 | - | - |  |
+| ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 53 | - | - |  |
 

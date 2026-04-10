@@ -9,7 +9,7 @@
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 10% |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 10% |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 10% |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) | 10% |
+| | Wormadam | 10% |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 10% |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 10% |
 
@@ -71,18 +71,12 @@
 #### Burgh’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 87 | Speed Boost | Occa Berry | [Bug Buzz](../moves/bug-buzz.md), [Air Slash](../moves/air-slash.md), [Psychic](../moves/psychic.md), [Shadow Ball](../moves/shadow-ball.md) |
-| |  | 87 | Sturdy | White Herb | [Shell Smash](../moves/shell-smash.md), [Stone Edge](../moves/stone-edge.md), [X-Scissor](../moves/x-scissor.md), [Earthquake](../moves/earthquake.md) |
-| |  | 87 | Technician | Life Orb | [Bullet Punch](../moves/bullet-punch.md), [Bug Bite](../moves/bug-bite.md), [Superpower](../moves/superpower.md), [Pursuit](../moves/pursuit.md) |
-| ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | Venomoth | Starf Berry | 87 | Tinted Lens, [Quiver Dance](../moves/quiver-dance.md), [Bug Buzz](../moves/bug-buzz.md), [Sludge Bomb](../moves/sludge-bomb.md) |
-| ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | Scolipede | Liechi Berry | 87 | Swarm, [Megahorn](../moves/megahorn.md), [Toxic Spikes](../moves/toxic-spikes.md), [Spikes](../moves/spikes.md) |
-| ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | Leavanny | Focus Sash | 89 | Swarm, [X-Scissor](../moves/x-scissor.md), [Leaf Blade](../moves/leaf-blade.md), [Agility](../moves/agility.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Sleep Powder](../moves/sleep-powder.md) | ? | - | - |  |
-| | [Rock Slide](../moves/rock-slide.md) | ? | - | - |  |
-| | [Shadow Claw](../moves/shadow-claw.md) | ? | - | - |  |
+| ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 87 | Speed Boost | Occa Berry | Bug Buzz, Air Slash, Psychic, Shadow Ball |
+| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 87 | Sturdy | White Herb | Shell Smash, Stone Edge, X-Scissor, Earthquake |
+| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 87 | Technician | Life Orb | Bullet Punch, Bug Bite, Superpower, Pursuit |
+| ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 87 | Tinted Lens | Starf Berry | Quiver Dance, Bug Buzz, Sludge Bomb, Sleep Powder |
+| ![Scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) | 87 | Swarm | Liechi Berry | Megahorn, Toxic Spikes, Spikes, Rock Slide |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 89 | Swarm | Focus Sash | X-Scissor, Leaf Blade, Agility, Shadow Claw |
 
 ### Gym Leader Elesa
 **Battle Type:** Single Battle  
@@ -91,16 +85,10 @@
 #### Elesa’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 88 | Static | Starf Berry | [Baton Pass](../moves/baton-pass.md), [Agility](../moves/agility.md), [Thunder](../moves/thunder.md), [Light Screen](../moves/light-screen.md) |
-| |  | 88 | Motor Drive | Sitrus Berry | Volt Tackle*, [Cross Chop](../moves/cross-chop.md), [Ice Punch](../moves/ice-punch.md), [Earthquake](../moves/earthquake.md) |
-| |  | 88 | Volt Absorb | Starf Berry | [Thunder](../moves/thunder.md), [Shadow Ball](../moves/shadow-ball.md), [Baton Pass](../moves/baton-pass.md), [Thunder Wave](../moves/thunder-wave.md) |
-| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | Eelektross | Levitate | 88 | Levitate, [Acrobatics](../moves/acrobatics.md), [Thunder](../moves/thunder.md), [Rock Slide](../moves/rock-slide.md) |
-| ![electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) | Galvantula | Compoundeyes | 88 | Compoundeyes, [Thunder](../moves/thunder.md), [Bug Buzz](../moves/bug-buzz.md), [Energy Ball](../moves/energy-ball.md) |
-| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | Zebstrika | Sap Sipper | 90 | Motor Drive, Volt Tackle*, [Flame Charge](../moves/flame-charge.md), [Quick Attack](../moves/quick-attack.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [Flamethrower](../moves/flamethrower.md) | ? | - | - |  |
-| | [Thunder Wave](../moves/thunder-wave.md) | ? | - | - |  |
-| | [Return](../moves/return.md) | ? | - | - |  |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 88 | Static | Starf Berry | Baton Pass, Agility, Thunder, Light Screen |
+| ![Electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) | 88 | Motor Drive | Sitrus Berry | Volt Tackle*, Cross Chop, Ice Punch, Earthquake |
+| ![Jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 88 | Volt Absorb | Starf Berry | Thunder, Shadow Ball, Baton Pass, Thunder Wave |
+| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 88 | Levitate | Flying Gem | Acrobatics, Thunder, Rock Slide, Flamethrower |
+| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 88 | Compoundeyes | Wide Lens | Thunder, Bug Buzz, Energy Ball, Thunder Wave |
+| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 90 | Motor Drive | Life Orb | Volt Tackle*, Flame Charge, Quick Attack, Return |
 

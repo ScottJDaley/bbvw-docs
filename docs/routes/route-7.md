@@ -41,60 +41,60 @@
 ### Youngster Mikey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) | 44 | - | - |  |
-| ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) | 44 | - | - |  |
-| ![stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 44 | - | - |  |
+| ![Tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) | 44 | - | - |  |
+| ![Hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) | 44 | - | - |  |
+| ![Stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 44 | - | - |  |
 
 ### Youngster Parker
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 44 | - | - |  |
-| ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) | 44 | - | - |  |
-| ![breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) | 44 | - | - |  |
+|  | [Darmanitan](../pokemon/darmanitan.md) | 44 | - | - |  |
+| ![Accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) | 44 | - | - |  |
+| ![Breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) | 44 | - | - |  |
 
 ### Backpacker Terrance
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) | 45 | - | - |  |
-| ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) | 45 | - | - |  |
+| ![Grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) | 45 | - | - |  |
+| ![Huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) | 45 | - | - |  |
 
 ### Ace Trainer Elmer
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | 45 | - | - |  |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 45 | - | - |  |
-| ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | 45 | - | - |  |
+| ![Venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | 45 | - | - |  |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 45 | - | - |  |
+| ![Blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | 45 | - | - |  |
 
 ### Backpacker Ruth
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 45 | - | - |  |
-| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) | 45 | - | - |  |
+| ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 45 | - | - |  |
+| ![Rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) | 45 | - | - |  |
 
 ### PKMN Ranger Mary
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 44 | - | - |  |
-| ![ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 44 | - | - |  |
-| ![altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 44 | - | - |  |
+| ![Stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 44 | - | - |  |
+| ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 44 | - | - |  |
+| ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 44 | - | - |  |
 
 ### PKMN Ranger Pedro
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) | 45 | - | - |  |
-| ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) | 45 | - | - |  |
+| ![Deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) | 45 | - | - |  |
+| ![Heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) | 45 | - | - |  |
 
 ### Harlequin Ian
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) | 44 | - | - |  |
-| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) | 44 | - | - |  |
-| ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 44 | - | - |  |
+| ![Clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) | 44 | - | - |  |
+| ![Dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) | 44 | - | - |  |
+| ![Golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 44 | - | - |  |
 
 ### Harlequin Pat
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) | 44 | - | - |  |
-| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) | 44 | - | - |  |
-| ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 44 | - | - |  |
+| ![Victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) | 44 | - | - |  |
+| ![Hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) | 44 | - | - |  |
+| ![Meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 44 | - | - |  |
 

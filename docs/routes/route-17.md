@@ -90,33 +90,33 @@
 ### Fisherman Lydon
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 52 | - | - |  |
-| ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) | 52 | - | - |  |
-| ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 52 | - | - |  |
+| ![Basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 52 | - | - |  |
+| ![Qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) | 52 | - | - |  |
+| ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 52 | - | - |  |
 
 ### Swimmer Joyce
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 52 | - | - |  |
-| ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 52 | - | - |  |
-| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 52 | - | - |  |
+| ![Lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 52 | - | - |  |
+| ![Starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 52 | - | - |  |
+| ![Lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 52 | - | - |  |
 
 ### Swimmer Wright
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 53 | - | - |  |
-| ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | 53 | - | - |  |
+| ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 53 | - | - |  |
+| ![Feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | 53 | - | - |  |
 
 ### Swimmer Berke
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) | 53 | - | - |  |
-| ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) | 53 | - | - |  |
+| ![Omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) | 53 | - | - |  |
+| ![Kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) | 53 | - | - |  |
 
 ### Swimmer Caroline
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 52 | - | - |  |
-| ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 52 | - | - |  |
-| ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 52 | - | - |  |
+|  | [Jellicent](../pokemon/jellicent.md) | 52 | - | - |  |
+| ![Dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 52 | - | - |  |
+| ![Lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 52 | - | - |  |
 

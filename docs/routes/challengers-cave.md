@@ -75,14 +75,10 @@
 #### Drayden’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 93 | Intimidate | White Herb | [Draco Meteor](../moves/draco-meteor.md), [Sunny Day](../moves/sunny-day.md), [Glare](../moves/glare.md) |
-| |  | 93 | Blaze | Life Orb | [Sunny Day](../moves/sunny-day.md), [Glare](../moves/glare.md), [Fly](../moves/fly.md) |
-| |  | 93 | Sheer Force | Life Orb | [Earthquake](../moves/earthquake.md), [Dragon Claw](../moves/dragon-claw.md), [Dragon Pulse](../moves/dragon-pulse.md) |
-| ![salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | Haxorus | Mold Breaker | 93 | [Fire Blast](../moves/fire-blast.md), [SolarBeam](../moves/solar-beam.md), [Rock Slide](../moves/rock-slide.md) |
-| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | Kingdra | Sniper | 93 | [Dragon Claw](../moves/dragon-claw.md), [Superpower](../moves/superpower.md), [Ice Beam](../moves/ice-beam.md) |
-| ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | Hydreigon | Levitate | 95 | [Dragon Claw](../moves/dragon-claw.md), [Dragon Claw](../moves/dragon-claw.md), [Earth Power](../moves/earth-power.md) |
-| |  | Earthquake | Outrage | Dragon Dance | [Frost Breath](../moves/frost-breath.md) |
-| |  | Draco Meteor | Outrage | Waterfall |  |
-| |  | Fire Blast | Focus Blast | Dark Pulse |  |
-| | [Surf](../moves/surf.md) | ? | - | - |  |
+| ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 93 | Intimidate | White Herb | Earthquake, Dragon Claw, Fly |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 93 | Blaze | Life Orb | Fire Blast, SolarBeam, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 93 | Sheer Force | Life Orb | Dragon Claw, Superpower, Rock Slide |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 93 | Mold Breaker | Life Orb | Earthquake, Dragon Dance, Outrage |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 93 | Sniper | White Herb | Draco Meteor, Waterfall, Outrage |
+| ![Hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) | 95 | Levitate | White Herb | Fire Blast, Dark Pulse, Focus Blast |
 

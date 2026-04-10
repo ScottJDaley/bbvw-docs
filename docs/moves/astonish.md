@@ -69,8 +69,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
-| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |
 | ![vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) |

@@ -44,5 +44,4 @@ Lowers the target’s Speed by one stage.
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |
 | ![weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |

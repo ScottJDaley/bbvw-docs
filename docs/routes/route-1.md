@@ -68,19 +68,19 @@
 ### PKMN Ranger Brenda
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 52 | - | - |  |
-| ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 52 | - | - |  |
+| ![Vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 52 | - | - |  |
+| ![Absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 52 | - | - |  |
 
 ### PKMN Ranger Claude
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) | 52 | - | - |  |
-| ![lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) | 52 | - | - |  |
+| ![Drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) | 52 | - | - |  |
+| ![Lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) | 52 | - | - |  |
 
 ### Fisherman Sean
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 50 | - | - |  |
-| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 50 | - | - |  |
-| ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 50 | - | - |  |
+| ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 50 | - | - |  |
+| ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 50 | - | - |  |
+| ![Kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 50 | - | - |  |
 

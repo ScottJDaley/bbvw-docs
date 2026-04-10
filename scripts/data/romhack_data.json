@@ -28801,36 +28801,8 @@
         "name": "Bianca\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -28845,36 +28817,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -29055,36 +28999,8 @@
         "name": "Bianca\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -29101,36 +29017,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -29199,7 +29087,7 @@
         "name": "Cilan\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Snivy",
             "level": "12",
             "item": "-",
             "ability": "Overgrow",
@@ -29211,7 +29099,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Bulbasaur",
             "level": "12",
             "item": "-",
             "ability": "Overgrow",
@@ -29223,7 +29111,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Chikorita",
             "level": "12",
             "item": "-",
             "ability": "Overgrow",
@@ -29235,82 +29123,40 @@
             ]
           },
           {
-            "name": "Snivy",
-            "level": "Treecko",
-            "item": "12",
-            "ability": "-",
+            "name": "Treecko",
+            "level": "12",
+            "item": "-",
+            "ability": "Overgrow",
             "moves": [
-              "Overgrow",
               "GrassWhistle",
               "Leech Seed",
-              "Absorb"
+              "Absorb",
+              "Quick Attack"
             ]
           },
           {
-            "name": "Bulbasaur",
-            "level": "Turtwig",
-            "item": "12",
-            "ability": "-",
+            "name": "Turtwig",
+            "level": "12",
+            "item": "-",
+            "ability": "Overgrow",
             "moves": [
-              "Overgrow",
               "Tackle",
               "Tickle",
-              "Razor Leaf"
+              "Razor Leaf",
+              "Stealth Rock"
             ]
           },
           {
-            "name": "Chikorita",
-            "level": "Pansage",
-            "item": "14",
-            "ability": "Oran Berry",
+            "name": "Pansage",
+            "level": "14",
+            "item": "Oran Berry",
+            "ability": "Gluttony",
             "moves": [
-              "Gluttony",
               "Work Up",
               "Bite",
-              "Magical Leaf"
+              "Magical Leaf",
+              "Protect"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Quick Attack",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Stealth Rock",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Protect",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -29322,7 +29168,7 @@
         "name": "Cress\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Oshawott",
             "level": "12",
             "item": "-",
             "ability": "Torrent",
@@ -29334,7 +29180,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Squirtle",
             "level": "12",
             "item": "-",
             "ability": "Torrent",
@@ -29346,7 +29192,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Totodile",
             "level": "12",
             "item": "-",
             "ability": "Torrent",
@@ -29358,82 +29204,40 @@
             ]
           },
           {
-            "name": "Oshawott",
-            "level": "Mudkip",
-            "item": "12",
-            "ability": "-",
+            "name": "Mudkip",
+            "level": "12",
+            "item": "-",
+            "ability": "Torrent",
             "moves": [
-              "Torrent",
               "Tackle",
               "Ice Ball",
-              "Mud Bomb"
-            ]
-          },
-          {
-            "name": "Squirtle",
-            "level": "Piplup",
-            "item": "12",
-            "ability": "-",
-            "moves": [
-              "Torrent",
-              "Pound",
-              "Icy Wind",
-              "BubbleBeam"
-            ]
-          },
-          {
-            "name": "Totodile",
-            "level": "Panpour",
-            "item": "14",
-            "ability": "Oran Berry",
-            "moves": [
-              "Gluttony",
-              "Nasty Plot",
-              "Bite",
+              "Mud Bomb",
               "Water Gun"
             ]
           },
           {
-            "name": "",
-            "level": "?",
+            "name": "Piplup",
+            "level": "12",
             "item": "-",
-            "ability": "-",
-            "moves": []
+            "ability": "Torrent",
+            "moves": [
+              "Pound",
+              "Icy Wind",
+              "BubbleBeam",
+              "Pluck"
+            ]
           },
           {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Water Gun",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Pluck",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Protect",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
+            "name": "Panpour",
+            "level": "14",
+            "item": "Oran Berry",
+            "ability": "Gluttony",
+            "moves": [
+              "Nasty Plot",
+              "Bite",
+              "Water Gun",
+              "Protect"
+            ]
           }
         ],
         "important": true,
@@ -29445,7 +29249,7 @@
         "name": "Chili\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Tepig",
             "level": "12",
             "item": "-",
             "ability": "Blaze",
@@ -29457,7 +29261,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Charmander",
             "level": "12",
             "item": "-",
             "ability": "Blaze",
@@ -29469,7 +29273,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Cyndaquil",
             "level": "12",
             "item": "-",
             "ability": "Blaze",
@@ -29481,82 +29285,40 @@
             ]
           },
           {
-            "name": "Tepig",
-            "level": "Torchic",
-            "item": "12",
-            "ability": "-",
+            "name": "Torchic",
+            "level": "12",
+            "item": "-",
+            "ability": "Blaze",
             "moves": [
-              "Blaze",
               "Low Kick",
               "Focus Energy",
-              "Ember"
+              "Ember",
+              "Featherdance"
             ]
           },
           {
-            "name": "Charmander",
-            "level": "Chimchar",
-            "item": "12",
-            "ability": "-",
+            "name": "Chimchar",
+            "level": "12",
+            "item": "-",
+            "ability": "Blaze",
             "moves": [
-              "Blaze",
               "Assist",
               "Fake Out",
-              "Ember"
+              "Ember",
+              "Torment"
             ]
           },
           {
-            "name": "Cyndaquil",
-            "level": "Pansear",
-            "item": "14",
-            "ability": "Oran Berry",
+            "name": "Pansear",
+            "level": "14",
+            "item": "Oran Berry",
+            "ability": "Gluttony",
             "moves": [
-              "Gluttony",
               "Nasty Plot",
               "Bite",
-              "Incinerate"
+              "Incinerate",
+              "Protect"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Featherdance",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Torment",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Protect",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -29794,36 +29556,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -30242,71 +29976,36 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "19",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "19",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "19",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "19",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "19",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Drilbur",
-            "level": "?",
+            "level": "19",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Bronzor",
-            "level": "?",
+            "level": "19",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Tympole",
-            "level": "?",
+            "level": "19",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Vulpix",
-            "level": "?",
+            "level": "19",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Zorua",
-            "level": "?",
+            "level": "19",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -30321,7 +30020,7 @@
         "name": "Lenora\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Stantler",
             "level": "18",
             "item": "-",
             "ability": "Intimidate",
@@ -30333,7 +30032,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Herdier",
             "level": "18",
             "item": "-",
             "ability": "Intimidate",
@@ -30345,7 +30044,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Furret",
             "level": "18",
             "item": "-",
             "ability": "Keen Eye",
@@ -30357,82 +30056,40 @@
             ]
           },
           {
-            "name": "Stantler",
-            "level": "Bibarel",
-            "item": "18",
-            "ability": "Moody",
+            "name": "Bibarel",
+            "level": "18",
+            "item": "-",
+            "ability": "Simple",
             "moves": [
-              "Simple",
               "Retaliate",
               "Curse",
-              "Aqua Tail"
+              "Aqua Tail",
+              "Amnesia"
             ]
           },
           {
-            "name": "Herdier",
-            "level": "Watchog",
-            "item": "20",
-            "ability": "Analytic",
+            "name": "Watchog",
+            "level": "20",
+            "item": "Sitrus Berry",
+            "ability": "Keen Eye",
             "moves": [
-              "Keen Eye",
               "Retaliate",
               "Hypnosis",
-              "Super Fang"
+              "Super Fang",
+              "Crunch"
             ]
           },
           {
-            "name": "Furret",
-            "level": "Bouffalant",
-            "item": "20",
+            "name": "Bouffalant",
+            "level": "20",
+            "item": "Sitrus Berry",
             "ability": "Sap Sipper",
             "moves": [
-              "Sap Sipper",
               "Retaliate",
               "Aerial Ace",
-              "Rock Tomb"
+              "Rock Tomb",
+              "Revenge"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Amnesia",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Crunch",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Revenge",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -31572,7 +31229,7 @@
         "name": "Burgh\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Masquerain",
             "level": "28",
             "item": "-",
             "ability": "Intimidate",
@@ -31584,7 +31241,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Vespiquen",
             "level": "28",
             "item": "-",
             "ability": "Pressure",
@@ -31596,7 +31253,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Heracross",
             "level": "28",
             "item": "Flame Orb",
             "ability": "Guts",
@@ -31608,174 +31265,46 @@
             ]
           },
           {
-            "name": "Masquerain",
-            "level": "Yanmega",
-            "item": "28",
+            "name": "Yanmega",
+            "level": "28",
+            "item": "-",
             "ability": "Speed Boost",
             "moves": [
-              "Speed Boost",
               "Protect",
               "U-turn",
-              "Air Slash"
+              "Air Slash",
+              "Signal Beam"
             ]
           },
           {
-            "name": "Vespiquen",
-            "level": "Scolipede",
-            "item": "30",
-            "ability": "Poison Touch",
-            "moves": [
-              "Swarm",
-              "Toxic",
-              "Rock Climb",
-              "Megahorn"
-            ]
-          },
-          {
-            "name": "Heracross",
-            "level": "Leavanny",
-            "item": "30",
+            "name": "Scolipede",
+            "level": "30",
+            "item": "Sitrus Berry",
             "ability": "Swarm",
             "moves": [
-              "Swarm",
-              "Protect",
-              "Leaf Blade",
-              "X-Scissor"
+              "Toxic",
+              "Rock Climb",
+              "Megahorn",
+              "Rock Slide"
             ]
           },
           {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Signal Beam",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Rock Slide",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "GrassWhistle",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
+            "name": "Leavanny",
+            "level": "30",
+            "item": "Sitrus Berry",
+            "ability": "Swarm",
+            "moves": [
+              "Protect",
+              "Leaf Blade",
+              "X-Scissor",
+              "GrassWhistle"
+            ]
           }
         ],
         "important": true,
         "battle_type": "Double Battle (Initial) / Single Battle (Rematch)",
         "reward": "TM89 U-turn",
         "group_header": "Gym Leader Burgh"
-      },
-      {
-        "name": "Bianca\u2019s Team",
-        "pokemon": [
-          {
-            "name": "",
-            "level": "Munna",
-            "item": "Simisage",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "Simipour",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "Pignite",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "29",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Persian",
-            "level": "29",
-            "item": "Sitrus Berry",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Servine",
-            "level": "31",
-            "item": "Unburden",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "31",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Technician",
-            "level": "Analytic",
-            "item": "Technician",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Synchronize",
-            "level": "Gluttony",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          }
-        ],
-        "important": true,
-        "battle_type": "Double Battle",
-        "reward": "",
-        "group_header": "Rival Bianca \u2013 3"
       }
     ],
     "Route 4": [
@@ -31783,36 +31312,8 @@
         "name": "Bianca\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -31827,36 +31328,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -32884,85 +32357,43 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "33",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "33",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "33",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Hippopotas",
-            "level": "Larvesta",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Maractus",
-            "level": "Golett",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Gligar",
-            "level": "Sigilyph",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
-            "name": "",
-            "level": "?",
+            "name": "Larvesta",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
-            "name": "",
-            "level": "?",
+            "name": "Golett",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "33",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "33",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "33",
-            "level": "?",
+            "name": "Sigilyph",
+            "level": "33",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -32977,7 +32408,7 @@
         "name": "Elesa\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Emolga",
             "level": "36",
             "item": "-",
             "ability": "Static",
@@ -32989,7 +32420,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Manectric",
             "level": "36",
             "item": "-",
             "ability": "Static",
@@ -33001,7 +32432,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Ampharos",
             "level": "36",
             "item": "-",
             "ability": "Static",
@@ -33013,82 +32444,40 @@
             ]
           },
           {
-            "name": "Emolga",
-            "level": "Raichu",
-            "item": "36",
+            "name": "Raichu",
+            "level": "36",
+            "item": "-",
             "ability": "Static",
             "moves": [
-              "Static",
               "Wild Charge",
               "Volt Switch",
-              "Grass Knot"
+              "Grass Knot",
+              "Focus Blast"
             ]
           },
           {
-            "name": "Manectric",
-            "level": "Galvantula",
-            "item": "36",
+            "name": "Galvantula",
+            "level": "36",
+            "item": "-",
             "ability": "Compoundeyes",
             "moves": [
-              "Compoundeyes",
               "Thunder",
               "Volt Switch",
-              "Signal Beam"
+              "Signal Beam",
+              "Energy Ball"
             ]
           },
           {
-            "name": "Ampharos",
-            "level": "Zebstrika",
-            "item": "38",
-            "ability": "Sap Sipper",
+            "name": "Zebstrika",
+            "level": "38",
+            "item": "Sitrus Berry",
+            "ability": "Lightningrod",
             "moves": [
-              "Lightningrod",
               "Wild Charge",
               "Volt Switch",
-              "Flame Charge"
+              "Flame Charge",
+              "Double Kick"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Focus Blast",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Energy Ball",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Double Kick",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -33224,36 +32613,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -33909,36 +33270,8 @@
         "name": "Bianca\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -33953,7 +33286,7 @@
         "name": "Clay\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Hippowdon",
             "level": "42",
             "item": "-",
             "ability": "Sand Stream",
@@ -33965,7 +33298,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Seismitoad",
             "level": "42",
             "item": "Chesto Berry",
             "ability": "Poison Hand",
@@ -33977,7 +33310,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Steelix",
             "level": "42",
             "item": "Passho Berry",
             "ability": "Sturdy",
@@ -33989,82 +33322,40 @@
             ]
           },
           {
-            "name": "Hippowdon",
-            "level": "Marowak",
-            "item": "42",
-            "ability": "Mold Breaker",
+            "name": "Marowak",
+            "level": "42",
+            "item": "Thick Club",
+            "ability": "Rock Head",
             "moves": [
-              "Rock Head",
               "Earthquake",
               "Stone Edge",
-              "Low Kick"
+              "Low Kick",
+              "Perish Song"
             ]
           },
           {
-            "name": "Seismitoad",
-            "level": "Krookodile",
-            "item": "42",
+            "name": "Krookodile",
+            "level": "42",
+            "item": "Persim Berry",
             "ability": "Intimidate",
             "moves": [
-              "Intimidate",
               "Earthquake",
               "Crunch",
-              "Thrash"
+              "Thrash",
+              "Torment"
             ]
           },
           {
-            "name": "Steelix",
-            "level": "Excadrill",
-            "item": "44",
+            "name": "Excadrill",
+            "level": "44",
+            "item": "Sitrus Berry",
             "ability": "Sand Rush",
             "moves": [
-              "Sand Rush",
               "Earthquake",
               "Rock Slide",
-              "X-Scissor"
+              "X-Scissor",
+              "Swords Dance"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Perish Song",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Torment",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Swords Dance",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -34603,21 +33894,7 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "47",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "47",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
+            "name": "Rotom",
             "level": "47",
             "item": "-",
             "ability": "-",
@@ -34625,63 +33902,35 @@
           },
           {
             "name": "Rotom",
-            "level": "Rotom",
+            "level": "47",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Rotom",
-            "level": "Rotom",
+            "level": "47",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Rotom",
-            "level": "Rotom",
+            "level": "47",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
-            "name": "",
-            "level": "?",
+            "name": "Rotom",
+            "level": "47",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "47",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "47",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "47",
-            "level": "?",
+            "name": "Rotom",
+            "level": "47",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -35426,32 +34675,10 @@
         "name": "Skyla\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Mandibuzz",
             "level": "54",
             "item": "-",
             "ability": "Big Pecks",
-            "moves": [
-              "Brave Bird",
-              "Torment",
-              "Spikes"
-            ]
-          },
-          {
-            "name": "",
-            "level": "54",
-            "item": "-",
-            "ability": "Sturdy",
-            "moves": [
-              "Brave Bird",
-              "Spikes",
-              "Rock Slide"
-            ]
-          },
-          {
-            "name": "",
-            "level": "54",
-            "item": "-",
-            "ability": "Sheer Force",
             "moves": [
               "Brave Bird",
               "Tailwind",
@@ -35459,81 +34686,59 @@
             ]
           },
           {
-            "name": "Mandibuzz",
-            "level": "Archeops",
+            "name": "Skarmory",
+            "level": "54",
             "item": "-",
-            "ability": "Defeatist",
+            "ability": "Sturdy",
             "moves": [
-              "Defeatist",
+              "Brave Bird",
               "Steel Wing",
               "Roost"
             ]
           },
           {
-            "name": "Skarmory",
-            "level": "Gliscor",
+            "name": "Braviary",
+            "level": "54",
             "item": "-",
-            "ability": "Poison Heal",
+            "ability": "Sheer Force",
             "moves": [
-              "Hyper Cutter",
+              "Brave Bird",
               "Crush Claw",
               "Bulk Up"
             ]
           },
           {
-            "name": "Braviary",
-            "level": "Swanna",
+            "name": "Archeops",
+            "level": "56",
+            "item": "-",
+            "ability": "Defeatist",
+            "moves": [
+              "Acrobatics",
+              "Earthquake",
+              "Dragon Claw"
+            ]
+          },
+          {
+            "name": "Gliscor",
+            "level": "56",
+            "item": "-",
+            "ability": "Hyper Cutter",
+            "moves": [
+              "Acrobatics",
+              "Earthquake",
+              "Thunder Fang"
+            ]
+          },
+          {
+            "name": "Swanna",
+            "level": "56",
             "item": "-",
             "ability": "Big Pecks",
             "moves": [
-              "Big Pecks",
-              "Stone Edge",
-              "Stone Edge"
+              "Hurricane",
+              "Ice Beam",
+              "Tailwind"
             ]
-          },
-          {
-            "name": "Rock Slide",
-            "level": "Brine",
-            "item": "-",
-            "ability": "-",
-            "moves": [
-              "Fling"
-            ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Roost",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Brine",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -35849,36 +35054,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -36387,96 +35564,64 @@
         "name": "Brycen\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Abomasnow",
             "level": "61",
             "item": "Expert Belt",
             "ability": "Snow Warning",
             "moves": [
               "Blizzard",
-              "Focus Blast"
-            ]
-          },
-          {
-            "name": "",
-            "level": "61",
-            "item": "Choice Scarf",
-            "ability": "Snow Cloak",
-            "moves": [
-              "Blizzard",
-              "Shadow Ball Shadow Ball"
-            ]
-          },
-          {
-            "name": "",
-            "level": "61",
-            "item": "Life Orb",
-            "ability": "Snow Cloak",
-            "moves": [
-              "Blizzard",
-              "Shadow Ball Shadow Ball"
-            ]
-          },
-          {
-            "name": "Abomasnow",
-            "level": "Vanilluxe",
-            "item": "63",
-            "ability": "Weak Armor",
-            "moves": [
-              "Ice Body",
               "Ice Shard"
             ]
           },
           {
             "name": "Glaceon",
-            "level": "Cryogonal",
-            "item": "61",
-            "ability": "Levitate",
+            "level": "61",
+            "item": "Choice Scarf",
+            "ability": "Snow Cloak",
             "moves": [
-              "Levitate",
+              "Blizzard",
               "Baton Pass"
             ]
           },
           {
             "name": "Froslass",
-            "level": "Beartic",
-            "item": "63",
-            "ability": "Sheer Force",
+            "level": "61",
+            "item": "Life Orb",
+            "ability": "Snow Cloak",
             "moves": [
-              "Snow Cloak",
+              "Blizzard",
               "Disable"
             ]
           },
           {
-            "name": "",
-            "level": "Icy Wind",
-            "item": "Shadow Claw",
-            "ability": "Autotomize",
+            "name": "Vanilluxe",
+            "level": "63",
+            "item": "NeverMeltIce",
+            "ability": "Ice Body",
             "moves": [
-              "Reflect"
+              "Blizzard",
+              "Autotomize"
             ]
           },
           {
-            "name": "",
-            "level": "Hidden Power Hidden Power",
-            "item": "-",
-            "ability": "Protect",
+            "name": "Cryogonal",
+            "level": "61",
+            "item": "Focus Sash",
+            "ability": "Levitate",
             "moves": [
-              "Close Combat Superpower"
+              "Blizzard",
+              "Protect"
             ]
           },
           {
-            "name": "",
-            "level": "Waterfall",
-            "item": "-",
-            "ability": "Rock Slide",
-            "moves": []
-          },
-          {
-            "name": "Energy Ball",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
+            "name": "Beartic",
+            "level": "63",
+            "item": "White Herb",
+            "ability": "Snow Cloak",
+            "moves": [
+              "Icicle Crash",
+              "Rock Slide"
+            ]
           }
         ],
         "important": true,
@@ -36618,36 +35763,8 @@
         "name": "Bianca\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -37525,100 +36642,70 @@
         "name": "Drayden\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Druddigon",
             "level": "64",
             "item": "Rocky Helmet",
             "ability": "Rough Skin",
             "moves": [
-              "Outrage",
-              "Belly Drum",
-              "Tailwind"
-            ]
-          },
-          {
-            "name": "",
-            "level": "64",
-            "item": "Salac Berry",
-            "ability": "Blaze",
-            "moves": [
-              "Belly Drum",
-              "Quiver Dance",
+              "Revenge",
+              "Earthquake",
               "Dragon Tail"
             ]
           },
           {
-            "name": "",
+            "name": "Charizard",
             "level": "64",
-            "item": "Yache Berry",
-            "ability": "Levitate",
+            "item": "Salac Berry",
+            "ability": "Blaze",
             "moves": [
-              "Revenge",
+              "Fire Punch",
               "Earthquake",
               "Substitute"
             ]
           },
           {
-            "name": "Druddigon",
-            "level": "Salamence",
-            "item": "64",
-            "ability": "Moxie",
+            "name": "Flygon",
+            "level": "64",
+            "item": "Yache Berry",
+            "ability": "Levitate",
             "moves": [
-              "Fire Punch",
-              "Earthquake",
+              "Dragon Pulse",
+              "Earth Power",
               "Fire Blast"
             ]
           },
           {
-            "name": "Charizard",
-            "level": "Kingdra",
-            "item": "64",
-            "ability": "Sniper",
+            "name": "Salamence",
+            "level": "64",
+            "item": "Life Orb",
+            "ability": "Intimidate",
             "moves": [
-              "Dragon Pulse",
-              "Earth Power",
-              "Draco Meteor"
+              "Hydro Pump",
+              "Brick Break",
+              "Fire Blast"
             ]
           },
           {
-            "name": "Flygon",
-            "level": "Haxorus",
-            "item": "66",
+            "name": "Kingdra",
+            "level": "64",
+            "item": "White Herb",
+            "ability": "Sniper",
+            "moves": [
+              "Waterfall",
+              "Outrage",
+              "Frost Breath"
+            ]
+          },
+          {
+            "name": "Haxorus",
+            "level": "66",
+            "item": "Sitrus Berry",
             "ability": "Mold Breaker",
             "moves": [
               "Outrage",
-              "Outrage",
-              "Dragon Dance"
+              "Earthquake",
+              "Dragon Tail"
             ]
-          },
-          {
-            "name": "",
-            "level": "Hydro Pump",
-            "item": "Brick Break",
-            "ability": "Fire Blast",
-            "moves": [
-              "Draco Meteor"
-            ]
-          },
-          {
-            "name": "",
-            "level": "Waterfall",
-            "item": "Outrage",
-            "ability": "Frost Breath",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "Outrage",
-            "item": "Earthquake",
-            "ability": "Dragon Tail",
-            "moves": []
-          },
-          {
-            "name": "Dragon Dance",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -37630,7 +36717,7 @@
         "name": "Iris\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Druddigon",
             "level": "63",
             "item": "Rocky Helmet",
             "ability": "Rough Skin",
@@ -37642,7 +36729,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Gyarados",
             "level": "63",
             "item": "Wacan Berry",
             "ability": "Intimidate",
@@ -37654,7 +36741,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Altaria",
             "level": "63",
             "item": "Yache Berry",
             "ability": "Natural Cure",
@@ -37666,82 +36753,40 @@
             ]
           },
           {
-            "name": "Druddigon",
-            "level": "Dragonite",
-            "item": "65",
-            "ability": "Multiscale",
+            "name": "Dragonite",
+            "level": "65",
+            "item": "Sitrus Berry",
+            "ability": "Inner Focus",
             "moves": [
-              "Inner Focus",
               "Stone Edge",
               "Dragon Claw",
-              "Hurricane"
+              "Hurricane",
+              "Thunder"
             ]
           },
           {
-            "name": "Gyarados",
-            "level": "Kingdra",
-            "item": "65",
+            "name": "Kingdra",
+            "level": "65",
+            "item": "Damp Rock",
             "ability": "Swift Swim",
             "moves": [
-              "Swift Swim",
               "Rain Dance",
               "Hydro Pump",
-              "Dragon Pulse"
+              "Dragon Pulse",
+              "Blizzard"
             ]
           },
           {
-            "name": "Altaria",
-            "level": "Haxorus",
-            "item": "65",
+            "name": "Haxorus",
+            "level": "65",
+            "item": "Dragon Gem",
             "ability": "Mold Breaker",
             "moves": [
-              "Mold Breaker",
               "Dragon Dance",
               "Outrage",
-              "Earthquake"
+              "Earthquake",
+              "Dragon Tail"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Thunder",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blizzard",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Dragon Tail",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -37864,36 +36909,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -38367,36 +37384,8 @@
         "name": "Cheren\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "Tepig",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Snivy",
             "level": "5",
-            "item": "(Clean)",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "(Regular)",
-            "level": "Adaptability",
-            "item": "Overgrow",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Contrary",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blaze",
-            "level": "?",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -38413,43 +37402,22 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
-            "level": "6",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "6",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "6",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
             "name": "Nincada",
-            "level": "?",
+            "level": "6",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Purrloin",
-            "level": "?",
+            "level": "6",
             "item": "-",
             "ability": "-",
             "moves": []
           },
           {
             "name": "Mankey",
-            "level": "?",
+            "level": "6",
             "item": "-",
             "ability": "-",
             "moves": []
@@ -38466,7 +37434,7 @@
         "name": "Cilan\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Serperior",
             "level": "86",
             "item": "Yache Berry",
             "ability": "Overgrow",
@@ -38478,7 +37446,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Venusaur",
             "level": "86",
             "item": "Payapa Berry",
             "ability": "Overgrow",
@@ -38490,7 +37458,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Meganium",
             "level": "86",
             "item": "Kebia Berry",
             "ability": "Overgrow",
@@ -38502,82 +37470,40 @@
             ]
           },
           {
-            "name": "Serperior",
-            "level": "Sceptile",
-            "item": "86",
-            "ability": "Adaptability",
+            "name": "Sceptile",
+            "level": "86",
+            "item": "Tanga Berry",
+            "ability": "Overgrow",
             "moves": [
-              "Overgrow",
               "Energy Ball",
               "Focus Blast",
-              "Dragon Pulse"
+              "Dragon Pulse",
+              "Leaf Storm"
             ]
           },
           {
-            "name": "Venusaur",
-            "level": "Torterra",
-            "item": "86",
-            "ability": "Sturdy",
+            "name": "Torterra",
+            "level": "86",
+            "item": "Occa Berry",
+            "ability": "Overgrow",
             "moves": [
-              "Overgrow",
               "Earthquake",
               "Crunch",
-              "Wood Hammer"
+              "Wood Hammer",
+              "Stone Edge"
             ]
           },
           {
-            "name": "Meganium",
-            "level": "Simisage",
-            "item": "88",
-            "ability": "Unburden",
+            "name": "Simisage",
+            "level": "88",
+            "item": "Liechi Berry",
+            "ability": "Gluttony",
             "moves": [
-              "Gluttony",
               "Leaf Storm",
               "Rock Slide",
-              "Shadow Claw"
+              "Shadow Claw",
+              "Low Kick"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Leaf Storm",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Stone Edge",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Low Kick",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -38589,7 +37515,7 @@
         "name": "Cress\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Samurott",
             "level": "86",
             "item": "Wacan Berry",
             "ability": "Torrent",
@@ -38601,7 +37527,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Blastoise",
             "level": "86",
             "item": "Rindo Berry",
             "ability": "Torrent",
@@ -38613,7 +37539,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Feraligatr",
             "level": "86",
             "item": "Wacan Berry",
             "ability": "Torrent",
@@ -38625,82 +37551,40 @@
             ]
           },
           {
-            "name": "Samurott",
-            "level": "Swampert",
-            "item": "86",
-            "ability": "Mold Breaker",
+            "name": "Swampert",
+            "level": "86",
+            "item": "Rindo Berry",
+            "ability": "Torrent",
             "moves": [
-              "Torrent",
               "Earthquake",
               "Waterfall",
-              "Avalanche"
+              "Avalanche",
+              "Hammer Arm"
             ]
           },
           {
-            "name": "Blastoise",
-            "level": "Empoleon",
-            "item": "86",
-            "ability": "Defiant",
+            "name": "Empoleon",
+            "level": "86",
+            "item": "Shuca Berry",
+            "ability": "Torrent",
             "moves": [
-              "Torrent",
               "Hydro Pump",
               "Flash Cannon",
-              "Grass Knot"
+              "Grass Knot",
+              "Aqua Jet"
             ]
           },
           {
-            "name": "Feraligatr",
-            "level": "Simipour",
-            "item": "88",
-            "ability": "Unburden",
+            "name": "Simipour",
+            "level": "88",
+            "item": "Petaya Berry",
+            "ability": "Gluttony",
             "moves": [
-              "Gluttony",
               "Hydro Pump",
               "Ice Beam",
-              "Grass Knot"
+              "Grass Knot",
+              "Focus Blast"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Hammer Arm",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Aqua Jet",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Focus Blast",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -38714,7 +37598,7 @@
         "name": "Chili\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Emboar",
             "level": "86",
             "item": "Passho Berry",
             "ability": "Blaze",
@@ -38726,7 +37610,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Charizard",
             "level": "86",
             "item": "Charti Berry",
             "ability": "Blaze",
@@ -38738,7 +37622,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Typhlosion",
             "level": "86",
             "item": "Shuca Berry",
             "ability": "Blaze",
@@ -38750,82 +37634,40 @@
             ]
           },
           {
-            "name": "Emboar",
-            "level": "Blaziken",
-            "item": "86",
-            "ability": "Speed Boost",
+            "name": "Blaziken",
+            "level": "86",
+            "item": "Payapa Berry",
+            "ability": "Blaze",
             "moves": [
-              "Blaze",
               "Hi Jump Kick",
               "Flare Blitz",
-              "Stone Edge"
+              "Stone Edge",
+              "ThunderPunch"
             ]
           },
           {
-            "name": "Charizard",
-            "level": "Infernape",
-            "item": "86",
-            "ability": "Iron Fist",
+            "name": "Infernape",
+            "level": "86",
+            "item": "Coba Berry",
+            "ability": "Blaze",
             "moves": [
-              "Blaze",
               "Overheat",
               "Close Combat",
-              "Grass Knot"
+              "Grass Knot",
+              "ThunderPunch"
             ]
           },
           {
-            "name": "Typhlosion",
-            "level": "Simisear",
-            "item": "88",
-            "ability": "Unburden",
+            "name": "Simisear",
+            "level": "88",
+            "item": "Petaya Berry",
+            "ability": "Gluttony",
             "moves": [
-              "Gluttony",
               "Fire Blast",
               "Focus Blast",
-              "Grass Knot"
+              "Grass Knot",
+              "Will-O-Wisp"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "ThunderPunch",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "ThunderPunch",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Will-O-Wisp",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -38839,7 +37681,7 @@
         "name": "Lenora\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Stoutland",
             "level": "87",
             "item": "Air Balloon",
             "ability": "Intimidate",
@@ -38851,7 +37693,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Granbull",
             "level": "87",
             "item": "Chople Berry",
             "ability": "Intimidate",
@@ -38863,7 +37705,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Kangaskhan",
             "level": "87",
             "item": "Expert Belt",
             "ability": "Scrappy",
@@ -38875,82 +37717,40 @@
             ]
           },
           {
-            "name": "Stoutland",
-            "level": "Ambipom",
-            "item": "87",
+            "name": "Ambipom",
+            "level": "87",
+            "item": "Scope Lens",
             "ability": "Technician",
             "moves": [
-              "Technician",
               "Double Hit",
               "Fake Out",
-              "Low Kick"
+              "Low Kick",
+              "U-turn"
             ]
           },
           {
-            "name": "Granbull",
-            "level": "Watchog",
-            "item": "87",
-            "ability": "Analytic",
+            "name": "Watchog",
+            "level": "87",
+            "item": "Air Balloon",
+            "ability": "Keen Eye",
             "moves": [
-              "Keen Eye",
               "Super Fang",
               "Crunch",
-              "Low Kick"
+              "Low Kick",
+              "Thunder Wave"
             ]
           },
           {
-            "name": "Kangaskhan",
-            "level": "Bouffalant",
-            "item": "89",
+            "name": "Bouffalant",
+            "level": "89",
+            "item": "Sitrus Berry",
             "ability": "Reckless",
             "moves": [
-              "Reckless",
               "Head Charge",
               "Wild Charge",
-              "Stone Edge"
+              "Stone Edge",
+              "Earthquake"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "U-turn",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Thunder Wave",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Earthquake",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -38964,7 +37764,7 @@
         "name": "Burgh\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Yanmega",
             "level": "87",
             "item": "Occa Berry",
             "ability": "Speed Boost",
@@ -38976,7 +37776,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Crustle",
             "level": "87",
             "item": "White Herb",
             "ability": "Sturdy",
@@ -38988,7 +37788,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Scizor",
             "level": "87",
             "item": "Life Orb",
             "ability": "Technician",
@@ -39000,82 +37800,40 @@
             ]
           },
           {
-            "name": "Yanmega",
-            "level": "Venomoth",
-            "item": "87",
-            "ability": "Starf Berry",
+            "name": "Venomoth",
+            "level": "87",
+            "item": "Starf Berry",
+            "ability": "Tinted Lens",
             "moves": [
-              "Tinted Lens",
               "Quiver Dance",
               "Bug Buzz",
-              "Sludge Bomb"
+              "Sludge Bomb",
+              "Sleep Powder"
             ]
           },
           {
-            "name": "Crustle",
-            "level": "Scolipede",
-            "item": "87",
-            "ability": "Liechi Berry",
+            "name": "Scolipede",
+            "level": "87",
+            "item": "Liechi Berry",
+            "ability": "Swarm",
             "moves": [
-              "Swarm",
               "Megahorn",
               "Toxic Spikes",
-              "Spikes"
+              "Spikes",
+              "Rock Slide"
             ]
           },
           {
-            "name": "Scizor",
-            "level": "Leavanny",
-            "item": "89",
-            "ability": "Focus Sash",
+            "name": "Leavanny",
+            "level": "89",
+            "item": "Focus Sash",
+            "ability": "Swarm",
             "moves": [
-              "Swarm",
               "X-Scissor",
               "Leaf Blade",
-              "Agility"
+              "Agility",
+              "Shadow Claw"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Sleep Powder",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Rock Slide",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Shadow Claw",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39087,7 +37845,7 @@
         "name": "Elesa\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Emolga",
             "level": "88",
             "item": "Starf Berry",
             "ability": "Static",
@@ -39099,7 +37857,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Electivire",
             "level": "88",
             "item": "Sitrus Berry",
             "ability": "Motor Drive",
@@ -39111,7 +37869,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Jolteon",
             "level": "88",
             "item": "Starf Berry",
             "ability": "Volt Absorb",
@@ -39123,82 +37881,40 @@
             ]
           },
           {
-            "name": "Emolga",
-            "level": "Eelektross",
-            "item": "88",
+            "name": "Eelektross",
+            "level": "88",
+            "item": "Flying Gem",
             "ability": "Levitate",
             "moves": [
-              "Levitate",
               "Acrobatics",
               "Thunder",
-              "Rock Slide"
+              "Rock Slide",
+              "Flamethrower"
             ]
           },
           {
-            "name": "Electivire",
-            "level": "Galvantula",
-            "item": "88",
+            "name": "Galvantula",
+            "level": "88",
+            "item": "Wide Lens",
             "ability": "Compoundeyes",
             "moves": [
-              "Compoundeyes",
               "Thunder",
               "Bug Buzz",
-              "Energy Ball"
+              "Energy Ball",
+              "Thunder Wave"
             ]
           },
           {
-            "name": "Jolteon",
-            "level": "Zebstrika",
-            "item": "90",
-            "ability": "Sap Sipper",
+            "name": "Zebstrika",
+            "level": "90",
+            "item": "Life Orb",
+            "ability": "Motor Drive",
             "moves": [
-              "Motor Drive",
               "Volt Tackle*",
               "Flame Charge",
-              "Quick Attack"
+              "Quick Attack",
+              "Return"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Flamethrower",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Thunder Wave",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Return",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39212,7 +37928,7 @@
         "name": "Clay\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Hippowdon",
             "level": "88",
             "item": "Passho Berry",
             "ability": "Sand Stream",
@@ -39224,7 +37940,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Seismitoad",
             "level": "88",
             "item": "Rindo Berry",
             "ability": "Poison Hand",
@@ -39236,7 +37952,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Rhyperior",
             "level": "88",
             "item": "Life Orb",
             "ability": "Solid Rock",
@@ -39248,82 +37964,40 @@
             ]
           },
           {
-            "name": "Hippowdon",
-            "level": "Donphan",
-            "item": "88",
+            "name": "Donphan",
+            "level": "88",
+            "item": "Custap Berry",
             "ability": "Sturdy",
             "moves": [
-              "Sturdy",
               "Earthquake",
               "Ice Shard",
-              "Endeavor"
-            ]
-          },
-          {
-            "name": "Seismitoad",
-            "level": "Krookodile",
-            "item": "88",
-            "ability": "Intimidate",
-            "moves": [
-              "Intimidate",
-              "Earthquake",
-              "Crunch",
+              "Endeavor",
               "Stone Edge"
             ]
           },
           {
-            "name": "Rhyperior",
-            "level": "Excadrill",
-            "item": "90",
-            "ability": "Sand Rush",
+            "name": "Krookodile",
+            "level": "88",
+            "item": "Chople Berry",
+            "ability": "Intimidate",
             "moves": [
-              "Sand Rush",
               "Earthquake",
-              "Rock Slide",
-              "X-Scissor"
+              "Crunch",
+              "Stone Edge",
+              "Outrage"
             ]
           },
           {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Stone Edge",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Outrage",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Horn Drill",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
+            "name": "Excadrill",
+            "level": "90",
+            "item": "Air Balloon",
+            "ability": "Sand Rush",
+            "moves": [
+              "Earthquake",
+              "Rock Slide",
+              "X-Scissor",
+              "Horn Drill"
+            ]
           }
         ],
         "important": true,
@@ -39335,114 +38009,70 @@
         "name": "Skyla\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Swoobat",
             "level": "88",
             "item": "Focus Sash",
             "ability": "Unaware",
             "moves": [
               "Psychic",
-              "Charge Beam",
-              "U-turn"
-            ]
-          },
-          {
-            "name": "",
-            "level": "88",
-            "item": "White Herb",
-            "ability": "Sheer Force",
-            "moves": [
-              "Crush Claw",
-              "ExtremeSpeed",
-              "Earthquake"
-            ]
-          },
-          {
-            "name": "",
-            "level": "88",
-            "item": "Power Herb",
-            "ability": "Chlorophyll",
-            "moves": [
-              "Leaf Blade",
               "Air Slash",
               "Calm Mind"
             ]
           },
           {
-            "name": "Swoobat",
-            "level": "Skarmory",
-            "item": "90",
-            "ability": "Sturdy",
+            "name": "Braviary",
+            "level": "88",
+            "item": "White Herb",
+            "ability": "Sheer Force",
             "moves": [
-              "Sturdy",
+              "Crush Claw",
               "Brave Bird",
               "Rock Slide"
             ]
           },
           {
-            "name": "Braviary",
-            "level": "Gliscor",
-            "item": "90",
-            "ability": "Poison Heal",
+            "name": "Tropius",
+            "level": "88",
+            "item": "Power Herb",
+            "ability": "Chlorophyll",
             "moves": [
-              "Hyper Cutter",
+              "Leaf Blade",
               "Fly",
               "Roost"
             ]
           },
           {
-            "name": "Tropius",
-            "level": "Swanna",
-            "item": "90",
+            "name": "Skarmory",
+            "level": "90",
+            "item": "Sitrus Berry",
+            "ability": "Sturdy",
+            "moves": [
+              "Brave Bird",
+              "Roost",
+              "X-Scissor"
+            ]
+          },
+          {
+            "name": "Gliscor",
+            "level": "90",
+            "item": "Toxic Orb*",
+            "ability": "Hyper Cutter",
+            "moves": [
+              "Earthquake",
+              "Stone Edge",
+              "Acrobatics"
+            ]
+          },
+          {
+            "name": "Swanna",
+            "level": "90",
+            "item": "Life Orb",
             "ability": "Big Pecks",
             "moves": [
-              "Big Pecks",
-              "Steel Wing",
-              "Steel Wing"
+              "Surf",
+              "Brave Bird",
+              "Tailwind"
             ]
-          },
-          {
-            "name": "Earthquake",
-            "level": "Ice Beam",
-            "item": "Roost",
-            "ability": "X-Scissor",
-            "moves": [
-              "Fling"
-            ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "Stone Edge",
-            "ability": "Acrobatics",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "Brave Bird",
-            "ability": "Tailwind",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Roost",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Ice Beam",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39454,7 +38084,7 @@
         "name": "Brycen\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Abomasnow",
             "level": "88",
             "item": "Expert Belt",
             "ability": "Snow Warning",
@@ -39465,7 +38095,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Lapras",
             "level": "88",
             "item": "Chople Berry",
             "ability": "Shell Armor",
@@ -39476,7 +38106,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Glalie",
             "level": "88",
             "item": "Occa Berry",
             "ability": "Ice Body",
@@ -39487,77 +38117,37 @@
             ]
           },
           {
-            "name": "Abomasnow",
-            "level": "Perish Song",
-            "item": "Signal Beam",
-            "ability": "Cryogonal",
+            "name": "Cryogonal",
+            "level": "88",
+            "item": "Focus Sash",
+            "ability": "Levitate",
             "moves": [
-              "88",
-              "Focus Sash",
-              "Levitate"
+              "Blizzard",
+              "Flash Cannon",
+              "Reflect"
             ]
           },
           {
-            "name": "Lapras",
-            "level": "Stone Edge",
-            "item": "Reflect",
-            "ability": "Vanilluxe",
+            "name": "Vanilluxe",
+            "level": "90",
+            "item": "Life Orb",
+            "ability": "Ice Body",
             "moves": [
-              "90",
-              "Life Orb",
-              "Weak Armor"
+              "Blizzard",
+              "Flash Cannon",
+              "Water Pulse"
             ]
           },
           {
-            "name": "Glalie",
-            "level": "Flash Cannon",
-            "item": "Water Pulse",
-            "ability": "Beartic",
+            "name": "Beartic",
+            "level": "90",
+            "item": "Life Orb",
+            "ability": "Snow Cloak",
             "moves": [
-              "90",
-              "Life Orb",
-              "Sheer Force"
+              "Icicle Crash",
+              "Stone Edge",
+              "Dive"
             ]
-          },
-          {
-            "name": "Earthquake",
-            "level": "Flash Cannon",
-            "item": "Dive",
-            "ability": "Sheer Cold",
-            "moves": [
-              "Sheer Cold",
-              "Superpower"
-            ]
-          },
-          {
-            "name": "Perish Song",
-            "level": "Stone Edge",
-            "item": "-",
-            "ability": "Energy Ball",
-            "moves": [
-              "Close Combat"
-            ]
-          },
-          {
-            "name": "Blizzard",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Blizzard",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Icicle Crash",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39571,100 +38161,70 @@
         "name": "Drayden\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Salamence",
             "level": "93",
             "item": "White Herb",
             "ability": "Intimidate",
             "moves": [
-              "Draco Meteor",
-              "Sunny Day",
-              "Glare"
-            ]
-          },
-          {
-            "name": "",
-            "level": "93",
-            "item": "Life Orb",
-            "ability": "Blaze",
-            "moves": [
-              "Sunny Day",
-              "Glare",
+              "Earthquake",
+              "Dragon Claw",
               "Fly"
             ]
           },
           {
-            "name": "",
+            "name": "Charizard",
             "level": "93",
             "item": "Life Orb",
-            "ability": "Sheer Force",
+            "ability": "Blaze",
             "moves": [
-              "Earthquake",
-              "Dragon Claw",
+              "Fire Blast",
+              "SolarBeam",
               "Dragon Pulse"
             ]
           },
           {
-            "name": "Salamence",
-            "level": "Haxorus",
-            "item": "93",
-            "ability": "Mold Breaker",
+            "name": "Druddigon",
+            "level": "93",
+            "item": "Life Orb",
+            "ability": "Sheer Force",
             "moves": [
-              "Fire Blast",
-              "SolarBeam",
+              "Dragon Claw",
+              "Superpower",
               "Rock Slide"
             ]
           },
           {
-            "name": "Charizard",
-            "level": "Kingdra",
-            "item": "93",
+            "name": "Haxorus",
+            "level": "93",
+            "item": "Life Orb",
+            "ability": "Mold Breaker",
+            "moves": [
+              "Earthquake",
+              "Dragon Dance",
+              "Outrage"
+            ]
+          },
+          {
+            "name": "Kingdra",
+            "level": "93",
+            "item": "White Herb",
             "ability": "Sniper",
             "moves": [
-              "Dragon Claw",
-              "Superpower",
-              "Ice Beam"
+              "Draco Meteor",
+              "Waterfall",
+              "Outrage"
             ]
           },
           {
-            "name": "Druddigon",
-            "level": "Hydreigon",
-            "item": "95",
+            "name": "Hydreigon",
+            "level": "95",
+            "item": "White Herb",
             "ability": "Levitate",
             "moves": [
-              "Dragon Claw",
-              "Dragon Claw",
-              "Earth Power"
+              "Fire Blast",
+              "Dark Pulse",
+              "Focus Blast"
             ]
-          },
-          {
-            "name": "",
-            "level": "Earthquake",
-            "item": "Dragon Dance",
-            "ability": "Outrage",
-            "moves": [
-              "Frost Breath"
-            ]
-          },
-          {
-            "name": "",
-            "level": "Draco Meteor",
-            "item": "Waterfall",
-            "ability": "Outrage",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "Fire Blast",
-            "item": "Dark Pulse",
-            "ability": "Focus Blast",
-            "moves": []
-          },
-          {
-            "name": "Surf",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39678,7 +38238,7 @@
         "name": "Iris\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Kingdra",
             "level": "87",
             "item": "Damp Rock",
             "ability": "Swift Swim",
@@ -39690,7 +38250,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Druddigon",
             "level": "87",
             "item": "Rocky Helmet",
             "ability": "Rough Skin",
@@ -39702,7 +38262,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Altaria",
             "level": "87",
             "item": "Sitrus Berry",
             "ability": "Natural Cure",
@@ -39714,82 +38274,40 @@
             ]
           },
           {
-            "name": "Kingdra",
-            "level": "Garchomp",
-            "item": "89",
-            "ability": "Rough Skin",
+            "name": "Garchomp",
+            "level": "89",
+            "item": "Yache Berry",
+            "ability": "Sand Veil",
             "moves": [
-              "Sand Veil",
               "Outrage",
               "Earthquake",
-              "Stone Edge"
+              "Stone Edge",
+              "Draco Meteor"
             ]
           },
           {
-            "name": "Druddigon",
-            "level": "Dragonite",
-            "item": "89",
-            "ability": "Multiscale",
+            "name": "Dragonite",
+            "level": "89",
+            "item": "Sitrus Berry",
+            "ability": "Inner Focus",
             "moves": [
-              "Inner Focus",
               "Outrage",
               "Hurricane",
-              "Thunder"
+              "Thunder",
+              "Roost"
             ]
           },
           {
-            "name": "Altaria",
-            "level": "Haxorus",
-            "item": "89",
+            "name": "Haxorus",
+            "level": "89",
+            "item": "Choice Band",
             "ability": "Mold Breaker",
             "moves": [
-              "Mold Breaker",
               "Outrage",
               "Dual Chop",
-              "Earthquake"
+              "Earthquake",
+              "Brick Break"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Draco Meteor",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Roost",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Brick Break",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39803,7 +38321,7 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Zoroark",
             "level": "73",
             "item": "Dark Gem",
             "ability": "Illusion",
@@ -39812,7 +38330,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Magmortar",
             "level": "73",
             "item": "Fire Gem",
             "ability": "Flame Body",
@@ -39821,7 +38339,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Slowbro",
             "level": "73",
             "item": "Water Gem",
             "ability": "Own Tempo",
@@ -39830,7 +38348,7 @@
             ]
           },
           {
-            "name": "Zoroark",
+            "name": "Aerodactyl",
             "level": "73",
             "item": "Rock Gem",
             "ability": "Rock Head",
@@ -39839,7 +38357,7 @@
             ]
           },
           {
-            "name": "Magmortar",
+            "name": "Porygon-Z",
             "level": "73",
             "item": "Normal Gem",
             "ability": "Adaptability",
@@ -39848,55 +38366,13 @@
             ]
           },
           {
-            "name": "Slowbro",
+            "name": "Zekrom",
             "level": "75",
             "item": "Life Orb",
             "ability": "Teravolt",
             "moves": [
               "Dragon Claw"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Aerodactyl",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Porygon-Z",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Zekrom",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,
@@ -39910,7 +38386,7 @@
         "name": "N\u2019s Team",
         "pokemon": [
           {
-            "name": "",
+            "name": "Zoroark",
             "level": "73",
             "item": "Dark Gem",
             "ability": "Illusion",
@@ -39919,7 +38395,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Electivire",
             "level": "73",
             "item": "Electric Gem",
             "ability": "Motor Drive",
@@ -39928,7 +38404,7 @@
             ]
           },
           {
-            "name": "",
+            "name": "Slowking",
             "level": "73",
             "item": "Water Gem",
             "ability": "Own Tempo",
@@ -39937,7 +38413,7 @@
             ]
           },
           {
-            "name": "Zoroark",
+            "name": "Aerodactyl",
             "level": "73",
             "item": "Rock Gem",
             "ability": "Rock Head",
@@ -39946,7 +38422,7 @@
             ]
           },
           {
-            "name": "Electivire",
+            "name": "Porygon-Z",
             "level": "73",
             "item": "Normal Gem",
             "ability": "Adaptability",
@@ -39955,55 +38431,13 @@
             ]
           },
           {
-            "name": "Slowking",
+            "name": "Reshiram",
             "level": "75",
             "item": "White Herb",
             "ability": "Turboblaze",
             "moves": [
               "Dragon Pulse"
             ]
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Aerodactyl",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Porygon-Z",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
-          },
-          {
-            "name": "Reshiram",
-            "level": "?",
-            "item": "-",
-            "ability": "-",
-            "moves": []
           }
         ],
         "important": true,

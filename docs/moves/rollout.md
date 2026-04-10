@@ -22,7 +22,6 @@ Power doubles every turn this move is used in succession after the first, resett
 | ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
-| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |

@@ -50,6 +50,5 @@ Has a $effect_chance% chance to paralyze the target.
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |
 | ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) |

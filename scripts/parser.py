@@ -140,10 +140,12 @@ def parse_trainers():
     with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         imp_content = f.read().replace('Straition', 'Striaton').replace('Striation', 'Striaton')
     
+    # Split by major groups (spoiler headers)
     groups = re.split(r'\n\s*\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak)', imp_content)
     for group in groups:
         lines = [l.strip() for l in group.strip().split('\n') if l.strip()]
         if not lines: continue
+        
         main_header = lines[0]
         battle_type, reward = "", ""
         for line in lines:
@@ -156,64 +158,82 @@ def parse_trainers():
             title_match = re.match(r'([^|–-]+Team)\s*[–-]\s*([^;,\n]+)', block)
             if not title_match: title_match = re.match(r'([^|\n]+Team)', block)
             if not title_match: continue
+            
             team_name = title_match.group(1).strip()
             team_location = title_match.group(2).strip() if len(title_match.groups()) > 1 else ""
             
             def parse_table(text):
                 rows = [l.strip() for l in text.split('\n') if '|' in l]
                 if not rows: return []
-                label_seq = []
-                data_map = {}
+                
+                label_sequence = []
+                data_storage = {}
+                
+                # First pass: identify the sequence of labels
                 for r in rows:
                     parts = [p.strip() for p in r.split('|')]
-                    if parts and not parts[0]: parts.pop(0)
-                    if parts and not parts[-1]: parts.pop()
-                    if not parts: continue
                     label = parts[0]
                     if label and any(x in label for x in ['Species', 'Level', 'Item', 'Ability', 'Move #']):
-                        if label not in label_seq:
-                            label_seq.append(label); data_map[label] = []
-                if not label_seq: return []
-                curr_idx = -1
+                        if label not in label_sequence:
+                            label_sequence.append(label)
+                            data_storage[label] = []
+                
+                if not label_sequence: return []
+                
+                # Second pass: fill values correctly
+                current_label_idx = -1
                 for r in rows:
                     parts = [p.strip() for p in r.split('|')]
-                    if parts and not parts[0]: parts.pop(0)
-                    if parts and not parts[-1]: parts.pop()
-                    if not parts: continue
                     label = parts[0]
-                    if label in data_map:
-                        data_map[label].extend(parts[1:]); curr_idx = label_seq.index(label)
-                    else:
-                        curr_idx = (curr_idx + 1) % len(label_seq); target = label_seq[curr_idx]
-                        data_map[target].extend(parts)
-                species = data_map.get('Species', [])
+                    vals = [p for p in parts[1:] if p]
+                    
+                    if label and label in data_storage:
+                        data_storage[label].extend(vals)
+                        current_label_idx = label_sequence.index(label)
+                    elif (not label or label == "") and vals:
+                        # Anonymous row: use next label in sequence
+                        current_label_idx = (current_label_idx + 1) % len(label_sequence)
+                        target_label = label_sequence[current_label_idx]
+                        data_storage[target_label].extend(vals)
+                
+                species = data_storage.get('Species', [])
                 pokemon = []
                 for i in range(len(species)):
-                    p = {'name': species[i], 'level': data_map.get('Level', ["?"]*len(species))[i] if i < len(data_map.get('Level', [])) else "?", 'item': data_map.get('Item', ["-"]*len(species))[i] if i < len(data_map.get('Item', [])) else "-", 'ability': "-", 'moves': []}
-                    abs_clean = data_map.get('Ability (Clean)', [])
-                    abs_gen = data_map.get('Ability', [])
-                    abs_reg = data_map.get('Ability (Reg.)', [])
+                    p = {
+                        'name': species[i],
+                        'level': data_storage.get('Level', ["?"]*len(species))[i] if i < len(data_storage.get('Level', [])) else "?",
+                        'item': data_storage.get('Item', ["-"]*len(species))[i] if i < len(data_storage.get('Item', [])) else "-",
+                        'ability': "-",
+                        'moves': []
+                    }
+                    abs_clean = data_storage.get('Ability (Clean)', [])
+                    abs_gen = data_storage.get('Ability', [])
+                    abs_reg = data_storage.get('Ability (Reg.)', [])
                     if i < len(abs_clean): p['ability'] = abs_clean[i]
                     elif i < len(abs_gen): p['ability'] = abs_gen[i]
                     elif i < len(abs_reg): p['ability'] = abs_reg[i]
+                    
                     for m_lab in ['Move #1', 'Move #2', 'Move #3', 'Move #4']:
-                        m_list = data_map.get(m_lab, [])
+                        m_list = data_storage.get(m_lab, [])
                         if i < len(m_list): p['moves'].append(m_list[i])
                     pokemon.append(p)
                 return pokemon
 
             pokemon = parse_table(block)
             if not pokemon: continue
+            
             if not team_location:
-                loc_srch = re.search(r'Location:\s+(.+)', block)
-                if loc_srch: team_location = loc_srch.group(1).strip()
+                loc_match = re.search(r'Location:\s+(.+)', block)
+                if loc_match: team_location = loc_match.group(1).strip()
                 else:
                     for l in lines:
                         if "Location:" in l: team_location = l.replace("Location:", "").strip(); break
             if not team_location: continue
+            
             norm_loc = team_location.replace(' Gym', ' City').replace(' Gym', ' Town')
             for city in ['Nacrene', 'Striaton', 'Castelia', 'Nimbasa', 'Driftveil', 'Mistralton', 'Icirrus', 'Opelucid']:
                 if city in norm_loc: norm_loc = city + " City"; break
+            
             trainer_data = {'name': team_name, 'pokemon': pokemon, 'important': True, 'battle_type': battle_type, 'reward': reward, 'group_header': main_header}
             if norm_loc not in important_rosters: important_rosters[norm_loc] = []
             important_rosters[norm_loc].append(trainer_data)
@@ -221,6 +241,7 @@ def parse_trainers():
     trainers, trainer_locations_ordered = {}, []
     with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         gen_content = f.read().replace('Straition', 'Striaton').replace('Striation', 'Striaton')
+    
     sections = gen_content.split('\n---\n')
     for i in range(0, len(sections)-1):
         location = sections[i].strip().split('\n')[-1].strip()
@@ -250,11 +271,13 @@ def parse_trainers():
                          if pk_match: trainer_data['pokemon'].append({'name': pk_match.group(1).strip(), 'level': pk_match.group(2).strip(), 'moves': [], 'item': '-', 'ability': '-'})
                      if location not in trainers: trainers[location] = []
                      trainers[location].append(trainer_data)
+    
     for loc, teams in important_rosters.items():
         if loc not in trainers: trainers[loc] = teams
         else:
             for team in teams:
                 if not any(t['name'] == team['name'] for t in trainers[loc]): trainers[loc].append(team)
+
     return trainers, trainer_locations_ordered
 
 if __name__ == "__main__":

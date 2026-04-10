@@ -43,28 +43,28 @@
 ### PKMN Ranger Harry
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | 58 | - | - |  |
-| ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) | 58 | - | - |  |
-| ![umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) | 58 | - | - |  |
+| ![Seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | 58 | - | - |  |
+| ![Fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) | 58 | - | - |  |
+| ![Umbreon](../img/pokemon/197.png) | [Umbreon](../pokemon/umbreon.md) | 58 | - | - |  |
 
 ### PKMN Ranger Chloris
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 58 | - | - |  |
-| ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 58 | - | - |  |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) | 58 | - | - |  |
+| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 58 | - | - |  |
+| ![Swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 58 | - | - |  |
+| ![Porygon-Z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) | 58 | - | - |  |
 
 ### Fisherman Damon
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 57 | - | - |  |
-| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 57 | - | - |  |
-| ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 57 | - | - |  |
+| ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 57 | - | - |  |
+| ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 57 | - | - |  |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 57 | - | - |  |
 
 ### Parasol Lady Miriah
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![chandelure](../img/pokemon/609.png) | [Chandelure](../pokemon/chandelure.md) | 58 | - | - |  |
-| ![vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 58 | - | - |  |
-| ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) | 58 | - | - |  |
+| ![Chandelure](../img/pokemon/609.png) | [Chandelure](../pokemon/chandelure.md) | 58 | - | - |  |
+| ![Vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 58 | - | - |  |
+| ![Golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) | 58 | - | - |  |
 

@@ -7,7 +7,6 @@ Protects against friendly Pokémon's damaging moves.
 | Sprite | Pokemon |
 | --- | --- |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
-| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |

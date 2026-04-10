@@ -25,6 +25,4 @@ Carries the target high into the air, dodging all attacks against either, and dr
 | ![rayquaza](../img/pokemon/384.png) | [Rayquaza](../pokemon/rayquaza.md) |
 | ![rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
-| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |

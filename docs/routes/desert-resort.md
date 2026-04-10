@@ -28,65 +28,65 @@
 ### Doctor Jerry
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 30 | - | - |  |
+| ![Chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 30 | - | - |  |
 
 ### Backpacker Kelsey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) | 29 | - | - |  |
-| ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 29 | - | - |  |
-| ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 29 | - | - |  |
+| ![Togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) | 29 | - | - |  |
+| ![Sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 29 | - | - |  |
+| ![Luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 29 | - | - |  |
 
 ### PKMN Ranger Mylene
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) | 32 | - | - |  |
-| ![ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) | 32 | - | - |  |
+| ![Lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) | 32 | - | - |  |
+| ![Ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) | 32 | - | - |  |
 
 ### PKMN Ranger Jaden
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 32 | - | - |  |
-| ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 32 | - | - |  |
+| ![Swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 32 | - | - |  |
+| ![Sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 32 | - | - |  |
 
 ### Backpacker Nate
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 29 | - | - |  |
-| ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) | 29 | - | - |  |
-| ![granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 29 | - | - |  |
+| ![Barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 29 | - | - |  |
+| ![Kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) | 29 | - | - |  |
+| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 29 | - | - |  |
 
 ### Backpacker Liz
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 29 | - | - |  |
-| ![rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) | 29 | - | - |  |
-| ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) | 29 | - | - |  |
+| ![Shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 29 | - | - |  |
+| ![Rufflet](../img/pokemon/627.png) | [Rufflet](../pokemon/rufflet.md) | 29 | - | - |  |
+| ![Vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) | 29 | - | - |  |
 
 ### Psychic Cybil
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) | 28 | - | - |  |
-| ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) | 28 | - | - |  |
-| ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 28 | - | - |  |
-| ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 28 | - | - |  |
+| ![Gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) | 28 | - | - |  |
+| ![Solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) | 28 | - | - |  |
+| ![Yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 28 | - | - |  |
+| ![Haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 28 | - | - |  |
 
 ### Psychic Low
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) | 30 | - | - |  |
-| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) | 30 | - | - |  |
+| ![Wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) | 30 | - | - |  |
+| ![Chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) | 30 | - | - |  |
 
 ### Backpacker Elaine
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 29 | - | - |  |
-| ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) | 29 | - | - |  |
-| ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) | 29 | - | - |  |
+| ![Krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 29 | - | - |  |
+| ![Cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) | 29 | - | - |  |
+| ![Tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) | 29 | - | - |  |
 
 ### Psychic Gaven
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) | 30 | - | - |  |
-| ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) | 30 | - | - |  |
+| ![Duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) | 30 | - | - |  |
+| ![Shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) | 30 | - | - |  |
 

@@ -24,7 +24,6 @@ Protects the user’s stats from being changed by enemy moves.
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
 | ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) |
-| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) |

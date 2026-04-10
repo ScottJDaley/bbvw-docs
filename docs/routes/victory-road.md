@@ -76,74 +76,74 @@
 ### Ace Trainer Shanta
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 66 | - | - |  |
-| ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 66 | - | - |  |
-| ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 66 | - | - |  |
-| ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) | 66 | - | - |  |
-| ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 66 | - | - |  |
+| ![Slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 66 | - | - |  |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 66 | - | - |  |
+| ![Ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 66 | - | - |  |
+| ![Forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) | 66 | - | - |  |
+| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 66 | - | - |  |
 
 ### Ace Trainer Dwayne
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) | 66 | - | - |  |
-| ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 66 | - | - |  |
-| ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 66 | - | - |  |
-| ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 66 | - | - |  |
-| ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 66 | - | - |  |
+| ![Volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) | 66 | - | - |  |
+| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 66 | - | - |  |
+| ![Gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 66 | - | - |  |
+| ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 66 | - | - |  |
+| ![Sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 66 | - | - |  |
 
 ### Veteran Tiffany
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) | 67 | - | - |  |
-| ![archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 67 | - | - |  |
-| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) | 67 | - | - |  |
-| ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) | 67 | - | - |  |
-| ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) | 67 | - | - |  |
+| ![Arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) | 67 | - | - |  |
+| ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 67 | - | - |  |
+| ![Alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) | 67 | - | - |  |
+| ![Flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) | 67 | - | - |  |
+| ![Cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) | 67 | - | - |  |
 
 ### Black Belt Tyrone
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 67 | - | - |  |
-| ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) | 67 | - | - |  |
-| ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 67 | - | - |  |
-| ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 67 | - | - |  |
-| ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 67 | - | - |  |
+| ![Poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 67 | - | - |  |
+| ![Mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) | 67 | - | - |  |
+| ![Aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 67 | - | - |  |
+| ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 67 | - | - |  |
+| ![Metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 67 | - | - |  |
 
 ### Ace Trainer Cathy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | 67 | - | - |  |
-| ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 67 | - | - |  |
-| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) | 67 | - | - |  |
-| ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 67 | - | - |  |
-| ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 67 | - | - |  |
+| ![Abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | 67 | - | - |  |
+| ![Pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 67 | - | - |  |
+| ![Jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) | 67 | - | - |  |
+| ![Starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 67 | - | - |  |
+| ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 67 | - | - |  |
 
 ### Doctor Logan
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 65 | - | - |  |
-| ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) | 65 | - | - |  |
-| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 65 | - | - |  |
-| ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 65 | - | - |  |
-| ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 65 | - | - |  |
+| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 65 | - | - |  |
+| ![Musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) | 65 | - | - |  |
+| ![Blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 65 | - | - |  |
+| ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 65 | - | - |  |
+| ![Meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 65 | - | - |  |
 
 ### Ace Trainer David
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) | 67 | - | - |  |
-| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 67 | - | - |  |
-| ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) | 67 | - | - |  |
-| ![golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) | 67 | - | - |  |
-| ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 67 | - | - |  |
+| ![Tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) | 67 | - | - |  |
+| ![Excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 67 | - | - |  |
+| ![Steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) | 67 | - | - |  |
+| ![Golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) | 67 | - | - |  |
+| ![Garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 67 | - | - |  |
 
 ### Veteran Martell
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) | 68 | - | - |  |
-| ![haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 68 | - | - |  |
-| ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) | 68 | - | - |  |
-| ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 68 | - | - |  |
-| ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) | 68 | - | - |  |
+| ![Slaking](../img/pokemon/289.png) | [Slaking](../pokemon/slaking.md) | 68 | - | - |  |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 68 | - | - |  |
+| ![Sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) | 68 | - | - |  |
+| ![Aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 68 | - | - |  |
+| ![Dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) | 68 | - | - |  |
 
 ### Rival Cheren – 1
 **Battle Type:** Single Battle  
@@ -151,9 +151,5 @@
 #### Cheren’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | Tepig | - | - |  |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | (Clean) |  |
-| | (Regular) | Adaptability | - | Overgrow |  |
-| | Contrary | ? | - | - |  |
-| | Blaze | ? | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
 

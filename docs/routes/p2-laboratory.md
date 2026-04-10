@@ -28,8 +28,8 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
-| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 30% |
-| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 10% |
+| | Frillish | 30% |
+| | Jellicent | 10% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |

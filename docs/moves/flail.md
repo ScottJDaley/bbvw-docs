@@ -81,7 +81,6 @@ Inflicts more damage when the user has less HP remaining, with a maximum of 200 
 | ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |
 | ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) |
-| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |
 | ![zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) |
 | ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |

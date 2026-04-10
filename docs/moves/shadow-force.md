@@ -12,4 +12,3 @@ User vanishes, dodging all attacks, and hits next turn.  Hits through Protect an
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |

@@ -40,7 +40,6 @@ Never misses.
 | ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |
 | ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) |

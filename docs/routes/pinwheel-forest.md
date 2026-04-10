@@ -95,144 +95,144 @@
 ### Nurse Shery
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) | 18 | - | - |  |
-| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 18 | - | - |  |
+| ![Happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) | 18 | - | - |  |
+| ![Audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 18 | - | - |  |
 
 ### Preschooler Juliet
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) | 18 | - | - |  |
-| ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) | 18 | - | - |  |
-| ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) | 18 | - | - |  |
+| ![Pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) | 18 | - | - |  |
+| ![Panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) | 18 | - | - |  |
+| ![Pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) | 18 | - | - |  |
 
 ### Preschooler Homer
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) | 18 | - | - |  |
-| ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) | 18 | - | - |  |
-| ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) | 18 | - | - |  |
+| ![Roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) | 18 | - | - |  |
+| ![Geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) | 18 | - | - |  |
+| ![Aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) | 18 | - | - |  |
 
 ### Youngster Keita
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) | 18 | - | - |  |
-| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) | 18 | - | - |  |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) | 18 | - | - |  |
+| ![Spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) | 18 | - | - |  |
+| ![Doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) | 18 | - | - |  |
+| ![Charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) | 18 | - | - |  |
 
 ### Youngster Zachary
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) | 18 | - | - |  |
-| ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) | 18 | - | - |  |
-| ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) | 18 | - | - |  |
+| ![Burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) | 18 | - | - |  |
+| ![Torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) | 18 | - | - |  |
+| ![Ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) | 18 | - | - |  |
 
 ### Battle Girl Lee
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) | 18 | - | - |  |
-| ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) | 18 | - | - |  |
-| ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) | 18 | - | - |  |
-| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 18 | - | - |  |
+| ![Timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) | 18 | - | - |  |
+| ![Croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) | 18 | - | - |  |
+| ![Tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) | 18 | - | - |  |
+| ![Throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 18 | - | - |  |
 
 ### Black Belt Kentaro
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) | 18 | - | - |  |
-| ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) | 18 | - | - |  |
-| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) | 18 | - | - |  |
-| ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 18 | - | - |  |
+| ![Machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) | 18 | - | - |  |
+| ![Meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) | 18 | - | - |  |
+| ![Riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) | 18 | - | - |  |
+| ![Sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 18 | - | - |  |
 
 ### Twins Mayo & May D
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) | 20 | - | - |  |
-| ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) | 20 | - | - |  |
-| ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) | 20 | - | - |  |
-| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) | 20 | - | - |  |
+| ![Sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) | 20 | - | - |  |
+| ![Venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) | 20 | - | - |  |
+| ![Cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) | 20 | - | - |  |
+| ![Petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) | 20 | - | - |  |
 
 ### Team Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 21 | - | - |  |
-| ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) | 21 | - | - |  |
-| ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 21 | - | - |  |
+| ![Sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 21 | - | - |  |
+| ![Skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) | 21 | - | - |  |
+| ![Foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 21 | - | - |  |
 
 ### Team Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) | 21 | - | - |  |
-| ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) | 21 | - | - |  |
-| ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 21 | - | - |  |
+| ![Stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) | 21 | - | - |  |
+| ![Glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) | 21 | - | - |  |
+| ![Mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 21 | - | - |  |
 
 ### PKMN Ranger Forrest
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) | 22 | - | - |  |
-| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) | 22 | - | - |  |
-| ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 22 | - | - |  |
+| ![Dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) | 22 | - | - |  |
+| ![Chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) | 22 | - | - |  |
+| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 22 | - | - |  |
 
 ### Youngster Nicholas
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) | 21 | - | - |  |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) | 21 | - | - |  |
-| ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) | 21 | - | - |  |
+| ![Shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) | 21 | - | - |  |
+| ![Cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) | 21 | - | - |  |
+| ![Treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) | 21 | - | - |  |
 
 ### PKMN Ranger Audra
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) | 22 | - | - |  |
-| ![bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) | 22 | - | - |  |
-| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 22 | - | - |  |
+| ![Tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) | 22 | - | - |  |
+| ![Bulbasaur](../img/pokemon/001.png) | [Bulbasaur](../pokemon/bulbasaur.md) | 22 | - | - |  |
+| ![Scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 22 | - | - |  |
 
 ### PKMN Ranger Irene
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 22 | - | - |  |
-| ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) | 22 | - | - |  |
-| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 22 | - | - |  |
+| ![Roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 22 | - | - |  |
+| ![Chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) | 22 | - | - |  |
+| ![Pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 22 | - | - |  |
 
 ### Team Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 22 | - | - |  |
-| ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 22 | - | - |  |
+| ![Murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 22 | - | - |  |
+| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 22 | - | - |  |
 
 ### PKMN Ranger Miguel
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![vigoroth](../img/pokemon/288.png) | [Vigoroth](../pokemon/vigoroth.md) | 22 | - | - |  |
-| ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) | 22 | - | - |  |
-| ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 22 | - | - |  |
+| ![Vigoroth](../img/pokemon/288.png) | [Vigoroth](../pokemon/vigoroth.md) | 22 | - | - |  |
+| ![Turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) | 22 | - | - |  |
+| ![Mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 22 | - | - |  |
 
 ### Team Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 23 | - | - |  |
-| ![scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) | 23 | - | - |  |
-| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) | 23 | - | - |  |
-| ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) | 23 | - | - |  |
+| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 23 | - | - |  |
+| ![Scraggy](../img/pokemon/559.png) | [Scraggy](../pokemon/scraggy.md) | 23 | - | - |  |
+| ![Beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) | 23 | - | - |  |
+| ![Carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) | 23 | - | - |  |
 
 ### School Kid Millie
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 22 | - | - |  |
-| ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) | 22 | - | - |  |
-| ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) | 22 | - | - |  |
+| ![Tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 22 | - | - |  |
+| ![Furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) | 22 | - | - |  |
+| ![Ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) | 22 | - | - |  |
 
 ### Lass Eva
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) | 22 | - | - |  |
-| ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) | 22 | - | - |  |
-| ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 22 | - | - |  |
-| ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) | 22 | - | - |  |
+| ![Oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) | 22 | - | - |  |
+| ![Bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) | 22 | - | - |  |
+| ![Pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 22 | - | - |  |
+| ![Wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) | 22 | - | - |  |
 
 ### School Kid Sammy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 22 | - | - |  |
-| ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) | 22 | - | - |  |
-| ![charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) | 22 | - | - |  |
-| ![sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) | 22 | - | - |  |
+| ![Linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 22 | - | - |  |
+| ![Noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) | 22 | - | - |  |
+| ![Charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) | 22 | - | - |  |
+| ![Sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) | 22 | - | - |  |
 

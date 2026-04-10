@@ -16,7 +16,6 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 | ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
 | ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
 | ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
-| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |

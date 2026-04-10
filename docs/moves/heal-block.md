@@ -29,5 +29,4 @@ Prevents target from restoring its HP for five turns.
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

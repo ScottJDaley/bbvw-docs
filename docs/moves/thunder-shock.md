@@ -33,6 +33,5 @@ Has a $effect_chance% chance to paralyze the target.
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
-| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
 | ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |

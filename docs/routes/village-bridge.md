@@ -41,7 +41,7 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |
-| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 40% |
+| | Jellicent | 40% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
@@ -65,16 +65,10 @@
 #### Lenora’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | 87 | Intimidate | Air Balloon | [Return](../moves/return.md), [Crunch](../moves/crunch.md), [Fire Fang](../moves/fire-fang.md), [Wild Charge](../moves/wild-charge.md) |
-| |  | 87 | Intimidate | Chople Berry | [Thunder Wave](../moves/thunder-wave.md), [Return](../moves/return.md), [Earthquake](../moves/earthquake.md), [Crunch](../moves/crunch.md) |
-| |  | 87 | Scrappy | Expert Belt | [Outrage](../moves/outrage.md), [Return](../moves/return.md), [Earthquake](../moves/earthquake.md), [Sucker Punch](../moves/sucker-punch.md) |
-| ![stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | Ambipom | Technician | 87 | Technician, [Double Hit](../moves/double-hit.md), [Fake Out](../moves/fake-out.md), [Low Kick](../moves/low-kick.md) |
-| ![granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | Watchog | Analytic | 87 | Keen Eye, [Super Fang](../moves/super-fang.md), [Crunch](../moves/crunch.md), [Low Kick](../moves/low-kick.md) |
-| ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | Bouffalant | Reckless | 89 | Reckless, [Head Charge](../moves/head-charge.md), [Wild Charge](../moves/wild-charge.md), [Stone Edge](../moves/stone-edge.md) |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| |  | ? | - | - |  |
-| | [U-turn](../moves/u-turn.md) | ? | - | - |  |
-| | [Thunder Wave](../moves/thunder-wave.md) | ? | - | - |  |
-| | [Earthquake](../moves/earthquake.md) | ? | - | - |  |
+| ![Stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 87 | Intimidate | Air Balloon | Return, Crunch, Fire Fang, Wild Charge |
+| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 87 | Intimidate | Chople Berry | Thunder Wave, Return, Earthquake, Crunch |
+| ![Kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 87 | Scrappy | Expert Belt | Outrage, Return, Earthquake, Sucker Punch |
+| ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 87 | Technician | Scope Lens | Double Hit, Fake Out, Low Kick, U-turn |
+| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 87 | Keen Eye | Air Balloon | Super Fang, Crunch, Low Kick, Thunder Wave |
+| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 89 | Reckless | Sitrus Berry | Head Charge, Wild Charge, Stone Edge, Earthquake |
 

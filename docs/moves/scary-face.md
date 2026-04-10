@@ -42,7 +42,6 @@ Lowers the target’s Speed by two stages.
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
-| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) |
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |

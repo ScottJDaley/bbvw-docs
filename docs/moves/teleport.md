@@ -15,7 +15,6 @@ Immediately ends wild battles.  No effect otherwise.
 | ![abra](../img/pokemon/063.png) | [Abra](../pokemon/abra.md) |
 | ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
-| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |

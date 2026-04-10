@@ -47,59 +47,55 @@
 #### Cheren’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| |  | Tepig | - | - |  |
-| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | (Clean) |  |
-| | (Regular) | Adaptability | - | Overgrow |  |
-| | Contrary | ? | - | - |  |
-| | Blaze | ? | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
 
 ### Preschooler Sarah
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 35 | - | - |  |
+| ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 35 | - | - |  |
 
 ### Preschooler Billy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 35 | - | - |  |
+| ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 35 | - | - |  |
 
 ### Baker Jenn
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 33 | - | - |  |
-| ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 33 | - | - |  |
+| ![Combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 33 | - | - |  |
+| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 33 | - | - |  |
 
 ### Harlequin Paul
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 32 | - | - |  |
-| ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 32 | - | - |  |
+| ![Palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 32 | - | - |  |
+| ![Seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 32 | - | - |  |
 
 ### Musician Preston
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) | 33 | - | - |  |
+| ![Wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) | 33 | - | - |  |
 
 ### Dancer Brian
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 33 | - | - |  |
-| ![ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 33 | - | - |  |
+| ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 33 | - | - |  |
+| ![Ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 33 | - | - |  |
 
 ### Arist Horton
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
-| ![smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
-| ![smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
 
 ### Backpacker Michael
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 33 | - | - |  |
+| ![Nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 33 | - | - |  |
 
 ### Backpacker Lois
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 33 | - | - |  |
+| ![Shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 33 | - | - |  |
 

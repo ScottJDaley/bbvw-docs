@@ -17,7 +17,6 @@ User switches places with the friendly Pokémon opposite it.
 | ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
 | ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
-| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
