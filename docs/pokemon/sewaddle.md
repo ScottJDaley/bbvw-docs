@@ -16,20 +16,14 @@
 | Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">180</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) |
 |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) | ![poison](../img/types/poison.png) | ![flying](../img/types/flying.png) |
-|  | ![grass](../img/types/grass.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
-|  | ![ground](../img/types/ground.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
@@ -42,11 +36,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 42 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:21.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **310** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

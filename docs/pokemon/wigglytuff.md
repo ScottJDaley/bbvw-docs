@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Cute Charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. |
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Frisk](../abilities/frisk.md)**: Reveals an opponent's held item upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,12 +44,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">50</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">503</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">435</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
+| **Total** | **503** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

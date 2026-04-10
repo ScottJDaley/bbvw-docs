@@ -16,12 +16,6 @@
 | Ability 1 | **[Plus](../abilities/plus.md)**: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | **[Plus](../abilities/plus.md)**: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. |
 | Ability 2 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[Plus](../abilities/plus.md)**: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -49,14 +43,6 @@ None
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | **Total** | **405** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

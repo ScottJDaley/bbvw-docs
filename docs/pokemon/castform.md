@@ -16,12 +16,6 @@
 | Ability 1 | **[Forecast](../abilities/forecast.md)**: Changes castform's type and form to match the weather. | **[Forecast](../abilities/forecast.md)**: Changes castform's type and form to match the weather. |
 | Ability 2 | - | **[Forecast](../abilities/forecast.md)**: Changes castform's type and form to match the weather. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,12 +44,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">500</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">420</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
+| **Total** | **500** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

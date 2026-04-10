@@ -16,12 +16,6 @@
 | Ability 1 | **[Healer](../abilities/healer.md)**: Has a 30% chance of curing each adjacent ally of any major status ailment after each turn. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,14 +40,7 @@ None
 | Special attack | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">485</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">470</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 17](../routes/route-17.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Undella Town](../routes/undella-town.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 100% |
+| **Total** | **485** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

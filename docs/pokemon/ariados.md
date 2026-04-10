@@ -16,19 +16,13 @@
 | Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. |
 | Ability 2 | **[Insomnia](../abilities/insomnia.md)**: Prevents sleep. | **[Insomnia](../abilities/insomnia.md)**: Prevents sleep. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
-|  | ![poison](../img/types/poison.png) | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
-|  | ![bug](../img/types/bug.png) | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
+|  | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![bug](../img/types/bug.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ground](../img/types/ground.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -44,10 +38,7 @@ None
 | Special attack | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">40</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">430</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">400</span> | |
-
-## Locations
-Evolve from [Spinarak](../pokemon/spinarak.md)
+| **Total** | **440** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

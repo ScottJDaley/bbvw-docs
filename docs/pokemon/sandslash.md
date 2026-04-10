@@ -16,12 +16,6 @@
 | Ability 1 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Sand Veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. |
 | Ability 2 | **[Sand rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | **[Sand Rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,15 +41,6 @@ None
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **450** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |
-| [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

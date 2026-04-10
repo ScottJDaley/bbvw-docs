@@ -16,12 +16,6 @@
 | Ability 1 | **[Immunity](../abilities/immunity.md)**: Prevents poison. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 | Ability 2 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -52,11 +46,6 @@ None
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **540** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![shaking grass](../img/items/grass-normal.png) Shaking Grass | 5% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -82,7 +71,7 @@ None
 | 57 | [Giga impact](../moves/giga-impact.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
 | 62 | [Slack off](../moves/slack-off.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 67 | [Double edge](../moves/double-edge.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
-| 72 | -  <span class="pill pill-new">NEW</span>| Selfdestruct | - | - | - | - |
+| 72 | [Selfdestruct](../moves/self-destruct.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 200 | 100 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |  | Stage |
 |:---: | :---: | :---: |
-|![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Female | <br>**[Wormadam]( wormadam.md)** |
+|![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Female | ![wormadam](../img/pokemon/413.png)<br>**[Wormadam]( wormadam.md)** |
 |![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Male | ![mothim](../img/pokemon/414.png)<br>**[Mothim]( mothim.md)** |
 
 ## Abilities
@@ -17,18 +17,12 @@
 | Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Tinted lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. | **[Tinted Lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![rock](../img/types/rock.png) |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) |  |
-|  | ![bug](../img/types/bug.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
+| ![ground](../img/types/ground.png) | ![bug](../img/types/bug.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![rock](../img/types/rock.png) |
+|  |  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) |  |
+|  |  | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
 |  |  | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -44,14 +38,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">104</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">94</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.0%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">96</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">50</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:48.0%; background:#FFDD57;'></div></div> |
 | Speed | 66 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:33.0%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">464</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">424</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 13](../routes/route-13.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| **Total** | **480** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

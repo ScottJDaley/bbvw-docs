@@ -18,12 +18,6 @@
 | Ability 1 | **[Limber](../abilities/limber.md)**: Prevents paralysis. | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. |
 | Ability 2 | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,9 +44,6 @@ None
 | Special defense | 110 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | Speed | 87 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.5%; background:#FFDD57;'></div></div> |
 | **Total** | **455** | |
-
-## Locations
-Evolve from [Tyrogue](../pokemon/tyrogue.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

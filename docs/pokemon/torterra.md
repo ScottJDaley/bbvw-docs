@@ -16,12 +16,6 @@
 | Ability 1 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,9 +40,6 @@
 | Special defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Speed | 56 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.000000000000004%; background:#FF7F0E;'></div></div> |
 | **Total** | **525** | |
-
-## Locations
-Evolve from [Grotle](../pokemon/grotle.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -115,7 +106,7 @@ Evolve from [Grotle](../pokemon/grotle.md)
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | [Block](../moves/block.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 |  | [Earth power](../moves/earth-power.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
-|  | [Frenzy plant](../moves/frenzy-plant.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
+| [frenzy-plant](../moves/frenzy.md) | - | - | - | - | - |
 |  | [Grass pledge](../moves/grass-pledge.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 |  | [Iron head](../moves/iron-head.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 |  | [Iron tail](../moves/iron-tail.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |

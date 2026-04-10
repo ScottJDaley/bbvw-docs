@@ -9,19 +9,12 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br>Lv. 34 | ![cofagrigus](../img/pokemon/563.png)<br>**[Cofagrigus]( cofagrigus.md)** |
-|![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br> | <br>**[Runerigus]( runerigus.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. |
 | Ability 2 | - | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,11 +41,6 @@ None
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **303** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

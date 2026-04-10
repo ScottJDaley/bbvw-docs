@@ -6,21 +6,13 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![dunsparce](../img/pokemon/206.png)<br>**[Dunsparce]( dunsparce.md)** | ➡️<br>Know hyper-drill | <br>**[Dudunsparce]( dudunsparce.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 | Ability 2 | **[Run away](../abilities/run-away.md)**: Ensures success fleeing from wild battles. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -50,12 +42,7 @@ None
 | Special attack | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">455</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">415</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **455** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

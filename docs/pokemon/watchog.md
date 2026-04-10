@@ -16,12 +16,6 @@
 | Ability 1 | **[Illuminate](../abilities/illuminate.md)**: Doubles the wild encounter rate. | **[Analytic](../abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last. |
 | Ability 2 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Keen Eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,12 +44,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">85</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Special defense | 69 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:34.5%; background:#FF7F0E;'></div></div> |
 | Speed | 77 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">435</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">420</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| **Total** | **445** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Suction cups](../abilities/suction-cups.md)**: Prevents being forced out of battle by other Pokémon's moves. | **[Suction Cups](../abilities/suction-cups.md)**: Prevents being forced out of battle by other Pokémon's moves. |
 | Ability 2 | **[Storm drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | **[Storm Drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@ None
 | Special defense | 107 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.5%; background:#FFDD57;'></div></div> |
 | Speed | 43 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:21.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **495** | |
-
-## Locations
-Evolve from [Lileep](../pokemon/lileep.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

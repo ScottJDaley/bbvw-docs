@@ -16,12 +16,6 @@
 | Ability 1 | **[Shadow tag](../abilities/shadow-tag.md)**: Prevents opponents from fleeing or switching out. | **[Shadow Tag](../abilities/shadow-tag.md)**: Prevents opponents from fleeing or switching out. |
 | Ability 2 | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,11 +42,6 @@ None
 | Special defense | 48 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:24.0%; background:#FF7F0E;'></div></div> |
 | Speed | 23 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:11.5%; background:#F34444;'></div></div> |
 | **Total** | **260** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

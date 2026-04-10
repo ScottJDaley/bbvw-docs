@@ -16,18 +16,12 @@
 | Ability 1 | **[Shed skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed Skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
 | Ability 2 | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) | ![normal](../img/types/normal.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![ghost](../img/types/ghost.png) | ![fire](../img/types/fire.png) | ![flying](../img/types/flying.png) |  |
-|  | ![dark](../img/types/dark.png) | ![water](../img/types/water.png) |  |  |
+|  |  | ![water](../img/types/water.png) |  |  |
 |  |  | ![electric](../img/types/electric.png) |  |  |
 |  |  | ![grass](../img/types/grass.png) |  |  |
 |  |  | ![ice](../img/types/ice.png) |  |  |
@@ -48,17 +42,11 @@ None
 | Speed | 48 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:24.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **348** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 4](../routes/route-4.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Drain punch](../moves/drain-punch.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 | Ability 2 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Sand Force](../abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Route 15](../routes/route-15.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

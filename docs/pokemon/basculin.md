@@ -1,26 +1,18 @@
-# Basculin-red-striped
+# Basculin
 
-![basculin-red-striped](../img/pokemon/550.png)
+![basculin](../img/pokemon/550.png)
 
 ## Type
 ![water](../img/types/water.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![basculin](../img/pokemon/550.png)<br>**[Basculin]( basculin.md)** | ➡️<br> | <br>**[Basculegion]( basculegion.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. |
 | Ability 2 | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -47,27 +39,6 @@ None
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 98 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:49.0%; background:#FFDD57;'></div></div> |
 | **Total** | **460** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Route 1](../routes/route-1.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Route 1](../routes/route-1.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Striaton City](../routes/striaton-city.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Victory Road](../routes/victory-road.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Victory Road](../routes/victory-road.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 11](../routes/route-11.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Route 11](../routes/route-11.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Village Bridge](../routes/village-bridge.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Village Bridge](../routes/village-bridge.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Route 14](../routes/route-14.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Route 14](../routes/route-14.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

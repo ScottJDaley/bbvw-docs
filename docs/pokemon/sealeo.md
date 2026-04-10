@@ -16,17 +16,11 @@
 | Ability 1 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Ice body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. | **[Ice body](../abilities/ice-body.md)**: Heals for 1/16 max HP after each turn during hail.  Protects against hail damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  |  | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![fighting](../img/types/fighting.png) |  |
 |  |  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![flying](../img/types/flying.png) |  |  |
@@ -47,12 +41,6 @@ None
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **410** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 30% |
-| [Route 6](../routes/route-6.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

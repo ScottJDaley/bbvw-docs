@@ -16,20 +16,14 @@
 | Ability 1 | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. |
 | Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) |
 |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) | ![poison](../img/types/poison.png) | ![flying](../img/types/flying.png) |
-|  | ![grass](../img/types/grass.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
-|  | ![ground](../img/types/ground.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
@@ -42,13 +36,6 @@ None
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 42 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:21.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **380** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Route 12](../routes/route-12.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

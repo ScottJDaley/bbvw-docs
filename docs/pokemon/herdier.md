@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Sand rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | **[Scrappy](../abilities/scrappy.md)**: Lets the Pokémon's normal and fighting moves hit ghost Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,15 +45,6 @@ None
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **370** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Cold Storage](../routes/cold-storage.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Cold Storage](../routes/cold-storage.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

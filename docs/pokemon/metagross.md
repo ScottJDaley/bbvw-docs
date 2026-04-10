@@ -16,12 +16,6 @@
 | Ability 1 | **[Clear body](../abilities/clear-body.md)**: Prevents stats from being lowered by other Pokémon. | **[Iron Fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 | Ability 2 | **[Light metal](../abilities/light-metal.md)**: Halves the Pokémon's weight. | **[Analytic](../abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,7 +23,6 @@ None
 |  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
 |  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) | ![ghost](../img/types/ghost.png) |  |
 |  | ![flying](../img/types/flying.png) | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
@@ -45,18 +38,13 @@ None
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | **Total** | **600** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Zen headbutt](../moves/zen-headbutt.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 90 | 15 |
 | 1 | [Iron head](../moves/iron-head.md)  <span class="pill pill-new">NEW</span>| ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 1 | [Headbutt](../moves/headbutt.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Take down](../moves/take-down.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
 | 1 | [Confusion](../moves/confusion.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
@@ -116,8 +104,8 @@ None
 ## HM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| HM01 | [Cut](../moves/cut.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | HM02  <span class="pill pill-new">NEW</span>| [Fly](../moves/fly.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 95 | 15 |
+| HM01 | [Cut](../moves/cut.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | HM04 | [Strength](../moves/strength.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves

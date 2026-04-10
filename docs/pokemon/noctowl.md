@@ -16,12 +16,6 @@
 | Ability 1 | **[Insomnia](../abilities/insomnia.md)**: Prevents sleep. | **[Insomnia](../abilities/insomnia.md)**: Prevents sleep. |
 | Ability 2 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Tinted Lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,13 +39,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">96</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">86</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:48.0%; background:#FFDD57;'></div></div> |
 | Special defense | 96 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:48.0%; background:#FFDD57;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">462</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">452</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 20% |
+| **Total** | **462** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

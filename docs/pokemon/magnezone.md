@@ -16,12 +16,6 @@
 | Ability 1 | **[Magnet pull](../abilities/magnet-pull.md)**: Prevents steel opponents from fleeing or switching out. | **[Magnet Pull](../abilities/magnet-pull.md)**: Prevents steel opponents from fleeing or switching out. |
 | Ability 2 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Analytic](../abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,12 +23,10 @@ None
 |  | ![electric](../img/types/electric.png) | ![ghost](../img/types/ghost.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![grass](../img/types/grass.png) | ![dark](../img/types/dark.png) |  |  |
 |  | ![ice](../img/types/ice.png) |  |  |  |
-|  | ![flying](../img/types/flying.png) |  |  |  |
 |  | ![psychic](../img/types/psychic.png) |  |  |  |
 |  | ![bug](../img/types/bug.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -46,9 +38,6 @@ None
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **535** | |
-
-## Locations
-Evolve from [Magneton](../pokemon/magneton.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -65,7 +54,7 @@ Evolve from [Magneton](../pokemon/magneton.md)
 | 22 | [Spark](../moves/spark.md) | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
 | 25 | [Signal beam](../moves/signal-beam.md)  <span class="pill pill-new">NEW</span>| ![bug](../img/types/bug.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 27 | [Electro ball](../moves/electro-ball.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
-| 30 | [Tri attack](../moves/tri-attack.md)  <span class="pill pill-shifted">SHIFTED (from ?)</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
+| 30 | [Tri attack](../moves/tri-attack.md)  <span class="pill pill-shifted">SHIFTED</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | 30 | [Lock on](../moves/lock-on.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 34 | [Magnet bomb](../moves/magnet-bomb.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 40 | [Screech](../moves/screech.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |

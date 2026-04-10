@@ -16,22 +16,15 @@
 | Ability 1 | **[Iron barbs](../abilities/iron-barbs.md)**: Damages attacking Pokémon for 1/8 their max HP on contact. | **[Iron Barbs](../abilities/iron-barbs.md)**: Damages attacking Pokémon for 1/8 their max HP on contact. |
 | Ability 2 | - | **[Iron Barbs](../abilities/iron-barbs.md)**: Damages attacking Pokémon for 1/8 their max HP on contact. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) |
 |  | ![water](../img/types/water.png) | ![ground](../img/types/ground.png) |  |  |
 |  | ![electric](../img/types/electric.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![grass](../img/types/grass.png) | ![bug](../img/types/bug.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![rock](../img/types/rock.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![bug](../img/types/bug.png) |  |  |
+|  | ![rock](../img/types/rock.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
@@ -44,11 +37,6 @@ None
 | Special defense | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
 | Speed | 10 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:5.0%; background:#F34444;'></div></div> |
 | **Total** | **305** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

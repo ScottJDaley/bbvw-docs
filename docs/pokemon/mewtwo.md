@@ -16,12 +16,6 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Unnerve](../abilities/unnerve.md)**: Prevents opposing Pokémon from eating held Berries. | **[Unnerve](../abilities/unnerve.md)**: Prevents opposing Pokémon from eating held Berries. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Apicot Berry](../img/items/apicot-berry.png) Apicot Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,9 +42,6 @@
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 130 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:65.0%; background:#A0E515;'></div></div> |
 | **Total** | **680** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

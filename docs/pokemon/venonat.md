@@ -13,22 +13,16 @@
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compoundeyes.md)**:  |
+| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. |
 | Ability 2 | **[Tinted lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. | **[Tinted Lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
-|  | ![poison](../img/types/poison.png) | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
-|  | ![bug](../img/types/bug.png) | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
+|  | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![bug](../img/types/bug.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ground](../img/types/ground.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -46,15 +40,10 @@ None
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **305** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Leech life](../moves/leech-life.md)  <span class="pill pill-shifted">SHIFTED (from 17)</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
+| 1 | [Leech life](../moves/leech-life.md)  <span class="pill pill-shifted">SHIFTED</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | 1 | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | [Disable](../moves/disable.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 1 | [Foresight](../moves/foresight.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |

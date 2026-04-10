@@ -16,22 +16,14 @@
 | Ability 1 | **[Steadfast](../abilities/steadfast.md)**: Raises Speed one stage upon flinching. | **[Steadfast](../abilities/steadfast.md)**: Raises Speed one stage upon flinching. |
 | Ability 2 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Justified](../abilities/justified.md)**: Raises Attack one stage upon taking damage from a dark move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
 |  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![ice](../img/types/ice.png) | ![flying](../img/types/flying.png) | ![ground](../img/types/ground.png) |  |
-|  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![rock](../img/types/rock.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
-|  | ![dark](../img/types/dark.png) |  |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![dark](../img/types/dark.png) | ![ghost](../img/types/ghost.png) |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
@@ -45,14 +37,11 @@ None
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **525** | |
 
-## Locations
-Evolve from [Riolu](../pokemon/riolu.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Blaze kick](../moves/blaze-kick.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 90 | 10 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Vacuum wave](../moves/vacuum-wave.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
 | 1 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
@@ -68,7 +57,7 @@ Evolve from [Riolu](../pokemon/riolu.md)
 | 24 | [Metal sound](../moves/metal-sound.md) | ![steel](../img/types/steel.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 40 |
 | 26 | [Low kick](../moves/low-kick.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 29 | [Me first](../moves/me-first.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 33 | -  <span class="pill pill-new">NEW</span>| Hi jump kick | - | - | - | - |
+| 33 | [Hi jump kick](../moves/high-jump-kick.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 10 |
 | 33 | [Quick guard](../moves/quick-guard.md) | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | 37 | [Swords dance](../moves/swords-dance.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 42 | [Heal pulse](../moves/heal-pulse.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |

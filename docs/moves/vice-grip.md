@@ -1,9 +1,7 @@
 # Vice grip
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 55  
 **Accuracy:** 100  
 **PP:** 30  
@@ -14,13 +12,13 @@ Inflicts regular damage with no additional effect.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Corphish](../pokemon/corphish.md) |
-|  | [Crawdaunt](../pokemon/crawdaunt.md) |
-|  | [Durant](../pokemon/durant.md) |
-|  | [Kingler](../pokemon/kingler.md) |
-|  | [Klang](../pokemon/klang.md) |
-|  | [Klink](../pokemon/klink.md) |
-|  | [Klinklang](../pokemon/klinklang.md) |
-|  | [Krabby](../pokemon/krabby.md) |
-|  | [Mawile](../pokemon/mawile.md) |
-|  | [Pinsir](../pokemon/pinsir.md) |
+| ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
+| ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
+| ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) |
+| ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
+| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
+| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
+| ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
+| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |

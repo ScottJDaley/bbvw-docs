@@ -16,12 +16,6 @@
 | Ability 1 | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@ None
 | Special defense | 76 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.0%; background:#FFDD57;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **405** | |
-
-## Locations
-Evolve from [Piplup](../pokemon/piplup.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

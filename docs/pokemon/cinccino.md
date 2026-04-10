@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Skill Link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. |
 | Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,13 +44,7 @@ None
 | Special attack | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 115 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">480</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">470</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 9](../routes/route-9.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **480** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

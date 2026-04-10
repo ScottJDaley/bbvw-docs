@@ -16,12 +16,6 @@
 | Ability 1 | **[Run away](../abilities/run-away.md)**: Ensures success fleeing from wild battles. | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. |
 | Ability 2 | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. | **[Limber](../abilities/limber.md)**: Prevents paralysis. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">140</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,11 +45,6 @@ None
 | Special defense | 56 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.000000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | **Total** | **350** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

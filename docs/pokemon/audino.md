@@ -16,12 +16,6 @@
 | Ability 1 | **[Healer](../abilities/healer.md)**: Has a 30% chance of curing each adjacent ally of any major status ailment after each turn. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 | Ability 2 | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,33 +45,6 @@ None
 | Special defense | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **445** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Route 2](../routes/route-2.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 60% |
-| [Dreamyard](../routes/dreamyard.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 40% |
-| [Route 3](../routes/route-3.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 70% |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 50% |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 40% |
-| [Route 5](../routes/route-5.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 40% |
-| [Route 16](../routes/route-16.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 70% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 40% |
-| [Cold Storage](../routes/cold-storage.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 90% |
-| [Route 7](../routes/route-7.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 60% |
-| [Route 17](../routes/route-17.md) | ![shaking grass](../img/items/grass-normal.png) Shaking Grass | 90% |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 95% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 90% |
-| [Route 9](../routes/route-9.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 90% |
-| [Route 10](../routes/route-10.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 100% |
-| [Route 11](../routes/route-11.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 70% |
-| [Route 13](../routes/route-13.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 70% |
-| [Route 15](../routes/route-15.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 70% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

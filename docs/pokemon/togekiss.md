@@ -16,12 +16,6 @@
 | Ability 1 | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | **[Super Luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. |
 | Ability 2 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@ None
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **545** | |
 
-## Locations
-Evolve from [Togetic](../pokemon/togetic.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -62,7 +53,7 @@ Evolve from [Togetic](../pokemon/togetic.md)
 | 1 | [Air slash](../moves/air-slash.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 95 | 15 |
 | 15 | [Tri attack](../moves/tri-attack.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | 27 | [Stored power](../moves/stored-power.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
-| 31 | -  <span class="pill pill-new">NEW</span>| Softboiled | - | - | - | - |
+| 31 | [Softboiled](../moves/soft-boiled.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

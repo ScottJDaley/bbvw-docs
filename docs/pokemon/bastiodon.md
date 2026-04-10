@@ -16,22 +16,15 @@
 | Ability 1 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 | Ability 2 | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) | ![fighting](../img/types/fighting.png) |
-|  | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  | ![ground](../img/types/ground.png) |
-|  | ![flying](../img/types/flying.png) | ![grass](../img/types/grass.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![rock](../img/types/rock.png) | ![steel](../img/types/steel.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
+| ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) | ![fighting](../img/types/fighting.png) |
+|  | ![psychic](../img/types/psychic.png) | ![electric](../img/types/electric.png) |  | ![ground](../img/types/ground.png) |
+|  | ![bug](../img/types/bug.png) | ![grass](../img/types/grass.png) |  |  |
+|  | ![rock](../img/types/rock.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,9 +36,6 @@ None
 | Special defense | 138 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:69.0%; background:#A0E515;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **495** | |
-
-## Locations
-Evolve from [Shieldon](../pokemon/shieldon.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

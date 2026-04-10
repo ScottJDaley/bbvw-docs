@@ -16,12 +16,6 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Rain dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. | **[Rain Dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,12 +39,6 @@ None
 | Special defense | 52 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:26.0%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **269** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 100% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

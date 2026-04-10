@@ -16,12 +16,6 @@
 | Ability 1 | **[Levitate](../abilities/levitate.md)**: Evades ground moves. | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 | Ability 2 | - | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,15 +36,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">115</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
 | Special defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">460</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">460</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Route 13](../routes/route-13.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **480** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -63,7 +49,7 @@ None
 | 12 | [Hypnosis](../moves/hypnosis.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 60 | 20 |
 | 20 | [Rock polish](../moves/rock-polish.md) | ![rock](../img/types/rock.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 23 | [Psywave](../moves/psywave.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
-| 28 | -  <span class="pill pill-new">NEW</span>| Ancientpower | - | - | - | - |
+| 28 | [Ancient power](../moves/ancient-power.md)  <span class="pill pill-new">NEW</span>| ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 5 |
 | 31 | [Embargo](../moves/embargo.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 34 | [Cosmic power](../moves/cosmic-power.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 37 | [Earth power](../moves/earth-power.md)  <span class="pill pill-new">NEW</span>| ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |

@@ -16,20 +16,14 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Flame body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. | **[Flame Body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Liechi Berry](../img/items/liechi-berry.png) Liechi Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |
-|  | ![grass](../img/types/grass.png) | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![poison](../img/types/poison.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |
+|  | ![steel](../img/types/steel.png) | ![poison](../img/types/poison.png) |  |  |
+|  |  | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
@@ -44,9 +38,6 @@
 | Special defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **580** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

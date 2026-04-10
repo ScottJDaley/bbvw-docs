@@ -1,10 +1,8 @@
 # Sonic boom
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![special](../img/types/special.png)  
+**Power:** None  
 **Accuracy:** 90  
 **PP:** 20  
 
@@ -14,16 +12,19 @@ Inflicts 20 points of damage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Buizel](../pokemon/buizel.md) |
-|  | [Electrode](../pokemon/electrode.md) |
-|  | [Floatzel](../pokemon/floatzel.md) |
-|  | [Flygon](../pokemon/flygon.md) |
-|  | [Magnemite](../pokemon/magnemite.md) |
-|  | [Magneton](../pokemon/magneton.md) |
-|  | [Magnezone](../pokemon/magnezone.md) |
-|  | [Munna](../pokemon/munna.md) |
-|  | [Spinarak](../pokemon/spinarak.md) |
-|  | [Vibrava](../pokemon/vibrava.md) |
-|  | [Voltorb](../pokemon/voltorb.md) |
-|  | [Yanma](../pokemon/yanma.md) |
-|  | [Yanmega](../pokemon/yanmega.md) |
+| ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
+| ![electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) |
+| ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
+| ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
+| ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
+| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
+| ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
+| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |
+| ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) |
+| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |
+| ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) |
+| ![voltorb](../img/pokemon/100.png) | [Voltorb](../pokemon/voltorb.md) |
+| ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
+| ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

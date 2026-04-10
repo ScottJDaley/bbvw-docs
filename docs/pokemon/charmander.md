@@ -16,12 +16,6 @@
 | Ability 1 | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. | **[Blaze](../abilities/blaze.md)**: Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | **[Solar Power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Charcoal](../img/items/charcoal.png) Charcoal (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,11 +39,6 @@
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **309** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

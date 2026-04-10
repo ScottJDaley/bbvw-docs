@@ -16,12 +16,6 @@
 | Ability 1 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -44,11 +38,6 @@
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 31 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.5%; background:#F34444;'></div></div> |
 | **Total** | **318** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

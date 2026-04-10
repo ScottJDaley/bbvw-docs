@@ -16,12 +16,6 @@
 | Ability 1 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Sand Force](../abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. |
 | Ability 2 | **[Arena trap](../abilities/arena-trap.md)**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air. | **[Arena Trap](../abilities/arena-trap.md)**: Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | **Total** | **265** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 40% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

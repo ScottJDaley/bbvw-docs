@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Sand rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | **[Scrappy](../abilities/scrappy.md)**: Lets the Pokémon's normal and fighting moves hit ghost Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,10 +44,7 @@ None
 | Special attack | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">520</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">500</span> | |
-
-## Locations
-Evolve from [Herdier](../pokemon/herdier.md)
+| **Total** | **520** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

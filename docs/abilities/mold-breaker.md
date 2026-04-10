@@ -7,8 +7,8 @@ Bypasses targets' abilities if they could hinder or prevent a move.
 | Sprite | Pokemon |
 | --- | --- |
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. |
 | Ability 2 | **[Plus](../abilities/plus.md)**: Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -49,11 +43,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | **Total** | **280** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

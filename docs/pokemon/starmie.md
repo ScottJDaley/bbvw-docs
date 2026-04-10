@@ -16,12 +16,6 @@
 | Ability 1 | **[Illuminate](../abilities/illuminate.md)**: Doubles the wild encounter rate. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 | Ability 2 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,12 +36,6 @@ None
 | Special defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Speed | 115 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
 | **Total** | **520** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 13](../routes/route-13.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 30% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

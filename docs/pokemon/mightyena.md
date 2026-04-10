@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,13 +41,7 @@ None
 | Special attack | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">435</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">420</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **435** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

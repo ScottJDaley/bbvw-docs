@@ -16,12 +16,6 @@
 | Ability 1 | **[Immunity](../abilities/immunity.md)**: Prevents poison. | **[Immunity](../abilities/immunity.md)**: Prevents poison. |
 | Ability 2 | **[Toxic boost](../abilities/toxic-boost.md)**: Increases Attack to 1.5× when poisoned. | **[Toxic Boost](../abilities/toxic-boost.md)**: Increases Attack to 1.5× when poisoned. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -52,18 +46,11 @@ None
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **458** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Village Bridge](../routes/village-bridge.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Night slash](../moves/night-slash.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
@@ -82,7 +69,7 @@ None
 | 48 | [X scissor](../moves/x-scissor.md) | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 53 | [Close combat](../moves/close-combat.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 5 |
 | 57 | [Final gambit](../moves/final-gambit.md)  <span class="pill pill-new">NEW</span>| ![fighting](../img/types/fighting.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
-| 62 | -  <span class="pill pill-new">NEW</span>| Extremespeed | - | - | - | - |
+| 62 | [Extreme speed](../moves/extreme-speed.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

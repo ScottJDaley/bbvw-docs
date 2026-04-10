@@ -6,21 +6,13 @@
 ![normal](../img/types/normal.png) ![psychic](../img/types/psychic.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![girafarig](../img/pokemon/203.png)<br>**[Girafarig]( girafarig.md)** | ➡️<br>Know twin-beam | <br>**[Farigiraf]( farigiraf.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Sap Sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. |
 | Ability 2 | **[Early bird](../abilities/early-bird.md)**: Makes sleep pass twice as quickly. | **[Early Bird](../abilities/early-bird.md)**: Makes sleep pass twice as quickly. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,14 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">110</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">105</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">495</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">455</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **495** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Own Tempo](../abilities/own-tempo.md)**: Prevents confusion. |
 | Ability 2 | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,11 +40,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | **Total** | **305** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

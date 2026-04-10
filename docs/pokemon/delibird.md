@@ -16,12 +16,6 @@
 | Ability 1 | **[Vital spirit](../abilities/vital-spirit.md)**: Prevents sleep. | **[Vital Spirit](../abilities/vital-spirit.md)**: Prevents sleep. |
 | Ability 2 | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,14 +39,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">105</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">55</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">45</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">115</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">75</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">475</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">330</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Cold Storage](../routes/cold-storage.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
+| **Total** | **475** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

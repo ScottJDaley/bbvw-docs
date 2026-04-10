@@ -1,9 +1,7 @@
 # Searing shot
 
-**TM/HM:** 
-
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 100  
 **Accuracy:** 100  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to burn the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Victini](../pokemon/victini.md) |
+| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |

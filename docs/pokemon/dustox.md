@@ -15,21 +15,15 @@
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Shield dust](../abilities/shield-dust.md)**: Protects against incoming moves' extra effects. | **[Shield Dust](../abilities/shield-dust.md)**: Protects against incoming moves' extra effects. |
-| Ability 2 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compoundeyes.md)**:  |
-
-## Base Happiness
-70
-
-## Held Items
-None
+| Ability 2 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
-|  | ![poison](../img/types/poison.png) | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
-|  | ![bug](../img/types/bug.png) | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
+|  | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![bug](../img/types/bug.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ground](../img/types/ground.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -45,26 +39,20 @@ None
 | Special attack | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">105</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">85</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">420</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">385</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 2](../routes/route-2.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Route 12](../routes/route-12.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **420** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Poison sting](../moves/poison-sting.md)  <span class="pill pill-shifted">SHIFTED (from ?)</span>| ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
-| 1 | [Bug bite](../moves/bug-bite.md)  <span class="pill pill-shifted">SHIFTED (from ?)</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| 1 | [Poison sting](../moves/poison-sting.md)  <span class="pill pill-shifted">SHIFTED</span>| ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
+| 1 | [Bug bite](../moves/bug-bite.md)  <span class="pill pill-shifted">SHIFTED</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 1 | [Confusion](../moves/confusion.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
 | 10 | [Air cutter](../moves/air-cutter.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 95 | 25 |
 | 10 | [Clear smog](../moves/clear-smog.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | - | 15 |
 | 10 | [Struggle bug](../moves/struggle-bug.md)  <span class="pill pill-new">NEW</span>| ![bug](../img/types/bug.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 20 |
 | 13 | [Gust](../moves/gust.md) | ![flying](../img/types/flying.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 17 | [Sleep powder](../moves/sleep-powder.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 15 |
-| 17 | -  <span class="pill pill-new">NEW</span>| Reflect, light screen | - | - | - | - |
+| 17 | [Reflect](../moves/reflect.md), [ light screen](../moves/light-screen.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 17 | [Protect](../moves/protect.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | 20 | [Moonlight](../moves/moonlight.md) | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 24 | [Psybeam](../moves/psybeam.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |

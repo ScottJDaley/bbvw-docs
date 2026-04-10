@@ -16,12 +16,6 @@
 | Ability 1 | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. |
 | Ability 2 | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,12 +39,6 @@ None
 | Speed | 66 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:33.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **280** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -73,7 +61,7 @@ None
 | 40 | [Sunny day](../moves/sunny-day.md) | ![fire](../img/types/fire.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 44 | [Endeavor](../moves/endeavor.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
 | 46 | [Solar beam](../moves/solar-beam.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
-| 64 | -  <span class="pill pill-new">NEW</span>| Grasswhistle | - | - | - | - |
+| 64 | [Grass whistle](../moves/grass-whistle.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 55 | 15 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

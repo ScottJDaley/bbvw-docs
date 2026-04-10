@@ -16,12 +16,6 @@
 | Ability 1 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 | Ability 2 | **[Rock head](../abilities/rock-head.md)**: Protects against recoil damage. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -44,13 +38,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 10 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:5.0%; background:#F34444;'></div></div> |
 | **Total** | **290** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

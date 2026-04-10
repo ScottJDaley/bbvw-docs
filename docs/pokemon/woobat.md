@@ -16,18 +16,12 @@
 | Ability 1 | **[Unaware](../abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | **[Unaware](../abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. |
 | Ability 2 | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">180</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
-|  | ![psychic](../img/types/psychic.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
+|  | ![psychic](../img/types/psychic.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
+|  |  | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![bug](../img/types/bug.png) |  |  |
@@ -44,16 +38,6 @@ None
 | Special defense | 43 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:21.5%; background:#FF7F0E;'></div></div> |
 | Speed | 72 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:36.0%; background:#FFDD57;'></div></div> |
 | **Total** | **323** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

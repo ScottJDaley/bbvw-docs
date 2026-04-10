@@ -14,13 +14,7 @@
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
-| Ability 2 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[LightningRod](../abilities/lightningrod.md)**:  |
-
-## Base Happiness
-70
-
-## Held Items
-- ![Salac Berry](../img/items/salac-berry.png) Salac Berry (100%)
+| Ability 2 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[LightningRod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -45,9 +39,6 @@
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **580** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

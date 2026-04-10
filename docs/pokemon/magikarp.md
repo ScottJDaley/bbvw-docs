@@ -16,12 +16,6 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,13 +41,6 @@ None
 | Special defense | 20 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:10.0%; background:#F34444;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **200** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 100% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

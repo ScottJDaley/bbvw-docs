@@ -6,21 +6,13 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![teddiursa](../img/pokemon/216.png)<br>**[Teddiursa]( teddiursa.md)** | ➡️<br>Lv. 30 | ![ursaring](../img/pokemon/217.png)<br>**[Ursaring]( ursaring.md)** | ➡️<br>Use peat-block | <br>**[Ursaluna]( ursaluna.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. |
 | Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Honey Gather](../abilities/honey-gather.md)**: The Pokémon may pick up honey after battle. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -52,17 +44,11 @@ None
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **330** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Crunch](../moves/crunch.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |

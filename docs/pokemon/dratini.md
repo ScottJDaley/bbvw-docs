@@ -16,12 +16,6 @@
 | Ability 1 | **[Shed skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed Skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
 | Ability 2 | **[Marvel scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. | **[Marvel Scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,22 +42,12 @@ None
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **300** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Route 11](../routes/route-11.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Hydro pump](../moves/hydro-pump.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
 | 1 | [Coil](../moves/coil.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Extremespeed | - | - | - | - |
+| 1 | [Extreme speed](../moves/extreme-speed.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 5 |
 | 1 | [Wrap](../moves/wrap.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 90 | 20 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 5 | [Thunder wave](../moves/thunder-wave.md) | ![electric](../img/types/electric.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |

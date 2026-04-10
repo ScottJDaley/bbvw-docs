@@ -16,12 +16,6 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Justified](../abilities/justified.md)**: Raises Attack one stage upon taking damage from a dark move. |
 | Ability 2 | **[Super luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. | **[Super Luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,13 +42,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | **Total** | **465** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 10% |
-| [Route 13](../routes/route-13.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

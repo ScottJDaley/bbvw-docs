@@ -16,20 +16,14 @@
 | Ability 1 | **[Flame body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. | **[Flame Body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. |
 | Ability 2 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |
-|  | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![flying](../img/types/flying.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![electric](../img/types/electric.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![poison](../img/types/poison.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![ground](../img/types/ground.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |
+|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![flying](../img/types/flying.png) |  |
+|  | ![bug](../img/types/bug.png) | ![electric](../img/types/electric.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![poison](../img/types/poison.png) |  |  |
+|  |  | ![ground](../img/types/ground.png) |  |  |
 |  |  | ![psychic](../img/types/psychic.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -45,11 +39,6 @@ None
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **360** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 2% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

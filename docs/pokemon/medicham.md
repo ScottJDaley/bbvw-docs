@@ -16,12 +16,6 @@
 | Ability 1 | **[Pure power](../abilities/pure-power.md)**: Doubles Attack in battle. | **[Pure Power](../abilities/pure-power.md)**: Doubles Attack in battle. |
 | Ability 2 | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,12 +44,6 @@ None
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **410** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -69,7 +57,7 @@ None
 | 1 | [Detect](../moves/detect.md) | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 15 | [Hidden power](../moves/hidden-power.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
 | 18 | [Mind reader](../moves/mind-reader.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| 20 | [Force palm](../moves/force-palm.md)  <span class="pill pill-shifted">SHIFTED (from 29)</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
+| 20 | [Force palm](../moves/force-palm.md)  <span class="pill pill-shifted">SHIFTED</span>| ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 10 |
 | 22 | [Feint](../moves/feint.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 10 |
 | 25 | [Calm mind](../moves/calm-mind.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 28 | [Psycho cut](../moves/psycho-cut.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |

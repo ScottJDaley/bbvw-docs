@@ -1,11 +1,9 @@
 # Coil
 
-**TM/HM:** 
-
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 20  
 
 ## Description
@@ -14,18 +12,18 @@ Raises the user’s Attack, Defense, and accuracy by one stage each.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Arbok](../pokemon/arbok.md) |
-|  | [Dragonair](../pokemon/dragonair.md) |
-|  | [Dragonite](../pokemon/dragonite.md) |
-|  | [Dratini](../pokemon/dratini.md) |
-|  | [Dunsparce](../pokemon/dunsparce.md) |
-|  | [Eelektrik](../pokemon/eelektrik.md) |
-|  | [Eelektross](../pokemon/eelektross.md) |
-|  | [Ekans](../pokemon/ekans.md) |
-|  | [Onix](../pokemon/onix.md) |
-|  | [Serperior](../pokemon/serperior.md) |
-|  | [Servine](../pokemon/servine.md) |
-|  | [Seviper](../pokemon/seviper.md) |
-|  | [Snivy](../pokemon/snivy.md) |
-|  | [Steelix](../pokemon/steelix.md) |
-|  | [Tynamo](../pokemon/tynamo.md) |
+| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) |
+| ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
+| ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
+| ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
+| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
+| ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
+| ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) |
+| ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
+| ![onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) |
+| ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
+| ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
+| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
+| ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
+| ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
+| ![tynamo](../img/pokemon/602.png) | [Tynamo](../pokemon/tynamo.md) |

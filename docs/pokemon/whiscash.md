@@ -16,12 +16,6 @@
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. |
 | Ability 2 | **[Anticipation](../abilities/anticipation.md)**: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,20 +40,7 @@ None
 | Special attack | 76 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.0%; background:#FFDD57;'></div></div> |
 | Special defense | 71 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.5%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">488</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">468</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 100% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Victory Road](../routes/victory-road.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Victory Road](../routes/victory-road.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
+| **Total** | **488** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

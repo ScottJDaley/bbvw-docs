@@ -1,9 +1,7 @@
 # Techno blast
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 5  
@@ -14,4 +12,4 @@ If the user is holding a appropriate plate or drive, the damage inflicted will m
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Genesect](../pokemon/genesect.md) |
+| ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |

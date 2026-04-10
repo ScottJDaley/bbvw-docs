@@ -1,9 +1,7 @@
 # Comet punch
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 18  
 **Accuracy:** 85  
 **PP:** 15  
@@ -14,8 +12,8 @@ Hits 2-5 times in one turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Hitmonchan](../pokemon/hitmonchan.md) |
-|  | [Kangaskhan](../pokemon/kangaskhan.md) |
-|  | [Ledian](../pokemon/ledian.md) |
-|  | [Ledyba](../pokemon/ledyba.md) |
-|  | [Timburr](../pokemon/timburr.md) |
+| ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
+| ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |
+| ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) |
+| ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |

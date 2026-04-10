@@ -16,20 +16,14 @@
 | Ability 1 | **[Rock head](../abilities/rock-head.md)**: Protects against recoil damage. | **[Weak Armor](../abilities/weak-armor.md)**: Raises Speed and lowers Defense by one stage each upon being hit by a physical move. |
 | Ability 2 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![electric](../img/types/electric.png) | ![normal](../img/types/normal.png) | ![psychic](../img/types/psychic.png) | ![ice](../img/types/ice.png) | ![water](../img/types/water.png) |
 |  | ![fire](../img/types/fire.png) | ![bug](../img/types/bug.png) | ![fighting](../img/types/fighting.png) | ![grass](../img/types/grass.png) |
-|  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
-|  | ![flying](../img/types/flying.png) | ![dragon](../img/types/dragon.png) | ![steel](../img/types/steel.png) |  |
-|  | ![rock](../img/types/rock.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
+|  | ![rock](../img/types/rock.png) | ![dragon](../img/types/dragon.png) | ![steel](../img/types/steel.png) |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -40,13 +34,7 @@ None
 | Special attack | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">410</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">385</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| **Total** | **410** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

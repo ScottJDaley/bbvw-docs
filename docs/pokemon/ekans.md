@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Shed skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed Skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Kebia Berry](../img/items/kebia-berry.png) Kebia Berry (5%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,11 +41,6 @@
 | Special defense | 54 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.0%; background:#FF7F0E;'></div></div> |
 | Speed | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | **Total** | **288** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

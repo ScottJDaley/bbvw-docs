@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Shed skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed Skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Kebia Berry](../img/items/kebia-berry.png) Kebia Berry (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,12 +40,7 @@
 | Special attack | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Special defense | 79 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:39.5%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">87</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">471</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">448</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| **Total** | **471** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

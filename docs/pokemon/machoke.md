@@ -16,12 +16,6 @@
 | Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. |
 | Ability 2 | **[No guard](../abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit. | **[No Guard](../abilities/no-guard.md)**: Ensures all moves used by and against the Pokémon hit. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,12 +42,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **405** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 15](../routes/route-15.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -6,21 +6,13 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![zigzagoon](../img/pokemon/263.png)<br>**[Zigzagoon]( zigzagoon.md)** | ➡️<br>Lv. 20 | ![linoone](../img/pokemon/264.png)<br>**[Linoone]( linoone.md)** | ➡️<br>Lv. 35 | <br>**[Obstagoon]( obstagoon.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. | **[Pickup](../abilities/pickup.md)**: Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle. |
 | Ability 2 | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. | **[Quick Feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -50,13 +42,7 @@ None
 | Special attack | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 61 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.5%; background:#FF7F0E;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">435</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">420</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| **Total** | **435** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -70,7 +56,7 @@ None
 | 1 | [Switcheroo](../moves/switcheroo.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 13 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 17 | [Odor sleuth](../moves/odor-sleuth.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
-| 20 | -  <span class="pill pill-new">NEW</span>| Extremespeed | - | - | - | - |
+| 20 | [Extreme speed](../moves/extreme-speed.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 5 |
 | 23 | [Mud sport](../moves/mud-sport.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | 29 | [Fury swipes](../moves/fury-swipes.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 18 | 80 | 15 |
 | 35 | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |

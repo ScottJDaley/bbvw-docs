@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Normalize](../abilities/normalize.md)**: Makes the Pokémon's moves all act normal-type. |
 | Ability 2 | **[Normalize](../abilities/normalize.md)**: Makes the Pokémon's moves all act normal-type. | **[Wonder Skin](../abilities/wonder-skin.md)**: Lowers incoming non-damaging moves' base accuracy to exactly 50%. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,10 +44,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">55</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">450</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">400</span> | |
-
-## Locations
-Evolve from [Skitty](../pokemon/skitty.md)
+| **Total** | **450** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. |
 | Ability 2 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Expert Belt](../img/items/expert-belt.png) Expert Belt (5%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -49,19 +43,11 @@
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **465** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 17](../routes/route-17.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Route 17](../routes/route-17.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 15](../routes/route-15.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Bind](../moves/bind.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 20 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |

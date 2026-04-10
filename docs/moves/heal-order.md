@@ -1,11 +1,9 @@
 # Heal order
 
-**TM/HM:** 
-
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,4 +12,4 @@ Heals the user by half its max HP.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Vespiquen](../pokemon/vespiquen.md) |
+| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |

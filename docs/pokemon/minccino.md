@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Skill Link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. |
 | Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,12 +45,6 @@ None
 | Special defense | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | Speed | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | **Total** | **300** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 9](../routes/route-9.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

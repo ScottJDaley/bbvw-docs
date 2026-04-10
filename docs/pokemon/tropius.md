@@ -16,18 +16,12 @@
 | Ability 1 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 | Ability 2 | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | **[Harvest](../abilities/harvest.md)**: Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) |  |
+|  |  | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
 |  |  | ![bug](../img/types/bug.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -43,15 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">72</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">87</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">70</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">51</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">535</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">460</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 17](../routes/route-17.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 14](../routes/route-14.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **535** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

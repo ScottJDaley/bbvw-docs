@@ -16,12 +16,6 @@
 | Ability 1 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Contrary](../abilities/contrary.md)**: Inverts stat changes. | **[Contrary](../abilities/contrary.md)**: Inverts stat changes. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">0</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,9 +39,6 @@
 | Speed | 83 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.5%; background:#FFDD57;'></div></div> |
 | **Total** | **413** | |
 
-## Locations
-Evolve from [Snivy](../pokemon/snivy.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,20 +51,20 @@ Evolve from [Snivy](../pokemon/snivy.md)
 | 17 | [Twister](../moves/twister.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |
 | 20 | [Leech seed](../moves/leech-seed.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
 | 24 | [Zen headbutt](../moves/zen-headbutt.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 90 | 15 |
-| 24 | [Mega drain](../moves/mega-drain.md)  <span class="pill pill-removed">REMOVED</span>| ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
+| 24 | [Mega drain](../moves/mega-drain.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | 28 | [Slam](../moves/slam.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 75 | 20 |
 | 32 | [Leaf blade](../moves/leaf-blade.md) | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |
-| 36 | -  <span class="pill pill-new">NEW</span>| Dragonbreath | - | - | - | - |
+| 36 | [Dragon breath](../moves/dragon-breath.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 36 | [Coil](../moves/coil.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 40 | [Giga drain](../moves/giga-drain.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 10 |
 | 44 | [Iron tail](../moves/iron-tail.md)  <span class="pill pill-new">NEW</span>| ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
-| 44 | [Wring out](../moves/wring-out.md)  <span class="pill pill-removed">REMOVED</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
+| 44 | [Wring out](../moves/wring-out.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
 | 48 | [Gastro acid](../moves/gastro-acid.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 50 | [Dragon pulse](../moves/dragon-pulse.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
 | 56 | [Power whip](../moves/power-whip.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 85 | 10 |
 | 62 | [Outrage](../moves/outrage.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 68 | [Mirror coat](../moves/mirror-coat.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-| 74 | [Leaf storm](../moves/leaf-storm.md)  <span class="pill pill-shifted">SHIFTED (from 52)</span>| ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 5 |
+| 74 | [Leaf storm](../moves/leaf-storm.md)  <span class="pill pill-shifted">SHIFTED</span>| ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 90 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

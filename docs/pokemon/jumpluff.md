@@ -16,18 +16,12 @@
 | Ability 1 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 | Ability 2 | **[Leaf guard](../abilities/leaf-guard.md)**: Protects against major status ailments during strong sunlight. | **[Prankster](../abilities/prankster.md)**: Raises non-damaging moves' priority by one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) |  |
+|  |  | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
 |  |  | ![bug](../img/types/bug.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -44,9 +38,6 @@ None
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 110 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | **Total** | **460** | |
-
-## Locations
-Evolve from [Skiploom](../pokemon/skiploom.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Snow warning](../abilities/snow-warning.md)**: Summons hail that lasts indefinitely upon entering battle. | **[Snow Warning](../abilities/snow-warning.md)**: Summons hail that lasts indefinitely upon entering battle. |
 | Ability 2 | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,12 +36,6 @@ None
 | Special defense | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **494** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

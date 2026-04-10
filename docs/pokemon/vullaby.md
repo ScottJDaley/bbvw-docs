@@ -16,12 +16,6 @@
 | Ability 1 | **[Big pecks](../abilities/big-pecks.md)**: Protects against Defense drops. | **[Big Pecks](../abilities/big-pecks.md)**: Protects against Defense drops. |
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,12 +39,6 @@ None
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **370** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 4](../routes/route-4.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

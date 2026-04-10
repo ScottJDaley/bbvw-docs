@@ -16,12 +16,6 @@
 | Ability 1 | **[Sticky hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. | **[Sticky Hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. |
 | Ability 2 | **[Storm drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | **[Storm Drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,12 +41,6 @@ None
 | Special defense | 62 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:31.0%; background:#FF7F0E;'></div></div> |
 | Speed | 34 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.0%; background:#F34444;'></div></div> |
 | **Total** | **325** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

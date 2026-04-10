@@ -13,14 +13,8 @@
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compoundeyes.md)**:  |
+| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. |
 | Ability 2 | **[Unnerve](../abilities/unnerve.md)**: Prevents opposing Pokémon from eating held Berries. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -46,13 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">107</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">97</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.5%; background:#FFDD57;'></div></div> |
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">118</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">108</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:59.0%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">492</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">472</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Route 14](../routes/route-14.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **492** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

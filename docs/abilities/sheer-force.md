@@ -11,7 +11,7 @@ Strengthens moves with extra effects to 1.3× their power, but prevents their ex
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
-| ![darmanitan-standard](../img/pokemon/555.png) | [Darmanitan-standard](../pokemon/darmanitan-standard.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
 | ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
 | ![flareon](../img/pokemon/136.png) | [Flareon](../pokemon/flareon.md) |
@@ -19,7 +19,7 @@ Strengthens moves with extra effects to 1.3× their power, but prevents their ex
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
-| ![landorus-incarnate](../img/pokemon/645.png) | [Landorus-incarnate](../pokemon/landorus-incarnate.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |

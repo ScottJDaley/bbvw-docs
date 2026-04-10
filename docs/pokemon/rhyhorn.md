@@ -16,20 +16,14 @@
 | Ability 1 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. |
 | Ability 2 | **[Rock head](../abilities/rock-head.md)**: Protects against recoil damage. | **[Rock Head](../abilities/rock-head.md)**: Protects against recoil damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![electric](../img/types/electric.png) | ![normal](../img/types/normal.png) | ![psychic](../img/types/psychic.png) | ![ice](../img/types/ice.png) | ![water](../img/types/water.png) |
 |  | ![fire](../img/types/fire.png) | ![bug](../img/types/bug.png) | ![fighting](../img/types/fighting.png) | ![grass](../img/types/grass.png) |
-|  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
-|  | ![flying](../img/types/flying.png) | ![dragon](../img/types/dragon.png) | ![steel](../img/types/steel.png) |  |
-|  | ![rock](../img/types/rock.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
+|  | ![rock](../img/types/rock.png) | ![dragon](../img/types/dragon.png) | ![steel](../img/types/steel.png) |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -41,12 +35,6 @@ None
 | Special defense | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | Speed | 25 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:12.5%; background:#F34444;'></div></div> |
 | **Total** | **345** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

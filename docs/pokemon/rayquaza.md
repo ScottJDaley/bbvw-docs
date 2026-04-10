@@ -16,20 +16,14 @@
 | Ability 1 | **[Air lock](../abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself. | **[Air Lock](../abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 | Ability 2 | - | **[Air Lock](../abilities/air-lock.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![rock](../img/types/rock.png) | ![ice](../img/types/ice.png) |
 |  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) | ![dragon](../img/types/dragon.png) |  |
-|  | ![grass](../img/types/grass.png) | ![poison](../img/types/poison.png) |  |  |
-|  | ![fighting](../img/types/fighting.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![poison](../img/types/poison.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -44,9 +38,6 @@ None
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | **Total** | **680** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

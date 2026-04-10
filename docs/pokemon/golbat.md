@@ -16,19 +16,13 @@
 | Ability 1 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Inner Focus](../abilities/inner-focus.md)**: Prevents flinching. |
 | Ability 2 | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. | **[Infiltrator](../abilities/infiltrator.md)**: Bypasses light screen, reflect, and safeguard. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">140</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
-|  | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) | ![psychic](../img/types/psychic.png) |  |
-|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
+| ![ground](../img/types/ground.png) | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
+|  |  | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
+|  |  | ![water](../img/types/water.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
@@ -45,17 +39,6 @@ None
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **455** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Route 13](../routes/route-13.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -66,7 +49,7 @@ None
 | 1 | [Leech life](../moves/leech-life.md) | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | 1 | [Astonish](../moves/astonish.md) | ![ghost](../img/types/ghost.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 100 | 15 |
 | 13 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
-| 16 | [Wing attack](../moves/wing-attack.md)  <span class="pill pill-shifted">SHIFTED (from 17)</span>| ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 35 |
+| 16 | [Wing attack](../moves/wing-attack.md)  <span class="pill pill-shifted">SHIFTED</span>| ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 35 |
 | 18 | [Hypnosis](../moves/hypnosis.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 60 | 20 |
 | 21 | [Confuse ray](../moves/confuse-ray.md) | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 22 | [Roost](../moves/roost.md)  <span class="pill pill-new">NEW</span>| ![flying](../img/types/flying.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |

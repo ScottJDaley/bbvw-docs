@@ -16,12 +16,6 @@
 | Ability 1 | **[Run away](../abilities/run-away.md)**: Ensures success fleeing from wild battles. | **[Rattled](../abilities/rattled.md)**: Raises Speed one stage upon being hit by a dark, ghost, or bug move. |
 | Ability 2 | **[Quick feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. | **[Quick Feet](../abilities/quick-feet.md)**: Increases Speed to 1.5× with a major status ailment. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,11 +42,6 @@ None
 | Special defense | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | **Total** | **220** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 2](../routes/route-2.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

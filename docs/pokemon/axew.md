@@ -16,12 +16,6 @@
 | Ability 1 | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. |
 | Ability 2 | **[Mold breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,17 +42,11 @@ None
 | Speed | 57 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.499999999999996%; background:#FF7F0E;'></div></div> |
 | **Total** | **320** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Aqua tail](../moves/aqua-tail.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
 | 1 | [Iron tail](../moves/iron-tail.md)  <span class="pill pill-new">NEW</span>| ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |

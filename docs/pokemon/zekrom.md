@@ -16,21 +16,15 @@
 | Ability 1 | **[Teravolt](../abilities/teravolt.md)**: Bypasses targets' abilities if they could hinder or prevent moves. | **[TeraVolt](../abilities/teravolt.md)**: Bypasses targets' abilities if they could hinder or prevent moves. |
 | Ability 2 | - | **[TeraVolt](../abilities/teravolt.md)**: Bypasses targets' abilities if they could hinder or prevent moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![ice](../img/types/ice.png) |  |
 |  | ![water](../img/types/water.png) | ![fighting](../img/types/fighting.png) | ![ground](../img/types/ground.png) |  |
-|  | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![dragon](../img/types/dragon.png) |  |
-|  | ![grass](../img/types/grass.png) | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![bug](../img/types/bug.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![rock](../img/types/rock.png) |  |  |
+|  | ![grass](../img/types/grass.png) | ![poison](../img/types/poison.png) | ![dragon](../img/types/dragon.png) |  |
+|  | ![flying](../img/types/flying.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![bug](../img/types/bug.png) |  |  |
+|  |  | ![rock](../img/types/rock.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 
@@ -45,9 +39,6 @@ None
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **680** | |
 
-## Locations
-No known wild location.
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -61,7 +52,7 @@ No known wild location.
 | 43 | [Zen headbutt](../moves/zen-headbutt.md) | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 90 | 15 |
 | 50 | [Fusion bolt](../moves/fusion-bolt.md) | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
 | 54 | [Dragon claw](../moves/dragon-claw.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
-| 71 | [Bolt strike](../moves/bolt-strike.md)  <span class="pill pill-shifted">SHIFTED (from 100)</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 85 | 5 |
+| 71 | [Bolt strike](../moves/bolt-strike.md)  <span class="pill pill-shifted">SHIFTED</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 130 | 85 | 5 |
 | 71 | [Crunch](../moves/crunch.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 78 | [Thunder](../moves/thunder.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 10 |
 | 85 | [Outrage](../moves/outrage.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
@@ -70,10 +61,10 @@ No known wild location.
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TM26  <span class="pill pill-new">NEW</span>| [Earthquake](../moves/earthquake.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |
 | TM57 | [Charge beam](../moves/charge-beam.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 90 | 10 |
 | TM32 | [Double team](../moves/double-team.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 | TM82 | [Dragon tail](../moves/dragon-tail.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 90 | 10 |
-| TM26  <span class="pill pill-new">NEW</span>| [Earthquake](../moves/earthquake.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 10 |
 | TM49 | [Echoed voice](../moves/echoed-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | TM42 | [Facade](../moves/facade.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | TM70 | [Flash](../moves/flash.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Levitate](../abilities/levitate.md)**: Evades ground moves. | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 | Ability 2 | - | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,12 +36,6 @@ None
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | **Total** | **300** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

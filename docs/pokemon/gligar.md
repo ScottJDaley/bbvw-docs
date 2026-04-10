@@ -16,12 +16,6 @@
 | Ability 1 | **[Hyper cutter](../abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon. | **[Hyper Cutter](../abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon. |
 | Ability 2 | **[Sand veil](../abilities/sand-veil.md)**: Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage. | **[Immunity](../abilities/immunity.md)**: Prevents poison. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,14 +40,6 @@ None
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | **Total** | **430** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Route 7](../routes/route-7.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 15](../routes/route-15.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

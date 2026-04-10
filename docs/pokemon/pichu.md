@@ -14,13 +14,7 @@
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. |
-| Ability 2 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[LightningRod](../abilities/lightningrod.md)**:  |
-
-## Base Happiness
-<span style="color:green; font-weight:bold;">200</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
+| Ability 2 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[LightningRod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -49,11 +43,6 @@ None
 | Special defense | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **205** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

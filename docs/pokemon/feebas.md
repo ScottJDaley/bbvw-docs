@@ -16,12 +16,6 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,13 +41,6 @@ None
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **200** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Route 1](../routes/route-1.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 10% |
-| [Route 1](../routes/route-1.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

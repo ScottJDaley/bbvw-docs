@@ -16,12 +16,6 @@
 | Ability 1 | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. |
 | Ability 2 | **[Weak armor](../abilities/weak-armor.md)**: Raises Speed and lowers Defense by one stage each upon being hit by a physical move. | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,12 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Special defense | 82 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.0%; background:#FFDD57;'></div></div> |
 | Speed | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">494</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">474</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 9](../routes/route-9.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **494** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

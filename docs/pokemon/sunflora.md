@@ -16,12 +16,6 @@
 | Ability 1 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 | Ability 2 | **[Solar power](../abilities/solar-power.md)**: Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,12 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">135</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">105</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:67.5%; background:#A0E515;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">495</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">425</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 12](../routes/route-12.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
+| **Total** | **495** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

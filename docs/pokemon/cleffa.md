@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Friend Guard](../abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×. |
 | Ability 2 | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">200</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -54,11 +48,6 @@ None
 | Speed | 15 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:7.5%; background:#F34444;'></div></div> |
 | **Total** | **218** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -72,7 +61,7 @@ None
 | 19 | [Stored power](../moves/stored-power.md)  <span class="pill pill-new">NEW</span>| ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
 | 22 | [Swift](../moves/swift.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 23 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 23 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 23 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 23 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 25 | [Petal dance](../moves/petal-dance.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 34 | [Aromatherapy](../moves/aromatherapy.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |

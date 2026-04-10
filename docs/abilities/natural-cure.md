@@ -18,7 +18,7 @@ Cures any major status ailment upon switching out.
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
-| ![shaymin-land](../img/pokemon/492.png) | [Shaymin-land](../pokemon/shaymin-land.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |

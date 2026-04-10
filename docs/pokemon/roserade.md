@@ -16,19 +16,13 @@
 | Ability 1 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 | Ability 2 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
 |  | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
 |  |  | ![rock](../img/types/rock.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -44,12 +38,7 @@ None
 | Special attack | 125 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:62.5%; background:#A0E515;'></div></div> |
 | Special defense | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">525</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">515</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Village Bridge](../routes/village-bridge.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
+| **Total** | **525** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

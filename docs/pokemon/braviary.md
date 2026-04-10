@@ -16,12 +16,6 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. |
 | Ability 2 | **[Sheer force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **510** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
-| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -77,7 +63,7 @@ None
 | 57 | [Whirlwind](../moves/whirlwind.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 63 | [Brave bird](../moves/brave-bird.md) | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 | 70 | [Thrash](../moves/thrash.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
-| 75 | -  <span class="pill pill-new">NEW</span>| Extremespeed | - | - | - | - |
+| 75 | [Extreme speed](../moves/extreme-speed.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 5 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

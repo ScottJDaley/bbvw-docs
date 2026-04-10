@@ -13,14 +13,8 @@
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Color change](../abilities/color-change.md)**: Changes type to match when hit by a damaging move. | **[Colour Change](../abilities/colour-change.md)**:  |
-| Ability 2 | **[Protean](../abilities/protean.md)**: Changes the bearer's type to match each move it uses. | **[Colour Change](../abilities/colour-change.md)**:  |
-
-## Base Happiness
-70
-
-## Held Items
-None
+| Ability 1 | **[Color change](../abilities/color-change.md)**: Changes type to match when hit by a damaging move. | **[Colour Change](../abilities/color-change.md)**: Changes type to match when hit by a damaging move. |
+| Ability 2 | **[Protean](../abilities/protean.md)**: Changes the bearer's type to match each move it uses. | **[Colour Change](../abilities/color-change.md)**: Changes type to match when hit by a damaging move. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -50,12 +44,7 @@ None
 | Special attack | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">480</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">440</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
+| **Total** | **480** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

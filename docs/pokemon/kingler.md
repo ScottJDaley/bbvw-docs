@@ -16,12 +16,6 @@
 | Ability 1 | **[Hyper cutter](../abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon. | **[Hyper Cutter](../abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon. |
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,13 +41,6 @@ None
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | **Total** | **475** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 13](../routes/route-13.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -112,11 +99,11 @@ None
 ## HM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| HM05  <span class="pill pill-new">NEW</span>| [Waterfall](../moves/waterfall.md) | ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | HM01 | [Cut](../moves/cut.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 95 | 30 |
 | HM06 | [Dive](../moves/dive.md) | ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | HM04 | [Strength](../moves/strength.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | HM03 | [Surf](../moves/surf.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 15 |
-| HM05  <span class="pill pill-new">NEW</span>| [Waterfall](../moves/waterfall.md) | ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## Tutor Moves
 | No. | Move | Type | Cat | Power | Acc | PP |

@@ -13,21 +13,15 @@
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compoundeyes.md)**:  |
+| Ability 1 | **[Compound eyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. | **[Compoundeyes](../abilities/compound-eyes.md)**: Increases moves' accuracy to 1.3×. |
 | Ability 2 | **[Tinted lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. | **[Tinted Lens](../abilities/tinted-lens.md)**: Doubles damage inflicted with not-very-effective moves. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![rock](../img/types/rock.png) |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) |  |
-|  | ![bug](../img/types/bug.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
+| ![ground](../img/types/ground.png) | ![bug](../img/types/bug.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![rock](../img/types/rock.png) |
+|  |  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) |  |
+|  |  | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
 |  |  | ![psychic](../img/types/psychic.png) | ![flying](../img/types/flying.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -43,13 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">420</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">395</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 2](../routes/route-2.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Route 12](../routes/route-12.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| **Total** | **420** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

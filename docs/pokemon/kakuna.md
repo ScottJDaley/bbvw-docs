@@ -16,19 +16,13 @@
 | Ability 1 | **[Shed skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. | **[Shed Skin](../abilities/shed-skin.md)**: Has a 33% chance of curing any major status ailment after each turn. |
 | Ability 2 | - | **[Battle Armor](../abilities/battle-armor.md)**: Protects against critical hits. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
-|  | ![poison](../img/types/poison.png) | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
-|  | ![bug](../img/types/bug.png) | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
+|  | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
+|  | ![bug](../img/types/bug.png) | ![water](../img/types/water.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) |  |
+|  |  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![ground](../img/types/ground.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -45,9 +39,6 @@ None
 | Special defense | 25 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:12.5%; background:#F34444;'></div></div> |
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | **Total** | **205** | |
-
-## Locations
-Evolve from [Weedle](../pokemon/weedle.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

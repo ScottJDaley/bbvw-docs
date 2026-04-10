@@ -16,21 +16,14 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![water](../img/types/water.png) | ![ice](../img/types/ice.png) | ![ground](../img/types/ground.png) |  |
 |  | ![electric](../img/types/electric.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![grass](../img/types/grass.png) | ![dragon](../img/types/dragon.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |  |
+|  | ![flying](../img/types/flying.png) | ![dragon](../img/types/dragon.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![dark](../img/types/dark.png) |  |  |
 |  | ![bug](../img/types/bug.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
@@ -45,9 +38,6 @@ None
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **680** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

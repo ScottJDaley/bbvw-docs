@@ -1,11 +1,9 @@
 # Belly drum
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,26 +12,26 @@ User pays half its max HP to max out its Attack.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Charizard](../pokemon/charizard.md) |
-|  | [Charmander](../pokemon/charmander.md) |
-|  | [Charmeleon](../pokemon/charmeleon.md) |
-|  | [Clefable](../pokemon/clefable.md) |
-|  | [Clefairy](../pokemon/clefairy.md) |
-|  | [Cleffa](../pokemon/cleffa.md) |
-|  | [Cubone](../pokemon/cubone.md) |
-|  | [Darmanitan-standard](../pokemon/darmanitan-standard.md) |
-|  | [Darumaka](../pokemon/darumaka.md) |
-|  | [Hariyama](../pokemon/hariyama.md) |
-|  | [Lickitung](../pokemon/lickitung.md) |
-|  | [Linoone](../pokemon/linoone.md) |
-|  | [Magby](../pokemon/magby.md) |
-|  | [Makuhita](../pokemon/makuhita.md) |
-|  | [Marill](../pokemon/marill.md) |
-|  | [Poliwag](../pokemon/poliwag.md) |
-|  | [Poliwhirl](../pokemon/poliwhirl.md) |
-|  | [Quagsire](../pokemon/quagsire.md) |
-|  | [Slowpoke](../pokemon/slowpoke.md) |
-|  | [Snorlax](../pokemon/snorlax.md) |
-|  | [Teddiursa](../pokemon/teddiursa.md) |
-|  | [Wooper](../pokemon/wooper.md) |
-|  | [Zigzagoon](../pokemon/zigzagoon.md) |
+| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
+| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
+| ![charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) |
+| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
+| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
+| ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
+| ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
+| ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
+| ![linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) |
+| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
+| ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
+| ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
+| ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
+| ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) |
+| ![quagsire](../img/pokemon/195.png) | [Quagsire](../pokemon/quagsire.md) |
+| ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |
+| ![snorlax](../img/pokemon/143.png) | [Snorlax](../pokemon/snorlax.md) |
+| ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
+| ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+| ![zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) |

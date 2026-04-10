@@ -16,12 +16,6 @@
 | Ability 1 | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Rain dish](../abilities/rain-dish.md)**: Heals for 1/16 max HP after each turn during rain. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Mystic Water](../img/items/mystic-water.png) Mystic Water (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@
 | Special defense | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Speed | 78 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:39.0%; background:#FFDD57;'></div></div> |
 | **Total** | **530** | |
-
-## Locations
-Evolve from [Wartortle](../pokemon/wartortle.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

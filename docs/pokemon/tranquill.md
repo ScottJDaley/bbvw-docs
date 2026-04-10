@@ -16,12 +16,6 @@
 | Ability 1 | **[Big pecks](../abilities/big-pecks.md)**: Protects against Defense drops. | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. |
 | Ability 2 | **[Super luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. | **[Super Luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,12 +40,6 @@ None
 | Special defense | <span style="color:green; font-weight:bold;">62</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">42</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:31.0%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **358** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 12](../routes/route-12.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 40% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

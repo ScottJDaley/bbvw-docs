@@ -9,8 +9,8 @@ Absorbs water moves, healing for 1/4 max HP.
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
-| ![frillish-male](../img/pokemon/592.png) | [Frillish-male](../pokemon/frillish-male.md) |
-| ![jellicent-male](../img/pokemon/593.png) | [Jellicent-male](../pokemon/jellicent-male.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Volt absorb](../abilities/volt-absorb.md)**: Absorbs electric moves, healing for 1/4 max HP. | **[Volt Absorb](../abilities/volt-absorb.md)**: Absorbs electric moves, healing for 1/4 max HP. |
 | Ability 2 | **[Illuminate](../abilities/illuminate.md)**: Doubles the wild encounter rate. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,7 +23,7 @@ None
 |  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
 |  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) |  |  |
 |  | ![flying](../img/types/flying.png) | ![poison](../img/types/poison.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
 |  |  | ![bug](../img/types/bug.png) |  |  |
 |  |  | ![rock](../img/types/rock.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
@@ -46,16 +40,6 @@ None
 | Special defense | 56 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:28.000000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 67 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:33.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **330** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 5% |
-| [Route 3](../routes/route-3.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 6](../routes/route-6.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Route 6](../routes/route-6.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 40% |
-| [Route 6](../routes/route-6.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Route 6](../routes/route-6.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

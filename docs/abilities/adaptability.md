@@ -6,8 +6,8 @@ Increases the same-type attack bonus from 1.5× to 2×.
 ## Pokemon with this Ability
 | Sprite | Pokemon |
 | --- | --- |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
-| ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](../pokemon/basculin.md) |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
 | ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |

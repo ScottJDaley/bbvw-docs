@@ -16,12 +16,6 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Moody](../abilities/moody.md)**: Raises a random stat two stages and lowers another one stage after each turn. |
 | Ability 2 | **[Tangled feet](../abilities/tangled-feet.md)**: Doubles evasion when confused. | **[Tangled Feet](../abilities/tangled-feet.md)**: Doubles evasion when confused. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,14 +39,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">112</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">92</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:56.00000000000001%; background:#A0E515;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">55</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">42</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">111</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">91</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.50000000000001%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">475</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">411</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Village Bridge](../routes/village-bridge.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
+| **Total** | **475** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

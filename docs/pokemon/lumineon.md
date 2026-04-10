@@ -16,12 +16,6 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Storm drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. | **[Storm Drain](../abilities/storm-drain.md)**: Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,14 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">89</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">69</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:44.5%; background:#FFDD57;'></div></div> |
 | Special defense | 86 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:43.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">101</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">91</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">490</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">460</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Route 6](../routes/route-6.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 14](../routes/route-14.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| **Total** | **490** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Liquid ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. | **[Liquid Ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. |
 | Ability 2 | **[Sticky hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,12 +41,6 @@ None
 | Special defense | 53 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:26.5%; background:#FF7F0E;'></div></div> |
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **302** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

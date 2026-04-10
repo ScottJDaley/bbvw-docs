@@ -1,9 +1,7 @@
 # Seed flare
 
-**TM/HM:** 
-
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 120  
 **Accuracy:** 85  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to lower the target’s Special Defense by two stag
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Shaymin-land](../pokemon/shaymin-land.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |

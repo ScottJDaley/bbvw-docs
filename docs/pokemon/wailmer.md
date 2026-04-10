@@ -16,12 +16,6 @@
 | Ability 1 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Special defense | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **400** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Driftveil City](../routes/driftveil-city.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Driftveil City](../routes/driftveil-city.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 17](../routes/route-17.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Undella Bay](../routes/undella-bay.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

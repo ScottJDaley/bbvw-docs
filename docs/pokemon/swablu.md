@@ -16,12 +16,6 @@
 | Ability 1 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 | Ability 2 | **[Cloud nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. | **[Cloud Nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,12 +40,6 @@ None
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **310** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Driftveil Drawbidge](../routes/driftveil-drawbidge.md) | ![bridge special](../img/items/grass-special.png) Bridge, Special | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

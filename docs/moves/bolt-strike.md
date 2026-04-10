@@ -1,9 +1,7 @@
 # Bolt strike
 
-**TM/HM:** 
-
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 130  
 **Accuracy:** 85  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to paralyze the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Zekrom](../pokemon/zekrom.md) |
+| ![zekrom](../img/pokemon/644.png) | [Zekrom](../pokemon/zekrom.md) |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 | Ability 2 | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. | **[Magic guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,11 +42,6 @@ None
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 20 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:10.0%; background:#F34444;'></div></div> |
 | **Total** | **290** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Big pecks](../abilities/big-pecks.md)**: Protects against Defense drops. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 | Ability 2 | **[Super luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. | **[Super Luck](../abilities/super-luck.md)**: Raises moves' critical hit rates one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,13 +39,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">115</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">55</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">103</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">93</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:51.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">518</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">488</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
+| **Total** | **518** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

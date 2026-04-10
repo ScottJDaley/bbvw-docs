@@ -16,12 +16,6 @@
 | Ability 1 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. |
 | Ability 2 | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,11 +41,6 @@ None
 | Special defense | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **273** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

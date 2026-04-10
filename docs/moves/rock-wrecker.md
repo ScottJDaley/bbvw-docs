@@ -1,9 +1,7 @@
 # Rock wrecker
 
-**TM/HM:** 
-
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  
@@ -14,6 +12,6 @@ User foregoes its next turn to recharge.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Crustle](../pokemon/crustle.md) |
-|  | [Dwebble](../pokemon/dwebble.md) |
-|  | [Rhyperior](../pokemon/rhyperior.md) |
+| ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
+| ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) |
+| ![rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) |

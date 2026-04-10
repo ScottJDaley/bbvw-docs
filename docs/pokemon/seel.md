@@ -16,12 +16,6 @@
 | Ability 1 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,13 +41,6 @@ None
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **325** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Route 6](../routes/route-6.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

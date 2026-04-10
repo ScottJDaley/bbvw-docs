@@ -16,23 +16,14 @@
 | Ability 1 | **[Flash fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | **[Flash Fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. |
 | Ability 2 | **[Flame body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. | **[Flame Body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) | ![ground](../img/types/ground.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) |  |
-|  | ![ice](../img/types/ice.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![bug](../img/types/bug.png) |  |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |  |
+|  | ![flying](../img/types/flying.png) | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) |  |
+|  | ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -44,9 +35,6 @@ None
 | Special defense | 106 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.0%; background:#FFDD57;'></div></div> |
 | Speed | 77 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.5%; background:#FFDD57;'></div></div> |
 | **Total** | **600** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

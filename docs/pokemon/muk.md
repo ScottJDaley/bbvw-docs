@@ -16,12 +16,6 @@
 | Ability 1 | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. |
 | Ability 2 | **[Sticky hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. | **[Poison Touch](../abilities/poison-touch.md)**: Has a 30% chance of poisoning target Pokémon upon contact. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Toxic Orb](../img/items/toxic-orb.png) Toxic Orb (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,12 +41,6 @@
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 1% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

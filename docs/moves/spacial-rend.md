@@ -1,9 +1,7 @@
 # Spacial rend
 
-**TM/HM:** 
-
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 100  
 **Accuracy:** 95  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has an increased chance for a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Palkia](../pokemon/palkia.md) |
+| ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |

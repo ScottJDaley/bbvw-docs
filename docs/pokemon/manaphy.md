@@ -16,12 +16,6 @@
 | Ability 1 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 | Ability 2 | - | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Lansat Berry](../img/items/lansat-berry.png) Lansat Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **600** | |
-
-## Locations
-Evolve from [Phione](../pokemon/phione.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

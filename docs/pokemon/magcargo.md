@@ -16,21 +16,15 @@
 | Ability 1 | **[Magma armor](../abilities/magma-armor.md)**: Prevents freezing. | **[Solid Rock](../abilities/solid-rock.md)**: Decreases damage taken from super-effective moves by 1/4. |
 | Ability 2 | **[Flame body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. | **[Flame Body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Flame Orb](../img/items/flame-orb.png) Flame Orb (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) | ![water](../img/types/water.png) |
-|  | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) | ![rock](../img/types/rock.png) | ![ground](../img/types/ground.png) |
-|  | ![ice](../img/types/ice.png) | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![dragon](../img/types/dragon.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![grass](../img/types/grass.png) | ![rock](../img/types/rock.png) | ![ground](../img/types/ground.png) |
+|  | ![poison](../img/types/poison.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![dragon](../img/types/dragon.png) |  |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
@@ -42,10 +36,7 @@
 | Special attack | <span style="color:green; font-weight:bold;">115</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">115</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.49999999999999%; background:#A0E515;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">495</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">430</span> | |
-
-## Locations
-Evolve from [Slugma](../pokemon/slugma.md)
+| **Total** | **505** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

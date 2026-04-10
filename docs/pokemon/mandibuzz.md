@@ -16,12 +16,6 @@
 | Ability 1 | **[Big pecks](../abilities/big-pecks.md)**: Protects against Defense drops. | **[Big Pecks](../abilities/big-pecks.md)**: Protects against Defense drops. |
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,14 +39,6 @@ None
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **510** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 5% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
-| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

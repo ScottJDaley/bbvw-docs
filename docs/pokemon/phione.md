@@ -16,12 +16,6 @@
 | Ability 1 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 | Ability 2 | - | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,10 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">540</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">480</span> | |
-
-## Locations
-No known wild location.
+| **Total** | **540** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

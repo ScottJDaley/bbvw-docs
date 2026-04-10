@@ -16,20 +16,14 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![rock](../img/types/rock.png) | ![ice](../img/types/ice.png) |
 |  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) | ![dragon](../img/types/dragon.png) |  |
-|  | ![grass](../img/types/grass.png) | ![poison](../img/types/poison.png) |  |  |
-|  | ![fighting](../img/types/fighting.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![poison](../img/types/poison.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
+|  |  | ![psychic](../img/types/psychic.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -44,9 +38,6 @@ None
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **600** | |
-
-## Locations
-Evolve from [Shelgon](../pokemon/shelgon.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

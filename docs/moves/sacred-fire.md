@@ -1,9 +1,7 @@
 # Sacred fire
 
-**TM/HM:** 
-
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 100  
 **Accuracy:** 95  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw them
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |

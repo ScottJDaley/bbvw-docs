@@ -8,20 +8,14 @@
 ## Evolution
 |Stage |  | Stage |
 |:---: | :---: | :---: |
-|![slowpoke](../img/pokemon/079.png)<br>**[Slowpoke]( slowpoke.md)** | ➡️<br>Level 37 or Level Up with a Shellder in the party. <br><span class="rom-label">ROM</span> | ![slowbro](../img/pokemon/080.png)<br>**[Slowbro]( slowbro.md)** |
-|![slowpoke](../img/pokemon/079.png)<br>**[Slowpoke]( slowpoke.md)** | ➡️<br>Level Up at Day with King's Rock. <br><span class="rom-label">ROM</span> | ![slowking](../img/pokemon/199.png)<br>**[Slowking]( slowking.md)** |
+|![slowpoke](../img/pokemon/079.png)<br>**[Slowpoke]( slowpoke.md)** | ➡️<br>Level 37 or Level Up with a Shellder in the party. | ![slowbro](../img/pokemon/080.png)<br>**[Slowbro]( slowbro.md)** |
+|![slowpoke](../img/pokemon/079.png)<br>**[Slowpoke]( slowpoke.md)** | ➡️<br>Level Up at Day with King's Rock. | ![slowking](../img/pokemon/199.png)<br>**[Slowking]( slowking.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 | Ability 2 | **[Own tempo](../abilities/own-tempo.md)**: Prevents confusion. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -43,12 +37,6 @@ None
 | Special defense | 110 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **490** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 5% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

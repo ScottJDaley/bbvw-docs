@@ -16,20 +16,14 @@
 | Ability 1 | **[Effect spore](../abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | **[Effect Spore](../abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. |
 | Ability 2 | **[Dry skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. | **[Dry Skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) |
 |  | ![electric](../img/types/electric.png) | ![psychic](../img/types/psychic.png) | ![poison](../img/types/poison.png) | ![flying](../img/types/flying.png) |
-|  | ![grass](../img/types/grass.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
-|  | ![ground](../img/types/ground.png) | ![dark](../img/types/dark.png) |  |  |
+|  | ![fighting](../img/types/fighting.png) | ![ghost](../img/types/ghost.png) | ![bug](../img/types/bug.png) |  |
+|  |  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |
+|  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
@@ -43,16 +37,11 @@ None
 | Speed | 25 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:12.5%; background:#F34444;'></div></div> |
 | **Total** | **285** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Synthesis](../moves/synthesis.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| 1 | [Fury cutter](../moves/fury-cutter.md)  <span class="pill pill-shifted">SHIFTED (from 17)</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 95 | 20 |
+| 1 | [Fury cutter](../moves/fury-cutter.md)  <span class="pill pill-shifted">SHIFTED</span>| ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 95 | 20 |
 | 1 | [Scratch](../moves/scratch.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 6 | [Poison powder](../moves/poison-powder.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 35 |
 | 6 | [Stun spore](../moves/stun-spore.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 30 |

@@ -1,9 +1,7 @@
 # Cross poison
 
-**TM/HM:** 
-
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 20  
@@ -14,15 +12,15 @@ Has an increased chance for a critical hit and a $effect_chance% chance to poiso
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Anorith](../pokemon/anorith.md) |
-|  | [Ariados](../pokemon/ariados.md) |
-|  | [Armaldo](../pokemon/armaldo.md) |
-|  | [Beedrill](../pokemon/beedrill.md) |
-|  | [Crobat](../pokemon/crobat.md) |
-|  | [Drapion](../pokemon/drapion.md) |
-|  | [Gligar](../pokemon/gligar.md) |
-|  | [Joltik](../pokemon/joltik.md) |
-|  | [Paras](../pokemon/paras.md) |
-|  | [Parasect](../pokemon/parasect.md) |
-|  | [Skorupi](../pokemon/skorupi.md) |
-|  | [Spinarak](../pokemon/spinarak.md) |
+| ![anorith](../img/pokemon/347.png) | [Anorith](../pokemon/anorith.md) |
+| ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
+| ![armaldo](../img/pokemon/348.png) | [Armaldo](../pokemon/armaldo.md) |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
+| ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
+| ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
+| ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
+| ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
+| ![paras](../img/pokemon/046.png) | [Paras](../pokemon/paras.md) |
+| ![parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) |
+| ![skorupi](../img/pokemon/451.png) | [Skorupi](../pokemon/skorupi.md) |
+| ![spinarak](../img/pokemon/167.png) | [Spinarak](../pokemon/spinarak.md) |

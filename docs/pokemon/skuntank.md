@@ -16,12 +16,6 @@
 | Ability 1 | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. |
 | Ability 2 | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@ None
 | Special defense | 61 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.5%; background:#FF7F0E;'></div></div> |
 | Speed | 84 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.0%; background:#FFDD57;'></div></div> |
 | **Total** | **479** | |
-
-## Locations
-Evolve from [Stunky](../pokemon/stunky.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

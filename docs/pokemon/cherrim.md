@@ -16,12 +16,6 @@
 | Ability 1 | **[Flower gift](../abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight. | **[Flower Gift](../abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight. |
 | Ability 2 | - | **[Flower Gift](../abilities/flower-gift.md)**: Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,14 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">107</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">87</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.5%; background:#FFDD57;'></div></div> |
 | Special defense | 78 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:39.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">480</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">450</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 12](../routes/route-12.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| **Total** | **480** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

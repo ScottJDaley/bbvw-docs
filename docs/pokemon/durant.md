@@ -16,22 +16,16 @@
 | Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  | ![fire](../img/types/fire.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) |  |  |
-|  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ground](../img/types/ground.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![flying](../img/types/flying.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
@@ -43,15 +37,7 @@ None
 | Special attack | 48 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:24.0%; background:#FF7F0E;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">55</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">48</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 109 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:54.50000000000001%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">510</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">484</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| **Total** | **510** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

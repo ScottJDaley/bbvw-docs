@@ -13,14 +13,8 @@
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
-| Ability 1 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[LightningRod](../abilities/lightningrod.md)**:  |
+| Ability 1 | **[Lightning rod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. | **[LightningRod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. |
 | Ability 2 | **[Motor drive](../abilities/motor-drive.md)**: Absorbs electric moves, raising Speed one stage. | **[Sap Sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -49,11 +43,6 @@ None
 | Special defense | 32 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:16.0%; background:#F34444;'></div></div> |
 | Speed | 76 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.0%; background:#FFDD57;'></div></div> |
 | **Total** | **295** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

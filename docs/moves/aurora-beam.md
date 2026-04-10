@@ -1,9 +1,7 @@
 # Aurora beam
 
-**TM/HM:** 
-
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 20  
@@ -14,22 +12,22 @@ Has a $effect_chance% chance to lower the target’s Attack by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Cloyster](../pokemon/cloyster.md) |
-|  | [Cresselia](../pokemon/cresselia.md) |
-|  | [Cryogonal](../pokemon/cryogonal.md) |
-|  | [Delibird](../pokemon/delibird.md) |
-|  | [Dewgong](../pokemon/dewgong.md) |
-|  | [Finneon](../pokemon/finneon.md) |
-|  | [Horsea](../pokemon/horsea.md) |
-|  | [Kabuto](../pokemon/kabuto.md) |
-|  | [Octillery](../pokemon/octillery.md) |
-|  | [Omanyte](../pokemon/omanyte.md) |
-|  | [Remoraid](../pokemon/remoraid.md) |
-|  | [Sealeo](../pokemon/sealeo.md) |
-|  | [Seel](../pokemon/seel.md) |
-|  | [Shellder](../pokemon/shellder.md) |
-|  | [Spheal](../pokemon/spheal.md) |
-|  | [Suicune](../pokemon/suicune.md) |
-|  | [Tentacool](../pokemon/tentacool.md) |
-|  | [Vaporeon](../pokemon/vaporeon.md) |
-|  | [Walrein](../pokemon/walrein.md) |
+| ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) |
+| ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
+| ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
+| ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
+| ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
+| ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
+| ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
+| ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
+| ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
+| ![remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) |
+| ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) |
+| ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |
+| ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
+| ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) |
+| ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
+| ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
+| ![vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) |
+| ![walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) |

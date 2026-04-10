@@ -16,17 +16,11 @@
 | Ability 1 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  |  | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![fighting](../img/types/fighting.png) |  |
 |  |  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![flying](../img/types/flying.png) |  |  |
@@ -46,16 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">85</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">490</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">475</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Route 6](../routes/route-6.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Victory Road](../routes/victory-road.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Victory Road](../routes/victory-road.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 40% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| **Total** | **490** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

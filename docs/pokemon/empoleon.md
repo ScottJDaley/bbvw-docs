@@ -16,24 +16,16 @@
 | Ability 1 | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. | **[Torrent](../abilities/torrent.md)**: Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Mystic Water](../img/items/mystic-water.png) Mystic Water (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![electric](../img/types/electric.png) |  |
 |  | ![water](../img/types/water.png) | ![grass](../img/types/grass.png) | ![fighting](../img/types/fighting.png) |  |
-|  | ![ice](../img/types/ice.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
-|  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |  |
+|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) | ![ground](../img/types/ground.png) |  |
+|  | ![psychic](../img/types/psychic.png) | ![dark](../img/types/dark.png) |  |  |
 |  | ![bug](../img/types/bug.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
-|  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -45,9 +37,6 @@
 | Special defense | 101 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.5%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **530** | |
-
-## Locations
-Evolve from [Prinplup](../pokemon/prinplup.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

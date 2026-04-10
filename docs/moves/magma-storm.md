@@ -1,9 +1,7 @@
 # Magma storm
 
-**TM/HM:** 
-
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 100  
 **Accuracy:** 75  
 **PP:** 5  
@@ -14,7 +12,7 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Heatran](../pokemon/heatran.md) |
-|  | [Magby](../pokemon/magby.md) |
-|  | [Magmar](../pokemon/magmar.md) |
-|  | [Magmortar](../pokemon/magmortar.md) |
+| ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
+| ![magby](../img/pokemon/240.png) | [Magby](../pokemon/magby.md) |
+| ![magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) |
+| ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |

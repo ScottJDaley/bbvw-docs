@@ -16,12 +16,6 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Keen Eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. |
 | Ability 2 | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. | **[Sniper](../abilities/sniper.md)**: Strengthens critical hits to inflict 3× damage rather than 2×. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Sharp Beak](../img/items/sharp-beak.png) Sharp Beak (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,18 +39,12 @@
 | Special attack | 61 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 61 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.5%; background:#FF7F0E;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">452</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">442</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Marvelous Bridge](../routes/marvelous-bridge.md) | ![bridge special](../img/items/grass-special.png) Bridge, Special | 20% |
+| **Total** | **452** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Pursuit](../moves/pursuit.md)  <span class="pill pill-shifted">SHIFTED (from 13)</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |
+| 1 | [Pursuit](../moves/pursuit.md)  <span class="pill pill-shifted">SHIFTED</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 20 |
 | 1 | [Fury attack](../moves/fury-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 85 | 20 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Growl](../moves/growl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |

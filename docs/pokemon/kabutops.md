@@ -16,20 +16,14 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Battle armor](../abilities/battle-armor.md)**: Protects against critical hits. | **[Hyper Cutter](../abilities/hyper-cutter.md)**: Prevents Attack from being lowered by other Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) | ![grass](../img/types/grass.png) |
-|  | ![fire](../img/types/fire.png) | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |
-|  | ![ice](../img/types/ice.png) | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |
-|  | ![poison](../img/types/poison.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |
+|  | ![poison](../img/types/poison.png) | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |
+|  | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -44,9 +38,6 @@ None
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **495** | |
-
-## Locations
-Evolve from [Kabuto](../pokemon/kabuto.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

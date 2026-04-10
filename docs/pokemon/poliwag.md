@@ -9,19 +9,13 @@
 |Stage |  | Stage |  | Stage |
 |:---: | :---: | :---: | :---: | :---: |
 |![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Use water-stone | ![poliwrath](../img/pokemon/062.png)<br>**[Poliwrath]( poliwrath.md)** |
-|![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Level Up at Night with King's Rock equipped. <br><span class="rom-label">ROM</span> | ![politoed](../img/pokemon/186.png)<br>**[Politoed]( politoed.md)** |
+|![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Level Up at Night with King's Rock equipped. | ![politoed](../img/pokemon/186.png)<br>**[Politoed]( politoed.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 | Ability 2 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,13 +42,6 @@ None
 | Special defense | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **300** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 40% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 65% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

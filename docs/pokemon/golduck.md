@@ -16,12 +16,6 @@
 | Ability 1 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Cloud nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. | **[Cloud Nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 3](../routes/route-3.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

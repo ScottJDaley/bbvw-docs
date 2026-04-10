@@ -16,12 +16,6 @@
 | Ability 1 | **[Clear body](../abilities/clear-body.md)**: Prevents stats from being lowered by other Pokémon. | **[Clear Body](../abilities/clear-body.md)**: Prevents stats from being lowered by other Pokémon. |
 | Ability 2 | **[Liquid ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. | **[Liquid Ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,16 +37,6 @@ None
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **515** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Driftveil City](../routes/driftveil-city.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 30% |
-| [Route 17](../routes/route-17.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Village Bridge](../routes/village-bridge.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Route 13](../routes/route-13.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

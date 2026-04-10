@@ -16,12 +16,6 @@
 | Ability 1 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 | Ability 2 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,12 +45,6 @@ None
 | Special defense | 135 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:67.5%; background:#A0E515;'></div></div> |
 | Speed | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | **Total** | **540** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 14](../routes/route-14.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 25% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

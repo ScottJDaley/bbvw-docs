@@ -1,10 +1,8 @@
 # Dark void
 
-**TM/HM:** 
-
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
 **Accuracy:** 50  
 **PP:** 10  
 
@@ -14,4 +12,4 @@ Puts the target to sleep.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Darkrai](../pokemon/darkrai.md) |
+| ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |

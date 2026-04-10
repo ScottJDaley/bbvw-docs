@@ -16,12 +16,6 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Snow cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. | **[Snow Cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Petaya Berry](../img/items/petaya-berry.png) Petaya Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,9 +40,6 @@
 | Special defense | 125 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:62.5%; background:#A0E515;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | **Total** | **580** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

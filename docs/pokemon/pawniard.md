@@ -6,21 +6,13 @@
 ![dark](../img/types/dark.png) ![steel](../img/types/steel.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![pawniard](../img/pokemon/624.png)<br>**[Pawniard]( pawniard.md)** | ➡️<br>Lv. 52 | ![bisharp](../img/pokemon/625.png)<br>**[Bisharp]( bisharp.md)** | ➡️<br> | <br>**[Kingambit]( kingambit.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. |
 | Ability 2 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -45,12 +37,6 @@ None
 | Special defense | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **340** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Route 9](../routes/route-9.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

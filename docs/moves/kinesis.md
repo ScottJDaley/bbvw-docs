@@ -1,10 +1,8 @@
 # Kinesis
 
-**TM/HM:** 
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
 **Accuracy:** 80  
 **PP:** 15  
 
@@ -14,5 +12,5 @@ Lowers the target’s accuracy by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Alakazam](../pokemon/alakazam.md) |
-|  | [Kadabra](../pokemon/kadabra.md) |
+| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
+| ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |

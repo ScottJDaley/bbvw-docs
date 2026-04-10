@@ -16,12 +16,6 @@
 | Ability 1 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Own tempo](../abilities/own-tempo.md)**: Prevents confusion. | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,10 +44,7 @@ None
 | Special attack | 64 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.0%; background:#FF7F0E;'></div></div> |
 | Special defense | 59 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:29.5%; background:#FF7F0E;'></div></div> |
 | Speed | 112 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:56.00000000000001%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">479</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">452</span> | |
-
-## Locations
-Evolve from [Glameow](../pokemon/glameow.md)
+| **Total** | **479** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

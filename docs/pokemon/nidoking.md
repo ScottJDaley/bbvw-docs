@@ -16,19 +16,13 @@
 | Ability 1 | **[Poison point](../abilities/poison-point.md)**: Has a 30% chance of poisoning attacking Pokémon on contact. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
 | Ability 2 | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. | **[Rivalry](../abilities/rivalry.md)**: Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  |
-|  | ![poison](../img/types/poison.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
-|  | ![bug](../img/types/bug.png) | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) |  |
-|  | ![rock](../img/types/rock.png) | ![flying](../img/types/flying.png) | ![psychic](../img/types/psychic.png) |  |
+|  | ![bug](../img/types/bug.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
+|  | ![rock](../img/types/rock.png) | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) |  |
+|  |  | ![flying](../img/types/flying.png) | ![psychic](../img/types/psychic.png) |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
@@ -43,14 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">520</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">505</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 13](../routes/route-13.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
+| **Total** | **515** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

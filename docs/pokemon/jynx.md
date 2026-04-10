@@ -16,12 +16,6 @@
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. |
 | Ability 2 | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. | **[Dry Skin](../abilities/dry-skin.md)**: Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -44,12 +38,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">125</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">115</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:62.5%; background:#A0E515;'></div></div> |
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">470</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">455</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
+| **Total** | **470** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

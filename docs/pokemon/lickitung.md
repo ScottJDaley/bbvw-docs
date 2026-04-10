@@ -16,12 +16,6 @@
 | Ability 1 | **[Own tempo](../abilities/own-tempo.md)**: Prevents confusion. | **[Cloud Nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 | Ability 2 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,14 +45,6 @@ None
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **385** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 17](../routes/route-17.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 17](../routes/route-17.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

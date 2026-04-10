@@ -6,21 +6,13 @@
 ![fighting](../img/types/fighting.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![mankey](../img/pokemon/056.png)<br>**[Mankey]( mankey.md)** | ➡️<br>Lv. 28 | ![primeape](../img/pokemon/057.png)<br>**[Primeape]( primeape.md)** | ➡️<br> | <br>**[Annihilape]( annihilape.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Vital spirit](../abilities/vital-spirit.md)**: Prevents sleep. | **[Defiant](../abilities/defiant.md)**: Raises Attack two stages upon having any stat lowered. |
 | Ability 2 | **[Anger point](../abilities/anger-point.md)**: Raises Attack to the maximum of six stages upon receiving a critical hit. | **[Anger Point](../abilities/anger-point.md)**: Raises Attack to the maximum of six stages upon receiving a critical hit. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,11 +40,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | **Total** | **305** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 2](../routes/route-2.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

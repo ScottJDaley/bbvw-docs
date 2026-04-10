@@ -14,13 +14,7 @@
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
-| Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[LightningRod](../abilities/lightningrod.md)**:  |
-
-## Base Happiness
-70
-
-## Held Items
-None
+| Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[LightningRod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -46,18 +40,7 @@ None
 | Special attack | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">88</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">68</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:44.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">490</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">450</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Route 6](../routes/route-6.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 10% |
-| [Route 11](../routes/route-11.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Route 14](../routes/route-14.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Route 14](../routes/route-14.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
+| **Total** | **490** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

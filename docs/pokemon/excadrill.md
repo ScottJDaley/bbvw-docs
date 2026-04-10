@@ -16,12 +16,6 @@
 | Ability 1 | **[Sand rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. | **[Sand Rush](../abilities/sand-rush.md)**: Doubles Speed during a sandstorm.  Protects against sandstorm damage. |
 | Ability 2 | **[Sand force](../abilities/sand-force.md)**: Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage. | **[Mold Breaker](../abilities/mold-breaker.md)**: Bypasses targets' abilities if they could hinder or prevent a move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,7 +23,6 @@ None
 | ![poison](../img/types/poison.png) | ![flying](../img/types/flying.png) | ![ice](../img/types/ice.png) | ![water](../img/types/water.png) |  |
 |  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) | ![ground](../img/types/ground.png) |  |
-|  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
 
@@ -43,21 +36,6 @@ None
 | Special defense | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 88 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:44.0%; background:#FFDD57;'></div></div> |
 | **Total** | **508** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |
-| [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 100% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 50% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

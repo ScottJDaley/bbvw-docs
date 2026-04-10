@@ -16,12 +16,6 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Snow Warning](../abilities/snow-warning.md)**: Summons hail that lasts indefinitely upon entering battle. |
 | Ability 2 | - | **[Snow Warning](../abilities/snow-warning.md)**: Summons hail that lasts indefinitely upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,9 +41,6 @@ None
 | Speed | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | **Total** | **660** | |
 
-## Locations
-No known wild location.
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -64,8 +55,8 @@ No known wild location.
 | 50 | [Glaciate](../moves/glaciate.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 10 |
 | 57 | [Dragon pulse](../moves/dragon-pulse.md) | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 10 |
 | 71 | [Endeavor](../moves/endeavor.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 5 |
-| 78 | -  <span class="pill pill-new">NEW</span>| Ice burn | - | - | - | - |
-| 78 | -  <span class="pill pill-new">NEW</span>| Freeze shock | - | - | - | - |
+| 78 | [ice-burn](../moves/ice-burn.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
+| 78 | [freeze-shock](../moves/freeze-shock.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 78 | [Blizzard](../moves/blizzard.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 5 |
 | 85 | [Outrage](../moves/outrage.md) | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 92 | [Hyper voice](../moves/hyper-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |

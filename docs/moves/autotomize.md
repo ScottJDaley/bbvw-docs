@@ -1,11 +1,9 @@
 # Autotomize
 
-**TM/HM:** 
-
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 15  
 
 ## Description
@@ -14,17 +12,17 @@ Raises the user’s Speed by two stages and halves the user’s weight.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Aggron](../pokemon/aggron.md) |
-|  | [Aron](../pokemon/aron.md) |
-|  | [Forretress](../pokemon/forretress.md) |
-|  | [Geodude](../pokemon/geodude.md) |
-|  | [Klang](../pokemon/klang.md) |
-|  | [Klink](../pokemon/klink.md) |
-|  | [Klinklang](../pokemon/klinklang.md) |
-|  | [Lairon](../pokemon/lairon.md) |
-|  | [Roggenrola](../pokemon/roggenrola.md) |
-|  | [Skarmory](../pokemon/skarmory.md) |
-|  | [Steelix](../pokemon/steelix.md) |
-|  | [Vanillish](../pokemon/vanillish.md) |
-|  | [Vanillite](../pokemon/vanillite.md) |
-|  | [Vanilluxe](../pokemon/vanilluxe.md) |
+| ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
+| ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
+| ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
+| ![geodude](../img/pokemon/074.png) | [Geodude](../pokemon/geodude.md) |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
+| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
+| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |
+| ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
+| ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
+| ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |
+| ![vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) |
+| ![vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) |

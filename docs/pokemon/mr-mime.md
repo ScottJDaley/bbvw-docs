@@ -6,21 +6,13 @@
 ![psychic](../img/types/psychic.png) ![fairy](../img/types/fairy.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![mime-jr](../img/pokemon/439.png)<br>**[Mime-jr]( mime-jr.md)** | ➡️<br>Know mimic | ![mr-mime](../img/pokemon/122.png)<br>**[Mr-mime]( mr-mime.md)** | ➡️<br>Lv. 42 | <br>**[Mr-rime]( mr-rime.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. | **[Soundproof](../abilities/soundproof.md)**: Protects against sound-based moves. |
 | Ability 2 | **[Filter](../abilities/filter.md)**: Decreases damage taken from super-effective moves by 1/4. | **[Filter](../abilities/filter.md)**: Decreases damage taken from super-effective moves by 1/4. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,13 +40,6 @@ None
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **460** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

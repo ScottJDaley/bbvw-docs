@@ -1,10 +1,8 @@
 # Metal burst
 
-**TM/HM:** 
-
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![physical](../img/types/physical.png)  
+**Power:** None  
 **Accuracy:** 100  
 **PP:** 10  
 
@@ -14,15 +12,15 @@ Strikes back at the last Pokémon to hit the user this turn with 1.5× the damag
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Aggron](../pokemon/aggron.md) |
-|  | [Aron](../pokemon/aron.md) |
-|  | [Bastiodon](../pokemon/bastiodon.md) |
-|  | [Bisharp](../pokemon/bisharp.md) |
-|  | [Cobalion](../pokemon/cobalion.md) |
-|  | [Cofagrigus](../pokemon/cofagrigus.md) |
-|  | [Dialga](../pokemon/dialga.md) |
-|  | [Lairon](../pokemon/lairon.md) |
-|  | [Mawile](../pokemon/mawile.md) |
-|  | [Sableye](../pokemon/sableye.md) |
-|  | [Shieldon](../pokemon/shieldon.md) |
-|  | [Yamask](../pokemon/yamask.md) |
+| ![aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) |
+| ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
+| ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) |
+| ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
+| ![cobalion](../img/pokemon/638.png) | [Cobalion](../pokemon/cobalion.md) |
+| ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
+| ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
+| ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
+| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
+| ![shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) |
+| ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

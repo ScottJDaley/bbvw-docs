@@ -13,7 +13,7 @@ Doubles the chance of moves' extra effects occurring.
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
-| ![meloetta-aria](../img/pokemon/648.png) | [Meloetta-aria](../pokemon/meloetta-aria.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |

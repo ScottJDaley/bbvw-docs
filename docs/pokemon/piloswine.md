@@ -16,12 +16,6 @@
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Snow cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. | **[Snow Cloak](../abilities/snow-cloak.md)**: Increases evasion to 1.25× during hail.  Protects against hail damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,14 +40,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **450** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Cold Storage](../routes/cold-storage.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Sand stream](../abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle. | **[Sand Stream](../abilities/sand-stream.md)**: Summons a sandstorm that lasts indefinitely upon entering battle. |
 | Ability 2 | **[Unnerve](../abilities/unnerve.md)**: Prevents opposing Pokémon from eating held Berries. | **[Battle Armor](../abilities/battle-armor.md)**: Protects against critical hits. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,11 +36,6 @@ None
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 61 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **600** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 15](../routes/route-15.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

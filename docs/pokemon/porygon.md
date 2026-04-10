@@ -16,12 +16,6 @@
 | Ability 1 | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. |
 | Ability 2 | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,13 +45,6 @@ None
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **395** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

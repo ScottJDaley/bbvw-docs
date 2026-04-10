@@ -15,19 +15,12 @@
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Happiness | ![umbreon](../img/pokemon/197.png)<br>**[Umbreon]( umbreon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At eterna-forest | ![leafeon](../img/pokemon/470.png)<br>**[Leafeon]( leafeon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At sinnoh-route-217 | ![glaceon](../img/pokemon/471.png)<br>**[Glaceon]( glaceon.md)** |
-|![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Know fairy move | <br>**[Sylveon]( sylveon.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Flash fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | **[Flash Fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. |
 | Ability 2 | **[Guts](../abilities/guts.md)**: Increases Attack to 1.5× with a major status ailment. | **[Sheer Force](../abilities/sheer-force.md)**: Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects. |
-
-## Base Happiness
-<span style="color:green; font-weight:bold;">200</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -53,9 +46,6 @@ None
 | Speed | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | **Total** | **525** | |
 
-## Locations
-Evolve from [Eevee](../pokemon/eevee.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -66,21 +56,23 @@ Evolve from [Eevee](../pokemon/eevee.md)
 | 8 | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 15 | [Ember](../moves/ember.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |
 | 22 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 28 | -  <span class="pill pill-new">NEW</span>| Yawn / water pulse / shock wave / flame wheel / power gem / tickle / aromatherapy / aurora beam | - | - | - | - |
+| 28 | [yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam](../moves/yawn-water-pulse-shock-wave-flame-wheel-power-gem-tickle-aromatherapy-aurora-beam.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 29 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | 36 | [Fire spin](../moves/fire-spin.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 35 | 85 | 15 |
-| 43 | -  <span class="pill pill-new">NEW</span>| Wish / scald / electro ball / superpower / fake tears / foul play /  dragon rush / earth power | - | - | - | - |
+| 43 | [wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power](../moves/wish-scald-electro-ball-superpower-fake-tears-foul-play-dragon-rush-earth-power.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 43 | [Fire fang](../moves/fire-fang.md) | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 95 | 15 |
 | 50 | [Last resort](../moves/last-resort.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
 | 57 | [Smog](../moves/smog.md) | ![poison](../img/types/poison.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 70 | 20 |
 | 64 | [Scary face](../moves/scary-face.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 10 |
 | 71 | [Fire blast](../moves/fire-blast.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 85 | 5 |
-| 73 | -  <span class="pill pill-new">NEW</span>| Nothing / heal bell / volt tackle / flare blitz / aura sphere / power trick / wood hammer / sheer cold | - | - | - | - |
+| 73 | [nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold](../moves/nothing-heal-bell-volt-tackle-flare-blitz-aura-sphere-power-trick-wood-hammer-sheer-cold.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 78 | [Lava plume](../moves/lava-plume.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TM80  <span class="pill pill-new">NEW</span>| [Rock slide](../moves/rock-slide.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 90 | 10 |
+| TM71  <span class="pill pill-new">NEW</span>| [Stone edge](../moves/stone-edge.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 80 | 5 |
 | TM45 | [Attract](../moves/attract.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | TM28 | [Dig](../moves/dig.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | TM32 | [Double team](../moves/double-team.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
@@ -100,11 +92,9 @@ Evolve from [Eevee](../pokemon/eevee.md)
 | TM67 | [Retaliate](../moves/retaliate.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
 | TM27 | [Return](../moves/return.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM05 | [Roar](../moves/roar.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| TM80  <span class="pill pill-new">NEW</span>| [Rock slide](../moves/rock-slide.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 90 | 10 |
 | TM94 | [Rock smash](../moves/rock-smash.md) | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | TM48 | [Round](../moves/round.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
 | TM30 | [Shadow ball](../moves/shadow-ball.md) | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
-| TM71  <span class="pill pill-new">NEW</span>| [Stone edge](../moves/stone-edge.md) | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 80 | 5 |
 | TM90 | [Substitute](../moves/substitute.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | TM11 | [Sunny day](../moves/sunny-day.md) | ![fire](../img/types/fire.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | TM87 | [Swagger](../moves/swagger.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |

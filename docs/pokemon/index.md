@@ -399,7 +399,7 @@
 | 383 | ![groudon](../img/pokemon/383.png) | [Groudon](groudon.md) |
 | 384 | ![rayquaza](../img/pokemon/384.png) | [Rayquaza](rayquaza.md) |
 | 385 | ![jirachi](../img/pokemon/385.png) | [Jirachi](jirachi.md) |
-| 386 | ![deoxys-normal](../img/pokemon/386.png) | [Deoxys-normal](deoxys-normal.md) |
+| 386 | ![deoxys](../img/pokemon/386.png) | [Deoxys](deoxys.md) |
 
 ## Sinnoh
 
@@ -431,7 +431,7 @@
 | 410 | ![shieldon](../img/pokemon/410.png) | [Shieldon](shieldon.md) |
 | 411 | ![bastiodon](../img/pokemon/411.png) | [Bastiodon](bastiodon.md) |
 | 412 | ![burmy](../img/pokemon/412.png) | [Burmy](burmy.md) |
-| 413 | ![wormadam-plant](../img/pokemon/413.png) | [Wormadam-plant](wormadam-plant.md) |
+| 413 | ![wormadam](../img/pokemon/413.png) | [Wormadam](wormadam.md) |
 | 414 | ![mothim](../img/pokemon/414.png) | [Mothim](mothim.md) |
 | 415 | ![combee](../img/pokemon/415.png) | [Combee](combee.md) |
 | 416 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](vespiquen.md) |
@@ -505,12 +505,12 @@
 | 484 | ![palkia](../img/pokemon/484.png) | [Palkia](palkia.md) |
 | 485 | ![heatran](../img/pokemon/485.png) | [Heatran](heatran.md) |
 | 486 | ![regigigas](../img/pokemon/486.png) | [Regigigas](regigigas.md) |
-| 487 | ![giratina-altered](../img/pokemon/487.png) | [Giratina-altered](giratina-altered.md) |
+| 487 | ![giratina](../img/pokemon/487.png) | [Giratina](giratina.md) |
 | 488 | ![cresselia](../img/pokemon/488.png) | [Cresselia](cresselia.md) |
 | 489 | ![phione](../img/pokemon/489.png) | [Phione](phione.md) |
 | 490 | ![manaphy](../img/pokemon/490.png) | [Manaphy](manaphy.md) |
 | 491 | ![darkrai](../img/pokemon/491.png) | [Darkrai](darkrai.md) |
-| 492 | ![shaymin-land](../img/pokemon/492.png) | [Shaymin-land](shaymin-land.md) |
+| 492 | ![shaymin](../img/pokemon/492.png) | [Shaymin](shaymin.md) |
 | 493 | ![arceus](../img/pokemon/493.png) | [Arceus](arceus.md) |
 
 ## Unova
@@ -573,13 +573,13 @@
 | 547 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](whimsicott.md) |
 | 548 | ![petilil](../img/pokemon/548.png) | [Petilil](petilil.md) |
 | 549 | ![lilligant](../img/pokemon/549.png) | [Lilligant](lilligant.md) |
-| 550 | ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](basculin.md) |
-| 550 | ![basculin-red-striped](../img/pokemon/550.png) | [Basculin-red-striped](basculin.md) |
+| 550 | ![basculin](../img/pokemon/550.png) | [Basculin](basculin.md) |
+| 550 | ![basculin](../img/pokemon/550.png) | [Basculin](basculin.md) |
 | 551 | ![sandile](../img/pokemon/551.png) | [Sandile](sandile.md) |
 | 552 | ![krokorok](../img/pokemon/552.png) | [Krokorok](krokorok.md) |
 | 553 | ![krookodile](../img/pokemon/553.png) | [Krookodile](krookodile.md) |
 | 554 | ![darumaka](../img/pokemon/554.png) | [Darumaka](darumaka.md) |
-| 555 | ![darmanitan-standard](../img/pokemon/555.png) | [Darmanitan-standard](darmanitan-standard.md) |
+| 555 | ![darmanitan](../img/pokemon/555.png) | [Darmanitan](darmanitan.md) |
 | 556 | ![maractus](../img/pokemon/556.png) | [Maractus](maractus.md) |
 | 557 | ![dwebble](../img/pokemon/557.png) | [Dwebble](dwebble.md) |
 | 558 | ![crustle](../img/pokemon/558.png) | [Crustle](crustle.md) |
@@ -616,8 +616,8 @@
 | 589 | ![escavalier](../img/pokemon/589.png) | [Escavalier](escavalier.md) |
 | 590 | ![foongus](../img/pokemon/590.png) | [Foongus](foongus.md) |
 | 591 | ![amoonguss](../img/pokemon/591.png) | [Amoonguss](amoonguss.md) |
-| 592 | ![frillish-male](../img/pokemon/592.png) | [Frillish-male](frillish-male.md) |
-| 593 | ![jellicent-male](../img/pokemon/593.png) | [Jellicent-male](jellicent-male.md) |
+| 592 | ![frillish](../img/pokemon/592.png) | [Frillish](frillish.md) |
+| 593 | ![jellicent](../img/pokemon/593.png) | [Jellicent](jellicent.md) |
 | 594 | ![alomomola](../img/pokemon/594.png) | [Alomomola](alomomola.md) |
 | 595 | ![joltik](../img/pokemon/595.png) | [Joltik](joltik.md) |
 | 596 | ![galvantula](../img/pokemon/596.png) | [Galvantula](galvantula.md) |
@@ -665,13 +665,13 @@
 | 638 | ![cobalion](../img/pokemon/638.png) | [Cobalion](cobalion.md) |
 | 639 | ![terrakion](../img/pokemon/639.png) | [Terrakion](terrakion.md) |
 | 640 | ![virizion](../img/pokemon/640.png) | [Virizion](virizion.md) |
-| 641 | ![tornadus-incarnate](../img/pokemon/641.png) | [Tornadus-incarnate](tornadus-incarnate.md) |
-| 642 | ![thundurus-incarnate](../img/pokemon/642.png) | [Thundurus-incarnate](thundurus-incarnate.md) |
+| 641 | ![tornadus](../img/pokemon/641.png) | [Tornadus](tornadus.md) |
+| 642 | ![thundurus](../img/pokemon/642.png) | [Thundurus](thundurus.md) |
 | 643 | ![reshiram](../img/pokemon/643.png) | [Reshiram](reshiram.md) |
 | 644 | ![zekrom](../img/pokemon/644.png) | [Zekrom](zekrom.md) |
-| 645 | ![landorus-incarnate](../img/pokemon/645.png) | [Landorus-incarnate](landorus-incarnate.md) |
+| 645 | ![landorus](../img/pokemon/645.png) | [Landorus](landorus.md) |
 | 646 | ![kyurem](../img/pokemon/646.png) | [Kyurem](kyurem.md) |
-| 647 | ![keldeo-ordinary](../img/pokemon/647.png) | [Keldeo-ordinary](keldeo-ordinary.md) |
-| 648 | ![meloetta-aria](../img/pokemon/648.png) | [Meloetta-aria](meloetta-aria.md) |
+| 647 | ![keldeo](../img/pokemon/647.png) | [Keldeo](keldeo.md) |
+| 648 | ![meloetta](../img/pokemon/648.png) | [Meloetta](meloetta.md) |
 | 649 | ![genesect](../img/pokemon/649.png) | [Genesect](genesect.md) |
 

@@ -16,12 +16,6 @@
 | Ability 1 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[Thick Fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. |
 | Ability 2 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,12 +41,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Undella Bay](../routes/undella-bay.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

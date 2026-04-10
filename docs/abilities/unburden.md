@@ -6,6 +6,7 @@ Doubles Speed upon using or losing a held item.
 ## Pokemon with this Ability
 | Sprite | Pokemon |
 | --- | --- |
+| ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
 | ![grovyle](../img/pokemon/253.png) | [Grovyle](../pokemon/grovyle.md) |

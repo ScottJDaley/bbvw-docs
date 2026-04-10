@@ -13,5 +13,5 @@ Strengthens rock, ground, and steel moves to 1.3× their power during a sandstor
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
 | ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
 | ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
-| ![landorus-incarnate](../img/pokemon/645.png) | [Landorus-incarnate](../pokemon/landorus-incarnate.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![roggenrola](../img/pokemon/524.png) | [Roggenrola](../pokemon/roggenrola.md) |

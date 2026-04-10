@@ -16,13 +16,6 @@
 | Ability 1 | **[Flash fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | **[Flash Fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. |
 | Ability 2 | **[Drought](../abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle. | **[Drought](../abilities/drought.md)**: Summons strong sunlight that lasts indefinitely upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Rawst Berry](../img/items/rawst-berry.png) Rawst Berry (50%)
-- ![Occa Berry](../img/items/occa-berry.png) Occa Berry (5%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,11 +39,6 @@
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **505** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

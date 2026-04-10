@@ -16,19 +16,13 @@
 | Ability 1 | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. | **[Overgrow](../abilities/overgrow.md)**: Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
 |  | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
 |  |  | ![rock](../img/types/rock.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -45,9 +39,6 @@
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **405** | |
-
-## Locations
-Evolve from [Bulbasaur](../pokemon/bulbasaur.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -1,10 +1,8 @@
 # Entrainment
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
 **Accuracy:** 100  
 **PP:** 15  
 
@@ -14,12 +12,12 @@ Copies the user’s ability onto the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Audino](../pokemon/audino.md) |
-|  | [Buneary](../pokemon/buneary.md) |
-|  | [Chingling](../pokemon/chingling.md) |
-|  | [Durant](../pokemon/durant.md) |
-|  | [Leavanny](../pokemon/leavanny.md) |
-|  | [Lopunny](../pokemon/lopunny.md) |
-|  | [Minun](../pokemon/minun.md) |
-|  | [Petilil](../pokemon/petilil.md) |
-|  | [Plusle](../pokemon/plusle.md) |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
+| ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
+| ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
+| ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) |
+| ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
+| ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
+| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |

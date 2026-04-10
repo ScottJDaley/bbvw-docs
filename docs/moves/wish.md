@@ -1,11 +1,9 @@
 # Wish
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,37 +12,37 @@ User will recover half its max HP at the end of the next turn.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Alomomola](../pokemon/alomomola.md) |
-|  | [Audino](../pokemon/audino.md) |
-|  | [Blissey](../pokemon/blissey.md) |
-|  | [Chansey](../pokemon/chansey.md) |
-|  | [Chimecho](../pokemon/chimecho.md) |
-|  | [Chingling](../pokemon/chingling.md) |
-|  | [Clefable](../pokemon/clefable.md) |
-|  | [Clefairy](../pokemon/clefairy.md) |
-|  | [Cleffa](../pokemon/cleffa.md) |
-|  | [Delcatty](../pokemon/delcatty.md) |
-|  | [Eevee](../pokemon/eevee.md) |
-|  | [Gardevoir](../pokemon/gardevoir.md) |
-|  | [Girafarig](../pokemon/girafarig.md) |
-|  | [Happiny](../pokemon/happiny.md) |
-|  | [Igglybuff](../pokemon/igglybuff.md) |
-|  | [Illumise](../pokemon/illumise.md) |
-|  | [Jigglypuff](../pokemon/jigglypuff.md) |
-|  | [Jirachi](../pokemon/jirachi.md) |
-|  | [Jynx](../pokemon/jynx.md) |
-|  | [Latias](../pokemon/latias.md) |
-|  | [Minun](../pokemon/minun.md) |
-|  | [Natu](../pokemon/natu.md) |
-|  | [Pichu](../pokemon/pichu.md) |
-|  | [Pidove](../pokemon/pidove.md) |
-|  | [Pikachu](../pokemon/pikachu.md) |
-|  | [Plusle](../pokemon/plusle.md) |
-|  | [Raichu](../pokemon/raichu.md) |
-|  | [Skitty](../pokemon/skitty.md) |
-|  | [Smoochum](../pokemon/smoochum.md) |
-|  | [Spinda](../pokemon/spinda.md) |
-|  | [Togepi](../pokemon/togepi.md) |
-|  | [Togetic](../pokemon/togetic.md) |
-|  | [Wigglytuff](../pokemon/wigglytuff.md) |
-|  | [Xatu](../pokemon/xatu.md) |
+| ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
+| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
+| ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
+| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
+| ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
+| ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) |
+| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
+| ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
+| ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
+| ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
+| ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
+| ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
+| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
+| ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
+| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
+| ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
+| ![pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) |
+| ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
+| ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |
+| ![skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) |
+| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
+| ![spinda](../img/pokemon/327.png) | [Spinda](../pokemon/spinda.md) |
+| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
+| ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
+| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |

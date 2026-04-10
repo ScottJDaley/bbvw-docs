@@ -1,9 +1,7 @@
 # Hyper fang
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 80  
 **Accuracy:** 90  
 **PP:** 15  
@@ -14,10 +12,10 @@ Has a $effect_chance% chance to make the target flinch.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Bibarel](../pokemon/bibarel.md) |
-|  | [Bidoof](../pokemon/bidoof.md) |
-|  | [Pachirisu](../pokemon/pachirisu.md) |
-|  | [Patrat](../pokemon/patrat.md) |
-|  | [Raticate](../pokemon/raticate.md) |
-|  | [Rattata](../pokemon/rattata.md) |
-|  | [Watchog](../pokemon/watchog.md) |
+| ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
+| ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) |
+| ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |
+| ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) |
+| ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |
+| ![rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) |
+| ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |

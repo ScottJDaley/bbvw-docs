@@ -1,11 +1,9 @@
 # Sketch
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 1  
 
 ## Description
@@ -14,4 +12,4 @@ Permanently becomes the target’s last used move.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Smeargle](../pokemon/smeargle.md) |
+| ![smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) |

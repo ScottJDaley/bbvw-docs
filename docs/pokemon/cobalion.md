@@ -16,22 +16,14 @@
 | Ability 1 | **[Justified](../abilities/justified.md)**: Raises Attack one stage upon taking damage from a dark move. | **[Justified](../abilities/justified.md)**: Raises Attack one stage upon taking damage from a dark move. |
 | Ability 2 | - | **[Justified](../abilities/justified.md)**: Raises Attack one stage upon taking damage from a dark move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![fire](../img/types/fire.png) |  |
 |  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![fighting](../img/types/fighting.png) |  |
 |  | ![ice](../img/types/ice.png) | ![flying](../img/types/flying.png) | ![ground](../img/types/ground.png) |  |
-|  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |  |
-|  | ![rock](../img/types/rock.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
-|  | ![dark](../img/types/dark.png) |  |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![psychic](../img/types/psychic.png) |  |  |
+|  | ![dark](../img/types/dark.png) | ![ghost](../img/types/ghost.png) |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
 
 ## Base Stats
@@ -44,9 +36,6 @@ None
 | Special defense | 72 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:36.0%; background:#FFDD57;'></div></div> |
 | Speed | 108 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:54.0%; background:#FFDD57;'></div></div> |
 | **Total** | **580** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

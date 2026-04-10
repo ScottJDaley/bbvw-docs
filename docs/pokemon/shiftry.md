@@ -16,12 +16,6 @@
 | Ability 1 | **[Chlorophyll](../abilities/chlorophyll.md)**: Doubles Speed during strong sunlight. | **[Pickpocket](../abilities/pickpocket.md)**: Steals attacking Pokémon's held items on contact. |
 | Ability 2 | **[Wind rider](../abilities/wind-rider.md)**: Gives immunity to wind moves, and causes the Pokémon's Attack to increase by one stage when hit by one. | **[Early Bird](../abilities/early-bird.md)**: Makes sleep pass twice as quickly. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,9 +37,6 @@ None
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **480** | |
 
-## Locations
-Evolve from [Nuzleaf](../pokemon/nuzleaf.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -61,7 +52,7 @@ Evolve from [Nuzleaf](../pokemon/nuzleaf.md)
 | 1 | [Whirlwind](../moves/whirlwind.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 1 | [Feint attack](../moves/feint-attack.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 1 | [Nasty plot](../moves/nasty-plot.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 14 | [Razor leaf](../moves/razor-leaf.md)  <span class="pill pill-shifted">SHIFTED (from 1)</span>| ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |
+| 14 | [Razor leaf](../moves/razor-leaf.md)  <span class="pill pill-shifted">SHIFTED</span>| ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 25 |
 | 16 | [Foul play](../moves/foul-play.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 15 |
 | 17 | [Seed bomb](../moves/seed-bomb.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 15 |
 | 19 | [Leaf tornado](../moves/leaf-tornado.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 90 | 10 |

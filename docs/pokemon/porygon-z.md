@@ -16,12 +16,6 @@
 | Ability 1 | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. | **[Adaptability](../abilities/adaptability.md)**: Increases the same-type attack bonus from 1.5× to 2×. |
 | Ability 2 | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,9 +45,6 @@ None
 | Special defense | 75 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:37.5%; background:#FFDD57;'></div></div> |
 | Speed | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | **Total** | **535** | |
-
-## Locations
-Evolve from [Porygon2](../pokemon/porygon2.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

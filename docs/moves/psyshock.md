@@ -1,9 +1,7 @@
 # Psyshock
 
-**TM/HM:** TM03
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  
@@ -14,80 +12,80 @@ Inflicts damage based on the target’s Defense, not Special Defense.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Abra](../pokemon/abra.md) |
-|  | [Alakazam](../pokemon/alakazam.md) |
-|  | [Arceus](../pokemon/arceus.md) |
-|  | [Audino](../pokemon/audino.md) |
-|  | [Azelf](../pokemon/azelf.md) |
-|  | [Baltoy](../pokemon/baltoy.md) |
-|  | [Beheeyem](../pokemon/beheeyem.md) |
-|  | [Bronzong](../pokemon/bronzong.md) |
-|  | [Bronzor](../pokemon/bronzor.md) |
-|  | [Chimecho](../pokemon/chimecho.md) |
-|  | [Chingling](../pokemon/chingling.md) |
-|  | [Claydol](../pokemon/claydol.md) |
-|  | [Clefable](../pokemon/clefable.md) |
-|  | [Clefairy](../pokemon/clefairy.md) |
-|  | [Cleffa](../pokemon/cleffa.md) |
-|  | [Cresselia](../pokemon/cresselia.md) |
-|  | [Deoxys-normal](../pokemon/deoxys-normal.md) |
-|  | [Drowzee](../pokemon/drowzee.md) |
-|  | [Duosion](../pokemon/duosion.md) |
-|  | [Elgyem](../pokemon/elgyem.md) |
-|  | [Espeon](../pokemon/espeon.md) |
-|  | [Exeggutor](../pokemon/exeggutor.md) |
-|  | [Gallade](../pokemon/gallade.md) |
-|  | [Gardevoir](../pokemon/gardevoir.md) |
-|  | [Girafarig](../pokemon/girafarig.md) |
-|  | [Golduck](../pokemon/golduck.md) |
-|  | [Gothita](../pokemon/gothita.md) |
-|  | [Gothitelle](../pokemon/gothitelle.md) |
-|  | [Gothorita](../pokemon/gothorita.md) |
-|  | [Grumpig](../pokemon/grumpig.md) |
-|  | [Hypno](../pokemon/hypno.md) |
-|  | [Jirachi](../pokemon/jirachi.md) |
-|  | [Jynx](../pokemon/jynx.md) |
-|  | [Kadabra](../pokemon/kadabra.md) |
-|  | [Kirlia](../pokemon/kirlia.md) |
-|  | [Latias](../pokemon/latias.md) |
-|  | [Latios](../pokemon/latios.md) |
-|  | [Lugia](../pokemon/lugia.md) |
-|  | [Lunatone](../pokemon/lunatone.md) |
-|  | [Medicham](../pokemon/medicham.md) |
-|  | [Meditite](../pokemon/meditite.md) |
-|  | [Meloetta-aria](../pokemon/meloetta-aria.md) |
-|  | [Mesprit](../pokemon/mesprit.md) |
-|  | [Metagross](../pokemon/metagross.md) |
-|  | [Metang](../pokemon/metang.md) |
-|  | [Mew](../pokemon/mew.md) |
-|  | [Mewtwo](../pokemon/mewtwo.md) |
-|  | [Mime-jr](../pokemon/mime-jr.md) |
-|  | [Mr-mime](../pokemon/mr-mime.md) |
-|  | [Munna](../pokemon/munna.md) |
-|  | [Musharna](../pokemon/musharna.md) |
-|  | [Natu](../pokemon/natu.md) |
-|  | [Ninetales](../pokemon/ninetales.md) |
-|  | [Porygon](../pokemon/porygon.md) |
-|  | [Porygon-z](../pokemon/porygon-z.md) |
-|  | [Porygon2](../pokemon/porygon2.md) |
-|  | [Psyduck](../pokemon/psyduck.md) |
-|  | [Ralts](../pokemon/ralts.md) |
-|  | [Reuniclus](../pokemon/reuniclus.md) |
-|  | [Sigilyph](../pokemon/sigilyph.md) |
-|  | [Slowbro](../pokemon/slowbro.md) |
-|  | [Slowking](../pokemon/slowking.md) |
-|  | [Slowpoke](../pokemon/slowpoke.md) |
-|  | [Smoochum](../pokemon/smoochum.md) |
-|  | [Solosis](../pokemon/solosis.md) |
-|  | [Solrock](../pokemon/solrock.md) |
-|  | [Spoink](../pokemon/spoink.md) |
-|  | [Stantler](../pokemon/stantler.md) |
-|  | [Starmie](../pokemon/starmie.md) |
-|  | [Swoobat](../pokemon/swoobat.md) |
-|  | [Togekiss](../pokemon/togekiss.md) |
-|  | [Togepi](../pokemon/togepi.md) |
-|  | [Togetic](../pokemon/togetic.md) |
-|  | [Uxie](../pokemon/uxie.md) |
-|  | [Victini](../pokemon/victini.md) |
-|  | [Woobat](../pokemon/woobat.md) |
-|  | [Xatu](../pokemon/xatu.md) |
+| ![abra](../img/pokemon/063.png) | [Abra](../pokemon/abra.md) |
+| ![alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) |
+| ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
+| ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
+| ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
+| ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
+| ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) |
+| ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) |
+| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
+| ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
+| ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
+| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
+| ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
+| ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
+| ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
+| ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
+| ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
+| ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |
+| ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
+| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
+| ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
+| ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
+| ![gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) |
+| ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) |
+| ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
+| ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
+| ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
+| ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
+| ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
+| ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
+| ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
+| ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |
+| ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
+| ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
+| ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
+| ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
+| ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
+| ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
+| ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
+| ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
+| ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
+| ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
+| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
+| ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
+| ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
+| ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
+| ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
+| ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |
+| ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
+| ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) |
+| ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
+| ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) |
+| ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
+| ![solosis](../img/pokemon/577.png) | [Solosis](../pokemon/solosis.md) |
+| ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |
+| ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) |
+| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) |
+| ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) |
+| ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
+| ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
+| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+| ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
+| ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |
+| ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
+| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |

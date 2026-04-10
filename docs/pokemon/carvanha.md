@@ -16,12 +16,6 @@
 | Ability 1 | **[Rough skin](../abilities/rough-skin.md)**: Damages attacking Pokémon for 1/8 their max HP on contact. | **[Rough Skin](../abilities/rough-skin.md)**: Damages attacking Pokémon for 1/8 their max HP on contact. |
 | Ability 2 | **[Speed boost](../abilities/speed-boost.md)**: Raises Speed one stage after each turn. | **[Speed Boost](../abilities/speed-boost.md)**: Raises Speed one stage after each turn. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -42,14 +36,6 @@ None
 | Special defense | 20 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:10.0%; background:#F34444;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **305** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Route 17](../routes/route-17.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Village Bridge](../routes/village-bridge.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Village Bridge](../routes/village-bridge.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

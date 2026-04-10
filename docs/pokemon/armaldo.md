@@ -16,12 +16,6 @@
 | Ability 1 | **[Battle armor](../abilities/battle-armor.md)**: Protects against critical hits. | **[Battle Armor](../abilities/battle-armor.md)**: Protects against critical hits. |
 | Ability 2 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,9 +42,6 @@ None
 | Special defense | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | Speed | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **495** | |
-
-## Locations
-Evolve from [Anorith](../pokemon/anorith.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

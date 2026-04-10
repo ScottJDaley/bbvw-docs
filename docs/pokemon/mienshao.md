@@ -16,12 +16,6 @@
 | Ability 1 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Reckless](../abilities/reckless.md)**: Strengthens recoil moves to 1.2× their power. |
 | Ability 2 | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,14 +42,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | **Total** | **510** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Cold Storage](../routes/cold-storage.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Route 14](../routes/route-14.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

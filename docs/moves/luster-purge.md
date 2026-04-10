@@ -1,9 +1,7 @@
 # Luster purge
 
-**TM/HM:** 
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 95  
 **Accuracy:** 100  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Latios](../pokemon/latios.md) |
+| ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |

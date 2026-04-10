@@ -1,9 +1,7 @@
 # Roar of time
 
-**TM/HM:** 
-
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  
@@ -14,4 +12,4 @@ User foregoes its next turn to recharge.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Dialga](../pokemon/dialga.md) |
+| ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |

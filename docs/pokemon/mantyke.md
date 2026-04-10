@@ -16,12 +16,6 @@
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,14 +39,6 @@ None
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **345** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Driftveil City](../routes/driftveil-city.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Driftveil City](../routes/driftveil-city.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Route 17](../routes/route-17.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Undella Bay](../routes/undella-bay.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,18 +16,12 @@
 | Ability 1 | **[Unaware](../abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. | **[Unaware](../abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. |
 | Ability 2 | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">180</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
-|  | ![psychic](../img/types/psychic.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
+|  | ![psychic](../img/types/psychic.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
+|  |  | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![bug](../img/types/bug.png) |  |  |
@@ -43,10 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">107</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">77</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:53.5%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">65</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">55</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Speed | 114 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:56.99999999999999%; background:#A0E515;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">485</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">425</span> | |
-
-## Locations
-Evolve from [Woobat](../pokemon/woobat.md)
+| **Total** | **485** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

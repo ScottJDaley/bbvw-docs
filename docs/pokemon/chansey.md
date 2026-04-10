@@ -16,12 +16,6 @@
 | Ability 1 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 | Ability 2 | **[Serene grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. | **[Serene Grace](../abilities/serene-grace.md)**: Doubles the chance of moves' extra effects occurring. |
 
-## Base Happiness
-<span style="color:green; font-weight:bold;">160</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-- ![Lucky Egg](../img/items/lucky-egg.png) Lucky Egg (0%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,15 +45,6 @@
 | Special defense | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **450** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 80% |
-| [Route 10](../routes/route-10.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 90% |
-| [Village Bridge](../routes/village-bridge.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 75% |
-| [Route 14](../routes/route-14.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 75% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

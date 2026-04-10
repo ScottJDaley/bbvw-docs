@@ -1,11 +1,9 @@
 # Healing wish
 
-**TM/HM:** 
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,20 +12,20 @@ User faints.  Its replacement has its HP fully restored and any major status eff
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Alomomola](../pokemon/alomomola.md) |
-|  | [Audino](../pokemon/audino.md) |
-|  | [Blissey](../pokemon/blissey.md) |
-|  | [Buneary](../pokemon/buneary.md) |
-|  | [Celebi](../pokemon/celebi.md) |
-|  | [Chansey](../pokemon/chansey.md) |
-|  | [Cherubi](../pokemon/cherubi.md) |
-|  | [Chimecho](../pokemon/chimecho.md) |
-|  | [Clefairy](../pokemon/clefairy.md) |
-|  | [Gardevoir](../pokemon/gardevoir.md) |
-|  | [Jirachi](../pokemon/jirachi.md) |
-|  | [Latias](../pokemon/latias.md) |
-|  | [Lopunny](../pokemon/lopunny.md) |
-|  | [Mesprit](../pokemon/mesprit.md) |
-|  | [Mime-jr](../pokemon/mime-jr.md) |
-|  | [Petilil](../pokemon/petilil.md) |
-|  | [Shaymin-land](../pokemon/shaymin-land.md) |
+| ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
+| ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
+| ![celebi](../img/pokemon/251.png) | [Celebi](../pokemon/celebi.md) |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
+| ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
+| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
+| ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
+| ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
+| ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |
+| ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |

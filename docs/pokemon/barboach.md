@@ -16,12 +16,6 @@
 | Ability 1 | **[Oblivious](../abilities/oblivious.md)**: Prevents infatuation and protects against captivate. | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. |
 | Ability 2 | **[Anticipation](../abilities/anticipation.md)**: Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move. | **[Simple](../abilities/simple.md)**: Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,17 +41,6 @@ None
 | Special defense | 41 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.5%; background:#FF7F0E;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **288** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

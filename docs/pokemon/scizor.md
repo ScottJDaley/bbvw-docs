@@ -9,7 +9,6 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![scyther](../img/pokemon/123.png)<br>**[Scyther]( scyther.md)** | ➡️<br>Trade hold metal-coat | ![scizor](../img/pokemon/212.png)<br>**[Scizor]( scizor.md)** |
-|![scyther](../img/pokemon/123.png)<br>**[Scyther]( scyther.md)** | ➡️<br>Use black-augurite | <br>**[Kleavor]( kleavor.md)** |
 
 ## Abilities
 | Slot | Original | New |
@@ -17,22 +16,16 @@
 | Ability 1 | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. | **[Swarm](../abilities/swarm.md)**: Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less. |
 | Ability 2 | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. | **[Technician](../abilities/technician.md)**: Strengthens moves of 60 base power or less to 1.5× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  | ![fire](../img/types/fire.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) |  |  |
-|  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ground](../img/types/ground.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![flying](../img/types/flying.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
@@ -46,14 +39,11 @@ None
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **500** | |
 
-## Locations
-Evolve from [Scyther](../pokemon/scyther.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Crabhammer](../moves/crabhammer.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 90 | 10 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Sonicboom | - | - | - | - |
+| 1 | [Sonic boom](../moves/sonic-boom.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 20 |
 | 1 | [Night slash](../moves/night-slash.md)  <span class="pill pill-new">NEW</span>| ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
 | 1 | [Leer](../moves/leer.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 1 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |

@@ -1,10 +1,8 @@
 # Heat crash
 
-**TM/HM:** 
-
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![physical](../img/types/physical.png)  
+**Power:** None  
 **Accuracy:** 100  
 **PP:** 10  
 
@@ -14,6 +12,6 @@ Power is higher when the user weighs more than the target, up to a maximum of 12
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Emboar](../pokemon/emboar.md) |
-|  | [Pignite](../pokemon/pignite.md) |
-|  | [Tepig](../pokemon/tepig.md) |
+| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
+| ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
+| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |

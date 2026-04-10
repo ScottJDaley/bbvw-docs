@@ -16,12 +16,6 @@
 | Ability 1 | **[Flash fire](../abilities/flash-fire.md)**: Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle. | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 | Ability 2 | **[Flame body](../abilities/flame-body.md)**: Has a 30% chance of burning attacking Pokémon on contact. | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,8 +23,7 @@ None
 | ![fighting](../img/types/fighting.png) | ![grass](../img/types/grass.png) | ![flying](../img/types/flying.png) | ![ground](../img/types/ground.png) |  |
 |  | ![ice](../img/types/ice.png) | ![psychic](../img/types/psychic.png) | ![rock](../img/types/rock.png) |  |
 |  | ![poison](../img/types/poison.png) | ![dragon](../img/types/dragon.png) | ![ghost](../img/types/ghost.png) |  |
-|  | ![bug](../img/types/bug.png) |  | ![dark](../img/types/dark.png) |  |
-|  | ![steel](../img/types/steel.png) |  |  |  |
+|  | ![steel](../img/types/steel.png) |  | ![dark](../img/types/dark.png) |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -42,9 +35,6 @@ None
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **520** | |
-
-## Locations
-Evolve from [Lampent](../pokemon/lampent.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

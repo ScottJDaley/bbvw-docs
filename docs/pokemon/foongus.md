@@ -16,19 +16,13 @@
 | Ability 1 | **[Effect spore](../abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. | **[Effect Spore](../abilities/effect-spore.md)**: Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact. |
 | Ability 2 | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) |  |
 |  | ![electric](../img/types/electric.png) | ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) |  |
-|  | ![grass](../img/types/grass.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
+|  | ![fighting](../img/types/fighting.png) | ![ground](../img/types/ground.png) | ![flying](../img/types/flying.png) |  |
+|  |  | ![bug](../img/types/bug.png) | ![psychic](../img/types/psychic.png) |  |
 |  |  | ![rock](../img/types/rock.png) |  |  |
 |  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
@@ -46,14 +40,6 @@ None
 | Speed | 15 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:7.5%; background:#F34444;'></div></div> |
 | **Total** | **294** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Route 6](../routes/route-6.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Route 6](../routes/route-6.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -65,7 +51,7 @@ None
 | 18 | [Ingrain](../moves/ingrain.md) | ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 20 | [Feint attack](../moves/feint-attack.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | - | 20 |
 | 22 | [Stun spore](../moves/stun-spore.md)  <span class="pill pill-new">NEW</span>| ![grass](../img/types/grass.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 30 |
-| 22 | -  <span class="pill pill-new">NEW</span>| Poisonpowder | - | - | - | - |
+| 22 | [Poison powder](../moves/poison-powder.md)  <span class="pill pill-new">NEW</span>| ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 75 | 35 |
 | 24 | [Sweet scent](../moves/sweet-scent.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 26 | [Defense curl](../moves/defense-curl.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 26 | [Rollout](../moves/rollout.md)  <span class="pill pill-new">NEW</span>| ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 30 | 90 | 20 |

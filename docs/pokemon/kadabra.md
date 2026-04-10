@@ -16,12 +16,6 @@
 | Ability 1 | **[Synchronize](../abilities/synchronize.md)**: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | **[Synchronize](../abilities/synchronize.md)**: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. |
 | Ability 2 | **[Inner focus](../abilities/inner-focus.md)**: Prevents flinching. | **[Magic Guard](../abilities/magic-guard.md)**: Protects against damage not directly caused by a move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,16 +42,6 @@ None
 | Special defense | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | Speed | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | **Total** | **400** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Village Bridge](../routes/village-bridge.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
 | Ability 2 | **[Big pecks](../abilities/big-pecks.md)**: Protects against Defense drops. | **[Big Pecks](../abilities/big-pecks.md)**: Protects against Defense drops. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -44,12 +38,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">97</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">87</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:48.5%; background:#FFDD57;'></div></div> |
 | Special defense | 63 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:31.5%; background:#FF7F0E;'></div></div> |
 | Speed | <span style="color:green; font-weight:bold;">108</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">98</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:54.0%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">503</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">473</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Marvelous Bridge](../routes/marvelous-bridge.md) | ![bridge special](../img/items/grass-special.png) Bridge, Special | 20% |
+| **Total** | **503** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

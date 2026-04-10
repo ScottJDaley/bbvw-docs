@@ -6,9 +6,7 @@
 ![water](../img/types/water.png) ![rock](../img/types/rock.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![corsola](../img/pokemon/222.png)<br>**[Corsola]( corsola.md)** | ➡️<br>Lv. 38 | <br>**[Cursola]( cursola.md)** |
+No evolution.
 
 ## Abilities
 | Slot | Original | New |
@@ -16,20 +14,14 @@
 | Ability 1 | **[Hustle](../abilities/hustle.md)**: Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 | Ability 2 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) | ![grass](../img/types/grass.png) |
-|  | ![fire](../img/types/fire.png) | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |
-|  | ![ice](../img/types/ice.png) | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |
-|  | ![poison](../img/types/poison.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![flying](../img/types/flying.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |
+|  | ![poison](../img/types/poison.png) | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |
+|  | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dragon](../img/types/dragon.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -43,16 +35,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">105</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Special defense | <span style="color:green; font-weight:bold;">110</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">475</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">410</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Route 17](../routes/route-17.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 30% |
-| [Route 17](../routes/route-17.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 40% |
-| [Route 13](../routes/route-13.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Undella Town](../routes/undella-town.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
+| **Total** | **485** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

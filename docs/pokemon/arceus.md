@@ -16,12 +16,6 @@
 | Ability 1 | **[Multitype](../abilities/multitype.md)**: Changes arceus's type and form to match its held Plate. | **[Multitype](../abilities/multitype.md)**: Changes arceus's type and form to match its held Plate. |
 | Ability 2 | - | **[Multitype](../abilities/multitype.md)**: Changes arceus's type and form to match its held Plate. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,9 +45,6 @@
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | **Total** | **720** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

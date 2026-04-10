@@ -10,19 +10,12 @@ New: ![ghost](../img/types/ghost.png) ![steel](../img/types/steel.png)
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br>Lv. 34 | ![cofagrigus](../img/pokemon/563.png)<br>**[Cofagrigus]( cofagrigus.md)** |
-|![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br> | <br>**[Runerigus]( runerigus.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. |
 | Ability 2 | - | **[Mummy](../abilities/mummy.md)**: Changes attacking Pokémon's abilities to Mummy on contact. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -31,7 +24,6 @@ None
 | ![fighting](../img/types/fighting.png) | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
 | ![poison](../img/types/poison.png) | ![flying](../img/types/flying.png) |  | ![ghost](../img/types/ghost.png) |  |
 |  | ![psychic](../img/types/psychic.png) |  | ![dark](../img/types/dark.png) |  |
-|  | ![bug](../img/types/bug.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
@@ -46,12 +38,6 @@ None
 | Special defense | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | Speed | 30 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:15.0%; background:#F34444;'></div></div> |
 | **Total** | **483** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 20% |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -80,6 +66,7 @@ None
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TM91  <span class="pill pill-new">NEW</span>| [Flash cannon](../moves/flash-cannon.md) | ![steel](../img/types/steel.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | TM45 | [Attract](../moves/attract.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | TM04 | [Calm mind](../moves/calm-mind.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | TM32 | [Double team](../moves/double-team.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
@@ -88,7 +75,6 @@ None
 | TM53 | [Energy ball](../moves/energy-ball.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
 | TM42 | [Facade](../moves/facade.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | TM70 | [Flash](../moves/flash.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-| TM91  <span class="pill pill-new">NEW</span>| [Flash cannon](../moves/flash-cannon.md) | ![steel](../img/types/steel.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
 | TM21 | [Frustration](../moves/frustration.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM68 | [Giga impact](../moves/giga-impact.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
 | TM86 | [Grass knot](../moves/grass-knot.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |

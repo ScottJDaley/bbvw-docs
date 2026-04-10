@@ -1,9 +1,7 @@
 # Judgment
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 100  
 **Accuracy:** 100  
 **PP:** 10  
@@ -14,4 +12,4 @@ If the user is holding a appropriate plate or drive, the damage inflicted will m
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Arceus](../pokemon/arceus.md) |
+| ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |

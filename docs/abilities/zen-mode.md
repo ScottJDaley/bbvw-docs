@@ -6,4 +6,4 @@ Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50
 ## Pokemon with this Ability
 | Sprite | Pokemon |
 | --- | --- |
-| ![darmanitan-standard](../img/pokemon/555.png) | [Darmanitan-standard](../pokemon/darmanitan-standard.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |

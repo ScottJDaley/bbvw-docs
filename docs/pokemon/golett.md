@@ -16,18 +16,12 @@
 | Ability 1 | **[Iron fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. | **[Iron Fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 | Ability 2 | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. | **[Klutz](../abilities/klutz.md)**: Prevents the Pokémon from using its held item in battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![normal](../img/types/normal.png) | ![poison](../img/types/poison.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) |  |
-| ![electric](../img/types/electric.png) | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) |  |
-| ![fighting](../img/types/fighting.png) | ![rock](../img/types/rock.png) | ![flying](../img/types/flying.png) | ![ice](../img/types/ice.png) |  |
+| ![normal](../img/types/normal.png) | ![bug](../img/types/bug.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) |  |
+| ![electric](../img/types/electric.png) | ![rock](../img/types/rock.png) | ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) |  |
+| ![fighting](../img/types/fighting.png) |  | ![flying](../img/types/flying.png) | ![ice](../img/types/ice.png) |  |
 |  |  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -43,17 +37,11 @@ None
 | Speed | 35 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:17.5%; background:#F34444;'></div></div> |
 | **Total** | **303** | |
 
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 30% |
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fire punch](../moves/fire-punch.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
-| 1 | -  <span class="pill pill-new">NEW</span>| Thunderpunch | - | - | - | - |
+| 1 | [Thunder punch](../moves/thunder-punch.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Ice punch](../moves/ice-punch.md)  <span class="pill pill-new">NEW</span>| ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 75 | 100 | 15 |
 | 1 | [Pound](../moves/pound.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
 | 1 | [Defense curl](../moves/defense-curl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |

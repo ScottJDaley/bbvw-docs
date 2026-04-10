@@ -16,18 +16,12 @@
 | Ability 1 | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. | **[Flare Boost](../abilities/flare-boost.md)**: Increases Special Attack to 1.5× when burned. |
 | Ability 2 | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![normal](../img/types/normal.png) | ![grass](../img/types/grass.png) | ![fire](../img/types/fire.png) | ![electric](../img/types/electric.png) |  |
 | ![fighting](../img/types/fighting.png) | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) | ![ice](../img/types/ice.png) |  |
-| ![ground](../img/types/ground.png) | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
+| ![ground](../img/types/ground.png) |  | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -42,14 +36,6 @@ None
 | Special defense | 54 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.0%; background:#FF7F0E;'></div></div> |
 | Speed | 80 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.0%; background:#FFDD57;'></div></div> |
 | **Total** | **498** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 20% |
-| [Route 13](../routes/route-13.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
-| [Route 14](../routes/route-14.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

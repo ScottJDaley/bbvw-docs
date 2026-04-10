@@ -5,42 +5,42 @@
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 31 | - | - |  |
-| ![Sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 31 | - | - |  |
+| ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 31 | - | - |  |
+| ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) | 31 | - | - |  |
 
 ### Lady Magnolia
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 33 | - | - |  |
-| ![Minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 33 | - | - |  |
-| ![Joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) | 33 | - | - |  |
-| ![Tynamo](../img/pokemon/602.png) | [Tynamo](../pokemon/tynamo.md) | 33 | - | - |  |
-| ![Pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) | 33 | - | - |  |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 33 | - | - |  |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 33 | - | - |  |
+| ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) | 33 | - | - |  |
+| ![tynamo](../img/pokemon/602.png) | [Tynamo](../pokemon/tynamo.md) | 33 | - | - |  |
+| ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) | 33 | - | - |  |
 
 ### Rich Boy Cody
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 34 | - | - |  |
-| ![Electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) | 34 | - | - |  |
-| ![Pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) | 34 | - | - |  |
-| ![Flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 34 | - | - |  |
-| ![Jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 34 | - | - |  |
+| ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 34 | - | - |  |
+| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) | 34 | - | - |  |
+| ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) | 34 | - | - |  |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 34 | - | - |  |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 34 | - | - |  |
 
 ### Rich Boy Rolan
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) | 34 | - | - |  |
-| ![Jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 34 | - | - |  |
-| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
-| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
-| ![Lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 34 | - | - |  |
+| ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) | 34 | - | - |  |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 34 | - | - |  |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
+| ![electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 34 | - | - |  |
 
 ### Lady Colette
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 35 | - | - |  |
-| ![Rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 35 | - | - |  |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
+| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 35 | - | - |  |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) | 35 | - | - |  |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
 
 ### PKMN Trainer N – 3
 **Battle Type:** Double Battle  
@@ -48,12 +48,18 @@
 #### N’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 33 | - | - |  |
-| ![Maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) | 33 | - | - |  |
-| ![Gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | 33 | - | - |  |
-| ![Larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 33 | - | - |  |
-| ![Golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) | 33 | - | - |  |
-| ![Sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 33 | - | - |  |
+| |  | 33 | - | - |  |
+| |  | 33 | - | - |  |
+| |  | 33 | - | - |  |
+| ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | Larvesta | - | - |  |
+| ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) | Golett | - | - |  |
+| ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | Sigilyph | - | - |  |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| | 33 | ? | - | - |  |
+| | 33 | ? | - | - |  |
+| | 33 | ? | - | - |  |
 
 ### Gym Leader Elesa
 **Battle Type:** Single Battle  
@@ -62,10 +68,16 @@
 #### Elesa’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 36 | Static | - | Wild Charge, U-turn, Acrobatics, Roost |
-| ![Manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 36 | Static | - | Thunderbolt, Volt Switch, Flamethrower, Attract |
-| ![Ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) | 36 | Static | - | Thunderbolt, Charge, Focus Blast, Cotton Guard |
-| ![Raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) | 36 | Static | - | Wild Charge, Volt Switch, Grass Knot, Focus Blast |
-| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 36 | Compoundeyes | - | Thunder, Volt Switch, Signal Beam, Energy Ball |
-| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 38 | Lightningrod | Sitrus Berry | Wild Charge, Volt Switch, Flame Charge, Double Kick |
+| |  | 36 | Static | - | [Wild Charge](../moves/wild-charge.md), [U-turn](../moves/u-turn.md), [Acrobatics](../moves/acrobatics.md), [Roost](../moves/roost.md) |
+| |  | 36 | Static | - | [Thunderbolt](../moves/thunderbolt.md), [Volt Switch](../moves/volt-switch.md), [Flamethrower](../moves/flamethrower.md), [Attract](../moves/attract.md) |
+| |  | 36 | Static | - | [Thunderbolt](../moves/thunderbolt.md), [Charge](../moves/charge.md), [Focus Blast](../moves/focus-blast.md), [Cotton Guard](../moves/cotton-guard.md) |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | Raichu | Static | 36 | Static, [Wild Charge](../moves/wild-charge.md), [Volt Switch](../moves/volt-switch.md), [Grass Knot](../moves/grass-knot.md) |
+| ![manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | Galvantula | Compoundeyes | 36 | Compoundeyes, [Thunder](../moves/thunder.md), [Volt Switch](../moves/volt-switch.md), [Signal Beam](../moves/signal-beam.md) |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) | Zebstrika | Sap Sipper | 38 | Lightningrod, [Wild Charge](../moves/wild-charge.md), [Volt Switch](../moves/volt-switch.md), [Flame Charge](../moves/flame-charge.md) |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| | [Focus Blast](../moves/focus-blast.md) | ? | - | - |  |
+| | [Energy Ball](../moves/energy-ball.md) | ? | - | - |  |
+| | [Double Kick](../moves/double-kick.md) | ? | - | - |  |
 

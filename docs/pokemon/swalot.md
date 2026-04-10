@@ -16,12 +16,6 @@
 | Ability 1 | **[Liquid ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. | **[Liquid Ooze](../abilities/liquid-ooze.md)**: Damages opponents using leeching moves for as much as they would heal. |
 | Ability 2 | **[Sticky hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. | **[Gluttony](../abilities/gluttony.md)**: Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,13 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">103</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">73</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:51.5%; background:#FFDD57;'></div></div> |
 | Special defense | 83 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:41.5%; background:#FFDD57;'></div></div> |
 | Speed | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">497</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">467</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 4% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 10% |
+| **Total** | **497** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

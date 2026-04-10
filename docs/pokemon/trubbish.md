@@ -16,12 +16,6 @@
 | Ability 1 | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. | **[Stench](../abilities/stench.md)**: Has a 10% chance of making target Pokémon flinch with each hit. |
 | Ability 2 | **[Sticky hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. | **[Sticky Hold](../abilities/sticky-hold.md)**: Prevents a held item from being removed by other Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,11 +41,6 @@ None
 | Special defense | 62 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:31.0%; background:#FF7F0E;'></div></div> |
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **329** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

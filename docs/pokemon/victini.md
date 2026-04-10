@@ -16,12 +16,6 @@
 | Ability 1 | **[Victory star](../abilities/victory-star.md)**: Increases moves' accuracy to 1.1× for friendly Pokémon. | **[Victory Star](../abilities/victory-star.md)**: Increases moves' accuracy to 1.1× for friendly Pokémon. |
 | Ability 2 | - | **[Victory Star](../abilities/victory-star.md)**: Increases moves' accuracy to 1.1× for friendly Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,15 +37,12 @@ None
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **600** | |
 
-## Locations
-No known wild location.
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Fusion flare](../moves/fusion-flare.md)  <span class="pill pill-new">NEW</span>| ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
 | 1 | [Fusion bolt](../moves/fusion-bolt.md)  <span class="pill pill-new">NEW</span>| ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 100 | 5 |
-| 1 | -  <span class="pill pill-new">NEW</span>| V create | - | - | - | - |
+| 1 | [v-create](../moves/v-create.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 1 | [Confusion](../moves/confusion.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 25 |
 | 1 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
 | 1 | [Focus energy](../moves/focus-energy.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |

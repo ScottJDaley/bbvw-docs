@@ -1,9 +1,7 @@
 # Discharge
 
-**TM/HM:** 
-
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  
@@ -14,44 +12,44 @@ Has a $effect_chance% chance to paralyze the target.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Ampharos](../pokemon/ampharos.md) |
-|  | [Blitzle](../pokemon/blitzle.md) |
-|  | [Chinchou](../pokemon/chinchou.md) |
-|  | [Eelektrik](../pokemon/eelektrik.md) |
-|  | [Eelektross](../pokemon/eelektross.md) |
-|  | [Electabuzz](../pokemon/electabuzz.md) |
-|  | [Electivire](../pokemon/electivire.md) |
-|  | [Electrike](../pokemon/electrike.md) |
-|  | [Elekid](../pokemon/elekid.md) |
-|  | [Emolga](../pokemon/emolga.md) |
-|  | [Flaaffy](../pokemon/flaaffy.md) |
-|  | [Galvantula](../pokemon/galvantula.md) |
-|  | [Jolteon](../pokemon/jolteon.md) |
-|  | [Joltik](../pokemon/joltik.md) |
-|  | [Klang](../pokemon/klang.md) |
-|  | [Klink](../pokemon/klink.md) |
-|  | [Klinklang](../pokemon/klinklang.md) |
-|  | [Lanturn](../pokemon/lanturn.md) |
-|  | [Luxio](../pokemon/luxio.md) |
-|  | [Luxray](../pokemon/luxray.md) |
-|  | [Magnemite](../pokemon/magnemite.md) |
-|  | [Magneton](../pokemon/magneton.md) |
-|  | [Magnezone](../pokemon/magnezone.md) |
-|  | [Manectric](../pokemon/manectric.md) |
-|  | [Mareep](../pokemon/mareep.md) |
-|  | [Minun](../pokemon/minun.md) |
-|  | [Nosepass](../pokemon/nosepass.md) |
-|  | [Pachirisu](../pokemon/pachirisu.md) |
-|  | [Pikachu](../pokemon/pikachu.md) |
-|  | [Plusle](../pokemon/plusle.md) |
-|  | [Porygon](../pokemon/porygon.md) |
-|  | [Porygon-z](../pokemon/porygon-z.md) |
-|  | [Porygon2](../pokemon/porygon2.md) |
-|  | [Probopass](../pokemon/probopass.md) |
-|  | [Raikou](../pokemon/raikou.md) |
-|  | [Rotom](../pokemon/rotom.md) |
-|  | [Shinx](../pokemon/shinx.md) |
-|  | [Stunfisk](../pokemon/stunfisk.md) |
-|  | [Thundurus-incarnate](../pokemon/thundurus-incarnate.md) |
-|  | [Zapdos](../pokemon/zapdos.md) |
-|  | [Zebstrika](../pokemon/zebstrika.md) |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
+| ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
+| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
+| ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
+| ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) |
+| ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) |
+| ![electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) |
+| ![electrike](../img/pokemon/309.png) | [Electrike](../pokemon/electrike.md) |
+| ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
+| ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
+| ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
+| ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
+| ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
+| ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
+| ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
+| ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
+| ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
+| ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
+| ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
+| ![manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) |
+| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
+| ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
+| ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |
+| ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
+| ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
+| ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
+| ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
+| ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
+| ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |
+| ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) |

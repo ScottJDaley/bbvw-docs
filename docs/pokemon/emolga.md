@@ -16,12 +16,6 @@
 | Ability 1 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. |
 | Ability 2 | **[Motor drive](../abilities/motor-drive.md)**: Absorbs electric moves, raising Speed one stage. | **[Motor Drive](../abilities/motor-drive.md)**: Absorbs electric moves, raising Speed one stage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -44,21 +38,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">75</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 103 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:51.5%; background:#FFDD57;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">468</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">428</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 5](../routes/route-5.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 20% |
-| [Route 16](../routes/route-16.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 6](../routes/route-6.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 7](../routes/route-7.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 30% |
-| [Route 11](../routes/route-11.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Village Bridge](../routes/village-bridge.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 12](../routes/route-12.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 95% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
-| [Route 15](../routes/route-15.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 10% |
+| **Total** | **468** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

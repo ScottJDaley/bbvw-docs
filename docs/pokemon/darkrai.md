@@ -16,12 +16,6 @@
 | Ability 1 | **[Bad dreams](../abilities/bad-dreams.md)**: Damages sleeping opponents for 1/8 their max HP after each turn. | **[Bad Dreams](../abilities/bad-dreams.md)**: Damages sleeping opponents for 1/8 their max HP after each turn. |
 | Ability 2 | - | **[Bad Dreams](../abilities/bad-dreams.md)**: Damages sleeping opponents for 1/8 their max HP after each turn. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,9 +42,6 @@ None
 | Special defense | 90 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Speed | 125 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:62.5%; background:#A0E515;'></div></div> |
 | **Total** | **600** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

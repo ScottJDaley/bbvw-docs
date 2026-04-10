@@ -1,9 +1,7 @@
 # Rolling kick
 
-**TM/HM:** 
-
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 60  
 **Accuracy:** 85  
 **PP:** 15  
@@ -14,7 +12,7 @@ Has a $effect_chance% chance to make the target flinch.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Elekid](../pokemon/elekid.md) |
-|  | [Hitmonlee](../pokemon/hitmonlee.md) |
-|  | [Hitmontop](../pokemon/hitmontop.md) |
-|  | [Machop](../pokemon/machop.md) |
+| ![elekid](../img/pokemon/239.png) | [Elekid](../pokemon/elekid.md) |
+| ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
+| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
+| ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |

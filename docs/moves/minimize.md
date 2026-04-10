@@ -1,11 +1,9 @@
 # Minimize
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,15 +12,15 @@ Raises the user’s evasion by two stages.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Blissey](../pokemon/blissey.md) |
-|  | [Chansey](../pokemon/chansey.md) |
-|  | [Clefable](../pokemon/clefable.md) |
-|  | [Clefairy](../pokemon/clefairy.md) |
-|  | [Drifblim](../pokemon/drifblim.md) |
-|  | [Drifloon](../pokemon/drifloon.md) |
-|  | [Grimer](../pokemon/grimer.md) |
-|  | [Lampent](../pokemon/lampent.md) |
-|  | [Litwick](../pokemon/litwick.md) |
-|  | [Muk](../pokemon/muk.md) |
-|  | [Qwilfish](../pokemon/qwilfish.md) |
-|  | [Staryu](../pokemon/staryu.md) |
+| ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) |
+| ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
+| ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
+| ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
+| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
+| ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
+| ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
+| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
+| ![qwilfish](../img/pokemon/211.png) | [Qwilfish](../pokemon/qwilfish.md) |
+| ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |

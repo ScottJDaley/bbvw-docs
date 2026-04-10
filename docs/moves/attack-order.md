@@ -1,9 +1,7 @@
 # Attack order
 
-**TM/HM:** 
-
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 15  
@@ -14,4 +12,4 @@ Has an increased chance for a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Vespiquen](../pokemon/vespiquen.md) |
+| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) |

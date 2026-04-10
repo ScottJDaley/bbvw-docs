@@ -16,12 +16,6 @@
 | Ability 1 | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. | **[Trace](../abilities/trace.md)**: Copies an opponent's ability upon entering battle. |
 | Ability 2 | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. | **[Download](../abilities/download.md)**: Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -51,11 +45,6 @@ None
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **515** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [P2 Laboratory](../routes/p2-laboratory.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

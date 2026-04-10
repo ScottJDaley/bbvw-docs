@@ -16,22 +16,16 @@
 | Ability 1 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 | Ability 2 | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![water](../img/types/water.png) |  | ![fire](../img/types/fire.png) |
-|  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) |  |  |
-|  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ground](../img/types/ground.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) | ![rock](../img/types/rock.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  |  |
+|  | ![psychic](../img/types/psychic.png) | ![fighting](../img/types/fighting.png) |  |  |
+|  | ![bug](../img/types/bug.png) | ![ground](../img/types/ground.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![flying](../img/types/flying.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![rock](../img/types/rock.png) |  |  |
+|  |  | ![ghost](../img/types/ghost.png) |  |  |
 |  |  | ![dark](../img/types/dark.png) |  |  |
 
 ## Base Stats
@@ -44,9 +38,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **465** | |
-
-## Locations
-Evolve from [Pineco](../pokemon/pineco.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

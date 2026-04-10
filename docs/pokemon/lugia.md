@@ -16,18 +16,12 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Multiscale](../abilities/multiscale.md)**: Halves damage taken from full HP. | **[Multiscale](../abilities/multiscale.md)**: Halves damage taken from full HP. |
 
-## Base Happiness
-70
-
-## Held Items
-- ![Ganlon Berry](../img/items/ganlon-berry.png) Ganlon Berry (100%)
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![ground](../img/types/ground.png) | ![grass](../img/types/grass.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![fighting](../img/types/fighting.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
-|  | ![psychic](../img/types/psychic.png) | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
+|  | ![psychic](../img/types/psychic.png) | ![fire](../img/types/fire.png) | ![ice](../img/types/ice.png) |  |
+|  |  | ![water](../img/types/water.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![flying](../img/types/flying.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![bug](../img/types/bug.png) |  |  |
@@ -44,9 +38,6 @@
 | Special defense | 154 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:77.0%; background:#23CD5E;'></div></div> |
 | Speed | 110 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | **Total** | **680** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

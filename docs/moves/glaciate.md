@@ -1,9 +1,7 @@
 # Glaciate
 
-**TM/HM:** 
-
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 65  
 **Accuracy:** 95  
 **PP:** 10  
@@ -14,5 +12,5 @@ Lowers the target’s Speed by one stage.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Kyurem](../pokemon/kyurem.md) |
-|  | [Rotom](../pokemon/rotom.md) |
+| ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
+| ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |

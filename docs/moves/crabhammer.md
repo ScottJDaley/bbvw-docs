@@ -1,9 +1,7 @@
 # Crabhammer
 
-**TM/HM:** 
-
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 100  
 **Accuracy:** 90  
 **PP:** 10  
@@ -14,9 +12,9 @@ Has an increased chance for a critical hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Corphish](../pokemon/corphish.md) |
-|  | [Crawdaunt](../pokemon/crawdaunt.md) |
-|  | [Kingler](../pokemon/kingler.md) |
-|  | [Krabby](../pokemon/krabby.md) |
-|  | [Scizor](../pokemon/scizor.md) |
-|  | [Scyther](../pokemon/scyther.md) |
+| ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
+| ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
+| ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
+| ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
+| ![scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) |
+| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) |

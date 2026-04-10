@@ -1,11 +1,9 @@
 # Tail glow
 
-**TM/HM:** 
-
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 20  
 
 ## Description
@@ -14,8 +12,8 @@ Raises the user’s Special Attack by three stages.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Ampharos](../pokemon/ampharos.md) |
-|  | [Flaaffy](../pokemon/flaaffy.md) |
-|  | [Manaphy](../pokemon/manaphy.md) |
-|  | [Mareep](../pokemon/mareep.md) |
-|  | [Volbeat](../pokemon/volbeat.md) |
+| ![ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) |
+| ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
+| ![manaphy](../img/pokemon/490.png) | [Manaphy](../pokemon/manaphy.md) |
+| ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
+| ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |

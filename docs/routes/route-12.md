@@ -1,30 +1,30 @@
 # Route 12
 
 ## General
-### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
+### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Cherrim](../pokemon/cherrim.md) | 20% |
-|  | [Combee](../pokemon/combee.md) | 20% |
-|  | [Sunkern](../pokemon/sunkern.md) | 10% |
-|  | [Pinsir](../pokemon/pinsir.md) | 10% |
-|  | [Heracross](../pokemon/heracross.md) | 10% |
+| ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 20% |
+| ![combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 20% |
+| ![sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) | 10% |
+| ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 10% |
+| ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Tranquill](../pokemon/tranquill.md) | 40% |
-|  | [Butterfree](../pokemon/butterfree.md) | 10% |
-|  | [Beedrill](../pokemon/beedrill.md) | 10% |
-|  | [Beautifly](../pokemon/beautifly.md) | 10% |
-|  | [Dustox](../pokemon/dustox.md) | 10% |
-|  | [Swadloon](../pokemon/swadloon.md) | 10% |
-|  | [Whirlipede](../pokemon/whirlipede.md) | 10% |
+| ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 40% |
+| ![butterfree](../img/pokemon/012.png) | [Butterfree](../pokemon/butterfree.md) | 10% |
+| ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) | 10% |
+| ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) | 10% |
+| ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) | 10% |
+| ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) | 10% |
+| ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Emolga](../pokemon/emolga.md) | 95% |
-|  | [Sunflora](../pokemon/sunflora.md) | 5% |
-|  | [Vespiquen](../pokemon/vespiquen.md) | 5% |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 95% |
+| ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 5% |
+| ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 5% |
 

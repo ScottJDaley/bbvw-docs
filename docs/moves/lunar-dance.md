@@ -1,11 +1,9 @@
 # Lunar dance
 
-**TM/HM:** 
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
-**Power:** -  
-**Accuracy:** -  
+**Category:** ![status](../img/types/status.png)  
+**Power:** None  
+**Accuracy:** None  
 **PP:** 10  
 
 ## Description
@@ -14,4 +12,4 @@ User faints, and its replacement is fully healed.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Cresselia](../pokemon/cresselia.md) |
+| ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Levitate](../abilities/levitate.md)**: Evades ground moves. | **[Levitate](../abilities/levitate.md)**: Evades ground moves. |
 | Ability 2 | **[Heatproof](../abilities/heatproof.md)**: Halves damage from fire moves and burns. | **[Heatproof](../abilities/heatproof.md)**: Halves damage from fire moves and burns. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -29,7 +23,6 @@ None
 |  | ![grass](../img/types/grass.png) | ![electric](../img/types/electric.png) | ![ground](../img/types/ground.png) |  |
 |  | ![ice](../img/types/ice.png) | ![fighting](../img/types/fighting.png) | ![ghost](../img/types/ghost.png) |  |
 |  | ![flying](../img/types/flying.png) | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) |  |
-|  | ![psychic](../img/types/psychic.png) |  |  |  |
 |  | ![rock](../img/types/rock.png) |  |  |  |
 |  | ![dragon](../img/types/dragon.png) |  |  |  |
 |  | ![steel](../img/types/steel.png) |  |  |  |
@@ -44,12 +37,6 @@ None
 | Special defense | 116 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:57.99999999999999%; background:#A0E515;'></div></div> |
 | Speed | 33 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:16.5%; background:#F34444;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 10% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -1,10 +1,8 @@
 # Crush grip
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** -  
+**Category:** ![physical](../img/types/physical.png)  
+**Power:** None  
 **Accuracy:** 100  
 **PP:** 5  
 
@@ -14,4 +12,4 @@ Power increases against targets with more HP remaining, up to a maximum of 121 p
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Regigigas](../pokemon/regigigas.md) |
+| ![regigigas](../img/pokemon/486.png) | [Regigigas](../pokemon/regigigas.md) |

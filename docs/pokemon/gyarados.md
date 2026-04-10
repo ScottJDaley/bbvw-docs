@@ -16,12 +16,6 @@
 | Ability 1 | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. | **[Intimidate](../abilities/intimidate.md)**: Lowers opponents' Attack one stage upon entering battle. |
 | Ability 2 | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. | **[Moxie](../abilities/moxie.md)**: Raises Attack one stage upon KOing a Pokémon. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -45,16 +39,6 @@ None
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 81 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.5%; background:#FFDD57;'></div></div> |
 | **Total** | **540** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 100% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 10% |
-| [Victory Road](../routes/victory-road.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Victory Road](../routes/victory-road.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

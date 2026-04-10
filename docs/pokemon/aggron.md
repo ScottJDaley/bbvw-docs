@@ -16,22 +16,15 @@
 | Ability 1 | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. | **[Sturdy](../abilities/sturdy.md)**: Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP. |
 | Ability 2 | **[Rock head](../abilities/rock-head.md)**: Protects against recoil damage. | **[Rock Head](../abilities/rock-head.md)**: Protects against recoil damage. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-| ![poison](../img/types/poison.png) | ![normal](../img/types/normal.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) | ![fighting](../img/types/fighting.png) |
-|  | ![ice](../img/types/ice.png) | ![electric](../img/types/electric.png) |  | ![ground](../img/types/ground.png) |
-|  | ![flying](../img/types/flying.png) | ![grass](../img/types/grass.png) |  |  |
-|  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |  |
-|  | ![bug](../img/types/bug.png) | ![dark](../img/types/dark.png) |  |  |
-|  | ![rock](../img/types/rock.png) | ![steel](../img/types/steel.png) |  |  |
-|  | ![dragon](../img/types/dragon.png) |  |  |  |
+| ![poison](../img/types/poison.png) | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![water](../img/types/water.png) | ![fighting](../img/types/fighting.png) |
+|  | ![psychic](../img/types/psychic.png) | ![electric](../img/types/electric.png) |  | ![ground](../img/types/ground.png) |
+|  | ![bug](../img/types/bug.png) | ![grass](../img/types/grass.png) |  |  |
+|  | ![rock](../img/types/rock.png) | ![ghost](../img/types/ghost.png) |  |  |
+|  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |  |
+|  |  | ![steel](../img/types/steel.png) |  |  |
 
 ## Base Stats
 | Stat | Value | Bar |
@@ -43,9 +36,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **530** | |
-
-## Locations
-Evolve from [Lairon](../pokemon/lairon.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

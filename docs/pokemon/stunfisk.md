@@ -16,12 +16,6 @@
 | Ability 1 | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. | **[Static](../abilities/static.md)**: Has a 30% chance of paralyzing attacking Pokémon on contact. |
 | Ability 2 | **[Limber](../abilities/limber.md)**: Prevents paralysis. | **[Limber](../abilities/limber.md)**: Prevents paralysis. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -43,19 +37,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">101</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">81</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.5%; background:#FFDD57;'></div></div> |
 | Special defense | 99 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:49.5%; background:#FFDD57;'></div></div> |
 | Speed | 32 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:16.0%; background:#F34444;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">491</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">471</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 20% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Icirrus City, Route 8](../routes/icirrus-city,-route-8.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle normal](../img/items/grass-normal.png) Puddle, Normal | 20% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 30% |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 30% |
+| **Total** | **491** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -1,9 +1,7 @@
 # Weather ball
 
-**TM/HM:** 
-
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 10  
@@ -14,15 +12,15 @@ If there be weather, this move has doubled power and the weather’s type.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Bellsprout](../pokemon/bellsprout.md) |
-|  | [Castform](../pokemon/castform.md) |
-|  | [Cherrim](../pokemon/cherrim.md) |
-|  | [Cherubi](../pokemon/cherubi.md) |
-|  | [Drifloon](../pokemon/drifloon.md) |
-|  | [Ho-oh](../pokemon/ho-oh.md) |
-|  | [Lugia](../pokemon/lugia.md) |
-|  | [Raikou](../pokemon/raikou.md) |
-|  | [Roserade](../pokemon/roserade.md) |
-|  | [Snorunt](../pokemon/snorunt.md) |
-|  | [Vanilluxe](../pokemon/vanilluxe.md) |
-|  | [Victreebel](../pokemon/victreebel.md) |
+| ![bellsprout](../img/pokemon/069.png) | [Bellsprout](../pokemon/bellsprout.md) |
+| ![castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) |
+| ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) |
+| ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
+| ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
+| ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
+| ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
+| ![snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) |
+| ![vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) |
+| ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |

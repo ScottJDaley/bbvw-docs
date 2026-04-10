@@ -16,17 +16,11 @@
 | Ability 1 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Overcoat](../abilities/overcoat.md)**: Protects against damage from weather. |
 | Ability 2 | **[Skill link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. | **[Skill Link](../abilities/skill-link.md)**: Extends two-to-five-hit moves and triple kick to their full length every time. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  |  | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![fighting](../img/types/fighting.png) |  |
 |  |  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![flying](../img/types/flying.png) |  |  |
@@ -47,14 +41,6 @@ None
 | Special defense | 45 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.5%; background:#FF7F0E;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | **Total** | **525** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 100% |
-| [Route 13](../routes/route-13.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
-| [Undella Town](../routes/undella-town.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
-| [Undella Bay](../routes/undella-bay.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

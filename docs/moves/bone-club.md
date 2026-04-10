@@ -1,9 +1,7 @@
 # Bone club
 
-**TM/HM:** 
-
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 65  
 **Accuracy:** 85  
 **PP:** 20  
@@ -14,5 +12,5 @@ Has a $effect_chance% chance to make the target flinch.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Cubone](../pokemon/cubone.md) |
-|  | [Marowak](../pokemon/marowak.md) |
+| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |

@@ -18,12 +18,6 @@
 | Ability 1 | **[Keen eye](../abilities/keen-eye.md)**: Prevents accuracy from being lowered. | **[Inner Focus](../abilities/inner-focus.md)**: Prevents flinching. |
 | Ability 2 | **[Iron fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. | **[Iron Fist](../abilities/iron-fist.md)**: Strengthens punch-based moves to 1.2× their power. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,9 +44,6 @@ None
 | Special defense | 110 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:55.00000000000001%; background:#A0E515;'></div></div> |
 | Speed | 76 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:38.0%; background:#FFDD57;'></div></div> |
 | **Total** | **455** | |
-
-## Locations
-Evolve from [Tyrogue](../pokemon/tyrogue.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Illusion](../abilities/illusion.md)**: Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move. | **[Illusion](../abilities/illusion.md)**: Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move. |
 | Ability 2 | - | **[Illusion](../abilities/illusion.md)**: Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,9 +42,6 @@ None
 | Special defense | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | Speed | 105 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:52.5%; background:#FFDD57;'></div></div> |
 | **Total** | **510** | |
-
-## Locations
-Evolve from [Zorua](../pokemon/zorua.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
 | Ability 2 | **[Cloud nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. | **[Cloud Nine](../abilities/cloud-nine.md)**: Negates all effects of weather, but does not prevent the weather itself. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,15 +41,6 @@ None
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | **Total** | **320** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Striaton City](../routes/striaton-city.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Route 3](../routes/route-3.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 90% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -438,7 +438,7 @@ nav:
       - Groudon: pokemon/groudon.md
       - Rayquaza: pokemon/rayquaza.md
       - Jirachi: pokemon/jirachi.md
-      - Deoxys-normal: pokemon/deoxys-normal.md
+      - Deoxys: pokemon/deoxys.md
     - Sinnoh:
       - Turtwig: pokemon/turtwig.md
       - Grotle: pokemon/grotle.md
@@ -466,7 +466,7 @@ nav:
       - Shieldon: pokemon/shieldon.md
       - Bastiodon: pokemon/bastiodon.md
       - Burmy: pokemon/burmy.md
-      - Wormadam-plant: pokemon/wormadam-plant.md
+      - Wormadam: pokemon/wormadam.md
       - Mothim: pokemon/mothim.md
       - Combee: pokemon/combee.md
       - Vespiquen: pokemon/vespiquen.md
@@ -540,12 +540,12 @@ nav:
       - Palkia: pokemon/palkia.md
       - Heatran: pokemon/heatran.md
       - Regigigas: pokemon/regigigas.md
-      - Giratina-altered: pokemon/giratina-altered.md
+      - Giratina: pokemon/giratina.md
       - Cresselia: pokemon/cresselia.md
       - Phione: pokemon/phione.md
       - Manaphy: pokemon/manaphy.md
       - Darkrai: pokemon/darkrai.md
-      - Shaymin-land: pokemon/shaymin-land.md
+      - Shaymin: pokemon/shaymin.md
       - Arceus: pokemon/arceus.md
     - Unova:
       - Victini: pokemon/victini.md
@@ -604,13 +604,13 @@ nav:
       - Whimsicott: pokemon/whimsicott.md
       - Petilil: pokemon/petilil.md
       - Lilligant: pokemon/lilligant.md
-      - Basculin-red-striped: pokemon/basculin.md
-      - Basculin-red-striped: pokemon/basculin.md
+      - Basculin: pokemon/basculin.md
+      - Basculin: pokemon/basculin.md
       - Sandile: pokemon/sandile.md
       - Krokorok: pokemon/krokorok.md
       - Krookodile: pokemon/krookodile.md
       - Darumaka: pokemon/darumaka.md
-      - Darmanitan-standard: pokemon/darmanitan-standard.md
+      - Darmanitan: pokemon/darmanitan.md
       - Maractus: pokemon/maractus.md
       - Dwebble: pokemon/dwebble.md
       - Crustle: pokemon/crustle.md
@@ -647,8 +647,8 @@ nav:
       - Escavalier: pokemon/escavalier.md
       - Foongus: pokemon/foongus.md
       - Amoonguss: pokemon/amoonguss.md
-      - Frillish-male: pokemon/frillish-male.md
-      - Jellicent-male: pokemon/jellicent-male.md
+      - Frillish: pokemon/frillish.md
+      - Jellicent: pokemon/jellicent.md
       - Alomomola: pokemon/alomomola.md
       - Joltik: pokemon/joltik.md
       - Galvantula: pokemon/galvantula.md
@@ -696,17 +696,16 @@ nav:
       - Cobalion: pokemon/cobalion.md
       - Terrakion: pokemon/terrakion.md
       - Virizion: pokemon/virizion.md
-      - Tornadus-incarnate: pokemon/tornadus-incarnate.md
-      - Thundurus-incarnate: pokemon/thundurus-incarnate.md
+      - Tornadus: pokemon/tornadus.md
+      - Thundurus: pokemon/thundurus.md
       - Reshiram: pokemon/reshiram.md
       - Zekrom: pokemon/zekrom.md
-      - Landorus-incarnate: pokemon/landorus-incarnate.md
+      - Landorus: pokemon/landorus.md
       - Kyurem: pokemon/kyurem.md
-      - Keldeo-ordinary: pokemon/keldeo-ordinary.md
-      - Meloetta-aria: pokemon/meloetta-aria.md
+      - Keldeo: pokemon/keldeo.md
+      - Meloetta: pokemon/meloetta.md
       - Genesect: pokemon/genesect.md
   - Routes:
-    - routes/index.md
     - Nuvema Town: routes/nuvema-town.md
     - Route 1: routes/route-1.md
     - Accumula Town: routes/accumula-town.md
@@ -759,12 +758,11 @@ nav:
     - Undella Bay: routes/undella-bay.md
     - Route 14: routes/route-14.md
     - Abundant Shrine: routes/abundant-shrine.md
-    - Black City / White Forest: routes/black-city---white-forest.md
+    - Black City / White Forest: routes/black-city--white-forest.md
     - Route 15: routes/route-15.md
     - Marvelous Bridge: routes/marvelous-bridge.md
     - Challenger’s Cave: routes/challengers-cave.md
   - Moves:
-    - moves/index.md
     - Absorb: moves/absorb.md
     - Acid: moves/acid.md
     - Acid armor: moves/acid-armor.md
@@ -940,7 +938,7 @@ nav:
     - Force palm: moves/force-palm.md
     - Foresight: moves/foresight.md
     - Foul play: moves/foul-play.md
-    - Frenzy plant: moves/frenzy-plant.md
+    - Frenzy plant: moves/frenzy.md
     - Frost breath: moves/frost-breath.md
     - Frustration: moves/frustration.md
     - Fury attack: moves/fury-attack.md
@@ -1321,7 +1319,6 @@ nav:
     - Zap cannon: moves/zap-cannon.md
     - Zen headbutt: moves/zen-headbutt.md
   - Abilities:
-    - abilities/index.md
     - Adaptability: abilities/adaptability.md
     - Aftermath: abilities/aftermath.md
     - Air lock: abilities/air-lock.md

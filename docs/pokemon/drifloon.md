@@ -16,18 +16,12 @@
 | Ability 1 | **[Aftermath](../abilities/aftermath.md)**: Damages the attacker for 1/4 its max HP when knocked out by a contact move. | **[Flare Boost](../abilities/flare-boost.md)**: Increases Special Attack to 1.5× when burned. |
 | Ability 2 | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. | **[Unburden](../abilities/unburden.md)**: Doubles Speed upon using or losing a held item. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 | ![normal](../img/types/normal.png) | ![grass](../img/types/grass.png) | ![fire](../img/types/fire.png) | ![electric](../img/types/electric.png) |  |
 | ![fighting](../img/types/fighting.png) | ![poison](../img/types/poison.png) | ![water](../img/types/water.png) | ![ice](../img/types/ice.png) |  |
-| ![ground](../img/types/ground.png) | ![bug](../img/types/bug.png) | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
+| ![ground](../img/types/ground.png) |  | ![flying](../img/types/flying.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![psychic](../img/types/psychic.png) | ![ghost](../img/types/ghost.png) |  |
 |  |  | ![dragon](../img/types/dragon.png) | ![dark](../img/types/dark.png) |  |
 |  |  | ![steel](../img/types/steel.png) |  |  |
@@ -42,11 +36,6 @@ None
 | Special defense | 44 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:22.0%; background:#FF7F0E;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | **Total** | **348** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 16](../routes/route-16.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

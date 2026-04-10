@@ -1,9 +1,7 @@
 # Triple kick
 
-**TM/HM:** 
-
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Category:** ![physical](../img/types/physical.png)  
 **Power:** 10  
 **Accuracy:** 90  
 **PP:** 10  
@@ -14,4 +12,4 @@ Hits three times, increasing power by 100% with each successful hit.
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Hitmontop](../pokemon/hitmontop.md) |
+| ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |

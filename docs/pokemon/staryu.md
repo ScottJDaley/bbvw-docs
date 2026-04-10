@@ -16,12 +16,6 @@
 | Ability 1 | **[Illuminate](../abilities/illuminate.md)**: Doubles the wild encounter rate. | **[Regenerator](../abilities/regenerator.md)**: Heals for 1/3 max HP upon switching out. |
 | Ability 2 | **[Natural cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. | **[Natural Cure](../abilities/natural-cure.md)**: Cures any major status ailment upon switching out. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,14 +41,6 @@ None
 | Special defense | 55 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:27.500000000000004%; background:#FF7F0E;'></div></div> |
 | Speed | 85 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:42.5%; background:#FFDD57;'></div></div> |
 | **Total** | **340** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Striaton City](../routes/striaton-city.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Striaton City](../routes/striaton-city.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 40% |
-| [Driftveil City](../routes/driftveil-city.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
-| [Driftveil City](../routes/driftveil-city.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -9,19 +9,13 @@
 |Stage |  | Stage |  | Stage |
 |:---: | :---: | :---: | :---: | :---: |
 |![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Use water-stone | ![poliwrath](../img/pokemon/062.png)<br>**[Poliwrath]( poliwrath.md)** |
-|![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Level Up at Night with King's Rock equipped. <br><span class="rom-label">ROM</span> | ![politoed](../img/pokemon/186.png)<br>**[Politoed]( politoed.md)** |
+|![poliwag](../img/pokemon/060.png)<br>**[Poliwag]( poliwag.md)** | ➡️<br>Lv. 25 | ![poliwhirl](../img/pokemon/061.png)<br>**[Poliwhirl]( poliwhirl.md)** | ➡️<br>Level Up at Night with King's Rock equipped. | ![politoed](../img/pokemon/186.png)<br>**[Politoed]( politoed.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 | Ability 2 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Drizzle](../abilities/drizzle.md)**: Summons rain that lasts indefinitely upon entering battle. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,13 +42,6 @@ None
 | Special defense | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | Speed | 70 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:35.0%; background:#FFDD57;'></div></div> |
 | **Total** | **500** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
-| [Route 14](../routes/route-14.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

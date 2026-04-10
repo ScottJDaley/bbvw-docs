@@ -9,19 +9,12 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![wooper](../img/pokemon/194.png)<br>**[Wooper]( wooper.md)** | ➡️<br>Lv. 20 | ![quagsire](../img/pokemon/195.png)<br>**[Quagsire]( quagsire.md)** |
-|![wooper](../img/pokemon/194.png)<br>**[Wooper]( wooper.md)** | ➡️<br>Lv. 20 | <br>**[Clodsire]( clodsire.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Damp](../abilities/damp.md)**: Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle. | **[Unaware](../abilities/unaware.md)**: Ignores other Pokémon's stat modifiers for damage and accuracy calculation. |
 | Ability 2 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
-
-## Base Happiness
-70
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -48,12 +41,6 @@ None
 | Special defense | 25 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:12.5%; background:#F34444;'></div></div> |
 | Speed | 15 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:7.5%; background:#F34444;'></div></div> |
 | **Total** | **210** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Wellspring Cave](../routes/wellspring-cave.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

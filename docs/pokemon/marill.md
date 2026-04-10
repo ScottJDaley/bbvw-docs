@@ -16,12 +16,6 @@
 | Ability 1 | **[Thick fat](../abilities/thick-fat.md)**: Halves damage from fire and ice moves. | **[Sap Sipper](../abilities/sap-sipper.md)**: Absorbs grass moves, raising Attack one stage. |
 | Ability 2 | **[Huge power](../abilities/huge-power.md)**: Doubles Attack in battle. | **[Huge Power](../abilities/huge-power.md)**: Doubles Attack in battle. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -46,15 +40,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">20</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:45.0%; background:#FFDD57;'></div></div> |
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 40 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:20.0%; background:#FF7F0E;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">450</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">250</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Striaton City](../routes/striaton-city.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 100% |
-| [Route 3](../routes/route-3.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
-| [Route 3](../routes/route-3.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 10% |
+| **Total** | **360** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

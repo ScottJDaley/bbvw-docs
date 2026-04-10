@@ -16,17 +16,11 @@
 | Ability 1 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 | Ability 2 | **[Shell armor](../abilities/shell-armor.md)**: Protects against critical hits. | **[Shell Armor](../abilities/shell-armor.md)**: Protects against critical hits. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
 |  | ![water](../img/types/water.png) | ![normal](../img/types/normal.png) | ![electric](../img/types/electric.png) |  |
-|  | ![ice](../img/types/ice.png) | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
+|  |  | ![fire](../img/types/fire.png) | ![grass](../img/types/grass.png) |  |
 |  |  | ![poison](../img/types/poison.png) | ![fighting](../img/types/fighting.png) |  |
 |  |  | ![ground](../img/types/ground.png) | ![rock](../img/types/rock.png) |  |
 |  |  | ![flying](../img/types/flying.png) |  |  |
@@ -47,13 +41,6 @@ None
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 60 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:30.0%; background:#FF7F0E;'></div></div> |
 | **Total** | **535** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Driftveil City](../routes/driftveil-city.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 10% |
-| [Victory Road](../routes/victory-road.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 40% |
-| [Victory Road](../routes/victory-road.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 60% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
@@ -77,7 +64,7 @@ None
 | 53 | [Dragon dance](../moves/dragon-dance.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 57 | [Outrage](../moves/outrage.md)  <span class="pill pill-new">NEW</span>| ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
 | 61 | [Aqua tail](../moves/aqua-tail.md)  <span class="pill pill-new">NEW</span>| ![water](../img/types/water.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 90 | 10 |
-| 65 | [Sheer cold](../moves/sheer-cold.md)  <span class="pill pill-shifted">SHIFTED (from 55)</span>| ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |
+| 65 | [Sheer cold](../moves/sheer-cold.md)  <span class="pill pill-shifted">SHIFTED</span>| ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 30 | 5 |
 | 69 | [Shell smash](../moves/shell-smash.md)  <span class="pill pill-new">NEW</span>| ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
 
 ## TM Moves

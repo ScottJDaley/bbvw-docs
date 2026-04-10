@@ -1,63 +1,63 @@
 # Abundant Shrine
 
 ## General
-### ![Grass, Normal](../img/items/grass-normal.png){ style='vertical-align:middle;' } Grass, Normal
+### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Chimecho](../pokemon/chimecho.md) | 20% |
-|  | [Vulpix](../pokemon/vulpix.md) | 20% |
-|  | [Growlithe](../pokemon/growlithe.md) | 10% |
-|  | [Cottonee](../pokemon/cottonee.md) | 10% |
-|  | [Petilil](../pokemon/petilil.md) | 10% |
-|  | [Bronzor](../pokemon/bronzor.md) | 10% |
-|  | [Murkrow](../pokemon/murkrow.md) | 10% |
-|  | [Misdreavus](../pokemon/misdreavus.md) | 10% |
+| ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) | 20% |
+| ![vulpix](../img/pokemon/037.png) | [Vulpix](../pokemon/vulpix.md) | 20% |
+| ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) | 10% |
+| ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) | 10% |
+| ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) | 10% |
+| ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 10% |
+| ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 10% |
+| ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-doubles.png){ style='vertical-align:middle;' } Grass, Doubles
+### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Eevee](../pokemon/eevee.md) | 20% |
-|  | [Bronzong](../pokemon/bronzong.md) | 20% |
-|  | [Girafarig](../pokemon/girafarig.md) | 10% |
-|  | [Stantler](../pokemon/stantler.md) | 10% |
-|  | [Hypno](../pokemon/hypno.md) | 10% |
-|  | [Mightyena](../pokemon/mightyena.md) | 10% |
-|  | [Mr. Mime](../pokemon/mr-mime.md) | 10% |
-|  | [Sudowoodo](../pokemon/sudowoodo.md) | 10% |
+| ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) | 20% |
+| ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) | 20% |
+| ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 10% |
+| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
+| ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 10% |
+| ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 10% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 10% |
+| ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-special.png){ style='vertical-align:middle;' } Grass, Special
+### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Audino](../pokemon/audino.md) | 70% |
-|  | [Emolga](../pokemon/emolga.md) | 10% |
-|  | [Arcanine](../pokemon/arcanine.md) | 5% |
-|  | [Ninetales](../pokemon/ninetales.md) | 5% |
-|  | [Whimsicott](../pokemon/whimsicott.md) | 5% |
-|  | [Lilligant](../pokemon/lilligant.md) | 5% |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
+| ![arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) | 5% |
+| ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 5% |
+| ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 5% |
+| ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png){ style='vertical-align:middle;' } Surf, Normal
+### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Slowpoke](../pokemon/slowpoke.md) | 100% |
+| ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) | 100% |
 
-### ![Surf, Special](../img/items/surf-special.png){ style='vertical-align:middle;' } Surf, Special
+### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Slowking](../pokemon/slowking.md) | 60% |
-|  | [Slowbro](../pokemon/slowbro.md) | 40% |
+| ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 60% |
+| ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) | 40% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png){ style='vertical-align:middle;' } Fish, Normal
+### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Goldeen](../pokemon/goldeen.md) | 70% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
+| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png){ style='vertical-align:middle;' } Fish, Special
+### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-|  | [Goldeen](../pokemon/goldeen.md) | 60% |
-|  | [Basculin](../pokemon/basculin.md) | 30% |
-|  | [Seaking](../pokemon/seaking.md) | 10% |
+| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |
+| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
+| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
 
 ## Trainers
@@ -68,10 +68,16 @@
 #### Chili’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | 86 | Blaze | Passho Berry | Flare Blitz, Earthquake, Hammer Arm, Scald |
-| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 86 | Blaze | Charti Berry | Fire Blast, Air Slash, Outrage, Earthquake |
-| ![Typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | 86 | Blaze | Shuca Berry | Eruption, Focus Blast, SolarBeam, ThunderPunch |
-| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 86 | Blaze | Payapa Berry | Hi Jump Kick, Flare Blitz, Stone Edge, ThunderPunch |
-| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 86 | Blaze | Coba Berry | Overheat, Close Combat, Grass Knot, ThunderPunch |
-| ![Simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) | 88 | Gluttony | Petaya Berry | Fire Blast, Focus Blast, Grass Knot, Will-O-Wisp |
+| |  | 86 | Blaze | Passho Berry | [Flare Blitz](../moves/flare-blitz.md), [Earthquake](../moves/earthquake.md), [Hammer Arm](../moves/hammer-arm.md), [Scald](../moves/scald.md) |
+| |  | 86 | Blaze | Charti Berry | [Fire Blast](../moves/fire-blast.md), [Air Slash](../moves/air-slash.md), [Outrage](../moves/outrage.md), [Earthquake](../moves/earthquake.md) |
+| |  | 86 | Blaze | Shuca Berry | [Eruption](../moves/eruption.md), [Focus Blast](../moves/focus-blast.md), [SolarBeam](../moves/solar-beam.md), [ThunderPunch](../moves/thunder-punch.md) |
+| ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | Blaziken | Speed Boost | 86 | Blaze, [Hi Jump Kick](../moves/high-jump-kick.md), [Flare Blitz](../moves/flare-blitz.md), [Stone Edge](../moves/stone-edge.md) |
+| ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | Infernape | Iron Fist | 86 | Blaze, [Overheat](../moves/overheat.md), [Close Combat](../moves/close-combat.md), [Grass Knot](../moves/grass-knot.md) |
+| ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | Simisear | Unburden | 88 | Gluttony, [Fire Blast](../moves/fire-blast.md), [Focus Blast](../moves/focus-blast.md), [Grass Knot](../moves/grass-knot.md) |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| |  | ? | - | - |  |
+| | [ThunderPunch](../moves/thunder-punch.md) | ? | - | - |  |
+| | [ThunderPunch](../moves/thunder-punch.md) | ? | - | - |  |
+| | [Will-O-Wisp](../moves/will-o-wisp.md) | ? | - | - |  |
 

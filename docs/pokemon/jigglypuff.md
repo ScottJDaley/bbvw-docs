@@ -16,12 +16,6 @@
 | Ability 1 | **[Cute charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. | **[Cute Charm](../abilities/cute-charm.md)**: Has a 30% chance of infatuating attacking Pokémon on contact. |
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Friend Guard](../abilities/friend-guard.md)**: Decreases all direct damage taken by friendly Pokémon to 0.75×. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -50,14 +44,7 @@ None
 | Special attack | <span style="color:green; font-weight:bold;">65</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">45</span> | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | Special defense | 25 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:12.5%; background:#F34444;'></div></div> |
 | Speed | 20 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:10.0%; background:#F34444;'></div></div> |
-| **Total** | <span style="color:green; font-weight:bold;">323</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">270</span> | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
-| [Dreamyard](../routes/dreamyard.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
-| [Giant Chasm](../routes/giant-chasm.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 20% |
+| **Total** | **323** | |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

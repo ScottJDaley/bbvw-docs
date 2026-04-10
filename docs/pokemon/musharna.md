@@ -16,12 +16,6 @@
 | Ability 1 | **[Forewarn](../abilities/forewarn.md)**: Reveals the opponents' strongest move upon entering battle. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 | Ability 2 | **[Synchronize](../abilities/synchronize.md)**: Copies burns, paralysis, and poison received onto the Pokémon that inflicted them. | **[Analytic](../abilities/analytic.md)**: Strengthens moves to 1.3× their power when moving last. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -48,9 +42,6 @@ None
 | Special defense | 95 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:47.5%; background:#FFDD57;'></div></div> |
 | Speed | 29 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:14.499999999999998%; background:#F34444;'></div></div> |
 | **Total** | **487** | |
-
-## Locations
-Evolve from [Munna](../pokemon/munna.md)
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

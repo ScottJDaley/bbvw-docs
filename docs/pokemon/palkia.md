@@ -16,18 +16,12 @@
 | Ability 1 | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. | **[Pressure](../abilities/pressure.md)**: Increases the PP cost of moves targetting the Pokémon by one. |
 | Ability 2 | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. | **[Telepathy](../abilities/telepathy.md)**: Protects against friendly Pokémon's damaging moves. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
-|  | ![fire](../img/types/fire.png) | ![normal](../img/types/normal.png) | ![dragon](../img/types/dragon.png) |  |
-|  | ![water](../img/types/water.png) | ![electric](../img/types/electric.png) |  |  |
-|  | ![steel](../img/types/steel.png) | ![grass](../img/types/grass.png) |  |  |
+|  | ![steel](../img/types/steel.png) | ![normal](../img/types/normal.png) | ![dragon](../img/types/dragon.png) |  |
+|  |  | ![electric](../img/types/electric.png) |  |  |
+|  |  | ![grass](../img/types/grass.png) |  |  |
 |  |  | ![ice](../img/types/ice.png) |  |  |
 |  |  | ![fighting](../img/types/fighting.png) |  |  |
 |  |  | ![poison](../img/types/poison.png) |  |  |
@@ -49,9 +43,6 @@ None
 | Special defense | 120 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:60.0%; background:#A0E515;'></div></div> |
 | Speed | 100 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:50.0%; background:#FFDD57;'></div></div> |
 | **Total** | **680** | |
-
-## Locations
-No known wild location.
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

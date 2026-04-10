@@ -14,13 +14,7 @@
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Swift swim](../abilities/swift-swim.md)**: Doubles Speed during rain. | **[Swift Swim](../abilities/swift-swim.md)**: Doubles Speed during rain. |
-| Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[LightningRod](../abilities/lightningrod.md)**:  |
-
-## Base Happiness
-70
-
-## Held Items
-None
+| Ability 2 | **[Water veil](../abilities/water-veil.md)**: Prevents burns. | **[LightningRod](../abilities/lightning-rod.md)**: Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage. |
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -47,20 +41,6 @@ None
 | Special defense | 50 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:25.0%; background:#FF7F0E;'></div></div> |
 | Speed | 63 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:31.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **320** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 60% |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 10% |
-| [Route 6](../routes/route-6.md) | ![surf normal](../img/items/surf-normal.png) Surf, Normal | 30% |
-| [Route 11](../routes/route-11.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Route 11](../routes/route-11.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Route 14](../routes/route-14.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Route 14](../routes/route-14.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 70% |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 60% |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![fish normal](../img/items/fishing-normal.png) Fish, Normal | 90% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

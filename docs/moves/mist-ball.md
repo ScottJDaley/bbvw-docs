@@ -1,9 +1,7 @@
 # Mist ball
 
-**TM/HM:** 
-
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Category:** ![special](../img/types/special.png)  
 **Power:** 95  
 **Accuracy:** 100  
 **PP:** 5  
@@ -14,4 +12,4 @@ Has a $effect_chance% chance to lower the target’s Special Attack by one stage
 ## Learned by
 | Sprite | Pokemon |
 | --- | --- |
-|  | [Latias](../pokemon/latias.md) |
+| ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |

@@ -16,12 +16,6 @@
 | Ability 1 | **[Marvel scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. | **[Marvel Scale](../abilities/marvel-scale.md)**: Increases Defense to 1.5× with a major status ailment. |
 | Ability 2 | **[Competitive](../abilities/competitive.md)**: Raises Special Attack by two stages upon having any stat lowered. | **[Multiscale](../abilities/multiscale.md)**: Halves damage taken from full HP. |
 
-## Base Happiness
-70
-
-## Held Items
-None
-
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
 | --- | --- | --- | --- | --- |
@@ -47,12 +41,6 @@ None
 | Special defense | 125 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:62.5%; background:#A0E515;'></div></div> |
 | Speed | 81 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:40.5%; background:#FFDD57;'></div></div> |
 | **Total** | **540** | |
-
-## Locations
-| Route | Method | Rate |
-| --- | --- | --- |
-| [Route 1](../routes/route-1.md) | ![fish special](../img/items/fishing-special.png) Fish, Special | 5% |
-| [Route 14](../routes/route-14.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 40% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

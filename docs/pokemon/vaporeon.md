@@ -15,19 +15,12 @@
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Happiness | ![umbreon](../img/pokemon/197.png)<br>**[Umbreon]( umbreon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At eterna-forest | ![leafeon](../img/pokemon/470.png)<br>**[Leafeon]( leafeon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At sinnoh-route-217 | ![glaceon](../img/pokemon/471.png)<br>**[Glaceon]( glaceon.md)** |
-|![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Know fairy move | <br>**[Sylveon]( sylveon.md)** |
 
 ## Abilities
 | Slot | Original | New |
 | --- | --- | --- |
 | Ability 1 | **[Water absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. | **[Water Absorb](../abilities/water-absorb.md)**: Absorbs water moves, healing for 1/4 max HP. |
 | Ability 2 | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. | **[Hydration](../abilities/hydration.md)**: Cures any major status ailment after each turn during rain. |
-
-## Base Happiness
-<span style="color:green; font-weight:bold;">200</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
-
-## Held Items
-None
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -55,9 +48,6 @@ None
 | Speed | 65 | <div style='background:#eee; width:300px; height:15px; border-radius:10px; overflow:hidden; border:1px solid #ddd;'><div style='height:100%; width:32.5%; background:#FF7F0E;'></div></div> |
 | **Total** | **525** | |
 
-## Locations
-Evolve from [Eevee](../pokemon/eevee.md)
-
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -69,21 +59,22 @@ Evolve from [Eevee](../pokemon/eevee.md)
 | 15 | [Water gun](../moves/water-gun.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 25 |
 | 17 | [Water pulse](../moves/water-pulse.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 22 | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
-| 28 | -  <span class="pill pill-new">NEW</span>| Yawn / water pulse / shock wave / flame wheel / power gem / tickle / aromatherapy / aurora beam | - | - | - | - |
+| 28 | [yawn--water-pulse--shock-wave--flame-wheel--power-gem--tickle--aromatherapy--aurora-beam](../moves/yawn-water-pulse-shock-wave-flame-wheel-power-gem-tickle-aromatherapy-aurora-beam.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 29 | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | 36 | [Aurora beam](../moves/aurora-beam.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 65 | 100 | 20 |
-| 43 | -  <span class="pill pill-new">NEW</span>| Wish / scald / electro ball / superpower / fake tears / foul play /  dragon rush / earth power | - | - | - | - |
+| 43 | [wish--scald--electro-ball--superpower--fake-tears--foul-play--dragon-rush--earth-power](../moves/wish-scald-electro-ball-superpower-fake-tears-foul-play-dragon-rush-earth-power.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 43 | [Aqua ring](../moves/aqua-ring.md) | ![water](../img/types/water.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 50 | [Last resort](../moves/last-resort.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
 | 57 | [Haze](../moves/haze.md) | ![ice](../img/types/ice.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
 | 64 | [Acid armor](../moves/acid-armor.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
 | 71 | [Hydro pump](../moves/hydro-pump.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 80 | 5 |
-| 73 | -  <span class="pill pill-new">NEW</span>| Nothing / heal bell / volt tackle / flare blitz / aura sphere / power trick / wood hammer / sheer cold | - | - | - | - |
+| 73 | [nothing--heal-bell--volt-tackle--flare-blitz--aura-sphere--power-trick--wood-hammer--sheer-cold](../moves/nothing-heal-bell-volt-tackle-flare-blitz-aura-sphere-power-trick-wood-hammer-sheer-cold.md)  <span class="pill pill-new">NEW</span>| - | - | - | - | - |
 | 78 | [Muddy water](../moves/muddy-water.md) | ![water](../img/types/water.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 10 |
 
 ## TM Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| TM86  <span class="pill pill-new">NEW</span>| [Grass knot](../moves/grass-knot.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM45 | [Attract](../moves/attract.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | TM14 | [Blizzard](../moves/blizzard.md) | ![ice](../img/types/ice.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 110 | 70 | 5 |
 | TM28 | [Dig](../moves/dig.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 80 | 100 | 10 |
@@ -92,7 +83,6 @@ Evolve from [Eevee](../pokemon/eevee.md)
 | TM42 | [Facade](../moves/facade.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | TM21 | [Frustration](../moves/frustration.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM68 | [Giga impact](../moves/giga-impact.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
-| TM86  <span class="pill pill-new">NEW</span>| [Grass knot](../moves/grass-knot.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM07 | [Hail](../moves/hail.md) | ![ice](../img/types/ice.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | TM10 | [Hidden power](../moves/hidden-power.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
 | TM15 | [Hyper beam](../moves/hyper-beam.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 150 | 90 | 5 |
