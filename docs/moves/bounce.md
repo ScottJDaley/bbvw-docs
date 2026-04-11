@@ -23,7 +23,6 @@ User bounces high into the air, dodging all attacks, and hits next turn.
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) |
 | ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
 | ![buneary](../img/pokemon/427.png) | [Buneary](../pokemon/buneary.md) |
@@ -53,6 +52,7 @@ User bounces high into the air, dodging all attacks, and hits next turn.
 | ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) |

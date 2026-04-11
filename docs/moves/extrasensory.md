@@ -23,8 +23,9 @@ Has a $effect_chance% chance to make the target flinch.
 | ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
@@ -38,6 +39,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |
 | ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |

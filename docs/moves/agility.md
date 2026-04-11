@@ -22,7 +22,6 @@ Raises the user’s Speed by two stages.
 | ![ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) |
 | ![articuno](../img/pokemon/144.png) | [Articuno](../pokemon/articuno.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
@@ -83,7 +82,7 @@ Raises the user’s Speed by two stages.
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
 | ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
@@ -107,7 +106,9 @@ Raises the user’s Speed by two stages.
 | ![swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) |
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |
 | ![venipede](../img/pokemon/543.png) | [Venipede](../pokemon/venipede.md) |
 | ![venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) |

@@ -16,7 +16,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
 | ![beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
@@ -30,6 +29,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |

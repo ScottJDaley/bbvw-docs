@@ -30,6 +30,7 @@ Removes any immunity to Ground damage.
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
 | ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
@@ -47,6 +48,7 @@ Removes any immunity to Ground damage.
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) |
@@ -89,7 +91,9 @@ Removes any immunity to Ground damage.
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |

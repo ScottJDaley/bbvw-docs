@@ -18,10 +18,13 @@ Has a $effect_chance% chance to raise all of the user’s stats by one stage.
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) |
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |

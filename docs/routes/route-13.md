@@ -9,7 +9,7 @@
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 10% |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 10% |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 10% |
-| | Wormadam | 10% |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) | 10% |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 10% |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 10% |
 

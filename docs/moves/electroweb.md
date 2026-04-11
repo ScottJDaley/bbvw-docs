@@ -35,7 +35,7 @@ Lowers the target’s Speed by one stage.
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
@@ -44,4 +44,5 @@ Lowers the target’s Speed by one stage.
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) |
 | ![weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |

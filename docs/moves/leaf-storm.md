@@ -44,3 +44,4 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
 | ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

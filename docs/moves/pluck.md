@@ -29,7 +29,7 @@ If target has a berry, inflicts double damage and uses the berry.
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |

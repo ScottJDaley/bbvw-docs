@@ -29,9 +29,9 @@ Hits 2-5 times in one turn.
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |

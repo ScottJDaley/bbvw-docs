@@ -18,7 +18,6 @@ Lowers the target’s HP to equal the user’s.
 | ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |
 | ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
@@ -36,6 +35,7 @@ Lowers the target’s HP to equal the user’s.
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
@@ -57,6 +57,7 @@ Lowers the target’s HP to equal the user’s.
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
 | ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
@@ -94,6 +95,7 @@ Lowers the target’s HP to equal the user’s.
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
 | ![scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) |
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
 | ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |
 | ![simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) |
@@ -127,4 +129,5 @@ Lowers the target’s HP to equal the user’s.
 | ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |

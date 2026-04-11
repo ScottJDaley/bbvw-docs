@@ -31,6 +31,7 @@ Moves have 100% accuracy against the target for three turns.
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
@@ -48,6 +49,7 @@ Moves have 100% accuracy against the target for three turns.
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
 | ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
 | ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
@@ -69,15 +71,16 @@ Moves have 100% accuracy against the target for three turns.
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |

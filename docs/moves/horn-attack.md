@@ -17,7 +17,7 @@ Inflicts regular damage with no additional effect.
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |
 | ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |

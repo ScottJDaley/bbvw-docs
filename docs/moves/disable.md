@@ -40,8 +40,8 @@ Disables the target’s last used move for 1-8 turns.
 | ![lickitung](../img/pokemon/108.png) | [Lickitung](../pokemon/lickitung.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) |

@@ -83,7 +83,7 @@ Raises the user’s Defense by two stages.
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![metapod](../img/pokemon/011.png) | [Metapod](../pokemon/metapod.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |

@@ -24,12 +24,13 @@ Hits twice in one turn.
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
 | ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![luxio](../img/pokemon/404.png) | [Luxio](../pokemon/luxio.md) |
 | ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |

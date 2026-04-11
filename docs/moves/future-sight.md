@@ -36,7 +36,7 @@ Hits the target two turns later.
 | ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
 | ![gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) |
 | ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
@@ -47,8 +47,8 @@ Hits the target two turns later.
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |

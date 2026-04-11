@@ -44,7 +44,7 @@ Lowers the target’s Defense by one stage.
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |

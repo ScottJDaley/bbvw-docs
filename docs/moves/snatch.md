@@ -33,6 +33,7 @@ Steals the target’s move, if it’s self-targeted.
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
@@ -69,14 +70,15 @@ Steals the target’s move, if it’s self-targeted.
 | ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |

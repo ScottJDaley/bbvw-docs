@@ -13,6 +13,7 @@ Raises the user’s Defense by two stages.
 | Sprite | Pokemon |
 | --- | --- |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |

@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![zigzagoon](../img/pokemon/263.png)<br>**[Zigzagoon]( zigzagoon.md)** | ➡️<br>Lv. 20 | ![linoone](../img/pokemon/264.png)<br>**[Linoone]( linoone.md)** | ➡️<br>Lv. 35 | **[Obstagoon]( obstagoon.md)** |
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![zigzagoon](../img/pokemon/263.png)<br>**[Zigzagoon]( zigzagoon.md)** | ➡️<br>Lv. 20 | ![linoone](../img/pokemon/264.png)<br>**[Linoone]( linoone.md)** |
 
 ## Abilities
 | Slot | Original | New |

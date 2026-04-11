@@ -9,7 +9,6 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![sneasel](../img/pokemon/215.png)<br>**[Sneasel]( sneasel.md)** | ➡️<br>Hold razor-claw | ![weavile](../img/pokemon/461.png)<br>**[Weavile]( weavile.md)** |
-|![sneasel](../img/pokemon/215.png)<br>**[Sneasel]( sneasel.md)** | ➡️<br>Hold razor-claw | **[Sneasler]( sneasler.md)** |
 
 ## Abilities
 | Slot | Original | New |

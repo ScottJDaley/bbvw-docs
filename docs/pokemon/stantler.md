@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![stantler](../img/pokemon/234.png)<br>**[Stantler]( stantler.md)** | ➡️<br> | **[Wyrdeer]( wyrdeer.md)** |
+|Stage |
+|:---: |
+|![stantler](../img/pokemon/234.png)<br>**[Stantler]( stantler.md)** |
 
 ## Abilities
 | Slot | Original | New |

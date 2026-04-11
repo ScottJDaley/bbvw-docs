@@ -13,6 +13,7 @@ Transfers the user’s major status effect to the target.
 | Sprite | Pokemon |
 | --- | --- |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
 | ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |

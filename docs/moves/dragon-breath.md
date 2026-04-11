@@ -23,6 +23,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) |
 | ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |

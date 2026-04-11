@@ -17,6 +17,7 @@ User pays half its max HP to max out its Attack.
 | ![clefable](../img/pokemon/036.png) | [Clefable](../pokemon/clefable.md) |
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) |

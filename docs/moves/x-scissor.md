@@ -45,6 +45,7 @@ Inflicts regular damage with no additional effect.
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |

@@ -17,6 +17,7 @@ Power raises when the user has lower Speed, up to a maximum of 150.
 | ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) |
 | ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) |
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |

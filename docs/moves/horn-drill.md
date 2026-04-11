@@ -17,7 +17,7 @@ Causes a one-hit KO.
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |

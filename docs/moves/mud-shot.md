@@ -14,7 +14,6 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | --- | --- |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
@@ -23,6 +22,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![marshtomp](../img/pokemon/259.png) | [Marshtomp](../pokemon/marshtomp.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |

@@ -28,6 +28,7 @@ Confuses the target.
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
@@ -49,9 +50,9 @@ Confuses the target.
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |

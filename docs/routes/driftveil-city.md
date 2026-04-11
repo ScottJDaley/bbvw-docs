@@ -4,7 +4,7 @@
 ### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| | Frillish | 60% |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 60% |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 30% |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) | 10% |
 

@@ -29,6 +29,7 @@ For five turns, slower Pokémon will act before faster Pokémon.
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
@@ -39,6 +40,7 @@ For five turns, slower Pokémon will act before faster Pokémon.
 | ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
 | ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
@@ -50,6 +52,7 @@ For five turns, slower Pokémon will act before faster Pokémon.
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
@@ -59,19 +62,20 @@ For five turns, slower Pokémon will act before faster Pokémon.
 | ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
 | ![litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |

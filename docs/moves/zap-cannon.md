@@ -28,7 +28,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![mareep](../img/pokemon/179.png) | [Mareep](../pokemon/mareep.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |

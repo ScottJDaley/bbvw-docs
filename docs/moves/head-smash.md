@@ -23,7 +23,7 @@ User receives 1/2 the damage inflicted in recoil.
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
 | ![phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) |
 | ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |

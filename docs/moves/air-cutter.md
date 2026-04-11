@@ -27,6 +27,7 @@ Has an increased chance for a critical hit.
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |

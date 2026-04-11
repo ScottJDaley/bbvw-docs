@@ -12,7 +12,7 @@ Heals for 1/3 max HP upon switching out.
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |

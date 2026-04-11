@@ -36,7 +36,7 @@
 ### Clerk Alberta
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [Wormadam](../pokemon/wormadam.md) | 23 | - | - |  |
+| ![Wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) | 23 | - | - |  |
 | ![Weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) | 23 | - | - |  |
 | ![Gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) | 23 | - | - |  |
 | ![Grovyle](../img/pokemon/253.png) | [Grovyle](../pokemon/grovyle.md) | 23 | - | - |  |
@@ -53,7 +53,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ![Pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) | 23 | - | - |  |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 23 | - | - |  |
-| ![Mime Jr.](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 23 | - | - |  |
+| ![Mime Jr.](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 23 | - | - |  |
 | ![Spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) | 23 | - | - |  |
 
 ### Scientist Steve

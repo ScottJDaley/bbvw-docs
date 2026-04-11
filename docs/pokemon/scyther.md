@@ -9,7 +9,6 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![scyther](../img/pokemon/123.png)<br>**[Scyther]( scyther.md)** | ➡️<br>Trade hold metal-coat | ![scizor](../img/pokemon/212.png)<br>**[Scizor]( scizor.md)** |
-|![scyther](../img/pokemon/123.png)<br>**[Scyther]( scyther.md)** | ➡️<br>Use black-augurite | **[Kleavor]( kleavor.md)** |
 
 ## Abilities
 | Slot | Original | New |

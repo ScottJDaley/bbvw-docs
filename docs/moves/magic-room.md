@@ -32,13 +32,14 @@ Negates held items for five turns.
 | ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
 | ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) |

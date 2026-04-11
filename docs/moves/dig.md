@@ -60,6 +60,7 @@ User digs underground, dodging all attacks, and hits next turn.
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
 | ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
@@ -125,6 +126,7 @@ User digs underground, dodging all attacks, and hits next turn.
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
 | ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |
@@ -155,8 +157,8 @@ User digs underground, dodging all attacks, and hits next turn.
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |

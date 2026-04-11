@@ -21,6 +21,7 @@ Raises the user’s Attack and Defense by one stage.
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
@@ -35,6 +36,7 @@ Raises the user’s Attack and Defense by one stage.
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
 | ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) |
@@ -63,7 +65,9 @@ Raises the user’s Attack and Defense by one stage.
 | ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) |

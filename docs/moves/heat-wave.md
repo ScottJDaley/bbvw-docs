@@ -30,6 +30,7 @@ Has a $effect_chance% chance to burn the target.
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
@@ -43,7 +44,7 @@ Has a $effect_chance% chance to burn the target.
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
 | ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
@@ -97,6 +98,7 @@ Has a $effect_chance% chance to burn the target.
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |

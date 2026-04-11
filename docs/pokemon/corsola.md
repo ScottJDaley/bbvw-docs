@@ -6,9 +6,9 @@
 ![water](../img/types/water.png) ![rock](../img/types/rock.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![corsola](../img/pokemon/222.png)<br>**[Corsola]( corsola.md)** | ➡️<br>Lv. 38 | **[Cursola]( cursola.md)** |
+|Stage |
+|:---: |
+|![corsola](../img/pokemon/222.png)<br>**[Corsola]( corsola.md)** |
 
 ## Abilities
 | Slot | Original | New |

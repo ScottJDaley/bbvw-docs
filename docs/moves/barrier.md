@@ -24,8 +24,8 @@ Raises the user’s Defense by two stages.
 | ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |

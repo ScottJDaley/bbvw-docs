@@ -44,6 +44,7 @@ Takes the target’s item.
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
@@ -146,19 +147,19 @@ Takes the target’s item.
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) |
@@ -185,7 +186,7 @@ Takes the target’s item.
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
@@ -247,6 +248,8 @@ Takes the target’s item.
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) |
@@ -264,6 +267,7 @@ Takes the target’s item.
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |

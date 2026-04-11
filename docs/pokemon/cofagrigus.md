@@ -10,7 +10,6 @@ New: ![ghost](../img/types/ghost.png) ![steel](../img/types/steel.png)
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br>Lv. 34 | ![cofagrigus](../img/pokemon/563.png)<br>**[Cofagrigus]( cofagrigus.md)** |
-|![yamask](../img/pokemon/562.png)<br>**[Yamask]( yamask.md)** | ➡️<br> | **[Runerigus]( runerigus.md)** |
 
 ## Abilities
 | Slot | Original | New |

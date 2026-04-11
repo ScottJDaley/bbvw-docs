@@ -35,7 +35,7 @@ Lowers the target’s Attack and Defense by one stage.
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |

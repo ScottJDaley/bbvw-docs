@@ -19,7 +19,6 @@ Has a $effect_chance% chance to make the target flinch.
 | ![archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
 | ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) |
 | ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
@@ -68,7 +67,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |
@@ -100,7 +99,9 @@ Has a $effect_chance% chance to make the target flinch.
 | ![stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
 | ![swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |

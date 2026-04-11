@@ -18,7 +18,6 @@ Inflicts regular damage with no additional effect.
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |

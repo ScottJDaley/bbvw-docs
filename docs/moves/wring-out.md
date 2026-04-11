@@ -16,7 +16,9 @@ Power increases against targets with more HP remaining, up to a maximum of 121 p
 | ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) |
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |

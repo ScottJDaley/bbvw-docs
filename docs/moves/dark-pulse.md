@@ -36,10 +36,12 @@ Has a $effect_chance% chance to make the target flinch.
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
 | ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
@@ -53,6 +55,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
@@ -76,7 +79,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |
 | ![persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
 | ![rotom](../img/pokemon/479.png) | [Rotom](../pokemon/rotom.md) |
@@ -96,6 +99,8 @@ Has a $effect_chance% chance to make the target flinch.
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |

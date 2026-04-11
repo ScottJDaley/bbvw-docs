@@ -45,6 +45,7 @@ Reduces damage from special attacks by 50% for five turns.
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
@@ -80,7 +81,7 @@ Reduces damage from special attacks by 50% for five turns.
 | ![grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) |
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
@@ -119,15 +120,16 @@ Reduces damage from special attacks by 50% for five turns.
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |

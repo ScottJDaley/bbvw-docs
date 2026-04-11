@@ -12,6 +12,7 @@ Raises Attack one stage upon taking damage from a dark move.
 | ![cobalion](../img/pokemon/638.png) | [Cobalion](../pokemon/cobalion.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |

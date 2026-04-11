@@ -30,6 +30,7 @@ User recovers the item it last used up.
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
 | ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
@@ -63,18 +64,19 @@ User recovers the item it last used up.
 | ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |

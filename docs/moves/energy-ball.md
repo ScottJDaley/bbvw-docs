@@ -43,6 +43,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
 | ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
@@ -53,12 +54,14 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) |
 | ![ferrothorn](../img/pokemon/598.png) | [Ferrothorn](../pokemon/ferrothorn.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
 | ![gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) |
@@ -69,6 +72,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
@@ -91,12 +95,13 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
@@ -117,6 +122,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
@@ -148,4 +154,5 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

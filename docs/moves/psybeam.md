@@ -39,16 +39,17 @@ Has a $effect_chance% chance to confuse the target.
 | ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) |
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![paras](../img/pokemon/046.png) | [Paras](../pokemon/paras.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
@@ -60,3 +61,4 @@ Has a $effect_chance% chance to confuse the target.
 | ![surskit](../img/pokemon/283.png) | [Surskit](../pokemon/surskit.md) |
 | ![venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) |
 | ![venonat](../img/pokemon/048.png) | [Venonat](../pokemon/venonat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

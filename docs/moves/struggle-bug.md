@@ -71,4 +71,5 @@ Has a $effect_chance% chance to lower the target’s Special Attack by one stage
 | ![volbeat](../img/pokemon/313.png) | [Volbeat](../pokemon/volbeat.md) |
 | ![volcarona](../img/pokemon/637.png) | [Volcarona](../pokemon/volcarona.md) |
 | ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

@@ -1,4 +1,4 @@
-# Porygon-z
+# Porygon-Z
 
 ![porygon-z](../img/pokemon/474.png)
 
@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |  | Stage |  | Stage |
 |:---: | :---: | :---: | :---: | :---: |
-|![porygon](../img/pokemon/137.png)<br>**[Porygon]( porygon.md)** | ➡️<br>Trade hold up-grade | ![porygon2](../img/pokemon/233.png)<br>**[Porygon2]( porygon2.md)** | ➡️<br>Trade hold dubious-disc | ![porygon-z](../img/pokemon/474.png)<br>**[Porygon-z]( porygon-z.md)** |
+|![porygon](../img/pokemon/137.png)<br>**[Porygon]( porygon.md)** | ➡️<br>Trade hold up-grade | ![porygon2](../img/pokemon/233.png)<br>**[Porygon2]( porygon2.md)** | ➡️<br>Trade hold dubious-disc | ![porygon-z](../img/pokemon/474.png)<br>**[Porygon-Z]( porygon-z.md)** |
 
 ## Abilities
 | Slot | Original | New |

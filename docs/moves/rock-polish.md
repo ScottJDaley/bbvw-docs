@@ -58,6 +58,7 @@ Raises the user’s Speed by two stages.
 | ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
 | ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |

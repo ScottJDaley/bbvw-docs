@@ -40,10 +40,12 @@ Lowers the PP of the target’s last used move by 4.
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
 | ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
@@ -51,6 +53,7 @@ Lowers the PP of the target’s last used move by 4.
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |

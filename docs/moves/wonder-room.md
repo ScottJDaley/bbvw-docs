@@ -27,6 +27,7 @@ All Pokémon’s Defense and Special Defense are swapped for 5 turns.
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
 | ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
@@ -42,17 +43,18 @@ All Pokémon’s Defense and Special Defense are swapped for 5 turns.
 | ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
 | ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |

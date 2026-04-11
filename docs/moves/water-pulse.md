@@ -23,12 +23,14 @@ Has a $effect_chance% chance to confuse the target.
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
 | ![ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
 | ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |

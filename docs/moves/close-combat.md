@@ -27,12 +27,14 @@ Lowers the user’s Defense and Special Defense by one stage after inflicting da
 | ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
 | ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) |
 | ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |

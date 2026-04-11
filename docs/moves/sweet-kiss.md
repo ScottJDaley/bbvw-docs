@@ -26,6 +26,7 @@ Confuses the target.
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |

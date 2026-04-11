@@ -61,7 +61,7 @@ User is immune to Ground moves and effects for five turns.
 | ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
 | ![raichu](../img/pokemon/026.png) | [Raichu](../pokemon/raichu.md) |

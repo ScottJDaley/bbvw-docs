@@ -40,9 +40,9 @@ Allows the trainer to switch out the user and pass effects along to its replacem
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![ninjask](../img/pokemon/291.png) | [Ninjask](../pokemon/ninjask.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |

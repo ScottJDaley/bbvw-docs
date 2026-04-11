@@ -17,8 +17,8 @@ Scatters poisoned spikes, poisoning opposing Pokémon that switch in.
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |

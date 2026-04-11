@@ -34,6 +34,7 @@ Lowers the target’s Defense by one stage.
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
@@ -72,6 +73,7 @@ Lowers the target’s Defense by one stage.
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
@@ -93,7 +95,7 @@ Lowers the target’s Defense by one stage.
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![omastar](../img/pokemon/139.png) | [Omastar](../pokemon/omastar.md) |

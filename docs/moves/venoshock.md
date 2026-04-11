@@ -51,8 +51,8 @@ Inflicts double damage if the target is Poisoned.
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
@@ -88,4 +88,5 @@ Inflicts double damage if the target is Poisoned.
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
 | ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![zubat](../img/pokemon/041.png) | [Zubat](../pokemon/zubat.md) |

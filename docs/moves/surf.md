@@ -20,7 +20,6 @@ Inflicts regular damage and can hit Dive users.
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
@@ -49,6 +48,7 @@ Inflicts regular damage and can hit Dive users.
 | ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
@@ -62,9 +62,11 @@ Inflicts regular damage and can hit Dive users.
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |

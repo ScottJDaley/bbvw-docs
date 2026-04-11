@@ -44,3 +44,4 @@ Has an increased chance for a critical hit.
 | ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |
 | ![victreebel](../img/pokemon/071.png) | [Victreebel](../pokemon/victreebel.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

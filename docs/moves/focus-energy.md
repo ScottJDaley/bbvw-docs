@@ -47,8 +47,8 @@ Increases the user’s chance to score a critical hit.
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |

@@ -14,13 +14,13 @@ If the user is hit after using this move, its Attack rises by one stage.
 | --- | --- |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
 | ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
 | ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |

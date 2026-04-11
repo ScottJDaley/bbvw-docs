@@ -19,7 +19,7 @@ Raises the user’s Defense by one stage.  User charges for one turn before atta
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) |
 | ![rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |

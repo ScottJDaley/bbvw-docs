@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![teddiursa](../img/pokemon/216.png)<br>**[Teddiursa]( teddiursa.md)** | ➡️<br>Lv. 30 | ![ursaring](../img/pokemon/217.png)<br>**[Ursaring]( ursaring.md)** | ➡️<br>Use peat-block | **[Ursaluna]( ursaluna.md)** |
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![teddiursa](../img/pokemon/216.png)<br>**[Teddiursa]( teddiursa.md)** | ➡️<br>Lv. 30 | ![ursaring](../img/pokemon/217.png)<br>**[Ursaring]( ursaring.md)** |
 
 ## Abilities
 | Slot | Original | New |

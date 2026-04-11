@@ -38,6 +38,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
@@ -103,6 +104,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
@@ -111,7 +113,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
@@ -150,6 +152,7 @@ Has a $effect_chance% chance to paralyze the target.
 | ![swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |

@@ -22,8 +22,8 @@ Hits once for every conscious Pokémon the trainer has.
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |

@@ -48,7 +48,7 @@
 ### Youngster Parker
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [Darmanitan](../pokemon/darmanitan.md) | 44 | - | - |  |
+| ![Darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 44 | - | - |  |
 | ![Accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) | 44 | - | - |  |
 | ![Breloom](../img/pokemon/286.png) | [Breloom](../pokemon/breloom.md) | 44 | - | - |  |
 

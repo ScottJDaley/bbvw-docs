@@ -71,7 +71,9 @@ User foregoes its next turn to recharge.
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
@@ -116,6 +118,7 @@ User foregoes its next turn to recharge.
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
@@ -134,19 +137,21 @@ User foregoes its next turn to recharge.
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
@@ -156,6 +161,7 @@ User foregoes its next turn to recharge.
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |
 | ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
@@ -192,6 +198,7 @@ User foregoes its next turn to recharge.
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
@@ -204,7 +211,7 @@ User foregoes its next turn to recharge.
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
@@ -225,7 +232,7 @@ User foregoes its next turn to recharge.
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) |
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
@@ -263,6 +270,7 @@ User foregoes its next turn to recharge.
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
@@ -292,9 +300,11 @@ User foregoes its next turn to recharge.
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
@@ -324,6 +334,7 @@ User foregoes its next turn to recharge.
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |
 | ![zapdos](../img/pokemon/145.png) | [Zapdos](../pokemon/zapdos.md) |

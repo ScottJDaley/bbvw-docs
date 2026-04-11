@@ -9,7 +9,6 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![meowth](../img/pokemon/052.png)<br>**[Meowth]( meowth.md)** | ➡️<br>Lv. 28 | ![persian](../img/pokemon/053.png)<br>**[Persian]( persian.md)** |
-|![meowth](../img/pokemon/052.png)<br>**[Meowth]( meowth.md)** | ➡️<br>Lv. 28 | **[Perrserker]( perrserker.md)** |
 
 ## Abilities
 | Slot | Original | New |

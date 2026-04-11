@@ -42,6 +42,7 @@ Raises the user’s Attack and Special Attack by one stage.
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |
@@ -56,3 +57,4 @@ Raises the user’s Attack and Special Attack by one stage.
 | ![venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) |
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |

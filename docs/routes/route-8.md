@@ -12,7 +12,7 @@
 ### Parasol Lady Melita
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [Jellicent](../pokemon/jellicent.md) | 58 | - | - |  |
+| ![Jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 58 | - | - |  |
 | ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 58 | - | - |  |
 
 ### Fisherman Bruce

@@ -40,11 +40,11 @@ Lowers the target’s Attack by two stages.
 | ![manaphy](../img/pokemon/490.png) | [Manaphy](../pokemon/manaphy.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![oddish](../img/pokemon/043.png) | [Oddish](../pokemon/oddish.md) |
 | ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) |
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |

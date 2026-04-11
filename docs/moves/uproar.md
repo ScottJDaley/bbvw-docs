@@ -23,7 +23,6 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) |
 | ![bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) |
@@ -42,6 +41,7 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
@@ -105,10 +105,11 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
@@ -135,7 +136,7 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
@@ -168,7 +169,9 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |
@@ -185,6 +188,7 @@ Forced to use this move for several turns.  Pokémon cannot fall asleep in that 
 | ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |
 | ![zoroark](../img/pokemon/571.png) | [Zoroark](../pokemon/zoroark.md) |

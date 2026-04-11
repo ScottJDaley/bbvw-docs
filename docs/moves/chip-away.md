@@ -13,7 +13,6 @@ Ignores the target’s stat modifiers.
 | Sprite | Pokemon |
 | --- | --- |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) |
 | ![corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
@@ -32,8 +31,8 @@ Ignores the target’s stat modifiers.
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) |
 | ![rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) |
 | ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) |

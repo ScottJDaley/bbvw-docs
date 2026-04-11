@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png) ![psychic](../img/types/psychic.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![girafarig](../img/pokemon/203.png)<br>**[Girafarig]( girafarig.md)** | ➡️<br>Know twin-beam | **[Farigiraf]( farigiraf.md)** |
+|Stage |
+|:---: |
+|![girafarig](../img/pokemon/203.png)<br>**[Girafarig]( girafarig.md)** |
 
 ## Abilities
 | Slot | Original | New |

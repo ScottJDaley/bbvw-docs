@@ -18,6 +18,7 @@ Never misses.
 | ![espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
 | ![magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |

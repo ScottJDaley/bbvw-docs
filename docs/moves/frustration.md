@@ -45,7 +45,6 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![banette](../img/pokemon/354.png) | [Banette](../pokemon/banette.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
@@ -121,11 +120,13 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
 | ![delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) |
 | ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
@@ -186,6 +187,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
 | ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
@@ -202,6 +204,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
@@ -242,7 +245,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
 | ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
@@ -256,6 +259,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
@@ -268,6 +272,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
@@ -283,6 +288,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
 | ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
@@ -341,6 +347,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
@@ -352,7 +359,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
 | ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) |
 | ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
@@ -360,7 +367,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
@@ -370,8 +377,8 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
@@ -421,7 +428,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) |
@@ -484,6 +491,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shelgon](../img/pokemon/372.png) | [Shelgon](../pokemon/shelgon.md) |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) |
@@ -559,6 +567,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
@@ -566,6 +575,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
 | ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
@@ -619,6 +629,7 @@ Power increases as happiness decreases, up to a maximum of 102.
 | ![wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
 | ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |

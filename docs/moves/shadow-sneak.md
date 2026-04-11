@@ -17,6 +17,7 @@ Inflicts regular damage with no additional effect.
 | ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
 | ![dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) |
 | ![duskull](../img/pokemon/355.png) | [Duskull](../pokemon/duskull.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |

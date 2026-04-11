@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |  | Stage |
 |:---: | :---: | :---: |
-|![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Female | **[Wormadam]( wormadam.md)** |
+|![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Female | ![wormadam](../img/pokemon/413.png)<br>**[Wormadam]( wormadam.md)** |
 |![burmy](../img/pokemon/412.png)<br>**[Burmy]( burmy.md)** | ➡️<br>Lv. 20, Male | ![mothim](../img/pokemon/414.png)<br>**[Mothim]( mothim.md)** |
 
 ## Abilities

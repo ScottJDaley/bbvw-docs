@@ -28,6 +28,7 @@ Ends wild battles.  Forces trainers to switch Pokémon.
 | ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
 | ![haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) |

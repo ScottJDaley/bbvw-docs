@@ -11,8 +11,8 @@ Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) |

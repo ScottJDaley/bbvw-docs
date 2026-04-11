@@ -62,6 +62,7 @@ Lowers the target’s accuracy by one stage.
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
@@ -90,6 +91,7 @@ Lowers the target’s accuracy by one stage.
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
@@ -110,12 +112,13 @@ Lowers the target’s accuracy by one stage.
 | ![grovyle](../img/pokemon/253.png) | [Grovyle](../pokemon/grovyle.md) |
 | ![grumpig](../img/pokemon/326.png) | [Grumpig](../pokemon/grumpig.md) |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jigglypuff](../img/pokemon/039.png) | [Jigglypuff](../pokemon/jigglypuff.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) |
@@ -156,18 +159,19 @@ Lowers the target’s accuracy by one stage.
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munna](../img/pokemon/517.png) | [Munna](../pokemon/munna.md) |
 | ![musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
@@ -185,7 +189,7 @@ Lowers the target’s accuracy by one stage.
 | ![pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
 | ![purugly](../img/pokemon/432.png) | [Purugly](../pokemon/purugly.md) |
@@ -204,6 +208,7 @@ Lowers the target’s accuracy by one stage.
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shinx](../img/pokemon/403.png) | [Shinx](../pokemon/shinx.md) |
@@ -266,6 +271,7 @@ Lowers the target’s accuracy by one stage.
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
 | ![wooper](../img/pokemon/194.png) | [Wooper](../pokemon/wooper.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |

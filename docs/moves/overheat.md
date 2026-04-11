@@ -23,6 +23,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
@@ -33,7 +34,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |

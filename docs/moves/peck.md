@@ -31,7 +31,7 @@ Inflicts regular damage with no additional effect.
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |

@@ -116,7 +116,7 @@
 ### Swimmer Caroline
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-|  | [Jellicent](../pokemon/jellicent.md) | 52 | - | - |  |
+| ![Jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 52 | - | - |  |
 | ![Dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 52 | - | - |  |
 | ![Lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) | 52 | - | - |  |
 

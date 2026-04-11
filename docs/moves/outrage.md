@@ -40,6 +40,7 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) |
 | ![growlithe](../img/pokemon/058.png) | [Growlithe](../pokemon/growlithe.md) |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
@@ -50,6 +51,7 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![kyurem](../img/pokemon/646.png) | [Kyurem](../pokemon/kyurem.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |

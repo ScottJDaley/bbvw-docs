@@ -25,7 +25,6 @@ For the next few turns, the target can only use damaging moves.
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![banette](../img/pokemon/354.png) | [Banette](../pokemon/banette.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
@@ -46,8 +45,10 @@ For the next few turns, the target can only use damaging moves.
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) |
@@ -63,6 +64,7 @@ For the next few turns, the target can only use damaging moves.
 | ![exploud](../img/pokemon/295.png) | [Exploud](../pokemon/exploud.md) |
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
@@ -91,8 +93,10 @@ For the next few turns, the target can only use damaging moves.
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) |
 | ![kadabra](../img/pokemon/064.png) | [Kadabra](../pokemon/kadabra.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
@@ -113,11 +117,11 @@ For the next few turns, the target can only use damaging moves.
 | ![mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) |
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
@@ -174,7 +178,9 @@ For the next few turns, the target can only use damaging moves.
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |

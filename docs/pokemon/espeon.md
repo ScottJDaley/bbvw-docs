@@ -15,7 +15,6 @@
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Happiness | ![umbreon](../img/pokemon/197.png)<br>**[Umbreon]( umbreon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At eterna-forest | ![leafeon](../img/pokemon/470.png)<br>**[Leafeon]( leafeon.md)** |
 |![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>At sinnoh-route-217 | ![glaceon](../img/pokemon/471.png)<br>**[Glaceon]( glaceon.md)** |
-|![eevee](../img/pokemon/133.png)<br>**[Eevee]( eevee.md)** | ➡️<br>Level Up | **[Sylveon]( sylveon.md)** |
 
 ## Abilities
 | Slot | Original | New |

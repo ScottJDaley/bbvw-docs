@@ -23,7 +23,6 @@ Inflicts regular damage with no additional effect.
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
@@ -49,6 +48,7 @@ Inflicts regular damage with no additional effect.
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) |
 | ![furret](../img/pokemon/162.png) | [Furret](../pokemon/furret.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
@@ -62,6 +62,7 @@ Inflicts regular damage with no additional effect.
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |

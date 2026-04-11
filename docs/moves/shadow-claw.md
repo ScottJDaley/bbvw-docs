@@ -53,6 +53,7 @@ Has an increased chance for a critical hit.
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
@@ -73,13 +74,14 @@ Has an increased chance for a critical hit.
 | ![liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) |
 | ![linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) |
 | ![lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |

@@ -25,7 +25,6 @@ Inflicts regular damage with no additional effect.
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![beedrill](../img/pokemon/015.png) | [Beedrill](../pokemon/beedrill.md) |
@@ -59,6 +58,7 @@ Inflicts regular damage with no additional effect.
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
 | ![darkrai](../img/pokemon/491.png) | [Darkrai](../pokemon/darkrai.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
@@ -88,6 +88,7 @@ Inflicts regular damage with no additional effect.
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
@@ -105,6 +106,7 @@ Inflicts regular damage with no additional effect.
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
@@ -130,8 +132,8 @@ Inflicts regular damage with no additional effect.
 | ![monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |

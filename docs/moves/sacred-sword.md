@@ -14,6 +14,7 @@ Ignores the target’s stat modifiers.
 | --- | --- |
 | ![cobalion](../img/pokemon/638.png) | [Cobalion](../pokemon/cobalion.md) |
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![virizion](../img/pokemon/640.png) | [Virizion](../pokemon/virizion.md) |

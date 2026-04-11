@@ -14,7 +14,6 @@ Inflicts damage equal to the user’s remaining HP.  User faints.
 | --- | --- |
 | ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |

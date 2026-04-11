@@ -19,7 +19,6 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![axew](../img/pokemon/610.png) | [Axew](../pokemon/axew.md) |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) |
@@ -36,6 +35,7 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) |
 | ![croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) |
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
@@ -66,10 +66,12 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) |
@@ -117,7 +119,9 @@ Lowers the user’s Attack and Defense by one stage after inflicting damage.
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
 | ![terrakion](../img/pokemon/639.png) | [Terrakion](../pokemon/terrakion.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![timburr](../img/pokemon/532.png) | [Timburr](../pokemon/timburr.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |

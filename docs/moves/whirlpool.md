@@ -14,7 +14,6 @@ Prevents the target from leaving battle and inflicts 1/16 its max HP in damage f
 | --- | --- |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) |
 | ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) |

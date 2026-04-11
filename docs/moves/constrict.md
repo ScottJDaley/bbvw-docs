@@ -16,6 +16,7 @@ Has a $effect_chance% chance to lower the target’s Speed by one stage.
 | ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |

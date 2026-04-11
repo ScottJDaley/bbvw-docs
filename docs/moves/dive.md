@@ -16,7 +16,6 @@ User dives underwater, dodging all attacks, and hits next turn.
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
@@ -37,6 +36,7 @@ User dives underwater, dodging all attacks, and hits next turn.
 | ![feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
@@ -44,6 +44,7 @@ User dives underwater, dodging all attacks, and hits next turn.
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |

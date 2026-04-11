@@ -6,9 +6,9 @@
 ![water](../img/types/water.png) ![poison](../img/types/poison.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![qwilfish](../img/pokemon/211.png)<br>**[Qwilfish]( qwilfish.md)** | ➡️<br> | **[Overqwil]( overqwil.md)** |
+|Stage |
+|:---: |
+|![qwilfish](../img/pokemon/211.png)<br>**[Qwilfish]( qwilfish.md)** |
 
 ## Abilities
 | Slot | Original | New |

@@ -22,7 +22,7 @@
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 10% |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 10% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 10% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-normal.png) Grass, Special

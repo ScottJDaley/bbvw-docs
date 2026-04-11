@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![dunsparce](../img/pokemon/206.png)<br>**[Dunsparce]( dunsparce.md)** | ➡️<br>Know hyper-drill | **[Dudunsparce]( dudunsparce.md)** |
+|Stage |
+|:---: |
+|![dunsparce](../img/pokemon/206.png)<br>**[Dunsparce]( dunsparce.md)** |
 
 ## Abilities
 | Slot | Original | New |

@@ -20,7 +20,7 @@ User swaps Attack and Special Attack changes with the target.
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |

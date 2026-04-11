@@ -17,14 +17,14 @@
 ### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| | Frillish | 60% |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 60% |
 | ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 30% |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
 
 ### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| | Jellicent | 60% |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 60% |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 30% |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) | 5% |
 | ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) | 5% |
@@ -40,7 +40,7 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![clamperl](../img/pokemon/366.png) | [Clamperl](../pokemon/clamperl.md) | 60% |
-| | Frillish | 30% |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 30% |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
 
 
@@ -144,7 +144,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ![Kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) | 26 | - | - |  |
 | ![Finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 26 | - | - |  |
-|  | [Frillish](../pokemon/frillish.md) | 26 | - | - |  |
+| ![Frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 26 | - | - |  |
 | ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 26 | - | - |  |
 | ![Feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 26 | - | - |  |
 

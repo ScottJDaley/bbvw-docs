@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |  | Stage |
 |:---: | :---: | :---: |
-|![darumaka](../img/pokemon/554.png)<br>**[Darumaka]( darumaka.md)** | ➡️<br>Lv. 35 | **[Darmanitan]( darmanitan.md)** |
+|![darumaka](../img/pokemon/554.png)<br>**[Darumaka]( darumaka.md)** | ➡️<br>Lv. 35 | ![darmanitan](../img/pokemon/555.png)<br>**[Darmanitan]( darmanitan.md)** |
 
 ## Abilities
 | Slot | Original | New |

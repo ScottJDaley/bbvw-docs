@@ -25,6 +25,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![cobalion](../img/pokemon/638.png) | [Cobalion](../pokemon/cobalion.md) |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
@@ -72,6 +73,7 @@ Has a $effect_chance% chance to lower the target’s Special Defense by one stag
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) |
 | ![staryu](../img/pokemon/120.png) | [Staryu](../pokemon/staryu.md) |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) |
 | ![vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) |
 | ![vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) |

@@ -14,7 +14,6 @@ Inflicts double damage if the user takes damage before attacking this turn.
 | --- | --- |
 | ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) |
 | ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
 | ![cacturne](../img/pokemon/332.png) | [Cacturne](../pokemon/cacturne.md) |
@@ -44,6 +43,8 @@ Inflicts double damage if the user takes damage before attacking this turn.
 | ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![weavile](../img/pokemon/461.png) | [Weavile](../pokemon/weavile.md) |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) |

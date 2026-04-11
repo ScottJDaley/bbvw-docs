@@ -58,9 +58,11 @@ Requires a turn to charge before attacking.
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![delcatty](../img/pokemon/301.png) | [Delcatty](../pokemon/delcatty.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) |
@@ -88,7 +90,7 @@ Requires a turn to charge before attacking.
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
 | ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
@@ -127,10 +129,10 @@ Requires a turn to charge before attacking.
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
@@ -147,7 +149,7 @@ Requires a turn to charge before attacking.
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |
 | ![rayquaza](../img/pokemon/384.png) | [Rayquaza](../pokemon/rayquaza.md) |
@@ -162,6 +164,7 @@ Requires a turn to charge before attacking.
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
@@ -217,6 +220,7 @@ Requires a turn to charge before attacking.
 | ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) |
 | ![whismur](../img/pokemon/293.png) | [Whismur](../pokemon/whismur.md) |
 | ![wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

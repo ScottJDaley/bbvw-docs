@@ -47,6 +47,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |

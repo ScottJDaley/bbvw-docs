@@ -6,9 +6,9 @@
 ![dark](../img/types/dark.png) ![steel](../img/types/steel.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![pawniard](../img/pokemon/624.png)<br>**[Pawniard]( pawniard.md)** | ➡️<br>Lv. 52 | ![bisharp](../img/pokemon/625.png)<br>**[Bisharp]( bisharp.md)** | ➡️<br> | **[Kingambit]( kingambit.md)** |
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![pawniard](../img/pokemon/624.png)<br>**[Pawniard]( pawniard.md)** | ➡️<br>Lv. 52 | ![bisharp](../img/pokemon/625.png)<br>**[Bisharp]( bisharp.md)** |
 
 ## Abilities
 | Slot | Original | New |

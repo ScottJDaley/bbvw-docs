@@ -15,7 +15,6 @@ Changes the target’s type to Water.
 | ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |

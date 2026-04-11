@@ -15,3 +15,5 @@ Raises Attack two stages upon having any stat lowered.
 | ![piplup](../img/pokemon/393.png) | [Piplup](../pokemon/piplup.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![purugly](../img/pokemon/432.png) | [Purugly](../pokemon/purugly.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |

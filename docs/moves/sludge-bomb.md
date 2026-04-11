@@ -41,6 +41,7 @@ Has a $effect_chance% chance to poison the target.
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
 | ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
@@ -56,9 +57,11 @@ Has a $effect_chance% chance to poison the target.
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
@@ -67,8 +70,8 @@ Has a $effect_chance% chance to poison the target.
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) |
@@ -102,7 +105,9 @@ Has a $effect_chance% chance to poison the target.
 | ![tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) |
 | ![tympole](../img/pokemon/535.png) | [Tympole](../pokemon/tympole.md) |

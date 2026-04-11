@@ -28,7 +28,7 @@ Has an increased chance for a critical hit.
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
 | ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) |

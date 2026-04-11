@@ -19,6 +19,7 @@ Has a $effect_chance% chance to burn the target and a $effect_chance% chance to 
 | ![charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) |
 | ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
 | ![charmeleon](../img/pokemon/005.png) | [Charmeleon](../pokemon/charmeleon.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |

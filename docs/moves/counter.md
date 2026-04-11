@@ -43,8 +43,8 @@ Inflicts twice the damage the user received from the last physical hit it took.
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![paras](../img/pokemon/046.png) | [Paras](../pokemon/paras.md) |
 | ![phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) |
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |

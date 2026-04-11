@@ -38,6 +38,7 @@ Inflicts regular damage with no additional effect.
 | ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) |
 | ![haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) |

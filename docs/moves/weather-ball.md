@@ -17,7 +17,7 @@ If there be weather, this move has doubled power and the weather’s type.
 | ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) |
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) |
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![raikou](../img/pokemon/243.png) | [Raikou](../pokemon/raikou.md) |
 | ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |

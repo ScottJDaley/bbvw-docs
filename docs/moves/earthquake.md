@@ -45,6 +45,7 @@ Inflicts regular damage and can hit Dig users.
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
@@ -74,6 +75,7 @@ Inflicts regular damage and can hit Dig users.
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
@@ -93,7 +95,7 @@ Inflicts regular damage and can hit Dig users.
 | ![hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) |
 | ![hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) |
 | ![hitmontop](../img/pokemon/237.png) | [Hitmontop](../pokemon/hitmontop.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) |
@@ -102,6 +104,7 @@ Inflicts regular damage and can hit Dig users.
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![latias](../img/pokemon/380.png) | [Latias](../pokemon/latias.md) |
 | ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |

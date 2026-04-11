@@ -14,10 +14,11 @@ Power increases against targets with more raised stats, up to a maximum of 200.
 | --- | --- |
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) |
 | ![arceus](../img/pokemon/493.png) | [Arceus](../pokemon/arceus.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
 | ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |

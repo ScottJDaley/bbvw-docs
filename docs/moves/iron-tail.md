@@ -92,6 +92,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
@@ -118,6 +119,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
@@ -153,8 +155,8 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
@@ -174,7 +176,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) |
@@ -232,8 +234,10 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) |
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
 | ![torkoal](../img/pokemon/324.png) | [Torkoal](../pokemon/torkoal.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![treecko](../img/pokemon/252.png) | [Treecko](../pokemon/treecko.md) |

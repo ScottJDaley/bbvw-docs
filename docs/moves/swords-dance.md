@@ -80,9 +80,11 @@ Raises the user’s Attack by two stages.
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) |
 | ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |
@@ -131,6 +133,7 @@ Raises the user’s Attack by two stages.
 | ![seedot](../img/pokemon/273.png) | [Seedot](../pokemon/seedot.md) |
 | ![serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) |
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |

@@ -45,6 +45,7 @@ Causes damage when opposing Pokémon switch in.
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) |
@@ -83,6 +84,7 @@ Causes damage when opposing Pokémon switch in.
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) |
 | ![krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) |
 | ![lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |

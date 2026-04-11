@@ -18,6 +18,7 @@ User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to 
 | ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) |
 | ![combusken](../img/pokemon/256.png) | [Combusken](../pokemon/combusken.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) |
 | ![entei](../img/pokemon/244.png) | [Entei](../pokemon/entei.md) |

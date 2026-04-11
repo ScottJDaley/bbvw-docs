@@ -42,7 +42,7 @@ For three turns, friendly Pokémon have doubled Speed.
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) |
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![honchkrow](../img/pokemon/430.png) | [Honchkrow](../pokemon/honchkrow.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
@@ -88,6 +88,7 @@ For three turns, friendly Pokémon have doubled Speed.
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |

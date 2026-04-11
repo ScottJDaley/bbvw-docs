@@ -33,10 +33,10 @@ Forces the target to repeat its last used move every turn for 2 to 6 turns.
 | ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) |
 | ![machop](../img/pokemon/066.png) | [Machop](../pokemon/machop.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |

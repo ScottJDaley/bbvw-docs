@@ -18,7 +18,7 @@ Averages Attack and Special Attack with the target.
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) |
 | ![latios](../img/pokemon/381.png) | [Latios](../pokemon/latios.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![shuckle](../img/pokemon/213.png) | [Shuckle](../pokemon/shuckle.md) |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) |

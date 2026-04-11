@@ -21,6 +21,7 @@ Causes a one-hit KO.
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
 | ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
 | ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![phanpy](../img/pokemon/231.png) | [Phanpy](../pokemon/phanpy.md) |
 | ![shellos](../img/pokemon/422.png) | [Shellos](../pokemon/shellos.md) |

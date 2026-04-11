@@ -45,6 +45,7 @@ User faints.
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
 | ![koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |

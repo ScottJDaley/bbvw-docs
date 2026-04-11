@@ -40,12 +40,13 @@ Inflicts regular damage with no additional effect.
 | ![gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) |
 | ![gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) |
 | ![glameow](../img/pokemon/431.png) | [Glameow](../pokemon/glameow.md) |
 | ![granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
 | ![herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) |
 | ![houndour](../img/pokemon/228.png) | [Houndour](../pokemon/houndour.md) |
@@ -69,6 +70,7 @@ Inflicts regular damage with no additional effect.
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![maractus](../img/pokemon/556.png) | [Maractus](../pokemon/maractus.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |

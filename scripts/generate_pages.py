@@ -57,13 +57,34 @@ def normalize_name(name):
     if 'nidoran' in name: return 'nidoran-m' if 'm' in name or '♂' in name else 'nidoran-f'
     if 'mime jr' in name: return 'mime-jr'
     if 'mr mime' in name: return 'mr-mime'
-    bases = ['basculin', 'frillish', 'jellicent', 'keldeo', 'meloetta', 'darmanitan', 'tornadus', 'thundurus', 'landorus', 'giratina', 'shaymin', 'deoxys', 'wormadam', 'rotom', 'castform']
+    bases = ['basculin', 'frillish', 'jellicent', 'keldeo', 'meloetta', 'darmanitan', 'tornadus', 'thundurus', 'landorus', 'giratina', 'shaymin', 'deoxys', 'wormadam', 'rotom', 'castform', 'deerling', 'sawsbuck', 'meloetta', 'genesect', 'landorus', 'thundurus', 'tornadus']
     for b in bases:
         if name.startswith(b): return b
-    for suffix in ['-male', '-female', '-standard', '-ordinary', '-aria', '-incarnate', '-red-striped', '-plant', '-west', '-spring', '-summer', '-autumn', '-winter', '-land', '-altered']:
-        if name.endswith(suffix): name = name.replace(suffix, '')
     res = name.replace(' ', '-').replace('.', '').replace("'", "").replace('’', '').replace('♂', '-m').replace('♀', '-f').replace('/', '-').replace('–', '-').replace('--', '-').strip('-')
     return FIX_MOVES.get(res, res)
+
+def get_display_name(name):
+    if name.lower().startswith('mime-jr'): return "Mime Jr."
+    if name.lower().startswith('mr-mime'): return "Mr. Mime"
+    if name.lower().startswith('ho-oh'): return "Ho-Oh"
+    if name.lower().startswith('porygon-z'): return "Porygon-Z"
+    if name.lower().startswith('porygon2'): return "Porygon2"
+    if name.lower().startswith('nidoran-m'): return "Nidoran♂"
+    if name.lower().startswith('nidoran-f'): return "Nidoran♀"
+    
+    # Generic form removal for display
+    res = name.split('-')[0].capitalize()
+    # Special cases for names with dashes that aren't forms
+    if name.lower().startswith('deoxys'): return "Deoxys"
+    if name.lower().startswith('wormadam'): return "Wormadam"
+    if name.lower().startswith('giratina'): return "Giratina"
+    if name.lower().startswith('shaymin'): return "Shaymin"
+    if name.lower().startswith('basculin'): return "Basculin"
+    if name.lower().startswith('rotom'): return "Rotom"
+    if name.lower().startswith('castform'): return "Castform"
+    if name.lower().startswith('frillish'): return "Frillish"
+    if name.lower().startswith('jellicent'): return "Jellicent"
+    return res
 
 def extract_specific_ability(raw, target_name):
     if not raw: return ""
@@ -74,8 +95,8 @@ def extract_specific_ability(raw, target_name):
     return raw
 
 def load_data():
-    with open(os.path.join(DATA_DIR, "base_data.json"), 'r') as f: base = json.load(f)
-    with open(os.path.join(DATA_DIR, "romhack_data.json"), 'r') as f: rom = json.load(f)
+    with open(os.path.join(DATA_DIR, "base_data.json"), 'r', encoding='utf-8') as f: base = json.load(f)
+    with open(os.path.join(DATA_DIR, "romhack_data.json"), 'r', encoding='utf-8') as f: rom = json.load(f)
     return base, rom
 
 def get_move_display(m_name, move_data, move_stat_changes, base_path="../", show_tm=False):
@@ -103,11 +124,25 @@ def get_move_display(m_name, move_data, move_stat_changes, base_path="../", show
     if show_tm: return f"| {m_info.get('tm_num', '-')} | {link_str} | {t_icon} | {c_icon} | {p} | {a} | {m_info['pp']} |"
     return f"| {link_str} | {t_icon} | {c_icon} | {p} | {a} | {m_info['pp']} |"
 
-def get_full_evolution_chains(p_base):
+def get_full_evolution_chains(p_base, all_pokemon_base):
     chain = p_base['evolution_chain']['chain']
     paths = []
     def traverse(node, current_path):
         name = node['species']['name']
+        # Filter for Gen 5 or below (ID <= 649)
+        p_id = 999
+        p_info = all_pokemon_base.get(normalize_name(name))
+        if p_info: p_id = p_info['id']
+        else:
+            for pk in all_pokemon_base.values():
+                if pk['name'] == name:
+                    p_id = pk['id']
+                    break
+        
+        if p_id > 649:
+            if current_path: paths.append(current_path)
+            return
+
         method = ""
         if node['evolution_details']:
             d = node['evolution_details'][0]; m_parts = []
@@ -128,24 +163,43 @@ def get_full_evolution_chains(p_base):
                 if d['held_item']: m_parts.append(f"Trade hold {d['held_item']['name']}")
                 else: m_parts.append("Trade")
             method = ", ".join(m_parts)
+        
         new_path = current_path + [{'name': name, 'method': method}]
         if not node['evolves_to']: paths.append(new_path)
         else:
-            for next_node in node['evolves_to']: traverse(next_node, new_path)
+            found_valid_child = False
+            for next_node in node['evolves_to']:
+                c_name = next_node['species']['name']
+                c_id = 999
+                c_info = all_pokemon_base.get(normalize_name(c_name))
+                if c_info: c_id = c_info['id']
+                if c_id <= 649:
+                    traverse(next_node, new_path)
+                    found_valid_child = True
+            if not found_valid_child: paths.append(new_path)
+            
     traverse(chain, [])
-    return paths
+    return [p for p in paths if p]
 
 def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, locations):
-    p_n_k = normalize_name(name); p_base = base_data.get(p_n_k)
+    p_n_k = normalize_name(name)
+    p_base = base_data.get(p_n_k)
     if not p_base: return None
-    p_rom = rom_data['pokemon_changes'].get(name.lower(), {}); p_moves_rom = rom_data['move_changes'].get(name.lower(), [])
+    p_rom = rom_data['pokemon_changes'].get(name.lower(), {})
+    if not p_rom: # try looking up by normalized name in rom changes
+        p_rom = rom_data['pokemon_changes'].get(p_n_k, {})
+    p_moves_rom = rom_data['move_changes'].get(name.lower(), [])
+    if not p_moves_rom:
+        p_moves_rom = rom_data['move_changes'].get(p_n_k, [])
     
-    md = f"# {name.capitalize()}\n\n![{p_n_k}](../img/pokemon/{p_base['id']:03}.png)\n\n"
+    display_name = get_display_name(name)
+
+    md = f"# {display_name}\n\n![{p_n_k}](../img/pokemon/{p_base['id']:03}.png)\n\n"
     c_t = p_rom.get('types') or p_base['types']
     md += "## Type\n" + (f"Original: {' '.join([f'![{t}](../img/types/{t}.png)' for t in p_base['types']])}  \nNew: {' '.join([f'![{t}](../img/types/{t}.png)' for t in p_rom['types']])}\n\n" if p_rom.get('types') and p_rom['types'] != p_base['types'] else ' '.join([f'![{t}](../img/types/{t}.png)' for t in p_base['types']]) + "\n\n")
     
     md += "## Evolution\n"
-    ps = get_full_evolution_chains(p_base)
+    ps = get_full_evolution_chains(p_base, base_data)
     if ps:
         mx = max(len(p) for p in ps); md += "|" + " | ".join(["Stage" if i%2==0 else "" for i in range(2*mx-1)]) + " |\n|" + " | ".join([":---:" for _ in range(2*mx-1)]) + " |\n"
         for p in ps:
@@ -154,9 +208,9 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
                 if i < len(p):
                     st = p[i]; s_n = normalize_name(st['name']); info = base_data.get(s_n)
                     if info:
-                        rp.append(f"![{s_n}](../img/pokemon/{info['id']:03}.png)<br>**[{s_n.capitalize()}]( {s_n}.md)**")
+                        rp.append(f"![{s_n}](../img/pokemon/{info['id']:03}.png)<br>**[{get_display_name(st['name'])}]( {s_n}.md)**")
                     else:
-                        rp.append(f"**[{s_n.capitalize()}]( {s_n}.md)**")
+                        rp.append(f"**[{get_display_name(st['name'])}]( {s_n}.md)**")
                     if i < mx - 1:
                         if i + 1 < len(p):
                             nxt = p[i+1]; nxt_n = normalize_name(nxt['name']); rm_m = ""
@@ -228,44 +282,21 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
 
     md += "\n## Level Up Moves\n| Level | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
     blm = [m for m in p_base['moves'] if m['method'] == 'level-up']; am = []
-    
-    # Process explicit ROM changes
-    explicit_removed = set()
-    level_shifts = []
+    explicit_removed = set(); level_shifts = []
     for rm in p_moves_rom:
-        if rm.get('marker') == 'REMOVED':
-            explicit_removed.add(normalize_name(rm['name']))
-        elif rm.get('marker') == 'SHIFT_REMAINING':
-            level_shifts = rm.get('level_shifts', [])
-        else:
-            am.append(rm)
-            
-    # Process base moves
+        if rm.get('marker') == 'REMOVED': explicit_removed.add(normalize_name(rm['name']))
+        elif rm.get('marker') == 'SHIFT_REMAINING': level_shifts = rm.get('level_shifts', [])
+        else: am.append(rm)
     base_idx_for_shift = 0
     for bm in blm:
         bn = normalize_name(bm['name'])
         if bn in explicit_removed:
             am.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'})
             continue
-            
-        # Check if this base move was explicitly overridden by a non-REMOVED RM
-        is_overridden = any(normalize_name(rm['name']) == bn for rm in p_moves_rom if rm.get('marker') != 'REMOVED' and rm.get('marker') != 'SHIFT_REMAINING')
-        if is_overridden:
-            continue
-            
-        # If not overridden, it stays. Check if it needs a level shift.
-        # "Remaining moves" logic: any base move NOT explicitly changed gets its level from the shifts list.
-        if level_shifts and base_idx_for_shift < len(level_shifts):
-            # Only shift moves that are "high level" (usually legendaries shift their signature/late moves)
-            # A simple heuristic: if level > 50 or so, but let's just follow the list order for anything left
-            if bm['level'] >= 60: # Imprison was 64, so moves after it shift
-                new_lv = level_shifts[base_idx_for_shift]
-                am.append({'level': new_lv, 'name': bm['name'], 'marker': '='})
-                base_idx_for_shift += 1
-                continue
-
+        if any(normalize_name(rm['name']) == bn for rm in p_moves_rom if rm.get('marker') != 'REMOVED' and rm.get('marker') != 'SHIFT_REMAINING'): continue
+        if level_shifts and base_idx_for_shift < len(level_shifts) and bm['level'] >= 60:
+            new_lv = level_shifts[base_idx_for_shift]; am.append({'level': new_lv, 'name': bm['name'], 'marker': '='}); base_idx_for_shift += 1; continue
         am.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
-
     am.sort(key=lambda x: (x.get('level', 0), x['name']))
     for m in am:
         mn = m['name']; mnn = normalize_name(mn)
@@ -298,14 +329,14 @@ def generate_move_page(name, info, pkmn_list, m_rom, base_data):
     md = f"# {name.replace('-', ' ').capitalize()}\n\n**Type:** ![{info['type']}](../img/types/{info['type']}.png)  \n**Category:** ![{info['damage_class']}](../img/types/{info['damage_class']}.png)  \n**Power:** {info['power']}  \n**Accuracy:** {info['accuracy']}  \n**PP:** {info['pp']}  \n\n## Description\n{info['description']}\n\n## Learned by\n| Sprite | Pokemon |\n| --- | --- |\n"
     for p in sorted(pkmn_list):
         pn = normalize_name(p); info_p = base_data['pokemon'].get(pn)
-        if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{pn.capitalize()}](../pokemon/{pn}.md) |\n"
+        if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"
     return md
 
 def generate_ability_page(name, info, pkmn_list, base_data):
     md = f"# {name.replace('-', ' ').capitalize()}\n\n## Description\n{info['description']}\n\n## Pokemon with this Ability\n| Sprite | Pokemon |\n| --- | --- |\n"
     for p in sorted(pkmn_list):
         pn = normalize_name(p); info_p = base_data['pokemon'].get(pn)
-        if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{pn.capitalize()}](../pokemon/{pn}.md) |\n"
+        if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"
     return md
 
 def generate_route_page(name, r_d, base_data, t_d):
@@ -325,7 +356,7 @@ def generate_route_page(name, r_d, base_data, t_d):
                 md += f"### ![{m}](../img/items/{icon}) {m}\n| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
                 for ec in ecs:
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
-                    md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
+                    md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{get_display_name(ec['pokemon'])}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
                 md += "\n"
     lt = t_d.get(name)
     if lt:
@@ -349,7 +380,7 @@ def generate_route_page(name, r_d, base_data, t_d):
                 for p in team['pokemon']:
                     pn = normalize_name(p['name']); p_base = base_data['pokemon'].get(pn)
                     sprite = f'![{p["name"]}](../img/pokemon/{p_base["id"]:03}.png)' if p_base else ""
-                    md += f"| {sprite} | [{p['name']}](../pokemon/{pn}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
+                    md += f"| {sprite} | [{get_display_name(p['name'])}](../pokemon/{pn}.md) | {p['level']} | {p['ability']} | {p['item']} | {', '.join(p['moves'])} |\n"
                 md += "\n"
     return md
 
@@ -358,9 +389,29 @@ if __name__ == "__main__":
         if os.path.exists(d): shutil.rmtree(d)
         os.makedirs(d)
     base, rom = load_data(); base['pokemon']['basculin'] = base['pokemon'].get('basculin-red-striped', base['pokemon'].get('basculin'))
+    
+    priority_forms = ['-normal', '-male', '-plant', '-red-striped', '-land', '-altered', '-standard', '-ordinary', '-aria', '-incarnate', '-spring']
+    normalized_pkmn = {}
+    pkmn_sorted = sorted(base['pokemon'].values(), key=lambda x: x['id'])
+    for p in pkmn_sorted:
+        if p['id'] > 649: continue
+        nn = normalize_name(p['name'])
+        if nn not in normalized_pkmn:
+            normalized_pkmn[nn] = p
+        else:
+            current_p = normalized_pkmn[nn]
+            for pf in priority_forms:
+                if p['name'].endswith(pf):
+                    normalized_pkmn[nn] = p
+                    break
+                if current_p['name'].endswith(pf):
+                    break
+    base['pokemon'] = normalized_pkmn
+    pkmn_to_generate = sorted(base['pokemon'].values(), key=lambda x: x['id'])
+    print(f"Generating pages for {len(pkmn_to_generate)} pokemon.")
+
     fab, fmv = {}, {}
-    pkmn = sorted(base['pokemon'].values(), key=lambda x: x['id'])
-    for p in pkmn:
+    for p in pkmn_to_generate:
         pn = p['name']; pr = rom['pokemon_changes'].get(pn, {}); pa = [extract_specific_ability(a, pn) for a in [pr.get('abilities', {}).get('one'), pr.get('abilities', {}).get('two')] if a]
         if not any(pa): pa = p['abilities']
         for ab in pa:
@@ -380,16 +431,18 @@ if __name__ == "__main__":
             for ec in sc['encounters']:
                 pn = normalize_name(ec['pokemon'])
                 (locs[pn].append({'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}]}))
-    for p in pkmn:
+    for p in pkmn_to_generate:
         md = generate_pokemon_page(p['name'], base['pokemon'], rom, base['moves'], base['abilities'], locs)
         if md:
             with open(os.path.join("docs/pokemon", f"{normalize_name(p['name'])}.md"), 'w', encoding='utf-8') as f: f.write(md)
+    
+    gs = [("Kanto", 1, 151), ("Johto", 152, 251), ("Hoenn", 252, 386), ("Sinnoh", 387, 493), ("Unova", 494, 649)]
     with open("docs/pokemon/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Pokemon\n\n"); gs = [("Kanto", 1, 151), ("Johto", 152, 251), ("Hoenn", 252, 386), ("Sinnoh", 387, 493), ("Unova", 494, 649)]
+        f.write("# Pokemon\n\n")
         for gn, s, e in gs:
             f.write(f"## {gn}\n\n| No. | Sprite | Pokemon |\n| --- | --- | --- |\n")
-            for p in pkmn:
-                if s <= p['id'] <= e: pn = normalize_name(p['name']); f.write(f"| {p['id']:03} | ![{pn}](../img/pokemon/{p['id']:03}.png) | [{pn.capitalize()}]({pn}.md) |\n")
+            for p in pkmn_to_generate:
+                if s <= p['id'] <= e: pn = normalize_name(p['name']); f.write(f"| {p['id']:03} | ![{pn}](../img/pokemon/{p['id']:03}.png) | [{get_display_name(p['name'])}]({pn}.md) |\n")
             f.write("\n")
     for mn, mi in sorted(base['moves'].items()):
         mnn = normalize_name(mn); md = generate_move_page(mn, mi, fmv.get(mnn, []), rom['move_stat_changes'].get(mnn, {}), base)
@@ -413,8 +466,8 @@ if __name__ == "__main__":
             inav = True; nl.append('nav:\n  - Home: README.md\n  - Pokemon:\n    - pokemon/index.md\n')
             for gn, s, e in gs:
                 nl.append(f'    - {gn}:\n')
-                for p in pkmn:
-                    if s <= p['id'] <= e: pn = normalize_name(p['name']); nl.append(f"      - {pn.capitalize()}: pokemon/{pn}.md\n")
+                for p in pkmn_to_generate:
+                    if s <= p['id'] <= e: pn = normalize_name(p['name']); nl.append(f"      - {get_display_name(p['name'])}: pokemon/{pn}.md\n")
             nl.append('  - Routes:\n')
             for rn in al: nl.append(f"    - {rn}: routes/{normalize_name(rn)}.md\n")
             nl.append('  - Moves:\n'); [nl.append(f"    - {m.replace('-', ' ').capitalize()}: moves/{normalize_name(m)}.md\n") for m in sorted(base['moves'].keys())]

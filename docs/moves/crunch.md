@@ -19,7 +19,6 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) |
 | ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) |
@@ -63,7 +62,7 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
@@ -101,7 +100,9 @@ Has a $effect_chance% chance to lower the target’s Defense by one stage.
 | ![stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) |
 | ![stunky](../img/pokemon/434.png) | [Stunky](../pokemon/stunky.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![tirtouga](../img/pokemon/564.png) | [Tirtouga](../pokemon/tirtouga.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |

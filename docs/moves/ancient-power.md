@@ -35,9 +35,10 @@ Has a $effect_chance% chance to raise all of the user’s stats by one stage.
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) |
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |

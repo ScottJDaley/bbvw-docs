@@ -10,7 +10,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -20,7 +20,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -34,7 +34,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 5% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 5% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -44,7 +44,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 5% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 5% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |

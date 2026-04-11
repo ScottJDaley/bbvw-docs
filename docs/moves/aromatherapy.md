@@ -30,4 +30,5 @@ Cures the entire party of major status effects.
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![vileplume](../img/pokemon/045.png) | [Vileplume](../pokemon/vileplume.md) |

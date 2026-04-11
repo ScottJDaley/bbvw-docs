@@ -20,6 +20,7 @@ Inflicts regular damage with no additional effect.
 | ![golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) |
 | ![graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) |
 | ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![magcargo](../img/pokemon/219.png) | [Magcargo](../pokemon/magcargo.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |

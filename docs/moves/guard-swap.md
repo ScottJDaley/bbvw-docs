@@ -20,7 +20,7 @@ User swaps Defense and Special Defense changes with the target.
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) |

@@ -22,7 +22,7 @@ Prevents any multi-target moves from hitting friendly Pokémon this turn.
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![mienshao](../img/pokemon/620.png) | [Mienshao](../pokemon/mienshao.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![mudkip](../img/pokemon/258.png) | [Mudkip](../pokemon/mudkip.md) |
 | ![regigigas](../img/pokemon/486.png) | [Regigigas](../pokemon/regigigas.md) |
 | ![shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) |

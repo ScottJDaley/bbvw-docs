@@ -11,7 +11,7 @@
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) | 10% |
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 10% |
 | ![ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) | 5% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 5% |
 

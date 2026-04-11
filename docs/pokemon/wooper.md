@@ -9,7 +9,6 @@
 |Stage |  | Stage |
 |:---: | :---: | :---: |
 |![wooper](../img/pokemon/194.png)<br>**[Wooper]( wooper.md)** | ➡️<br>Lv. 20 | ![quagsire](../img/pokemon/195.png)<br>**[Quagsire]( quagsire.md)** |
-|![wooper](../img/pokemon/194.png)<br>**[Wooper]( wooper.md)** | ➡️<br>Lv. 20 | **[Clodsire]( clodsire.md)** |
 
 ## Abilities
 | Slot | Original | New |

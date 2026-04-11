@@ -47,7 +47,7 @@ Raises the user’s Special Defense by two stages.
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |
 | ![pansear](../img/pokemon/513.png) | [Pansear](../pokemon/pansear.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |

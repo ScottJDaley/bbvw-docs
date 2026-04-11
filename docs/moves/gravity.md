@@ -31,6 +31,7 @@ Disables moves and immunities that involve flying or levitating for five turns.
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) |
 | ![cresselia](../img/pokemon/488.png) | [Cresselia](../pokemon/cresselia.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dialga](../img/pokemon/483.png) | [Dialga](../pokemon/dialga.md) |
 | ![duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) |
 | ![dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) |
@@ -45,6 +46,7 @@ Disables moves and immunities that involve flying or levitating for five turns.
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![golett](../img/pokemon/622.png) | [Golett](../pokemon/golett.md) |
 | ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) |
 | ![gothita](../img/pokemon/574.png) | [Gothita](../pokemon/gothita.md) |
@@ -58,12 +60,14 @@ Disables moves and immunities that involve flying or levitating for five turns.
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
 | ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |
 | ![klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![magnemite](../img/pokemon/081.png) | [Magnemite](../pokemon/magnemite.md) |
 | ![magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) |
 | ![magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) |
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) |
 | ![meditite](../img/pokemon/307.png) | [Meditite](../pokemon/meditite.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) |
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
@@ -74,7 +78,7 @@ Disables moves and immunities that involve flying or levitating for five turns.
 | ![palkia](../img/pokemon/484.png) | [Palkia](../pokemon/palkia.md) |
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
 | ![regice](../img/pokemon/378.png) | [Regice](../pokemon/regice.md) |

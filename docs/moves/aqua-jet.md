@@ -15,7 +15,6 @@ Inflicts regular damage with no additional effect.
 | ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
@@ -29,6 +28,7 @@ Inflicts regular damage with no additional effect.
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
 | ![kabutops](../img/pokemon/141.png) | [Kabutops](../pokemon/kabutops.md) |
+| ![keldeo](../img/pokemon/647.png) | [Keldeo](../pokemon/keldeo.md) |
 | ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |

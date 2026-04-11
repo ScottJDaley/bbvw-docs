@@ -27,6 +27,7 @@ Lowers the user’s Special Attack by two stages after inflicting damage.
 | ![gabite](../img/pokemon/444.png) | [Gabite](../pokemon/gabite.md) |
 | ![garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) |
 | ![hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |

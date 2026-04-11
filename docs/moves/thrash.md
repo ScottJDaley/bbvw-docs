@@ -17,7 +17,6 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![blitzle](../img/pokemon/522.png) | [Blitzle](../pokemon/blitzle.md) |
 | ![bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) |
@@ -28,6 +27,7 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![cubchoo](../img/pokemon/613.png) | [Cubchoo](../pokemon/cubchoo.md) |
 | ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
@@ -56,6 +56,8 @@ Hits every turn for 2-3 turns, then confuses the user.
 | ![tauros](../img/pokemon/128.png) | [Tauros](../pokemon/tauros.md) |
 | ![teddiursa](../img/pokemon/216.png) | [Teddiursa](../pokemon/teddiursa.md) |
 | ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![totodile](../img/pokemon/158.png) | [Totodile](../pokemon/totodile.md) |
 | ![turtwig](../img/pokemon/387.png) | [Turtwig](../pokemon/turtwig.md) |
 | ![tyranitar](../img/pokemon/248.png) | [Tyranitar](../pokemon/tyranitar.md) |

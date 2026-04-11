@@ -18,9 +18,9 @@ Uses the target’s last used move.
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
 | ![igglybuff](../img/pokemon/174.png) | [Igglybuff](../pokemon/igglybuff.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![oshawott](../img/pokemon/501.png) | [Oshawott](../pokemon/oshawott.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
 | ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |

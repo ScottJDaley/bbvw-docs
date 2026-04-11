@@ -1,4 +1,4 @@
-# Ho-oh
+# Ho-Oh
 
 ![ho-oh](../img/pokemon/250.png)
 
@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |
 |:---: |
-|![ho-oh](../img/pokemon/250.png)<br>**[Ho-oh]( ho-oh.md)** |
+|![ho-oh](../img/pokemon/250.png)<br>**[Ho-Oh]( ho-oh.md)** |
 
 ## Abilities
 | Slot | Original | New |

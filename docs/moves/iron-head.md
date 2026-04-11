@@ -42,6 +42,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![genesect](../img/pokemon/649.png) | [Genesect](../pokemon/genesect.md) |
 | ![gible](../img/pokemon/443.png) | [Gible](../pokemon/gible.md) |
 | ![gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) |
+| ![giratina](../img/pokemon/487.png) | [Giratina](../pokemon/giratina.md) |
 | ![glalie](../img/pokemon/362.png) | [Glalie](../pokemon/glalie.md) |
 | ![golem](../img/pokemon/076.png) | [Golem](../pokemon/golem.md) |
 | ![groudon](../img/pokemon/383.png) | [Groudon](../pokemon/groudon.md) |
@@ -49,7 +50,7 @@ Has a $effect_chance% chance to make the target flinch.
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![heatran](../img/pokemon/485.png) | [Heatran](../pokemon/heatran.md) |
 | ![hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kyogre](../img/pokemon/382.png) | [Kyogre](../pokemon/kyogre.md) |

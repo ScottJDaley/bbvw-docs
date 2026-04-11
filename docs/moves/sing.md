@@ -27,6 +27,7 @@ Puts the target to sleep.
 | ![kricketune](../img/pokemon/402.png) | [Kricketune](../pokemon/kricketune.md) |
 | ![lapras](../img/pokemon/131.png) | [Lapras](../pokemon/lapras.md) |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |

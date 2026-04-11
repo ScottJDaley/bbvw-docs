@@ -48,6 +48,7 @@ Target cannot use held items.
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
 | ![mewtwo](../img/pokemon/150.png) | [Mewtwo](../pokemon/mewtwo.md) |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) |
@@ -58,7 +59,7 @@ Target cannot use held items.
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |
 | ![persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
@@ -70,6 +71,8 @@ Target cannot use held items.
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) |
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |
 | ![victini](../img/pokemon/494.png) | [Victini](../pokemon/victini.md) |
 | ![vullaby](../img/pokemon/629.png) | [Vullaby](../pokemon/vullaby.md) |

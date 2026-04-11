@@ -1,4 +1,4 @@
-# Mime-jr
+# Mime Jr.
 
 ![mime-jr](../img/pokemon/439.png)
 
@@ -6,9 +6,9 @@
 ![psychic](../img/types/psychic.png) ![fairy](../img/types/fairy.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![mime-jr](../img/pokemon/439.png)<br>**[Mime-jr]( mime-jr.md)** | ➡️<br>Know mimic | ![mr-mime](../img/pokemon/122.png)<br>**[Mr-mime]( mr-mime.md)** | ➡️<br>Lv. 42 | **[Mr-rime]( mr-rime.md)** |
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![mime-jr](../img/pokemon/439.png)<br>**[Mime Jr.]( mime-jr.md)** | ➡️<br>Know mimic | ![mr-mime](../img/pokemon/122.png)<br>**[Mr. Mime]( mr-mime.md)** |
 
 ## Abilities
 | Slot | Original | New |

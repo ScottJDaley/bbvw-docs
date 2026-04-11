@@ -30,7 +30,7 @@ Power and type depend on the held berry.
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
 | ![gloom](../img/pokemon/044.png) | [Gloom](../pokemon/gloom.md) |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![lotad](../img/pokemon/270.png) | [Lotad](../pokemon/lotad.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
@@ -47,6 +47,7 @@ Power and type depend on the held berry.
 | ![pineco](../img/pokemon/204.png) | [Pineco](../pokemon/pineco.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shroomish](../img/pokemon/285.png) | [Shroomish](../pokemon/shroomish.md) |
 | ![simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) |
 | ![simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) |

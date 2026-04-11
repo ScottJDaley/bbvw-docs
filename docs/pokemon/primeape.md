@@ -6,9 +6,9 @@
 ![fighting](../img/types/fighting.png)
 
 ## Evolution
-|Stage |  | Stage |  | Stage |
-|:---: | :---: | :---: | :---: | :---: |
-|![mankey](../img/pokemon/056.png)<br>**[Mankey]( mankey.md)** | ➡️<br>Lv. 28 | ![primeape](../img/pokemon/057.png)<br>**[Primeape]( primeape.md)** | ➡️<br> | **[Annihilape]( annihilape.md)** |
+|Stage |  | Stage |
+|:---: | :---: | :---: |
+|![mankey](../img/pokemon/056.png)<br>**[Mankey]( mankey.md)** | ➡️<br>Lv. 28 | ![primeape](../img/pokemon/057.png)<br>**[Primeape]( primeape.md)** |
 
 ## Abilities
 | Slot | Original | New |

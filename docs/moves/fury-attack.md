@@ -28,7 +28,7 @@ Hits 2-5 times in one turn.
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) |
 | ![karrablast](../img/pokemon/588.png) | [Karrablast](../pokemon/karrablast.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nidorino](../img/pokemon/033.png) | [Nidorino](../pokemon/nidorino.md) |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) |

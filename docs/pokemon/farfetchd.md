@@ -6,9 +6,9 @@
 ![normal](../img/types/normal.png) ![flying](../img/types/flying.png)
 
 ## Evolution
-|Stage |  | Stage |
-|:---: | :---: | :---: |
-|![farfetchd](../img/pokemon/083.png)<br>**[Farfetchd]( farfetchd.md)** | ➡️<br> | **[Sirfetchd]( sirfetchd.md)** |
+|Stage |
+|:---: |
+|![farfetchd](../img/pokemon/083.png)<br>**[Farfetchd]( farfetchd.md)** |
 
 ## Abilities
 | Slot | Original | New |

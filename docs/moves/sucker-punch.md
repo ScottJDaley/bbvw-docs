@@ -46,7 +46,7 @@ Only works if the target is about to use a damaging move.
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |
 | ![pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |

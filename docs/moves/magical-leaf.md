@@ -29,13 +29,14 @@ Never misses.
 | ![leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) |
 | ![meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) |
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) |
 | ![ralts](../img/pokemon/280.png) | [Ralts](../pokemon/ralts.md) |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) |
 | ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) |
 | ![sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) |
 | ![togetic](../img/pokemon/176.png) | [Togetic](../pokemon/togetic.md) |

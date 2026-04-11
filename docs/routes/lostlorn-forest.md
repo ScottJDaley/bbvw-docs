@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | ![escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) | 20% |
 | ![accelgor](../img/pokemon/617.png) | [Accelgor](../pokemon/accelgor.md) | 20% |
-| | Wormadam | 10% |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) | 10% |
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 10% |
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) | 10% |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 10% |

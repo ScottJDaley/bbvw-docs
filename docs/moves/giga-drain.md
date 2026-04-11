@@ -50,6 +50,7 @@ Drains half the damage inflicted to heal the user.
 | ![flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) |
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) |
 | ![forretress](../img/pokemon/205.png) | [Forretress](../pokemon/forretress.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) |
 | ![garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) |
@@ -63,10 +64,11 @@ Drains half the damage inflicted to heal the user.
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) |
 | ![haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) |
 | ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoppip](../img/pokemon/187.png) | [Hoppip](../pokemon/hoppip.md) |
 | ![illumise](../img/pokemon/314.png) | [Illumise](../pokemon/illumise.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) |
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
 | ![kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) |
@@ -108,6 +110,7 @@ Drains half the damage inflicted to heal the user.
 | ![servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) |
+| ![shaymin](../img/pokemon/492.png) | [Shaymin](../pokemon/shaymin.md) |
 | ![shedinja](../img/pokemon/292.png) | [Shedinja](../pokemon/shedinja.md) |
 | ![shelmet](../img/pokemon/616.png) | [Shelmet](../pokemon/shelmet.md) |
 | ![shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) |
@@ -146,6 +149,7 @@ Drains half the damage inflicted to heal the user.
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) |
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

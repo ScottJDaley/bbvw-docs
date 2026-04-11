@@ -17,7 +17,7 @@ Has a $effect_chance% chance to badly poison the target.
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![nidorina](../img/pokemon/030.png) | [Nidorina](../pokemon/nidorina.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) |

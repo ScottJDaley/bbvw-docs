@@ -78,7 +78,7 @@
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) | 53 | - | - |  |
-| ![Mr. Mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 53 | - | - |  |
+| ![Mr. Mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 53 | - | - |  |
 | ![Wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 53 | - | - |  |
 
 ### Hiker Neil
@@ -118,7 +118,7 @@
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) | 53 | - | - |  |
-|  | [Darmanitan](../pokemon/darmanitan.md) | 53 | - | - |  |
+| ![Darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 53 | - | - |  |
 
 ### Ace Trainer Jordan
 | Sprite | Pokemon | Level | Ability | Item | Moves |

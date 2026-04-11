@@ -41,7 +41,7 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |
-| | Jellicent | 40% |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 40% |
 
 ### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |

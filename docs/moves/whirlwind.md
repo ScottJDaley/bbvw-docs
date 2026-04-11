@@ -20,7 +20,7 @@ Immediately ends wild battles.  Forces trainers to switch Pokémon.
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) |

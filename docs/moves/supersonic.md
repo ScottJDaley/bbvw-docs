@@ -40,8 +40,8 @@ Confuses the target.
 | ![mantine](../img/pokemon/226.png) | [Mantine](../pokemon/mantine.md) |
 | ![mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) |
 | ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) |

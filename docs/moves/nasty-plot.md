@@ -42,11 +42,11 @@ Raises the user’s Special Attack by two stages.
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
-| ![mime-jr](../img/pokemon/439.png) | [Mime-jr](../pokemon/mime-jr.md) |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) |
 | ![mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) |
-| ![mr-mime](../img/pokemon/122.png) | [Mr-mime](../pokemon/mr-mime.md) |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) |
 | ![ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) |
 | ![panpour](../img/pokemon/515.png) | [Panpour](../pokemon/panpour.md) |
@@ -55,7 +55,7 @@ Raises the user’s Special Attack by two stages.
 | ![persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) |
 | ![pichu](../img/pokemon/172.png) | [Pichu](../pokemon/pichu.md) |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) |
 | ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) |
 | ![sableye](../img/pokemon/302.png) | [Sableye](../pokemon/sableye.md) |
@@ -67,6 +67,7 @@ Raises the user’s Special Attack by two stages.
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) |
 | ![smoochum](../img/pokemon/238.png) | [Smoochum](../pokemon/smoochum.md) |
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
 | ![togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) |
 | ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) |
 | ![toxicroak](../img/pokemon/454.png) | [Toxicroak](../pokemon/toxicroak.md) |

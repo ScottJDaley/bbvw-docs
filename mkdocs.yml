@@ -79,10 +79,10 @@ nav:
       - Raichu: pokemon/raichu.md
       - Sandshrew: pokemon/sandshrew.md
       - Sandslash: pokemon/sandslash.md
-      - Nidoran-f: pokemon/nidoran-f.md
+      - Nidoran♀: pokemon/nidoran-f.md
       - Nidorina: pokemon/nidorina.md
       - Nidoqueen: pokemon/nidoqueen.md
-      - Nidoran-m: pokemon/nidoran-m.md
+      - Nidoran♂: pokemon/nidoran-m.md
       - Nidorino: pokemon/nidorino.md
       - Nidoking: pokemon/nidoking.md
       - Clefairy: pokemon/clefairy.md
@@ -172,7 +172,7 @@ nav:
       - Seaking: pokemon/seaking.md
       - Staryu: pokemon/staryu.md
       - Starmie: pokemon/starmie.md
-      - Mr-mime: pokemon/mr-mime.md
+      - Mr. Mime: pokemon/mr-mime.md
       - Scyther: pokemon/scyther.md
       - Jynx: pokemon/jynx.md
       - Electabuzz: pokemon/electabuzz.md
@@ -301,7 +301,7 @@ nav:
       - Pupitar: pokemon/pupitar.md
       - Tyranitar: pokemon/tyranitar.md
       - Lugia: pokemon/lugia.md
-      - Ho-oh: pokemon/ho-oh.md
+      - Ho-Oh: pokemon/ho-oh.md
       - Celebi: pokemon/celebi.md
     - Hoenn:
       - Treecko: pokemon/treecko.md
@@ -492,7 +492,7 @@ nav:
       - Bronzor: pokemon/bronzor.md
       - Bronzong: pokemon/bronzong.md
       - Bonsly: pokemon/bonsly.md
-      - Mime-jr: pokemon/mime-jr.md
+      - Mime Jr.: pokemon/mime-jr.md
       - Happiny: pokemon/happiny.md
       - Chatot: pokemon/chatot.md
       - Spiritomb: pokemon/spiritomb.md
@@ -527,7 +527,7 @@ nav:
       - Glaceon: pokemon/glaceon.md
       - Gliscor: pokemon/gliscor.md
       - Mamoswine: pokemon/mamoswine.md
-      - Porygon-z: pokemon/porygon-z.md
+      - Porygon-Z: pokemon/porygon-z.md
       - Gallade: pokemon/gallade.md
       - Probopass: pokemon/probopass.md
       - Dusknoir: pokemon/dusknoir.md
@@ -604,7 +604,6 @@ nav:
       - Whimsicott: pokemon/whimsicott.md
       - Petilil: pokemon/petilil.md
       - Lilligant: pokemon/lilligant.md
-      - Basculin: pokemon/basculin.md
       - Basculin: pokemon/basculin.md
       - Sandile: pokemon/sandile.md
       - Krokorok: pokemon/krokorok.md
@@ -938,7 +937,7 @@ nav:
     - Force palm: moves/force-palm.md
     - Foresight: moves/foresight.md
     - Foul play: moves/foul-play.md
-    - Frenzy plant: moves/frenzy.md
+    - Frenzy plant: moves/frenzy-plant.md
     - Frost breath: moves/frost-breath.md
     - Frustration: moves/frustration.md
     - Fury attack: moves/fury-attack.md

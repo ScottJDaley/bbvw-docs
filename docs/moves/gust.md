@@ -22,7 +22,7 @@ Inflicts regular damage and can hit Pokémon in the air.
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![farfetchd](../img/pokemon/083.png) | [Farfetchd](../pokemon/farfetchd.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
-| ![ho-oh](../img/pokemon/250.png) | [Ho-oh](../pokemon/ho-oh.md) |
+| ![ho-oh](../img/pokemon/250.png) | [Ho-Oh](../pokemon/ho-oh.md) |
 | ![lugia](../img/pokemon/249.png) | [Lugia](../pokemon/lugia.md) |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
@@ -37,6 +37,7 @@ Inflicts regular damage and can hit Pokémon in the air.
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |
 | ![suicune](../img/pokemon/245.png) | [Suicune](../pokemon/suicune.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) |
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) |

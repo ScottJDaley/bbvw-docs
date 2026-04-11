@@ -30,7 +30,7 @@
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) | 10% |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 5% |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
-| | Darmanitan | 5% |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 20% |
@@ -40,7 +40,7 @@
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) | 10% |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 5% |
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
-| | Darmanitan | 5% |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
 

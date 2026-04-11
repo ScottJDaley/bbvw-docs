@@ -14,7 +14,6 @@ Has double power against Pokémon that have less than half their max HP remainin
 | --- | --- |
 | ![alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) |
 | ![carracosta](../img/pokemon/565.png) | [Carracosta](../pokemon/carracosta.md) |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) |
@@ -26,10 +25,12 @@ Has double power against Pokémon that have less than half their max HP remainin
 | ![empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) |
 | ![hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) |
 | ![horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) |
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) |

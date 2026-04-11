@@ -19,7 +19,6 @@ User receives 1/3 the damage inflicted in recoil.
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![bagon](../img/pokemon/371.png) | [Bagon](../pokemon/bagon.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
 | ![bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) |

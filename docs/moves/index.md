@@ -175,7 +175,7 @@
 - [Force palm](force-palm.md)
 - [Foresight](foresight.md)
 - [Foul play](foul-play.md)
-- [Frenzy plant](frenzy.md)
+- [Frenzy plant](frenzy-plant.md)
 - [Frost breath](frost-breath.md)
 - [Frustration](frustration.md)
 - [Fury attack](fury-attack.md)

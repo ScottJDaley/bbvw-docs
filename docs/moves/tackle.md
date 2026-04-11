@@ -17,7 +17,6 @@ Inflicts regular damage with no additional effect.
 | ![aron](../img/pokemon/304.png) | [Aron](../pokemon/aron.md) |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) |
 | ![bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) |
 | ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) |
@@ -37,6 +36,7 @@ Inflicts regular damage with no additional effect.
 | ![chikorita](../img/pokemon/152.png) | [Chikorita](../pokemon/chikorita.md) |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) |
 | ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) |
@@ -119,7 +119,7 @@ Inflicts regular damage with no additional effect.
 | ![ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) |
 | ![poochyena](../img/pokemon/261.png) | [Poochyena](../pokemon/poochyena.md) |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) |
-| ![porygon-z](../img/pokemon/474.png) | [Porygon-z](../pokemon/porygon-z.md) |
+| ![porygon-z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) |
 | ![porygon2](../img/pokemon/233.png) | [Porygon2](../pokemon/porygon2.md) |
 | ![prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) |
 | ![probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) |
@@ -176,6 +176,7 @@ Inflicts regular damage with no additional effect.
 | ![wartortle](../img/pokemon/008.png) | [Wartortle](../pokemon/wartortle.md) |
 | ![watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) |
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) |
+| ![wormadam](../img/pokemon/413.png) | [Wormadam](../pokemon/wormadam.md) |
 | ![wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) |
 | ![yanma](../img/pokemon/193.png) | [Yanma](../pokemon/yanma.md) |
 | ![yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) |

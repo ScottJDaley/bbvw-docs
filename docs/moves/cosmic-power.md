@@ -16,6 +16,7 @@ Raises the user’s Defense and Special Defense by one stage.
 | ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) |
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) |
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) |

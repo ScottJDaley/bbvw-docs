@@ -28,6 +28,7 @@ User must switch out after attacking.
 | ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) |
 | ![cinccino](../img/pokemon/573.png) | [Cinccino](../pokemon/cinccino.md) |
 | ![crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) |
+| ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) |
 | ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
@@ -49,6 +50,7 @@ User must switch out after attacking.
 | ![infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) |
 | ![jirachi](../img/pokemon/385.png) | [Jirachi](../pokemon/jirachi.md) |
 | ![jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) |
+| ![landorus](../img/pokemon/645.png) | [Landorus](../pokemon/landorus.md) |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) |
 | ![ledian](../img/pokemon/166.png) | [Ledian](../pokemon/ledian.md) |
 | ![ledyba](../img/pokemon/165.png) | [Ledyba](../pokemon/ledyba.md) |
@@ -58,6 +60,7 @@ User must switch out after attacking.
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) |
 | ![masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) |
+| ![meloetta](../img/pokemon/648.png) | [Meloetta](../pokemon/meloetta.md) |
 | ![meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) |
 | ![mesprit](../img/pokemon/481.png) | [Mesprit](../pokemon/mesprit.md) |
 | ![mew](../img/pokemon/151.png) | [Mew](../pokemon/mew.md) |
@@ -94,6 +97,8 @@ User must switch out after attacking.
 | ![swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) |
 | ![swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) |
 | ![taillow](../img/pokemon/276.png) | [Taillow](../pokemon/taillow.md) |
+| ![thundurus](../img/pokemon/642.png) | [Thundurus](../pokemon/thundurus.md) |
+| ![tornadus](../img/pokemon/641.png) | [Tornadus](../pokemon/tornadus.md) |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) |
 | ![uxie](../img/pokemon/480.png) | [Uxie](../pokemon/uxie.md) |

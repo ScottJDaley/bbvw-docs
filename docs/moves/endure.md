@@ -56,8 +56,8 @@ Prevents the user’s HP from lowering below 1 this turn.
 | ![miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) |
 | ![minccino](../img/pokemon/572.png) | [Minccino](../pokemon/minccino.md) |
 | ![moltres](../img/pokemon/146.png) | [Moltres](../pokemon/moltres.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
-| ![nidoran-m](../img/pokemon/032.png) | [Nidoran-m](../pokemon/nidoran-m.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
+| ![nidoran-m](../img/pokemon/032.png) | [Nidoran♂](../pokemon/nidoran-m.md) |
 | ![nincada](../img/pokemon/290.png) | [Nincada](../pokemon/nincada.md) |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) |
 | ![numel](../img/pokemon/322.png) | [Numel](../pokemon/numel.md) |

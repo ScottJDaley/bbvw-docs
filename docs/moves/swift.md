@@ -17,7 +17,6 @@ Never misses.
 | ![ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) |
 | ![azelf](../img/pokemon/482.png) | [Azelf](../pokemon/azelf.md) |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
-| ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) |
 | ![cleffa](../img/pokemon/173.png) | [Cleffa](../pokemon/cleffa.md) |

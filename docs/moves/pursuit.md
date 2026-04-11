@@ -21,6 +21,7 @@ Has double power against, and can hit, Pokémon attempting to switch out.
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) |
 | ![cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) |
 | ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) |
 | ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) |
@@ -51,7 +52,7 @@ Has double power against, and can hit, Pokémon attempting to switch out.
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) |
 | ![munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) |
-| ![nidoran-f](../img/pokemon/029.png) | [Nidoran-f](../pokemon/nidoran-f.md) |
+| ![nidoran-f](../img/pokemon/029.png) | [Nidoran♀](../pokemon/nidoran-f.md) |
 | ![paras](../img/pokemon/046.png) | [Paras](../pokemon/paras.md) |
 | ![patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) |
 | ![pawniard](../img/pokemon/624.png) | [Pawniard](../pokemon/pawniard.md) |

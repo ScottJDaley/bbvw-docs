@@ -20,6 +20,7 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 | ![chingling](../img/pokemon/433.png) | [Chingling](../pokemon/chingling.md) |
 | ![cradily](../img/pokemon/346.png) | [Cradily](../pokemon/cradily.md) |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) |
+| ![deoxys](../img/pokemon/386.png) | [Deoxys](../pokemon/deoxys.md) |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) |
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) |
@@ -31,10 +32,12 @@ Prevents the target from fleeing and inflicts damage for 2-5 turns.
 | ![eelektrik](../img/pokemon/603.png) | [Eelektrik](../pokemon/eelektrik.md) |
 | ![eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) |
+| ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) |
 | ![gorebyss](../img/pokemon/368.png) | [Gorebyss](../pokemon/gorebyss.md) |
 | ![heatmor](../img/pokemon/631.png) | [Heatmor](../pokemon/heatmor.md) |
 | ![huntail](../img/pokemon/367.png) | [Huntail](../pokemon/huntail.md) |
 | ![ivysaur](../img/pokemon/002.png) | [Ivysaur](../pokemon/ivysaur.md) |
+| ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) |
 | ![kecleon](../img/pokemon/352.png) | [Kecleon](../pokemon/kecleon.md) |
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) |
 | ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) |

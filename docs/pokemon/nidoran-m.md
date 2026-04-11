@@ -1,4 +1,4 @@
-# Nidoran-m
+# Nidoran♂
 
 ![nidoran-m](../img/pokemon/032.png)
 
@@ -8,7 +8,7 @@
 ## Evolution
 |Stage |  | Stage |  | Stage |
 |:---: | :---: | :---: | :---: | :---: |
-|![nidoran-m](../img/pokemon/032.png)<br>**[Nidoran-m]( nidoran-m.md)** | ➡️<br>Lv. 16 | ![nidorino](../img/pokemon/033.png)<br>**[Nidorino]( nidorino.md)** | ➡️<br>Use moon-stone | ![nidoking](../img/pokemon/034.png)<br>**[Nidoking]( nidoking.md)** |
+|![nidoran-m](../img/pokemon/032.png)<br>**[Nidoran♂]( nidoran-m.md)** | ➡️<br>Lv. 16 | ![nidorino](../img/pokemon/033.png)<br>**[Nidorino]( nidorino.md)** | ➡️<br>Use moon-stone | ![nidoking](../img/pokemon/034.png)<br>**[Nidoking]( nidoking.md)** |
 
 ## Abilities
 | Slot | Original | New |
