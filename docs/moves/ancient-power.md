@@ -1,7 +1,9 @@
 # Ancient power
 
+**TM/HM:** 
+
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 5  

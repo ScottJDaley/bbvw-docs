@@ -1,8 +1,10 @@
 # Thunder wave
 
+**TM/HM:** TM73
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 90  
 **PP:** 20  
 

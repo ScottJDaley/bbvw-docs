@@ -1,7 +1,9 @@
 # Dream eater
 
+**TM/HM:** TM85
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 100  
 **PP:** 15  

@@ -1,8 +1,10 @@
 # Punishment
 
+**TM/HM:** 
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** None  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 5  
 

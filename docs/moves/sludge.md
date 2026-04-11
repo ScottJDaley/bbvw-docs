@@ -1,7 +1,9 @@
 # Sludge
 
+**TM/HM:** 
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 20  

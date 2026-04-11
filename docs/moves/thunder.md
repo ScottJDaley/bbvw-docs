@@ -1,7 +1,9 @@
 # Thunder
 
+**TM/HM:** TM25
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 110  
 **Accuracy:** 70  
 **PP:** 10  

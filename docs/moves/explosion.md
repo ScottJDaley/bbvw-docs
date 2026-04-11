@@ -1,7 +1,9 @@
 # Explosion
 
+**TM/HM:** TM64
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 250  
 **Accuracy:** 100  
 **PP:** 5  

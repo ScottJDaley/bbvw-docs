@@ -1,8 +1,10 @@
 # Snarl
 
+**TM/HM:** TM95
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** 55  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">60</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">55</span>  
 **Accuracy:** 95  
 **PP:** 15  
 

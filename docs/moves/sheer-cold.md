@@ -1,8 +1,10 @@
 # Sheer cold
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** None  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 30  
 **PP:** 5  
 

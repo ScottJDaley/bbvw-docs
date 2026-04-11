@@ -1,7 +1,9 @@
 # Aqua jet
 
+**TM/HM:** 
+
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 20  

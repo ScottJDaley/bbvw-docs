@@ -1,7 +1,9 @@
 # Blizzard
 
+**TM/HM:** TM14
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 110  
 **Accuracy:** 70  
 **PP:** 5  

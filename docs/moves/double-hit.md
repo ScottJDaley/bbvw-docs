@@ -1,7 +1,9 @@
 # Double hit
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 35  
 **Accuracy:** 90  
 **PP:** 10  

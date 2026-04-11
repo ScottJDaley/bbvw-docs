@@ -1,8 +1,10 @@
 # Spike cannon
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 20  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">25</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">20</span>  
 **Accuracy:** 100  
 **PP:** 15  
 

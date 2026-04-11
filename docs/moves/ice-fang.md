@@ -1,8 +1,10 @@
 # Ice fang
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 65  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">75</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">65</span>  
 **Accuracy:** 95  
 **PP:** 15  
 

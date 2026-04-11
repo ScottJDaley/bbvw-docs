@@ -1,7 +1,9 @@
 # Frost breath
 
+**TM/HM:** TM79
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 90  
 **PP:** 10  

@@ -1,7 +1,9 @@
 # Hex
 
+**TM/HM:** 
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 65  
 **Accuracy:** 100  
 **PP:** 10  

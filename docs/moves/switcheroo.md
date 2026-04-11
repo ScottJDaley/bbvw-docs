@@ -1,8 +1,10 @@
 # Switcheroo
 
+**TM/HM:** 
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 10  
 

@@ -1,9 +1,11 @@
 # Shock wave
 
+**TM/HM:** 
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** 60  
-**Accuracy:** None  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">70</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span>  
+**Accuracy:** -  
 **PP:** 20  
 
 ## Description

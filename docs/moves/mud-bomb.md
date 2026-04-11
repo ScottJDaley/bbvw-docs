@@ -1,7 +1,9 @@
 # Mud bomb
 
+**TM/HM:** 
+
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 65  
 **Accuracy:** 85  
 **PP:** 10  

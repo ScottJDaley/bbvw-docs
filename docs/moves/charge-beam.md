@@ -1,7 +1,9 @@
 # Charge beam
 
+**TM/HM:** TM57
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 90  
 **PP:** 10  

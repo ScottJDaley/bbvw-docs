@@ -1,8 +1,10 @@
 # Flash
 
+**TM/HM:** TM70
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 20  
 

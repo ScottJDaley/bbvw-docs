@@ -1,8 +1,10 @@
 # Shadow claw
 
+**TM/HM:** TM65
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 70  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>  
 **Accuracy:** 100  
 **PP:** 15  
 

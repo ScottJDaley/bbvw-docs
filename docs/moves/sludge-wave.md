@@ -1,7 +1,9 @@
 # Sludge wave
 
+**TM/HM:** TM34
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 95  
 **Accuracy:** 100  
 **PP:** 10  

@@ -1,7 +1,9 @@
 # Karate chop
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 25  

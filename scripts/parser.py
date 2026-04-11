@@ -106,12 +106,53 @@ def parse_wild_pokemon():
 
 def parse_move_changes():
     move_changes, move_stat_changes = {}, {}
+    with open(os.path.join(DATA_DIR, "base_data.json"), 'r', encoding='utf-8') as f:
+        base_data = json.load(f)
+    
     with open(os.path.join(DATA_DIR, "Level Up Move Changes.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
-    stat_matches = re.findall(r'(\w+(?:\s+\w+)?):\s+Base Power\s+(\d+)\s+->\s+(\d+),\s+Accuracy\s+(\d+)\s+->\s+(\d+)', content)
-    for name, bp_old, bp_new, acc_old, acc_new in stat_matches:
-        move_stat_changes[normalize_name(name)] = {'power': {'old': int(bp_old), 'new': int(bp_new)}, 'accuracy': {'old': int(acc_old), 'new': int(acc_new)}}
     
+    # Parse General Attack Changes
+    general_section = content.split("Key")[0]
+    for line in general_section.split('\n'):
+        line = line.strip()
+        if not line or "General Attack Changes" in line: continue
+        
+        # Determine which moves this line applies to
+        # e.g. "Fire, Water and Grass Pledge are now 100 power."
+        # or "Pin Missile is now 25 power."
+        moves_part = line.split(" is now ")[0].split(" are now ")[0]
+        moves_to_update = [m.strip() for m in re.split(r',| and ', moves_part) if m.strip()]
+        
+        # Parse what changed
+        stats = {}
+        # Power
+        p_match = re.search(r'(\d+)\s+power', line)
+        if p_match: stats['power'] = int(p_match.group(1))
+        # Accuracy
+        a_match = re.search(r'(\d+)%\s+accura', line) # handles accurate/accuracy
+        if a_match: stats['accuracy'] = int(a_match.group(1))
+        # PP
+        pp_match = re.search(r'(\d+)\s+PP', line)
+        if pp_match: stats['pp'] = int(pp_match.group(1))
+        # Type
+        t_match = re.search(r'([A-Za-z]+)-type', line)
+        if t_match: stats['type'] = t_match.group(1).lower()
+        
+        for mname in moves_to_update:
+            mn_norm = normalize_name(mname)
+            if not mn_norm: continue
+            
+            # Find original values from base_data
+            base_info = base_data['moves'].get(mn_norm)
+            if not base_info: continue
+            
+            move_stat_changes[mn_norm] = {}
+            for stat, new_val in stats.items():
+                old_val = base_info.get(stat)
+                if old_val != new_val:
+                    move_stat_changes[mn_norm][stat] = {'old': old_val, 'new': new_val}
+
     entries = re.split(r'\n(?=#\d{3})', content)
     for entry in entries:
         lines = entry.strip().split('\n')
@@ -368,6 +409,6 @@ if __name__ == "__main__":
     move_changes, move_stat_changes = parse_move_changes()
     trainer_data, trainer_order = parse_trainers()
     wild_order = [r['name'] for r in wild_pkmn]
-    with open('scripts/data/romhack_data.json', 'w') as f: 
+    with open('scripts/data/romhack_data.json', 'w', encoding='utf-8') as f: 
         json.dump({'pokemon_changes': pokemon_changes, 'wild_pokemon': wild_pkmn, 'move_changes': move_changes, 'move_stat_changes': move_stat_changes, 'trainers': trainer_data, 'trainer_order': trainer_order, 'wild_order': wild_order}, f, indent=2)
     print("Parsing complete.")

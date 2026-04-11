@@ -1,7 +1,9 @@
 # Ice ball
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 30  
 **Accuracy:** 90  
 **PP:** 20  

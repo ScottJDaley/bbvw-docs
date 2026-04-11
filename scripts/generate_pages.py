@@ -118,11 +118,17 @@ def get_move_display(m_name, move_data, move_stat_changes, base_path="../", show
         return str(val or '-')
     
     p, a = format_stat('power', m_info['power']), format_stat('accuracy', m_info['accuracy'])
-    t_icon = f'![{m_info["type"]}]({base_path}img/types/{m_info["type"]}.png)'
+    pp = format_stat('pp', m_info['pp'])
+    
+    t_val = m_info["type"]
+    t_icon = f'![{t_val}]({base_path}img/types/{t_val}.png)'
+    if 'type' in m_rom:
+        t_icon = f'![{m_rom["type"]["new"]}]({base_path}img/types/{m_rom["type"]["new"]}.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">{m_info["type"]}</span>'
+
     c_icon = f'![{m_info["damage_class"]}]({base_path}img/types/{m_info["damage_class"]}.png){{ style="vertical-align:middle; object-fit:contain;" }}'
     
-    if show_tm: return f"| {m_info.get('tm_num', '-')} | {link_str} | {t_icon} | {c_icon} | {p} | {a} | {m_info['pp']} |"
-    return f"| {link_str} | {t_icon} | {c_icon} | {p} | {a} | {m_info['pp']} |"
+    if show_tm: return f"| {m_info.get('tm_num', '-')} | {link_str} | {t_icon} | {c_icon} | {p} | {a} | {pp} |"
+    return f"| {link_str} | {t_icon} | {c_icon} | {p} | {a} | {pp} |"
 
 def get_full_evolution_chains(p_base, all_pokemon_base):
     chain = p_base['evolution_chain']['chain']
@@ -326,7 +332,25 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     return md
 
 def generate_move_page(name, info, pkmn_list, m_rom, base_data):
-    md = f"# {name.replace('-', ' ').capitalize()}\n\n**Type:** ![{info['type']}](../img/types/{info['type']}.png)  \n**Category:** ![{info['damage_class']}](../img/types/{info['damage_class']}.png)  \n**Power:** {info['power']}  \n**Accuracy:** {info['accuracy']}  \n**PP:** {info['pp']}  \n\n## Description\n{info['description']}\n\n## Learned by\n| Sprite | Pokemon |\n| --- | --- |\n"
+    md = f"# {name.replace('-', ' ').capitalize()}\n\n"
+    
+    def format_stat(stat, val):
+        if stat in m_rom: return f'<span style="color:green; font-weight:bold;">{m_rom[stat]["new"]}</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">{m_rom[stat]["old"]}</span>'
+        return str(val or '-')
+
+    t_icon = f'![{info["type"]}](../img/types/{info["type"]}.png)'
+    if 'type' in m_rom:
+        t_icon = f'![{m_rom["type"]["new"]}](../img/types/{m_rom["type"]["new"]}.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">{info["type"]}</span>'
+
+    md += f"**TM/HM:** {info.get('tm_num', '-')}\n\n"
+    md += f"**Type:** {t_icon}  \n"
+    md += f"**Category:** ![{info['damage_class']}](../img/types/{info['damage_class']}.png){{ style='object-fit:contain;' }}  \n"
+    md += f"**Power:** {format_stat('power', info['power'])}  \n"
+    md += f"**Accuracy:** {format_stat('accuracy', info['accuracy'])}  \n"
+    md += f"**PP:** {format_stat('pp', info['pp'])}  \n\n"
+    
+    md += f"## Description\n{info['description']}\n\n"
+    md += "## Learned by\n| Sprite | Pokemon |\n| --- | --- |\n"
     for p in sorted(pkmn_list):
         pn = normalize_name(p); info_p = base_data['pokemon'].get(pn)
         if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"

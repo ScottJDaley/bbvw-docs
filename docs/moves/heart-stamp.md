@@ -1,7 +1,9 @@
 # Heart stamp
 
+**TM/HM:** 
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 25  

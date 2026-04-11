@@ -1,7 +1,9 @@
 # Drill run
 
+**TM/HM:** 
+
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 95  
 **PP:** 10  

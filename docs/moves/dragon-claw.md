@@ -1,7 +1,9 @@
 # Dragon claw
 
+**TM/HM:** TM02
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  

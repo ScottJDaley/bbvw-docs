@@ -1,7 +1,9 @@
 # Cross chop
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 80  
 **PP:** 5  

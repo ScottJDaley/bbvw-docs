@@ -1,7 +1,9 @@
 # Icy wind
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 55  
 **Accuracy:** 95  
 **PP:** 15  

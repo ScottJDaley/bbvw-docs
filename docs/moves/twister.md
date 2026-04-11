@@ -1,8 +1,10 @@
 # Twister
 
+**TM/HM:** 
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** 40  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">50</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">40</span>  
 **Accuracy:** 100  
 **PP:** 20  
 

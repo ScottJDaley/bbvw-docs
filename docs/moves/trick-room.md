@@ -1,9 +1,11 @@
 # Trick room
 
+**TM/HM:** TM92
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
-**Accuracy:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
+**Accuracy:** -  
 **PP:** 5  
 
 ## Description

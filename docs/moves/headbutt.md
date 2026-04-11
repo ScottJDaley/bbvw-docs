@@ -1,7 +1,9 @@
 # Headbutt
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 15  

@@ -1,7 +1,9 @@
 # Hydro cannon
 
+**TM/HM:** 
+
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

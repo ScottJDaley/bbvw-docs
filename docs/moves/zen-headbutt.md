@@ -1,7 +1,9 @@
 # Zen headbutt
 
+**TM/HM:** 
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 90  
 **PP:** 15  

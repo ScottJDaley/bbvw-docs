@@ -1,7 +1,9 @@
 # Earth power
 
+**TM/HM:** 
+
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  

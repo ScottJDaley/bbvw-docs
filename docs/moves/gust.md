@@ -1,7 +1,9 @@
 # Gust
 
+**TM/HM:** 
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 35  

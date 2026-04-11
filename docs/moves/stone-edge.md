@@ -1,7 +1,9 @@
 # Stone edge
 
+**TM/HM:** TM71
+
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 80  
 **PP:** 5  

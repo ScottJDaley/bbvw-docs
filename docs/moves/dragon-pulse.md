@@ -1,7 +1,9 @@
 # Dragon pulse
 
+**TM/HM:** 
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 85  
 **Accuracy:** 100  
 **PP:** 10  

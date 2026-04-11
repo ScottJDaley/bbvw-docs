@@ -1,7 +1,9 @@
 # Take down
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 85  
 **PP:** 20  

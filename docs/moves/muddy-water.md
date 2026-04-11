@@ -1,7 +1,9 @@
 # Muddy water
 
+**TM/HM:** 
+
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 85  
 **PP:** 10  

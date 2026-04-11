@@ -1,8 +1,10 @@
 # String shot
 
+**TM/HM:** 
+
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 95  
 **PP:** 40  
 

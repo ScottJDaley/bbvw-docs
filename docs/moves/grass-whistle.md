@@ -1,8 +1,10 @@
 # Grass whistle
 
+**TM/HM:** 
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 55  
 **PP:** 15  
 

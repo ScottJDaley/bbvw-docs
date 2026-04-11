@@ -1,8 +1,10 @@
 # Icicle crash
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 85  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span>  
 **Accuracy:** 90  
 **PP:** 10  
 

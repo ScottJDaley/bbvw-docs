@@ -1,7 +1,9 @@
 # Silver wind
 
+**TM/HM:** 
+
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 5  

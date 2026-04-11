@@ -1,7 +1,9 @@
 # Icicle spear
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 25  
 **Accuracy:** 100  
 **PP:** 30  

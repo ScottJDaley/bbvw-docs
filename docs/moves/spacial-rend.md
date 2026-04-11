@@ -1,7 +1,9 @@
 # Spacial rend
 
+**TM/HM:** 
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 95  
 **PP:** 5  

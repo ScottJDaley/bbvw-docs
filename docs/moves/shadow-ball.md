@@ -1,8 +1,10 @@
 # Shadow ball
 
+**TM/HM:** TM30
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** 80  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span>  
 **Accuracy:** 100  
 **PP:** 15  
 

@@ -1,7 +1,9 @@
 # Peck
 
+**TM/HM:** 
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 35  
 **Accuracy:** 100  
 **PP:** 35  

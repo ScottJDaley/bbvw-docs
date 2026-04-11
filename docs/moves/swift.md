@@ -1,9 +1,11 @@
 # Swift
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
-**Accuracy:** None  
+**Accuracy:** -  
 **PP:** 20  
 
 ## Description

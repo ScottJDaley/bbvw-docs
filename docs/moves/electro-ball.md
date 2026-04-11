@@ -1,8 +1,10 @@
 # Electro ball
 
+**TM/HM:** 
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** None  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 10  
 

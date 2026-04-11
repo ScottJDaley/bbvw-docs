@@ -1,7 +1,9 @@
 # Heat wave
 
+**TM/HM:** 
+
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 95  
 **Accuracy:** 90  
 **PP:** 10  

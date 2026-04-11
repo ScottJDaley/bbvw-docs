@@ -1,7 +1,9 @@
 # Poison tail
 
+**TM/HM:** 
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 25  

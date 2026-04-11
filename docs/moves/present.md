@@ -1,8 +1,10 @@
 # Present
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** None  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 90  
 **PP:** 15  
 

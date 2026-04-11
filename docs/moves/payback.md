@@ -1,7 +1,9 @@
 # Payback
 
+**TM/HM:** TM66
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 10  

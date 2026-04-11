@@ -1,7 +1,9 @@
 # Techno blast
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 5  

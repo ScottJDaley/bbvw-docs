@@ -1,7 +1,9 @@
 # Flash cannon
 
+**TM/HM:** TM91
+
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  

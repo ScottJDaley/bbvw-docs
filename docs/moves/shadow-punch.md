@@ -1,9 +1,11 @@
 # Shadow punch
 
+**TM/HM:** 
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 60  
-**Accuracy:** None  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">70</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span>  
+**Accuracy:** -  
 **PP:** 20  
 
 ## Description

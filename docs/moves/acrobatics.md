@@ -1,7 +1,9 @@
 # Acrobatics
 
+**TM/HM:** TM62
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 55  
 **Accuracy:** 100  
 **PP:** 15  

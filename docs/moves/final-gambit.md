@@ -1,8 +1,10 @@
 # Final gambit
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** None  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 5  
 

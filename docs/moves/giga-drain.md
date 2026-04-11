@@ -1,7 +1,9 @@
 # Giga drain
 
+**TM/HM:** 
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 75  
 **Accuracy:** 100  
 **PP:** 10  

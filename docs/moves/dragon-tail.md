@@ -1,7 +1,9 @@
 # Dragon tail
 
+**TM/HM:** TM82
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 90  
 **PP:** 10  

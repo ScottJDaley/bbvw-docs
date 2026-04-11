@@ -1,7 +1,9 @@
 # Blast burn
 
+**TM/HM:** 
+
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

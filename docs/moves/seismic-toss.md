@@ -1,8 +1,10 @@
 # Seismic toss
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** None  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 20  
 

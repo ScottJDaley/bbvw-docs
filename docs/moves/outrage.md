@@ -1,7 +1,9 @@
 # Outrage
 
+**TM/HM:** 
+
 **Type:** ![dragon](../img/types/dragon.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 10  

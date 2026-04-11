@@ -1,7 +1,9 @@
 # Secret sword
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 85  
 **Accuracy:** 100  
 **PP:** 10  

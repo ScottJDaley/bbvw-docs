@@ -1,7 +1,9 @@
 # Gunk shot
 
+**TM/HM:** 
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 80  
 **PP:** 5  

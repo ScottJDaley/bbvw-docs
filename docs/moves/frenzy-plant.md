@@ -1,7 +1,9 @@
 # Frenzy plant
 
+**TM/HM:** 
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

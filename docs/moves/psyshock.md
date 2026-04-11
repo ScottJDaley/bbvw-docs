@@ -1,7 +1,9 @@
 # Psyshock
 
+**TM/HM:** TM03
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 10  

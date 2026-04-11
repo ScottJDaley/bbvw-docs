@@ -1,7 +1,9 @@
 # Air cutter
 
+**TM/HM:** 
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 95  
 **PP:** 25  

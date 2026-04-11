@@ -1,8 +1,10 @@
 # Bulldoze
 
+**TM/HM:** TM78
+
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 60  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span>  
 **Accuracy:** 100  
 **PP:** 20  
 

@@ -1,7 +1,9 @@
 # Fire blast
 
+**TM/HM:** TM38
+
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 110  
 **Accuracy:** 85  
 **PP:** 5  

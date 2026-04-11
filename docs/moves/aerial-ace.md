@@ -1,9 +1,11 @@
 # Aerial ace
 
+**TM/HM:** TM40
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
-**Accuracy:** None  
+**Accuracy:** -  
 **PP:** 20  
 
 ## Description

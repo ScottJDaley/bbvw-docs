@@ -1,7 +1,9 @@
 # Echoed voice
 
+**TM/HM:** TM49
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 15  

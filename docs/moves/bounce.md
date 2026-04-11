@@ -1,7 +1,9 @@
 # Bounce
 
+**TM/HM:** 
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 85  
 **Accuracy:** 85  
 **PP:** 5  

@@ -27259,7 +27259,273 @@
       }
     ]
   },
-  "move_stat_changes": {},
+  "move_stat_changes": {
+    "pin-missile": {},
+    "spike-cannon": {
+      "power": {
+        "old": 20,
+        "new": 25
+      }
+    },
+    "comet-punch": {
+      "power": {
+        "old": 18,
+        "new": 25
+      }
+    },
+    "arm-thrust": {
+      "power": {
+        "old": 15,
+        "new": 25
+      }
+    },
+    "absorb": {
+      "power": {
+        "old": 20,
+        "new": 50
+      }
+    },
+    "mega-drain": {
+      "power": {
+        "old": 40,
+        "new": 50
+      }
+    },
+    "incinerate": {
+      "power": {
+        "old": 60,
+        "new": 50
+      }
+    },
+    "struggle-bug": {},
+    "twister": {
+      "power": {
+        "old": 40,
+        "new": 50
+      }
+    },
+    "snarl": {
+      "power": {
+        "old": 55,
+        "new": 60
+      }
+    },
+    "cut": {
+      "power": {
+        "old": 50,
+        "new": 60
+      },
+      "accuracy": {
+        "old": 95,
+        "new": 100
+      },
+      "pp": {
+        "old": 30,
+        "new": 20
+      },
+      "type": {
+        "old": "normal",
+        "new": "grass"
+      }
+    },
+    "shadow-punch": {
+      "power": {
+        "old": 60,
+        "new": 70
+      }
+    },
+    "magnet-bomb": {
+      "power": {
+        "old": 60,
+        "new": 70
+      }
+    },
+    "shock-wave": {
+      "power": {
+        "old": 60,
+        "new": 70
+      }
+    },
+    "wing-attack": {
+      "power": {
+        "old": 60,
+        "new": 75
+      }
+    },
+    "flame-wheel": {
+      "power": {
+        "old": 60,
+        "new": 75
+      }
+    },
+    "ice-fang": {
+      "power": {
+        "old": 65,
+        "new": 75
+      }
+    },
+    "fire-fang": {
+      "power": {
+        "old": 65,
+        "new": 75
+      }
+    },
+    "thunder-fang": {
+      "power": {
+        "old": 65,
+        "new": 75
+      }
+    },
+    "bulldoze": {
+      "power": {
+        "old": 60,
+        "new": 80
+      }
+    },
+    "shadow-claw": {
+      "power": {
+        "old": 70,
+        "new": 80
+      }
+    },
+    "rock-slide": {
+      "power": {
+        "old": 75,
+        "new": 80
+      },
+      "accuracy": {
+        "old": 90,
+        "new": 95
+      }
+    },
+    "sky-drop": {
+      "power": {
+        "old": 60,
+        "new": 80
+      }
+    },
+    "steamroller": {
+      "power": {
+        "old": 65,
+        "new": 80
+      }
+    },
+    "fire-punch": {
+      "power": {
+        "old": 75,
+        "new": 80
+      }
+    },
+    "thunder-punch": {
+      "power": {
+        "old": 75,
+        "new": 80
+      }
+    },
+    "ice-punch": {
+      "power": {
+        "old": 75,
+        "new": 80
+      }
+    },
+    "strength": {
+      "power": {
+        "old": 80,
+        "new": 85
+      },
+      "type": {
+        "old": "normal",
+        "new": "rock"
+      }
+    },
+    "waterfall": {
+      "power": {
+        "old": 80,
+        "new": 85
+      }
+    },
+    "energy-ball": {},
+    "dark-pulse": {
+      "power": {
+        "old": 80,
+        "new": 90
+      }
+    },
+    "shadow-ball": {
+      "power": {
+        "old": 80,
+        "new": 90
+      }
+    },
+    "horn-leech": {
+      "power": {
+        "old": 75,
+        "new": 90
+      }
+    },
+    "needle-arm": {
+      "power": {
+        "old": 60,
+        "new": 90
+      }
+    },
+    "power-gem": {
+      "power": {
+        "old": 80,
+        "new": 90
+      }
+    },
+    "icicle-crash": {
+      "power": {
+        "old": 85,
+        "new": 90
+      }
+    },
+    "dig": {
+      "power": {
+        "old": 80,
+        "new": 100
+      }
+    },
+    "dive": {
+      "power": {
+        "old": 80,
+        "new": 100
+      }
+    },
+    "fly": {
+      "power": {
+        "old": 90,
+        "new": 100
+      },
+      "accuracy": {
+        "old": 95,
+        "new": 100
+      }
+    },
+    "grass-pledge": {
+      "power": {
+        "old": 80,
+        "new": 100
+      }
+    },
+    "night-daze": {
+      "power": {
+        "old": 85,
+        "new": 100
+      },
+      "accuracy": {
+        "old": 95,
+        "new": 90
+      }
+    },
+    "glaciate": {
+      "power": {
+        "old": 65,
+        "new": 100
+      }
+    }
+  },
   "trainers": {
     "Nuvema Town": [
       {

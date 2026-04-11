@@ -1,7 +1,9 @@
 # Discharge
 
+**TM/HM:** 
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 100  
 **PP:** 15  

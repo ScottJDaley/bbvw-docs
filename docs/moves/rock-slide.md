@@ -1,9 +1,11 @@
 # Rock slide
 
+**TM/HM:** TM80
+
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 75  
-**Accuracy:** 90  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">75</span>  
+**Accuracy:** <span style="color:green; font-weight:bold;">95</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span>  
 **PP:** 10  
 
 ## Description

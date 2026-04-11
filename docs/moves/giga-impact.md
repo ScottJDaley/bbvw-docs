@@ -1,7 +1,9 @@
 # Giga impact
 
+**TM/HM:** TM68
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

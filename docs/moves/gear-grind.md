@@ -1,7 +1,9 @@
 # Gear grind
 
+**TM/HM:** 
+
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 85  
 **PP:** 15  

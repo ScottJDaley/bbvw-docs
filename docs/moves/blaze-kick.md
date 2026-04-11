@@ -1,7 +1,9 @@
 # Blaze kick
 
+**TM/HM:** 
+
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 85  
 **Accuracy:** 90  
 **PP:** 10  

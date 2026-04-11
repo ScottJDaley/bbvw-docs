@@ -1,7 +1,9 @@
 # Rock throw
 
+**TM/HM:** 
+
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 90  
 **PP:** 15  

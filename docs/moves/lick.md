@@ -1,7 +1,9 @@
 # Lick
 
+**TM/HM:** 
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 30  
 **Accuracy:** 100  
 **PP:** 30  

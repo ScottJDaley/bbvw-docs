@@ -1,7 +1,9 @@
 # Flame charge
 
+**TM/HM:** TM43
+
 **Type:** ![fire](../img/types/fire.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 20  

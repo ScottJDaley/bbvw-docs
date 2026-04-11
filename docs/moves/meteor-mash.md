@@ -1,7 +1,9 @@
 # Meteor mash
 
+**TM/HM:** 
+
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 90  
 **PP:** 10  

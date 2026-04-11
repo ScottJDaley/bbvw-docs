@@ -1,7 +1,9 @@
 # Rock wrecker
 
+**TM/HM:** 
+
 **Type:** ![rock](../img/types/rock.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 150  
 **Accuracy:** 90  
 **PP:** 5  

@@ -1,7 +1,9 @@
 # Poison sting
 
+**TM/HM:** 
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 15  
 **Accuracy:** 100  
 **PP:** 35  

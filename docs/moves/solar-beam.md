@@ -1,7 +1,9 @@
 # Solar beam
 
+**TM/HM:** TM22
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 10  

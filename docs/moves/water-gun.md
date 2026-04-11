@@ -1,7 +1,9 @@
 # Water gun
 
+**TM/HM:** 
+
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 40  
 **Accuracy:** 100  
 **PP:** 25  

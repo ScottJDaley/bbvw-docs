@@ -1,7 +1,9 @@
 # Electroweb
 
+**TM/HM:** 
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 55  
 **Accuracy:** 95  
 **PP:** 15  

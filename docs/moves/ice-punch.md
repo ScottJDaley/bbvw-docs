@@ -1,8 +1,10 @@
 # Ice punch
 
+**TM/HM:** 
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 75  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">80</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">75</span>  
 **Accuracy:** 100  
 **PP:** 15  
 

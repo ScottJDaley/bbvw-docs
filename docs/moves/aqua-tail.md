@@ -1,7 +1,9 @@
 # Aqua tail
 
+**TM/HM:** 
+
 **Type:** ![water](../img/types/water.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 90  
 **PP:** 10  

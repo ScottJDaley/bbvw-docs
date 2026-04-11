@@ -1,9 +1,11 @@
 # Fly
 
+**TM/HM:** HM02
+
 **Type:** ![flying](../img/types/flying.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 90  
-**Accuracy:** 95  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">90</span>  
+**Accuracy:** <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span>  
 **PP:** 15  
 
 ## Description

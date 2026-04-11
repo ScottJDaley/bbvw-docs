@@ -1,9 +1,11 @@
 # Clear smog
 
+**TM/HM:** 
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 50  
-**Accuracy:** None  
+**Accuracy:** -  
 **PP:** 15  
 
 ## Description

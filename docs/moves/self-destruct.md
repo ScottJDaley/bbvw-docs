@@ -1,7 +1,9 @@
 # Self destruct
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 200  
 **Accuracy:** 100  
 **PP:** 5  

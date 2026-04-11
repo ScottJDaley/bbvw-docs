@@ -1,8 +1,10 @@
 # Kinesis
 
+**TM/HM:** 
+
 **Type:** ![psychic](../img/types/psychic.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 80  
 **PP:** 15  
 

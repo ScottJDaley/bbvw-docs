@@ -1,7 +1,9 @@
 # Shadow force
 
+**TM/HM:** 
+
 **Type:** ![ghost](../img/types/ghost.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 100  
 **PP:** 5  

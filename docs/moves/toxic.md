@@ -1,8 +1,10 @@
 # Toxic
 
+**TM/HM:** TM06
+
 **Type:** ![poison](../img/types/poison.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 90  
 **PP:** 10  
 

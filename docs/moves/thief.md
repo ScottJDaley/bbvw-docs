@@ -1,7 +1,9 @@
 # Thief
 
+**TM/HM:** TM46
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
 **PP:** 25  

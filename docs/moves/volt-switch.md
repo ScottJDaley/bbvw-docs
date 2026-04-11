@@ -1,7 +1,9 @@
 # Volt switch
 
+**TM/HM:** TM72
+
 **Type:** ![electric](../img/types/electric.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 20  

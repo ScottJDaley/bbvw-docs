@@ -1,9 +1,11 @@
 # Aura sphere
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 80  
-**Accuracy:** None  
+**Accuracy:** -  
 **PP:** 20  
 
 ## Description

@@ -1,7 +1,9 @@
 # Megahorn
 
+**TM/HM:** 
+
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 120  
 **Accuracy:** 85  
 **PP:** 10  

@@ -1,9 +1,11 @@
 # Night daze
 
+**TM/HM:** 
+
 **Type:** ![dark](../img/types/dark.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** 85  
-**Accuracy:** 95  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">85</span>  
+**Accuracy:** <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span>  
 **PP:** 10  
 
 ## Description

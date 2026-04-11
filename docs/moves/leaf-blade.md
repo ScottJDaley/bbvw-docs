@@ -1,7 +1,9 @@
 # Leaf blade
 
+**TM/HM:** 
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 15  

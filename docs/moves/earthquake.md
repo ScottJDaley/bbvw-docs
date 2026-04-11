@@ -1,7 +1,9 @@
 # Earthquake
 
+**TM/HM:** TM26
+
 **Type:** ![ground](../img/types/ground.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 100  
 **PP:** 10  

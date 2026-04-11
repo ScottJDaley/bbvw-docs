@@ -1,7 +1,9 @@
 # Struggle bug
 
+**TM/HM:** TM76
+
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 50  
 **Accuracy:** 100  
 **PP:** 20  

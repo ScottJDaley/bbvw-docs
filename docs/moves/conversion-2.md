@@ -1,9 +1,11 @@
 # Conversion 2
 
+**TM/HM:** 
+
 **Type:** ![normal](../img/types/normal.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
-**Accuracy:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
+**Accuracy:** -  
 **PP:** 30  
 
 ## Description

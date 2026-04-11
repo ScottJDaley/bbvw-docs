@@ -1,7 +1,9 @@
 # U turn
 
+**TM/HM:** TM89
+
 **Type:** ![bug](../img/types/bug.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 70  
 **Accuracy:** 100  
 **PP:** 20  

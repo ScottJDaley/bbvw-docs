@@ -1,7 +1,9 @@
 # Ice beam
 
+**TM/HM:** TM13
+
 **Type:** ![ice](../img/types/ice.png)  
-**Category:** ![special](../img/types/special.png)  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
 **PP:** 10  

@@ -1,10 +1,12 @@
 # Cut
 
-**Type:** ![normal](../img/types/normal.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 50  
-**Accuracy:** 95  
-**PP:** 30  
+**TM/HM:** HM01
+
+**Type:** ![grass](../img/types/grass.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">normal</span>  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">60</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">50</span>  
+**Accuracy:** <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">95</span>  
+**PP:** <span style="color:green; font-weight:bold;">20</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">30</span>  
 
 ## Description
 Inflicts regular damage with no additional effect.

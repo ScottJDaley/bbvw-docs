@@ -1,8 +1,10 @@
 # Arm thrust
 
+**TM/HM:** 
+
 **Type:** ![fighting](../img/types/fighting.png)  
-**Category:** ![physical](../img/types/physical.png)  
-**Power:** 15  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
+**Power:** <span style="color:green; font-weight:bold;">25</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">15</span>  
 **Accuracy:** 100  
 **PP:** 20  
 

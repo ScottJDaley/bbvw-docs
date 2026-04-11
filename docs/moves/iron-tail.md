@@ -1,7 +1,9 @@
 # Iron tail
 
+**TM/HM:** 
+
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![physical](../img/types/physical.png)  
+**Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 100  
 **Accuracy:** 75  
 **PP:** 15  

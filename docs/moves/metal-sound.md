@@ -1,8 +1,10 @@
 # Metal sound
 
+**TM/HM:** 
+
 **Type:** ![steel](../img/types/steel.png)  
-**Category:** ![status](../img/types/status.png)  
-**Power:** None  
+**Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 85  
 **PP:** 40  
 

@@ -1,8 +1,10 @@
 # Grass knot
 
+**TM/HM:** TM86
+
 **Type:** ![grass](../img/types/grass.png)  
-**Category:** ![special](../img/types/special.png)  
-**Power:** None  
+**Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
+**Power:** -  
 **Accuracy:** 100  
 **PP:** 20  
 
