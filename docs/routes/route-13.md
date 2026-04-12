@@ -1,7 +1,8 @@
 # Route 13
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 20% |
@@ -13,7 +14,7 @@
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 10% |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 20% |
@@ -25,7 +26,7 @@
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) | 10% |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 80% |
@@ -34,27 +35,27 @@
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) | 5% |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 60% |
 | ![corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 30% |
 | ![kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 10% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 65% |
 | ![krabby](../img/pokemon/098.png) | [Krabby](../pokemon/krabby.md) | 30% |
 | ![luvdisc](../img/pokemon/370.png) | [Luvdisc](../pokemon/luvdisc.md) | 5% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![shellder](../img/pokemon/090.png) | [Shellder](../pokemon/shellder.md) | 60% |
@@ -62,7 +63,8 @@
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 5% |
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Binding Band](../img/items/binding-band.png) [Binding Band](../items/binding-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Electirizer</span> |
@@ -70,16 +72,6 @@
 | ![Shed Shell](../img/items/shed-shell.png) [Shed Shell](../items/shed-shell.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Prism Scale</span> |
 | ![TM32 Double Team](../img/items/tm-normal.png) [TM32 Double Team](../items/tm32.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM29 Psychic</span> |
 | ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC)</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Binding Band](../img/items/binding-band.png) [Binding Band](../items/binding-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Electirizer</span> |
-| ![Grip Claw](../img/items/grip-claw.png) [Grip Claw](../items/grip-claw.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Claw</span> |
-| ![Shed Shell](../img/items/shed-shell.png) [Shed Shell](../items/shed-shell.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Prism Scale</span> |
-| ![TM32 Double Team](../img/items/tm-normal.png) [TM32 Double Team](../items/tm32.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM29 Psychic</span> |
-| ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC)</span> |
-
 
 ## Trainers
 ### Gym Leader Burgh

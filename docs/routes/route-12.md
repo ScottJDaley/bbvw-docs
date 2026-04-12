@@ -1,7 +1,8 @@
 # Route 12
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 20% |
@@ -10,7 +11,7 @@
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 10% |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 40% |
@@ -21,19 +22,15 @@
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) | 10% |
 | ![whirlipede](../img/pokemon/544.png) | [Whirlipede](../pokemon/whirlipede.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 95% |
 | ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 5% |
 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 5% |
 
-### Items
-| Item | Original |
-| --- | --- |
-| ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |
-
-## General Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |

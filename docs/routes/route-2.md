@@ -1,7 +1,8 @@
 # Route 2
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![purrloin](../img/pokemon/509.png) | [Purrloin](../pokemon/purrloin.md) | 20% |
@@ -15,7 +16,7 @@
 | ![spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) | 5% |
 | ![mankey](../img/pokemon/056.png) | [Mankey](../pokemon/mankey.md) | 5% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 60% |
@@ -26,42 +27,36 @@
 | ![beautifly](../img/pokemon/267.png) | [Beautifly](../pokemon/beautifly.md) | 5% |
 | ![dustox](../img/pokemon/269.png) | [Dustox](../pokemon/dustox.md) | 5% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pok Ball</span> |
 | ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pok Ball</span> |
-| ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
-
 
 ## Trainers
 ### Youngster Jimmy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) | 7 | - | - |  |
+| ![Wurmple](../img/pokemon/265.png) | [Wurmple](../pokemon/wurmple.md) | 7 | - | - |  |
+| ![Patrat](../img/pokemon/504.png) | [Patrat](../pokemon/patrat.md) | 7 | - | - |  |
 
 ### Lass Mail
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Pidgey](../img/pokemon/016.png) | [Pidgey](../pokemon/pidgey.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Caterpie](../img/pokemon/010.png) | [Caterpie](../pokemon/caterpie.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
+| ![Zigzagoon](../img/pokemon/263.png) | [Zigzagoon](../pokemon/zigzagoon.md) | 7 | - | - |  |
+| ![Meowth](../img/pokemon/052.png) | [Meowth](../pokemon/meowth.md) | 7 | - | - |  |
+| ![Pidgey](../img/pokemon/016.png) | [Pidgey](../pokemon/pidgey.md) | 7 | - | - |  |
+| ![Caterpie](../img/pokemon/010.png) | [Caterpie](../pokemon/caterpie.md) | 7 | - | - |  |
 
 ### Youngster Roland
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
-| ![Weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) | 7 | - | ![-](../img/items/unknown.png) - |  |
+| ![Lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) | 7 | - | - |  |
+| ![Bidoof](../img/pokemon/399.png) | [Bidoof](../pokemon/bidoof.md) | 7 | - | - |  |
+| ![Kricketot](../img/pokemon/401.png) | [Kricketot](../pokemon/kricketot.md) | 7 | - | - |  |
+| ![Weedle](../img/pokemon/013.png) | [Weedle](../pokemon/weedle.md) | 7 | - | - |  |
 
 ### Rival Bianca – 1
 **Battle Type:** Single Battle  
@@ -69,5 +64,5 @@
 #### Bianca’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | ![-](../img/items/unknown.png) - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
 

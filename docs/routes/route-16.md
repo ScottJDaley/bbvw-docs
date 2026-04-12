@@ -1,7 +1,8 @@
 # Route 16
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 20% |
@@ -15,7 +16,7 @@
 | ![drifloon](../img/pokemon/425.png) | [Drifloon](../pokemon/drifloon.md) | 5% |
 | ![spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) | 5% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 20% |
@@ -28,7 +29,7 @@
 | ![girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 5% |
 | ![castform](../img/pokemon/351.png) | [Castform](../pokemon/castform.md) | 5% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
@@ -36,51 +37,46 @@
 | ![bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 10% |
 | ![lopunny](../img/pokemon/428.png) | [Lopunny](../pokemon/lopunny.md) | 10% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![TM03 Psyshock](../img/items/tm-psychic.png) [TM03 Psyshock](../items/tm03.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Rare Candy</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![TM03 Psyshock](../img/items/tm-psychic.png) [TM03 Psyshock](../items/tm03.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Rare Candy</span> |
-
 
 ## Trainers
 ### Cycling Hector
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) | 30 | - | - |  |
+| ![Ponyta](../img/pokemon/077.png) | [Ponyta](../pokemon/ponyta.md) | 30 | - | - |  |
 
 ### Backpacker Peter
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) | 30 | - | - |  |
+| ![Prinplup](../img/pokemon/394.png) | [Prinplup](../pokemon/prinplup.md) | 30 | - | - |  |
 
 ### Cycling Krissa
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Archen](../img/pokemon/566.png) | [Archen](../pokemon/archen.md) | 30 | - | - |  |
+| ![Grotle](../img/pokemon/388.png) | [Grotle](../pokemon/grotle.md) | 30 | - | - |  |
 
 ### Policeman Daniel
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Houndoom](../img/pokemon/229.png) | [Houndoom](../pokemon/houndoom.md) | 30 | - | - |  |
+| ![Magmar](../img/pokemon/126.png) | [Magmar](../pokemon/magmar.md) | 30 | - | - |  |
 
 ### Backpacker Lora
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 30 | - | - |  |
+| ![Monferno](../img/pokemon/391.png) | [Monferno](../pokemon/monferno.md) | 30 | - | - |  |
 
 ### Backpacker Stephen
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
-| ![Ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 30 | - | ![-](../img/items/unknown.png) - |  |
+| ![Corphish](../img/pokemon/341.png) | [Corphish](../pokemon/corphish.md) | 30 | - | - |  |
+| ![Ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 30 | - | - |  |
 

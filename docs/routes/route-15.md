@@ -1,7 +1,8 @@
 # Route 15
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 20% |
@@ -13,7 +14,7 @@
 | ![kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 10% |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) | 20% |
@@ -25,7 +26,7 @@
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 10% |
 | ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
@@ -35,18 +36,12 @@
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 5% |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 5% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
 | ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
-| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
-
 
 ## Trainers
 ### Gym Leader Iris

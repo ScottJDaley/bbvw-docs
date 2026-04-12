@@ -1,7 +1,8 @@
 # Route 14
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) | 20% |
@@ -13,7 +14,7 @@
 | ![carnivine](../img/pokemon/455.png) | [Carnivine](../pokemon/carnivine.md) | 10% |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 20% |
@@ -25,49 +26,43 @@
 | ![tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 10% |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 75% |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 25% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 60% |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 60% |
 | ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 40% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Light Clay](../img/items/light-clay.png) [Light Clay](../items/light-clay.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Reaper Cloth</span> |
 | ![Choice Band](../img/items/choice-band.png) [Choice Band](../items/choice-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM08 Bulk Up (NPC)</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Light Clay](../img/items/light-clay.png) [Light Clay](../items/light-clay.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Reaper Cloth</span> |
-| ![Choice Band](../img/items/choice-band.png) [Choice Band](../items/choice-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM08 Bulk Up (NPC)</span> |
-
 
 ## Trainers
 ### Gym Leader Clay

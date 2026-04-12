@@ -1,7 +1,8 @@
 # Marvelous Bridge
 
-## General
-### ![Bridge, Special](../img/items/grass-normal.png) Bridge, Special
+## Encounters
+### General
+#### ![Bridge, Special](../img/items/grass-normal.png) Bridge, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![swanna](../img/pokemon/581.png) | [Swanna](../pokemon/swanna.md) | 20% |
@@ -10,3 +11,4 @@
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) | 20% |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 20% |
 
+## Items

@@ -1,7 +1,8 @@
 # Abundant Shrine
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) | 20% |
@@ -13,7 +14,7 @@
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 10% |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) | 20% |
@@ -25,7 +26,7 @@
 | ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 10% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
@@ -35,42 +36,36 @@
 | ![whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 5% |
 | ![lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![slowpoke](../img/pokemon/079.png) | [Slowpoke](../pokemon/slowpoke.md) | 100% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 60% |
 | ![slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) | 40% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
 | ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
-| ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
-
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili

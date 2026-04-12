@@ -1,7 +1,8 @@
 # Route 1
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![lillipup](../img/pokemon/506.png) | [Lillipup](../pokemon/lillipup.md) | 20% |
@@ -13,7 +14,7 @@
 | ![starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) | 10% |
 | ![hoothoot](../img/pokemon/163.png) | [Hoothoot](../pokemon/hoothoot.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![herdier](../img/pokemon/507.png) | [Herdier](../pokemon/herdier.md) | 20% |
@@ -27,35 +28,35 @@
 | ![staravia](../img/pokemon/397.png) | [Staravia](../pokemon/staravia.md) | 5% |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) | 5% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 80% |
 | ![happiny](../img/pokemon/440.png) | [Happiny](../pokemon/happiny.md) | 10% |
 | ![azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) | 10% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |
 | ![marill](../img/pokemon/183.png) | [Marill](../pokemon/marill.md) | 30% |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 10% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) | 30% |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 10% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |
 | ![magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 30% |
 | ![feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 10% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |
@@ -63,24 +64,24 @@
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 5% |
 | ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 5% |
 
-
+## Items
 ## Trainers
 ### PKMN Ranger Brenda
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
-| ![Absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
+| ![Vaporeon](../img/pokemon/134.png) | [Vaporeon](../pokemon/vaporeon.md) | 52 | - | - |  |
+| ![Absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 52 | - | - |  |
 
 ### PKMN Ranger Claude
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
-| ![Lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
+| ![Drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) | 52 | - | - |  |
+| ![Lickilicky](../img/pokemon/463.png) | [Lickilicky](../pokemon/lickilicky.md) | 52 | - | - |  |
 
 ### Fisherman Sean
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
-| ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
-| ![Kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
+| ![Seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 50 | - | - |  |
+| ![Seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 50 | - | - |  |
+| ![Kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 50 | - | - |  |
 

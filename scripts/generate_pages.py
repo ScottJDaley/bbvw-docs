@@ -340,14 +340,11 @@ def generate_ability_page(name, info, pkmn_list, base_data):
     return md
 
 def generate_item_page(name, info, route_locations, pkmn_with_item, move_data):
-    norm = normalize_item_name(name)
-    icon = get_item_icon(name, move_data)
-    md = f"# ![icon]({icon}) {name}\n\n"
-    md += f"**Category:** {info.get('category', 'Misc').capitalize()}\n\n"
-    md += f"## Description\n{info.get('description', 'No description available.')}\n\n"
+    norm = normalize_item_name(name); icon = get_item_icon(name, move_data)
+    md = f"# ![icon]({icon}) {name}\n\n**Category:** {info.get('category', 'Misc').capitalize()}\n\n## Description\n{info.get('description', 'No description available.')}\n\n"
     if route_locations:
         md += "## Locations\n| Route | Type |\n| --- | --- |\n"
-        for loc, l_type in route_locations: md += f"| [{loc}](../routes/{normalize_name(loc)}.md) | {l_type} |\n"
+        for loc, l_type in sorted(route_locations): md += f"| [{loc}](../routes/{normalize_name(loc)}.md) | {l_type} |\n"
         md += "\n"
     if pkmn_with_item:
         md += "## Held by Wild Pokemon\n| Sprite | Pokemon |\n| --- | --- |\n"
@@ -356,12 +353,12 @@ def generate_item_page(name, info, route_locations, pkmn_with_item, move_data):
             if p_info: md += f"| ![{pn}](../img/pokemon/{p_info['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"
     return md
 
-def generate_route_page(name, r_d, base_data, t_d, item_changes):
+def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
     md = f"# {name}\n\n"
-    items_for_route = item_changes.get(name, {})
     if r_d:
+        md += "## Encounters\n"
         for sc in r_d['sections']:
-            md += f"## {sc['title']}\n"
+            md += f"### {sc['title']}\n"
             ms = {}
             for ec in sc['encounters']: ms[ec['method']] = ms.get(ec['method'], []) + [ec]
             for m, ecs in ms.items():
@@ -371,24 +368,41 @@ def generate_route_page(name, r_d, base_data, t_d, item_changes):
                 elif 'cave' in ml: icon = "cave-normal.png"
                 elif 'surf' in ml: icon = "surf-normal.png"
                 elif 'fish' in ml: icon = "fishing-normal.png"
-                md += f"### ![{m}](../img/items/{icon}) {m}\n| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
+                md += f"#### ![{m}](../img/items/{icon}) {m}\n| Sprite | Pokemon | Rate |\n| --- | --- | --- |\n"
                 for ec in ecs:
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
                 md += "\n"
-            sub_items = items_for_route.get(sc['title'], [])
-            if sub_items:
-                md += "### Items\n| Item | Original |\n| --- | --- |\n"
-                for change in sub_items: md += f"| {get_item_display_linked(change['new'], base_data)} | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{change['old']}</span> |\n"
-                md += "\n"
-    gen_items = items_for_route.get('General', [])
-    if gen_items:
-        md += "## General Items\n| Item | Original |\n| --- | --- |\n"
-        for change in gen_items: md += f"| {get_item_display_linked(change['new'], base_data)} | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{change['old']}</span> |\n"
+    
+    # Combined items section
+    md += "## Items\n"
+    base_loc_items = base_data.get('location_items', {}).get(name, {})
+    rom_loc_items = rom_item_changes.get(name, {})
+    all_subareas = sorted(set(list(base_loc_items.keys()) + list(rom_loc_items.keys())))
+    
+    for sub in all_subareas:
+        md += f"### {sub}\n| Item | Original |\n| --- | --- |\n"
+        sub_rom = rom_loc_items.get(sub, [])
+        sub_base = base_loc_items.get(sub, [])
+        
+        processed_base = set()
+        # 1. Show ROM changes (replacements)
+        for change in sub_rom:
+            old_norm = normalize_item_name(change['old'])
+            md += f"| {get_item_display_linked(change['new'], base_data)} | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{change['old']}</span> |\n"
+            # Mark this base item as processed if it matches exactly
+            for b in sub_base:
+                if normalize_item_name(b['name']) == old_norm: processed_base.add(b['name'])
+        
+        # 2. Show remaining base items
+        for b in sub_base:
+            if b['name'] not in processed_base:
+                md += f"| {get_item_display_linked(b['name'].replace('-', ' ').capitalize(), base_data)} | |\n"
         md += "\n"
+
     lt = t_d.get(name)
     if lt:
-        md += "\n## Trainers\n"
+        md += "## Trainers\n"
         gs = {}
         for t in lt: h = t.get('group_header', ''); gs[h] = gs.get(h, []) + [t]
         for h, teams in gs.items():
@@ -407,7 +421,7 @@ def generate_route_page(name, r_d, base_data, t_d, item_changes):
                 for p in team['pokemon']:
                     pn = normalize_name(p['name']); p_base = base_data['pokemon'].get(pn)
                     sprite = f'![{p["name"]}](../img/pokemon/{p_base["id"]:03}.png)' if p_base else ""
-                    md += f"| {sprite} | [{get_display_name(p['name'])}](../pokemon/{pn}.md) | {p['level']} | {p['ability']} | {get_item_display_linked(p['item'], base_data)} | {', '.join(p['moves'])} |\n"
+                    md += f"| {sprite} | [{get_display_name(p['name'])}](../pokemon/{pn}.md) | {p['level']} | {p['ability']} | {get_item_display_linked(p['item'], base_data) if p['item'] != '-' else '-'} | {', '.join(p['moves'])} |\n"
                 md += "\n"
     return md
 
@@ -483,6 +497,12 @@ if __name__ == "__main__":
         for sub_n, changes in subareas.items():
             for c in changes:
                 inorm = normalize_item_name(c['new'])
+                (item_route_locs[inorm].append((r_n, sub_n)) if inorm in item_route_locs else item_route_locs.update({inorm: [(r_n, sub_n)]}))
+    # Add base game locations to item pages
+    for r_n, subareas in base_data.get('location_items', {}).items():
+        for sub_n, items in subareas.items():
+            for it in items:
+                inorm = normalize_item_name(it['name'])
                 (item_route_locs[inorm].append((r_n, sub_n)) if inorm in item_route_locs else item_route_locs.update({inorm: [(r_n, sub_n)]}))
     for p_n, p_c in rom['pokemon_changes'].items():
         if p_c.get('items'):

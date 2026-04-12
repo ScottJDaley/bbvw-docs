@@ -1,7 +1,8 @@
 # Village Bridge
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) | 20% |
@@ -13,7 +14,7 @@
 | ![farfetchd](../img/pokemon/083.png) | [Farfetch'd](../pokemon/farfetchd.md) | 10% |
 | ![chatot](../img/pokemon/441.png) | [Chatot](../pokemon/chatot.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![flaaffy](../img/pokemon/180.png) | [Flaaffy](../pokemon/flaaffy.md) | 20% |
@@ -22,7 +23,7 @@
 | ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) | 20% |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 75% |
@@ -31,32 +32,32 @@
 | ![exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) | 5% |
 | ![roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 60% |
 | ![jellicent](../img/pokemon/593.png) | [Jellicent](../pokemon/jellicent.md) | 40% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 70% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 60% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 10% |
 
-
+## Items
 ## Trainers
 ### Gym Leader Lenora
 **Battle Type:** Double Battle (Initial) / Single Battle (Rematch)  

@@ -1,7 +1,8 @@
 # Challenger’s Cave
 
-## 1F
-### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+## Encounters
+### 1F
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 20% |
@@ -29,7 +30,7 @@
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 10% |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 10% |
 
-### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
@@ -39,26 +40,26 @@
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![psyduck](../img/pokemon/054.png) | [Psyduck](../pokemon/psyduck.md) | 90% |
 | ![tentacool](../img/pokemon/072.png) | [Tentacool](../pokemon/tentacool.md) | 10% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 60% |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 30% |
 | ![starmie](../img/pokemon/121.png) | [Starmie](../pokemon/starmie.md) | 10% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 90% |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 10% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 60% |
@@ -66,7 +67,7 @@
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
 
-
+## Items
 ## Trainers
 ### Gym Leader Drayden
 **Battle Type:** Rotation Battle  

@@ -1,7 +1,8 @@
 # Route 6
 
-## Spring / Summer / Autumn
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### Spring / Summer / Autumn
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) | 20% |
@@ -25,7 +26,7 @@
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 20% |
@@ -49,7 +50,7 @@
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 80% |
@@ -61,7 +62,7 @@
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 5% |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
@@ -71,7 +72,7 @@
 | ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
@@ -81,7 +82,7 @@
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 30% |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 10% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
@@ -90,7 +91,7 @@
 | ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
@@ -99,7 +100,8 @@
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 30% |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 10% |
 
-## General Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![TM53 Energy Ball](../img/items/tm-grass.png) [TM53 Energy Ball](../items/tm53.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
@@ -107,51 +109,50 @@
 | ![Starf Berry * 3](../img/items/starf-berry.png) Starf Berry * 3 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
 | ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone</span> |
 
-
 ## Trainers
 ### Scientist William
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | - |  |
 
 ### PKMN Ranger Shanti
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
-| ![Whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
+| ![Whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | - |  |
 
 ### Parasol Lady Nicole
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | - |  |
+| ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | - |  |
+| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | - |  |
 
 ### Scientist Ron
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
+| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
+| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | - |  |
 
 ### Scientist Maria
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | - |  |
+| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | - |  |
+| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | - |  |
 
 ### Parasol Lady Tihana
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | - |  |
+| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | - |  |
+| ![Milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | - |  |
 
 ### PKMN Ranger Richard
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
-| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | - |  |
+| ![Sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | - |  |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | - |  |
 

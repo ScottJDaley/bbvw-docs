@@ -78,6 +78,7 @@ def fetch_all_data():
     move_data = {}
     ability_data = {}
     item_data = {}
+    location_items = {}
     
     print("Fetching Pokemon data...")
     for i in range(1, GEN5_MAX_POKEMON + 1):
@@ -150,6 +151,39 @@ def fetch_all_data():
                 break
         ability_data[aname] = { 'name': aname, 'description': desc }
 
+    print("Fetching Unova Location data...")
+    unova = get_json(f"{BASE_URL}/region/unova", "region_unova")
+    if unova:
+        for loc_resource in unova['locations']:
+            loc_data = get_json(loc_resource['url'], f"location_{loc_resource['name']}")
+            if not loc_data: continue
+            
+            loc_name = loc_resource['name'].replace('-', ' ').capitalize()
+            # Simple normalization for route names
+            if loc_name.lower().startswith('route'):
+                parts = loc_name.split()
+                if len(parts) > 1: loc_name = f"Route {parts[1]}"
+
+            for area_resource in loc_data['areas']:
+                area_data = get_json(area_resource['url'], f"area_{area_resource['name']}")
+                if not area_data: continue
+                
+                area_name = area_resource['name'].replace(loc_resource['name'], '').replace('-', ' ').strip().capitalize() or "General"
+                
+                for item_enc in area_data.get('item_encounters', []):
+                    # Filter for Gen 5 versions
+                    v_name = item_enc['version']['name']
+                    if v_name in ['black', 'white', 'black-2', 'white-2']:
+                        if loc_name not in location_items: location_items[loc_name] = {}
+                        if area_name not in location_items[loc_name]: location_items[loc_name][area_name] = []
+                        
+                        item_name = item_enc['item']['name']
+                        if item_name not in [i['name'] for i in location_items[loc_name][area_name]]:
+                            location_items[loc_name][area_name].append({
+                                'name': item_name,
+                                'version': v_name
+                            })
+
     print("Fetching Item data...")
     items_to_fetch = set()
     # TMs/HMs
@@ -160,16 +194,19 @@ def fetch_all_data():
     common_items = ['pokeball', 'great-ball', 'ultra-ball', 'master-ball', 'potion', 'super-potion', 'hyper-potion', 'max-potion', 'full-restore', 'revive', 'max-revive', 'full-heal', 'antidote', 'burn-heal', 'ice-heal', 'awakening', 'paralyze-heal', 'escape-rope', 'repel', 'super-repel', 'max-repel', 'exp-share', 'lucky-egg', 'bicycle', 'super-rod', 'old-rod', 'good-rod', 'everstone', 'oval-stone', 'sun-stone', 'shiny-stone', 'thunder-stone', 'leaf-stone', 'fire-stone', 'water-stone', 'dusk-stone', 'dawn-stone', 'razor-fang', 'razor-claw', 'prism-scale', 'protector', 'reaper-cloth', 'dubious-disc', 'electirizer', 'magmarizer', 'up-grade', 'dragon-scale', 'metal-coat', 'kings-rock', 'soothe-bell', 'amulet-coin', 'lucky-punch', 'quick-powder', 'thick-club', 'stick', 'light-ball', 'choice-band', 'choice-specs', 'choice-scarf', 'life-orb', 'focus-sash', 'focus-band', 'expert-belt', 'muscle-band', 'wise-glasses', 'metronome', 'binding-band', 'grip-claw', 'shed-shell', 'light-clay', 'black-sludge', 'zoom-lens', 'wide-lens', 'power-herb', 'white-herb', 'mental-herb', 'air-balloon', 'soul-dew', 'rage-candy-bar', 'old-amber', 'helix-fossil', 'dome-fossil', 'root-fossil', 'claw-fossil', 'skull-fossil', 'armor-fossil', 'cover-fossil', 'plume-fossil']
     for item in common_items: items_to_fetch.add(item)
 
+    # Add items from locations
+    for loc in location_items.values():
+        for area in loc.values():
+            for it in area: items_to_fetch.add(normalize_item_name(it['name']))
+
     # Parse Item & Trade Changes.txt for more items
     try:
         with open(os.path.join("Documentation", "Item & Trade Changes.txt"), 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
-            # Extract all item names between " -> " or listed in the "edited into Use items" section
             matches = re.findall(r'(\w+(?:\s+\w+)*)(?:\s+\* \d+)?\s*->\s*(\w+(?:\s+\w+)*)', content)
             for m in matches:
                 items_to_fetch.add(normalize_item_name(m[0]))
                 items_to_fetch.add(normalize_item_name(m[1]))
-            # Handle "Use" items section
             use_match = re.search(r'edited into "Use" items:\n---\n(.*?)\n\n', content, re.DOTALL)
             if use_match:
                 for line in use_match.group(1).split('\n'):
@@ -205,7 +242,8 @@ def fetch_all_data():
             'pokemon': pokemon_base,
             'moves': move_data,
             'abilities': ability_data,
-            'items': item_data
+            'items': item_data,
+            'location_items': location_items
         }, f, indent=2)
 
 if __name__ == "__main__":

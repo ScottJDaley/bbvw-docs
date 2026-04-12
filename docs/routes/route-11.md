@@ -1,7 +1,8 @@
 # Route 11
 
-## General
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### General
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![golduck](../img/pokemon/055.png) | [Golduck](../pokemon/golduck.md) | 20% |
@@ -10,7 +11,7 @@
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 10% |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) | 20% |
@@ -22,7 +23,7 @@
 | ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) | 10% |
 | ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 70% |
@@ -32,42 +33,37 @@
 | ![gliscor](../img/pokemon/472.png) | [Gliscor](../pokemon/gliscor.md) | 5% |
 | ![staraptor](../img/pokemon/398.png) | [Staraptor](../pokemon/staraptor.md) | 5% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 60% |
 | ![floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![dratini](../img/pokemon/147.png) | [Dratini](../pokemon/dratini.md) | 60% |
 | ![dragonair](../img/pokemon/148.png) | [Dragonair](../pokemon/dragonair.md) | 35% |
 | ![dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 5% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 70% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 60% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
-### Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
-
-## General Items
-| Item | Original |
-| --- | --- |
-| ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
-
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili

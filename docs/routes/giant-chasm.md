@@ -1,7 +1,8 @@
 # Giant Chasm
 
-## Outside Area
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+## Encounters
+### Outside Area
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 20% |
@@ -13,7 +14,7 @@
 | ![mothim](../img/pokemon/414.png) | [Mothim](../pokemon/mothim.md) | 10% |
 | ![pelipper](../img/pokemon/279.png) | [Pelipper](../pokemon/pelipper.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 20% |
@@ -25,7 +26,7 @@
 | ![weepinbell](../img/pokemon/070.png) | [Weepinbell](../pokemon/weepinbell.md) | 10% |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 80% |
@@ -34,8 +35,8 @@
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) | 5% |
 | ![nidoqueen](../img/pokemon/031.png) | [Nidoqueen](../pokemon/nidoqueen.md) | 5% |
 
-## Outside Area
-### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+### Outside Area
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) | 20% |
@@ -47,38 +48,38 @@
 | ![graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 10% |
 | ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
 
-### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 100% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 60% |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![walrein](../img/pokemon/365.png) | [Walrein](../pokemon/walrein.md) | 100% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![poliwag](../img/pokemon/060.png) | [Poliwag](../pokemon/poliwag.md) | 65% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 5% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 65% |
 | ![basculin](../img/pokemon/550.png) | [Baculin](../pokemon/basculin.md) | 30% |
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
 
-## Outside Area
-### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+### Outside Area
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![clefairy](../img/pokemon/035.png) | [Clefairy](../pokemon/clefairy.md) | 20% |
@@ -90,7 +91,7 @@
 | ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 10% |
 | ![porygon](../img/pokemon/137.png) | [Porygon](../pokemon/porygon.md) | 10% |
 
-### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 20% |
@@ -102,7 +103,7 @@
 | ![metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) | 10% |
 | ![ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) | 10% |
 
-### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 80% |
@@ -111,7 +112,8 @@
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 5% |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 5% |
 
-## General Items
+## Items
+### General
 | Item | Original |
 | --- | --- |
 | ![Rare Candy * 50](../img/items/rare-candy.png) [Rare Candy * 50](../items/rare-candy.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM03 Psyshock</span> |

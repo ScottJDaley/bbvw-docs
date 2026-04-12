@@ -1,7 +1,8 @@
 # Icirrus City, Route 8
 
-## General
-### ![Puddle, Normal](../img/items/grass-normal.png) Puddle, Normal
+## Encounters
+### General
+#### ![Puddle, Normal](../img/items/grass-normal.png) Puddle, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 20% |
@@ -17,28 +18,29 @@
 | ![weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) | 1% |
 | ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 1% |
 
-### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 60% |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 40% |
 
-### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 60% |
 | ![seismitoad](../img/pokemon/537.png) | [Seismitoad](../pokemon/seismitoad.md) | 40% |
 
-### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 70% |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 
-### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![barboach](../img/pokemon/339.png) | [Barboach](../pokemon/barboach.md) | 60% |
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
 
+## Items

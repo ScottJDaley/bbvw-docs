@@ -1,2 +1,4 @@
 # Liberty Garden
 
+## Encounters
+## Items
