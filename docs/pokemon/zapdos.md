@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Salac Berry](../img/items/salac-berry.png) Salac Berry (100%)
+- ![Salac Berry (100%)](../img/items/unknown.png) Salac Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

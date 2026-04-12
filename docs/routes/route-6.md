@@ -10,7 +10,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -20,7 +20,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -34,7 +34,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 5% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 5% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -44,7 +44,7 @@
 | ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
 | ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
 | ![xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 5% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 5% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
@@ -99,51 +99,59 @@
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 30% |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 10% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![TM53 Energy Ball](../img/items/tm-grass.png) [TM53 Energy Ball](../items/tm53.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Dusk Stone * 6](../img/items/dusk-stone.png) [Dusk Stone * 6](../items/dusk-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Shiny Stone (NPC)</span> |
+| ![Starf Berry * 3](../img/items/starf-berry.png) Starf Berry * 3 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
+| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone</span> |
+
 
 ## Trainers
 ### Scientist William
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | - |  |
+| ![Sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
 
 ### PKMN Ranger Shanti
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | - |  |
-| ![Whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | - |  |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Whimsicott](../img/pokemon/547.png) | [Whimsicott](../pokemon/whimsicott.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Parasol Lady Nicole
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | - |  |
-| ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | - |  |
-| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | - |  |
+| ![Lilligant](../img/pokemon/549.png) | [Lilligant](../pokemon/lilligant.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Alomomola](../img/pokemon/594.png) | [Alomomola](../pokemon/alomomola.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Jumpluff](../img/pokemon/189.png) | [Jumpluff](../pokemon/jumpluff.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Scientist Ron
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | - |  |
-| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | - |  |
-| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | - |  |
+| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Electrode](../img/pokemon/101.png) | [Electrode](../pokemon/electrode.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Scientist Maria
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | - |  |
-| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | - |  |
-| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | - |  |
+| ![Gastrodon](../img/pokemon/423.png) | [Gastrodon](../pokemon/gastrodon.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Parasect](../img/pokemon/047.png) | [Parasect](../pokemon/parasect.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Parasol Lady Tihana
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | - |  |
-| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | - |  |
-| ![Milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | - |  |
+| ![Corsola](../img/pokemon/222.png) | [Corsola](../pokemon/corsola.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Tropius](../img/pokemon/357.png) | [Tropius](../pokemon/tropius.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 
 ### PKMN Ranger Richard
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | - |  |
-| ![Sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | - |  |
-| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | - |  |
+| ![Pignite](../img/pokemon/499.png) | [Pignite](../pokemon/pignite.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 

@@ -111,3 +111,9 @@
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 5% |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 5% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Rare Candy * 50](../img/items/rare-candy.png) [Rare Candy * 50](../items/rare-candy.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM03 Psyshock</span> |
+| ![God Stone](../img/items/god-stone.png) God Stone | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM13 Ice Beam</span> |
+

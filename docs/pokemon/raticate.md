@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Chilan Berry](../img/items/chilan-berry.png) Chilan Berry (50%)
+- ![Chilan Berry (50%)](../img/items/unknown.png) Chilan Berry (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

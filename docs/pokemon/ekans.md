@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Kebia Berry](../img/items/kebia-berry.png) Kebia Berry (5%)
+- ![Kebia Berry (5%)](../img/items/unknown.png) Kebia Berry (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

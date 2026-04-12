@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Sharp Beak](../img/items/sharp-beak.png) Sharp Beak (5%)
+- ![Sharp Beak (5%)](../img/items/unknown.png) Sharp Beak (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

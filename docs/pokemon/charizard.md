@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Charcoal](../img/items/charcoal.png) Charcoal (50%)
+- ![Charcoal (50%)](../img/items/unknown.png) Charcoal (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

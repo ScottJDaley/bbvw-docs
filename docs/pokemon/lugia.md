@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Ganlon Berry](../img/items/ganlon-berry.png) Ganlon Berry (100%)
+- ![Ganlon Berry (100%)](../img/items/unknown.png) Ganlon Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

@@ -75,10 +75,10 @@
 #### Drayden’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 93 | Intimidate | White Herb | Earthquake, Dragon Claw, Fly |
-| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 93 | Blaze | Life Orb | Fire Blast, SolarBeam, Dragon Pulse |
-| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 93 | Sheer Force | Life Orb | Dragon Claw, Superpower, Rock Slide |
-| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 93 | Mold Breaker | Life Orb | Earthquake, Dragon Dance, Outrage |
-| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 93 | Sniper | White Herb | Draco Meteor, Waterfall, Outrage |
-| ![Hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) | 95 | Levitate | White Herb | Fire Blast, Dark Pulse, Focus Blast |
+| ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 93 | Intimidate | ![White Herb](../img/items/white-herb.png) [White Herb](../items/white-herb.md) | Earthquake, Dragon Claw, Fly |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 93 | Blaze | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Fire Blast, SolarBeam, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 93 | Sheer Force | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Dragon Claw, Superpower, Rock Slide |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 93 | Mold Breaker | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Earthquake, Dragon Dance, Outrage |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 93 | Sniper | ![White Herb](../img/items/white-herb.png) [White Herb](../items/white-herb.md) | Draco Meteor, Waterfall, Outrage |
+| ![Hydreigon](../img/pokemon/635.png) | [Hydreigon](../pokemon/hydreigon.md) | 95 | Levitate | ![White Herb](../img/items/white-herb.png) [White Herb](../items/white-herb.md) | Fire Blast, Dark Pulse, Focus Blast |
 

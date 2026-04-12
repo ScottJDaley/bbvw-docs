@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Jaboca Berry](../img/items/jaboca-berry.png) Jaboca Berry (100%)
+- ![Jaboca Berry (100%)](../img/items/unknown.png) Jaboca Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

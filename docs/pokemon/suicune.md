@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Rowap Berry](../img/items/rowap-berry.png) Rowap Berry (100%)
+- ![Rowap Berry (100%)](../img/items/unknown.png) Rowap Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

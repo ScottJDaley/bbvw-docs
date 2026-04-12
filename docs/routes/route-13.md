@@ -62,6 +62,24 @@
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 5% |
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Binding Band](../img/items/binding-band.png) [Binding Band](../items/binding-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Electirizer</span> |
+| ![Grip Claw](../img/items/grip-claw.png) [Grip Claw](../items/grip-claw.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Claw</span> |
+| ![Shed Shell](../img/items/shed-shell.png) [Shed Shell](../items/shed-shell.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Prism Scale</span> |
+| ![TM32 Double Team](../img/items/tm-normal.png) [TM32 Double Team](../items/tm32.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM29 Psychic</span> |
+| ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC)</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Binding Band](../img/items/binding-band.png) [Binding Band](../items/binding-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Electirizer</span> |
+| ![Grip Claw](../img/items/grip-claw.png) [Grip Claw](../items/grip-claw.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Claw</span> |
+| ![Shed Shell](../img/items/shed-shell.png) [Shed Shell](../items/shed-shell.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Prism Scale</span> |
+| ![TM32 Double Team](../img/items/tm-normal.png) [TM32 Double Team](../items/tm32.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM29 Psychic</span> |
+| ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC)</span> |
+
 
 ## Trainers
 ### Gym Leader Burgh
@@ -71,12 +89,12 @@
 #### Burgh’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 87 | Speed Boost | Occa Berry | Bug Buzz, Air Slash, Psychic, Shadow Ball |
-| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 87 | Sturdy | White Herb | Shell Smash, Stone Edge, X-Scissor, Earthquake |
-| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 87 | Technician | Life Orb | Bullet Punch, Bug Bite, Superpower, Pursuit |
-| ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 87 | Tinted Lens | Starf Berry | Quiver Dance, Bug Buzz, Sludge Bomb, Sleep Powder |
-| ![Scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) | 87 | Swarm | Liechi Berry | Megahorn, Toxic Spikes, Spikes, Rock Slide |
-| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 89 | Swarm | Focus Sash | X-Scissor, Leaf Blade, Agility, Shadow Claw |
+| ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 87 | Speed Boost | ![Occa Berry](../img/items/occa-berry.png) Occa Berry | Bug Buzz, Air Slash, Psychic, Shadow Ball |
+| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 87 | Sturdy | ![White Herb](../img/items/white-herb.png) [White Herb](../items/white-herb.md) | Shell Smash, Stone Edge, X-Scissor, Earthquake |
+| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 87 | Technician | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Bullet Punch, Bug Bite, Superpower, Pursuit |
+| ![Venomoth](../img/pokemon/049.png) | [Venomoth](../pokemon/venomoth.md) | 87 | Tinted Lens | ![Starf Berry](../img/items/starf-berry.png) Starf Berry | Quiver Dance, Bug Buzz, Sludge Bomb, Sleep Powder |
+| ![Scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) | 87 | Swarm | ![Liechi Berry](../img/items/liechi-berry.png) Liechi Berry | Megahorn, Toxic Spikes, Spikes, Rock Slide |
+| ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 89 | Swarm | ![Focus Sash](../img/items/focus-sash.png) [Focus Sash](../items/focus-sash.md) | X-Scissor, Leaf Blade, Agility, Shadow Claw |
 
 ### Gym Leader Elesa
 **Battle Type:** Single Battle  
@@ -85,10 +103,10 @@
 #### Elesa’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 88 | Static | Starf Berry | Baton Pass, Agility, Thunder, Light Screen |
-| ![Electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) | 88 | Motor Drive | Sitrus Berry | Volt Tackle*, Cross Chop, Ice Punch, Earthquake |
-| ![Jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 88 | Volt Absorb | Starf Berry | Thunder, Shadow Ball, Baton Pass, Thunder Wave |
-| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 88 | Levitate | Flying Gem | Acrobatics, Thunder, Rock Slide, Flamethrower |
-| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 88 | Compoundeyes | Wide Lens | Thunder, Bug Buzz, Energy Ball, Thunder Wave |
-| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 90 | Motor Drive | Life Orb | Volt Tackle*, Flame Charge, Quick Attack, Return |
+| ![Emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 88 | Static | ![Starf Berry](../img/items/starf-berry.png) Starf Berry | Baton Pass, Agility, Thunder, Light Screen |
+| ![Electivire](../img/pokemon/466.png) | [Electivire](../pokemon/electivire.md) | 88 | Motor Drive | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Volt Tackle*, Cross Chop, Ice Punch, Earthquake |
+| ![Jolteon](../img/pokemon/135.png) | [Jolteon](../pokemon/jolteon.md) | 88 | Volt Absorb | ![Starf Berry](../img/items/starf-berry.png) Starf Berry | Thunder, Shadow Ball, Baton Pass, Thunder Wave |
+| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 88 | Levitate | ![Flying Gem](../img/items/flying-gem.png) Flying Gem | Acrobatics, Thunder, Rock Slide, Flamethrower |
+| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 88 | Compoundeyes | ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) | Thunder, Bug Buzz, Energy Ball, Thunder Wave |
+| ![Zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 90 | Motor Drive | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Volt Tackle*, Flame Charge, Quick Attack, Return |
 

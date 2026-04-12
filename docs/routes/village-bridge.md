@@ -65,10 +65,10 @@
 #### Lenora’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 87 | Intimidate | Air Balloon | Return, Crunch, Fire Fang, Wild Charge |
-| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 87 | Intimidate | Chople Berry | Thunder Wave, Return, Earthquake, Crunch |
-| ![Kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 87 | Scrappy | Expert Belt | Outrage, Return, Earthquake, Sucker Punch |
-| ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 87 | Technician | Scope Lens | Double Hit, Fake Out, Low Kick, U-turn |
-| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 87 | Keen Eye | Air Balloon | Super Fang, Crunch, Low Kick, Thunder Wave |
-| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 89 | Reckless | Sitrus Berry | Head Charge, Wild Charge, Stone Edge, Earthquake |
+| ![Stoutland](../img/pokemon/508.png) | [Stoutland](../pokemon/stoutland.md) | 87 | Intimidate | ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | Return, Crunch, Fire Fang, Wild Charge |
+| ![Granbull](../img/pokemon/210.png) | [Granbull](../pokemon/granbull.md) | 87 | Intimidate | ![Chople Berry](../img/items/chople-berry.png) Chople Berry | Thunder Wave, Return, Earthquake, Crunch |
+| ![Kangaskhan](../img/pokemon/115.png) | [Kangaskhan](../pokemon/kangaskhan.md) | 87 | Scrappy | ![Expert Belt](../img/items/expert-belt.png) [Expert Belt](../items/expert-belt.md) | Outrage, Return, Earthquake, Sucker Punch |
+| ![Ambipom](../img/pokemon/424.png) | [Ambipom](../pokemon/ambipom.md) | 87 | Technician | ![Scope Lens](../img/items/scope-lens.png) Scope Lens | Double Hit, Fake Out, Low Kick, U-turn |
+| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 87 | Keen Eye | ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | Super Fang, Crunch, Low Kick, Thunder Wave |
+| ![Bouffalant](../img/pokemon/626.png) | [Bouffalant](../pokemon/bouffalant.md) | 89 | Reckless | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Head Charge, Wild Charge, Stone Edge, Earthquake |
 

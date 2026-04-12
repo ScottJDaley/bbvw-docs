@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Flame Orb](../img/items/flame-orb.png) Flame Orb (50%)
+- ![Flame Orb (50%)](../img/items/unknown.png) Flame Orb (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

@@ -22,7 +22,7 @@
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
 | ![hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 10% |
 | ![mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 10% |
-| ![mr-mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 10% |
+| ![mr-mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 10% |
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 10% |
 
 ### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
@@ -59,6 +59,18 @@
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
+| ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
+| ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
+
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
@@ -68,10 +80,10 @@
 #### Chili’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | 86 | Blaze | Passho Berry | Flare Blitz, Earthquake, Hammer Arm, Scald |
-| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 86 | Blaze | Charti Berry | Fire Blast, Air Slash, Outrage, Earthquake |
-| ![Typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | 86 | Blaze | Shuca Berry | Eruption, Focus Blast, SolarBeam, ThunderPunch |
-| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 86 | Blaze | Payapa Berry | Hi Jump Kick, Flare Blitz, Stone Edge, ThunderPunch |
-| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 86 | Blaze | Coba Berry | Overheat, Close Combat, Grass Knot, ThunderPunch |
-| ![Simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) | 88 | Gluttony | Petaya Berry | Fire Blast, Focus Blast, Grass Knot, Will-O-Wisp |
+| ![Emboar](../img/pokemon/500.png) | [Emboar](../pokemon/emboar.md) | 86 | Blaze | ![Passho Berry](../img/items/passho-berry.png) Passho Berry | Flare Blitz, Earthquake, Hammer Arm, Scald |
+| ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 86 | Blaze | ![Charti Berry](../img/items/charti-berry.png) Charti Berry | Fire Blast, Air Slash, Outrage, Earthquake |
+| ![Typhlosion](../img/pokemon/157.png) | [Typhlosion](../pokemon/typhlosion.md) | 86 | Blaze | ![Shuca Berry](../img/items/shuca-berry.png) Shuca Berry | Eruption, Focus Blast, SolarBeam, ThunderPunch |
+| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 86 | Blaze | ![Payapa Berry](../img/items/payapa-berry.png) Payapa Berry | Hi Jump Kick, Flare Blitz, Stone Edge, ThunderPunch |
+| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 86 | Blaze | ![Coba Berry](../img/items/coba-berry.png) Coba Berry | Overheat, Close Combat, Grass Knot, ThunderPunch |
+| ![Simisear](../img/pokemon/514.png) | [Simisear](../pokemon/simisear.md) | 88 | Gluttony | ![Petaya Berry](../img/items/petaya-berry.png) Petaya Berry | Fire Blast, Focus Blast, Grass Knot, Will-O-Wisp |
 

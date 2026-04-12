@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Toxic Orb](../img/items/toxic-orb.png) Toxic Orb (50%)
+- ![Toxic Orb (50%)](../img/items/unknown.png) Toxic Orb (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

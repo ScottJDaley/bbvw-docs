@@ -403,12 +403,60 @@ def parse_trainers():
 
     return trainers, trainer_locations_ordered
 
+def parse_item_changes():
+    item_changes = {}
+    with open(os.path.join("Documentation", "Item & Trade Changes.txt"), 'r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+    
+    # Parse items edited into "Use" items
+    use_items_match = re.search(r'edited into "Use" items:\n---\n(.*?)\n\n\+ \+ \+ \+ \+', content, re.DOTALL)
+    use_items = []
+    if use_items_match:
+        use_items = [i.strip() for i in use_items_match.group(1).strip().split('\n') if i.strip()]
+
+    # Parse location item changes
+    loc_sections = re.split(r'\n\s*\n', content.split('+ + + + +')[1].split('-------------')[0])
+    for section in loc_sections:
+        lines = [l.strip() for l in section.strip().split('\n') if l.strip()]
+        if len(lines) < 3: continue
+        location_raw = lines[0]
+        
+        # Normalize location: split base route and subarea
+        # e.g. "Cold Storage Outside" -> base="Cold Storage", sub="Outside"
+        # e.g. "Dreamyard" -> base="Dreamyard", sub="General"
+        base_route = re.split(r' (Inside|Outside|Spring|Summer|Autumn|Winter)', location_raw)[0].strip()
+        sub_area = location_raw.replace(base_route, '').strip() or "General"
+        
+        changes = []
+        for line in lines[2:]:
+            if ' -> ' in line:
+                old, new = line.split(' -> ', 1)
+                new = new.replace('>', '').strip()
+                changes.append({'old': old.strip(), 'new': new.strip()})
+        if changes:
+            if base_route not in item_changes:
+                item_changes[base_route] = {}
+            item_changes[base_route][sub_area] = changes
+            
+    return item_changes, use_items
+
 if __name__ == "__main__":
     pokemon_changes = parse_pokemon_changes()
     wild_pkmn = parse_wild_pokemon()
     move_changes, move_stat_changes = parse_move_changes()
     trainer_data, trainer_order = parse_trainers()
+    item_changes, use_items = parse_item_changes()
     wild_order = [r['name'] for r in wild_pkmn]
     with open('scripts/data/romhack_data.json', 'w', encoding='utf-8') as f: 
-        json.dump({'pokemon_changes': pokemon_changes, 'wild_pokemon': wild_pkmn, 'move_changes': move_changes, 'move_stat_changes': move_stat_changes, 'trainers': trainer_data, 'trainer_order': trainer_order, 'wild_order': wild_order}, f, indent=2)
+        json.dump({
+            'pokemon_changes': pokemon_changes, 
+            'wild_pokemon': wild_pkmn, 
+            'move_changes': move_changes, 
+            'move_stat_changes': move_stat_changes, 
+            'trainers': trainer_data, 
+            'trainer_order': trainer_order, 
+            'wild_order': wild_order,
+            'item_changes': item_changes,
+            'use_items': use_items
+        }, f, indent=2)
     print("Parsing complete.")

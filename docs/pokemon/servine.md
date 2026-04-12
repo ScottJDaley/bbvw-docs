@@ -20,7 +20,7 @@
 <span style="color:green; font-weight:bold;">0</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
 
 ## Held Items
-- ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed (50%)
+- ![Miracle Seed (50%)](../img/items/unknown.png) Miracle Seed (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

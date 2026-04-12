@@ -21,7 +21,7 @@ New: ![water](../img/types/water.png) ![fighting](../img/types/fighting.png)
 70
 
 ## Held Items
-- ![Mystic Water](../img/items/mystic-water.png) Mystic Water (50%)
+- ![Mystic Water (50%)](../img/items/unknown.png) Mystic Water (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

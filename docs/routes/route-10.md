@@ -48,63 +48,69 @@
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 90% |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![TM64 Explosion](../img/items/tm-normal.png) [TM64 Explosion](../items/tm64.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Stone (NPC)</span> |
+| ![TM26 Earthquake](../img/items/tm-ground.png) [TM26 Earthquake](../items/tm26.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dawn Stone</span> |
+
 
 ## Trainers
 ### Battle Girl Amy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 60 | - | - |  |
-| ![Lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) | 60 | - | - |  |
-| ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 60 | - | - |  |
-| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 60 | - | - |  |
+| ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Lucario](../img/pokemon/448.png) | [Lucario](../pokemon/lucario.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Infernape](../img/pokemon/392.png) | [Infernape](../pokemon/infernape.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Ace Trainer Johan
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) | 63 | - | - |  |
-| ![Ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) | 63 | - | - |  |
-| ![Magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) | 63 | - | - |  |
-| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 63 | - | - |  |
+| ![Tangrowth](../img/pokemon/465.png) | [Tangrowth](../pokemon/tangrowth.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ampharos](../img/pokemon/181.png) | [Ampharos](../pokemon/ampharos.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Scizor](../img/pokemon/212.png) | [Scizor](../pokemon/scizor.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Veteran Karla
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 63 | - | - |  |
-| ![Rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) | 63 | - | - |  |
-| ![Escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) | 63 | - | - |  |
-| ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 63 | - | - |  |
-| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 63 | - | - |  |
+| ![Reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Rhyperior](../img/pokemon/464.png) | [Rhyperior](../pokemon/rhyperior.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Escavalier](../img/pokemon/589.png) | [Escavalier](../pokemon/escavalier.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ninetales](../img/pokemon/038.png) | [Ninetales](../pokemon/ninetales.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Black Belt Corey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 60 | - | - |  |
-| ![Sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 60 | - | - |  |
+| ![Throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Hiker Bret
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) | 60 | - | - |  |
-| ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 60 | - | - |  |
-| ![Probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) | 60 | - | - |  |
+| ![Gigalith](../img/pokemon/526.png) | [Gigalith](../pokemon/gigalith.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
+| ![Probopass](../img/pokemon/476.png) | [Probopass](../pokemon/probopass.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Ace Trainer Cheyenne
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) | 63 | - | - |  |
-| ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 63 | - | - |  |
-| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 63 | - | - |  |
-| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 63 | - | - |  |
-| ![Porygon-Z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) | 63 | - | - |  |
+| ![Togekiss](../img/pokemon/468.png) | [Togekiss](../pokemon/togekiss.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Porygon-Z](../img/pokemon/474.png) | [Porygon-Z](../pokemon/porygon-z.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Veteran Chester
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | 63 | - | - |  |
-| ![Hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) | 63 | - | - |  |
-| ![Exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) | 63 | - | - |  |
-| ![Skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 63 | - | - |  |
-| ![Luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) | 63 | - | - |  |
+| ![Samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hippowdon](../img/pokemon/450.png) | [Hippowdon](../pokemon/hippowdon.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Exeggutor](../img/pokemon/103.png) | [Exeggutor](../pokemon/exeggutor.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
+| ![Luxray](../img/pokemon/405.png) | [Luxray](../pokemon/luxray.md) | 63 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Rival Cheren – 1
 **Battle Type:** Single Battle  
@@ -112,5 +118,5 @@
 #### Cheren’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | ![-](../img/items/unknown.png) - |  |
 

@@ -58,6 +58,16 @@
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
+
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili
@@ -67,20 +77,20 @@
 #### Cilan’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) | 86 | Overgrow | Yache Berry | Leaf Storm, Light Screen, Reflect, Sunny Day |
-| ![Venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | 86 | Overgrow | Payapa Berry | Growth, Earthquake, Power Whip, Sludge Bomb |
-| ![Meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 86 | Overgrow | Kebia Berry | Aromatherapy, Petal Dance, Toxic, Leech Seed |
-| ![Sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) | 86 | Overgrow | Tanga Berry | Energy Ball, Focus Blast, Dragon Pulse, Leaf Storm |
-| ![Torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) | 86 | Overgrow | Occa Berry | Earthquake, Crunch, Wood Hammer, Stone Edge |
-| ![Simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) | 88 | Gluttony | Liechi Berry | Leaf Storm, Rock Slide, Shadow Claw, Low Kick |
+| ![Serperior](../img/pokemon/497.png) | [Serperior](../pokemon/serperior.md) | 86 | Overgrow | ![Yache Berry](../img/items/yache-berry.png) Yache Berry | Leaf Storm, Light Screen, Reflect, Sunny Day |
+| ![Venusaur](../img/pokemon/003.png) | [Venusaur](../pokemon/venusaur.md) | 86 | Overgrow | ![Payapa Berry](../img/items/payapa-berry.png) Payapa Berry | Growth, Earthquake, Power Whip, Sludge Bomb |
+| ![Meganium](../img/pokemon/154.png) | [Meganium](../pokemon/meganium.md) | 86 | Overgrow | ![Kebia Berry](../img/items/kebia-berry.png) Kebia Berry | Aromatherapy, Petal Dance, Toxic, Leech Seed |
+| ![Sceptile](../img/pokemon/254.png) | [Sceptile](../pokemon/sceptile.md) | 86 | Overgrow | ![Tanga Berry](../img/items/tanga-berry.png) Tanga Berry | Energy Ball, Focus Blast, Dragon Pulse, Leaf Storm |
+| ![Torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) | 86 | Overgrow | ![Occa Berry](../img/items/occa-berry.png) Occa Berry | Earthquake, Crunch, Wood Hammer, Stone Edge |
+| ![Simisage](../img/pokemon/512.png) | [Simisage](../pokemon/simisage.md) | 88 | Gluttony | ![Liechi Berry](../img/items/liechi-berry.png) Liechi Berry | Leaf Storm, Rock Slide, Shadow Claw, Low Kick |
 
 #### Cress’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | 86 | Torrent | Wacan Berry | Shell Smash**, Aqua Jet, Megahorn, Razor Shell |
-| ![Blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | 86 | Torrent | Rindo Berry | Shell Smash*, Hydro Pump, Blizzard, Focus Blast |
-| ![Feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | 86 | Torrent | Wacan Berry | Dragon Dance, Waterfall, Crunch, Earthquake |
-| ![Swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 86 | Torrent | Rindo Berry | Earthquake, Waterfall, Avalanche, Hammer Arm |
-| ![Empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) | 86 | Torrent | Shuca Berry | Hydro Pump, Flash Cannon, Grass Knot, Aqua Jet |
-| ![Simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) | 88 | Gluttony | Petaya Berry | Hydro Pump, Ice Beam, Grass Knot, Focus Blast |
+| ![Samurott](../img/pokemon/503.png) | [Samurott](../pokemon/samurott.md) | 86 | Torrent | ![Wacan Berry](../img/items/wacan-berry.png) Wacan Berry | Shell Smash**, Aqua Jet, Megahorn, Razor Shell |
+| ![Blastoise](../img/pokemon/009.png) | [Blastoise](../pokemon/blastoise.md) | 86 | Torrent | ![Rindo Berry](../img/items/rindo-berry.png) Rindo Berry | Shell Smash*, Hydro Pump, Blizzard, Focus Blast |
+| ![Feraligatr](../img/pokemon/160.png) | [Feraligatr](../pokemon/feraligatr.md) | 86 | Torrent | ![Wacan Berry](../img/items/wacan-berry.png) Wacan Berry | Dragon Dance, Waterfall, Crunch, Earthquake |
+| ![Swampert](../img/pokemon/260.png) | [Swampert](../pokemon/swampert.md) | 86 | Torrent | ![Rindo Berry](../img/items/rindo-berry.png) Rindo Berry | Earthquake, Waterfall, Avalanche, Hammer Arm |
+| ![Empoleon](../img/pokemon/395.png) | [Empoleon](../pokemon/empoleon.md) | 86 | Torrent | ![Shuca Berry](../img/items/shuca-berry.png) Shuca Berry | Hydro Pump, Flash Cannon, Grass Knot, Aqua Jet |
+| ![Simipour](../img/pokemon/516.png) | [Simipour](../pokemon/simipour.md) | 88 | Gluttony | ![Petaya Berry](../img/items/petaya-berry.png) Petaya Berry | Hydro Pump, Ice Beam, Grass Knot, Focus Blast |
 

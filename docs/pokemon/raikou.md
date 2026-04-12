@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Micle Berry](../img/items/micle-berry.png) Micle Berry (100%)
+- ![Micle Berry (100%)](../img/items/unknown.png) Micle Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

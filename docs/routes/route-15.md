@@ -35,6 +35,18 @@
 | ![machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 5% |
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 5% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
+| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
+| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
+
 
 ## Trainers
 ### Gym Leader Iris
@@ -44,10 +56,10 @@
 #### Iris’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 87 | Swift Swim | Damp Rock | Rain Dance, Hydro Pump, Blizzard, Dragon Pulse |
-| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 87 | Rough Skin | Rocky Helmet | Outrage, Superpower, Rock Slide, Substitute |
-| ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 87 | Natural Cure | Sitrus Berry | Outrage, Roost, Cotton Guard, Ice Beam |
-| ![Garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 89 | Sand Veil | Yache Berry | Outrage, Earthquake, Stone Edge, Draco Meteor |
-| ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 89 | Inner Focus | Sitrus Berry | Outrage, Hurricane, Thunder, Roost |
-| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 89 | Mold Breaker | Choice Band | Outrage, Dual Chop, Earthquake, Brick Break |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 87 | Swift Swim | ![Damp Rock](../img/items/damp-rock.png) Damp Rock | Rain Dance, Hydro Pump, Blizzard, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 87 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) Rocky Helmet | Outrage, Superpower, Rock Slide, Substitute |
+| ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 87 | Natural Cure | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Outrage, Roost, Cotton Guard, Ice Beam |
+| ![Garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 89 | Sand Veil | ![Yache Berry](../img/items/yache-berry.png) Yache Berry | Outrage, Earthquake, Stone Edge, Draco Meteor |
+| ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 89 | Inner Focus | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Outrage, Hurricane, Thunder, Roost |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 89 | Mold Breaker | ![Choice Band](../img/items/choice-band.png) [Choice Band](../items/choice-band.md) | Outrage, Dual Chop, Earthquake, Brick Break |
 

@@ -29,18 +29,24 @@
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Protector](../img/items/protector.png) [Protector](../items/protector.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Stone</span> |
+| ![TM69 Rock Polish](../img/items/tm-rock.png) [TM69 Rock Polish](../items/tm69.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Repel</span> |
+
 
 ## Trainers
 ### Hiker Hugh
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 52 | - | - |  |
-| ![Klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) | 52 | - | - |  |
-| ![Aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 52 | - | - |  |
+| ![Mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
+| ![Klinklang](../img/pokemon/601.png) | [Klinklang](../pokemon/klinklang.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
+| ![Aggron](../img/pokemon/306.png) | [Aggron](../pokemon/aggron.md) | 52 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Hiker Clarke
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) | 53 | - | - |  |
-| ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 53 | - | - |  |
+| ![Bastiodon](../img/pokemon/411.png) | [Bastiodon](../pokemon/bastiodon.md) | 53 | - | ![-](../img/items/unknown.png) - |  |
+| ![Marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 53 | - | ![-](../img/items/unknown.png) - |  |
 

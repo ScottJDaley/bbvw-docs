@@ -43,6 +43,22 @@
 | ![frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 30% |
 | ![relicanth](../img/pokemon/369.png) | [Relicanth](../pokemon/relicanth.md) | 10% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Cover Fossil](../img/items/cover-fossil.png) [Cover Fossil](../items/cover-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Plume Fossil](../img/items/plume-fossil.png) [Plume Fossil](../items/plume-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+| ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Burn Heal</span> |
+| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Accuarcy</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Cover Fossil](../img/items/cover-fossil.png) [Cover Fossil](../items/cover-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Plume Fossil](../img/items/plume-fossil.png) [Plume Fossil](../items/plume-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+| ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Burn Heal</span> |
+| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Accuarcy</span> |
+
 
 ## Trainers
 ### Rival Bianca – 1
@@ -51,7 +67,7 @@
 #### Bianca’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Rival Cheren – 1
 **Battle Type:** Single Battle  
@@ -59,100 +75,100 @@
 #### Cheren’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Keane
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) | 27 | - | - |  |
-| ![Exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) | 27 | - | - |  |
-| ![Diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 27 | - | - |  |
-| ![Sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) | 27 | - | - |  |
-| ![Swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) | 27 | - | - |  |
+| ![Sandshrew](../img/pokemon/027.png) | [Sandshrew](../pokemon/sandshrew.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Exeggcute](../img/pokemon/102.png) | [Exeggcute](../pokemon/exeggcute.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Swablu](../img/pokemon/333.png) | [Swablu](../pokemon/swablu.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Gus
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) | 25 | - | - |  |
-| ![Baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) | 25 | - | - |  |
-| ![Swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) | 25 | - | - |  |
-| ![Cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) | 25 | - | - |  |
+| ![Makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) | 25 | - | ![-](../img/items/unknown.png) - |  |
+| ![Baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) | 25 | - | ![-](../img/items/unknown.png) - |  |
+| ![Swinub](../img/pokemon/220.png) | [Swinub](../pokemon/swinub.md) | 25 | - | ![-](../img/items/unknown.png) - |  |
+| ![Cranidos](../img/pokemon/408.png) | [Cranidos](../pokemon/cranidos.md) | 25 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Anna
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) | 27 | - | - |  |
-| ![Eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) | 27 | - | - |  |
-| ![Spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) | 27 | - | - |  |
-| ![Electrike](../img/pokemon/309.png) | [Electrike](../pokemon/electrike.md) | 27 | - | - |  |
-| ![Buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 27 | - | - |  |
+| ![Wingull](../img/pokemon/278.png) | [Wingull](../pokemon/wingull.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Eevee](../img/pokemon/133.png) | [Eevee](../pokemon/eevee.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Spearow](../img/pokemon/021.png) | [Spearow](../pokemon/spearow.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Electrike](../img/pokemon/309.png) | [Electrike](../pokemon/electrike.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Buizel](../img/pokemon/418.png) | [Buizel](../pokemon/buizel.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Jill
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) | 27 | - | - |  |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 27 | - | - |  |
-| ![Pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) | 27 | - | - |  |
-| ![Darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) | 27 | - | - |  |
-| ![Deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) | 27 | - | - |  |
+| ![Cherubi](../img/pokemon/420.png) | [Cherubi](../pokemon/cherubi.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Pidove](../img/pokemon/519.png) | [Pidove](../pokemon/pidove.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Waylon
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | 27 | - | - |  |
-| ![Ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) | 27 | - | - |  |
-| ![Vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) | 27 | - | - |  |
-| ![Ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) | 27 | - | - |  |
-| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 27 | - | - |  |
+| ![Tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ducklett](../img/pokemon/580.png) | [Ducklett](../pokemon/ducklett.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Vanillite](../img/pokemon/582.png) | [Vanillite](../pokemon/vanillite.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Scott
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 26 | - | - |  |
-| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 26 | - | - |  |
-| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 26 | - | - |  |
+| ![Boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hippopotas](../img/pokemon/449.png) | [Hippopotas](../pokemon/hippopotas.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Zack
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) | 27 | - | - |  |
-| ![Sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 27 | - | - |  |
+| ![Rhyhorn](../img/pokemon/111.png) | [Rhyhorn](../pokemon/rhyhorn.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 27 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Jerome
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) | 28 | - | - |  |
-| ![Snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) | 28 | - | - |  |
-| ![Spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 28 | - | - |  |
+| ![Lileep](../img/pokemon/345.png) | [Lileep](../pokemon/lileep.md) | 28 | - | ![-](../img/items/unknown.png) - |  |
+| ![Snorunt](../img/pokemon/361.png) | [Snorunt](../pokemon/snorunt.md) | 28 | - | ![-](../img/items/unknown.png) - |  |
+| ![Spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 28 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Shelby
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) | 28 | - | - |  |
+| ![Machoke](../img/pokemon/067.png) | [Machoke](../pokemon/machoke.md) | 28 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Fisherman Hubert
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) | 26 | - | - |  |
-| ![Remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) | 26 | - | - |  |
-| ![Magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 26 | - | - |  |
-| ![Horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) | 26 | - | - |  |
-| ![Wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) | 26 | - | - |  |
+| ![Omanyte](../img/pokemon/138.png) | [Omanyte](../pokemon/omanyte.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Remoraid](../img/pokemon/223.png) | [Remoraid](../pokemon/remoraid.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Magikarp](../img/pokemon/129.png) | [Magikarp](../pokemon/magikarp.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Horsea](../img/pokemon/116.png) | [Horsea](../pokemon/horsea.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Wailmer](../img/pokemon/320.png) | [Wailmer](../pokemon/wailmer.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Fisherman Andrew
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) | 26 | - | - |  |
-| ![Finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 26 | - | - |  |
-| ![Frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 26 | - | - |  |
-| ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 26 | - | - |  |
-| ![Feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 26 | - | - |  |
+| ![Kabuto](../img/pokemon/140.png) | [Kabuto](../pokemon/kabuto.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Frillish](../img/pokemon/592.png) | [Frillish](../pokemon/frillish.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Feebas](../img/pokemon/349.png) | [Feebas](../pokemon/feebas.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Parasol Lady April
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) | 26 | - | - |  |
-| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 26 | - | - |  |
-| ![Snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 26 | - | - |  |
-| ![Shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) | 26 | - | - |  |
+| ![Mantyke](../img/pokemon/458.png) | [Mantyke](../pokemon/mantyke.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
+| ![Shieldon](../img/pokemon/410.png) | [Shieldon](../pokemon/shieldon.md) | 26 | - | ![-](../img/items/unknown.png) - |  |
 

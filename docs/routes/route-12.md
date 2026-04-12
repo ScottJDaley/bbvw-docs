@@ -28,3 +28,13 @@
 | ![sunflora](../img/pokemon/192.png) | [Sunflora](../pokemon/sunflora.md) | 5% |
 | ![vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 5% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |
+

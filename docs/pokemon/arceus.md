@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry (100%)
+- ![Enigma Berry (100%)](../img/items/unknown.png) Enigma Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

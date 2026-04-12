@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Life Orb](../img/items/life-orb.png) Life Orb (5%)
+- ![Life Orb (5%)](../img/items/unknown.png) Life Orb (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

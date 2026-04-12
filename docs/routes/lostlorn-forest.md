@@ -66,3 +66,13 @@
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 30% |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 10% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![TM01 Hone Claws](../img/items/tm-dark.png) [TM01 Hone Claws](../items/tm01.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Big Mushroom</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![TM01 Hone Claws](../img/items/tm-dark.png) [TM01 Hone Claws](../items/tm01.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Big Mushroom</span> |
+

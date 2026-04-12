@@ -36,77 +36,77 @@
 ### Youngster Kenneth
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 35 | - | - |  |
-| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 35 | - | - |  |
-| ![Servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) | 35 | - | - |  |
+| ![Persian](../img/pokemon/053.png) | [Persian](../pokemon/persian.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Servine](../img/pokemon/496.png) | [Servine](../pokemon/servine.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Youngster Albert
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) | 35 | - | - |  |
-| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 35 | - | - |  |
-| ![Dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) | 35 | - | - |  |
+| ![Primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Magneton](../img/pokemon/082.png) | [Magneton](../pokemon/magneton.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Dewott](../img/pokemon/502.png) | [Dewott](../pokemon/dewott.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Eddie
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 34 | - | - |  |
-| ![Bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) | 34 | - | - |  |
-| ![Sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) | 34 | - | - |  |
-| ![Piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 34 | - | - |  |
+| ![Drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Bayleef](../img/pokemon/153.png) | [Bayleef](../pokemon/bayleef.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sneasel](../img/pokemon/215.png) | [Sneasel](../pokemon/sneasel.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
+| ![Piloswine](../img/pokemon/221.png) | [Piloswine](../pokemon/piloswine.md) | 34 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Victor
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) | 35 | - | - |  |
-| ![Croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) | 35 | - | - |  |
-| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 35 | - | - |  |
+| ![Vanillish](../img/pokemon/583.png) | [Vanillish](../pokemon/vanillish.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Croconaw](../img/pokemon/159.png) | [Croconaw](../pokemon/croconaw.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Mienfoo](../img/pokemon/619.png) | [Mienfoo](../pokemon/mienfoo.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Glenn
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) | 35 | - | - |  |
-| ![Hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) | 35 | - | - |  |
-| ![Floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) | 35 | - | - |  |
+| ![Quilava](../img/pokemon/156.png) | [Quilava](../pokemon/quilava.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hariyama](../img/pokemon/297.png) | [Hariyama](../pokemon/hariyama.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Floatzel](../img/pokemon/419.png) | [Floatzel](../pokemon/floatzel.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Filipe
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 36 | - | - |  |
-| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 36 | - | - |  |
+| ![Snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
+| ![Crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Patton
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 36 | - | - |  |
-| ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 36 | - | - |  |
+| ![Graveler](../img/pokemon/075.png) | [Graveler](../pokemon/graveler.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Worker Ryan
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) | 37 | - | - |  |
-| ![Metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) | 37 | - | - |  |
+| ![Beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) | 37 | - | ![-](../img/items/unknown.png) - |  |
+| ![Metang](../img/pokemon/375.png) | [Metang](../pokemon/metang.md) | 37 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 35 | - | - |  |
-| ![Arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 35 | - | - |  |
+| ![Haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 35 | - | - |  |
-| ![Swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) | 35 | - | - |  |
+| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Swalot](../img/pokemon/317.png) | [Swalot](../pokemon/swalot.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 35 | - | - |  |
-| ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 35 | - | - |  |
+| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) | 36 | - | - |  |
+| ![Raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) | 36 | - | ![-](../img/items/unknown.png) - |  |
 

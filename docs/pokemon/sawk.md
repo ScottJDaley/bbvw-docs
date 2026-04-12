@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Expert Belt](../img/items/expert-belt.png) Expert Belt (5%)
+- ![Expert Belt (5%)](../img/items/unknown.png) Expert Belt (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

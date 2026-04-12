@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Apicot Berry](../img/items/apicot-berry.png) Apicot Berry (100%)
+- ![Apicot Berry (100%)](../img/items/unknown.png) Apicot Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

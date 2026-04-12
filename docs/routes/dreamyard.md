@@ -38,32 +38,50 @@
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 5% |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 5% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![TM23 Smack Down](../img/items/tm-rock.png) [TM23 Smack Down](../items/tm23.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Repel</span> |
+| ![TM59 Incinerate](../img/items/tm-fire.png) [TM59 Incinerate](../items/tm59.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Poke Ball</span> |
+| ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM75 Swords Dance</span> |
+| ![TM76 Struggle Bug](../img/items/tm-bug.png) [TM76 Struggle Bug](../items/tm76.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
+| ![TM88 Pluck](../img/items/tm-flying.png) [TM88 Pluck](../items/tm88.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Parlyz Heal</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![TM23 Smack Down](../img/items/tm-rock.png) [TM23 Smack Down](../items/tm23.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Repel</span> |
+| ![TM59 Incinerate](../img/items/tm-fire.png) [TM59 Incinerate](../items/tm59.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Poke Ball</span> |
+| ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM75 Swords Dance</span> |
+| ![TM76 Struggle Bug](../img/items/tm-bug.png) [TM76 Struggle Bug](../items/tm76.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
+| ![TM88 Pluck](../img/items/tm-flying.png) [TM88 Pluck](../items/tm88.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Parlyz Heal</span> |
+
 
 ## Trainers
 ### Lass Eri
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) | 10 | - | - |  |
-| ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10 | - | - |  |
-| ![Starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) | 10 | - | - |  |
-| ![Azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) | 10 | - | - |  |
+| ![Sentret](../img/pokemon/161.png) | [Sentret](../pokemon/sentret.md) | 10 | - | ![-](../img/items/unknown.png) - |  |
+| ![Skitty](../img/pokemon/300.png) | [Skitty](../pokemon/skitty.md) | 10 | - | ![-](../img/items/unknown.png) - |  |
+| ![Starly](../img/pokemon/396.png) | [Starly](../pokemon/starly.md) | 10 | - | ![-](../img/items/unknown.png) - |  |
+| ![Azurill](../img/pokemon/298.png) | [Azurill](../pokemon/azurill.md) | 10 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Youngster Joey
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) | 11 | - | - |  |
+| ![Rattata](../img/pokemon/019.png) | [Rattata](../pokemon/rattata.md) | 11 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 14 | - | - |  |
-| ![Ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 14 | - | - |  |
-| ![Drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) | 15 | - | - |  |
+| ![Trubbish](../img/pokemon/568.png) | [Trubbish](../pokemon/trubbish.md) | 14 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ekans](../img/pokemon/023.png) | [Ekans](../pokemon/ekans.md) | 14 | - | ![-](../img/items/unknown.png) - |  |
+| ![Drowzee](../img/pokemon/096.png) | [Drowzee](../pokemon/drowzee.md) | 15 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) | 14 | - | - |  |
-| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 14 | - | - |  |
-| ![Cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 15 | - | - |  |
+| ![Koffing](../img/pokemon/109.png) | [Koffing](../pokemon/koffing.md) | 14 | - | ![-](../img/items/unknown.png) - |  |
+| ![Grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 14 | - | ![-](../img/items/unknown.png) - |  |
+| ![Cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 15 | - | ![-](../img/items/unknown.png) - |  |
 

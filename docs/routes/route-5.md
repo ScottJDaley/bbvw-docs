@@ -11,7 +11,7 @@
 | ![gulpin](../img/pokemon/316.png) | [Gulpin](../pokemon/gulpin.md) | 10% |
 | ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) | 10% |
 | ![ditto](../img/pokemon/132.png) | [Ditto](../pokemon/ditto.md) | 5% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 5% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![pachirisu](../img/pokemon/417.png) | [Pachirisu](../pokemon/pachirisu.md) | 5% |
 
@@ -39,6 +39,20 @@
 | ![nidoking](../img/pokemon/034.png) | [Nidoking](../pokemon/nidoking.md) | 10% |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 10% |
 
+### Items
+| Item | Original |
+| --- | --- |
+| ![Up-Grade](../img/items/up-grade.png) [Up-Grade](../items/up-grade.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Zinc</span> |
+| ![TM72 Volt Switch](../img/items/tm-electric.png) [TM72 Volt Switch](../items/tm72.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![BlackGlasses](../img/items/unknown.png) BlackGlasses | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Up-Grade](../img/items/up-grade.png) [Up-Grade](../items/up-grade.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Zinc</span> |
+| ![TM72 Volt Switch](../img/items/tm-electric.png) [TM72 Volt Switch](../items/tm72.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![BlackGlasses](../img/items/unknown.png) BlackGlasses | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+
 
 ## Trainers
 ### Rival Cheren – 1
@@ -47,55 +61,55 @@
 #### Cheren’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | - |  |
+| ![Snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 5 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Preschooler Sarah
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 35 | - | - |  |
+| ![Lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Preschooler Billy
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 35 | - | - |  |
+| ![Solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 35 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Baker Jenn
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 33 | - | - |  |
-| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 33 | - | - |  |
+| ![Combee](../img/pokemon/415.png) | [Combee](../pokemon/combee.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
+| ![Munchlax](../img/pokemon/446.png) | [Munchlax](../pokemon/munchlax.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Harlequin Paul
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 32 | - | - |  |
-| ![Seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 32 | - | - |  |
+| ![Palpitoad](../img/pokemon/536.png) | [Palpitoad](../pokemon/palpitoad.md) | 32 | - | ![-](../img/items/unknown.png) - |  |
+| ![Seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 32 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Musician Preston
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) | 33 | - | - |  |
+| ![Wigglytuff](../img/pokemon/040.png) | [Wigglytuff](../pokemon/wigglytuff.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Dancer Brian
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 33 | - | - |  |
-| ![Ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 33 | - | - |  |
+| ![Kirlia](../img/pokemon/281.png) | [Kirlia](../pokemon/kirlia.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
+| ![Ludicolo](../img/pokemon/272.png) | [Ludicolo](../pokemon/ludicolo.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Arist Horton
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
-| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
-| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
+| ![Smeargle](../img/pokemon/235.png) | [Smeargle](../pokemon/smeargle.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Michael
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 33 | - | - |  |
+| ![Nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Backpacker Lois
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 33 | - | - |  |
+| ![Shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 33 | - | ![-](../img/items/unknown.png) - |  |
 

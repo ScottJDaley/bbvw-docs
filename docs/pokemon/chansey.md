@@ -20,7 +20,7 @@
 <span style="color:green; font-weight:bold;">160</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span>
 
 ## Held Items
-- ![Lucky Egg](../img/items/lucky-egg.png) Lucky Egg (0%)
+- ![Lucky Egg (0%)](../img/items/unknown.png) Lucky Egg (0%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

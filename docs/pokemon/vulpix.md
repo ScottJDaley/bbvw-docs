@@ -20,8 +20,8 @@
 70
 
 ## Held Items
-- ![Rawst Berry](../img/items/rawst-berry.png) Rawst Berry (50%)
-- ![Occa Berry](../img/items/occa-berry.png) Occa Berry (5%)
+- ![Rawst Berry (50%)](../img/items/unknown.png) Rawst Berry (50%)
+- ![Occa Berry (5%)](../img/items/unknown.png) Occa Berry (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

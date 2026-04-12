@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Custap Berry](../img/items/custap-berry.png) Custap Berry (100%)
+- ![Custap Berry (100%)](../img/items/unknown.png) Custap Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

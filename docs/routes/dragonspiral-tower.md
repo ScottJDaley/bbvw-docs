@@ -84,74 +84,79 @@
 | ![claydol](../img/pokemon/344.png) | [Claydol](../pokemon/claydol.md) | 50% |
 | ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) | 50% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![TM29 Psychic](../img/items/tm-psychic.png) [TM29 Psychic](../items/tm29.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Shiny Stone</span> |
+
 
 ## Trainers
 ### Ace Trainer Jesse
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 53 | - | - |  |
-| ![Hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) | 55 | - | - |  |
-| ![Hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) | 55 | - | - |  |
-| ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 56 | - | - |  |
-| ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 58 | - | - |  |
+| ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 53 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hitmonchan](../img/pokemon/107.png) | [Hitmonchan](../pokemon/hitmonchan.md) | 55 | - | ![-](../img/items/unknown.png) - |  |
+| ![Hitmonlee](../img/pokemon/106.png) | [Hitmonlee](../pokemon/hitmonlee.md) | 55 | - | ![-](../img/items/unknown.png) - |  |
+| ![Onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Machamp](../img/pokemon/068.png) | [Machamp](../pokemon/machamp.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Ace Trainer Jamie
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) | 58 | - | - |  |
-| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 56 | - | - |  |
-| ![Haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 55 | - | - |  |
-| ![Arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 58 | - | - |  |
-| ![Gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) | 60 | - | - |  |
+| ![Gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Haunter](../img/pokemon/093.png) | [Haunter](../pokemon/haunter.md) | 55 | - | ![-](../img/items/unknown.png) - |  |
+| ![Arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gengar](../img/pokemon/094.png) | [Gengar](../pokemon/gengar.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) | 56 | - | - |  |
-| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 56 | - | - |  |
-| ![Skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) | 56 | - | - |  |
+| ![Raticate](../img/pokemon/020.png) | [Raticate](../pokemon/raticate.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Watchog](../img/pokemon/505.png) | [Watchog](../pokemon/watchog.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 56 | - | - |  |
-| ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 56 | - | - |  |
-| ![Purugly](../img/pokemon/432.png) | [Purugly](../pokemon/purugly.md) | 56 | - | - |  |
+| ![Mightyena](../img/pokemon/262.png) | [Mightyena](../pokemon/mightyena.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
+| ![Purugly](../img/pokemon/432.png) | [Purugly](../pokemon/purugly.md) | 56 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 58 | - | - |  |
+| ![Muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 57 | - | - |  |
-| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 57 | - | - |  |
+| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 57 | - | ![-](../img/items/unknown.png) - |  |
+| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 57 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 57 | - | - |  |
-| ![Shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 57 | - | - |  |
+| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 57 | - | ![-](../img/items/unknown.png) - |  |
+| ![Shiftry](../img/pokemon/275.png) | [Shiftry](../pokemon/shiftry.md) | 57 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 60 | - | - |  |
+| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 60 | - | - |  |
+| ![Eelektross](../img/pokemon/604.png) | [Eelektross](../pokemon/eelektross.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) | 60 | - | - |  |
+| ![Dusknoir](../img/pokemon/477.png) | [Dusknoir](../pokemon/dusknoir.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 60 | - | - |  |
+| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 

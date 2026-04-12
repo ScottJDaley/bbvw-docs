@@ -27,82 +27,88 @@
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 10% |
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) | 10% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Reaper Cloth](../img/items/reaper-cloth.png) [Reaper Cloth](../items/reaper-cloth.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Revive</span> |
+| ![TM19 Telekenesis](../img/items/tm-normal.png) [TM19 Telekenesis](../items/tm19.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+
 
 ## Trainers
 ### Psychic Doreen
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 47 | - | - |  |
-| ![Xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 47 | - | - |  |
-| ![Beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) | 47 | - | - |  |
+| ![Misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
+| ![Xatu](../img/pokemon/178.png) | [Xatu](../pokemon/xatu.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
+| ![Beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Lass Kara
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 48 | - | - |  |
-| ![Bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) | 48 | - | - |  |
+| ![Delibird](../img/pokemon/225.png) | [Delibird](../pokemon/delibird.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Bellossom](../img/pokemon/182.png) | [Bellossom](../pokemon/bellossom.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Pokefan Jude
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) | 47 | - | - |  |
-| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 47 | - | - |  |
-| ![Miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) | 47 | - | - |  |
-| ![Slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 47 | - | - |  |
+| ![Leafeon](../img/pokemon/470.png) | [Leafeon](../pokemon/leafeon.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
+| ![Blaziken](../img/pokemon/257.png) | [Blaziken](../pokemon/blaziken.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
+| ![Miltank](../img/pokemon/241.png) | [Miltank](../pokemon/miltank.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
+| ![Slowking](../img/pokemon/199.png) | [Slowking](../pokemon/slowking.md) | 47 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Pokefan Georgia
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 48 | - | - |  |
-| ![Octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) | 48 | - | - |  |
-| ![Roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) | 48 | - | - |  |
+| ![Girafarig](../img/pokemon/203.png) | [Girafarig](../pokemon/girafarig.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Roserade](../img/pokemon/407.png) | [Roserade](../pokemon/roserade.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Psychic Micki
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) | 48 | - | - |  |
-| ![Cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 48 | - | - |  |
-| ![Mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) | 48 | - | - |  |
+| ![Lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Mismagius](../img/pokemon/429.png) | [Mismagius](../pokemon/mismagius.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Psychic Lin
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) | 48 | - | - |  |
-| ![Gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) | 48 | - | - |  |
-| ![Gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) | 48 | - | - |  |
+| ![Swoobat](../img/pokemon/528.png) | [Swoobat](../pokemon/swoobat.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gardevoir](../img/pokemon/282.png) | [Gardevoir](../pokemon/gardevoir.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Gothitelle](../img/pokemon/576.png) | [Gothitelle](../pokemon/gothitelle.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Psychic Bryce
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) | 48 | - | - |  |
-| ![Spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) | 48 | - | - |  |
-| ![Dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) | 48 | - | - |  |
-| ![Alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) | 48 | - | - |  |
+| ![Musharna](../img/pokemon/518.png) | [Musharna](../pokemon/musharna.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Dusclops](../img/pokemon/356.png) | [Dusclops](../pokemon/dusclops.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Alakazam](../img/pokemon/065.png) | [Alakazam](../pokemon/alakazam.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Psychic Belle
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) | 48 | - | - |  |
-| ![Froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) | 48 | - | - |  |
-| ![Slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) | 48 | - | - |  |
+| ![Gallade](../img/pokemon/475.png) | [Gallade](../pokemon/gallade.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
+| ![Slowbro](../img/pokemon/080.png) | [Slowbro](../pokemon/slowbro.md) | 48 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Nurse Sachiko
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) | 49 | - | - |  |
-| ![Blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 49 | - | - |  |
+| ![Espeon](../img/pokemon/196.png) | [Espeon](../pokemon/espeon.md) | 49 | - | ![-](../img/items/unknown.png) - |  |
+| ![Blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 49 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Ace Trainer Beckett
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) | 50 | - | - |  |
-| ![Medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) | 50 | - | - |  |
-| ![Wailord](../img/pokemon/321.png) | [Wailord](../pokemon/wailord.md) | 50 | - | - |  |
+| ![Magnezone](../img/pokemon/462.png) | [Magnezone](../pokemon/magnezone.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
+| ![Medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
+| ![Wailord](../img/pokemon/321.png) | [Wailord](../pokemon/wailord.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Ace Trainer Kassandra
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) | 50 | - | - |  |
-| ![Torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) | 50 | - | - |  |
-| ![Magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) | 50 | - | - |  |
+| ![Rampardos](../img/pokemon/409.png) | [Rampardos](../pokemon/rampardos.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
+| ![Torterra](../img/pokemon/389.png) | [Torterra](../pokemon/torterra.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
+| ![Magmortar](../img/pokemon/467.png) | [Magmortar](../pokemon/magmortar.md) | 50 | - | ![-](../img/items/unknown.png) - |  |
 

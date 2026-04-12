@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Oran Berry](../img/items/oran-berry.png) Oran Berry (5%)
+- ![Oran Berry (5%)](../img/items/unknown.png) Oran Berry (5%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

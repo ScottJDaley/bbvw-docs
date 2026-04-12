@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Thick Club](../img/items/thick-club.png) Thick Club (50%)
+- ![Thick Club (50%)](../img/items/unknown.png) Thick Club (50%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

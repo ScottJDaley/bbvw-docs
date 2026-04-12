@@ -37278,5 +37278,592 @@
     "Route 15",
     "Marvelous Bridge",
     "Challenger\u2019s Cave"
+  ],
+  "item_changes": {
+    "Nuvema Town": {
+      "General": [
+        {
+          "old": "Xtransceiver",
+          "new": "Bicycle"
+        },
+        {
+          "old": "Super Rod",
+          "new": "Gracidea"
+        }
+      ]
+    },
+    "Route 2": {
+      "General": [
+        {
+          "old": "Pok Ball",
+          "new": "Oval Stone"
+        },
+        {
+          "old": "Potion",
+          "new": "Everstone"
+        }
+      ]
+    },
+    "Striaton City": {
+      "General": [
+        {
+          "old": "Dusk Ball",
+          "new": "Dive Ball * 10"
+        },
+        {
+          "old": "Oran Berries * 3",
+          "new": "HM01 Cut"
+        },
+        {
+          "old": "HM01 Cut",
+          "new": "TM10 Hidden Power"
+        }
+      ]
+    },
+    "Dreamyard": {
+      "General": [
+        {
+          "old": "Repel",
+          "new": "TM23 Smack Down"
+        },
+        {
+          "old": "Poke Ball",
+          "new": "TM59 Incinerate"
+        },
+        {
+          "old": "TM75 Swords Dance",
+          "new": "Wide Lens"
+        },
+        {
+          "old": "Potion",
+          "new": "TM76 Struggle Bug"
+        },
+        {
+          "old": "Parlyz Heal",
+          "new": "TM88 Pluck"
+        }
+      ]
+    },
+    "Nacrene City": {
+      "General": [
+        {
+          "old": "Chesto Berry * 3",
+          "new": "Sun Stone * 6"
+        }
+      ]
+    },
+    "Route 3": {
+      "General": [
+        {
+          "old": "Heal Balls * 3",
+          "new": "Super Rod"
+        },
+        {
+          "old": "HP Up",
+          "new": "TM75 Swords Dance"
+        },
+        {
+          "old": "Full Heal",
+          "new": "TM77 Psych Up"
+        }
+      ]
+    },
+    "Pinwheel Forest": {
+      "General": [
+        {
+          "old": "Great Ball",
+          "new": "TM43 Flame Charge"
+        },
+        {
+          "old": "Miracle Seed",
+          "new": "King's Rock * 2"
+        },
+        {
+          "old": "Parlyz Heal",
+          "new": "Prism Scale"
+        },
+        {
+          "old": "Super Potion",
+          "new": "TM09 Venoshock"
+        },
+        {
+          "old": "Antidote",
+          "new": "TM95 Snarl"
+        },
+        {
+          "old": "Hyper Potion",
+          "new": "Miracle Seed"
+        },
+        {
+          "old": "Moon Stone (NPC)",
+          "new": "Moon Stone * 6"
+        }
+      ]
+    },
+    "Castelia City": {
+      "General": [
+        {
+          "old": "Exp Share",
+          "new": "Exp Share * 6"
+        },
+        {
+          "old": "Quick Ball * 3",
+          "new": "TM04 Calm Mind"
+        },
+        {
+          "old": "Timer Ball * 3",
+          "new": "TM08 Bulk Up"
+        },
+        {
+          "old": "Lemonade (NPC)",
+          "new": "TM48 Round"
+        },
+        {
+          "old": "TM76 Struggle Bug (NPC)",
+          "new": "TM89 U-turn"
+        },
+        {
+          "old": "Leaf Stone (NPC)",
+          "new": "Leaf Stone * 6"
+        },
+        {
+          "old": "Fire Stone (NPC)",
+          "new": "Fire Stone * 6"
+        },
+        {
+          "old": "Water Stone (NPC)",
+          "new": "Water Stone * 6"
+        }
+      ]
+    },
+    "Route 4": {
+      "General": [
+        {
+          "old": "Hyper Potion",
+          "new": "Cover Fossil"
+        },
+        {
+          "old": "Great Ball",
+          "new": "Plume Fossil"
+        },
+        {
+          "old": "Burn Heal",
+          "new": "Root Fossil"
+        },
+        {
+          "old": "X Accuarcy",
+          "new": "Skull Fossil"
+        }
+      ]
+    },
+    "Desert Resort": {
+      "General": [
+        {
+          "old": "Fresh Water",
+          "new": "Helix Fossil"
+        },
+        {
+          "old": "Stardust",
+          "new": "Claw Fossil"
+        },
+        {
+          "old": "BlackGlasses",
+          "new": "Dome Fossil"
+        },
+        {
+          "old": "Super Potion",
+          "new": "Armor Fossil"
+        },
+        {
+          "old": "Fire Stone",
+          "new": "Fire Stone * 6"
+        }
+      ]
+    },
+    "Relic Castle": {
+      "General": [
+        {
+          "old": "Revive",
+          "new": "Old Amber"
+        },
+        {
+          "old": "Cover Fossil (NPC)",
+          "new": "DeepSeaTooth"
+        },
+        {
+          "old": "Plume Fossil (NPC)",
+          "new": "DeepSeaScale"
+        },
+        {
+          "old": "TM04 Calm Mind (NPC)",
+          "new": "Choice Specs"
+        },
+        {
+          "old": "TM26 Earthquake",
+          "new": "Rare Bone"
+        },
+        {
+          "old": "Max Potion",
+          "new": "TM35 Flamethrower"
+        }
+      ]
+    },
+    "Nimbasa City": {
+      "General": [
+        {
+          "old": "Ultra Ball * 10 (NPC)",
+          "new": "Cherish Ball * 20"
+        },
+        {
+          "old": "Bicycle (NPC)",
+          "new": "HM02 Fly"
+        },
+        {
+          "old": "TM72 Volt Switch (NPC)",
+          "new": "TM93 Wild Charge"
+        },
+        {
+          "old": "Sun Stone (NPC)",
+          "new": "Shiny Stone * 6"
+        },
+        {
+          "old": "X Attack",
+          "new": "ThunderStone * 6"
+        }
+      ]
+    },
+    "Route 5": {
+      "General": [
+        {
+          "old": "Zinc",
+          "new": "Up-Grade"
+        },
+        {
+          "old": "Hyper Potion",
+          "new": "TM72 Volt Switch"
+        },
+        {
+          "old": "Great Ball",
+          "new": "BlackGlasses"
+        }
+      ]
+    },
+    "Cold Storage": {
+      "Outside": [
+        {
+          "old": "Protein",
+          "new": "Dawn Stone * 6"
+        },
+        {
+          "old": "Ether",
+          "new": "Razor Fang"
+        }
+      ],
+      "Inside": [
+        {
+          "old": "Net Ball",
+          "new": "Metal Coat * 2"
+        },
+        {
+          "old": "TM01 Hone Claws (NPC)",
+          "new": "Choice Scarf"
+        },
+        {
+          "old": "Ice Heal",
+          "new": "Razor Claw"
+        }
+      ]
+    },
+    "Driftveil City": {
+      "General": [
+        {
+          "old": "HM02 Fly (NPC)",
+          "new": "RageCandyBar"
+        },
+        {
+          "old": "Water Stone",
+          "new": "Water Stone * 6"
+        }
+      ]
+    },
+    "Route 6": {
+      "General": [
+        {
+          "old": "Hyper Potion",
+          "new": "TM53 Energy Ball"
+        },
+        {
+          "old": "Shiny Stone (NPC)",
+          "new": "Dusk Stone * 6"
+        },
+        {
+          "old": "Leaf Stone (NPC)",
+          "new": "Starf Berry * 3"
+        },
+        {
+          "old": "Leaf Stone",
+          "new": "Leaf Stone * 6"
+        }
+      ]
+    },
+    "Chargestone Cave": {
+      "General": [
+        {
+          "old": "Lucky Egg",
+          "new": "Lucky Egg * 6"
+        },
+        {
+          "old": "TM69 Rock Polish (NPC)",
+          "new": "Life Orb"
+        },
+        {
+          "old": "ThunderStone",
+          "new": "Electirizer"
+        }
+      ]
+    },
+    "Route 7": {
+      "General": [
+        {
+          "old": "Ultra Ball",
+          "new": "Magmarizer"
+        }
+      ]
+    },
+    "Celestial Tower": {
+      "General": [
+        {
+          "old": "Revive",
+          "new": "Reaper Cloth"
+        },
+        {
+          "old": "Hyper Potion",
+          "new": "TM19 Telekenesis"
+        }
+      ]
+    },
+    "Mistralton Cave": {
+      "General": [
+        {
+          "old": "Dusk Stone",
+          "new": "Protector"
+        },
+        {
+          "old": "Max Repel",
+          "new": "TM69 Rock Polish"
+        }
+      ]
+    },
+    "Icirrus City": {
+      "General": [
+        {
+          "old": "TM79 Frost Breath (NPC)",
+          "new": "TM13 Ice Beam"
+        }
+      ]
+    },
+    "Moor of Icirrus": {
+      "General": [
+        {
+          "old": "Carbos",
+          "new": "TM79 Frost Breath"
+        },
+        {
+          "old": "Ultra Ball",
+          "new": "TM34 Sludge Wave"
+        }
+      ]
+    },
+    "Dragonspiral Tower": {
+      "General": [
+        {
+          "old": "Shiny Stone",
+          "new": "TM29 Psychic"
+        }
+      ]
+    },
+    "Tubeline Bridge": {
+      "General": [
+        {
+          "old": "TM43 Flame Charge (NPC)",
+          "new": "TM71 Stone Edge"
+        }
+      ]
+    },
+    "Route 10": {
+      "General": [
+        {
+          "old": "Dusk Stone (NPC)",
+          "new": "TM64 Explosion"
+        },
+        {
+          "old": "Dawn Stone",
+          "new": "TM26 Earthquake"
+        }
+      ]
+    },
+    "Victory Road": {
+      "General": [
+        {
+          "old": "TM93 Wild Charge",
+          "new": "Power Herb"
+        }
+      ]
+    },
+    "Route 11": {
+      "General": [
+        {
+          "old": "Protector",
+          "new": "Air Balloon"
+        }
+      ]
+    },
+    "Route 12": {
+      "General": [
+        {
+          "old": "TM53 Energy Ball",
+          "new": "Light Ball"
+        }
+      ]
+    },
+    "Route 13": {
+      "General": [
+        {
+          "old": "Electirizer",
+          "new": "Binding Band"
+        },
+        {
+          "old": "Razor Claw",
+          "new": "Grip Claw"
+        },
+        {
+          "old": "Prism Scale",
+          "new": "Shed Shell"
+        },
+        {
+          "old": "TM29 Psychic",
+          "new": "TM32 Double Team"
+        },
+        {
+          "old": "TM89 U-turn (NPC)",
+          "new": "Metronome"
+        }
+      ]
+    },
+    "Route 14": {
+      "General": [
+        {
+          "old": "Reaper Cloth",
+          "new": "Light Clay"
+        },
+        {
+          "old": "TM08 Bulk Up (NPC)",
+          "new": "Choice Band"
+        }
+      ]
+    },
+    "Route 15": {
+      "General": [
+        {
+          "old": "Up-Grade",
+          "new": "Thick Club"
+        },
+        {
+          "old": "TM09 Venoshock",
+          "new": "Black Sludge"
+        }
+      ]
+    },
+    "Route 16": {
+      "General": [
+        {
+          "old": "Rare Candy",
+          "new": "TM03 Psyshock"
+        }
+      ]
+    },
+    "Route 18": {
+      "General": [
+        {
+          "old": "TM32 Double Team (NPC)",
+          "new": "Zoom Lens"
+        },
+        {
+          "old": "TM19 Telekenesis",
+          "new": "TM87 Swagger"
+        }
+      ]
+    },
+    "Lostlorn Forest": {
+      "General": [
+        {
+          "old": "Big Mushroom",
+          "new": "TM01 Hone Claws"
+        }
+      ]
+    },
+    "Abundant Shrine": {
+      "General": [
+        {
+          "old": "Razor Fang",
+          "new": "Enigma Berry"
+        },
+        {
+          "old": "TM35 Flamethrower",
+          "new": "Soul Dew"
+        }
+      ]
+    },
+    "Giant Chasm": {
+      "General": [
+        {
+          "old": "TM03 Psyshock",
+          "new": "Rare Candy * 50"
+        },
+        {
+          "old": "TM13 Ice Beam",
+          "new": "God Stone"
+        }
+      ]
+    },
+    "Challenger's Cave": {
+      "General": [
+        {
+          "old": "Oval Stone",
+          "new": "Master Ball"
+        },
+        {
+          "old": "TM71 Stone Edge",
+          "new": "Master Ball"
+        },
+        {
+          "old": "PP Up",
+          "new": "PP Max"
+        },
+        {
+          "old": "Nugget",
+          "new": "Master Ball"
+        },
+        {
+          "old": "Timer Ball",
+          "new": "Master Ball"
+        },
+        {
+          "old": "Protein",
+          "new": "Master Ball"
+        }
+      ]
+    }
+  },
+  "use_items": [
+    "Dragon Scale",
+    "Dubious Disc",
+    "Electirizer",
+    "Magmarizer",
+    "Prism Scale",
+    "Protector",
+    "Reaper Cloth",
+    "Up-Grade",
+    "Oval Stone"
   ]
 }

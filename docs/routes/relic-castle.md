@@ -44,62 +44,72 @@
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
 
+## General Items
+| Item | Original |
+| --- | --- |
+| ![Old Amber](../img/items/old-amber.png) [Old Amber](../items/old-amber.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Revive</span> |
+| ![DeepSeaTooth](../img/items/unknown.png) DeepSeaTooth | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Cover Fossil (NPC)</span> |
+| ![DeepSeaScale](../img/items/unknown.png) DeepSeaScale | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Plume Fossil (NPC)</span> |
+| ![Choice Specs](../img/items/choice-specs.png) [Choice Specs](../items/choice-specs.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM04 Calm Mind (NPC)</span> |
+| ![Rare Bone](../img/items/rare-bone.png) Rare Bone | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM26 Earthquake</span> |
+| ![TM35 Flamethrower](../img/items/tm-fire.png) [TM35 Flamethrower](../items/tm35.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Potion</span> |
+
 
 ## Trainers
 ### Psychic Perry
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) | 32 | - | - |  |
-| ![Duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) | 32 | - | - |  |
+| ![Gothorita](../img/pokemon/575.png) | [Gothorita](../pokemon/gothorita.md) | 32 | - | ![-](../img/items/unknown.png) - |  |
+| ![Duosion](../img/pokemon/578.png) | [Duosion](../pokemon/duosion.md) | 32 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Psychic Dua
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) | 31 | - | - |  |
-| ![Elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) | 31 | - | - |  |
-| ![Sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 31 | - | - |  |
+| ![Litwick](../img/pokemon/607.png) | [Litwick](../pokemon/litwick.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
+| ![Elgyem](../img/pokemon/605.png) | [Elgyem](../pokemon/elgyem.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
+| ![Sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 31 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 58 | - | - |  |
-| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 58 | - | - |  |
-| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 58 | - | - |  |
+| ![Linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 58 | - | - |  |
-| ![Crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) | 58 | - | - |  |
-| ![Rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) | 58 | - | - |  |
+| ![Ariados](../img/pokemon/168.png) | [Ariados](../pokemon/ariados.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Crobat](../img/pokemon/169.png) | [Crobat](../pokemon/crobat.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) | 58 | - | - |  |
-| ![Muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 58 | - | - |  |
-| ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 58 | - | - |  |
+| ![Weezing](../img/pokemon/110.png) | [Weezing](../pokemon/weezing.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
+| ![Garbodor](../img/pokemon/569.png) | [Garbodor](../pokemon/garbodor.md) | 58 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 60 | - | - |  |
+| ![Krookodile](../img/pokemon/553.png) | [Krookodile](../pokemon/krookodile.md) | 60 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 59 | - | - |  |
-| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 59 | - | - |  |
+| ![Bisharp](../img/pokemon/625.png) | [Bisharp](../pokemon/bisharp.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
+| ![Drapion](../img/pokemon/452.png) | [Drapion](../pokemon/drapion.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 59 | - | - |  |
-| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 59 | - | - |  |
+| ![Scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
+| ![Liepard](../img/pokemon/510.png) | [Liepard](../pokemon/liepard.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
 
 ### Plasma Grunt
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 59 | - | - |  |
-| ![Seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 59 | - | - |  |
+| ![Tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
+| ![Seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 59 | - | ![-](../img/items/unknown.png) - |  |
 
