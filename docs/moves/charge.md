@@ -1,6 +1,6 @@
 # Charge
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

@@ -1,10 +1,10 @@
 # Hydro pump
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 110  
+**Power:** 120  
 **Accuracy:** 80  
 **PP:** 5  
 

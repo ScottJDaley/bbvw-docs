@@ -1,6 +1,6 @@
 # Sky attack
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch.
+User charges for one turn before attacking.  Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

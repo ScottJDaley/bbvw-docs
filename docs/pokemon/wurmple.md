@@ -60,10 +60,13 @@ None
 | 1  <span class="pill pill-shifted">SHIFTED</span> | [Bug bite](../moves/bug-bite.md) | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
 | 1  <span class="pill pill-shifted">SHIFTED</span> | [Poison sting](../moves/poison-sting.md) | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 15 | 100 | 35 |
 | 1  | [String shot](../moves/string-shot.md) | ![bug](../img/types/bug.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |
-| 1  | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1  | [String shot](../moves/string-shot.md) | ![bug](../img/types/bug.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 95 | 40 |
+| 1  | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 35 |
+| 1  | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 35 |
 
 ## Tutor Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | [Electroweb](../moves/electroweb.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
-|  | [Snore](../moves/snore.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| - | [Bug bite](../moves/bug-bite.md) | ![bug](../img/types/bug.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 20 |
+| - | [Electroweb](../moves/electroweb.md) | ![electric](../img/types/electric.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 55 | 95 | 15 |
+| - | [Snore](../moves/snore.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |

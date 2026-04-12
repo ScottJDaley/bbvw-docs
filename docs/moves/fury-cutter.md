@@ -1,10 +1,10 @@
 # Fury cutter
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 40  
+**Power:** 20  
 **Accuracy:** 95  
 **PP:** 20  
 

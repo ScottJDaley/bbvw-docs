@@ -1,6 +1,6 @@
 # Gust
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

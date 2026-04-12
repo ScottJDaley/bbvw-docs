@@ -1,6 +1,6 @@
 # Sand attack
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

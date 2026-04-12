@@ -1,6 +1,6 @@
 # Icicle crash
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

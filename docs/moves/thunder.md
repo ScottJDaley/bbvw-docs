@@ -4,12 +4,12 @@
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 110  
+**Power:** 120  
 **Accuracy:** 70  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 30% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,6 +1,6 @@
 # Relic song
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to put the target to sleep.
+Has a 10% chance to put the target to sleep.
 
 ## Learned by
 | Sprite | Pokemon |

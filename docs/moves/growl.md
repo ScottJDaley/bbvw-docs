@@ -1,6 +1,6 @@
 # Growl
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

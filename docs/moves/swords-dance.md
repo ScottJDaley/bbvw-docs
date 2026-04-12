@@ -6,7 +6,7 @@
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
-**PP:** 20  
+**PP:** 30  
 
 ## Description
 Raises the user’s Attack by two stages.

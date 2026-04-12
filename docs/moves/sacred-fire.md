@@ -1,6 +1,6 @@
 # Sacred fire
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.
+Has a 50% chance to burn the target.  Lets frozen Pokémon thaw themselves.
 
 ## Learned by
 | Sprite | Pokemon |

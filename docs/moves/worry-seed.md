@@ -1,6 +1,6 @@
 # Worry seed
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

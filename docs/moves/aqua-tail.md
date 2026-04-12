@@ -1,6 +1,6 @@
 # Aqua tail
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

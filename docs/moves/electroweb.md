@@ -1,6 +1,6 @@
 # Electroweb
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

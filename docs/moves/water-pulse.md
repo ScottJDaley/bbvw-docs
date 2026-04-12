@@ -1,6 +1,6 @@
 # Water pulse
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 20% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

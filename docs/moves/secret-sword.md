@@ -1,6 +1,6 @@
 # Secret sword
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

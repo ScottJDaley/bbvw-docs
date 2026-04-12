@@ -67,15 +67,17 @@ None
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1  <span class="pill pill-new">NEW</span> | [Growth](../moves/growth.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| 1  <span class="pill pill-new">NEW</span> | [Growth](../moves/growth.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 1  | [Helping hand](../moves/helping-hand.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
-| 1  | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 35 |
+| 1  | [Tackle](../moves/tackle.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 35 |
 | 1  | [Tail whip](../moves/tail-whip.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 30 |
 | 8  | [Sand attack](../moves/sand-attack.md) | ![ground](../img/types/ground.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
 | 13  | [Growl](../moves/growl.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 40 |
 | 18  | [Quick attack](../moves/quick-attack.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 30 |
+| 21  | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 40 |
 | 23  | [Bite](../moves/bite.md) | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
 | 28  <span class="pill pill-new">NEW</span> | [Yawn](../moves/yawn.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 29  | [Charm](../moves/charm.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | 33  | [Baton pass](../moves/baton-pass.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 40 |
 | 37  | [Double edge](../moves/double-edge.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 | 38  | [Take down](../moves/take-down.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 85 | 20 |
@@ -88,47 +90,82 @@ None
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | TM86  <span class="pill pill-new">NEW</span>| [Grass knot](../moves/grass-knot.md) | ![grass](../img/types/grass.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM45 | [Attract](../moves/attract.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| TM45 | [Attract](../moves/attract.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| TM28 | [Dig](../moves/dig.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | 100 | 10 |
 | TM28 | [Dig](../moves/dig.md) | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">100</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | 100 | 10 |
 | TM32 | [Double team](../moves/double-team.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| TM32 | [Double team](../moves/double-team.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 15 |
+| TM49 | [Echoed voice](../moves/echoed-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | TM49 | [Echoed voice](../moves/echoed-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |
 | TM42 | [Facade](../moves/facade.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
+| TM42 | [Facade](../moves/facade.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 20 |
 | TM21 | [Frustration](../moves/frustration.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-| TM10 | [Hidden power](../moves/hidden-power.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
+| TM21 | [Frustration](../moves/frustration.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| TM10 | [Hidden power](../moves/hidden-power.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 1 | 100 | 15 |
+| TM10 | [Hidden power](../moves/hidden-power.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 1 | 100 | 15 |
+| TM17 | [Protect](../moves/protect.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | TM17 | [Protect](../moves/protect.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | TM18 | [Rain dance](../moves/rain-dance.md) | ![water](../img/types/water.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| TM18 | [Rain dance](../moves/rain-dance.md) | ![water](../img/types/water.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| TM44 | [Rest](../moves/rest.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | TM44 | [Rest](../moves/rest.md) | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | TM67 | [Retaliate](../moves/retaliate.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
+| TM67 | [Retaliate](../moves/retaliate.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
+| TM27 | [Return](../moves/return.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM27 | [Return](../moves/return.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
 | TM48 | [Round](../moves/round.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
+| TM48 | [Round](../moves/round.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 15 |
+| TM30 | [Shadow ball](../moves/shadow-ball.md) | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | 100 | 15 |
 | TM30 | [Shadow ball](../moves/shadow-ball.md) | ![ghost](../img/types/ghost.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span> | 100 | 15 |
 | TM90 | [Substitute](../moves/substitute.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| TM90 | [Substitute](../moves/substitute.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 | TM11 | [Sunny day](../moves/sunny-day.md) | ![fire](../img/types/fire.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-| TM87 | [Swagger](../moves/swagger.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 85 | 15 |
+| TM11 | [Sunny day](../moves/sunny-day.md) | ![fire](../img/types/fire.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| TM87 | [Swagger](../moves/swagger.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 15 |
+| TM87 | [Swagger](../moves/swagger.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 15 |
 | TM06 | [Toxic](../moves/toxic.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| TM06 | [Toxic](../moves/toxic.md) | ![poison](../img/types/poison.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 90 | 10 |
+| TM83 | [Work up](../moves/work-up.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
 | TM83 | [Work up](../moves/work-up.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 30 |
 
 ## Egg Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | [Charm](../moves/charm.md) | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-|  | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 25 |
-|  | [Curse](../moves/curse.md) | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
-|  | [Detect](../moves/detect.md) | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-|  | [Endure](../moves/endure.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
-|  | [Fake tears](../moves/fake-tears.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-|  | [Flail](../moves/flail.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
-|  | [Natural gift](../moves/natural-gift.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
-|  | [Stored power](../moves/stored-power.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
-|  | [Synchronoise](../moves/synchronoise.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 10 |
-|  | [Tickle](../moves/tickle.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
-|  | [Wish](../moves/wish.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
-|  | [Yawn](../moves/yawn.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Charm](../moves/charm.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Charm](../moves/charm.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 40 |
+| - | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 40 |
+| - | [Curse](../moves/curse.md) | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Curse](../moves/curse.md) | ![ghost](../img/types/ghost.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Detect](../moves/detect.md) | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| - | [Detect](../moves/detect.md) | ![fighting](../img/types/fighting.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| - | [Endure](../moves/endure.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Endure](../moves/endure.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Fake tears](../moves/fake-tears.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Fake tears](../moves/fake-tears.md) | ![dark](../img/types/dark.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Flail](../moves/flail.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| - | [Flail](../moves/flail.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| - | [Natural gift](../moves/natural-gift.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| - | [Natural gift](../moves/natural-gift.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 15 |
+| - | [Stored power](../moves/stored-power.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| - | [Stored power](../moves/stored-power.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 20 | 100 | 10 |
+| - | [Synchronoise](../moves/synchronoise.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
+| - | [Synchronoise](../moves/synchronoise.md) | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 15 |
+| - | [Tickle](../moves/tickle.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Tickle](../moves/tickle.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | 100 | 20 |
+| - | [Wish](../moves/wish.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Wish](../moves/wish.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Yawn](../moves/yawn.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Yawn](../moves/yawn.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
 
 ## Tutor Moves
 | No. | Move | Type | Cat | Power | Acc | PP |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | [Heal bell](../moves/heal-bell.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
-|  | [Hyper voice](../moves/hyper-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
-|  | [Iron tail](../moves/iron-tail.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
-|  | [Sleep talk](../moves/sleep-talk.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
-|  | [Snore](../moves/snore.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 50 | 100 | 15 |
+| - | [Covet](../moves/covet.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 60 | 100 | 40 |
+| - | [Heal bell](../moves/heal-bell.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
+| - | [Helping hand](../moves/helping-hand.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 20 |
+| - | [Hyper voice](../moves/hyper-voice.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| - | [Iron tail](../moves/iron-tail.md) | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 100 | 75 | 15 |
+| - | [Last resort](../moves/last-resort.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 140 | 100 | 5 |
+| - | [Sleep talk](../moves/sleep-talk.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| - | [Snore](../moves/snore.md) | ![normal](../img/types/normal.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 40 | 100 | 15 |

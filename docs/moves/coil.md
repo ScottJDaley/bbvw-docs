@@ -1,6 +1,6 @@
 # Coil
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

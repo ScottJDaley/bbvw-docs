@@ -1,11 +1,11 @@
 # Pin missile
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 25  
-**Accuracy:** 95  
+**Power:** <span style="color:green; font-weight:bold;">25</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">14</span>  
+**Accuracy:** 85  
 **PP:** 20  
 
 ## Description

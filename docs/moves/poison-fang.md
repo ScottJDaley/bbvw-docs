@@ -1,6 +1,6 @@
 # Poison fang
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to badly poison the target.
+Has a 50% chance to badly poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

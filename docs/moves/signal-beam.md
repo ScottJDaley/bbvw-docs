@@ -1,6 +1,6 @@
 # Signal beam
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 10% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

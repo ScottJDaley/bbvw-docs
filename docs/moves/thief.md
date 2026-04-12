@@ -4,9 +4,9 @@
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 60  
+**Power:** 40  
 **Accuracy:** 100  
-**PP:** 25  
+**PP:** 10  
 
 ## Description
 Takes the target’s item.

@@ -1,6 +1,6 @@
 # Bite
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 25  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

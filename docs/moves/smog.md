@@ -1,15 +1,15 @@
 # Smog
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 30  
+**Power:** 20  
 **Accuracy:** 70  
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to poison the target.
+Has a 40% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

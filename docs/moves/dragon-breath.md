@@ -1,6 +1,6 @@
 # Dragon breath
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 30% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,10 +1,10 @@
 # Assurance
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 60  
+**Power:** 50  
 **Accuracy:** 100  
 **PP:** 10  
 

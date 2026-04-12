@@ -1,15 +1,15 @@
 # Lick
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 30  
+**Power:** 20  
 **Accuracy:** 100  
 **PP:** 30  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 30% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

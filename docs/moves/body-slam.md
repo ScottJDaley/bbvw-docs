@@ -1,6 +1,6 @@
 # Body slam
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 30% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

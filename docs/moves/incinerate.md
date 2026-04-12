@@ -4,7 +4,7 @@
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** <span style="color:green; font-weight:bold;">50</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">60</span>  
+**Power:** <span style="color:green; font-weight:bold;">50</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">30</span>  
 **Accuracy:** 100  
 **PP:** 15  
 

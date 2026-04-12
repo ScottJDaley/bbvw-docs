@@ -1,6 +1,6 @@
 # Poison sting
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 35  
 
 ## Description
-Has a $effect_chance% chance to poison the target.
+Has a 30% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

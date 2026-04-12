@@ -1,15 +1,15 @@
 # Heat wave
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 95  
+**Power:** 100  
 **Accuracy:** 90  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to burn the target.
+Has a 10% chance to burn the target.
 
 ## Learned by
 | Sprite | Pokemon |

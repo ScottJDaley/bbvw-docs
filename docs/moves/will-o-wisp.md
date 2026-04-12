@@ -5,7 +5,7 @@
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 85  
+**Accuracy:** 75  
 **PP:** 15  
 
 ## Description

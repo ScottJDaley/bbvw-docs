@@ -1,10 +1,10 @@
 # Wake up slap
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 70  
+**Power:** 60  
 **Accuracy:** 100  
 **PP:** 10  
 

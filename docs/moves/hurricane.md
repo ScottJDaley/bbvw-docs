@@ -1,15 +1,15 @@
 # Hurricane
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 110  
+**Power:** 120  
 **Accuracy:** 70  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 30% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,6 +1,6 @@
 # Psycho cut
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

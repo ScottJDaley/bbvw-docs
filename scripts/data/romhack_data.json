@@ -27260,7 +27260,12 @@
     ]
   },
   "move_stat_changes": {
-    "pin-missile": {},
+    "pin-missile": {
+      "power": {
+        "old": 14,
+        "new": 25
+      }
+    },
     "spike-cannon": {
       "power": {
         "old": 20,
@@ -27293,11 +27298,16 @@
     },
     "incinerate": {
       "power": {
-        "old": 60,
+        "old": 30,
         "new": 50
       }
     },
-    "struggle-bug": {},
+    "struggle-bug": {
+      "power": {
+        "old": 30,
+        "new": 50
+      }
+    },
     "twister": {
       "power": {
         "old": 40,
@@ -27444,7 +27454,12 @@
         "new": 85
       }
     },
-    "energy-ball": {},
+    "energy-ball": {
+      "power": {
+        "old": 80,
+        "new": 90
+      }
+    },
     "dark-pulse": {
       "power": {
         "old": 80,
@@ -27471,7 +27486,7 @@
     },
     "power-gem": {
       "power": {
-        "old": 80,
+        "old": 70,
         "new": 90
       }
     },
@@ -27505,7 +27520,7 @@
     },
     "grass-pledge": {
       "power": {
-        "old": 80,
+        "old": 50,
         "new": 100
       }
     },

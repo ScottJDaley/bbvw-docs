@@ -1,10 +1,10 @@
 # Tackle
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 40  
+**Power:** 50  
 **Accuracy:** 100  
 **PP:** 35  
 

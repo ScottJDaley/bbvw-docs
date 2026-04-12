@@ -4,12 +4,12 @@
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 90  
+**Power:** <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">80</span>  
 **Accuracy:** 100  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Defense by one stage.
+Has a 10% chance to lower the target’s Special Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,12 +1,12 @@
 # Covet
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 60  
 **Accuracy:** 100  
-**PP:** 25  
+**PP:** 40  
 
 ## Description
 Takes the target’s item.

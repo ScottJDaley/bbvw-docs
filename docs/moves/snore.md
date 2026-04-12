@@ -1,15 +1,15 @@
 # Snore
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 50  
+**Power:** 40  
 **Accuracy:** 100  
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.
+Has a 30% chance to make the target flinch.  Only works if the user is sleeping.
 
 ## Learned by
 | Sprite | Pokemon |

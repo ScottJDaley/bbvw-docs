@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Speed by one stage.
+Has a 100% chance to lower the target’s Speed by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,11 +1,11 @@
 # Poison gas
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 90  
+**Accuracy:** 80  
 **PP:** 40  
 
 ## Description

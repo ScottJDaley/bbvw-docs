@@ -1,6 +1,6 @@
 # Mud bomb
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s accuracy by one stage.
+Has a 30% chance to lower the target’s accuracy by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

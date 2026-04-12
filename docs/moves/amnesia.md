@@ -1,6 +1,6 @@
 # Amnesia
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

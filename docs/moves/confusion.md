@@ -1,6 +1,6 @@
 # Confusion
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 25  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 10% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

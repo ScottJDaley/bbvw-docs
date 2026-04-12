@@ -1,6 +1,6 @@
 # Volt tackle
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target.
+User takes 1/3 the damage inflicted in recoil.  Has a 10% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

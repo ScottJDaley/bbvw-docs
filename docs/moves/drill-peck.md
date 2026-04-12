@@ -1,6 +1,6 @@
 # Drill peck
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,11 +1,11 @@
 # Glare
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 100  
+**Accuracy:** 90  
 **PP:** 30  
 
 ## Description

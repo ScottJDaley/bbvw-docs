@@ -5,7 +5,7 @@
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 85  
+**Accuracy:** 90  
 **PP:** 15  
 
 ## Description

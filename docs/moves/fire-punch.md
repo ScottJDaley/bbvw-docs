@@ -1,6 +1,6 @@
 # Fire punch
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to burn the target.
+Has a 10% chance to burn the target.
 
 ## Learned by
 | Sprite | Pokemon |

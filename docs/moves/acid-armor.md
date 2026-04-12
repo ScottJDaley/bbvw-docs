@@ -1,12 +1,12 @@
 # Acid armor
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
-**PP:** 20  
+**PP:** 40  
 
 ## Description
 Raises the user’s Defense by two stages.

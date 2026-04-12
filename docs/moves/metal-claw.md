@@ -1,6 +1,6 @@
 # Metal claw
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 35  
 
 ## Description
-Has a $effect_chance% chance to raise the user’s Attack by one stage.
+Has a 10% chance to raise the user’s Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

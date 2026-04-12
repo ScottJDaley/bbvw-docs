@@ -1,12 +1,12 @@
 # Minimize
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
-**PP:** 10  
+**PP:** 20  
 
 ## Description
 Raises the user’s evasion by two stages.

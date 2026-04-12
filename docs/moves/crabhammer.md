@@ -1,10 +1,10 @@
 # Crabhammer
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 100  
+**Power:** 90  
 **Accuracy:** 90  
 **PP:** 10  
 

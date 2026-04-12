@@ -1,15 +1,15 @@
 # Muddy water
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 90  
+**Power:** 95  
 **Accuracy:** 85  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s accuracy by one stage.
+Has a 30% chance to lower the target’s accuracy by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

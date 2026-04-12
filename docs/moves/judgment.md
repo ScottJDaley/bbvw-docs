@@ -1,6 +1,6 @@
 # Judgment
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

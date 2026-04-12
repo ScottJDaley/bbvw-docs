@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to raise the user’s Special Attack by one stage.
+Has a 70% chance to raise the user’s Special Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

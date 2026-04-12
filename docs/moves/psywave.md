@@ -1,11 +1,11 @@
 # Psywave
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 100  
+**Accuracy:** 80  
 **PP:** 15  
 
 ## Description

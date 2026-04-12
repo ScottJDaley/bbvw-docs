@@ -1,10 +1,10 @@
 # Water pledge
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 80  
+**Power:** 50  
 **Accuracy:** 100  
 **PP:** 10  
 

@@ -1,12 +1,12 @@
 # Vine whip
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 45  
+**Power:** 35  
 **Accuracy:** 100  
-**PP:** 25  
+**PP:** 15  
 
 ## Description
 Inflicts regular damage with no additional effect.

@@ -4,7 +4,7 @@
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 60  
+**Power:** 40  
 **Accuracy:** 90  
 **PP:** 10  
 

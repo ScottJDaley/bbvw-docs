@@ -1,10 +1,10 @@
 # Chatter
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 65  
+**Power:** 60  
 **Accuracy:** 100  
 **PP:** 20  
 

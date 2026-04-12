@@ -4,7 +4,7 @@
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 65  
+**Power:** 60  
 **Accuracy:** 100  
 **PP:** 20  
 

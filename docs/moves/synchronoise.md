@@ -1,12 +1,12 @@
 # Synchronoise
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 120  
+**Power:** 70  
 **Accuracy:** 100  
-**PP:** 10  
+**PP:** 15  
 
 ## Description
 Hits any Pokémon that shares a type with the user.

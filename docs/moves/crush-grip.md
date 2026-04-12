@@ -1,6 +1,6 @@
 # Crush grip
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,10 +1,10 @@
 # Magma storm
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 100  
+**Power:** 120  
 **Accuracy:** 75  
 **PP:** 5  
 

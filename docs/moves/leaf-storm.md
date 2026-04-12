@@ -1,10 +1,10 @@
 # Leaf storm
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 130  
+**Power:** 140  
 **Accuracy:** 90  
 **PP:** 5  
 

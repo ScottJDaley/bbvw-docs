@@ -1,6 +1,6 @@
 # Psystrike
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

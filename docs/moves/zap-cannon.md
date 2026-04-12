@@ -1,6 +1,6 @@
 # Zap cannon
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 100% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

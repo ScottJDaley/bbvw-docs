@@ -1,12 +1,12 @@
 # Submission
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 80  
 **Accuracy:** 80  
-**PP:** 20  
+**PP:** 25  
 
 ## Description
 User receives 1/4 the damage it inflicts in recoil.

@@ -1,6 +1,6 @@
 # Ice punch
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to freeze the target.
+Has a 10% chance to freeze the target.
 
 ## Learned by
 | Sprite | Pokemon |

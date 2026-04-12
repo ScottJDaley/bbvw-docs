@@ -1,6 +1,6 @@
 # Defog
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

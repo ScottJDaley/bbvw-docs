@@ -1,6 +1,6 @@
 # Luster purge
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Defense by one stage.
+Has a 50% chance to lower the target’s Special Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -4,12 +4,12 @@
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 50  
+**Power:** <span style="color:green; font-weight:bold;">50</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">30</span>  
 **Accuracy:** 100  
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Attack by one stage.
+Has a 100% chance to lower the target’s Special Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

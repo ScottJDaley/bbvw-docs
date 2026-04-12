@@ -1,15 +1,15 @@
 # Meteor mash
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 90  
-**Accuracy:** 90  
+**Power:** 100  
+**Accuracy:** 85  
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to raise the user’s Attack by one stage.
+Has a 20% chance to raise the user’s Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

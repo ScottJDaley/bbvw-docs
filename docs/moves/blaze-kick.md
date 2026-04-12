@@ -1,6 +1,6 @@
 # Blaze kick
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has an increased chance for a critical hit and a $effect_chance% chance to burn the target.
+Has an increased chance for a critical hit and a 10% chance to burn the target.
 
 ## Learned by
 | Sprite | Pokemon |

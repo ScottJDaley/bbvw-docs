@@ -1,6 +1,6 @@
 # Fire fang
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to burn the target and a $effect_chance% chance to make the target flinch.
+Has a 10% chance to burn the target and a 10% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

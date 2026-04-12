@@ -1,6 +1,6 @@
 # Heat crash
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

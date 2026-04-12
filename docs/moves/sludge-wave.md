@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to poison the target.
+Has a 10% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

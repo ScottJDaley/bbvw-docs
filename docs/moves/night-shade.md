@@ -1,6 +1,6 @@
 # Night shade
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

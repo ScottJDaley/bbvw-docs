@@ -4,12 +4,12 @@
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 90  
+**Power:** 95  
 **Accuracy:** 100  
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to burn the target.
+Has a 10% chance to burn the target.
 
 ## Learned by
 | Sprite | Pokemon |

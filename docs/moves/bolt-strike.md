@@ -1,6 +1,6 @@
 # Bolt strike
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 20% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

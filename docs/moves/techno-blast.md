@@ -1,10 +1,10 @@
 # Techno blast
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 120  
+**Power:** 85  
 **Accuracy:** 100  
 **PP:** 5  
 

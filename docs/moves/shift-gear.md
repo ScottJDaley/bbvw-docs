@@ -1,6 +1,6 @@
 # Shift gear
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

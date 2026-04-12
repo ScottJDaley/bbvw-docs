@@ -1,6 +1,6 @@
 # Fusion flare
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

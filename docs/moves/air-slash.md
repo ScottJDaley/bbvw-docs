@@ -1,15 +1,15 @@
 # Air slash
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
 **Power:** 75  
 **Accuracy:** 95  
-**PP:** 15  
+**PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

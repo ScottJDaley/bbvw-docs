@@ -1,6 +1,6 @@
 # Crunch
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Defense by one stage.
+Has a 20% chance to lower the target’s Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

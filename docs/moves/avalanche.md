@@ -1,6 +1,6 @@
 # Avalanche
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

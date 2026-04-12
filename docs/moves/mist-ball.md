@@ -1,15 +1,15 @@
 # Mist ball
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 95  
+**Power:** 70  
 **Accuracy:** 100  
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Attack by one stage.
+Has a 50% chance to lower the target’s Special Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

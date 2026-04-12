@@ -1,6 +1,6 @@
 # Rock wrecker
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

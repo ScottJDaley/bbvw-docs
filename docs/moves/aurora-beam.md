@@ -1,6 +1,6 @@
 # Aurora beam
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Attack by one stage.
+Has a 10% chance to lower the target’s Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

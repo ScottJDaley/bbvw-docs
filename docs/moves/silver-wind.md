@@ -1,6 +1,6 @@
 # Silver wind
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to raise all of the user’s stats by one stage.
+Has a 10% chance to raise all of the user’s stats by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

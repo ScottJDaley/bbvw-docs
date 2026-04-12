@@ -1,12 +1,12 @@
 # Growth
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
-**PP:** 20  
+**PP:** 40  
 
 ## Description
 Raises the user’s Attack and Special Attack by one stage.

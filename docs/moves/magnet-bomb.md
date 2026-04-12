@@ -1,6 +1,6 @@
 # Magnet bomb
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

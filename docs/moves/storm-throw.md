@@ -1,10 +1,10 @@
 # Storm throw
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 60  
+**Power:** 40  
 **Accuracy:** 100  
 **PP:** 10  
 

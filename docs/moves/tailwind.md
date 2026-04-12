@@ -1,12 +1,12 @@
 # Tailwind
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** -  
-**PP:** 15  
+**PP:** 30  
 
 ## Description
 For three turns, friendly Pokémon have doubled Speed.

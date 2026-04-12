@@ -1,6 +1,6 @@
 # Mega drain
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

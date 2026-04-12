@@ -1,6 +1,6 @@
 # Sheer cold
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

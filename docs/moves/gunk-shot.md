@@ -1,15 +1,15 @@
 # Gunk shot
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 120  
-**Accuracy:** 80  
+**Accuracy:** 70  
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to poison the target.
+Has a 30% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

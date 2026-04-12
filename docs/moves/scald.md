@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to burn the target.
+Has a 30% chance to burn the target.
 
 ## Learned by
 | Sprite | Pokemon |

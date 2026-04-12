@@ -4,12 +4,12 @@
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 60  
-**Accuracy:** 95  
-**PP:** 15  
+**Power:** 50  
+**Accuracy:** 80  
+**PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Speed by one stage.
+Has a 100% chance to lower the target’s Speed by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

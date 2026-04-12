@@ -1,6 +1,6 @@
 # Destiny bond
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

@@ -1,10 +1,10 @@
 # Knock off
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 65  
+**Power:** 20  
 **Accuracy:** 100  
 **PP:** 20  
 

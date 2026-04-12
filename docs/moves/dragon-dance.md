@@ -1,6 +1,6 @@
 # Dragon dance
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

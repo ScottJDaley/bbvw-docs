@@ -1,6 +1,6 @@
 # Dynamic punch
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 100% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

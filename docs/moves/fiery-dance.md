@@ -1,6 +1,6 @@
 # Fiery dance
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to raise the user’s Special Attack by one stage.
+Has a 50% chance to raise the user’s Special Attack by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

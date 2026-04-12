@@ -1,6 +1,6 @@
 # Outrage
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

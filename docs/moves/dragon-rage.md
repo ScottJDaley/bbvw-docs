@@ -1,6 +1,6 @@
 # Dragon rage
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

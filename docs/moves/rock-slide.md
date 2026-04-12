@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

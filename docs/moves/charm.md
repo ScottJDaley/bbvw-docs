@@ -1,8 +1,8 @@
 # Charm
 
-**TM/HM:** 
+**TM/HM:** -
 
-**Type:** ![fairy](../img/types/fairy.png)  
+**Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
 **Accuracy:** 100  

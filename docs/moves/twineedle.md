@@ -1,6 +1,6 @@
 # Twineedle
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.
+Hits twice in the same turn.  Has a 20% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

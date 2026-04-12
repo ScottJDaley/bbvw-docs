@@ -1,6 +1,6 @@
 # Crush claw
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Defense by one stage.
+Has a 50% chance to lower the target’s Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

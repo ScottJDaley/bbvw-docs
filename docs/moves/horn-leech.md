@@ -1,6 +1,6 @@
 # Horn leech
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,12 +1,12 @@
 # Skull bash
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 130  
+**Power:** 100  
 **Accuracy:** 100  
-**PP:** 10  
+**PP:** 15  
 
 ## Description
 Raises the user’s Defense by one stage.  User charges for one turn before attacking.

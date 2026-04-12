@@ -1,12 +1,12 @@
 # Sacred sword
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
 **Power:** 90  
 **Accuracy:** 100  
-**PP:** 15  
+**PP:** 20  
 
 ## Description
 Ignores the target’s stat modifiers.

@@ -1,6 +1,6 @@
 # Tri attack
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 10  
 
 ## Description
-Has a $effect_chance% chance to burn, freeze, or paralyze the target.
+Has a 20% chance to burn, freeze, or paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

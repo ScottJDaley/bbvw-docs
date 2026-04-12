@@ -1,10 +1,10 @@
 # Fire pledge
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 80  
+**Power:** 50  
 **Accuracy:** 100  
 **PP:** 10  
 

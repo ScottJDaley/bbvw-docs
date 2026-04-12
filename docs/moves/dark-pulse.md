@@ -1,6 +1,6 @@
 # Dark pulse
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 20% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

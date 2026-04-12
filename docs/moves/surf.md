@@ -4,7 +4,7 @@
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 90  
+**Power:** 95  
 **Accuracy:** 100  
 **PP:** 15  
 

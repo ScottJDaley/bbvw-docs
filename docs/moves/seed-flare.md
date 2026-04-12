@@ -1,6 +1,6 @@
 # Seed flare
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Defense by two stages.
+Has a 40% chance to lower the target’s Special Defense by two stages.
 
 ## Learned by
 | Sprite | Pokemon |

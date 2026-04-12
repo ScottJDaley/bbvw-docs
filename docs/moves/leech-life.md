@@ -1,12 +1,12 @@
 # Leech life
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
-**Power:** 80  
+**Power:** 20  
 **Accuracy:** 100  
-**PP:** 10  
+**PP:** 15  
 
 ## Description
 Drains half the damage inflicted to heal the user.

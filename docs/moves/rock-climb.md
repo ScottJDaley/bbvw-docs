@@ -1,6 +1,6 @@
 # Rock climb
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to confuse the target.
+Has a 20% chance to confuse the target.
 
 ## Learned by
 | Sprite | Pokemon |

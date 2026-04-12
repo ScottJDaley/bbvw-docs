@@ -1,6 +1,6 @@
 # Acid
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 30  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Special Defense by one stage.
+Has a 10% chance to lower the target’s Special Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

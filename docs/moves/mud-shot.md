@@ -1,6 +1,6 @@
 # Mud shot
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Speed by one stage.
+Has a 100% chance to lower the target’s Speed by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

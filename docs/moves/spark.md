@@ -1,6 +1,6 @@
 # Spark
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has a $effect_chance% chance to paralyze the target.
+Has a 30% chance to paralyze the target.
 
 ## Learned by
 | Sprite | Pokemon |

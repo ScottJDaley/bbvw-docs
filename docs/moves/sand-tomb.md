@@ -1,6 +1,6 @@
 # Sand tomb
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -4,7 +4,7 @@
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 130  
+**Power:** 140  
 **Accuracy:** 90  
 **PP:** 5  
 

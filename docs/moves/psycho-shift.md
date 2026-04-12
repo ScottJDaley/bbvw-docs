@@ -1,11 +1,11 @@
 # Psycho shift
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  
 **Power:** -  
-**Accuracy:** 100  
+**Accuracy:** 90  
 **PP:** 10  
 
 ## Description

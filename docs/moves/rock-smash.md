@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to lower the target’s Defense by one stage.
+Has a 50% chance to lower the target’s Defense by one stage.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -1,6 +1,6 @@
 # Astonish
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 15  
 
 ## Description
-Has a $effect_chance% chance to make the target flinch.
+Has a 30% chance to make the target flinch.
 
 ## Learned by
 | Sprite | Pokemon |

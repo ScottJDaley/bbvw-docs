@@ -1,6 +1,6 @@
 # Cross poison
 
-**TM/HM:** 
+**TM/HM:** -
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
@@ -9,7 +9,7 @@
 **PP:** 20  
 
 ## Description
-Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.
+Has an increased chance for a critical hit and a 10% chance to poison the target.
 
 ## Learned by
 | Sprite | Pokemon |

@@ -4,12 +4,12 @@
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  
-**Power:** 110  
+**Power:** 120  
 **Accuracy:** 70  
 **PP:** 5  
 
 ## Description
-Has a $effect_chance% chance to freeze the target.
+Has a 10% chance to freeze the target.
 
 ## Learned by
 | Sprite | Pokemon |
