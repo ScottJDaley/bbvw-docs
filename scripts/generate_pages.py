@@ -50,6 +50,18 @@ FIX_MOVES = {
     'featherdance': 'feather-dance', 'reflect,-light-screen': 'reflect', 'nothing': '', 'baculin': 'basculin'
 }
 
+WRITTEN_FILES = set()
+
+def write_if_changed(file_path, content):
+    WRITTEN_FILES.add(os.path.abspath(file_path))
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            if f.read() == content: return
+    
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
 def normalize_name(name):
     if not name: return ""
     name = re.sub(r'([a-z])([A-Z])', r'\1-\2', name)
@@ -373,33 +385,22 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
                 md += "\n"
-    
-    # Combined items section
     md += "## Items\n"
     base_loc_items = base_data.get('location_items', {}).get(name, {})
     rom_loc_items = rom_item_changes.get(name, {})
     all_subareas = sorted(set(list(base_loc_items.keys()) + list(rom_loc_items.keys())))
-    
     for sub in all_subareas:
         md += f"### {sub}\n| Item | Original |\n| --- | --- |\n"
-        sub_rom = rom_loc_items.get(sub, [])
-        sub_base = base_loc_items.get(sub, [])
-        
+        sub_rom = rom_loc_items.get(sub, []); sub_base = base_loc_items.get(sub, [])
         processed_base = set()
-        # 1. Show ROM changes (replacements)
         for change in sub_rom:
             old_norm = normalize_item_name(change['old'])
             md += f"| {get_item_display_linked(change['new'], base_data)} | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{change['old']}</span> |\n"
-            # Mark this base item as processed if it matches exactly
             for b in sub_base:
                 if normalize_item_name(b['name']) == old_norm: processed_base.add(b['name'])
-        
-        # 2. Show remaining base items
         for b in sub_base:
-            if b['name'] not in processed_base:
-                md += f"| {get_item_display_linked(b['name'].replace('-', ' ').capitalize(), base_data)} | |\n"
+            if b['name'] not in processed_base: md += f"| {get_item_display_linked(b['name'].replace('-', ' ').capitalize(), base_data)} | |\n"
         md += "\n"
-
     lt = t_d.get(name)
     if lt:
         md += "## Trainers\n"
@@ -426,9 +427,6 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
     return md
 
 if __name__ == "__main__":
-    for d in ['docs/pokemon', 'docs/moves', 'docs/abilities', 'docs/routes', 'docs/items']:
-        if os.path.exists(d): shutil.rmtree(d)
-        os.makedirs(d)
     base_data, rom = load_data(); base_data['pokemon']['basculin'] = base_data['pokemon'].get('basculin-red-striped', base_data['pokemon'].get('basculin'))
     priority_forms = ['-normal', '-male', '-plant', '-red-striped', '-land', '-altered', '-standard', '-ordinary', '-aria', '-incarnate', '-spring']
     normalized_pkmn = {}
@@ -466,39 +464,41 @@ if __name__ == "__main__":
                 (locs[pn].append({'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}]}))
     for p in pkmn_to_generate:
         md = generate_pokemon_page(p['name'], base_data, rom, base_data['moves'], base_data['abilities'], locs, base_data['pokemon'])
-        with open(os.path.join("docs/pokemon", f"{normalize_name(p['name'])}.md"), 'w', encoding='utf-8') as f: f.write(md)
+        write_if_changed(os.path.join("docs/pokemon", f"{normalize_name(p['name'])}.md"), md)
     gs = [("Kanto", 1, 151), ("Johto", 152, 251), ("Hoenn", 252, 386), ("Sinnoh", 387, 493), ("Unova", 494, 649)]
-    with open("docs/pokemon/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Pokemon\n\n")
-        for gn, s, e in gs:
-            f.write(f"## {gn}\n\n| No. | Sprite | Pokemon |\n| --- | --- | --- |\n")
-            for p in pkmn_to_generate:
-                if s <= p['id'] <= e: pn = normalize_name(p['name']); f.write(f"| {p['id']:03} | ![{pn}](../img/pokemon/{p['id']:03}.png) | [{get_display_name(p['name'])}]({pn}.md) |\n")
-            f.write("\n")
+    idx_md = "# Pokemon\n\n"
+    for gn, s, e in gs:
+        idx_md += f"## {gn}\n\n| No. | Sprite | Pokemon |\n| --- | --- | --- |\n"
+        for p in pkmn_to_generate:
+            if s <= p['id'] <= e: pn = normalize_name(p['name']); idx_md += f"| {p['id']:03} | ![{pn}](../img/pokemon/{p['id']:03}.png) | [{get_display_name(p['name'])}]({pn}.md) |\n"
+        idx_md += "\n"
+    write_if_changed("docs/pokemon/index.md", idx_md)
     for mn, mi in sorted(base_data['moves'].items()):
         mnn = normalize_name(mn); md = generate_move_page(mn, mi, fmv.get(mnn, []), rom['move_stat_changes'].get(mnn, {}), base_data)
-        with open(os.path.join("docs/moves", f"{mnn}.md"), 'w', encoding='utf-8') as f: f.write(md)
-    with open("docs/moves/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Moves\n\n"); [f.write(f"- [{m.replace('-', ' ').capitalize()}]({normalize_name(m)}.md)\n") for m in sorted(base_data['moves'].keys())]
+        write_if_changed(os.path.join("docs/moves", f"{mnn}.md"), md)
+    mv_idx_md = "# Moves\n\n"
+    for m in sorted(base_data['moves'].keys()): mv_idx_md += f"- [{m.replace('-', ' ').capitalize()}]({normalize_name(m)}.md)\n"
+    write_if_changed("docs/moves/index.md", mv_idx_md)
     for an, ai in sorted(base_data['abilities'].items()):
         ann = CLEAN_ABILITIES.get(normalize_name(an), normalize_name(an)); md = generate_ability_page(an, ai, fab.get(ann, []), base_data)
-        with open(os.path.join("docs/abilities", f"{ann}.md"), 'w', encoding='utf-8') as f: f.write(md)
-    with open("docs/abilities/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Abilities\n\n"); [f.write(f"- [{a.replace('-', ' ').capitalize()}]({CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md)\n") for a in sorted(base_data['abilities'].keys())]
+        write_if_changed(os.path.join("docs/abilities", f"{ann}.md"), md)
+    ab_idx_md = "# Abilities\n\n"
+    for a in sorted(base_data['abilities'].keys()): ab_idx_md += f"- [{a.replace('-', ' ').capitalize()}]({CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md)\n"
+    write_if_changed("docs/abilities/index.md", ab_idx_md)
     al = rom['trainer_order']
     for r in rom['wild_pokemon']: (al.append(r['name']) if r['name'] not in al else None)
     for rn in al:
         md = generate_route_page(rn, next((r for r in rom['wild_pokemon'] if r['name'] == rn), None), base_data, rom['trainers'], rom['item_changes'])
-        with open(os.path.join("docs/routes", f"{normalize_name(rn)}.md"), 'w', encoding='utf-8') as f: f.write(md)
-    with open("docs/routes/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Routes\n\n"); [f.write(f"- [{rn}]({normalize_name(rn)}.md)\n") for rn in al]
+        write_if_changed(os.path.join("docs/routes", f"{normalize_name(rn)}.md"), md)
+    rt_idx_md = "# Routes\n\n"
+    for rn in al: rt_idx_md += f"- [{rn}]({normalize_name(rn)}.md)\n"
+    write_if_changed("docs/routes/index.md", rt_idx_md)
     item_route_locs, item_pkmn_locs = {}, {}
     for r_n, subareas in rom['item_changes'].items():
         for sub_n, changes in subareas.items():
             for c in changes:
                 inorm = normalize_item_name(c['new'])
                 (item_route_locs[inorm].append((r_n, sub_n)) if inorm in item_route_locs else item_route_locs.update({inorm: [(r_n, sub_n)]}))
-    # Add base game locations to item pages
     for r_n, subareas in base_data.get('location_items', {}).items():
         for sub_n, items in subareas.items():
             for it in items:
@@ -511,9 +511,16 @@ if __name__ == "__main__":
                 (item_pkmn_locs[inorm].append(p_n) if inorm in item_pkmn_locs else item_pkmn_locs.update({inorm: [p_n]}))
     for iname, iinfo in base_data.get('items', {}).items():
         md = generate_item_page(iname.replace('-', ' ').capitalize(), iinfo, item_route_locs.get(iname, []), item_pkmn_locs.get(iname, []), base_data['moves'])
-        with open(os.path.join("docs/items", f"{iname}.md"), 'w', encoding='utf-8') as f: f.write(md)
-    with open("docs/items/index.md", 'w', encoding='utf-8') as f:
-        f.write("# Items\n\n"); [f.write(f"- [{inm.replace('-', ' ').capitalize()}]({normalize_item_name(inm)}.md)\n") for inm in sorted(base_data.get('items', {}).keys())]
+        write_if_changed(os.path.join("docs/items", f"{iname}.md"), md)
+    it_idx_md = "# Items\n\n"
+    for inm in sorted(base_data.get('items', {}).keys()): it_idx_md += f"- [{inm.replace('-', ' ').capitalize()}]({normalize_item_name(inm)}.md)\n"
+    write_if_changed("docs/items/index.md", it_idx_md)
+    # Clean up orphaned files
+    for d in ['docs/pokemon', 'docs/moves', 'docs/abilities', 'docs/routes', 'docs/items']:
+        if os.path.exists(d):
+            for f in os.listdir(d):
+                fp = os.path.abspath(os.path.join(d, f))
+                if fp not in WRITTEN_FILES and os.path.isfile(fp): os.remove(fp)
     with open("mkdocs.yml", 'r', encoding='utf-8') as f: ls = f.readlines()
     nl, inav = [], False
     for l in ls:
