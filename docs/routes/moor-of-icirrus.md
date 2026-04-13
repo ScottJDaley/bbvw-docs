@@ -39,6 +39,14 @@
 | ![stunfisk](../img/pokemon/618.png) | [Stunfisk](../pokemon/stunfisk.md) | 30% |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Keldeo, Level 56
+    Moor of Iccirus, Autumn
+    Puddle, Normal, 1%.
+    * The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team.
+
 ## Items
 ### General
 | Item | Original |

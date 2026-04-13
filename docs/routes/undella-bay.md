@@ -29,4 +29,12 @@
 | ![octillery](../img/pokemon/224.png) | [Octillery](../pokemon/octillery.md) | 5% |
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Kyogre, Level 70
+    Undella Bay, Summer
+    Surf, Special, 1%
+    * The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky – or doomed – trainer to find this beast.
+
 ## Items

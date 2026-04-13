@@ -39,6 +39,17 @@
 | ![lunatone](../img/pokemon/337.png) | [Lunatone](../pokemon/lunatone.md) | 5% |
 | ![solrock](../img/pokemon/338.png) | [Solrock](../pokemon/solrock.md) | 5% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Jirachi, Level 30
+    Dreamyard
+    Grass, Special, 1%
+    * Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don’t undestimate its power!
+    SPECIAL ENCOUNTER
+    Musharna, Level 70
+    Dreamyard Basement
+
 ## Items
 ### General
 | Item | Original |

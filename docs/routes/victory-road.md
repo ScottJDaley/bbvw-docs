@@ -14,6 +14,7 @@
 | ![pupitar](../img/pokemon/247.png) | [Pupitar](../pokemon/pupitar.md) | 10% |
 | ![fraxure](../img/pokemon/611.png) | [Fraxure](../pokemon/fraxure.md) | 9% |
 
+### Inside – Rooms with Water
 #### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
@@ -25,22 +26,10 @@
 | ![medicham](../img/pokemon/308.png) | [Medicham](../pokemon/medicham.md) | 10% |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) | 10% |
 | ![azumarill](../img/pokemon/184.png) | [Azumarill](../pokemon/azumarill.md) | 10% |
-| ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) | 20% |
-| ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 20% |
-| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) | 10% |
-| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 10% |
-| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) | 10% |
-| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) | 10% |
-| ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
-| ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 10% |
 
 #### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 25% |
-| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 25% |
-| ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) | 25% |
-| ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 25% |
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 25% |
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 25% |
 | ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) | 25% |
@@ -71,6 +60,43 @@
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 60% |
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 30% |
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
+
+### Inside – Rooms without Water
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![loudred](../img/pokemon/294.png) | [Loudred](../pokemon/loudred.md) | 20% |
+| ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 20% |
+| ![woobat](../img/pokemon/527.png) | [Woobat](../pokemon/woobat.md) | 10% |
+| ![golbat](../img/pokemon/042.png) | [Golbat](../pokemon/golbat.md) | 10% |
+| ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) | 10% |
+| ![rhydon](../img/pokemon/112.png) | [Rhydon](../pokemon/rhydon.md) | 10% |
+| ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 10% |
+| ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 10% |
+
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 25% |
+| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 25% |
+| ![steelix](../img/pokemon/208.png) | [Steelix](../pokemon/steelix.md) | 25% |
+| ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 25% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Terrakion, Level 56
+    Victory Road, Trial Chamber
+    LEGENDARY ENCOUNTER
+    Moltres, Level 50
+    Victory Road, Outside
+    Rocky Grass, 1%.
+    * Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.
+    LEGENDARY ENCOUNTER
+    Heatran. Level 60
+    Victory Road, Trial Chamber
+    Cave, Normal, 1%
+    * Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.
 
 ## Items
 ### General

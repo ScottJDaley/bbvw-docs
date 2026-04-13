@@ -14,6 +14,36 @@
 | ![makuhita](../img/pokemon/296.png) | [Makuhita](../pokemon/makuhita.md) | 10% |
 | ![croagunk](../img/pokemon/453.png) | [Croagunk](../pokemon/croagunk.md) | 5% |
 | ![slakoth](../img/pokemon/287.png) | [Slakoth](../pokemon/slakoth.md) | 5% |
+
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 20% |
+| ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 20% |
+| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) | 10% |
+| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) | 10% |
+| ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) | 10% |
+| ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) | 10% |
+| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) | 9% |
+| ![burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) | 9% |
+| ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 2% |
+
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 50% |
+| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | 10% |
+| ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) | 10% |
+| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) | 10% |
+| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) | 5% |
+| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) | 5% |
+| ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) | 5% |
+| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) | 5% |
+
+### Inside
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![cottonee](../img/pokemon/546.png) | [Cottonee](../pokemon/cottonee.md) | 20% |
 | ![petilil](../img/pokemon/548.png) | [Petilil](../pokemon/petilil.md) | 20% |
 | ![sewaddle](../img/pokemon/540.png) | [Sewaddle](../pokemon/sewaddle.md) | 10% |
@@ -28,15 +58,6 @@
 #### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![throh](../img/pokemon/538.png) | [Throh](../pokemon/throh.md) | 20% |
-| ![sawk](../img/pokemon/539.png) | [Sawk](../pokemon/sawk.md) | 20% |
-| ![dunsparce](../img/pokemon/206.png) | [Dunsparce](../pokemon/dunsparce.md) | 10% |
-| ![doduo](../img/pokemon/084.png) | [Doduo](../pokemon/doduo.md) | 10% |
-| ![snubbull](../img/pokemon/209.png) | [Snubbull](../pokemon/snubbull.md) | 10% |
-| ![aipom](../img/pokemon/190.png) | [Aipom](../pokemon/aipom.md) | 10% |
-| ![cubone](../img/pokemon/104.png) | [Cubone](../pokemon/cubone.md) | 9% |
-| ![burmy](../img/pokemon/412.png) | [Burmy](../pokemon/burmy.md) | 9% |
-| ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 2% |
 | ![tangela](../img/pokemon/114.png) | [Tangela](../pokemon/tangela.md) | 20% |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 20% |
 | ![swadloon](../img/pokemon/541.png) | [Swadloon](../pokemon/swadloon.md) | 10% |
@@ -51,14 +72,6 @@
 #### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 50% |
-| ![tepig](../img/pokemon/498.png) | [Tepig](../pokemon/tepig.md) | 10% |
-| ![tyrogue](../img/pokemon/236.png) | [Tyrogue](../pokemon/tyrogue.md) | 10% |
-| ![riolu](../img/pokemon/447.png) | [Riolu](../pokemon/riolu.md) | 10% |
-| ![charmander](../img/pokemon/004.png) | [Charmander](../pokemon/charmander.md) | 5% |
-| ![cyndaquil](../img/pokemon/155.png) | [Cyndaquil](../pokemon/cyndaquil.md) | 5% |
-| ![torchic](../img/pokemon/255.png) | [Torchic](../pokemon/torchic.md) | 5% |
-| ![chimchar](../img/pokemon/390.png) | [Chimchar](../pokemon/chimchar.md) | 5% |
 | ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 40% |
 | ![snivy](../img/pokemon/495.png) | [Snivy](../pokemon/snivy.md) | 10% |
 | ![pansage](../img/pokemon/511.png) | [Pansage](../pokemon/pansage.md) | 10% |
@@ -90,6 +103,12 @@
 | --- | --- | --- |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 95% |
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Virizion. Level 56
+    Rumination Field
 
 ## Items
 ### General

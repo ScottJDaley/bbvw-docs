@@ -13,14 +13,6 @@
 | ![primeape](../img/pokemon/057.png) | [Primeape](../pokemon/primeape.md) | 10% |
 | ![amoonguss](../img/pokemon/591.png) | [Amoonguss](../pokemon/amoonguss.md) | 10% |
 | ![tranquill](../img/pokemon/520.png) | [Tranquill](../pokemon/tranquill.md) | 10% |
-| ![linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 20% |
-| ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) | 20% |
-| ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
-| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 10% |
-| ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 10% |
-| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) | 10% |
-| ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 10% |
-| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 10% |
 
 #### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
@@ -33,6 +25,28 @@
 | ![scrafty](../img/pokemon/560.png) | [Scrafty](../pokemon/scrafty.md) | 10% |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
 | ![manectric](../img/pokemon/310.png) | [Manectric](../pokemon/manectric.md) | 10% |
+
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 100% |
+
+### Main Route
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![linoone](../img/pokemon/264.png) | [Linoone](../pokemon/linoone.md) | 20% |
+| ![bibarel](../img/pokemon/400.png) | [Bibarel](../pokemon/bibarel.md) | 20% |
+| ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 10% |
+| ![arbok](../img/pokemon/024.png) | [Arbok](../pokemon/arbok.md) | 10% |
+| ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 10% |
+| ![dodrio](../img/pokemon/085.png) | [Dodrio](../pokemon/dodrio.md) | 10% |
+| ![zangoose](../img/pokemon/335.png) | [Zangoose](../pokemon/zangoose.md) | 10% |
+| ![seviper](../img/pokemon/336.png) | [Seviper](../pokemon/seviper.md) | 10% |
+
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 20% |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 20% |
 | ![cherrim](../img/pokemon/421.png) | [Cherrim](../pokemon/cherrim.md) | 10% |
@@ -45,9 +59,30 @@
 #### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![audino](../img/pokemon/531.png) | [Audino](../pokemon/audino.md) | 100% |
 | ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 90% |
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    /
+    Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
+    Route 10, Main Route
+    Grass, Shaking, 1%
+    * While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
+    League Path
+
+!!! info
+    LEGENDARY ENCOUNTER
+    Latias, Level 60
+    Route 10, League Path
+    Grass, Doubles, 1%
+    * The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.
+    LEGENDARY ENCOUNTER
+    Latios, Level 60
+    Route 10, League Path
+    Grass, Doubles, 1%
+    * Anywhere where Latias goes, Latios does too.
 
 ## Items
 ### General

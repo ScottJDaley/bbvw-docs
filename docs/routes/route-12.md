@@ -10,6 +10,9 @@
 | ![sunkern](../img/pokemon/191.png) | [Sunkern](../pokemon/sunkern.md) | 10% |
 | ![pinsir](../img/pokemon/127.png) | [Pinsir](../pokemon/pinsir.md) | 10% |
 | ![heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 10% |
+| ![scyther](../img/pokemon/123.png) | [Scyther](../pokemon/scyther.md) | 10% |
+| ![rapidash](../img/pokemon/078.png) | [Rapidash](../pokemon/rapidash.md) | 10% |
+| ![zebstrika](../img/pokemon/523.png) | [Zebstrika](../pokemon/zebstrika.md) | 10% |
 
 #### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |

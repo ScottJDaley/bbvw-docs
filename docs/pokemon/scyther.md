@@ -50,6 +50,7 @@ None
 | --- | --- | --- |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 5% |
 | [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
+| [Route 12](../routes/route-12.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

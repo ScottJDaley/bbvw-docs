@@ -10,6 +10,9 @@
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 10% |
 | ![braviary](../img/pokemon/628.png) | [Braviary](../pokemon/braviary.md) | 10% |
 | ![gligar](../img/pokemon/207.png) | [Gligar](../pokemon/gligar.md) | 10% |
+| ![marowak](../img/pokemon/105.png) | [Marowak](../pokemon/marowak.md) | 10% |
+| ![purugly](../img/pokemon/432.png) | [Purugly](../pokemon/purugly.md) | 10% |
+| ![skuntank](../img/pokemon/435.png) | [Skuntank](../pokemon/skuntank.md) | 10% |
 
 #### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |

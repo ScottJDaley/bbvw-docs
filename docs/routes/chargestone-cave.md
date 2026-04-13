@@ -13,6 +13,17 @@
 | ![ferroseed](../img/pokemon/597.png) | [Ferroseed](../pokemon/ferroseed.md) | 10% |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 10% |
 | ![lairon](../img/pokemon/305.png) | [Lairon](../pokemon/lairon.md) | 10% |
+
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
+| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
+
+### B1F
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![joltik](../img/pokemon/595.png) | [Joltik](../pokemon/joltik.md) | 20% |
 | ![klink](../img/pokemon/599.png) | [Klink](../pokemon/klink.md) | 20% |
 | ![mawile](../img/pokemon/303.png) | [Mawile](../pokemon/mawile.md) | 10% |
@@ -21,6 +32,17 @@
 | ![durant](../img/pokemon/632.png) | [Durant](../pokemon/durant.md) | 10% |
 | ![nosepass](../img/pokemon/299.png) | [Nosepass](../pokemon/nosepass.md) | 10% |
 | ![deino](../img/pokemon/633.png) | [Deino](../pokemon/deino.md) | 10% |
+
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
+| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
+
+### B2F
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![galvantula](../img/pokemon/596.png) | [Galvantula](../pokemon/galvantula.md) | 20% |
 | ![klang](../img/pokemon/600.png) | [Klang](../pokemon/klang.md) | 20% |
 | ![electabuzz](../img/pokemon/125.png) | [Electabuzz](../pokemon/electabuzz.md) | 10% |
@@ -35,12 +57,16 @@
 #### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
-| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
-| ![drilbur](../img/pokemon/529.png) | [Drilbur](../pokemon/drilbur.md) | 50% |
-| ![diglett](../img/pokemon/050.png) | [Diglett](../pokemon/diglett.md) | 50% |
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Zapdos, Level 50
+    Chargestone Cave, B2F.
+    Cave, Normal, 1%.
+    * Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!
 
 ## Items
 ### General

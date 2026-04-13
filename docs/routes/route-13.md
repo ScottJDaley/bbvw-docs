@@ -63,6 +63,14 @@
 | ![kingler](../img/pokemon/099.png) | [Kingler](../pokemon/kingler.md) | 5% |
 | ![cloyster](../img/pokemon/091.png) | [Cloyster](../pokemon/cloyster.md) | 5% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Lugia, Level 70
+    Route 13
+    Surf, Special, 1%
+    * The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it’ll not hesitate to fight if a gifted trainer comes along, looking for a challenge…
+
 ## Items
 ### General
 | Item | Original |

@@ -15,6 +15,17 @@
 | ![boldore](../img/pokemon/525.png) | [Boldore](../pokemon/boldore.md) | 5% |
 | ![cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 5% |
 | ![gurdurr](../img/pokemon/533.png) | [Gurdurr](../pokemon/gurdurr.md) | 5% |
+
+#### ![Cave, Special](../img/items/cave-normal.png) Cave, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
+| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+
+### Not 1F - All Seasons
+#### ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![donphan](../img/pokemon/232.png) | [Donphan](../pokemon/donphan.md) | 20% |
 | ![ursaring](../img/pokemon/217.png) | [Ursaring](../pokemon/ursaring.md) | 20% |
 | ![beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 10% |
@@ -31,8 +42,14 @@
 | --- | --- | --- |
 | ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
-| ![excadrill](../img/pokemon/530.png) | [Excadrill](../pokemon/excadrill.md) | 50% |
-| ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Regice, Level 50
+    Twist Mountain, Ice Rock Room, Winter
+    Cave, Normal, 1%
+    * Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.
 
 ## Items
 ## Trainers

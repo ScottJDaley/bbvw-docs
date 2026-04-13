@@ -58,6 +58,7 @@ None
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 20% |
+| [Village Bridge](../routes/village-bridge.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

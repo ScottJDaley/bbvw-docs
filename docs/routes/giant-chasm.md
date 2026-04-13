@@ -112,6 +112,44 @@
 | ![mamoswine](../img/pokemon/473.png) | [Mamoswine](../pokemon/mamoswine.md) | 5% |
 | ![metagross](../img/pokemon/376.png) | [Metagross](../pokemon/metagross.md) | 5% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Deoxys, Level 70
+    Giant Chasm, Outside Area
+    Doubles Grass, 1%.
+    * With stories of the Giant Chasm formed from a meteor, it’s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.
+    Giant Chasm – Inside Cave
+
+!!! info
+    LEGENDARY ENCOUNTER
+    Dialga, Level 70
+    Giant Chasm, Inside Cave (not Kyurem bit)
+    Cave, Normal, 1%
+    * The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga’s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.
+    LEGENDARY ENCOUNTER
+    Palkia, Level 70
+    Giant Chasm, Inside Cave (not Kyurem bit)
+    Cave, Normal, 1%
+    * Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world.
+    Giant Chasm – Inside Plains
+
+!!! info
+    LEGENDARY ENCOUNTER
+    Giratina, Level 70
+    Giant Chasm, Inside Plains
+    Grass, Doubles, 1%
+    * Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.
+    LEGENDARY ENCOUNTER
+    /
+    Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)
+    Giant Chasm, Inside Plains
+    Grass, Doubles, 1%
+    * The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…
+    LEGENDARY ENCOUNTER
+    Kyurem, Level 75
+    Giant Chasm, Rear Cave
+
 ## Items
 ### General
 | Item | Original |

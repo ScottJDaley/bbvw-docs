@@ -15,16 +15,6 @@
 | ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
-| ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 20% |
-| ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) | 20% |
-| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
-| ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
-| ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
-| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
-| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
-| ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
-| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
-| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
 
 #### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
 | Sprite | Pokemon | Rate |
@@ -39,6 +29,59 @@
 | ![sudowoodo](../img/pokemon/185.png) | [Sudowoodo](../pokemon/sudowoodo.md) | 5% |
 | ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
 | ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
+
+#### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 80% |
+| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
+| ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 5% |
+| ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) | 5% |
+
+#### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
+| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 30% |
+| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
+
+#### ![Surf, Special](../img/items/surf-special.png) Surf, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 30% |
+| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
+
+#### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
+| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 40% |
+
+#### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
+| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 40% |
+
+### Route 6 – Winter
+#### ![Grass, Normal](../img/items/grass-normal.png) Grass, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
+| ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 20% |
+| ![deerling](../img/pokemon/585.png) | [Deerling](../pokemon/deerling.md) | 20% |
+| ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
+| ![foongus](../img/pokemon/590.png) | [Foongus](../pokemon/foongus.md) | 10% |
+| ![pidgeotto](../img/pokemon/017.png) | [Pidgeotto](../pokemon/pidgeotto.md) | 10% |
+| ![natu](../img/pokemon/177.png) | [Natu](../pokemon/natu.md) | 10% |
+| ![mime-jr](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 5% |
+| ![bonsly](../img/pokemon/438.png) | [Bonsly](../pokemon/bonsly.md) | 5% |
+| ![plusle](../img/pokemon/311.png) | [Plusle](../pokemon/plusle.md) | 5% |
+| ![minun](../img/pokemon/312.png) | [Minun](../pokemon/minun.md) | 5% |
+
+#### ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![snover](../img/pokemon/459.png) | [Snover](../pokemon/snover.md) | 20% |
 | ![sawsbuck](../img/pokemon/586.png) | [Sawsbuck](../pokemon/sawsbuck.md) | 20% |
 | ![stantler](../img/pokemon/234.png) | [Stantler](../pokemon/stantler.md) | 10% |
@@ -57,17 +100,10 @@
 | ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
 | ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 5% |
 | ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) | 5% |
-| ![chansey](../img/pokemon/113.png) | [Chansey](../pokemon/chansey.md) | 80% |
-| ![emolga](../img/pokemon/587.png) | [Emolga](../pokemon/emolga.md) | 10% |
-| ![leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 5% |
-| ![unfezant](../img/pokemon/521.png) | [Unfezant](../pokemon/unfezant.md) | 5% |
 
 #### ![Surf, Normal](../img/items/surf-normal.png) Surf, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
-| ![goldeen](../img/pokemon/118.png) | [Goldeen](../pokemon/goldeen.md) | 30% |
-| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 60% |
 | ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
@@ -75,9 +111,6 @@
 #### ![Surf, Special](../img/items/surf-special.png) Surf, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
-| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 30% |
-| ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 60% |
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 30% |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 10% |
@@ -85,8 +118,6 @@
 #### ![Fish, Normal](../img/items/fishing-normal.png) Fish, Normal
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![finneon](../img/pokemon/456.png) | [Finneon](../pokemon/finneon.md) | 60% |
-| ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 40% |
 | ![seel](../img/pokemon/086.png) | [Seel](../pokemon/seel.md) | 60% |
 | ![spheal](../img/pokemon/363.png) | [Spheal](../pokemon/spheal.md) | 30% |
 | ![chinchou](../img/pokemon/170.png) | [Chinchou](../pokemon/chinchou.md) | 10% |
@@ -94,8 +125,6 @@
 #### ![Fish, Special](../img/items/fishing-special.png) Fish, Special
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
-| ![lumineon](../img/pokemon/457.png) | [Lumineon](../pokemon/lumineon.md) | 60% |
-| ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 40% |
 | ![dewgong](../img/pokemon/087.png) | [Dewgong](../pokemon/dewgong.md) | 60% |
 | ![sealeo](../img/pokemon/364.png) | [Sealeo](../pokemon/sealeo.md) | 30% |
 | ![lanturn](../img/pokemon/171.png) | [Lanturn](../pokemon/lanturn.md) | 10% |

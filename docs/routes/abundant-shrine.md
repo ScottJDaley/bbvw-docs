@@ -60,6 +60,17 @@
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![seaking](../img/pokemon/119.png) | [Seaking](../pokemon/seaking.md) | 10% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Ho-oh, Level 70
+    Abundant Shrine
+    Grass, Special, 1%
+    * Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you’re lucky, you might catch a glimpse of it.
+    LEGENDARY ENCOUNTER
+    Landorus, Level 75
+    Abundant Shrine
+
 ## Items
 ### General
 | Item | Original |

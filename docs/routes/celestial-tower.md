@@ -13,6 +13,11 @@
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) | 10% |
 | ![wynaut](../img/pokemon/360.png) | [Wynaut](../pokemon/wynaut.md) | 10% |
 | ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 10% |
+
+### 4F
+#### ![Tower, Normal](../img/items/grass-normal.png) Tower, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![lampent](../img/pokemon/608.png) | [Lampent](../pokemon/lampent.md) | 20% |
 | ![beheeyem](../img/pokemon/606.png) | [Beheeyem](../pokemon/beheeyem.md) | 20% |
 | ![chimecho](../img/pokemon/358.png) | [Chimecho](../pokemon/chimecho.md) | 10% |
@@ -21,12 +26,25 @@
 | ![banette](../img/pokemon/354.png) | [Banette](../pokemon/banette.md) | 10% |
 | ![wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 10% |
 | ![bronzong](../img/pokemon/437.png) | [Bronzong](../pokemon/bronzong.md) | 10% |
+
+### 5F (Roof)
+#### ![Tower, Normal](../img/items/grass-normal.png) Tower, Normal
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![misdreavus](../img/pokemon/200.png) | [Misdreavus](../pokemon/misdreavus.md) | 20% |
 | ![murkrow](../img/pokemon/198.png) | [Murkrow](../pokemon/murkrow.md) | 20% |
 | ![drifblim](../img/pokemon/426.png) | [Drifblim](../pokemon/drifblim.md) | 20% |
 | ![noctowl](../img/pokemon/164.png) | [Noctowl](../pokemon/noctowl.md) | 20% |
 | ![absol](../img/pokemon/359.png) | [Absol](../pokemon/absol.md) | 10% |
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) | 10% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Cresselia, Level 50
+    Celestial Tower, Roof
+    Tower, Normal, 1%
+    * The mistress of the moon is kind, and takes pity upon the departed souls of Pokémon. You can interrupt her mourning and put her in a ball. Isn’t that dandy?
 
 ## Items
 ### General

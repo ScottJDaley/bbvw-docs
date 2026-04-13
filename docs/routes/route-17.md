@@ -86,6 +86,22 @@
 | ![seadra](../img/pokemon/117.png) | [Seadra](../pokemon/seadra.md) | 30% |
 | ![tentacruel](../img/pokemon/073.png) | [Tentacruel](../pokemon/tentacruel.md) | 10% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Manaphy, Level 30
+    Route 17
+    Surf, Special, 1%
+    * Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.
+    Route 18
+
+!!! info
+    SPECIAL ENCOUNTER
+    Phione, Level 30
+    Route 17
+    Surf, Special, 1%
+    * This often debated Pokémon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart.
+
 ## Items
 ## Trainers
 ### Fisherman Lydon

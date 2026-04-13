@@ -93,15 +93,68 @@ def parse_wild_pokemon():
                 route_data['specials'].append(part); continue
             if any(":" in l for l in lines):
                 encounters, title, start_idx = [], current_sub_area, 0
-                if ":" not in lines[0]: title, start_idx = lines[0], 1
-                for line in lines[start_idx:]:
-                    enc_match = re.match(r'([^:]+):\s+(.+)', line)
-                    if enc_match:
-                        method, pkmn_list = enc_match.group(1).strip(), enc_match.group(2).strip()
-                        pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
-                        for pkmn, rate in pkmns: encounters.append({'method': method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
-                if encounters: route_data['sections'].append({'title': title, 'encounters': encounters})
-            else: current_sub_area = part
+                if ":" not in lines[0]:
+                    title, start_idx = lines[0], 1
+                
+                # Check if there are more sub-headers within this part
+                current_section_title = title
+                current_section_encounters = []
+                
+                # We need to handle special encounters mixed with regular encounters
+                lines_to_parse = lines[start_idx:]
+                i = 0
+                while i < len(lines_to_parse):
+                    line = lines_to_parse[i]
+                    if "LEGENDARY ENCOUNTER" in line or "SPECIAL ENCOUNTER" in line:
+                        if current_section_encounters:
+                            route_data['sections'].append({'title': current_section_title, 'encounters': current_section_encounters})
+                            current_section_encounters = []
+                        
+                        special_block = [line]
+                        j = i + 1
+                        while j < len(lines_to_parse):
+                            next_line = lines_to_parse[j]
+                            if ":" in next_line:
+                                break
+                            if next_line.strip() and not any(x in next_line for x in ["LEGENDARY", "SPECIAL", "Level", "Lv."]):
+                                if next_line.strip() in ["Inside", "Outside", "1F", "B1F", "2F", "3F", "Basement"]:
+                                    break
+                            special_block.append(next_line)
+                            j += 1
+                        
+                        route_data['specials'].append("\n".join(special_block))
+                        i = j
+                        continue
+                    
+                    if ":" in line:
+                        enc_match = re.match(r'([^:]+):\s+(.+)', line)
+                        if enc_match:
+                            method, pkmn_list = enc_match.group(1).strip(), enc_match.group(2).strip()
+                            pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', pkmn_list)
+                            for pkmn, rate in pkmns:
+                                current_section_encounters.append({'method': method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
+                    elif "(" in line and "%" in line:
+                        # Continuation of the previous encounter line!
+                        pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', line)
+                        for pkmn, rate in pkmns:
+                            if current_section_encounters:
+                                # Use the method from the last encounter
+                                last_method = current_section_encounters[-1]['method']
+                                current_section_encounters.append({'method': last_method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
+                    elif line.strip():
+                        if current_section_encounters:
+                            route_data['sections'].append({'title': current_section_title, 'encounters': current_section_encounters})
+                        current_section_title = line.strip()
+                        current_section_encounters = []
+                    i += 1
+                
+                if current_section_encounters:
+                    route_data['sections'].append({'title': current_section_title, 'encounters': current_section_encounters})
+            else:
+                if "LEGENDARY ENCOUNTER" in part or "SPECIAL ENCOUNTER" in part:
+                    route_data['specials'].append(part)
+                else:
+                    current_sub_area = part
     return routes
 
 def parse_move_changes():

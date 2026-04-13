@@ -11266,7 +11266,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nJirachi, Level 30\nDreamyard\nGrass, Special, 1%\n* Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don\u2019t undestimate its power!\nSPECIAL ENCOUNTER\nMusharna, Level 70\nDreamyard Basement"
+      ]
     },
     {
       "name": "Route 3",
@@ -11594,7 +11596,12 @@
               "method": "Fish, Special",
               "pokemon": "Shellder",
               "rate": 100
-            },
+            }
+          ]
+        },
+        {
+          "title": "B1F",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Woobat",
@@ -11815,7 +11822,12 @@
               "method": "Grass, Special",
               "pokemon": "Chimchar",
               "rate": 5
-            },
+            }
+          ]
+        },
+        {
+          "title": "Inside",
+          "encounters": [
             {
               "method": "Grass, Normal",
               "pokemon": "Cottonee",
@@ -11994,7 +12006,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nVirizion. Level 56\nRumination Field"
+      ]
     },
     {
       "name": "Liberty Garden",
@@ -12169,7 +12183,12 @@
               "method": "Sand",
               "pokemon": "Trapinch",
               "rate": 10
-            },
+            }
+          ]
+        },
+        {
+          "title": "Main",
+          "encounters": [
             {
               "method": "Sand",
               "pokemon": "Trapinch",
@@ -12223,7 +12242,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "SPECIAL ENCOUNTER\nDarmanitan, Level 35\nDesert Resort\n* This is still the only way to get a Zen Mode Darmanitan!"
+      ]
     },
     {
       "name": "Relic Castle",
@@ -12270,7 +12291,12 @@
               "method": "Sand",
               "pokemon": "Trapinch",
               "rate": 10
-            },
+            }
+          ]
+        },
+        {
+          "title": "B1F",
+          "encounters": [
             {
               "method": "Sand",
               "pokemon": "Yamask",
@@ -12320,7 +12346,12 @@
               "method": "Sand",
               "pokemon": "Larvesta",
               "rate": 2
-            },
+            }
+          ]
+        },
+        {
+          "title": "B2F, B3F, B4F, B5F",
+          "encounters": [
             {
               "method": "Sand",
               "pokemon": "Krokorok",
@@ -12370,7 +12401,12 @@
               "method": "Sand",
               "pokemon": "Camerupt",
               "rate": 5
-            },
+            }
+          ]
+        },
+        {
+          "title": "B6F, Maze",
+          "encounters": [
             {
               "method": "Sand",
               "pokemon": "Krokorok",
@@ -12420,7 +12456,12 @@
               "method": "Sand",
               "pokemon": "Camerupt",
               "rate": 5
-            },
+            }
+          ]
+        },
+        {
+          "title": "Pot Rooms",
+          "encounters": [
             {
               "method": "Sand",
               "pokemon": "Unown",
@@ -12429,7 +12470,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nRegirock, Level 50\nRelic Castle, B5F\nSand, 1%\n* The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up\u2026 but you\u2019ll be lucky to bump into them.\nLEGENDARY ENCOUNTER\nRegisteel, Level 50\nRelic Castle, B5F\nSand, 1%\n* The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it\u2019s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.\nLEGENDARY ENCOUNTER\nRegigigas. Level 70\nRelic Castle, Volcarona Room\nFloor, 1%\n* It\u2019s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.\nSPECIAL ENCOUNTER\nVolcarona, Level 75\nRelic Castle, Volcarona Room"
+      ]
     },
     {
       "name": "Route 5",
@@ -12892,7 +12935,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nMew, Level 30\nLostlorn Forest\nDoubles Grass, 1%.\n* Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places\u2026 mostly to play.\nLEGENDARY ENCOUNTER\nCelebi, Level 30\nLostlorn Forest\nDoubles Grass, 1%.\n* Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it\u2019s still a peaceful setting where Celebi can find a home."
+      ]
     },
     {
       "name": "Driftveil Drawbidge",
@@ -13277,7 +13322,12 @@
               "method": "Fish, Special",
               "pokemon": "Lanturn",
               "rate": 40
-            },
+            }
+          ]
+        },
+        {
+          "title": "Route 6 \u2013 Winter",
+          "encounters": [
             {
               "method": "Grass, Normal",
               "pokemon": "Snover",
@@ -13518,7 +13568,12 @@
               "method": "Cave, Special",
               "pokemon": "Diglett",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "B1F",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Joltik",
@@ -13568,7 +13623,12 @@
               "method": "Cave, Special",
               "pokemon": "Diglett",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "B2F",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Galvantula",
@@ -13632,7 +13692,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nZapdos, Level 50\nChargestone Cave, B2F.\nCave, Normal, 1%.\n* Zapdos, like most Electric types, is drawn to high potential sources. Watch out \u2013 don\u2019t underestimate its power!"
+      ]
     },
     {
       "name": "Route 7",
@@ -13805,7 +13867,12 @@
               "method": "Tower, Normal",
               "pokemon": "Bronzor",
               "rate": 10
-            },
+            }
+          ]
+        },
+        {
+          "title": "4F",
+          "encounters": [
             {
               "method": "Tower, Normal",
               "pokemon": "Lampent",
@@ -13845,7 +13912,12 @@
               "method": "Tower, Normal",
               "pokemon": "Bronzong",
               "rate": 10
-            },
+            }
+          ]
+        },
+        {
+          "title": "5F (Roof)",
+          "encounters": [
             {
               "method": "Tower, Normal",
               "pokemon": "Misdreavus",
@@ -13879,7 +13951,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nCresselia, Level 50\nCelestial Tower, Roof\nTower, Normal, 1%\n* The mistress of the moon is kind, and takes pity upon the departed souls of Pok\u00e9mon. You can interrupt her mourning and put her in a ball. Isn\u2019t that dandy?"
+      ]
     },
     {
       "name": "Route 17",
@@ -14090,7 +14164,10 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nManaphy, Level 30\nRoute 17\nSurf, Special, 1%\n* Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.\nRoute 18",
+        "SPECIAL ENCOUNTER\nPhione, Level 30\nRoute 17\nSurf, Special, 1%\n* This often debated Pok\u00e9mon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart."
+      ]
     },
     {
       "name": "P2 Laboratory",
@@ -14248,7 +14325,12 @@
               "method": "Cave, Special",
               "pokemon": "Diglett",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "Mistralton Cave 3F (Guidance Chamber)",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Steelix",
@@ -14302,7 +14384,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nUxie, Level 50\nMistralton Cave, 1F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.\nLEGENDARY ENCOUNTER\nMesprit, Level 50\nMistralton Cave, 2F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.\nLEGENDARY ENCOUNTER\nAzelf, Level 50\nMistralton Cave, 3F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.\nLEGENDARY ENCOUNTER\nCobalion, Level 56\nGuidance Chamber"
+      ]
     },
     {
       "name": "Twist Mountain",
@@ -14369,7 +14453,12 @@
               "method": "Cave, Special",
               "pokemon": "Dugtrio",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "Not 1F - All Seasons",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Donphan",
@@ -14433,7 +14522,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nRegice, Level 50\nTwist Mountain, Ice Rock Room, Winter\nCave, Normal, 1%\n* Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it."
+      ]
     },
     {
       "name": "Icirrus City, Route 8",
@@ -14645,7 +14736,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nKeldeo, Level 56\nMoor of Iccirus, Autumn\nPuddle, Normal, 1%.\n* The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you\u2019ll have a chance at adding him to your team."
+      ]
     },
     {
       "name": "Dragonspiral Tower",
@@ -14767,7 +14860,12 @@
               "method": "Fish, Special",
               "pokemon": "Dragonite",
               "rate": 1
-            },
+            }
+          ]
+        },
+        {
+          "title": "Outside (Both Areas) \u2013 Winter",
+          "encounters": [
             {
               "method": "Grass, Normal",
               "pokemon": "Mienfoo",
@@ -14882,7 +14980,12 @@
               "method": "Fish, Special",
               "pokemon": "Dragonite",
               "rate": 1
-            },
+            }
+          ]
+        },
+        {
+          "title": "Inside \u2013 Room One",
+          "encounters": [
             {
               "method": "Tower, Normal",
               "pokemon": "Druddigon",
@@ -14897,7 +15000,12 @@
               "method": "Tower, Normal",
               "pokemon": "Golett",
               "rate": 30
-            },
+            }
+          ]
+        },
+        {
+          "title": "Inside \u2013 Room Two",
+          "encounters": [
             {
               "method": "Tower, Normal",
               "pokemon": "Claydol",
@@ -14911,7 +15019,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nArticuno, Level 50\nDragonspiral Tower, Outside, Winter\nDoubles Grass, 1%.\n* Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.\nLEGENDARY ENCOUNTER\nSuicune, Level 50\nDragonspiral Tower, Outside, Spring, Summer & Autumn\nSurf, Special, 1%.\n* Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower."
+      ]
     },
     {
       "name": "Route 9",
@@ -15017,7 +15127,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nRaikou, Level 50\nRoute 9\nGrass, Special, 1%.\n* You\u2019ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.\nLEGENDARY ENCOUNTER\nEntei, Level 50\nRoute 9\nGrass, Special, 1%.\n* Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him."
+      ]
     },
     {
       "name": "Route 10",
@@ -15109,7 +15221,12 @@
               "method": "Grass, Special",
               "pokemon": "Audino",
               "rate": 100
-            },
+            }
+          ]
+        },
+        {
+          "title": "Main Route",
+          "encounters": [
             {
               "method": "Grass, Normal",
               "pokemon": "Linoone",
@@ -15203,7 +15320,10 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\n/\nTornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)\nRoute 10, Main Route\nGrass, Shaking, 1%\n* While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10\u2026 if you can find it. Luckily, this one won\u2019t run. Don\u2019t let its low level fool you; it can still be quite difficult to capture.\nLeague Path",
+        "LEGENDARY ENCOUNTER\nLatias, Level 60\nRoute 10, League Path\nGrass, Doubles, 1%\n* The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.\nLEGENDARY ENCOUNTER\nLatios, Level 60\nRoute 10, League Path\nGrass, Doubles, 1%\n* Anywhere where Latias goes, Latios does too."
+      ]
     },
     {
       "name": "Victory Road",
@@ -15250,7 +15370,12 @@
               "method": "Rocky Grass",
               "pokemon": "Fraxure",
               "rate": 9
-            },
+            }
+          ]
+        },
+        {
+          "title": "Inside \u2013 Rooms with Water",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Donphan",
@@ -15360,7 +15485,12 @@
               "method": "Fish, Special",
               "pokemon": "Whiscash",
               "rate": 10
-            },
+            }
+          ]
+        },
+        {
+          "title": "Inside \u2013 Rooms without Water",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Loudred",
@@ -15424,7 +15554,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nTerrakion, Level 56\nVictory Road, Trial Chamber\nLEGENDARY ENCOUNTER\nMoltres, Level 50\nVictory Road, Outside\nRocky Grass, 1%.\n* Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.\nLEGENDARY ENCOUNTER\nHeatran. Level 60\nVictory Road, Trial Chamber\nCave, Normal, 1%\n* Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room."
+      ]
     },
     {
       "name": "N\u2019s Castle",
@@ -15462,6 +15594,21 @@
             {
               "method": "Grass, Normal",
               "pokemon": "Gligar",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Marowak",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Purugly",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Skuntank",
               "rate": 10
             },
             {
@@ -15661,6 +15808,11 @@
               "rate": 10
             },
             {
+              "method": "Grass, Doubles",
+              "pokemon": "Togepi",
+              "rate": 10
+            },
+            {
               "method": "Grass, Special",
               "pokemon": "Chansey",
               "rate": 75
@@ -15733,7 +15885,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nShaymin, Level 50\nVillage Bridge\nGrass, Doubles, 1%\n* This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.\nLEGENDARY ENCOUNTER\nMeloetta, Level 50\nVillage Bridge\nGrass, Doubles, 1%\n* Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it\u2019ll be a tricky place to find."
+      ]
     },
     {
       "name": "Route 12",
@@ -15764,6 +15918,21 @@
             {
               "method": "Grass, Normal",
               "pokemon": "Heracross",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Scyther",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Rapidash",
+              "rate": 10
+            },
+            {
+              "method": "Grass, Normal",
+              "pokemon": "Zebstrika",
               "rate": 10
             },
             {
@@ -15995,7 +16164,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nLugia, Level 70\nRoute 13\nSurf, Special, 1%\n* The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it\u2019ll not hesitate to fight if a gifted trainer comes along, looking for a challenge\u2026"
+      ]
     },
     {
       "name": "Giant Chasm",
@@ -16316,7 +16487,11 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nDeoxys, Level 70\nGiant Chasm, Outside Area\nDoubles Grass, 1%.\n* With stories of the Giant Chasm formed from a meteor, it\u2019s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.\nGiant Chasm \u2013 Inside Cave",
+        "LEGENDARY ENCOUNTER\nDialga, Level 70\nGiant Chasm, Inside Cave (not Kyurem bit)\nCave, Normal, 1%\n* The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga\u2019s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.\nLEGENDARY ENCOUNTER\nPalkia, Level 70\nGiant Chasm, Inside Cave (not Kyurem bit)\nCave, Normal, 1%\n* Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world.\nGiant Chasm \u2013 Inside Plains",
+        "LEGENDARY ENCOUNTER\nGiratina, Level 70\nGiant Chasm, Inside Plains\nGrass, Doubles, 1%\n* Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.\nLEGENDARY ENCOUNTER\n/\nReshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)\nGiant Chasm, Inside Plains\nGrass, Doubles, 1%\n* The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you\u2019re lucky\u2026\nLEGENDARY ENCOUNTER\nKyurem, Level 75\nGiant Chasm, Rear Cave"
+      ]
     },
     {
       "name": "Undella Town",
@@ -16443,7 +16618,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nKyogre, Level 70\nUndella Bay, Summer\nSurf, Special, 1%\n* The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky \u2013 or doomed \u2013 trainer to find this beast."
+      ]
     },
     {
       "name": "Route 14",
@@ -16750,7 +16927,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nHo-oh, Level 70\nAbundant Shrine\nGrass, Special, 1%\n* Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you\u2019re lucky, you might catch a glimpse of it.\nLEGENDARY ENCOUNTER\nLandorus, Level 75\nAbundant Shrine"
+      ]
     },
     {
       "name": "Black City / White Forest",
@@ -16876,7 +17055,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nGroudon, Level 70\nRoute 15\nGrass, Doubles, 1%\n* With the lack of volcanoes in Unova there isn\u2019t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you\u2019ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pok\u00e9mon. If you\u2019re lucky."
+      ]
     },
     {
       "name": "Marvelous Bridge",
@@ -16912,7 +17093,9 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nRayquaza, Level 70\nMarvelous Bridge\nBridge, Special, 1%\n* At the altitude of the Wonder Bridge, it isn\u2019t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it\u2026"
+      ]
     },
     {
       "name": "Challenger\u2019s Cave",
@@ -16969,7 +17152,12 @@
               "method": "Cave, Special",
               "pokemon": "Dugtrio",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "B1F",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Mawile",
@@ -17019,7 +17207,12 @@
               "method": "Cave, Special",
               "pokemon": "Dugtrio",
               "rate": 50
-            },
+            }
+          ]
+        },
+        {
+          "title": "B1F",
+          "encounters": [
             {
               "method": "Cave, Normal",
               "pokemon": "Mawile",
@@ -17128,7 +17321,11 @@
           ]
         }
       ],
-      "specials": []
+      "specials": [
+        "LEGENDARY ENCOUNTER\nGenesect, Level 75\nChallenger\u2019s Cave, 1F\nCave, Normal, 1%.\n* Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger\u2019s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won\u2019t be pretty.",
+        "LEGENDARY ENCOUNTER\nMewtwo, Level 75\nChallenger\u2019s Cave, B1F\nCave, Normal, 1%.\n* Mewtwo returns in a post League cave once more. Challenger\u2019s Cave is a lot like Cerulean\u2019s Cave, but a certain Pok\u00e9mon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.\nLEGENDARY ENCOUNTER\nDarkrai, Level 70\nChallenger\u2019s Cave, B1F\nCave, Normal, 1%.\n* The dark, mid-depths of the Challenger\u2019s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don\u2019t need to hear about that.\nB2F",
+        "LEGENDARY ENCOUNTER\nArceus, Level 80\nChallenger\u2019s Cave, B2F\nCave, Normal, 1%.\n* Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don\u2019t underestimate its power.\n\u0000"
+      ]
     }
   ],
   "move_changes": {

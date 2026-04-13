@@ -49,7 +49,9 @@ None
 | **Total** | **479** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

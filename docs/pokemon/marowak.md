@@ -52,6 +52,7 @@ None
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Route 7](../routes/route-7.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
+| [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Route 15](../routes/route-15.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Route 15](../routes/route-15.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |
 | [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 10% |

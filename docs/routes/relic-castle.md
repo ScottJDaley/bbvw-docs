@@ -13,6 +13,11 @@
 | ![bronzor](../img/pokemon/436.png) | [Bronzor](../pokemon/bronzor.md) | 10% |
 | ![onix](../img/pokemon/095.png) | [Onix](../pokemon/onix.md) | 10% |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
+
+### B1F
+#### ![Sand](../img/items/grass-normal.png) Sand
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 20% |
 | ![gastly](../img/pokemon/092.png) | [Gastly](../pokemon/gastly.md) | 20% |
 | ![shuppet](../img/pokemon/353.png) | [Shuppet](../pokemon/shuppet.md) | 10% |
@@ -23,6 +28,11 @@
 | ![beldum](../img/pokemon/374.png) | [Beldum](../pokemon/beldum.md) | 4% |
 | ![larvitar](../img/pokemon/246.png) | [Larvitar](../pokemon/larvitar.md) | 4% |
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 2% |
+
+### B2F, B3F, B4F, B5F
+#### ![Sand](../img/items/grass-normal.png) Sand
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 20% |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) | 10% |
@@ -33,6 +43,11 @@
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
 | ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
+
+### B6F, Maze
+#### ![Sand](../img/items/grass-normal.png) Sand
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
 | ![cofagrigus](../img/pokemon/563.png) | [Cofagrigus](../pokemon/cofagrigus.md) | 20% |
 | ![vibrava](../img/pokemon/329.png) | [Vibrava](../pokemon/vibrava.md) | 10% |
@@ -43,7 +58,33 @@
 | ![crustle](../img/pokemon/558.png) | [Crustle](../pokemon/crustle.md) | 5% |
 | ![darmanitan](../img/pokemon/555.png) | [Darmanitan](../pokemon/darmanitan.md) | 5% |
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
+
+### Pot Rooms
+#### ![Sand](../img/items/grass-normal.png) Sand
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Regirock, Level 50
+    Relic Castle, B5F
+    Sand, 1%
+    * The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.
+    LEGENDARY ENCOUNTER
+    Registeel, Level 50
+    Relic Castle, B5F
+    Sand, 1%
+    * The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.
+    LEGENDARY ENCOUNTER
+    Regigigas. Level 70
+    Relic Castle, Volcarona Room
+    Floor, 1%
+    * It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
+    SPECIAL ENCOUNTER
+    Volcarona, Level 75
+    Relic Castle, Volcarona Room
 
 ## Items
 ### General

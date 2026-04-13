@@ -22,6 +22,7 @@
 | ![lombre](../img/pokemon/271.png) | [Lombre](../pokemon/lombre.md) | 20% |
 | ![nuzleaf](../img/pokemon/274.png) | [Nuzleaf](../pokemon/nuzleaf.md) | 20% |
 | ![roselia](../img/pokemon/315.png) | [Roselia](../pokemon/roselia.md) | 10% |
+| ![togepi](../img/pokemon/175.png) | [Togepi](../pokemon/togepi.md) | 10% |
 
 #### ![Grass, Special](../img/items/grass-normal.png) Grass, Special
 | Sprite | Pokemon | Rate |
@@ -56,6 +57,19 @@
 | ![carvanha](../img/pokemon/318.png) | [Carvanha](../pokemon/carvanha.md) | 60% |
 | ![basculin](../img/pokemon/550.png) | [Basculin](../pokemon/basculin.md) | 30% |
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 10% |
+
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Shaymin, Level 50
+    Village Bridge
+    Grass, Doubles, 1%
+    * This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.
+    LEGENDARY ENCOUNTER
+    Meloetta, Level 50
+    Village Bridge
+    Grass, Doubles, 1%
+    * Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it’ll be a tricky place to find.
 
 ## Items
 ## Trainers

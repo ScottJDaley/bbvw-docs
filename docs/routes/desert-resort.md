@@ -13,6 +13,11 @@
 | ![dwebble](../img/pokemon/557.png) | [Dwebble](../pokemon/dwebble.md) | 10% |
 | ![baltoy](../img/pokemon/343.png) | [Baltoy](../pokemon/baltoy.md) | 10% |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
+
+### Main
+#### ![Sand](../img/items/grass-normal.png) Sand
+| Sprite | Pokemon | Rate |
+| --- | --- | --- |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 20% |
 | ![darumaka](../img/pokemon/554.png) | [Darumaka](../pokemon/darumaka.md) | 20% |
 | ![cacnea](../img/pokemon/331.png) | [Cacnea](../pokemon/cacnea.md) | 10% |
@@ -23,6 +28,13 @@
 | ![sigilyph](../img/pokemon/561.png) | [Sigilyph](../pokemon/sigilyph.md) | 5% |
 | ![skarmory](../img/pokemon/227.png) | [Skarmory](../pokemon/skarmory.md) | 5% |
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 5% |
+
+## Special Encounters
+!!! info
+    SPECIAL ENCOUNTER
+    Darmanitan, Level 35
+    Desert Resort
+    * This is still the only way to get a Zen Mode Darmanitan!
 
 ## Items
 ### General

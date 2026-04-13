@@ -11,4 +11,12 @@
 | ![fearow](../img/pokemon/022.png) | [Fearow](../pokemon/fearow.md) | 20% |
 | ![skiploom](../img/pokemon/188.png) | [Skiploom](../pokemon/skiploom.md) | 20% |
 
+## Special Encounters
+!!! info
+    LEGENDARY ENCOUNTER
+    Rayquaza, Level 70
+    Marvelous Bridge
+    Bridge, Special, 1%
+    * At the altitude of the Wonder Bridge, it isn’t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it…
+
 ## Items

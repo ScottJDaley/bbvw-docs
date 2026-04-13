@@ -135,6 +135,7 @@ def get_item_icon(name, move_data, base_path="../"):
     return f"{base_path}img/items/unknown.png"
 
 def get_item_display_linked(name, base_data, base_path="../"):
+    if not name or name == "-": return "-"
     norm = normalize_item_name(name)
     icon = get_item_icon(name, base_data['moves'], base_path)
     if norm in base_data.get('items', {}): return f"![{name}]({icon}) [{name}]({base_path}items/{norm}.md)"
@@ -384,6 +385,14 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
                 for ec in ecs:
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
+                md += "\n"
+        
+        if r_d.get('specials'):
+            md += "## Special Encounters\n"
+            for spec in r_d['specials']:
+                md += "!!! info\n"
+                for line in spec.split('\n'):
+                    md += f"    {line}\n"
                 md += "\n"
     md += "## Items\n"
     base_loc_items = base_data.get('location_items', {}).get(name, {})
