@@ -59,17 +59,19 @@
 | ![sharpedo](../img/pokemon/319.png) | [Sharpedo](../pokemon/sharpedo.md) | 10% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Shaymin, Level 50
-    Village Bridge
-    Grass, Doubles, 1%
-    * This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.
-    LEGENDARY ENCOUNTER
-    Meloetta, Level 50
-    Village Bridge
-    Grass, Doubles, 1%
-    * Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it’ll be a tricky place to find.
+### [Shaymin](../pokemon/shaymin.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Shaymin](../img/pokemon/492.png) | 50 | Village Bridge | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.*
+
+### [Meloetta](../pokemon/meloetta.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Meloetta](../img/pokemon/648.png) | 50 | Village Bridge | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it’ll be a tricky place to find.*
 
 ## Items
 ## Trainers

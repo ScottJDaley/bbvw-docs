@@ -44,7 +44,9 @@ None
 | **Total** | **580** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![legendary](../img/items/legendary.png) Legendary | Fixed% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

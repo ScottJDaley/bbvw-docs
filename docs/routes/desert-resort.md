@@ -30,11 +30,12 @@
 | ![mandibuzz](../img/pokemon/630.png) | [Mandibuzz](../pokemon/mandibuzz.md) | 5% |
 
 ## Special Encounters
-!!! info
-    SPECIAL ENCOUNTER
-    Darmanitan, Level 35
-    Desert Resort
-    * This is still the only way to get a Zen Mode Darmanitan!
+### [Darmanitan](../pokemon/darmanitan.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Darmanitan](../img/pokemon/555.png) | 35 | Desert Resort | ![](../img/items/grass-normal.png)  |  |
+
+*This is still the only way to get a Zen Mode Darmanitan!*
 
 ## Items
 ### General

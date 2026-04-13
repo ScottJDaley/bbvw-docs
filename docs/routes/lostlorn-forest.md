@@ -68,17 +68,19 @@
 | ![gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 10% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Mew, Level 30
-    Lostlorn Forest
-    Doubles Grass, 1%.
-    * Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places… mostly to play.
-    LEGENDARY ENCOUNTER
-    Celebi, Level 30
-    Lostlorn Forest
-    Doubles Grass, 1%.
-    * Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it’s still a peaceful setting where Celebi can find a home.
+### [Mew](../pokemon/mew.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Mew](../img/pokemon/151.png) | 30 | Lostlorn Forest | ![Doubles Grass.](../img/items/grass-normal.png) Doubles Grass. | 1% |
+
+*Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places… mostly to play.*
+
+### [Celebi](../pokemon/celebi.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Celebi](../img/pokemon/251.png) | 30 | Lostlorn Forest | ![Doubles Grass.](../img/items/grass-normal.png) Doubles Grass. | 1% |
+
+*Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it’s still a peaceful setting where Celebi can find a home.*
 
 ## Items
 ### General

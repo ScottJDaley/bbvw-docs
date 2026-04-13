@@ -49,7 +49,9 @@ None
 | **Total** | **670** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Undella Bay](../routes/undella-bay.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -105,10 +105,10 @@
 | ![politoed](../img/pokemon/186.png) | [Politoed](../pokemon/politoed.md) | 5% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Virizion. Level 56
-    Rumination Field
+### [Virizion](../pokemon/virizion.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Virizion](../img/pokemon/640.png) | 56 | Rumination Field | ![](../img/items/grass-normal.png)  |  |
 
 ## Items
 ### General

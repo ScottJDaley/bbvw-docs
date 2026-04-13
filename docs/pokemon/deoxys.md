@@ -50,7 +50,9 @@ None
 | **Total** | **600** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Giant Chasm](../routes/giant-chasm.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

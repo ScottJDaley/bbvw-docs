@@ -37,12 +37,12 @@
 | ![conkeldurr](../img/pokemon/534.png) | [Conkeldurr](../pokemon/conkeldurr.md) | 5% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Groudon, Level 70
-    Route 15
-    Grass, Doubles, 1%
-    * With the lack of volcanoes in Unova there isn’t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you’ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pokémon. If you’re lucky.
+### [Groudon](../pokemon/groudon.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Groudon](../img/pokemon/383.png) | 70 | Route 15 | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*With the lack of volcanoes in Unova there isn’t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you’ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pokémon. If you’re lucky.*
 
 ## Items
 ### General

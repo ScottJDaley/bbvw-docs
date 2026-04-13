@@ -83,20 +83,24 @@
 | ![sandslash](../img/pokemon/028.png) | [Sandslash](../pokemon/sandslash.md) | 25% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Terrakion, Level 56
-    Victory Road, Trial Chamber
-    LEGENDARY ENCOUNTER
-    Moltres, Level 50
-    Victory Road, Outside
-    Rocky Grass, 1%.
-    * Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.
-    LEGENDARY ENCOUNTER
-    Heatran. Level 60
-    Victory Road, Trial Chamber
-    Cave, Normal, 1%
-    * Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.
+### [Terrakion](../pokemon/terrakion.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Terrakion](../img/pokemon/639.png) | 56 | Victory Road, Trial Chamber | ![](../img/items/grass-normal.png)  |  |
+
+### [Moltres](../pokemon/moltres.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Moltres](../img/pokemon/146.png) | 50 | Victory Road, Outside | ![Rocky Grass.](../img/items/grass-normal.png) Rocky Grass. | 1% |
+
+*Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.*
+
+### [Heatran](../pokemon/heatran.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Heatran](../img/pokemon/485.png) | 60 | Victory Road, Trial Chamber | ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal | 1% |
+
+*Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.*
 
 ## Items
 ### General

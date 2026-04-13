@@ -288,6 +288,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             elif 'surf' in m_lower: icon = "surf-normal.png"
             elif 'fish' in m_lower: icon = "fishing-normal.png"
             elif 'cave' in m_lower: icon = "cave-normal.png"
+            elif 'legendary' in m_lower: icon = "legendary.png"
             md += f"| [{loc['route']}](../routes/{fname}.md) | ![{m_lower}](../img/items/{icon}) {loc['method']} | {loc['rate']}% |\n"
     else: md += "No known wild location.\n"
     md += "\n## Level Up Moves\n| Level | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
@@ -312,10 +313,10 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         rw = get_move_display(mn, move_data, rom_data['move_stat_changes'])
         mk = m.get('marker', ''); ct = (' <span class="pill pill-new">NEW</span>' if mk in ['+', '-'] else (' <span class="pill pill-removed">REMOVED</span>' if mk == 'REMOVED' else (' <span class="pill pill-shifted">SHIFTED</span>' if mk == '=' else "")))
         md += f"| {m['level']} {ct} {rw}\n"
-    ln = [m for m in p_base['moves'] if m['method'] != 'level-up']
+    learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
     for rl in p_rom.get('tm_hm', []):
         for pref, num, mn in re.findall(r'(TM|HM)(\d+)\s*,?\s*([^,.\n]+)', rl):
-            if not any(normalize_name(m['name']) == normalize_name(mn) for m in ln): ln.append({'name': mn, 'method': 'machine', 'rom_new': True})
+            if not any(normalize_name(m['name']) == normalize_name(mn) for m in learnable): learnable.append({'name': mn, 'method': 'machine', 'rom_new': True})
     def gmt(title, ml):
         if not ml: return ""
         res = f"\n## {title}\n| No. | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
@@ -327,9 +328,9 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             if m.get('rom_new'): rp = rw.split('|'); rp[1] = rp[1] + ' <span class="pill pill-new">NEW</span>'; rw = "|".join(rp)
             res += rw + "\n"
         return res
-    md += gmt("TM Moves", [m for m in ln if m['method'] == 'machine' and move_data.get(normalize_name(m['name']), {}).get('tm_num', '').startswith('TM')])
-    md += gmt("HM Moves", [m for m in ln if m['method'] == 'machine' and move_data.get(normalize_name(m['name']), {}).get('tm_num', '').startswith('HM')])
-    md += gmt("Egg Moves", [m for m in ln if m['method'] == 'egg']) + gmt("Tutor Moves", [m for m in ln if m['method'] == 'tutor'])
+    md += gmt("TM Moves", [m for m in learnable if m['method'] == 'machine' and move_data.get(normalize_name(m['name']), {}).get('tm_num', '').startswith('TM')])
+    md += gmt("HM Moves", [m for m in learnable if m['method'] == 'machine' and move_data.get(normalize_name(m['name']), {}).get('tm_num', '').startswith('HM')])
+    md += gmt("Egg Moves", [m for m in learnable if m['method'] == 'egg']) + gmt("Tutor Moves", [m for m in learnable if m['method'] == 'tutor'])
     return md
 
 def generate_move_page(name, info, pkmn_list, m_rom, base_data):
@@ -386,14 +387,21 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
                 md += "\n"
-        
         if r_d.get('specials'):
             md += "## Special Encounters\n"
             for spec in r_d['specials']:
-                md += "!!! info\n"
-                for line in spec.split('\n'):
-                    md += f"    {line}\n"
-                md += "\n"
+                p_norm = normalize_name(spec['pokemon']); p_info = base_data['pokemon'].get(p_norm)
+                p_sprite = f"![{spec['pokemon']}](../img/pokemon/{p_info['id']:03}.png)" if p_info else ""
+                p_link = f"[{spec['pokemon']}](../pokemon/{p_norm}.md)" if p_norm else spec['pokemon']
+                m_icon = "grass-normal.png"; m_lower = spec['method'].lower()
+                if 'surf' in m_lower: m_icon = "surf-special.png"
+                elif 'fish' in m_lower: m_icon = "fishing-special.png"
+                elif 'cave' in m_lower: m_icon = "cave-normal.png"
+                
+                md += f"### {p_link}\n"
+                md += f"| Sprite | Level | Location | Method | Rate |\n| --- | --- | --- | --- | --- |\n"
+                md += f"| {p_sprite} | {spec['level']} | {spec['location']} | ![{spec['method']}](../img/items/{m_icon}) {spec['method']} | {spec['rate']} |\n\n"
+                if spec['description']: md += f"*{spec['description']}*\n\n"
     md += "## Items\n"
     base_loc_items = base_data.get('location_items', {}).get(name, {})
     rom_loc_items = rom_item_changes.get(name, {})
@@ -457,12 +465,12 @@ if __name__ == "__main__":
         for ab in pa:
             an = CLEAN_ABILITIES.get(normalize_name(ab), normalize_name(ab))
             if an: (fab[an].append(pn) if an in fab else fab.update({an: [pn]}))
-        pms = set([m['name'] for m in p['moves']] + [rm['name'] for rm in rom['move_changes'].get(pn, []) if rm.get('name')])
+        learnable = set([m['name'] for m in p['moves']] + [rm['name'] for rm in rom['move_changes'].get(pn, []) if rm.get('name')])
         for rl in pr.get('tm_hm', []):
-            for m in re.findall(r'(TM|HM)\d+\s*,?\s*([^,.\n]+)', rl): pms.add(m[1])
+            for m in re.findall(r'(TM|HM)\d+\s*,?\s*([^,.\n]+)', rl): learnable.add(m[1])
         for tl in pr.get('tutor', []):
-            for m in re.findall(r'([^,.\n]+)', tl): pms.add(m)
-        for m in pms:
+            for m in re.findall(r'([^,.\n]+)', tl): learnable.add(m)
+        for m in learnable:
             mn = normalize_name(m)
             if mn: (fmv[mn].append(pn) if mn in fmv else fmv.update({mn: [pn]}))
     locs = {}
@@ -471,6 +479,10 @@ if __name__ == "__main__":
             for ec in sc['encounters']:
                 pn = normalize_name(ec['pokemon'])
                 (locs[pn].append({'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}]}))
+        if rd.get('specials'):
+            for spec in rd['specials']:
+                pn = normalize_name(spec['pokemon'])
+                (locs[pn].append({'route': rd['name'], 'method': spec['type'], 'rate': spec['rate'] or 'Fixed'}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': spec['type'], 'rate': spec['rate'] or 'Fixed'}]}))
     for p in pkmn_to_generate:
         md = generate_pokemon_page(p['name'], base_data, rom, base_data['moves'], base_data['abilities'], locs, base_data['pokemon'])
         write_if_changed(os.path.join("docs/pokemon", f"{normalize_name(p['name'])}.md"), md)
@@ -524,7 +536,6 @@ if __name__ == "__main__":
     it_idx_md = "# Items\n\n"
     for inm in sorted(base_data.get('items', {}).keys()): it_idx_md += f"- [{inm.replace('-', ' ').capitalize()}]({normalize_item_name(inm)}.md)\n"
     write_if_changed("docs/items/index.md", it_idx_md)
-    # Clean up orphaned files
     for d in ['docs/pokemon', 'docs/moves', 'docs/abilities', 'docs/routes', 'docs/items']:
         if os.path.exists(d):
             for f in os.listdir(d):

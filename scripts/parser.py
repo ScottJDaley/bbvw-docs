@@ -84,23 +84,21 @@ def parse_wild_pokemon():
         if not route_data:
             route_data = {'name': route_name, 'sections': [], 'specials': []}; routes.append(route_data)
         current_sub_area = header.replace(route_name, '').replace('–', '').strip() or "General"
+        
         for part in parts:
             part = part.strip()
             if not part: continue
             lines = [l.strip() for l in part.split('\n') if l.strip()]
             if not lines: continue
-            if "LEGENDARY ENCOUNTER" in lines[0] or "SPECIAL ENCOUNTER" in lines[0]:
-                route_data['specials'].append(part); continue
-            if any(":" in l for l in lines):
-                encounters, title, start_idx = [], current_sub_area, 0
-                if ":" not in lines[0]:
+            
+            if any(":" in l for l in lines) or "LEGENDARY ENCOUNTER" in part or "SPECIAL ENCOUNTER" in part:
+                title, start_idx = current_sub_area, 0
+                if ":" not in lines[0] and "ENCOUNTER" not in lines[0]:
                     title, start_idx = lines[0], 1
                 
-                # Check if there are more sub-headers within this part
                 current_section_title = title
                 current_section_encounters = []
                 
-                # We need to handle special encounters mixed with regular encounters
                 lines_to_parse = lines[start_idx:]
                 i = 0
                 while i < len(lines_to_parse):
@@ -110,19 +108,47 @@ def parse_wild_pokemon():
                             route_data['sections'].append({'title': current_section_title, 'encounters': current_section_encounters})
                             current_section_encounters = []
                         
-                        special_block = [line]
+                        # Peek ahead to find details
+                        pkmn, lv, loc, method, rate, desc = "", "", "", "", "", ""
                         j = i + 1
+                        found_pkmn_line = False
                         while j < len(lines_to_parse):
                             next_line = lines_to_parse[j]
-                            if ":" in next_line:
-                                break
-                            if next_line.strip() and not any(x in next_line for x in ["LEGENDARY", "SPECIAL", "Level", "Lv."]):
-                                if next_line.strip() in ["Inside", "Outside", "1F", "B1F", "2F", "3F", "Basement"]:
-                                    break
-                            special_block.append(next_line)
+                            if ":" in next_line: break
+                            if next_line.strip() in ["Inside", "Outside", "1F", "B1F", "2F", "3F", "Basement"]: break
+                            if "ENCOUNTER" in next_line: break
+                            
+                            nl_strip = next_line.strip()
+                            if nl_strip:
+                                if not found_pkmn_line and any(x in nl_strip for x in [", Level", ". Level", ", Lv.", ". Lv."]):
+                                    # Jirachi, Level 30
+                                    m = re.match(r'(.*?)[,.]\s+(?:Level|Lv\.)\s+(\d+)(.*)', nl_strip)
+                                    if m:
+                                        pkmn, lv = m.group(1).strip(), m.group(2).strip()
+                                        if m.group(3): # handle things like (Volt White)
+                                            pkmn += f" {m.group(3).strip()}"
+                                        found_pkmn_line = True
+                                elif nl_strip.startswith('*'):
+                                    desc += nl_strip[1:].strip() + " "
+                                elif '%' in nl_strip:
+                                    # Grass, Special, 1%
+                                    rate_match = re.search(r'(\d+%)', nl_strip)
+                                    if rate_match: rate = rate_match.group(1)
+                                    method = re.sub(r',\s*\d+%', '', nl_strip).strip()
+                                elif found_pkmn_line:
+                                    loc += nl_strip + " "
                             j += 1
                         
-                        route_data['specials'].append("\n".join(special_block))
+                        route_data['specials'].append({
+                            'type': 'Legendary' if "LEGENDARY" in line else 'Special',
+                            'pokemon': pkmn,
+                            'level': lv,
+                            'location': loc.strip(),
+                            'method': method,
+                            'rate': rate,
+                            'description': desc.strip(),
+                            'raw': "\n".join(lines_to_parse[i:j])
+                        })
                         i = j
                         continue
                     
@@ -134,11 +160,9 @@ def parse_wild_pokemon():
                             for pkmn, rate in pkmns:
                                 current_section_encounters.append({'method': method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
                     elif "(" in line and "%" in line:
-                        # Continuation of the previous encounter line!
                         pkmns = re.findall(r'([^,(]+)\s+\((\d+)%\)', line)
                         for pkmn, rate in pkmns:
                             if current_section_encounters:
-                                # Use the method from the last encounter
                                 last_method = current_section_encounters[-1]['method']
                                 current_section_encounters.append({'method': last_method, 'pokemon': pkmn.strip(), 'rate': int(rate)})
                     elif line.strip():
@@ -151,10 +175,7 @@ def parse_wild_pokemon():
                 if current_section_encounters:
                     route_data['sections'].append({'title': current_section_title, 'encounters': current_section_encounters})
             else:
-                if "LEGENDARY ENCOUNTER" in part or "SPECIAL ENCOUNTER" in part:
-                    route_data['specials'].append(part)
-                else:
-                    current_sub_area = part
+                current_sub_area = part
     return routes
 
 def parse_move_changes():

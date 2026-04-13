@@ -51,7 +51,9 @@
 | **Total** | **580** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Route 9](../routes/route-9.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

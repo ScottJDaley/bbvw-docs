@@ -121,17 +121,19 @@
 | ![golurk](../img/pokemon/623.png) | [Golurk](../pokemon/golurk.md) | 50% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Articuno, Level 50
-    Dragonspiral Tower, Outside, Winter
-    Doubles Grass, 1%.
-    * Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.
-    LEGENDARY ENCOUNTER
-    Suicune, Level 50
-    Dragonspiral Tower, Outside, Spring, Summer & Autumn
-    Surf, Special, 1%.
-    * Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower.
+### [Articuno](../pokemon/articuno.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Articuno](../img/pokemon/144.png) | 50 | Dragonspiral Tower, Outside, Winter | ![Doubles Grass.](../img/items/grass-normal.png) Doubles Grass. | 1% |
+
+*Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.*
+
+### [Suicune](../pokemon/suicune.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Suicune](../img/pokemon/245.png) | 50 | Dragonspiral Tower, Outside, Spring, Summer & Autumn | ![Surf, Special.](../img/items/surf-special.png) Surf, Special. | 1% |
+
+*Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower.*
 
 ## Items
 ### General

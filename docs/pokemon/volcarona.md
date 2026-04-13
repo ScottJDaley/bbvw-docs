@@ -47,7 +47,9 @@ None
 | **Total** | **550** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Relic Castle](../routes/relic-castle.md) | ![special](../img/items/grass-special.png) Special | Fixed% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

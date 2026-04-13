@@ -39,12 +39,12 @@
 | ![spiritomb](../img/pokemon/442.png) | [Spiritomb](../pokemon/spiritomb.md) | 10% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Cresselia, Level 50
-    Celestial Tower, Roof
-    Tower, Normal, 1%
-    * The mistress of the moon is kind, and takes pity upon the departed souls of Pokémon. You can interrupt her mourning and put her in a ball. Isn’t that dandy?
+### [Cresselia](../pokemon/cresselia.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Cresselia](../img/pokemon/488.png) | 50 | Celestial Tower, Roof | ![Tower, Normal](../img/items/grass-normal.png) Tower, Normal | 1% |
+
+*The mistress of the moon is kind, and takes pity upon the departed souls of Pokémon. You can interrupt her mourning and put her in a ball. Isn’t that dandy?*
 
 ## Items
 ### General

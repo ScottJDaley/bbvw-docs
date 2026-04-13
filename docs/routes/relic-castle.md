@@ -66,25 +66,31 @@
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Regirock, Level 50
-    Relic Castle, B5F
-    Sand, 1%
-    * The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.
-    LEGENDARY ENCOUNTER
-    Registeel, Level 50
-    Relic Castle, B5F
-    Sand, 1%
-    * The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.
-    LEGENDARY ENCOUNTER
-    Regigigas. Level 70
-    Relic Castle, Volcarona Room
-    Floor, 1%
-    * It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.
-    SPECIAL ENCOUNTER
-    Volcarona, Level 75
-    Relic Castle, Volcarona Room
+### [Regirock](../pokemon/regirock.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Regirock](../img/pokemon/377.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/grass-normal.png) Sand | 1% |
+
+*The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.*
+
+### [Registeel](../pokemon/registeel.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Registeel](../img/pokemon/379.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/grass-normal.png) Sand | 1% |
+
+*The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.*
+
+### [Regigigas](../pokemon/regigigas.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Regigigas](../img/pokemon/486.png) | 70 | Relic Castle, Volcarona Room | ![Floor](../img/items/grass-normal.png) Floor | 1% |
+
+*It’s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.*
+
+### [Volcarona](../pokemon/volcarona.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![](../img/items/grass-normal.png)  |  |
 
 ## Items
 ### General

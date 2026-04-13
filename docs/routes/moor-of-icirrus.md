@@ -40,12 +40,12 @@
 | ![whiscash](../img/pokemon/340.png) | [Whiscash](../pokemon/whiscash.md) | 10% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Keldeo, Level 56
-    Moor of Iccirus, Autumn
-    Puddle, Normal, 1%.
-    * The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team.
+### [Keldeo](../pokemon/keldeo.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Keldeo](../img/pokemon/647.png) | 56 | Moor of Iccirus, Autumn | ![Puddle, Normal.](../img/items/grass-normal.png) Puddle, Normal. | 1% |
+
+*The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you’ll have a chance at adding him to your team.*
 
 ## Items
 ### General

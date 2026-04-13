@@ -34,17 +34,19 @@
 | ![reuniclus](../img/pokemon/579.png) | [Reuniclus](../pokemon/reuniclus.md) | 5% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Raikou, Level 50
-    Route 9
-    Grass, Special, 1%.
-    * You’ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.
-    LEGENDARY ENCOUNTER
-    Entei, Level 50
-    Route 9
-    Grass, Special, 1%.
-    * Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him.
+### [Raikou](../pokemon/raikou.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Raikou](../img/pokemon/243.png) | 50 | Route 9 | ![Grass, Special.](../img/items/grass-normal.png) Grass, Special. | 1% |
+
+*You’ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.*
+
+### [Entei](../pokemon/entei.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Entei](../img/pokemon/244.png) | 50 | Route 9 | ![Grass, Special.](../img/items/grass-normal.png) Grass, Special. | 1% |
+
+*Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him.*
 
 ## Items
 ## Trainers

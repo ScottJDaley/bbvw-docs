@@ -61,12 +61,12 @@
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Zapdos, Level 50
-    Chargestone Cave, B2F.
-    Cave, Normal, 1%.
-    * Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!
+### [Zapdos](../pokemon/zapdos.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Zapdos](../img/pokemon/145.png) | 50 | Chargestone Cave, B2F. | ![Cave, Normal.](../img/items/cave-normal.png) Cave, Normal. | 1% |
+
+*Zapdos, like most Electric types, is drawn to high potential sources. Watch out – don’t underestimate its power!*
 
 ## Items
 ### General

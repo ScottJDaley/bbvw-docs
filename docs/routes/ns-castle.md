@@ -2,11 +2,9 @@
 
 ## Encounters
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-     /
-    Reshiram (Blaze Black) | Zekrom (Volt White)
-    Level 70
-    N’s Castle
+### 
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+|  |  |  | ![](../img/items/grass-normal.png)  |  |
 
 ## Items

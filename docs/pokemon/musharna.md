@@ -50,7 +50,9 @@ None
 | **Total** | **487** | |
 
 ## Locations
-No known wild location.
+| Route | Method | Rate |
+| --- | --- | --- |
+| [Dreamyard](../routes/dreamyard.md) | ![special](../img/items/grass-special.png) Special | Fixed% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

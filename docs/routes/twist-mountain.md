@@ -44,12 +44,12 @@
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Regice, Level 50
-    Twist Mountain, Ice Rock Room, Winter
-    Cave, Normal, 1%
-    * Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.
+### [Regice](../pokemon/regice.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Regice](../img/pokemon/378.png) | 50 | Twist Mountain, Ice Rock Room, Winter | ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal | 1% |
+
+*Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.*
 
 ## Items
 ## Trainers

@@ -63,26 +63,26 @@
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    /
-    Tornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)
-    Route 10, Main Route
-    Grass, Shaking, 1%
-    * While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.
-    League Path
+### [Tornadus (Volt White) / Thundurus, Level 40 (Blaze Black)](../pokemon/tornadus.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Tornadus (Volt White) / Thundurus, Level 40 (Blaze Black)](../img/pokemon/641.png) | 40 | Route 10, Main Route League Path | ![Grass, Shaking](../img/items/grass-normal.png) Grass, Shaking | 1% |
 
-!!! info
-    LEGENDARY ENCOUNTER
-    Latias, Level 60
-    Route 10, League Path
-    Grass, Doubles, 1%
-    * The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.
-    LEGENDARY ENCOUNTER
-    Latios, Level 60
-    Route 10, League Path
-    Grass, Doubles, 1%
-    * Anywhere where Latias goes, Latios does too.
+*While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.*
+
+### [Latias](../pokemon/latias.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Latias](../img/pokemon/380.png) | 60 | Route 10, League Path | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.*
+
+### [Latios](../pokemon/latios.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Latios](../img/pokemon/381.png) | 60 | Route 10, League Path | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*Anywhere where Latias goes, Latios does too.*
 
 ## Items
 ### General

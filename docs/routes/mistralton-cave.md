@@ -40,25 +40,31 @@
 | ![dugtrio](../img/pokemon/051.png) | [Dugtrio](../pokemon/dugtrio.md) | 50% |
 
 ## Special Encounters
-!!! info
-    LEGENDARY ENCOUNTER
-    Uxie, Level 50
-    Mistralton Cave, 1F
-    Cave, Normal, 1%
-    * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
-    LEGENDARY ENCOUNTER
-    Mesprit, Level 50
-    Mistralton Cave, 2F
-    Cave, Normal, 1%
-    * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
-    LEGENDARY ENCOUNTER
-    Azelf, Level 50
-    Mistralton Cave, 3F
-    Cave, Normal, 1%
-    * Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.
-    LEGENDARY ENCOUNTER
-    Cobalion, Level 56
-    Guidance Chamber
+### [Uxie](../pokemon/uxie.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Uxie](../img/pokemon/480.png) | 50 | Mistralton Cave, 1F | ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal | 1% |
+
+*Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.*
+
+### [Mesprit](../pokemon/mesprit.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Mesprit](../img/pokemon/481.png) | 50 | Mistralton Cave, 2F | ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal | 1% |
+
+*Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.*
+
+### [Azelf](../pokemon/azelf.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Azelf](../img/pokemon/482.png) | 50 | Mistralton Cave, 3F | ![Cave, Normal](../img/items/cave-normal.png) Cave, Normal | 1% |
+
+*Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It’s no lake, but it’s a good enough place for the pixie trio to reside.*
+
+### [Cobalion](../pokemon/cobalion.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Cobalion](../img/pokemon/638.png) | 56 | Guidance Chamber | ![](../img/items/grass-normal.png)  |  |
 
 ## Items
 ### General
