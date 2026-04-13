@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Victory Road](../routes/victory-road.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
+| [Victory Road](../routes/victory-road.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

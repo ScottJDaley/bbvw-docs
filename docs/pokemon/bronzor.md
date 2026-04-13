@@ -48,8 +48,8 @@ None
 | Route | Method | Rate |
 | --- | --- | --- |
 | [Wellspring Cave](../routes/wellspring-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 5% |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 10% |
 | [Abundant Shrine](../routes/abundant-shrine.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 

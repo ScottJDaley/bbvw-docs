@@ -53,7 +53,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 1%% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

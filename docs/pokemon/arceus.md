@@ -55,7 +55,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal.](../img/items/cave-normal.png) Cave, Normal. | 1%% |
+| [Challenger’s Cave](../routes/challengers-cave.md) | ![cave normal.](../img/items/cave-normal.png) Cave, Normal. | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

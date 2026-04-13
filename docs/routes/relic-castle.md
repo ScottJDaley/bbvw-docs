@@ -90,7 +90,7 @@
 ### [Volcarona](../pokemon/volcarona.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
+| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
 
 ## Items
 ### General

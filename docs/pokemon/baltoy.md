@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 30% |
 
 ## Level Up Moves

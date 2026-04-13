@@ -45,7 +45,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Mistralton Cave](../routes/mistralton-cave.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 20% |
 
 ## Level Up Moves

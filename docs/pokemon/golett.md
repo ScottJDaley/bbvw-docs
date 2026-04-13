@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 30% |
 
 ## Level Up Moves

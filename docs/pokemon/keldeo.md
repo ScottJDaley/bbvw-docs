@@ -47,7 +47,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle normal.](../img/items/grass-normal.png) Puddle, Normal. | 1%% |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | ![puddle normal.](../img/items/grass-normal.png) Puddle, Normal. | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

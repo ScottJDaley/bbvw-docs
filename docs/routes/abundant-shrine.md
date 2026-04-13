@@ -71,7 +71,7 @@
 ### [Landorus](../pokemon/landorus.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Landorus](../img/pokemon/645.png) | 75 | Abundant Shrine | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
+| ![Landorus](../img/pokemon/645.png) | 75 | Abundant Shrine | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
 
 ## Items
 ### General

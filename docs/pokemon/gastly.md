@@ -48,7 +48,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 20% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 20% |
 | [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 10% |
 
 ## Level Up Moves

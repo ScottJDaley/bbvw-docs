@@ -50,7 +50,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

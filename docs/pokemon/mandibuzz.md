@@ -49,7 +49,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 5% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/sand-normal.png) Sand | 5% |
 | [Route 10](../routes/route-10.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 20% |
 | [Victory Road](../routes/victory-road.md) | ![rocky grass](../img/items/grass-normal.png) Rocky Grass | 10% |
 | [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |

@@ -151,7 +151,7 @@ def parse_wild_pokemon():
                                         'level': p_lv,
                                         'location': loc.strip() + edition,
                                         'method': method or "Fixed",
-                                        'rate': rate or "1%",
+                                        'rate': rate or "Fixed",
                                         'description': desc.strip(),
                                         'raw': p_line
                                     })
@@ -168,7 +168,7 @@ def parse_wild_pokemon():
                                 'level': lv,
                                 'location': loc.strip(),
                                 'method': method or "Fixed",
-                                'rate': rate or "1%",
+                                'rate': rate or "Fixed",
                                 'description': desc.strip(),
                                 'raw': pkmn_line
                             })

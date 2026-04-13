@@ -48,7 +48,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 13](../routes/route-13.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 1%% |
+| [Route 13](../routes/route-13.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

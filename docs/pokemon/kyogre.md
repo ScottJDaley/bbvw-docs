@@ -51,7 +51,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Undella Bay](../routes/undella-bay.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 1%% |
+| [Undella Bay](../routes/undella-bay.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -48,7 +48,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Marvelous Bridge](../routes/marvelous-bridge.md) | ![bridge special](../img/items/grass-special.png) Bridge, Special | 1%% |
+| [Marvelous Bridge](../routes/marvelous-bridge.md) | ![bridge special](../img/items/grass-special.png) Bridge, Special | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -288,8 +288,13 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
             elif 'surf' in m_lower: icon = "surf-normal.png"
             elif 'fish' in m_lower: icon = "fishing-normal.png"
             elif 'cave' in m_lower: icon = "cave-normal.png"
+            elif 'sand' in m_lower: icon = "sand-normal.png"
             elif 'legendary' in m_lower: icon = "legendary.png"
-            md += f"| [{loc['route']}](../routes/{fname}.md) | ![{m_lower}](../img/items/{icon}) {loc['method']} | {loc['rate']}% |\n"
+            
+            rate_str = loc['rate']
+            if '%' not in rate_str and rate_str != 'Fixed':
+                rate_str += "%"
+            md += f"| [{loc['route']}](../routes/{fname}.md) | ![{m_lower}](../img/items/{icon}) {loc['method']} | {rate_str} |\n"
     else: md += "No known wild location.\n"
     md += "\n## Level Up Moves\n| Level | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
     blm = [m for m in p_base['moves'] if m['method'] == 'level-up']; am = []

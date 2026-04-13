@@ -49,7 +49,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 4](../routes/route-4.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Route 4](../routes/route-4.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

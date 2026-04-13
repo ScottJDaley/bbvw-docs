@@ -33,7 +33,7 @@
 ### [Darmanitan](../pokemon/darmanitan.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Darmanitan](../img/pokemon/555.png) | 35 | Desert Resort | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
+| ![Darmanitan](../img/pokemon/555.png) | 35 | Desert Resort | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
 
 *This is still the only way to get a Zen Mode Darmanitan!*
 

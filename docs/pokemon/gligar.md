@@ -50,7 +50,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Route 7](../routes/route-7.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 5% |
 | [Route 11](../routes/route-11.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Route 15](../routes/route-15.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 10% |

@@ -51,8 +51,8 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
+| [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Route 10](../routes/route-10.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 | [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |
 | [Victory Road](../routes/victory-road.md) | ![cave special](../img/items/cave-special.png) Cave, Special | 25% |

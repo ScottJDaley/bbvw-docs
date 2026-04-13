@@ -53,7 +53,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 9](../routes/route-9.md) | ![grass special.](../img/items/grass-special.png) Grass, Special. | 1%% |
+| [Route 9](../routes/route-9.md) | ![grass special.](../img/items/grass-special.png) Grass, Special. | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -52,8 +52,8 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
-| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/grass-normal.png) Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
+| [Desert Resort](../routes/desert-resort.md) | ![sand](../img/items/sand-normal.png) Sand | 10% |
 | [Route 17](../routes/route-17.md) | ![grass normal](../img/items/grass-normal.png) Grass, Normal | 10% |
 
 ## Level Up Moves

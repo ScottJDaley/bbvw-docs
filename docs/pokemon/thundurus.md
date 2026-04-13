@@ -49,7 +49,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 10](../routes/route-10.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 1%% |
+| [Route 10](../routes/route-10.md) | ![grass shaking](../img/items/grass-normal.png) Grass, Shaking | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

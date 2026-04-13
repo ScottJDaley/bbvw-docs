@@ -48,7 +48,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Village Bridge](../routes/village-bridge.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 1%% |
+| [Village Bridge](../routes/village-bridge.md) | ![grass doubles](../img/items/grass-doubles.png) Grass, Doubles | 1% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |
