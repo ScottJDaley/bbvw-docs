@@ -48,7 +48,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Abundant Shrine](../routes/abundant-shrine.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Abundant Shrine](../routes/abundant-shrine.md) | ![grass special](../img/items/grass-special.png) Grass, Special | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

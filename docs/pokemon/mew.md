@@ -52,7 +52,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Lostlorn Forest](../routes/lostlorn-forest.md) | ![doubles grass.](../img/items/grass-doubles.png) Doubles Grass. | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

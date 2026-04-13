@@ -48,7 +48,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Victory Road](../routes/victory-road.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Victory Road](../routes/victory-road.md) | ![rocky grass.](../img/items/grass-normal.png) Rocky Grass. | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

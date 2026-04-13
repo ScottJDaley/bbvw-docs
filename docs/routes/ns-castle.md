@@ -2,9 +2,9 @@
 
 ## Encounters
 ## Special Encounters
-### 
+### [Heatran](../pokemon/heatran.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-|  |  |  | ![](../img/items/grass-normal.png)  |  |
+| ![Heatran](../img/pokemon/485.png) |  |  | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ## Items

@@ -49,7 +49,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | ![special](../img/items/grass-special.png) Special | Fixed% |
+| [Desert Resort](../routes/desert-resort.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
 | [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 5% |
 | [Relic Castle](../routes/relic-castle.md) | ![sand](../img/items/grass-normal.png) Sand | 5% |
 

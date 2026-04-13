@@ -51,7 +51,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Route 17](../routes/route-17.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Route 17](../routes/route-17.md) | ![surf special](../img/items/surf-special.png) Surf, Special | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

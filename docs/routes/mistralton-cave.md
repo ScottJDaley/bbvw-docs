@@ -64,7 +64,7 @@
 ### [Cobalion](../pokemon/cobalion.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Cobalion](../img/pokemon/638.png) | 56 | Guidance Chamber | ![](../img/items/grass-normal.png)  |  |
+| ![Cobalion](../img/pokemon/638.png) | 56 | Guidance Chamber | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ## Items
 ### General

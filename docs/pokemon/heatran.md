@@ -45,7 +45,8 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Victory Road](../routes/victory-road.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Victory Road](../routes/victory-road.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 1%% |
+| [N’s Castle](../routes/ns-castle.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

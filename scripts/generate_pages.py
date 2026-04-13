@@ -387,21 +387,26 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
                     pn = normalize_name(ec['pokemon']); info = base_data['pokemon'].get(pn)
                     md += f"| ![{pn}](../img/pokemon/{info['id']:03}.png) | [{ec['pokemon']}](../pokemon/{pn}.md) | {ec['rate']}% |\n" if info else f"| | {ec['pokemon']} | {ec['rate']}% |\n"
                 md += "\n"
+        
         if r_d.get('specials'):
             md += "## Special Encounters\n"
             for spec in r_d['specials']:
                 p_norm = normalize_name(spec['pokemon']); p_info = base_data['pokemon'].get(p_norm)
                 p_sprite = f"![{spec['pokemon']}](../img/pokemon/{p_info['id']:03}.png)" if p_info else ""
                 p_link = f"[{spec['pokemon']}](../pokemon/{p_norm}.md)" if p_norm else spec['pokemon']
+                
+                # Determine method icon
                 m_icon = "grass-normal.png"; m_lower = spec['method'].lower()
                 if 'surf' in m_lower: m_icon = "surf-special.png"
                 elif 'fish' in m_lower: m_icon = "fishing-special.png"
                 elif 'cave' in m_lower: m_icon = "cave-normal.png"
+                elif 'sand' in m_lower: m_icon = "cave-normal.png" # Assuming sand icon
                 
                 md += f"### {p_link}\n"
                 md += f"| Sprite | Level | Location | Method | Rate |\n| --- | --- | --- | --- | --- |\n"
                 md += f"| {p_sprite} | {spec['level']} | {spec['location']} | ![{spec['method']}](../img/items/{m_icon}) {spec['method']} | {spec['rate']} |\n\n"
-                if spec['description']: md += f"*{spec['description']}*\n\n"
+                if spec['description']:
+                    md += f"*{spec['description']}*\n\n"
     md += "## Items\n"
     base_loc_items = base_data.get('location_items', {}).get(name, {})
     rom_loc_items = rom_item_changes.get(name, {})
@@ -478,11 +483,13 @@ if __name__ == "__main__":
         for sc in rd['sections']:
             for ec in sc['encounters']:
                 pn = normalize_name(ec['pokemon'])
-                (locs[pn].append({'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': ec['method'], 'rate': ec['rate']}]}))
+                (locs[pn].append({'route': rd['name'], 'method': ec['method'], 'rate': str(ec['rate'])}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': ec['method'], 'rate': str(ec['rate'])}]}))
         if rd.get('specials'):
             for spec in rd['specials']:
                 pn = normalize_name(spec['pokemon'])
-                (locs[pn].append({'route': rd['name'], 'method': spec['type'], 'rate': spec['rate'] or 'Fixed'}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': spec['type'], 'rate': spec['rate'] or 'Fixed'}]}))
+                # Use the actual encounter method (e.g. Grass, Special) instead of 'Legendary'
+                method = spec['method'] or "Fixed"
+                (locs[pn].append({'route': rd['name'], 'method': method, 'rate': spec['rate'] or 'Fixed'}) if pn in locs else locs.update({pn: [{'route': rd['name'], 'method': method, 'rate': spec['rate'] or 'Fixed'}]}))
     for p in pkmn_to_generate:
         md = generate_pokemon_page(p['name'], base_data, rom, base_data['moves'], base_data['abilities'], locs, base_data['pokemon'])
         write_if_changed(os.path.join("docs/pokemon", f"{normalize_name(p['name'])}.md"), md)

@@ -52,7 +52,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Giant Chasm](../routes/giant-chasm.md) | ![doubles grass.](../img/items/grass-doubles.png) Doubles Grass. | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

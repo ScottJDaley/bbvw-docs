@@ -52,7 +52,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dreamyard](../routes/dreamyard.md) | ![special](../img/items/grass-special.png) Special | Fixed% |
+| [Dreamyard](../routes/dreamyard.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

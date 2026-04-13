@@ -86,7 +86,7 @@
 ### [Terrakion](../pokemon/terrakion.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Terrakion](../img/pokemon/639.png) | 56 | Victory Road, Trial Chamber | ![](../img/items/grass-normal.png)  |  |
+| ![Terrakion](../img/pokemon/639.png) | 56 | Victory Road, Trial Chamber | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ### [Moltres](../pokemon/moltres.md)
 | Sprite | Level | Location | Method | Rate |

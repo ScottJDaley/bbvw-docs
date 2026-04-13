@@ -52,7 +52,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Celestial Tower](../routes/celestial-tower.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Celestial Tower](../routes/celestial-tower.md) | ![tower normal](../img/items/grass-normal.png) Tower, Normal | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

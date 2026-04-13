@@ -109,7 +109,7 @@ def parse_wild_pokemon():
                             current_section_encounters = []
                         
                         # Peek ahead to find details
-                        pkmn, lv, loc, method, rate, desc = "", "", "", "", "", ""
+                        pkmn_line, lv, loc, method, rate, desc = "", "", "", "", "", ""
                         j = i + 1
                         found_pkmn_line = False
                         while j < len(lines_to_parse):
@@ -121,17 +121,11 @@ def parse_wild_pokemon():
                             nl_strip = next_line.strip()
                             if nl_strip:
                                 if not found_pkmn_line and any(x in nl_strip for x in [", Level", ". Level", ", Lv.", ". Lv."]):
-                                    # Jirachi, Level 30
-                                    m = re.match(r'(.*?)[,.]\s+(?:Level|Lv\.)\s+(\d+)(.*)', nl_strip)
-                                    if m:
-                                        pkmn, lv = m.group(1).strip(), m.group(2).strip()
-                                        if m.group(3): # handle things like (Volt White)
-                                            pkmn += f" {m.group(3).strip()}"
-                                        found_pkmn_line = True
+                                    pkmn_line = nl_strip
+                                    found_pkmn_line = True
                                 elif nl_strip.startswith('*'):
                                     desc += nl_strip[1:].strip() + " "
                                 elif '%' in nl_strip:
-                                    # Grass, Special, 1%
                                     rate_match = re.search(r'(\d+%)', nl_strip)
                                     if rate_match: rate = rate_match.group(1)
                                     method = re.sub(r',\s*\d+%', '', nl_strip).strip()
@@ -139,16 +133,45 @@ def parse_wild_pokemon():
                                     loc += nl_strip + " "
                             j += 1
                         
-                        route_data['specials'].append({
-                            'type': 'Legendary' if "LEGENDARY" in line else 'Special',
-                            'pokemon': pkmn,
-                            'level': lv,
-                            'location': loc.strip(),
-                            'method': method,
-                            'rate': rate,
-                            'description': desc.strip(),
-                            'raw': "\n".join(lines_to_parse[i:j])
-                        })
+                        # Handle edition splitting: "Reshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)"
+                        if "/" in pkmn_line and ("Volt White" in pkmn_line or "Blaze Black" in pkmn_line):
+                            parts = pkmn_line.split("/")
+                            for p_line in parts:
+                                p_line = p_line.strip()
+                                m = re.match(r'(.*?)[,.]\s+(?:Level|Lv\.)\s+(\d+)(.*)', p_line)
+                                if m:
+                                    p_name, p_lv, p_suffix = m.group(1).strip(), m.group(2).strip(), m.group(3).strip()
+                                    edition = ""
+                                    if "Volt White" in p_suffix: edition = " (Volt White Only)"
+                                    elif "Blaze Black" in p_suffix: edition = " (Blaze Black Only)"
+                                    
+                                    route_data['specials'].append({
+                                        'type': 'Legendary' if "LEGENDARY" in line else 'Special',
+                                        'pokemon': p_name,
+                                        'level': p_lv,
+                                        'location': loc.strip() + edition,
+                                        'method': method or "Fixed",
+                                        'rate': rate or "1%",
+                                        'description': desc.strip(),
+                                        'raw': p_line
+                                    })
+                        else:
+                            # Standard single encounter parsing
+                            m = re.match(r'(.*?)[,.]\s+(?:Level|Lv\.)\s+(\d+)(.*)', pkmn_line)
+                            if m:
+                                pkmn, lv = m.group(1).strip(), m.group(2).strip()
+                                if m.group(3): pkmn += f" {m.group(3).strip()}"
+                            
+                            route_data['specials'].append({
+                                'type': 'Legendary' if "LEGENDARY" in line else 'Special',
+                                'pokemon': pkmn,
+                                'level': lv,
+                                'location': loc.strip(),
+                                'method': method or "Fixed",
+                                'rate': rate or "1%",
+                                'description': desc.strip(),
+                                'raw': pkmn_line
+                            })
                         i = j
                         continue
                     

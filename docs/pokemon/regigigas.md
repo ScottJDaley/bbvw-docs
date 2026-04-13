@@ -55,7 +55,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Relic Castle](../routes/relic-castle.md) | ![floor](../img/items/grass-normal.png) Floor | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

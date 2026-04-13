@@ -108,7 +108,7 @@
 ### [Virizion](../pokemon/virizion.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Virizion](../img/pokemon/640.png) | 56 | Rumination Field | ![](../img/items/grass-normal.png)  |  |
+| ![Virizion](../img/pokemon/640.png) | 56 | Rumination Field | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ## Items
 ### General

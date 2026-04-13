@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Mistralton Cave](../routes/mistralton-cave.md) | ![legendary](../img/items/legendary.png) Legendary | Fixed% |
+| [Mistralton Cave](../routes/mistralton-cave.md) | ![fixed](../img/items/grass-normal.png) Fixed | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

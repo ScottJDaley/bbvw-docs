@@ -11275,17 +11275,17 @@
           "method": "Grass, Special",
           "rate": "1%",
           "description": "Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don\u2019t undestimate its power!",
-          "raw": "LEGENDARY ENCOUNTER\nJirachi, Level 30\nDreamyard\nGrass, Special, 1%\n* Dreams and wishes often coincide, and as a result the Wishmaker Jirachi is attracted to the Dreamyard. You might be lucky enough to find him early on your journey, but don\u2019t undestimate its power!"
+          "raw": "Jirachi, Level 30"
         },
         {
           "type": "Special",
           "pokemon": "Musharna",
           "level": "70",
           "location": "Dreamyard Basement",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "SPECIAL ENCOUNTER\nMusharna, Level 70\nDreamyard Basement"
+          "raw": "Musharna, Level 70"
         }
       ]
     },
@@ -12031,10 +12031,10 @@
           "pokemon": "Virizion",
           "level": "56",
           "location": "Rumination Field",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nVirizion. Level 56\nRumination Field"
+          "raw": "Virizion. Level 56"
         }
       ]
     },
@@ -12047,10 +12047,10 @@
           "pokemon": "Victini",
           "level": "20",
           "location": "Liberty Tower Basement There are no Wild Pokemon in here as usual, but this is the only place to catch Victini. It is currently impossible to give the ticket in-game and have it work fully. You will need your .sav file. If you are using a flashcard such as an R4 or an Acekard, then it is likely to be readily available; you will just need to utilize your .sav file. Those of you using DeSmuME will have to use the Export Backup Memory found in the File drop-down, which will export your .dsv as a .sav. Finally, no$gba users will have to use the savegames converter to change the .sav in their BATTERY folder into a regular .sav. You then need to load up your .sav with the Pok\u00e9mon Mystery Gift Editor, made by Grovyle91. The setup was included in the download for the patch. If somehow you have this document but NOT the enclosed setup, you can download it here. Once installed, you will also need the .pgf file for the Liberty Ticket event. This also came with the download, but if you are missing it then you can get it from here. The rest is simple; load up your .sav with the Pok\u00e9mon Mystery Gift Editor (you don\u2019t even need to take it off the storage device if you\u2019re using a flashcard!) Once the new bit opens, click on Import PGF (change the Current Gift if you happen to already have wonder cards on there) and choose the Liberty Ticket pgf. Once loaded, simply hit the Save button at the top. This will save the Wonder Card to your save file. Flashcards already have their .sav ready to play, but for the others; DeSmuME users should use the Import Backup Memory under the file tab to bring in the newly edited .sav. Be sure to reset the ROM afterwards for the best results. No$gba users can simply slot their .sav in the BATTERY folder and it should convert back to the no$ format automatically when the ROM is booted. With the wonder card loaded, simply go into any Pok\u00e9mon Center and talk to the blue guy on the right. You will get the Liberty Ticket and all required flags will be activated, allowing you to sail on the ship at the far left port of the city to the island. It\u2019s all normal from there. Note that the trainer levels are sufficent for you to catch Victini the moment you first reach Castelia City. Don\u2019t let the length of the words fool you; it\u2019s simple!",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nVictini, Level 20\nLiberty Tower Basement\nThere are no Wild Pokemon in here as usual, but this is the only place to catch Victini. It is currently impossible to give the ticket in-game and have it work fully.\nYou will need your .sav file. If you are using a flashcard such as an R4 or an Acekard, then it is likely to be readily available; you will just need to utilize your .sav file. Those of you using DeSmuME will have to use the Export Backup Memory found in the File drop-down, which will export your .dsv as a .sav. Finally, no$gba users will have to use the savegames converter to change the .sav in their BATTERY folder into a regular .sav.\nYou then need to load up your .sav with the Pok\u00e9mon Mystery Gift Editor, made by Grovyle91. The setup was included in the download for the patch. If somehow you have this document but NOT the enclosed setup, you can download it here. Once installed, you will also need the .pgf file for the Liberty Ticket event. This also came with the download, but if you are missing it then you can get it from here.\nThe rest is simple; load up your .sav with the Pok\u00e9mon Mystery Gift Editor (you don\u2019t even need to take it off the storage device if you\u2019re using a flashcard!) Once the new bit opens, click on Import PGF (change the Current Gift if you happen to already have wonder cards on there) and choose the Liberty Ticket pgf. Once loaded, simply hit the Save button at the top. This will save the Wonder Card to your save file.\nFlashcards already have their .sav ready to play, but for the others; DeSmuME users should use the Import Backup Memory under the file tab to bring in the newly edited .sav. Be sure to reset the ROM afterwards for the best results. No$gba users can simply slot their .sav in the BATTERY folder and it should convert back to the no$ format automatically when the ROM is booted.\nWith the wonder card loaded, simply go into any Pok\u00e9mon Center and talk to the blue guy on the right. You will get the Liberty Ticket and all required flags will be activated, allowing you to sail on the ship at the far left port of the city to the island. It\u2019s all normal from there. Note that the trainer levels are sufficent for you to catch Victini the moment you first reach Castelia City.\nDon\u2019t let the length of the words fool you; it\u2019s simple!"
+          "raw": "Victini, Level 20"
         }
       ]
     },
@@ -12285,10 +12285,10 @@
           "pokemon": "Darmanitan",
           "level": "35",
           "location": "Desert Resort",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "This is still the only way to get a Zen Mode Darmanitan!",
-          "raw": "SPECIAL ENCOUNTER\nDarmanitan, Level 35\nDesert Resort\n* This is still the only way to get a Zen Mode Darmanitan!"
+          "raw": "Darmanitan, Level 35"
         }
       ]
     },
@@ -12525,7 +12525,7 @@
           "method": "Sand",
           "rate": "1%",
           "description": "The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up\u2026 but you\u2019ll be lucky to bump into them.",
-          "raw": "LEGENDARY ENCOUNTER\nRegirock, Level 50\nRelic Castle, B5F\nSand, 1%\n* The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up\u2026 but you\u2019ll be lucky to bump into them."
+          "raw": "Regirock, Level 50"
         },
         {
           "type": "Legendary",
@@ -12535,7 +12535,7 @@
           "method": "Sand",
           "rate": "1%",
           "description": "The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it\u2019s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.",
-          "raw": "LEGENDARY ENCOUNTER\nRegisteel, Level 50\nRelic Castle, B5F\nSand, 1%\n* The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it\u2019s still rare to make contact with it. Why? Who knows; blame it on their legendary powers."
+          "raw": "Registeel, Level 50"
         },
         {
           "type": "Legendary",
@@ -12545,17 +12545,17 @@
           "method": "Floor",
           "rate": "1%",
           "description": "It\u2019s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast.",
-          "raw": "LEGENDARY ENCOUNTER\nRegigigas. Level 70\nRelic Castle, Volcarona Room\nFloor, 1%\n* It\u2019s of little surprise that the king would appear in the same area as the majority of his subjects. The deepest, most valuable room in the castle houses this beast."
+          "raw": "Regigigas. Level 70"
         },
         {
           "type": "Special",
           "pokemon": "Volcarona",
           "level": "75",
           "location": "Relic Castle, Volcarona Room",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "SPECIAL ENCOUNTER\nVolcarona, Level 75\nRelic Castle, Volcarona Room"
+          "raw": "Volcarona, Level 75"
         }
       ]
     },
@@ -13029,7 +13029,7 @@
           "method": "Doubles Grass.",
           "rate": "1%",
           "description": "Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places\u2026 mostly to play.",
-          "raw": "LEGENDARY ENCOUNTER\nMew, Level 30\nLostlorn Forest\nDoubles Grass, 1%.\n* Mew loves appearing in foresty areas. The Lostlorn Forest in particular is famous for its myths, and Mew is drawn to such places\u2026 mostly to play."
+          "raw": "Mew, Level 30"
         },
         {
           "type": "Legendary",
@@ -13039,7 +13039,7 @@
           "method": "Doubles Grass.",
           "rate": "1%",
           "description": "Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it\u2019s still a peaceful setting where Celebi can find a home.",
-          "raw": "LEGENDARY ENCOUNTER\nCelebi, Level 30\nLostlorn Forest\nDoubles Grass, 1%.\n* Celebi also enjoys a forest, and although the Lostlorn Forest employs no shrine, it\u2019s still a peaceful setting where Celebi can find a home."
+          "raw": "Celebi, Level 30"
         }
       ]
     },
@@ -13805,7 +13805,7 @@
           "method": "Cave, Normal.",
           "rate": "1%",
           "description": "Zapdos, like most Electric types, is drawn to high potential sources. Watch out \u2013 don\u2019t underestimate its power!",
-          "raw": "LEGENDARY ENCOUNTER\nZapdos, Level 50\nChargestone Cave, B2F.\nCave, Normal, 1%.\n* Zapdos, like most Electric types, is drawn to high potential sources. Watch out \u2013 don\u2019t underestimate its power!"
+          "raw": "Zapdos, Level 50"
         }
       ]
     },
@@ -14073,7 +14073,7 @@
           "method": "Tower, Normal",
           "rate": "1%",
           "description": "The mistress of the moon is kind, and takes pity upon the departed souls of Pok\u00e9mon. You can interrupt her mourning and put her in a ball. Isn\u2019t that dandy?",
-          "raw": "LEGENDARY ENCOUNTER\nCresselia, Level 50\nCelestial Tower, Roof\nTower, Normal, 1%\n* The mistress of the moon is kind, and takes pity upon the departed souls of Pok\u00e9mon. You can interrupt her mourning and put her in a ball. Isn\u2019t that dandy?"
+          "raw": "Cresselia, Level 50"
         }
       ]
     },
@@ -14295,7 +14295,7 @@
           "method": "Surf, Special",
           "rate": "1%",
           "description": "Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.",
-          "raw": "LEGENDARY ENCOUNTER\nManaphy, Level 30\nRoute 17\nSurf, Special, 1%\n* Manaphy likes the colder seas of the Unova region, so its presence in the vast waters of Route 17 is not surprising. Go a little further and you might encounter its children, too.\nRoute 18"
+          "raw": "Manaphy, Level 30"
         },
         {
           "type": "Special",
@@ -14305,7 +14305,7 @@
           "method": "Surf, Special",
           "rate": "1%",
           "description": "This often debated Pok\u00e9mon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart.",
-          "raw": "SPECIAL ENCOUNTER\nPhione, Level 30\nRoute 17\nSurf, Special, 1%\n* This often debated Pok\u00e9mon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart."
+          "raw": "Phione, Level 30"
         }
       ]
     },
@@ -14533,7 +14533,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.",
-          "raw": "LEGENDARY ENCOUNTER\nUxie, Level 50\nMistralton Cave, 1F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside."
+          "raw": "Uxie, Level 50"
         },
         {
           "type": "Legendary",
@@ -14543,7 +14543,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.",
-          "raw": "LEGENDARY ENCOUNTER\nMesprit, Level 50\nMistralton Cave, 2F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside."
+          "raw": "Mesprit, Level 50"
         },
         {
           "type": "Legendary",
@@ -14553,17 +14553,17 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside.",
-          "raw": "LEGENDARY ENCOUNTER\nAzelf, Level 50\nMistralton Cave, 3F\nCave, Normal, 1%\n* Mistralton Cave, though already home to the mythical Cobalion, is a dark cave close by to the bountiful rivers to Route 6. It\u2019s no lake, but it\u2019s a good enough place for the pixie trio to reside."
+          "raw": "Azelf, Level 50"
         },
         {
           "type": "Legendary",
           "pokemon": "Cobalion",
           "level": "56",
           "location": "Guidance Chamber",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nCobalion, Level 56\nGuidance Chamber"
+          "raw": "Cobalion, Level 56"
         }
       ]
     },
@@ -14710,7 +14710,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.",
-          "raw": "LEGENDARY ENCOUNTER\nRegice, Level 50\nTwist Mountain, Ice Rock Room, Winter\nCave, Normal, 1%\n* Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it."
+          "raw": "Regice, Level 50"
         }
       ]
     },
@@ -14933,7 +14933,7 @@
           "method": "Puddle, Normal.",
           "rate": "1%",
           "description": "The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you\u2019ll have a chance at adding him to your team.",
-          "raw": "LEGENDARY ENCOUNTER\nKeldeo, Level 56\nMoor of Iccirus, Autumn\nPuddle, Normal, 1%.\n* The Moor of Icirrus is a special place for Keldeo, and in the Autumn you may see this unicorn galloping past. If you can catch it, you\u2019ll have a chance at adding him to your team."
+          "raw": "Keldeo, Level 56"
         }
       ]
     },
@@ -15225,7 +15225,7 @@
           "method": "Doubles Grass.",
           "rate": "1%",
           "description": "Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it.",
-          "raw": "LEGENDARY ENCOUNTER\nArticuno, Level 50\nDragonspiral Tower, Outside, Winter\nDoubles Grass, 1%.\n* Only in the doubles grass right outside the tower! Articuno enjoys a rest in the snowy north of the Unova region, but you might be welcome to disturb it."
+          "raw": "Articuno, Level 50"
         },
         {
           "type": "Legendary",
@@ -15235,7 +15235,7 @@
           "method": "Surf, Special.",
           "rate": "1%",
           "description": "Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower.",
-          "raw": "LEGENDARY ENCOUNTER\nSuicune, Level 50\nDragonspiral Tower, Outside, Spring, Summer & Autumn\nSurf, Special, 1%.\n* Suicune loves bouncing around the seas, not just the Johto region. Three times a year, this journey ends up leading it to the small lake in front of the ancient tower."
+          "raw": "Suicune, Level 50"
         }
       ]
     },
@@ -15352,7 +15352,7 @@
           "method": "Grass, Special.",
           "rate": "1%",
           "description": "You\u2019ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that.",
-          "raw": "LEGENDARY ENCOUNTER\nRaikou, Level 50\nRoute 9\nGrass, Special, 1%.\n* You\u2019ll have to sift through loads of Audino for this beast. Raikou is naturally attracted to electricity, and the Department Store in the route has plenty of that."
+          "raw": "Raikou, Level 50"
         },
         {
           "type": "Legendary",
@@ -15362,7 +15362,7 @@
           "method": "Grass, Special.",
           "rate": "1%",
           "description": "Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him.",
-          "raw": "LEGENDARY ENCOUNTER\nEntei, Level 50\nRoute 9\nGrass, Special, 1%.\n* Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him."
+          "raw": "Entei, Level 50"
         }
       ]
     },
@@ -15558,13 +15558,23 @@
       "specials": [
         {
           "type": "Legendary",
-          "pokemon": "Tornadus (Volt White) / Thundurus, Level 40 (Blaze Black)",
+          "pokemon": "Tornadus",
           "level": "40",
-          "location": "Route 10, Main Route League Path",
+          "location": "Route 10, Main Route League Path (Volt White Only)",
           "method": "Grass, Shaking",
           "rate": "1%",
           "description": "While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10\u2026 if you can find it. Luckily, this one won\u2019t run. Don\u2019t let its low level fool you; it can still be quite difficult to capture.",
-          "raw": "LEGENDARY ENCOUNTER\n/\nTornadus, Level 40 (Volt White) / Thundurus, Level 40 (Blaze Black)\nRoute 10, Main Route\nGrass, Shaking, 1%\n* While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10\u2026 if you can find it. Luckily, this one won\u2019t run. Don\u2019t let its low level fool you; it can still be quite difficult to capture.\nLeague Path"
+          "raw": "Tornadus, Level 40 (Volt White)"
+        },
+        {
+          "type": "Legendary",
+          "pokemon": "Thundurus",
+          "level": "40",
+          "location": "Route 10, Main Route League Path (Blaze Black Only)",
+          "method": "Grass, Shaking",
+          "rate": "1%",
+          "description": "While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10\u2026 if you can find it. Luckily, this one won\u2019t run. Don\u2019t let its low level fool you; it can still be quite difficult to capture.",
+          "raw": "Thundurus, Level 40 (Blaze Black)"
         },
         {
           "type": "Legendary",
@@ -15574,7 +15584,7 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden.",
-          "raw": "LEGENDARY ENCOUNTER\nLatias, Level 60\nRoute 10, League Path\nGrass, Doubles, 1%\n* The Lati twins have always loved challenging destined League champions, and in Unova this is no exception. They even wait on the actual path to the League, just to be sure. Of course, they also like to test people by remaining hidden."
+          "raw": "Latias, Level 60"
         },
         {
           "type": "Legendary",
@@ -15584,7 +15594,7 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "Anywhere where Latias goes, Latios does too.",
-          "raw": "LEGENDARY ENCOUNTER\nLatios, Level 60\nRoute 10, League Path\nGrass, Doubles, 1%\n* Anywhere where Latias goes, Latios does too."
+          "raw": "Latios, Level 60"
         }
       ]
     },
@@ -15823,10 +15833,10 @@
           "pokemon": "Terrakion",
           "level": "56",
           "location": "Victory Road, Trial Chamber",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nTerrakion, Level 56\nVictory Road, Trial Chamber"
+          "raw": "Terrakion, Level 56"
         },
         {
           "type": "Legendary",
@@ -15836,7 +15846,7 @@
           "method": "Rocky Grass.",
           "rate": "1%",
           "description": "Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch.",
-          "raw": "LEGENDARY ENCOUNTER\nMoltres, Level 50\nVictory Road, Outside\nRocky Grass, 1%.\n* Good luck using Repel with this bird! Moltres loves a rocky field, and after being shifted around by game desingers twice, it needed a rest. The peaks of Victory Road make for a great perch."
+          "raw": "Moltres, Level 50"
         },
         {
           "type": "Legendary",
@@ -15846,7 +15856,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room.",
-          "raw": "LEGENDARY ENCOUNTER\nHeatran. Level 60\nVictory Road, Trial Chamber\nCave, Normal, 1%\n* Heatran also enjoys the mountainous area, and has appeared to visit his old friend Terrakion. You might run into him if you storm the same room."
+          "raw": "Heatran. Level 60"
         }
       ]
     },
@@ -15856,13 +15866,13 @@
       "specials": [
         {
           "type": "Legendary",
-          "pokemon": "",
+          "pokemon": "Heatran",
           "level": "",
           "location": "",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\n/\nReshiram (Blaze Black) | Zekrom (Volt White)\nLevel 70\nN\u2019s Castle"
+          "raw": ""
         }
       ]
     },
@@ -16195,7 +16205,7 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible.",
-          "raw": "LEGENDARY ENCOUNTER\nShaymin, Level 50\nVillage Bridge\nGrass, Doubles, 1%\n* This little hedgehog loves the peaceful river and vegetation of the Village Bridge, and can be found dancing among the flowers to the music. A run in with this small legendary is unlikely, but not impossible."
+          "raw": "Shaymin, Level 50"
         },
         {
           "type": "Legendary",
@@ -16205,7 +16215,7 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it\u2019ll be a tricky place to find.",
-          "raw": "LEGENDARY ENCOUNTER\nMeloetta, Level 50\nVillage Bridge\nGrass, Doubles, 1%\n* Meloetta, the Queen of Song, also highly enjoys the area, joining in with the vocal peformances given by the residents. Her sound lends her location, but it\u2019ll be a tricky place to find."
+          "raw": "Meloetta, Level 50"
         }
       ]
     },
@@ -16493,7 +16503,7 @@
           "method": "Surf, Special",
           "rate": "1%",
           "description": "The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it\u2019ll not hesitate to fight if a gifted trainer comes along, looking for a challenge\u2026",
-          "raw": "LEGENDARY ENCOUNTER\nLugia, Level 70\nRoute 13\nSurf, Special, 1%\n* The sea is vast, and allows Lugia to spy on the humans it so dearly tries to protect. Of course, it\u2019ll not hesitate to fight if a gifted trainer comes along, looking for a challenge\u2026"
+          "raw": "Lugia, Level 70"
         }
       ]
     },
@@ -16825,7 +16835,7 @@
           "method": "Doubles Grass.",
           "rate": "1%",
           "description": "With stories of the Giant Chasm formed from a meteor, it\u2019s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.",
-          "raw": "LEGENDARY ENCOUNTER\nDeoxys, Level 70\nGiant Chasm, Outside Area\nDoubles Grass, 1%.\n* With stories of the Giant Chasm formed from a meteor, it\u2019s not unlikely to imagine that Deoxys has made a settlement somewhere near. Perhaps you might encounter it while it searches for meteorite.\nGiant Chasm \u2013 Inside Cave"
+          "raw": "Deoxys, Level 70"
         },
         {
           "type": "Legendary",
@@ -16835,7 +16845,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga\u2019s visits to this place mean you might just find it, or perhaps its counterpart, Palkia.",
-          "raw": "LEGENDARY ENCOUNTER\nDialga, Level 70\nGiant Chasm, Inside Cave (not Kyurem bit)\nCave, Normal, 1%\n* The Giant Chasm, ruled by Kyurem, is sometimes rumoured to also be related to the powers of time. Dialga\u2019s visits to this place mean you might just find it, or perhaps its counterpart, Palkia."
+          "raw": "Dialga, Level 70"
         },
         {
           "type": "Legendary",
@@ -16845,7 +16855,7 @@
           "method": "Cave, Normal",
           "rate": "1%",
           "description": "Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world.",
-          "raw": "LEGENDARY ENCOUNTER\nPalkia, Level 70\nGiant Chasm, Inside Cave (not Kyurem bit)\nCave, Normal, 1%\n* Equally, the distortions in space mean Palkia has taken residence in this unknown area of the world.\nGiant Chasm \u2013 Inside Plains"
+          "raw": "Palkia, Level 70"
         },
         {
           "type": "Legendary",
@@ -16855,27 +16865,37 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.",
-          "raw": "LEGENDARY ENCOUNTER\nGiratina, Level 70\nGiant Chasm, Inside Plains\nGrass, Doubles, 1%\n* Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest."
+          "raw": "Giratina, Level 70"
         },
         {
           "type": "Legendary",
-          "pokemon": "Reshiram (Volt White) / Zekrom, Level 70 (Blaze Black)",
+          "pokemon": "Reshiram",
           "level": "70",
-          "location": "Giant Chasm, Inside Plains",
+          "location": "Giant Chasm, Inside Plains (Volt White Only)",
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you\u2019re lucky\u2026",
-          "raw": "LEGENDARY ENCOUNTER\n/\nReshiram, Level 70 (Volt White) / Zekrom, Level 70 (Blaze Black)\nGiant Chasm, Inside Plains\nGrass, Doubles, 1%\n* The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you\u2019re lucky\u2026"
+          "raw": "Reshiram, Level 70 (Volt White)"
+        },
+        {
+          "type": "Legendary",
+          "pokemon": "Zekrom",
+          "level": "70",
+          "location": "Giant Chasm, Inside Plains (Blaze Black Only)",
+          "method": "Grass, Doubles",
+          "rate": "1%",
+          "description": "The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you\u2019re lucky\u2026",
+          "raw": "Zekrom, Level 70 (Blaze Black)"
         },
         {
           "type": "Legendary",
           "pokemon": "Kyurem",
           "level": "75",
           "location": "Giant Chasm, Rear Cave",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nKyurem, Level 75\nGiant Chasm, Rear Cave"
+          "raw": "Kyurem, Level 75"
         }
       ]
     },
@@ -17013,7 +17033,7 @@
           "method": "Surf, Special",
           "rate": "1%",
           "description": "The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky \u2013 or doomed \u2013 trainer to find this beast.",
-          "raw": "LEGENDARY ENCOUNTER\nKyogre, Level 70\nUndella Bay, Summer\nSurf, Special, 1%\n* The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky \u2013 or doomed \u2013 trainer to find this beast."
+          "raw": "Kyogre, Level 70"
         }
       ]
     },
@@ -17331,17 +17351,17 @@
           "method": "Grass, Special",
           "rate": "1%",
           "description": "Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you\u2019re lucky, you might catch a glimpse of it.",
-          "raw": "LEGENDARY ENCOUNTER\nHo-oh, Level 70\nAbundant Shrine\nGrass, Special, 1%\n* Ho-oh sometimes visits the shrine as a peace offering from Johto. Legendaries have culture too, you know! If you\u2019re lucky, you might catch a glimpse of it."
+          "raw": "Ho-oh, Level 70"
         },
         {
           "type": "Legendary",
           "pokemon": "Landorus",
           "level": "75",
           "location": "Abundant Shrine",
-          "method": "",
-          "rate": "",
+          "method": "Fixed",
+          "rate": "1%",
           "description": "",
-          "raw": "LEGENDARY ENCOUNTER\nLandorus, Level 75\nAbundant Shrine"
+          "raw": "Landorus, Level 75"
         }
       ]
     },
@@ -17478,7 +17498,7 @@
           "method": "Grass, Doubles",
           "rate": "1%",
           "description": "With the lack of volcanoes in Unova there isn\u2019t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you\u2019ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pok\u00e9mon. If you\u2019re lucky.",
-          "raw": "LEGENDARY ENCOUNTER\nGroudon, Level 70\nRoute 15\nGrass, Doubles, 1%\n* With the lack of volcanoes in Unova there isn\u2019t much for Groudon to enjoy, but the mountainous terrain of Route 15 gives it at least some solace. Perhaps you\u2019ll find it after shifting you a sea of various Rock, Ground, Normal and Fighting Pok\u00e9mon. If you\u2019re lucky."
+          "raw": "Groudon, Level 70"
         }
       ]
     },
@@ -17525,7 +17545,7 @@
           "method": "Bridge, Special",
           "rate": "1%",
           "description": "At the altitude of the Wonder Bridge, it isn\u2019t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it\u2026",
-          "raw": "LEGENDARY ENCOUNTER\nRayquaza, Level 70\nMarvelous Bridge\nBridge, Special, 1%\n* At the altitude of the Wonder Bridge, it isn\u2019t all that uncommon to see Rayquaza flying by. Well, it is, but regardless it needs to keep an eye on Kyogre and Groudon. Perhaps if a trainer looks straight up at the sky, they may just be lucky enough to see it\u2026"
+          "raw": "Rayquaza, Level 70"
         }
       ]
     },
@@ -17762,7 +17782,7 @@
           "method": "Cave, Normal.",
           "rate": "1%",
           "description": "Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger\u2019s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won\u2019t be pretty.",
-          "raw": "LEGENDARY ENCOUNTER\nGenesect, Level 75\nChallenger\u2019s Cave, 1F\nCave, Normal, 1%.\n* Though previously seen in the hands of Ghetsis, the artificial Genesect now appears in the top floors of the looming Challenger\u2019s Cave. The threats below keep it from descending, but this insect might just drop on your head. It won\u2019t be pretty."
+          "raw": "Genesect, Level 75"
         },
         {
           "type": "Legendary",
@@ -17772,7 +17792,7 @@
           "method": "Cave, Normal.",
           "rate": "1%",
           "description": "Mewtwo returns in a post League cave once more. Challenger\u2019s Cave is a lot like Cerulean\u2019s Cave, but a certain Pok\u00e9mon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home.",
-          "raw": "LEGENDARY ENCOUNTER\nMewtwo, Level 75\nChallenger\u2019s Cave, B1F\nCave, Normal, 1%.\n* Mewtwo returns in a post League cave once more. Challenger\u2019s Cave is a lot like Cerulean\u2019s Cave, but a certain Pok\u00e9mon God stopped him getting into the real bottom floor. Still, the dark and damp is enough to make it feel like home."
+          "raw": "Mewtwo, Level 75"
         },
         {
           "type": "Legendary",
@@ -17782,7 +17802,7 @@
           "method": "Cave, Normal.",
           "rate": "1%",
           "description": "The dark, mid-depths of the Challenger\u2019s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don\u2019t need to hear about that.",
-          "raw": "LEGENDARY ENCOUNTER\nDarkrai, Level 70\nChallenger\u2019s Cave, B1F\nCave, Normal, 1%.\n* The dark, mid-depths of the Challenger\u2019s Cave are also of intrigue to Darkrai, who loves the darkness and occasionally likes to taunt the people of Icirrus City and Opelucid City with nightmares. But you don\u2019t need to hear about that.\nB2F"
+          "raw": "Darkrai, Level 70"
         },
         {
           "type": "Legendary",
@@ -17792,7 +17812,7 @@
           "method": "Cave, Normal.",
           "rate": "1%",
           "description": "Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don\u2019t underestimate its power.",
-          "raw": "LEGENDARY ENCOUNTER\nArceus, Level 80\nChallenger\u2019s Cave, B2F\nCave, Normal, 1%.\n* Only those who reach the very bottom of the most challenging cave in Unova are able to have a chance of seeing the god of all Pokemon. Should you be lucky to come in contact with it, don\u2019t underestimate its power.\n\u0000"
+          "raw": "Arceus, Level 80"
         }
       ]
     }

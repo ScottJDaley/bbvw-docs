@@ -49,7 +49,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Chargestone Cave](../routes/chargestone-cave.md) | ![cave normal.](../img/items/cave-normal.png) Cave, Normal. | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

@@ -52,7 +52,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Twist Mountain](../routes/twist-mountain.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Twist Mountain](../routes/twist-mountain.md) | ![cave normal](../img/items/cave-normal.png) Cave, Normal | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

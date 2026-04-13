@@ -63,10 +63,17 @@
 | ![blissey](../img/pokemon/242.png) | [Blissey](../pokemon/blissey.md) | 10% |
 
 ## Special Encounters
-### [Tornadus (Volt White) / Thundurus, Level 40 (Blaze Black)](../pokemon/tornadus.md)
+### [Tornadus](../pokemon/tornadus.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Tornadus (Volt White) / Thundurus, Level 40 (Blaze Black)](../img/pokemon/641.png) | 40 | Route 10, Main Route League Path | ![Grass, Shaking](../img/items/grass-normal.png) Grass, Shaking | 1% |
+| ![Tornadus](../img/pokemon/641.png) | 40 | Route 10, Main Route League Path (Volt White Only) | ![Grass, Shaking](../img/items/grass-normal.png) Grass, Shaking | 1% |
+
+*While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.*
+
+### [Thundurus](../pokemon/thundurus.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Thundurus](../img/pokemon/642.png) | 40 | Route 10, Main Route League Path (Blaze Black Only) | ![Grass, Shaking](../img/items/grass-normal.png) Grass, Shaking | 1% |
 
 *While one wreaks havoc with the weather along Unova, the other will await you patiently in Route 10… if you can find it. Luckily, this one won’t run. Don’t let its low level fool you; it can still be quite difficult to capture.*
 

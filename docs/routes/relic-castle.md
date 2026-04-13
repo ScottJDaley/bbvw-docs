@@ -69,14 +69,14 @@
 ### [Regirock](../pokemon/regirock.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Regirock](../img/pokemon/377.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/grass-normal.png) Sand | 1% |
+| ![Regirock](../img/pokemon/377.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/cave-normal.png) Sand | 1% |
 
 *The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.*
 
 ### [Registeel](../pokemon/registeel.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Registeel](../img/pokemon/379.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/grass-normal.png) Sand | 1% |
+| ![Registeel](../img/pokemon/379.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/cave-normal.png) Sand | 1% |
 
 *The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.*
 
@@ -90,7 +90,7 @@
 ### [Volcarona](../pokemon/volcarona.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![](../img/items/grass-normal.png)  |  |
+| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ## Items
 ### General

@@ -50,7 +50,7 @@
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![legendary](../img/items/legendary.png) Legendary | 1%% |
+| [Dragonspiral Tower](../routes/dragonspiral-tower.md) | ![doubles grass.](../img/items/grass-doubles.png) Doubles Grass. | 1%% |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

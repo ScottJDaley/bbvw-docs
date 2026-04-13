@@ -141,17 +141,24 @@
 
 *Giratina, the third dragon of Sinnoh, also makes an appearance. Though he intends to see the Celestial Tower, the Giant Chasm is an ideal place for rest.*
 
-### [Reshiram (Volt White) / Zekrom, Level 70 (Blaze Black)](../pokemon/reshiram-(volt-white)--zekrom,-level-70-(blaze-black).md)
+### [Reshiram](../pokemon/reshiram.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-|  | 70 | Giant Chasm, Inside Plains | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+| ![Reshiram](../img/pokemon/643.png) | 70 | Giant Chasm, Inside Plains (Volt White Only) | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
+
+*The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…*
+
+### [Zekrom](../pokemon/zekrom.md)
+| Sprite | Level | Location | Method | Rate |
+| --- | --- | --- | --- | --- |
+| ![Zekrom](../img/pokemon/644.png) | 70 | Giant Chasm, Inside Plains (Blaze Black Only) | ![Grass, Doubles](../img/items/grass-normal.png) Grass, Doubles | 1% |
 
 *The remaining Tao dragon also appears, having split off from N and returning to greet the third member of its trio. You might be able to find it, if you’re lucky…*
 
 ### [Kyurem](../pokemon/kyurem.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Kyurem](../img/pokemon/646.png) | 75 | Giant Chasm, Rear Cave | ![](../img/items/grass-normal.png)  |  |
+| ![Kyurem](../img/pokemon/646.png) | 75 | Giant Chasm, Rear Cave | ![Fixed](../img/items/grass-normal.png) Fixed | 1% |
 
 ## Items
 ### General
