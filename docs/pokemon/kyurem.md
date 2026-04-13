@@ -50,7 +50,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Giant Chasm](../routes/giant-chasm.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| [Giant Chasm](../routes/giant-chasm.md) | Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

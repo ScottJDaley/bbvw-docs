@@ -2,7 +2,7 @@
 
 ## Encounters
 ### General
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |

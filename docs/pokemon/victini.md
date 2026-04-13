@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Liberty Garden](../routes/liberty-garden.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| [Liberty Garden](../routes/liberty-garden.md) | Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

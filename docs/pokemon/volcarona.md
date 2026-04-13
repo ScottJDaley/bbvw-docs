@@ -49,7 +49,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Relic Castle](../routes/relic-castle.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| [Relic Castle](../routes/relic-castle.md) | Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

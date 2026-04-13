@@ -158,7 +158,7 @@
 ### [Kyurem](../pokemon/kyurem.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Kyurem](../img/pokemon/646.png) | 75 | Giant Chasm, Rear Cave | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| ![Kyurem](../img/pokemon/646.png) | 75 | Giant Chasm, Rear Cave | Fixed | Fixed |
 
 ## Items
 ### General

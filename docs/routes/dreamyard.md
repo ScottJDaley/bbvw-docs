@@ -50,7 +50,7 @@
 ### [Musharna](../pokemon/musharna.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Musharna](../img/pokemon/518.png) | 70 | Dreamyard Basement | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| ![Musharna](../img/pokemon/518.png) | 70 | Dreamyard Basement | Fixed | Fixed |
 
 ## Items
 ### General

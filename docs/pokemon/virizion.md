@@ -46,7 +46,7 @@ None
 ## Locations
 | Route | Method | Rate |
 | --- | --- | --- |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | ![fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | Fixed | Fixed |
 
 ## Level Up Moves
 | Level | Move | Type | Cat | Power | Acc | PP |

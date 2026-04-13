@@ -2,7 +2,7 @@
 
 ## Encounters
 ### Entrance
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
@@ -15,7 +15,7 @@
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
 
 ### Main
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 20% |
@@ -33,7 +33,7 @@
 ### [Darmanitan](../pokemon/darmanitan.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Darmanitan](../img/pokemon/555.png) | 35 | Desert Resort | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| ![Darmanitan](../img/pokemon/555.png) | 35 | Desert Resort | Fixed | Fixed |
 
 *This is still the only way to get a Zen Mode Darmanitan!*
 

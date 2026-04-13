@@ -2,7 +2,7 @@
 
 ## Encounters
 ### 1F
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![sandile](../img/pokemon/551.png) | [Sandile](../pokemon/sandile.md) | 20% |
@@ -15,7 +15,7 @@
 | ![trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 10% |
 
 ### B1F
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![yamask](../img/pokemon/562.png) | [Yamask](../pokemon/yamask.md) | 20% |
@@ -30,7 +30,7 @@
 | ![larvesta](../img/pokemon/636.png) | [Larvesta](../pokemon/larvesta.md) | 2% |
 
 ### B2F, B3F, B4F, B5F
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
@@ -45,7 +45,7 @@
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 
 ### B6F, Maze
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![krokorok](../img/pokemon/552.png) | [Krokorok](../pokemon/krokorok.md) | 20% |
@@ -60,7 +60,7 @@
 | ![camerupt](../img/pokemon/323.png) | [Camerupt](../pokemon/camerupt.md) | 5% |
 
 ### Pot Rooms
-#### ![Sand](../img/items/grass-normal.png) Sand
+#### ![Sand](../img/items/sand-normal.png) Sand
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![unown](../img/pokemon/201.png) | [Unown](../pokemon/unown.md) | 100% |
@@ -69,14 +69,14 @@
 ### [Regirock](../pokemon/regirock.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Regirock](../img/pokemon/377.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/cave-normal.png) Sand | 1% |
+| ![Regirock](../img/pokemon/377.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/sand-normal.png) Sand | 1% |
 
 *The Relic Castle is a place with many ancient secrets sleeping beneath its depths. The arrival of Team Plasma has made two particular members of a trio wake up… but you’ll be lucky to bump into them.*
 
 ### [Registeel](../pokemon/registeel.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Registeel](../img/pokemon/379.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/cave-normal.png) Sand | 1% |
+| ![Registeel](../img/pokemon/379.png) | 50 | Relic Castle, B5F | ![Sand](../img/items/sand-normal.png) Sand | 1% |
 
 *The ancient, sandy area is also enjoyed by the tough Registeel, but despite its size, it’s still rare to make contact with it. Why? Who knows; blame it on their legendary powers.*
 
@@ -90,7 +90,7 @@
 ### [Volcarona](../pokemon/volcarona.md)
 | Sprite | Level | Location | Method | Rate |
 | --- | --- | --- | --- | --- |
-| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | ![Fixed](../img/items/grass-normal.png) Fixed | Fixed |
+| ![Volcarona](../img/pokemon/637.png) | 75 | Relic Castle, Volcarona Room | Fixed | Fixed |
 
 ## Items
 ### General
