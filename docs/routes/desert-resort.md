@@ -39,13 +39,21 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Helix Fossil](../img/items/helix-fossil.png) [Helix Fossil](../items/helix-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fresh Water</span> |
-| ![Claw Fossil](../img/items/claw-fossil.png) [Claw Fossil](../items/claw-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Stardust</span> |
-| ![Dome Fossil](../img/items/dome-fossil.png) [Dome Fossil](../items/dome-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>BlackGlasses</span> |
-| ![Armor Fossil](../img/items/armor-fossil.png) [Armor Fossil](../items/armor-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Super Potion</span> |
-| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone</span> |
+| Item |
+| --- |
+| ![Helix Fossil](../img/items/helix-fossil.png) [Helix Fossil](../items/helix-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fresh Water</span> |
+| ![Claw Fossil](../img/items/claw-fossil.png) [Claw Fossil](../items/claw-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Stardust</span> |
+| ![Dome Fossil](../img/items/dome-fossil.png) [Dome Fossil](../items/dome-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>BlackGlasses</span> |
+| ![Armor Fossil](../img/items/armor-fossil.png) [Armor Fossil](../items/armor-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Super Potion</span> |
+| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone</span> |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ragecandybar](../img/items/unknown.png) [Ragecandybar](../items/ragecandybar.md) (From Professor Juniper) |
+| ![Ragecandybar](../img/items/unknown.png) [Ragecandybar](../items/ragecandybar.md) (From Professor Juniper) |
+| ![Soft Sand](../img/items/soft-sand.png) [Soft Sand](../items/soft-sand.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![TM39 Rock Tomb](../img/items/tm-rock.png) [TM39 Rock Tomb](../items/tm39.md) |
 
 ## Trainers
 ### Doctor Jerry

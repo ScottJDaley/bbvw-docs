@@ -1,4 +1,4 @@
-# ![icon](../img/items/dive-ball.png) Dive ball
+# ![icon](../img/items/dive-ball.png) Dive Ball
 
 **Category:** Special-balls
 
@@ -6,7 +6,11 @@
 Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Striaton City](../routes/striaton-city.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Cold Storage](../routes/cold-storage.md) | General |  |
+| [Striaton City](../routes/striaton-city.md) | General |  |
+| [Undella Town](../routes/undella-town.md) | PokéMart |  |
+| [Village Bridge](../routes/village-bridge.md) | General |  |
+| [Wellspring Cave](../routes/wellspring-cave.md) | General |  |
 

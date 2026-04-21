@@ -1,4 +1,4 @@
-# ![icon](../img/items/choice-scarf.png) Choice scarf
+# ![icon](../img/items/choice-scarf.png) Choice Scarf
 
 **Category:** Choice
 
@@ -6,7 +6,9 @@
 Held: Increases Speed by 50%, but restricts the holder to only one move.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Cold Storage](../routes/cold-storage.md) | Inside |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Castelia City](../routes/castelia-city.md) | General |  |
+| [Cold Storage](../routes/cold-storage.md) | Inside |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

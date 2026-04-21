@@ -1,4 +1,4 @@
-# ![icon](../img/items/plume-fossil.png) Plume fossil
+# ![icon](../img/items/plume-fossil.png) Plume Fossil
 
 **Category:** Dex-completion
 
@@ -6,7 +6,8 @@
 Can be revived into an archen.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Route 4](../routes/route-4.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Relic Castle](../routes/relic-castle.md) | General |  |
+| [Route 4](../routes/route-4.md) | General |  |
 

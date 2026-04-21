@@ -94,14 +94,21 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Old Amber](../img/items/old-amber.png) [Old Amber](../items/old-amber.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Revive</span> |
-| ![DeepSeaTooth](../img/items/unknown.png) DeepSeaTooth | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Cover Fossil (NPC)</span> |
-| ![DeepSeaScale](../img/items/unknown.png) DeepSeaScale | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Plume Fossil (NPC)</span> |
-| ![Choice Specs](../img/items/choice-specs.png) [Choice Specs](../items/choice-specs.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM04 Calm Mind (NPC)</span> |
-| ![Rare Bone](../img/items/rare-bone.png) Rare Bone | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM26 Earthquake</span> |
-| ![TM35 Flamethrower](../img/items/tm-fire.png) [TM35 Flamethrower](../items/tm35.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Potion</span> |
+| Item |
+| --- |
+| ![Old Amber](../img/items/old-amber.png) [Old Amber](../items/old-amber.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Revive</span> |
+| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Cover Fossil (NPC)</span> |
+| ![DeepSeaScale](../img/items/unknown.png) [DeepSeaScale](../items/deepseascale.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Plume Fossil (NPC)</span> |
+| ![Choice Specs](../img/items/choice-specs.png) [Choice Specs](../items/choice-specs.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM04 Calm Mind (NPC)</span> |
+| ![Rare Bone](../img/items/rare-bone.png) [Rare Bone](../items/rare-bone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM26 Earthquake</span> |
+| ![TM35 Flamethrower](../img/items/tm-fire.png) [TM35 Flamethrower](../items/tm35.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Potion</span> |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Sun Stone](../img/items/sun-stone.png) [Sun Stone](../items/sun-stone.md) |
+| ![PP Max](../img/items/pp-max.png) [PP Max](../items/pp-max.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![TM30 Shadow Ball](../img/items/tm-ghost.png) [TM30 Shadow Ball](../items/tm30.md) |
 
 ## Trainers
 ### Psychic Perry

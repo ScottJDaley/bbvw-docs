@@ -1,4 +1,4 @@
-# ![icon](../img/items/mental-herb.png) Mental herb
+# ![icon](../img/items/mental-herb.png) Mental Herb
 
 **Category:** Held-items
 

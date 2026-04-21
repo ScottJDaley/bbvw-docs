@@ -1,4 +1,4 @@
-# ![icon](../img/items/skull-fossil.png) Skull fossil
+# ![icon](../img/items/skull-fossil.png) Skull Fossil
 
 **Category:** Dex-completion
 
@@ -6,7 +6,8 @@
 Can be revived into a Cranidos.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Route 4](../routes/route-4.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Route 4](../routes/route-4.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General |  |
 

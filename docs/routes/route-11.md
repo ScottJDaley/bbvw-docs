@@ -64,9 +64,13 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
+| Item |
+| --- |
+| ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![TM50 Overheat](../img/items/tm-fire.png) [TM50 Overheat](../items/tm50.md) |
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili

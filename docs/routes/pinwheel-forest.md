@@ -112,15 +112,28 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![TM43 Flame Charge](../img/items/tm-fire.png) [TM43 Flame Charge](../items/tm43.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
-| ![King's Rock * 2](../img/items/kings-rock.png) [King's Rock * 2](../items/kings-rock.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Miracle Seed</span> |
-| ![Prism Scale](../img/items/prism-scale.png) [Prism Scale](../items/prism-scale.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Parlyz Heal</span> |
-| ![TM09 Venoshock](../img/items/tm-poison.png) [TM09 Venoshock](../items/tm09.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Super Potion</span> |
-| ![TM95 Snarl](../img/items/tm-dark.png) [TM95 Snarl](../items/tm95.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Antidote</span> |
-| ![Miracle Seed](../img/items/miracle-seed.png) Miracle Seed | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
-| ![Moon Stone * 6](../img/items/moon-stone.png) Moon Stone * 6 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Moon Stone (NPC)</span> |
+| Item |
+| --- |
+| ![TM43 Flame Charge](../img/items/tm-fire.png) [TM43 Flame Charge](../items/tm43.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+| ![King's Rock * 2](../img/items/kings-rock.png) [King's Rock * 2](../items/kings-rock.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Miracle Seed</span> |
+| ![Prism Scale](../img/items/prism-scale.png) [Prism Scale](../items/prism-scale.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Parlyz Heal</span> |
+| ![TM09 Venoshock](../img/items/tm-poison.png) [TM09 Venoshock](../items/tm09.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Super Potion</span> |
+| ![TM95 Snarl](../img/items/tm-dark.png) [TM95 Snarl](../items/tm95.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Antidote</span> |
+| ![Miracle Seed](../img/items/miracle-seed.png) [Miracle Seed](../items/miracle-seed.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Moon Stone * 6](../img/items/moon-stone.png) [Moon Stone * 6](../items/moon-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Moon Stone (NPC)</span> |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Big Root](../img/items/big-root.png) [Big Root](../items/big-root.md) |
+| ![SilverPowder](../img/items/unknown.png) [SilverPowder](../items/silverpowder.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) (Daily) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Dragon Skull](../img/items/dragon-skull.png) [Dragon Skull](../items/dragon-skull.md) (Defeat Team Plasma) |
+| ![TM22 Solarbeam](../img/items/tm-normal.png) [TM22 Solarbeam](../items/tm22.md) |
+| ![TM86 Grass Knot](../img/items/tm-grass.png) [TM86 Grass Knot](../items/tm86.md) |
+| ![TM94 Rock Smash](../img/items/tm-fighting.png) [TM94 Rock Smash](../items/tm94.md) |
 
 ## Trainers
 ### Nurse Shery

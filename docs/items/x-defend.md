@@ -1,0 +1,13 @@
+# ![icon](../img/items/unknown.png) X Defend
+
+**Category:** Misc
+
+## Description
+An item that raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+
+## Locations
+| Route | Type | Info |
+| --- | --- | --- |
+| [Dreamyard](../routes/dreamyard.md) | General |  |
+| [Route 9](../routes/route-9.md) | Shop |  |
+

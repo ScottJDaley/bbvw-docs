@@ -1,4 +1,4 @@
-# ![icon](../img/items/soul-dew.png) Soul dew
+# ![icon](../img/items/soul-dew.png) Soul Dew
 
 **Category:** Species-specific
 
@@ -6,7 +6,7 @@
 Raises Latias and Latios’s Special Attack and Special Defense by 50%.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Abundant Shrine](../routes/abundant-shrine.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Abundant Shrine](../routes/abundant-shrine.md) | General |  |
 

@@ -1,4 +1,4 @@
-# ![icon](../img/items/thunder-stone.png) Thunder stone
+# ![icon](../img/items/thunder-stone.png) Thunder Stone
 
 **Category:** Evolution
 

@@ -1,6 +1,22 @@
 # Route 8
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) (From Bianca) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Damp Rock](../img/items/damp-rock.png) [Damp Rock](../items/damp-rock.md) |
+| ![Heat Rock](../img/items/heat-rock.png) [Heat Rock](../items/heat-rock.md) |
+| ![Icy Rock](../img/items/icy-rock.png) [Icy Rock](../items/icy-rock.md) |
+| ![Poison Barb](../img/items/poison-barb.png) [Poison Barb](../items/poison-barb.md) |
+| ![Smooth Rock](../img/items/smooth-rock.png) [Smooth Rock](../items/smooth-rock.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![TM36 Sludge Bomb](../img/items/tm-poison.png) [TM36 Sludge Bomb](../items/tm36.md) |
+| ![TM42 Facade](../img/items/tm-normal.png) [TM42 Facade](../items/tm42.md) |
+
 ## Trainers
 ### PKMN Ranger Lewis
 | Sprite | Pokemon | Level | Ability | Item | Moves |

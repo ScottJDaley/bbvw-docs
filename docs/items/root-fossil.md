@@ -1,4 +1,4 @@
-# ![icon](../img/items/root-fossil.png) Root fossil
+# ![icon](../img/items/root-fossil.png) Root Fossil
 
 **Category:** Dex-completion
 
@@ -6,7 +6,8 @@
 Can be revived into a Lileep.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Route 4](../routes/route-4.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Route 4](../routes/route-4.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General |  |
 

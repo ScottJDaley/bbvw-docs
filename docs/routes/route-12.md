@@ -34,7 +34,13 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |
+| Item |
+| --- |
+| ![Light Ball](../img/items/light-ball.png) [Light Ball](../items/light-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM53 Energy Ball</span> |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
 

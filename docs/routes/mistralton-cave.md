@@ -68,10 +68,30 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Protector](../img/items/protector.png) [Protector](../items/protector.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Stone</span> |
-| ![TM69 Rock Polish](../img/items/tm-rock.png) [TM69 Rock Polish](../items/tm69.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Repel</span> |
+| Item |
+| --- |
+| ![Protector](../img/items/protector.png) [Protector](../items/protector.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Stone</span> |
+| ![TM69 Rock Polish](../img/items/tm-rock.png) [TM69 Rock Polish](../items/tm69.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Max Repel</span> |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Hard Stone](../img/items/hard-stone.png) [Hard Stone](../items/hard-stone.md) |
+| ![Dawn Stone](../img/items/dawn-stone.png) [Dawn Stone](../items/dawn-stone.md) (Dustcloud) |
+| ![Fire Stone](../img/items/fire-stone.png) [Fire Stone](../items/fire-stone.md) (Dustcloud) |
+| ![Leaf Stone](../img/items/leaf-stone.png) [Leaf Stone](../items/leaf-stone.md) (Dustcloud) |
+| ![Moon Stone](../img/items/moon-stone.png) [Moon Stone](../items/moon-stone.md) (Dustcloud) |
+| ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
+| ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
+| ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
+| ![Iron](../img/items/iron.png) [Iron](../items/iron.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![TM80 Rock Slide](../img/items/tm-rock.png) [TM80 Rock Slide](../items/tm80.md) |
 
 ## Trainers
 ### Hiker Hugh

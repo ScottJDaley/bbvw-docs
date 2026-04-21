@@ -1,0 +1,105 @@
+
+Like the previous games, Pokémon Black & White have dozens of Technical Machines and Hidden Machines for you to use. However, unlike past games, the TMs of Unova do not disappear after use and can be used time and time again at no extra cost. This means that all of the TMs can only be found once within the game which can make some of them very hard to find..
+
+No.	Move Name	Type	Kind	Att.	Acc.	PP	Effect	Location
+TM01	Hone Claws			--	--	15	It sharpens its claws. Increases your Accuracy and Attack.	Freezer Container - Gift from Sage
+TM02	Dragon Claw			80	100	15	Slashes the foe with sharp claws.	Victory Road
+TM03	Psyshock			80	100	10	It makes its mysterious brain waves real and attacks the opponents. It deals Physical damage.	Giant Chasm
+TM04	Calm Mind			--	--	20	Raises SP. ATK and SP. DEF by focusing the mind.	Relic Castle - Gift from Sage
+TM05	Roar			--	100	20	Makes the foe flee to end the battle.	Route 10
+TM06	Toxic			--	90	10	Poisons the foe with an intensifying toxin.	Route 17
+TM07	Hail			--	--	10	Summons a hailstorm that strikes every turn.	Mistralton PokéMart - 50,000 PokéDollars
+TM08	Bulk Up			--	--	20	Bulks up the body to boost both ATTACK and DEFENSE.	Route 14- Gift from Sage
+TM09	Venoshock			65	100	10	It hurls a special poison. Its power doubles if it hits an opponent with Poison status.	Route 15 - Gift
+TM10	Hidden Power			??	100	15	The effectiveness varies with the user.	Nuvema Town - Professor Juniper after seeing 100 Pokémon
+TM11	Sunny Day			--	--	5	Boosts the power of FIRE- type moves for 5 turns.	Mistralton PokéMart - 50,000 PokéDollars
+TM12	Taunt			--	100	20	Taunts the foe into only using attack moves.	Victory Road
+TM13	Ice Beam			95	100	10	Blasts the foe with an icy beam that may freeze it.	Giant Chasm
+TM14	Blizzard			120	70	5	Hits the foe with an icy storm that may freeze it.	Icirrus City PokéMart 70,000 PokéDollars
+TM15	Hyper Beam			150	90	5	Powerful, but leaves the user immobile the next turn.	Route 9 Department Store - 90,000 PokéDollars
+TM16	Light Screen			--	--	30	Creates a wall of light that lowers SP. ATK damage.	Nimbasa City PokéMart - 30,000 Yen
+TM17	Protect			--	--	10	Evades attack, but may fail if used in succession.	Nuvema Town - Professor Juniper after seeing 60 Pokémon
+TM18	Rain Dance			--	--	5	Boosts the power of WATER- type moves for 5 turns.	Mistralton PokéMart - 50,000 PokéDollars
+TM19	Telekinesis			--	--	15	It raises the opponent in the air with its psychic abilities. Attacks hit the opponent more easily for 3 turns.	Route 18
+TM20	Safeguard			--	--	25	A mystical force prevents all status problems.	Nimbasa City PokéMart - 30,000 Yen
+TM21	Frustration			??	100	20	An attack that is stronger if the TRAINER is disliked.	Nimbasa City PokéMart - 10,000 Yen
+TM22	Solarbeam			120	100	10	Absorbs light in one turn, then attacks next turn.	Pinwheel Forest
+TM23	Smack Down			50	100	15	It attacks by throwing rocks or bullets at a flying opponent. The opponent is knocked down and falls to the ground.	Battle Subway - 36BP
+TM24	Thunderbolt			95	100	15	A strong electrical attack that may paralyze the foe.	P2 Laboratory
+TM25	Thunder			120	70	10	A lightning attack that may cause paralysis.	Icirrus City PokéMart - 70,000 PokéDollars
+TM26	Earthquake			100	100	10	A powerful quake, but has no effect on flying foes.	Relic Castle
+TM27	Return			??	100	20	An attack that increases in power with friendship.	Nimbasa City PokéMart - 10,000 PokéDollars
+TM28	Dig			80	100	10	Digs underground the first turn and strikes next turn.	Route 4
+TM29	Psychic			90	100	10	A powerful psychic attack that may lower SP. DEF.	Route 13
+TM30	Shadow Ball			80	100	15	Hurls a black blob that may lower the foe's SP. DEF.	Relic Castle
+TM31	Brick Break			75	100	15	Destroys barriers such as REFLECT and causes damage.	Icirrus City
+TM32	Double Team			--	--	15	Creates illusory copies to raise evasiveness.	Route 18 - Gift from Sage
+TM33	Reflect			--	--	20	Creates a wall of light that weakens physical attacks.	Nimbasa City PokéMart - 30,000 PokéDollars
+TM34	Sludge Wave			95	100	10	It attacks those near it with a wave of sludge. It will sometimes cause poisoning.	Battle Subway - 48BP
+TM35	Flamethrower			95	100	15	A powerful fire attack that may inflict a burn.	Abundant Shrine
+TM36	Sludge Bomb			90	100	10	Sludge is hurled to inflict damage. May also poison.	Route 8
+TM37	Sandstorm			--	--	10	Causes a sandstorm that rages for several turns.	Mistralton City PokéMart - 50,000 PokéDollars
+TM38	Fire Blast			120	85	5	A fiery blast that scorches all. May cause a burn.	Icirrus City Pokémon - 70,000 PokéDollars
+TM39	Rock Tomb			50	80	10	Stops the foe from moving with rocks and cuts SPEED.	Desert Resort
+TM40	Aerial Ace			60	--	20	An extremely speedy and unavoidable attack.	Mistralton City Runway
+TM41	Torment			--	100	15	Torments the foe and stops successive use of a move.	Route 4
+TM42	Facade			70	100	20	Boosts ATTACK when burned, paralyzed, or poisoned.	Route 8
+TM43	Flame Charge			50	100	20	It puts on flame and attacks the opponent. It stores strength and its speed rises.	Tubeline Bridge
+TM44	Rest			--	--	10	The user sleeps for 2 turns, restoring HP and status.	Castelia City - 11th Floor of Building
+TM45	Attract			--	100	15	Makes the opposite gender less likely to attack.	Castelia City - Party
+TM46	Thief			40	100	10	While attacking, it may steal the foe's held item.	Wellspring Cave
+TM47	Low Sweep			60	100	20	With speedy movements it aims at the opponents’ feet	Wellspring Cave
+TM48	Round			60	100	15	It attacks the opponent with song. If everyone sings together you can use the move in successive turns and have its power increase.	Battle Subway - 36BP
+TM49	Echoed Voice			40	100	15	It attacks the opponent with an echoed voice. If it or one of its team mates uses it each turn, the power increases.	Nimbasa City - Musical Hall
+TM50	Overheat			140	90	5	Allows a full-power attack, but sharply lowers SP. ATK.	Route 11
+TM51	Ally Switch			--	--	15	With a strange power it teleports and switches places with one of its teammates.	Battle Subway - 48BP
+TM52	Focus Blast			120	70	5	May lower foe's SP.DEF one stage	Wellspring Cave
+TM53	Energy Ball			80	100	10	May lower foe's SP.DEF one stage	Route 12
+TM54	False Swipe			40	100	40	An attack that leaves the foe with at least 1 HP.	Nuvema Town - Professor Juniper after seeing 30 Pokémon
+TM55	Scald			80	100	15	It attacks by shooting boiling hot water at the opponent. It will sometimes cause a burn.	Freezer Container
+TM56	Fling			??	100	10	Hurls out held item, power depends on held item	Tubeline Bridge
+TM57	Charge Beam			50	90	10	High chance of raising user's SP.ATT one stage	Route 7
+TM58	Sky Drop			60	100	10	It attacks by raising the opponent skyward on the first turn, then dropping them on the second. The opponent that has been raised cannot move.	Mistralton City
+TM59	Incinerate			30	100	15	It attacks the opponent with fire. It burns any berry the opponent is holding, rendering it unusable.	Battle Subway - 48BP
+TM60	Quash			--	100	15	It holds the opponent down and makes it attack last.	Battle Subway - 48BP
+TM61	Will-o-wisp			--	75	15	Inflicts a burn on the foe with intense fire.	Celestial Tower
+TM62	Acrobatics			55	100	15	It lightly attacks the opponent. The damage is larger when it is not holding any item.	Mistralton City Gym
+TM63	Embargo			--	100	15	Foe is unable to use held items	Dragonspiral Tower
+TM64	Explosion			250	100	5	Inflicts severe damage but makes the user faint.	Battle Subway - 48BP
+TM65	Shadow Claw			70	100	15	High critical hit ratio	Celestial Tower
+TM66	Payback			50	100	10	Power doubles if user receives damage first	Route 16
+TM67	Retaliate			70	100	5	It takes revenge for a fainted teammate. If a teammate is fainted that turn the attacks power increases.	Nacrene City Gym
+TM68	Giga Impact			150	90	5	User cannot attack next turn	Route 9 Department Store - 90,000 PokéDollars
+TM69	Rock Polish			--	--	20	Raises users SPEED two stages	Chargestone Cave - Gift from Sage
+TM70	Flash			--	100	20	Looses a powerful blast of light that cuts accuracy.	Castelia City Alleyway
+TM71	Stone Edge			100	80	5	High critical hit ratio	Challenger's Cave
+TM72	Volt Switch			70	100	20	After it has attacked the opponent, it returns and switches places with a waiting Pokémon.	Nimbasa City Gym
+TM73	Thunder Wave			--	100	20	A weak jolt of electricity that paralyzes the foe.	Nimbasa City PokéMart - 10,000 PokéDollars
+TM74	Gyro Ball			??	100	5	Power depends on foe's SPEED	Nimbasa City PokéMart - 10,000 PokéDollars
+TM75	Swords Dance			--	--	30	A fighting dance that sharply raises ATTACK.	Dreamyard - Gift from Sage
+TM76	Struggle Bug			30	100	20	It opposes the opponent by attacking. It lowers the opponents Special Attack.	Castelia City Gym
+TM77	Psych Up			--	--	10	Copies the foe's effect(s) and gives to the user.	Battle Subway - 48BP
+TM78	Bulldoze			60	100	20	It stamps the ground and attacks anything nearby. It lowers the opponent’s speed.	Driftveil City Gym
+TM79	Frost Breath			40	90	10	It attacks by blowing a cool breath on the opponent. It will always result in a critical hit.	Icirrus City Gym
+TM80	Rock Slide			75	90	10	Large boulders are hurled. May cause flinching.	Mistralton Cave
+TM81	X-scissor			80	100	15	No Added Effect	Route 7
+TM82	Dragon Tail			60	90	10	It sends the opponent flying and causes the opponent to switch out. In a wild battle, the battle ends.	Opelucid City Gym
+TM83	Work Up			--	--	30	It musters its courage and raises its Attack and Special Attack.	Striaton City Gym
+TM84	Poison Jab			80	100	20	May poison foe	Route 6
+TM85	Dream Eater			100	100	15	Takes one half the damage inflicted on a sleeping foe.	Dreamyard
+TM86	Grass Knot			??	100	20	Power increases if foe is heavy	Pinwheel Forest
+TM87	Swagger			--	90	15	Confuses the foe, but also sharply raises ATTACK.	Battle Subway - 36BP
+TM88	Pluck			60	100	20	Power doubles if foe is holding a berry	Battle Subway - 36BP
+TM89	U-turn			70	100	20	User switches out automatically after attack	Route 13 - Deliver all three goods to Wingull
+TM90	Substitute			--	--	10	Creates a decoy using 1/4 of the user's maximum HP.	Twist Mountain - Winter Only
+TM91	Flash Cannon			80	100	10	May lower foe's SP.DEF one stage	Twist Mountain
+TM92	Trick Room			--	--	5	Slower Pokémon attacks first in 5 turns	Abundant Shrine
+TM93	Wild Charge			90	100	15	It covers itself in electricity and crashes into the opponent. It also takes a little damage.	Victory Road
+TM94	Rock Smash			40	100	15	A rock-crushing attack that may lower DEFENSE.	Pinwheel Forest
+TM95	Snarl			55	95	15	It yells at an opponent for a long time and lowers their Special Attack.	Castelia City - Give Mr. Lock the Lock Capsule
+HM01	Cut			50	95	30	Cuts the foe with sharp scythes, claws, etc.	Striaton City - From Mokomo
+HM02	Fly			90	95	15	Flies up on the first turn, then strikes the next turn.	Driftveil City - From Bianca
+HM03	Surf			95	100	15	Creates a huge wave, then crashes it down on the foe.	Twist Mountain - From Alder
+HM04	Strength			80	100	15	Builds enormous power, then slams the foe.	Nimbasa City (Top Left Building)
+HM05	Waterfall			80	100	15	Charges the foe with speed to climb waterfalls.	Route 18
+HM06	Dive			80	100	10	Dives underwater the first turn and strikes next turn.	Undella Town

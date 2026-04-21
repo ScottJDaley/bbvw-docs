@@ -39,9 +39,17 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![TM03 Psyshock](../img/items/tm-psychic.png) [TM03 Psyshock](../items/tm03.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Rare Candy</span> |
+| Item |
+| --- |
+| ![TM03 Psyshock](../img/items/tm-psychic.png) [TM03 Psyshock](../items/tm03.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Rare Candy</span> |
+| ![TM66 Payback](../img/items/tm-dark.png) [TM66 Payback](../items/tm66.md) |
+
+### Shop
+| Item |
+| --- |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
 
 ## Trainers
 ### Cycling Hector

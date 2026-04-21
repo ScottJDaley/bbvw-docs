@@ -2,13 +2,53 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Cherish Ball * 20](../img/items/cherish-ball.png) Cherish Ball * 20 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball * 10 (NPC)</span> |
-| ![HM02 Fly](../img/items/tm-flying.png) [HM02 Fly](../items/hm02.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Bicycle (NPC)</span> |
-| ![TM93 Wild Charge](../img/items/tm-electric.png) [TM93 Wild Charge](../items/tm93.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM72 Volt Switch (NPC)</span> |
-| ![Shiny Stone * 6](../img/items/shiny-stone.png) [Shiny Stone * 6](../items/shiny-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Sun Stone (NPC)</span> |
-| ![ThunderStone * 6](../img/items/unknown.png) ThunderStone * 6 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Attack</span> |
+| Item |
+| --- |
+| ![Cherish Ball * 20](../img/items/cherish-ball.png) [Cherish Ball * 20](../items/cherish-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball * 10 (NPC)</span> |
+| ![HM02 Fly](../img/items/tm-flying.png) [HM02 Fly](../items/hm02.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Bicycle (NPC)</span> |
+| ![TM93 Wild Charge](../img/items/tm-electric.png) [TM93 Wild Charge](../items/tm93.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM72 Volt Switch (NPC)</span> |
+| ![Shiny Stone * 6](../img/items/shiny-stone.png) [Shiny Stone * 6](../items/shiny-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Sun Stone (NPC)</span> |
+| ![ThunderStone * 6](../img/items/unknown.png) [ThunderStone * 6](../items/thunderstone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Attack</span> |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Macho Brace](../img/items/macho-brace.png) [Macho Brace](../items/macho-brace.md) |
+| ![Soothe Bell](../img/items/soothe-bell.png) [Soothe Bell](../items/soothe-bell.md) |
+| ![PP Max](../img/items/pp-max.png) [PP Max](../items/pp-max.md) |
+| ![PP Max](../img/items/pp-max.png) [PP Max](../items/pp-max.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
+| ![Prop Case](../img/items/prop-case.png) [Prop Case](../items/prop-case.md) (From Owner of Musical) |
+| ![Vs. Recorder](../img/items/vs-recorder.png) [Vs. Recorder](../items/vs-recorder.md) |
+| ![TM49 Echoed Voice](../img/items/tm-normal.png) [TM49 Echoed Voice](../items/tm49.md) (Musical Hall) |
+| ![HM04 Strength](../img/items/tm-normal.png) [HM04 Strength](../items/hm04.md) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Plasma Grunt

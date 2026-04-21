@@ -1,4 +1,4 @@
-# ![icon](../img/items/old-rod.png) Old rod
+# ![icon](../img/items/old-rod.png) Old Rod
 
 **Category:** Gameplay
 

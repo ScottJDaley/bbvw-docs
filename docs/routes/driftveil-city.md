@@ -32,10 +32,41 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![RageCandyBar](../img/items/unknown.png) RageCandyBar | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM02 Fly (NPC)</span> |
-| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone</span> |
+| Item |
+| --- |
+| ![RageCandyBar](../img/items/unknown.png) [RageCandyBar](../items/ragecandybar.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM02 Fly (NPC)</span> |
+| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone</span> |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
+| ![Expert Belt](../img/items/expert-belt.png) [Expert Belt](../items/expert-belt.md) (Show Lv. 30 Pokémon in Market) |
+| ![Shell Bell](../img/items/shell-bell.png) [Shell Bell](../items/shell-bell.md) |
+| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![Repeat Ball](../img/items/repeat-ball.png) [Repeat Ball](../items/repeat-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Dusk Ball](../img/items/dusk-ball.png) [Dusk Ball](../items/dusk-ball.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Motorcyclist Charles

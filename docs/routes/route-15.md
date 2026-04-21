@@ -46,10 +46,19 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
-| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
+| Item |
+| --- |
+| ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
+| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+
+### Shop
+| Item |
+| --- |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
 
 ## Trainers
 ### Gym Leader Iris
@@ -59,8 +68,8 @@
 #### Iris’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 87 | Swift Swim | ![Damp Rock](../img/items/damp-rock.png) Damp Rock | Rain Dance, Hydro Pump, Blizzard, Dragon Pulse |
-| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 87 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) Rocky Helmet | Outrage, Superpower, Rock Slide, Substitute |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 87 | Swift Swim | ![Damp Rock](../img/items/damp-rock.png) [Damp Rock](../items/damp-rock.md) | Rain Dance, Hydro Pump, Blizzard, Dragon Pulse |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 87 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) [Rocky Helmet](../items/rocky-helmet.md) | Outrage, Superpower, Rock Slide, Substitute |
 | ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 87 | Natural Cure | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Outrage, Roost, Cotton Guard, Ice Beam |
 | ![Garchomp](../img/pokemon/445.png) | [Garchomp](../pokemon/garchomp.md) | 89 | Sand Veil | ![Yache Berry](../img/items/yache-berry.png) Yache Berry | Outrage, Earthquake, Stone Edge, Draco Meteor |
 | ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 89 | Inner Focus | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Outrage, Hurricane, Thunder, Roost |

@@ -27,11 +27,42 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Dive Ball * 10](../img/items/dive-ball.png) [Dive Ball * 10](../items/dive-ball.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Ball</span> |
-| ![HM01 Cut](../img/items/tm-normal.png) [HM01 Cut](../items/hm01.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Oran Berries * 3</span> |
-| ![TM10 Hidden Power](../img/items/tm-normal.png) [TM10 Hidden Power](../items/tm10.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM01 Cut</span> |
+| Item |
+| --- |
+| ![Dive Ball * 10](../img/items/dive-ball.png) [Dive Ball * 10](../items/dive-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Ball</span> |
+| ![HM01 Cut](../img/items/tm-normal.png) [HM01 Cut](../items/hm01.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Oran Berries * 3</span> |
+| ![TM10 Hidden Power](../img/items/tm-normal.png) [TM10 Hidden Power](../items/tm10.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM01 Cut</span> |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (Gift in Entrance to Gym) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![X Speed](../img/items/x-speed.png) [X Speed](../items/x-speed.md) |
+| ![Zinc](../img/items/zinc.png) [Zinc](../items/zinc.md) |
+| ![BalmMushroom](../img/items/unknown.png) [BalmMushroom](../items/balmmushroom.md) |
+| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Pal Pad](../img/items/pal-pad.png) [Pal Pad](../items/pal-pad.md) (Gift from Fennel's Assistant) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Rival Cheren – 1

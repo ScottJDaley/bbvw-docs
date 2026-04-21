@@ -1,4 +1,4 @@
-# ![icon](../img/items/rage-candy-bar.png) Rage candy bar
+# ![icon](../img/items/rage-candy-bar.png) Rage Candy Bar
 
 **Category:** Gameplay
 

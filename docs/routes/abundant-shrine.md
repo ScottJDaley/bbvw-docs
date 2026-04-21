@@ -75,10 +75,18 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
-| ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
+| Item |
+| --- |
+| ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
+| ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![BalmMushroom](../img/items/unknown.png) [BalmMushroom](../items/balmmushroom.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TM92 Trick Room](../img/items/tm-psychic.png) [TM92 Trick Room](../items/tm92.md) |
 
 ## Trainers
 ### Gym Leader Cilan, Gym Leader Cress, Gym Leader Chili

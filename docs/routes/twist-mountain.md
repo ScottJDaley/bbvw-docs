@@ -52,6 +52,70 @@
 *Unlike its brothers, Regice prefers only the very coldest of climates. Try your luck in a harsh Winter at the depths of the area, and you might just have a chance at finding it.*
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
+| ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
+| ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) |
+| ![Electric Gem](../img/items/electric-gem.png) [Electric Gem](../items/electric-gem.md) |
+| ![Fighting Gem](../img/items/fighting-gem.png) [Fighting Gem](../items/fighting-gem.md) |
+| ![Fire Gem](../img/items/fire-gem.png) [Fire Gem](../items/fire-gem.md) |
+| ![Flying Gem](../img/items/flying-gem.png) [Flying Gem](../items/flying-gem.md) |
+| ![Ghost Gem](../img/items/ghost-gem.png) [Ghost Gem](../items/ghost-gem.md) |
+| ![Grass Gem](../img/items/grass-gem.png) [Grass Gem](../items/grass-gem.md) |
+| ![Ground Gem](../img/items/ground-gem.png) [Ground Gem](../items/ground-gem.md) |
+| ![Ice Gem](../img/items/ice-gem.png) [Ice Gem](../items/ice-gem.md) |
+| ![Normal Gem](../img/items/normal-gem.png) [Normal Gem](../items/normal-gem.md) |
+| ![Poison Gem](../img/items/poison-gem.png) [Poison Gem](../items/poison-gem.md) |
+| ![Psychic Gem](../img/items/psychic-gem.png) [Psychic Gem](../items/psychic-gem.md) |
+| ![Rock Gem](../img/items/rock-gem.png) [Rock Gem](../items/rock-gem.md) |
+| ![Steel Gem](../img/items/steel-gem.png) [Steel Gem](../items/steel-gem.md) |
+| ![Water Gem](../img/items/water-gem.png) [Water Gem](../items/water-gem.md) |
+| ![Dawn Stone](../img/items/dawn-stone.png) [Dawn Stone](../items/dawn-stone.md) (Dustcloud) |
+| ![Dusk Stone](../img/items/dusk-stone.png) [Dusk Stone](../items/dusk-stone.md) (Dustcloud) |
+| ![Fire Stone](../img/items/fire-stone.png) [Fire Stone](../items/fire-stone.md) (Dustcloud) |
+| ![Leaf Stone](../img/items/leaf-stone.png) [Leaf Stone](../items/leaf-stone.md) (Dustcloud) |
+| ![Moon Stone](../img/items/moon-stone.png) [Moon Stone](../items/moon-stone.md) |
+| ![Moon Stone](../img/items/moon-stone.png) [Moon Stone](../items/moon-stone.md) (Dustcloud) |
+| ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
+| ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
+| ![Iron](../img/items/iron.png) [Iron](../items/iron.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Armor Fossil](../img/items/armor-fossil.png) [Armor Fossil](../items/armor-fossil.md) |
+| ![Claw Fossil](../img/items/claw-fossil.png) [Claw Fossil](../items/claw-fossil.md) |
+| ![Dome Fossil](../img/items/dome-fossil.png) [Dome Fossil](../items/dome-fossil.md) |
+| ![Helix Fossil](../img/items/helix-fossil.png) [Helix Fossil](../items/helix-fossil.md) |
+| ![Old Amber](../img/items/old-amber.png) [Old Amber](../items/old-amber.md) |
+| ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) |
+| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) |
+| ![TM90 Substitute](../img/items/tm-normal.png) [TM90 Substitute](../items/tm90.md) (Winter Only) |
+| ![TM91 Flash Cannon](../img/items/tm-steel.png) [TM91 Flash Cannon](../items/tm91.md) |
+| ![HM03 Surf](../img/items/tm-water.png) [HM03 Surf](../items/hm03.md) (From Alder) |
+
+### Shop
+| Item |
+| --- |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+
 ## Trainers
 ### Rival Cheren – 1
 **Battle Type:** Single Battle  

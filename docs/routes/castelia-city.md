@@ -2,16 +2,64 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Exp Share * 6](../img/items/exp-share.png) [Exp Share * 6](../items/exp-share.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Exp Share</span> |
-| ![TM04 Calm Mind](../img/items/tm-psychic.png) [TM04 Calm Mind](../items/tm04.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Quick Ball * 3</span> |
-| ![TM08 Bulk Up](../img/items/tm-fighting.png) [TM08 Bulk Up](../items/tm08.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Timer Ball * 3</span> |
-| ![TM48 Round](../img/items/tm-normal.png) [TM48 Round](../items/tm48.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lemonade (NPC)</span> |
-| ![TM89 U-turn](../img/items/tm-bug.png) [TM89 U-turn](../items/tm89.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM76 Struggle Bug (NPC)</span> |
-| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
-| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone (NPC)</span> |
-| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone (NPC)</span> |
+| Item |
+| --- |
+| ![Exp Share * 6](../img/items/exp-share.png) [Exp Share * 6](../items/exp-share.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Exp Share</span> |
+| ![TM04 Calm Mind](../img/items/tm-psychic.png) [TM04 Calm Mind](../items/tm04.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Quick Ball * 3</span> |
+| ![TM08 Bulk Up](../img/items/tm-fighting.png) [TM08 Bulk Up](../items/tm08.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Timer Ball * 3</span> |
+| ![TM48 Round](../img/items/tm-normal.png) [TM48 Round](../items/tm48.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lemonade (NPC)</span> |
+| ![TM89 U-turn](../img/items/tm-bug.png) [TM89 U-turn](../items/tm89.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM76 Struggle Bug (NPC)</span> |
+| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
+| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone (NPC)</span> |
+| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone (NPC)</span> |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+| ![Amulet Coin](../img/items/amulet-coin.png) [Amulet Coin](../items/amulet-coin.md) |
+| ![Choice Scarf](../img/items/choice-scarf.png) [Choice Scarf](../items/choice-scarf.md) |
+| ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) |
+| ![Eviolite](../img/items/eviolite.png) [Eviolite](../items/eviolite.md) |
+| ![Scope Lens](../img/items/scope-lens.png) [Scope Lens](../items/scope-lens.md) |
+| ![Smoke Ball](../img/items/smoke-ball.png) [Smoke Ball](../items/smoke-ball.md) |
+| ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) |
+| ![Zoom Lens](../img/items/zoom-lens.png) [Zoom Lens](../items/zoom-lens.md) |
+| ![PP Max](../img/items/pp-max.png) [PP Max](../items/pp-max.md) |
+| ![Dusk Ball](../img/items/dusk-ball.png) [Dusk Ball](../items/dusk-ball.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
+| ![Master Ball](../img/items/master-ball.png) [Master Ball](../items/master-ball.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![TM44 Rest](../img/items/tm-psychic.png) [TM44 Rest](../items/tm44.md) (11th Floor of Building) |
+| ![TM45 Attract](../img/items/tm-normal.png) [TM45 Attract](../items/tm45.md) (Party) |
+| ![TM95 Snarl](../img/items/tm-dark.png) [TM95 Snarl](../items/tm95.md) (Give Mr. Lock the Lock Capsule) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Clerk Ingrid
@@ -159,7 +207,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ![Masquerain](../img/pokemon/284.png) | [Masquerain](../pokemon/masquerain.md) | 28 | Intimidate | - | Scald, Silver Wind, Stun Spore, Icy Wind |
 | ![Vespiquen](../img/pokemon/416.png) | [Vespiquen](../pokemon/vespiquen.md) | 28 | Pressure | - | Acrobatics, Toxic, Heal Order, U-turn |
-| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 28 | Guts | ![Flame Orb](../img/items/flame-orb.png) Flame Orb | Brick Break, Aerial Ace, Bug Bite, Night Slash |
+| ![Heracross](../img/pokemon/214.png) | [Heracross](../pokemon/heracross.md) | 28 | Guts | ![Flame Orb](../img/items/flame-orb.png) [Flame Orb](../items/flame-orb.md) | Brick Break, Aerial Ace, Bug Bite, Night Slash |
 | ![Yanmega](../img/pokemon/469.png) | [Yanmega](../pokemon/yanmega.md) | 28 | Speed Boost | - | Protect, U-turn, Air Slash, Signal Beam |
 | ![Scolipede](../img/pokemon/545.png) | [Scolipede](../pokemon/scolipede.md) | 30 | Swarm | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Toxic, Rock Climb, Megahorn, Rock Slide |
 | ![Leavanny](../img/pokemon/542.png) | [Leavanny](../pokemon/leavanny.md) | 30 | Swarm | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Protect, Leaf Blade, X-Scissor, GrassWhistle |

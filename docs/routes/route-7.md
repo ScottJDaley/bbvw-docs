@@ -39,9 +39,13 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Magmarizer](../img/items/magmarizer.png) [Magmarizer](../items/magmarizer.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball</span> |
+| Item |
+| --- |
+| ![Magmarizer](../img/items/magmarizer.png) [Magmarizer](../items/magmarizer.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball</span> |
+| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![TM57 Charge Beam](../img/items/tm-electric.png) [TM57 Charge Beam](../items/tm57.md) |
+| ![TM81 X-scissor](../img/items/tm-bug.png) [TM81 X-scissor](../items/tm81.md) |
 
 ## Trainers
 ### Youngster Mikey

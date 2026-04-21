@@ -1,4 +1,4 @@
-# ![icon](../img/items/air-balloon.png) Air balloon
+# ![icon](../img/items/air-balloon.png) Air Balloon
 
 **Category:** Held-items
 
@@ -6,7 +6,8 @@
 Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Route 11](../routes/route-11.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Route 11](../routes/route-11.md) | General |  |
+| [Shop](../routes/shop.md) | General |  |
 

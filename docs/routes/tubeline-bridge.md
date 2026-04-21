@@ -2,9 +2,10 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![TM71 Stone Edge](../img/items/tm-rock.png) [TM71 Stone Edge](../items/tm71.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM43 Flame Charge (NPC)</span> |
+| Item |
+| --- |
+| ![TM71 Stone Edge](../img/items/tm-rock.png) [TM71 Stone Edge](../items/tm71.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM43 Flame Charge (NPC)</span> |
+| ![TM56 Fling](../img/items/tm-dark.png) [TM56 Fling](../items/tm56.md) |
 
 ## Trainers
 ### Biker Morgann

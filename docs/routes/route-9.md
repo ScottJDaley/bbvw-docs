@@ -49,6 +49,57 @@
 *Entei and Raikou are like best friends and brothers; they will always stay together, and Entei will follow Raikou to whatever attracts him.*
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) |
+| ![HP Up](../img/items/hp-up.png) [HP Up](../items/hp-up.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+
+### Shop
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![X Accuracy](../img/items/x-accuracy.png) [X Accuracy](../items/x-accuracy.md) |
+| ![X Attack](../img/items/x-attack.png) [X Attack](../items/x-attack.md) |
+| ![X Defend](../img/items/unknown.png) [X Defend](../items/x-defend.md) |
+| ![X Speed](../img/items/x-speed.png) [X Speed](../items/x-speed.md) |
+| ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) |
+| ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
+| ![HP Up](../img/items/hp-up.png) [HP Up](../items/hp-up.md) |
+| ![Iron](../img/items/iron.png) [Iron](../items/iron.md) |
+| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) |
+| ![Zinc](../img/items/zinc.png) [Zinc](../items/zinc.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Dusk Ball](../img/items/dusk-ball.png) [Dusk Ball](../items/dusk-ball.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Quick Ball](../img/items/quick-ball.png) [Quick Ball](../items/quick-ball.md) |
+| ![Timer Ball](../img/items/timer-ball.png) [Timer Ball](../items/timer-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![TM15 Hyper Beam](../img/items/tm-normal.png) [TM15 Hyper Beam](../items/tm15.md) |
+| ![TM68 Giga Impact](../img/items/tm-normal.png) [TM68 Giga Impact](../items/tm68.md) |
+
 ## Trainers
 ### Roughneck Reese
 | Sprite | Pokemon | Level | Ability | Item | Moves |

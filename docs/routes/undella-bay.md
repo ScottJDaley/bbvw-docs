@@ -38,3 +38,10 @@
 *The vast waters of the Undella Bay are perfect for Kyogre, who awakens only once in the four-season period. The hot temperatures of Summer might lead a lucky – or doomed – trainer to find this beast.*
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+

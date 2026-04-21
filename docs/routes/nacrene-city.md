@@ -2,9 +2,43 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Sun Stone * 6](../img/items/sun-stone.png) [Sun Stone * 6](../items/sun-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Chesto Berry * 3</span> |
+| Item |
+| --- |
+| ![Sun Stone * 6](../img/items/sun-stone.png) [Sun Stone * 6](../items/sun-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Chesto Berry * 3</span> |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) (Wednesday Only) |
+| ![Charcoal](../img/items/charcoal.png) [Charcoal](../items/charcoal.md) (If you answer Tepig) |
+| ![Miracle Seed](../img/items/miracle-seed.png) [Miracle Seed](../items/miracle-seed.md) (If you answer Snivy) |
+| ![Mystic Water](../img/items/mystic-water.png) [Mystic Water](../items/mystic-water.md) (If you answer Oshawott) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Dark Stone](../img/items/dark-stone.png) [Dark Stone](../items/dark-stone.md) (From Lenora) |
+| ![Dowsing MCHN](../img/items/unknown.png) [Dowsing MCHN](../items/dowsing-mchn.md) (From Bianca) |
+| ![Light Stone](../img/items/light-stone.png) [Light Stone](../items/light-stone.md) (From Lenora) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
+| ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Lass Dye

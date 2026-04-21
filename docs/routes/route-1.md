@@ -65,6 +65,15 @@
 | ![milotic](../img/pokemon/350.png) | [Milotic](../pokemon/milotic.md) | 5% |
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) (Gift from Professor Juniper) |
+
 ## Trainers
 ### PKMN Ranger Brenda
 | Sprite | Pokemon | Level | Ability | Item | Moves |

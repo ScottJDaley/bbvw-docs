@@ -6,7 +6,11 @@
 Traded on an Electabuzz: Holder evolves into Electivire.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
+| [Route 13](../routes/route-13.md) | General |  |
+| [Route 13](../routes/route-13.md) | General |  |
+| [Route 13](../routes/route-13.md) | General |  |
+| [Route 13](../routes/route-13.md) | General |  |
 

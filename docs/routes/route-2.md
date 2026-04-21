@@ -29,10 +29,14 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pok Ball</span> |
-| ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
+| Item |
+| --- |
+| ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pok Ball</span> |
+| ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
 
 ## Trainers
 ### Youngster Jimmy

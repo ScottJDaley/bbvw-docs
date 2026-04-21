@@ -45,3 +45,14 @@
 | ![crawdaunt](../img/pokemon/342.png) | [Crawdaunt](../pokemon/crawdaunt.md) | 40% |
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Burn Drive](../img/items/burn-drive.png) [Burn Drive](../items/burn-drive.md) (Show Genesect) |
+| ![Chill Drive](../img/items/chill-drive.png) [Chill Drive](../items/chill-drive.md) (Show Genesect) |
+| ![Douse Drive](../img/items/douse-drive.png) [Douse Drive](../items/douse-drive.md) (Show Genesect) |
+| ![Dubious Disc](../img/items/dubious-disc.png) [Dubious Disc](../items/dubious-disc.md) |
+| ![Dubious Disc](../img/items/dubious-disc.png) [Dubious Disc](../items/dubious-disc.md) |
+| ![Shock Drive](../img/items/shock-drive.png) [Shock Drive](../items/shock-drive.md) (Show Genesect) |
+| ![TM24 Thunderbolt](../img/items/tm-electric.png) [TM24 Thunderbolt](../items/tm24.md) |
+

@@ -1,4 +1,4 @@
-# ![icon](../img/items/chesto-berry.png) Chesto berry
+# ![icon](../img/items/chesto-berry.png) Chesto Berry
 
 **Category:** Medicine
 

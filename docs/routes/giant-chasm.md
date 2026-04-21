@@ -162,8 +162,45 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Rare Candy * 50](../img/items/rare-candy.png) [Rare Candy * 50](../items/rare-candy.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM03 Psyshock</span> |
-| ![God Stone](../img/items/god-stone.png) God Stone | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM13 Ice Beam</span> |
+| Item |
+| --- |
+| ![Rare Candy * 50](../img/items/rare-candy.png) [Rare Candy * 50](../items/rare-candy.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM03 Psyshock</span> |
+| ![God Stone](../img/items/god-stone.png) God Stone <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM13 Ice Beam</span> |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
+| ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
+| ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) |
+| ![Electric Gem](../img/items/electric-gem.png) [Electric Gem](../items/electric-gem.md) |
+| ![Fighting Gem](../img/items/fighting-gem.png) [Fighting Gem](../items/fighting-gem.md) |
+| ![Fire Gem](../img/items/fire-gem.png) [Fire Gem](../items/fire-gem.md) |
+| ![Flying Gem](../img/items/flying-gem.png) [Flying Gem](../items/flying-gem.md) |
+| ![Ghost Gem](../img/items/ghost-gem.png) [Ghost Gem](../items/ghost-gem.md) |
+| ![Grass Gem](../img/items/grass-gem.png) [Grass Gem](../items/grass-gem.md) |
+| ![Ground Gem](../img/items/ground-gem.png) [Ground Gem](../items/ground-gem.md) |
+| ![Ice Gem](../img/items/ice-gem.png) [Ice Gem](../items/ice-gem.md) |
+| ![Normal Gem](../img/items/normal-gem.png) [Normal Gem](../items/normal-gem.md) |
+| ![Poison Gem](../img/items/poison-gem.png) [Poison Gem](../items/poison-gem.md) |
+| ![Psychic Gem](../img/items/psychic-gem.png) [Psychic Gem](../items/psychic-gem.md) |
+| ![Rock Gem](../img/items/rock-gem.png) [Rock Gem](../items/rock-gem.md) |
+| ![Steel Gem](../img/items/steel-gem.png) [Steel Gem](../items/steel-gem.md) |
+| ![Water Gem](../img/items/water-gem.png) [Water Gem](../items/water-gem.md) |
+| ![Dawn Stone](../img/items/dawn-stone.png) [Dawn Stone](../items/dawn-stone.md) (Dustcloud) |
+| ![Dusk Stone](../img/items/dusk-stone.png) [Dusk Stone](../items/dusk-stone.md) (Dustcloud) |
+| ![Fire Stone](../img/items/fire-stone.png) [Fire Stone](../items/fire-stone.md) (Dustcloud) |
+| ![Leaf Stone](../img/items/leaf-stone.png) [Leaf Stone](../items/leaf-stone.md) (Dustcloud) |
+| ![Moon Stone](../img/items/moon-stone.png) [Moon Stone](../items/moon-stone.md) (Dustcloud) |
+| ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
+| ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
+| ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![Comet Shard](../img/items/comet-shard.png) [Comet Shard](../items/comet-shard.md) |
+| ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
+| ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
 

@@ -1,6 +1,46 @@
 # Opelucid City
 
 ## Items
+### General
+| Item |
+| --- |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
+| ![Cell Battery](../img/items/cell-battery.png) [Cell Battery](../items/cell-battery.md) |
+| ![Destiny Knot](../img/items/destiny-knot.png) [Destiny Knot](../items/destiny-knot.md) |
+| ![Float Stone](../img/items/float-stone.png) [Float Stone](../items/float-stone.md) |
+| ![Ring Target](../img/items/ring-target.png) [Ring Target](../items/ring-target.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Master Ball](../img/items/master-ball.png) [Master Ball](../items/master-ball.md) (From Professor Juniper) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+
+### PokéMart
+| Item |
+| --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Dusk Ball](../img/items/dusk-ball.png) [Dusk Ball](../items/dusk-ball.md) |
+| ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
+| ![Poké Ball](../img/items/poke-ball.png) [Poké Ball](../items/poke-ball.md) |
+| ![Quick Ball](../img/items/quick-ball.png) [Quick Ball](../items/quick-ball.md) |
+| ![Timer Ball](../img/items/timer-ball.png) [Timer Ball](../items/timer-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+
 ## Trainers
 ### Ace Trainer Eileen
 | Sprite | Pokemon | Level | Ability | Item | Moves |
@@ -81,7 +121,7 @@
 #### Drayden’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 64 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) Rocky Helmet | Revenge, Earthquake, Dragon Tail |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 64 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) [Rocky Helmet](../items/rocky-helmet.md) | Revenge, Earthquake, Dragon Tail |
 | ![Charizard](../img/pokemon/006.png) | [Charizard](../pokemon/charizard.md) | 64 | Blaze | ![Salac Berry](../img/items/salac-berry.png) Salac Berry | Fire Punch, Earthquake, Substitute |
 | ![Flygon](../img/pokemon/330.png) | [Flygon](../pokemon/flygon.md) | 64 | Levitate | ![Yache Berry](../img/items/yache-berry.png) Yache Berry | Dragon Pulse, Earth Power, Fire Blast |
 | ![Salamence](../img/pokemon/373.png) | [Salamence](../pokemon/salamence.md) | 64 | Intimidate | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Hydro Pump, Brick Break, Fire Blast |
@@ -95,10 +135,10 @@
 #### Iris’s Team
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 63 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) Rocky Helmet | Outrage, Revenge, Earthquake, Dragon Tail |
+| ![Druddigon](../img/pokemon/621.png) | [Druddigon](../pokemon/druddigon.md) | 63 | Rough Skin | ![Rocky Helmet](../img/items/rocky-helmet.png) [Rocky Helmet](../items/rocky-helmet.md) | Outrage, Revenge, Earthquake, Dragon Tail |
 | ![Gyarados](../img/pokemon/130.png) | [Gyarados](../pokemon/gyarados.md) | 63 | Intimidate | ![Wacan Berry](../img/items/wacan-berry.png) Wacan Berry | Dragon Dance, Aqua Tail, Ice Fang, Earthquake |
 | ![Altaria](../img/pokemon/334.png) | [Altaria](../pokemon/altaria.md) | 63 | Natural Cure | ![Yache Berry](../img/items/yache-berry.png) Yache Berry | Cotton Guard, Dragon Pulse, Ice Beam, Fire Blast |
 | ![Dragonite](../img/pokemon/149.png) | [Dragonite](../pokemon/dragonite.md) | 65 | Inner Focus | ![Sitrus Berry](../img/items/sitrus-berry.png) Sitrus Berry | Stone Edge, Dragon Claw, Hurricane, Thunder |
-| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 65 | Swift Swim | ![Damp Rock](../img/items/damp-rock.png) Damp Rock | Rain Dance, Hydro Pump, Dragon Pulse, Blizzard |
-| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 65 | Mold Breaker | ![Dragon Gem](../img/items/dragon-gem.png) Dragon Gem | Dragon Dance, Outrage, Earthquake, Dragon Tail |
+| ![Kingdra](../img/pokemon/230.png) | [Kingdra](../pokemon/kingdra.md) | 65 | Swift Swim | ![Damp Rock](../img/items/damp-rock.png) [Damp Rock](../items/damp-rock.md) | Rain Dance, Hydro Pump, Dragon Pulse, Blizzard |
+| ![Haxorus](../img/pokemon/612.png) | [Haxorus](../pokemon/haxorus.md) | 65 | Mold Breaker | ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) | Dragon Dance, Outrage, Earthquake, Dragon Tail |
 

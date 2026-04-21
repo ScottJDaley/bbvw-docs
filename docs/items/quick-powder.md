@@ -1,4 +1,4 @@
-# ![icon](../img/items/quick-powder.png) Quick powder
+# ![icon](../img/items/quick-powder.png) Quick Powder
 
 **Category:** Species-specific
 

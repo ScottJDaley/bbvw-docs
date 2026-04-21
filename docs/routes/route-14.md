@@ -59,10 +59,12 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Light Clay](../img/items/light-clay.png) [Light Clay](../items/light-clay.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Reaper Cloth</span> |
-| ![Choice Band](../img/items/choice-band.png) [Choice Band](../items/choice-band.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM08 Bulk Up (NPC)</span> |
+| Item |
+| --- |
+| ![Light Clay](../img/items/light-clay.png) [Light Clay](../items/light-clay.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Reaper Cloth</span> |
+| ![Choice Band](../img/items/choice-band.png) [Choice Band](../items/choice-band.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM08 Bulk Up (NPC)</span> |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 
 ## Trainers
 ### Gym Leader Clay

@@ -1,4 +1,4 @@
-# ![icon](../img/items/claw-fossil.png) Claw fossil
+# ![icon](../img/items/claw-fossil.png) Claw Fossil
 
 **Category:** Dex-completion
 
@@ -6,7 +6,8 @@
 Can be revived into an Anorith.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Desert Resort](../routes/desert-resort.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General |  |
 

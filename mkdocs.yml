@@ -764,210 +764,429 @@ nav:
     - Challenger’s Cave: routes/challengers-cave.md
   - Items:
     - items/index.md
-    - Air balloon: items/air-balloon.md
-    - Amulet coin: items/amulet-coin.md
-    - Antidote: items/antidote.md
-    - Armor fossil: items/armor-fossil.md
-    - Awakening: items/awakening.md
-    - Bicycle: items/bicycle.md
-    - Big mushroom: items/big-mushroom.md
-    - Binding band: items/binding-band.md
-    - Black sludge: items/black-sludge.md
-    - Burn heal: items/burn-heal.md
-    - Carbos: items/carbos.md
-    - Chesto berry: items/chesto-berry.md
-    - Choice band: items/choice-band.md
-    - Choice scarf: items/choice-scarf.md
-    - Choice specs: items/choice-specs.md
-    - Claw fossil: items/claw-fossil.md
-    - Cover fossil: items/cover-fossil.md
-    - Dawn stone: items/dawn-stone.md
-    - Dive ball: items/dive-ball.md
-    - Dome fossil: items/dome-fossil.md
-    - Dragon scale: items/dragon-scale.md
-    - Dubious disc: items/dubious-disc.md
-    - Dusk ball: items/dusk-ball.md
-    - Dusk stone: items/dusk-stone.md
-    - Electirizer: items/electirizer.md
-    - Escape rope: items/escape-rope.md
-    - Everstone: items/everstone.md
-    - Exp share: items/exp-share.md
-    - Expert belt: items/expert-belt.md
-    - Fire stone: items/fire-stone.md
-    - Focus band: items/focus-band.md
-    - Focus sash: items/focus-sash.md
-    - Fresh water: items/fresh-water.md
-    - Full heal: items/full-heal.md
-    - Full restore: items/full-restore.md
-    - Good rod: items/good-rod.md
-    - Great ball: items/great-ball.md
-    - Grip claw: items/grip-claw.md
-    - Helix fossil: items/helix-fossil.md
-    - Hm01: items/hm01.md
-    - Hm02: items/hm02.md
-    - Hm03: items/hm03.md
-    - Hm04: items/hm04.md
-    - Hm05: items/hm05.md
-    - Hm06: items/hm06.md
-    - Hyper potion: items/hyper-potion.md
-    - Ice heal: items/ice-heal.md
-    - Kings rock: items/kings-rock.md
-    - Leaf stone: items/leaf-stone.md
-    - Life orb: items/life-orb.md
-    - Light ball: items/light-ball.md
-    - Light clay: items/light-clay.md
-    - Lucky egg: items/lucky-egg.md
-    - Lucky punch: items/lucky-punch.md
-    - Magmarizer: items/magmarizer.md
-    - Master ball: items/master-ball.md
-    - Max potion: items/max-potion.md
-    - Max repel: items/max-repel.md
-    - Max revive: items/max-revive.md
-    - Mental herb: items/mental-herb.md
-    - Metal coat: items/metal-coat.md
-    - Metronome: items/metronome.md
-    - Muscle band: items/muscle-band.md
-    - Net ball: items/net-ball.md
-    - Old amber: items/old-amber.md
-    - Old rod: items/old-rod.md
-    - Oval stone: items/oval-stone.md
-    - Paralyze heal: items/paralyze-heal.md
-    - Plume fossil: items/plume-fossil.md
-    - Potion: items/potion.md
-    - Power herb: items/power-herb.md
-    - Prism scale: items/prism-scale.md
-    - Protector: items/protector.md
-    - Protein: items/protein.md
-    - Quick powder: items/quick-powder.md
-    - Rage candy bar: items/rage-candy-bar.md
-    - Rare candy: items/rare-candy.md
-    - Razor claw: items/razor-claw.md
-    - Razor fang: items/razor-fang.md
-    - Reaper cloth: items/reaper-cloth.md
-    - Repel: items/repel.md
-    - Revive: items/revive.md
-    - Root fossil: items/root-fossil.md
-    - Shed shell: items/shed-shell.md
-    - Shiny stone: items/shiny-stone.md
-    - Skull fossil: items/skull-fossil.md
-    - Soothe bell: items/soothe-bell.md
-    - Soul dew: items/soul-dew.md
-    - Stick: items/stick.md
-    - Sun stone: items/sun-stone.md
-    - Super potion: items/super-potion.md
-    - Super repel: items/super-repel.md
-    - Super rod: items/super-rod.md
-    - Thick club: items/thick-club.md
-    - Thunder stone: items/thunder-stone.md
-    - Tm01: items/tm01.md
-    - Tm02: items/tm02.md
-    - Tm03: items/tm03.md
-    - Tm04: items/tm04.md
-    - Tm05: items/tm05.md
-    - Tm06: items/tm06.md
-    - Tm07: items/tm07.md
-    - Tm08: items/tm08.md
-    - Tm09: items/tm09.md
-    - Tm10: items/tm10.md
-    - Tm100: items/tm100.md
-    - Tm11: items/tm11.md
-    - Tm12: items/tm12.md
-    - Tm13: items/tm13.md
-    - Tm14: items/tm14.md
-    - Tm15: items/tm15.md
-    - Tm16: items/tm16.md
-    - Tm17: items/tm17.md
-    - Tm18: items/tm18.md
-    - Tm19: items/tm19.md
-    - Tm20: items/tm20.md
-    - Tm21: items/tm21.md
-    - Tm22: items/tm22.md
-    - Tm23: items/tm23.md
-    - Tm24: items/tm24.md
-    - Tm25: items/tm25.md
-    - Tm26: items/tm26.md
-    - Tm27: items/tm27.md
-    - Tm28: items/tm28.md
-    - Tm29: items/tm29.md
-    - Tm30: items/tm30.md
-    - Tm31: items/tm31.md
-    - Tm32: items/tm32.md
-    - Tm33: items/tm33.md
-    - Tm34: items/tm34.md
-    - Tm35: items/tm35.md
-    - Tm36: items/tm36.md
-    - Tm37: items/tm37.md
-    - Tm38: items/tm38.md
-    - Tm39: items/tm39.md
-    - Tm40: items/tm40.md
-    - Tm41: items/tm41.md
-    - Tm42: items/tm42.md
-    - Tm43: items/tm43.md
-    - Tm44: items/tm44.md
-    - Tm45: items/tm45.md
-    - Tm46: items/tm46.md
-    - Tm47: items/tm47.md
-    - Tm48: items/tm48.md
-    - Tm49: items/tm49.md
-    - Tm50: items/tm50.md
-    - Tm51: items/tm51.md
-    - Tm52: items/tm52.md
-    - Tm53: items/tm53.md
-    - Tm54: items/tm54.md
-    - Tm55: items/tm55.md
-    - Tm56: items/tm56.md
-    - Tm57: items/tm57.md
-    - Tm58: items/tm58.md
-    - Tm59: items/tm59.md
-    - Tm60: items/tm60.md
-    - Tm61: items/tm61.md
-    - Tm62: items/tm62.md
-    - Tm63: items/tm63.md
-    - Tm64: items/tm64.md
-    - Tm65: items/tm65.md
-    - Tm66: items/tm66.md
-    - Tm67: items/tm67.md
-    - Tm68: items/tm68.md
-    - Tm69: items/tm69.md
-    - Tm70: items/tm70.md
-    - Tm71: items/tm71.md
-    - Tm72: items/tm72.md
-    - Tm73: items/tm73.md
-    - Tm74: items/tm74.md
-    - Tm75: items/tm75.md
-    - Tm76: items/tm76.md
-    - Tm77: items/tm77.md
-    - Tm78: items/tm78.md
-    - Tm79: items/tm79.md
-    - Tm80: items/tm80.md
-    - Tm81: items/tm81.md
-    - Tm82: items/tm82.md
-    - Tm83: items/tm83.md
-    - Tm84: items/tm84.md
-    - Tm85: items/tm85.md
-    - Tm86: items/tm86.md
-    - Tm87: items/tm87.md
-    - Tm88: items/tm88.md
-    - Tm89: items/tm89.md
-    - Tm90: items/tm90.md
-    - Tm91: items/tm91.md
-    - Tm92: items/tm92.md
-    - Tm93: items/tm93.md
-    - Tm94: items/tm94.md
-    - Tm95: items/tm95.md
-    - Tm96: items/tm96.md
-    - Tm97: items/tm97.md
-    - Tm98: items/tm98.md
-    - Tm99: items/tm99.md
-    - Ultra ball: items/ultra-ball.md
-    - Up grade: items/up-grade.md
-    - Water stone: items/water-stone.md
-    - White herb: items/white-herb.md
-    - Wide lens: items/wide-lens.md
-    - Wise glasses: items/wise-glasses.md
-    - Xtransceiver: items/xtransceiver.md
-    - Zinc: items/zinc.md
-    - Zoom lens: items/zoom-lens.md
+    - Absorb Bulb: items/absorb-bulb.md
+    - Adamant Orb: items/adamant-orb.md
+    - air-balloon: items/air-balloon.md
+    - amulet-coin: items/amulet-coin.md
+    - antidote: items/antidote.md
+    - armor-fossil: items/armor-fossil.md
+    - awakening: items/awakening.md
+    - BalmMushroom: items/balmmushroom.md
+    - Berry Juice: items/berry-juice.md
+    - bicycle: items/bicycle.md
+    - big-mushroom: items/big-mushroom.md
+    - Big Nugget: items/big-nugget.md
+    - Big Pearl: items/big-pearl.md
+    - Big Root: items/big-root.md
+    - binding-band: items/binding-band.md
+    - Black Belt: items/black-belt.md
+    - Black Flute: items/black-flute.md
+    - black-sludge: items/black-sludge.md
+    - BlackGlasses: items/blackglasses.md
+    - Blue Flute: items/blue-flute.md
+    - Blue Scarf: items/blue-scarf.md
+    - Blue Shard: items/blue-shard.md
+    - BridgeMail D: items/bridgemail-d.md
+    - BridgeMail M: items/bridgemail-m.md
+    - BridgeMail S: items/bridgemail-s.md
+    - BridgeMail T: items/bridgemail-t.md
+    - BridgeMail V: items/bridgemail-v.md
+    - BrightPowder: items/brightpowder.md
+    - Bug Gem: items/bug-gem.md
+    - Burn Drive: items/burn-drive.md
+    - burn-heal: items/burn-heal.md
+    - Calcium: items/calcium.md
+    - carbos: items/carbos.md
+    - Casteliacone: items/casteliacone.md
+    - Cell Battery: items/cell-battery.md
+    - Charcoal: items/charcoal.md
+    - Cherish Ball: items/cherish-ball.md
+    - chesto-berry: items/chesto-berry.md
+    - Chill Drive: items/chill-drive.md
+    - choice-band: items/choice-band.md
+    - choice-scarf: items/choice-scarf.md
+    - choice-specs: items/choice-specs.md
+    - claw-fossil: items/claw-fossil.md
+    - Cleanse Tag: items/cleanse-tag.md
+    - Clever Wing: items/clever-wing.md
+    - Comet Shard: items/comet-shard.md
+    - cover-fossil: items/cover-fossil.md
+    - Damp Rock: items/damp-rock.md
+    - Dark Gem: items/dark-gem.md
+    - Dark Stone: items/dark-stone.md
+    - dawn-stone: items/dawn-stone.md
+    - DeepSeaScale: items/deepseascale.md
+    - DeepSeaTooth: items/deepseatooth.md
+    - Destiny Knot: items/destiny-knot.md
+    - Dire Hit: items/dire-hit.md
+    - dive-ball: items/dive-ball.md
+    - dome-fossil: items/dome-fossil.md
+    - Douse Drive: items/douse-drive.md
+    - Dowsing MCHN: items/dowsing-mchn.md
+    - Draco Plate: items/draco-plate.md
+    - Dragon Fang: items/dragon-fang.md
+    - Dragon Gem: items/dragon-gem.md
+    - dragon-scale: items/dragon-scale.md
+    - Dragon Skull: items/dragon-skull.md
+    - Dread Plate: items/dread-plate.md
+    - Dream Ball: items/dream-ball.md
+    - dubious-disc: items/dubious-disc.md
+    - dusk-ball: items/dusk-ball.md
+    - dusk-stone: items/dusk-stone.md
+    - Earth Plate: items/earth-plate.md
+    - Eject Button: items/eject-button.md
+    - electirizer: items/electirizer.md
+    - Electric Gem: items/electric-gem.md
+    - Elixir: items/elixir.md
+    - Energy Root: items/energy-root.md
+    - EnergyPowder: items/energypowder.md
+    - escape-rope: items/escape-rope.md
+    - Ether: items/ether.md
+    - everstone: items/everstone.md
+    - Eviolite: items/eviolite.md
+    - exp-share: items/exp-share.md
+    - expert-belt: items/expert-belt.md
+    - Favored Mail: items/favored-mail.md
+    - Fighting Gem: items/fighting-gem.md
+    - Fire Gem: items/fire-gem.md
+    - fire-stone: items/fire-stone.md
+    - Fist Plate: items/fist-plate.md
+    - Flame Orb: items/flame-orb.md
+    - Flame Plate: items/flame-plate.md
+    - Float Stone: items/float-stone.md
+    - Fluffy Tail: items/fluffy-tail.md
+    - Flying Gem: items/flying-gem.md
+    - focus-band: items/focus-band.md
+    - focus-sash: items/focus-sash.md
+    - fresh-water: items/fresh-water.md
+    - full-heal: items/full-heal.md
+    - Full Incense: items/full-incense.md
+    - full-restore: items/full-restore.md
+    - Genius Wing: items/genius-wing.md
+    - Ghost Gem: items/ghost-gem.md
+    - good-rod: items/good-rod.md
+    - Gracidea: items/gracidea.md
+    - Gram 1: items/gram-1.md
+    - Gram 2: items/gram-2.md
+    - Gram 3: items/gram-3.md
+    - Grass Gem: items/grass-gem.md
+    - great-ball: items/great-ball.md
+    - Green Scarf: items/green-scarf.md
+    - Green Shard: items/green-shard.md
+    - Greet Mail: items/greet-mail.md
+    - grip-claw: items/grip-claw.md
+    - Griseous Orb: items/griseous-orb.md
+    - Ground Gem: items/ground-gem.md
+    - Guard Spec.: items/guard-spec.md
+    - Hard Stone: items/hard-stone.md
+    - Heal Ball: items/heal-ball.md
+    - Heal Powder: items/heal-powder.md
+    - Health Wing: items/health-wing.md
+    - Heart Scale: items/heart-scale.md
+    - Heat Rock: items/heat-rock.md
+    - helix-fossil: items/helix-fossil.md
+    - hm01: items/hm01.md
+    - hm02: items/hm02.md
+    - hm03: items/hm03.md
+    - hm04: items/hm04.md
+    - hm05: items/hm05.md
+    - hm06: items/hm06.md
+    - Honey: items/honey.md
+    - HP Up: items/hp-up.md
+    - hyper-potion: items/hyper-potion.md
+    - Ice Gem: items/ice-gem.md
+    - ice-heal: items/ice-heal.md
+    - Icicle Plate: items/icicle-plate.md
+    - Icy Rock: items/icy-rock.md
+    - Inquiry Mail: items/inquiry-mail.md
+    - Insect Plate: items/insect-plate.md
+    - Iron: items/iron.md
+    - Iron Ball: items/iron-ball.md
+    - Iron Plate: items/iron-plate.md
+    - kings-rock: items/kings-rock.md
+    - Lagging Tail: items/lagging-tail.md
+    - Lava Cookie: items/lava-cookie.md
+    - Lax Incense: items/lax-incense.md
+    - leaf-stone: items/leaf-stone.md
+    - Leftovers: items/leftovers.md
+    - Lemonade: items/lemonade.md
+    - Liberty Pass: items/liberty-pass.md
+    - life-orb: items/life-orb.md
+    - light-ball: items/light-ball.md
+    - light-clay: items/light-clay.md
+    - Light Stone: items/light-stone.md
+    - Like Mail: items/like-mail.md
+    - Lock Capsule: items/lock-capsule.md
+    - Luck Incense: items/luck-incense.md
+    - lucky-egg: items/lucky-egg.md
+    - lucky-punch: items/lucky-punch.md
+    - Lustrous Orb: items/lustrous-orb.md
+    - Luxury Ball: items/luxury-ball.md
+    - Macho Brace: items/macho-brace.md
+    - magmarizer: items/magmarizer.md
+    - Magnet: items/magnet.md
+    - master-ball: items/master-ball.md
+    - Max Elixir: items/max-elixir.md
+    - Max Ether: items/max-ether.md
+    - max-potion: items/max-potion.md
+    - max-repel: items/max-repel.md
+    - max-revive: items/max-revive.md
+    - Meadow Plate: items/meadow-plate.md
+    - mental-herb: items/mental-herb.md
+    - metal-coat: items/metal-coat.md
+    - Metal Powder: items/metal-powder.md
+    - metronome: items/metronome.md
+    - Mind Plate: items/mind-plate.md
+    - Miracle Seed: items/miracle-seed.md
+    - Moomoo Milk: items/moomoo-milk.md
+    - Moon Stone: items/moon-stone.md
+    - muscle-band: items/muscle-band.md
+    - Muscle Wing: items/muscle-wing.md
+    - Mystic Water: items/mystic-water.md
+    - Nest Ball: items/nest-ball.md
+    - net-ball: items/net-ball.md
+    - NeverMeltIce: items/nevermeltice.md
+    - Normal Gem: items/normal-gem.md
+    - Nugget: items/nugget.md
+    - Odd Incense: items/odd-incense.md
+    - old-amber: items/old-amber.md
+    - Old Gateau: items/old-gateau.md
+    - old-rod: items/old-rod.md
+    - oval-stone: items/oval-stone.md
+    - Pal Pad: items/pal-pad.md
+    - paralyze-heal: items/paralyze-heal.md
+    - Parlyz Heal: items/parlyz-heal.md
+    - Pass Orb: items/pass-orb.md
+    - Pearl: items/pearl.md
+    - Pearl String: items/pearl-string.md
+    - Pink Scarf: items/pink-scarf.md
+    - plume-fossil: items/plume-fossil.md
+    - Poison Barb: items/poison-barb.md
+    - Poison Gem: items/poison-gem.md
+    - Poké Ball: items/poke-ball.md
+    - Poké Doll: items/poke-doll.md
+    - Poké Toy: items/poke-toy.md
+    - potion: items/potion.md
+    - Power Anklet: items/power-anklet.md
+    - Power Band: items/power-band.md
+    - Power Belt: items/power-belt.md
+    - Power Bracer: items/power-bracer.md
+    - power-herb: items/power-herb.md
+    - Power Lens: items/power-lens.md
+    - Power Weight: items/power-weight.md
+    - PP Max: items/pp-max.md
+    - PP Up: items/pp-up.md
+    - Premier Ball: items/premier-ball.md
+    - Pretty Wing: items/pretty-wing.md
+    - prism-scale: items/prism-scale.md
+    - Prop Case: items/prop-case.md
+    - protector: items/protector.md
+    - protein: items/protein.md
+    - Psychic Gem: items/psychic-gem.md
+    - Pure Incense: items/pure-incense.md
+    - Quick Ball: items/quick-ball.md
+    - Quick Claw: items/quick-claw.md
+    - quick-powder: items/quick-powder.md
+    - rage-candy-bar: items/rage-candy-bar.md
+    - Ragecandybar: items/ragecandybar.md
+    - Rare Bone: items/rare-bone.md
+    - rare-candy: items/rare-candy.md
+    - razor-claw: items/razor-claw.md
+    - razor-fang: items/razor-fang.md
+    - reaper-cloth: items/reaper-cloth.md
+    - Red Card: items/red-card.md
+    - Red Flute: items/red-flute.md
+    - Red Scarf: items/red-scarf.md
+    - Red Shard: items/red-shard.md
+    - Relic Band: items/relic-band.md
+    - Relic Copper: items/relic-copper.md
+    - Relic Crown: items/relic-crown.md
+    - Relic Gold: items/relic-gold.md
+    - Relic Silver: items/relic-silver.md
+    - Relic Statue: items/relic-statue.md
+    - Relic Vase: items/relic-vase.md
+    - Repeat Ball: items/repeat-ball.md
+    - repel: items/repel.md
+    - Reply Mail: items/reply-mail.md
+    - Resist Wing: items/resist-wing.md
+    - Revival Herb: items/revival-herb.md
+    - revive: items/revive.md
+    - Ring Target: items/ring-target.md
+    - Rock Gem: items/rock-gem.md
+    - Rock Incense: items/rock-incense.md
+    - Rocky Helmet: items/rocky-helmet.md
+    - root-fossil: items/root-fossil.md
+    - Rose Incense: items/rose-incense.md
+    - RSVP: items/rsvp.md
+    - Sacred Ash: items/sacred-ash.md
+    - Safari Ball: items/safari-ball.md
+    - Scope Lens: items/scope-lens.md
+    - Sea Incense: items/sea-incense.md
+    - Sharp Beak: items/sharp-beak.md
+    - shed-shell: items/shed-shell.md
+    - Shell Bell: items/shell-bell.md
+    - shiny-stone: items/shiny-stone.md
+    - Shoal Salt: items/shoal-salt.md
+    - Shoal Shell: items/shoal-shell.md
+    - Shock Drive: items/shock-drive.md
+    - Silk Scarf: items/silk-scarf.md
+    - SilverPowder: items/silverpowder.md
+    - skull-fossil: items/skull-fossil.md
+    - Sky Plate: items/sky-plate.md
+    - Smoke Ball: items/smoke-ball.md
+    - Smooth Rock: items/smooth-rock.md
+    - Soda Pop: items/soda-pop.md
+    - Soft Sand: items/soft-sand.md
+    - soothe-bell: items/soothe-bell.md
+    - soul-dew: items/soul-dew.md
+    - Spell Tag: items/spell-tag.md
+    - Splash Plate: items/splash-plate.md
+    - Spooky Plate: items/spooky-plate.md
+    - Star Piece: items/star-piece.md
+    - Stardust: items/stardust.md
+    - Steel Gem: items/steel-gem.md
+    - stick: items/stick.md
+    - Sticky Barb: items/sticky-barb.md
+    - Stone Plate: items/stone-plate.md
+    - sun-stone: items/sun-stone.md
+    - super-potion: items/super-potion.md
+    - super-repel: items/super-repel.md
+    - super-rod: items/super-rod.md
+    - Sweet Heart: items/sweet-heart.md
+    - Swift Wing: items/swift-wing.md
+    - Thanks Mail: items/thanks-mail.md
+    - thick-club: items/thick-club.md
+    - thunder-stone: items/thunder-stone.md
+    - Thunderstone: items/thunderstone.md
+    - Timer Ball: items/timer-ball.md
+    - TinyMushroom: items/tinymushroom.md
+    - tm01: items/tm01.md
+    - tm02: items/tm02.md
+    - tm03: items/tm03.md
+    - tm04: items/tm04.md
+    - tm05: items/tm05.md
+    - tm06: items/tm06.md
+    - tm07: items/tm07.md
+    - tm08: items/tm08.md
+    - tm09: items/tm09.md
+    - tm10: items/tm10.md
+    - tm100: items/tm100.md
+    - tm11: items/tm11.md
+    - tm12: items/tm12.md
+    - tm13: items/tm13.md
+    - tm14: items/tm14.md
+    - tm15: items/tm15.md
+    - tm16: items/tm16.md
+    - tm17: items/tm17.md
+    - tm18: items/tm18.md
+    - tm19: items/tm19.md
+    - tm20: items/tm20.md
+    - tm21: items/tm21.md
+    - tm22: items/tm22.md
+    - tm23: items/tm23.md
+    - tm24: items/tm24.md
+    - tm25: items/tm25.md
+    - tm26: items/tm26.md
+    - tm27: items/tm27.md
+    - tm28: items/tm28.md
+    - tm29: items/tm29.md
+    - tm30: items/tm30.md
+    - tm31: items/tm31.md
+    - tm32: items/tm32.md
+    - tm33: items/tm33.md
+    - tm34: items/tm34.md
+    - tm35: items/tm35.md
+    - tm36: items/tm36.md
+    - tm37: items/tm37.md
+    - tm38: items/tm38.md
+    - tm39: items/tm39.md
+    - tm40: items/tm40.md
+    - tm41: items/tm41.md
+    - tm42: items/tm42.md
+    - tm43: items/tm43.md
+    - tm44: items/tm44.md
+    - tm45: items/tm45.md
+    - tm46: items/tm46.md
+    - tm47: items/tm47.md
+    - tm48: items/tm48.md
+    - tm49: items/tm49.md
+    - tm50: items/tm50.md
+    - tm51: items/tm51.md
+    - tm52: items/tm52.md
+    - tm53: items/tm53.md
+    - tm54: items/tm54.md
+    - tm55: items/tm55.md
+    - tm56: items/tm56.md
+    - tm57: items/tm57.md
+    - tm58: items/tm58.md
+    - tm59: items/tm59.md
+    - tm60: items/tm60.md
+    - tm61: items/tm61.md
+    - tm62: items/tm62.md
+    - tm63: items/tm63.md
+    - tm64: items/tm64.md
+    - tm65: items/tm65.md
+    - tm66: items/tm66.md
+    - tm67: items/tm67.md
+    - tm68: items/tm68.md
+    - tm69: items/tm69.md
+    - tm70: items/tm70.md
+    - tm71: items/tm71.md
+    - tm72: items/tm72.md
+    - tm73: items/tm73.md
+    - tm74: items/tm74.md
+    - tm75: items/tm75.md
+    - tm76: items/tm76.md
+    - tm77: items/tm77.md
+    - tm78: items/tm78.md
+    - tm79: items/tm79.md
+    - tm80: items/tm80.md
+    - tm81: items/tm81.md
+    - tm82: items/tm82.md
+    - tm83: items/tm83.md
+    - tm84: items/tm84.md
+    - tm85: items/tm85.md
+    - tm86: items/tm86.md
+    - tm87: items/tm87.md
+    - tm88: items/tm88.md
+    - tm89: items/tm89.md
+    - tm90: items/tm90.md
+    - tm91: items/tm91.md
+    - tm92: items/tm92.md
+    - tm93: items/tm93.md
+    - tm94: items/tm94.md
+    - tm95: items/tm95.md
+    - tm96: items/tm96.md
+    - tm97: items/tm97.md
+    - tm98: items/tm98.md
+    - tm99: items/tm99.md
+    - Town Map: items/town-map.md
+    - Toxic Orb: items/toxic-orb.md
+    - Toxic Plate: items/toxic-plate.md
+    - TwistedSpoon: items/twistedspoon.md
+    - ultra-ball: items/ultra-ball.md
+    - up-grade: items/up-grade.md
+    - Vs. Recorder: items/vs-recorder.md
+    - Water Gem: items/water-gem.md
+    - water-stone: items/water-stone.md
+    - Wave Incense: items/wave-incense.md
+    - White Flute: items/white-flute.md
+    - white-herb: items/white-herb.md
+    - wide-lens: items/wide-lens.md
+    - wise-glasses: items/wise-glasses.md
+    - X Accuracy: items/x-accuracy.md
+    - X Attack: items/x-attack.md
+    - X Defend: items/x-defend.md
+    - X Sp. Def: items/x-sp-def.md
+    - X Special: items/x-special.md
+    - X Speed: items/x-speed.md
+    - xtransceiver: items/xtransceiver.md
+    - Yellow Flute: items/yellow-flute.md
+    - Yellow Scarf: items/yellow-scarf.md
+    - Yellow Shard: items/yellow-shard.md
+    - Zap Plate: items/zap-plate.md
+    - zinc: items/zinc.md
+    - zoom-lens: items/zoom-lens.md
   - Moves:
     - moves/index.md
     - Absorb: moves/absorb.md

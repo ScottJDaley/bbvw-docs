@@ -102,6 +102,15 @@
 *This often debated Pokémon can sometimes be found in the warmer seas of the Unova region. It has gained more strength, but is still weaker than its fully grown counterpart.*
 
 ## Items
+### General
+| Item |
+| --- |
+| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
+| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![TM06 Toxic](../img/items/tm-poison.png) [TM06 Toxic](../items/tm06.md) |
+
 ## Trainers
 ### Fisherman Lydon
 | Sprite | Pokemon | Level | Ability | Item | Moves |

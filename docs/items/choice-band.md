@@ -1,4 +1,4 @@
-# ![icon](../img/items/choice-band.png) Choice band
+# ![icon](../img/items/choice-band.png) Choice Band
 
 **Category:** Choice
 
@@ -6,7 +6,8 @@
 Held: Increases Attack by 50%, but restricts the holder to only one move.
 
 ## Locations
-| Route | Type |
-| --- | --- |
-| [Route 14](../routes/route-14.md) | General |
+| Route | Type | Info |
+| --- | --- | --- |
+| [Route 14](../routes/route-14.md) | General |  |
+| [Shop](../routes/shop.md) | General |  |
 

@@ -131,12 +131,18 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![TM53 Energy Ball](../img/items/tm-grass.png) [TM53 Energy Ball](../items/tm53.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
-| ![Dusk Stone * 6](../img/items/dusk-stone.png) [Dusk Stone * 6](../items/dusk-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Shiny Stone (NPC)</span> |
-| ![Starf Berry * 3](../img/items/starf-berry.png) Starf Berry * 3 | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
-| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone</span> |
+| Item |
+| --- |
+| ![TM53 Energy Ball](../img/items/tm-grass.png) [TM53 Energy Ball](../items/tm53.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Dusk Stone * 6](../img/items/dusk-stone.png) [Dusk Stone * 6](../items/dusk-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Shiny Stone (NPC)</span> |
+| ![Starf Berry * 3](../img/items/starf-berry.png) Starf Berry * 3 <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
+| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone</span> |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Silk Scarf](../img/items/silk-scarf.png) [Silk Scarf](../items/silk-scarf.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![TM84 Poison Jab](../img/items/tm-poison.png) [TM84 Poison Jab](../items/tm84.md) |
 
 ## Trainers
 ### Scientist William

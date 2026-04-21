@@ -46,12 +46,27 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![Cover Fossil](../img/items/cover-fossil.png) [Cover Fossil](../items/cover-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
-| ![Plume Fossil](../img/items/plume-fossil.png) [Plume Fossil](../items/plume-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
-| ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Burn Heal</span> |
-| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Accuarcy</span> |
+| Item |
+| --- |
+| ![Cover Fossil](../img/items/cover-fossil.png) [Cover Fossil](../items/cover-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![Plume Fossil](../img/items/plume-fossil.png) [Plume Fossil](../items/plume-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+| ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Burn Heal</span> |
+| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Accuarcy</span> |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![X Accuracy](../img/items/x-accuracy.png) [X Accuracy](../items/x-accuracy.md) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![TM28 Dig](../img/items/tm-ground.png) [TM28 Dig](../items/tm28.md) |
+| ![TM41 Torment](../img/items/tm-dark.png) [TM41 Torment](../items/tm41.md) |
+
+### Shop
+| Item |
+| --- |
+| ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
 
 ## Trainers
 ### Rival Bianca – 1

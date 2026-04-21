@@ -1,4 +1,4 @@
-# ![icon](../img/items/good-rod.png) Good rod
+# ![icon](../img/items/good-rod.png) Good Rod
 
 **Category:** Gameplay
 

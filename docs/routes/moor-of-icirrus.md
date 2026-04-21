@@ -49,10 +49,17 @@
 
 ## Items
 ### General
-| Item | Original |
-| --- | --- |
-| ![TM79 Frost Breath](../img/items/tm-ice.png) [TM79 Frost Breath](../items/tm79.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Carbos</span> |
-| ![TM34 Sludge Wave](../img/items/tm-poison.png) [TM34 Sludge Wave](../items/tm34.md) | <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball</span> |
+| Item |
+| --- |
+| ![TM79 Frost Breath](../img/items/tm-ice.png) [TM79 Frost Breath](../items/tm79.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Carbos</span> |
+| ![TM34 Sludge Wave](../img/items/tm-poison.png) [TM34 Sludge Wave](../items/tm34.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball</span> |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
 
 ## Trainers
 ### PKMN Ranger Harry
