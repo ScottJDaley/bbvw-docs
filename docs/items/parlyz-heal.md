@@ -14,7 +14,7 @@ A spray-type medicine. It eliminates paralysis from a single Pokémon.
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
-| [Dreamyard](../routes/dreamyard.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dreamyard</span>](../routes/dreamyard.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
@@ -23,7 +23,7 @@ A spray-type medicine. It eliminates paralysis from a single Pokémon.
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |

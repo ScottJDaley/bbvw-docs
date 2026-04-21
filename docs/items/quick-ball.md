@@ -8,8 +8,8 @@ A somewhat different Poké Ball that provides a better catch rate if it is used 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Castelia City](../routes/castelia-city.md) | General |  |
-| [Castelia City](../routes/castelia-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 9](../routes/route-9.md) | Shop |  |

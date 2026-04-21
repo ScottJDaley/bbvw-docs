@@ -8,9 +8,9 @@ A somewhat different Ball that becomes progressively better the more turns there
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Castelia City](../routes/castelia-city.md) | General |  |
-| [Castelia City](../routes/castelia-city.md) | General |  |
-| [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Challenger's Cave</span>](../routes/challengers-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |

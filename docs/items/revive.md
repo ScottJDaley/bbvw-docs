@@ -13,7 +13,7 @@ Revives with half HP.
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | General |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
-| [Celestial Tower](../routes/celestial-tower.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Celestial Tower</span>](../routes/celestial-tower.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
@@ -30,7 +30,7 @@ Revives with half HP.
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
-| [Relic Castle](../routes/relic-castle.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Relic Castle</span>](../routes/relic-castle.md) | General |  |
 | [Route 12](../routes/route-12.md) | General |  |
 | [Route 5](../routes/route-5.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |

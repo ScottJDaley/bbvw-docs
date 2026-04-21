@@ -9,6 +9,6 @@ Traded on a Feebas: Holder evolves into Milotic.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Route 13](../routes/route-13.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 13</span>](../routes/route-13.md) | General |  |
 | [Undella Town](../routes/undella-town.md) | General |  |
 

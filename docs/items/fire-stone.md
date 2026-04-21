@@ -10,11 +10,11 @@ Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisea
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | General |  |
-| [Castelia City](../routes/castelia-city.md) | General | Answer Pansear |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General | Answer Pansear |
 | [Challenger's Cave](../routes/challengers-cave.md) | General | Dustcloud |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General | Dustcloud |
 | [Desert Resort](../routes/desert-resort.md) | General |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General | Dustcloud |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General | Dustcloud |
 | [Twist Mountain](../routes/twist-mountain.md) | General | Dustcloud |

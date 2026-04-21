@@ -8,8 +8,8 @@ A very sweet drink. It restores the HP of one Pokémon by 80 points.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Castelia City](../routes/castelia-city.md) | General |  |
-| [Castelia City](../routes/castelia-city.md) | PokéMart |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | PokéMart |  |
 | [Cold Storage](../routes/cold-storage.md) | Shop |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
 | [Liberty Island](../routes/liberty-island.md) | Shop |  |

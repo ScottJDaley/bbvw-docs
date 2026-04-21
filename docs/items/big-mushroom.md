@@ -12,7 +12,7 @@ Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédoll
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |
 | [Icirrus City](../routes/icirrus-city.md) | General | Winter Only |
-| [Lostlorn Forest](../routes/lostlorn-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lostlorn Forest</span>](../routes/lostlorn-forest.md) | General |  |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | General |  |
 | [Route 1](../routes/route-1.md) | General |  |
 | [Route 12](../routes/route-12.md) | General |  |

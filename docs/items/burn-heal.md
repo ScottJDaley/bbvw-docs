@@ -19,8 +19,8 @@ Cures a burn.
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
-| [Route 4](../routes/route-4.md) | General |  |
-| [Route 4](../routes/route-4.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |

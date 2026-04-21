@@ -14,7 +14,7 @@ A peculiar stone that makes certain species of Pokémon evolve. It is as black a
 | [Giant Chasm](../routes/giant-chasm.md) | General | Dustcloud |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General | Dustcloud |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General | From Lenora |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General | From Lenora |
 | [Twist Mountain](../routes/twist-mountain.md) | General |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General | Dustcloud |
 | [Victory Road](../routes/victory-road.md) | General | Dustcloud |

@@ -12,7 +12,7 @@ Restores 50 HP.
 | [Castelia City](../routes/castelia-city.md) | General |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
 | [Cold Storage](../routes/cold-storage.md) | Shop |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | General | In Gym Entrance |
 | [Icirrus City](../routes/icirrus-city.md) | General |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |

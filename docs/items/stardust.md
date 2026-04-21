@@ -9,8 +9,8 @@ Lovely, red-colored sand with a loose, silky feel. It can be sold at a high pric
 | Route | Type | Info |
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
 | [Route 13](../routes/route-13.md) | General |  |

@@ -9,6 +9,6 @@ Held: Increases EXP earned in battle by 50%.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General | From Professor Juniper |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Chargestone Cave</span>](../routes/chargestone-cave.md) | General | From Professor Juniper |
 | [Route 13](../routes/route-13.md) | General |  |
 

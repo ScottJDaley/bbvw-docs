@@ -9,7 +9,7 @@ A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high 
 | Route | Type | Info |
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
-| [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Challenger's Cave</span>](../routes/challengers-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General | Winter Only |
 | [Moor of Icirrus](../routes/moor-of-icirrus.md) | General |  |

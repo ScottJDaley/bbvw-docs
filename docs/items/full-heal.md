@@ -22,7 +22,7 @@ Cures any status ailment and confusion.
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 10](../routes/route-10.md) | General |  |
 | [Route 12](../routes/route-12.md) | General |  |
-| [Route 3](../routes/route-3.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 3</span>](../routes/route-3.md) | General |  |
 | [Route 8](../routes/route-8.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | General |  |

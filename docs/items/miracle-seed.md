@@ -10,5 +10,5 @@ An item to be held by a Pokémon. It is a seed imbued with life that ups the pow
 | --- | --- | --- |
 | [Nacrene City](../routes/nacrene-city.md) | General | If you answer Snivy |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 

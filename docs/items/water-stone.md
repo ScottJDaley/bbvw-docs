@@ -10,11 +10,11 @@ Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour,
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | General |  |
-| [Castelia City](../routes/castelia-city.md) | General | Answer Panpour |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General | Answer Panpour |
 | [Challenger's Cave](../routes/challengers-cave.md) | General | Dustcloud |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General | Dustcloud |
 | [Driftveil City](../routes/driftveil-city.md) | General |  |
-| [Driftveil City](../routes/driftveil-city.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Driftveil City</span>](../routes/driftveil-city.md) | General |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General | Dustcloud |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General | Dustcloud |
 | [Twist Mountain](../routes/twist-mountain.md) | General | Dustcloud |

@@ -19,12 +19,12 @@ Tries to catch a wild Pokémon.  Success rate is 1.5×.
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 2](../routes/route-2.md) | General |  |
 | [Route 3](../routes/route-3.md) | General |  |
-| [Route 4](../routes/route-4.md) | General |  |
-| [Route 5](../routes/route-5.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 5</span>](../routes/route-5.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | General |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |

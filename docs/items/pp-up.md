@@ -1,4 +1,4 @@
-# ![icon](../img/items/pp-up.png) Pp Up
+# ![icon](../img/items/pp-up.png) PP Up
 
 **Category:** Misc
 
@@ -9,7 +9,7 @@ It slightly raises the maximum PP of a selected move that has been learned by th
 | Route | Type | Info |
 | --- | --- | --- |
 | [Anville Town](../routes/anville-town.md) | General |  |
-| [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Challenger's Cave</span>](../routes/challengers-cave.md) | General |  |
 | [Cold Storage](../routes/cold-storage.md) | General |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |

@@ -11,7 +11,7 @@ For 100 steps, prevents wild encounters of level lower than your party’s lead 
 | [Accumula Town](../routes/accumula-town.md) | PokéMart |  |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
-| [Dreamyard](../routes/dreamyard.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dreamyard</span>](../routes/dreamyard.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |

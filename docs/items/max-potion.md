@@ -25,7 +25,7 @@ Restores HP to full.
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
-| [Relic Castle](../routes/relic-castle.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Relic Castle</span>](../routes/relic-castle.md) | General |  |
 | [Route 10](../routes/route-10.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |

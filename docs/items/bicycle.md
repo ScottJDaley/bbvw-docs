@@ -8,6 +8,6 @@ Use for fast transit.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Nimbasa City](../routes/nimbasa-city.md) | General | From Bike Shop Owner |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Nimbasa City</span>](../routes/nimbasa-city.md) | General | From Bike Shop Owner |
 | [Nuvema Town](../routes/nuvema-town.md) | General |  |
 

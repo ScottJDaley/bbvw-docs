@@ -11,7 +11,7 @@ Restores 50 HP.
 | [Accumula Town](../routes/accumula-town.md) | PokéMart |  |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
@@ -19,9 +19,9 @@ Restores 50 HP.
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Relic Castle](../routes/relic-castle.md) | General |  |
 | [Route 2](../routes/route-2.md) | General |  |

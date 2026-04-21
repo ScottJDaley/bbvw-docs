@@ -11,7 +11,7 @@ Raises Speed effort and happiness.
 | [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Moor of Icirrus</span>](../routes/moor-of-icirrus.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Victory Road](../routes/victory-road.md) | General |  |
 

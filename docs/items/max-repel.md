@@ -15,7 +15,7 @@ For 250 steps, prevents wild encounters of level lower than your party’s lead 
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | General |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
-| [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Mistralton Cave</span>](../routes/mistralton-cave.md) | General |  |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |

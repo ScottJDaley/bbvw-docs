@@ -9,6 +9,6 @@ Level-up during Day on a Happiny: Holder evolves into Chansey.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
-| [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Challenger's Cave</span>](../routes/challengers-cave.md) | General |  |
 | [Route 2](../routes/route-2.md) | General |  |
 

@@ -9,7 +9,7 @@ Raises Special Defense and happiness.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Gear Station](../routes/gear-station.md) | Shop |  |
-| [Route 5](../routes/route-5.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 5</span>](../routes/route-5.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | General |  |
 

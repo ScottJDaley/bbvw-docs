@@ -21,7 +21,7 @@ Causes a level-up and raises happiness.
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
 | [Route 13](../routes/route-13.md) | General |  |
-| [Route 16](../routes/route-16.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 16</span>](../routes/route-16.md) | General |  |
 | [Route 2](../routes/route-2.md) | General |  |
 | [Route 3](../routes/route-3.md) | General |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General |  |

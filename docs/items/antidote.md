@@ -19,9 +19,9 @@ Cures poison.
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
-| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
+| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 3](../routes/route-3.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
