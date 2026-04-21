@@ -1,6 +1,6 @@
 # ![icon](../img/items/relic-copper.png) Relic Copper
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A bronze coin that was used by an ancient civilization some 3000 years ago. Enthusiasts will buy them for high prices.

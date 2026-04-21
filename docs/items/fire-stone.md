@@ -1,6 +1,6 @@
 # ![icon](../img/items/fire-stone.png) Fire Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.

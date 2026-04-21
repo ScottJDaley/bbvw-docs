@@ -1,6 +1,6 @@
 # ![icon](../img/items/binding-band.png) Binding Band
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Doubles the per-turn damage of multi-turn trapping moves.

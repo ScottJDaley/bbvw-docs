@@ -1,6 +1,6 @@
 # ![icon](../img/items/muscle-band.png) Muscle Band
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Boosts the damage of physical moves used by the holder by 10%.

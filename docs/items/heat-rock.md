@@ -1,6 +1,6 @@
 # ![icon](../img/items/heat-rock.png) Heat Rock
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that extends the duration of the move Sunny Day used by the holder.

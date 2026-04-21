@@ -1,6 +1,6 @@
 # ![icon](../img/items/poison-gem.png) Poison Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Poison-type jewel. It will strengthen the power of a Poison-type move one time if held.

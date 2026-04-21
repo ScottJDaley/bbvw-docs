@@ -1,4 +1,4 @@
-# Quick feet
+# Quick Feet
 
 ## Description
 Increases Speed to 1.5× with a major status ailment.

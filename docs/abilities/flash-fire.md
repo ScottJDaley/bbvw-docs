@@ -1,4 +1,4 @@
-# Flash fire
+# Flash Fire
 
 ## Description
 Protects against fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.

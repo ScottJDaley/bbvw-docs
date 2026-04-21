@@ -1,4 +1,4 @@
-# Shell armor
+# Shell Armor
 
 ## Description
 Protects against critical hits.

@@ -1,4 +1,4 @@
-# Heavy metal
+# Heavy Metal
 
 ## Description
 Doubles the Pokémon's weight.

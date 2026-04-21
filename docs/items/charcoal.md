@@ -1,6 +1,6 @@
 # ![icon](../img/items/charcoal.png) Charcoal
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.

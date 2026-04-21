@@ -1,6 +1,6 @@
 # ![icon](../img/items/oval-stone.png) Oval Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Level-up during Day on a Happiny: Holder evolves into Chansey.

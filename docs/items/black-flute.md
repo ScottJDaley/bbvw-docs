@@ -1,6 +1,6 @@
 # ![icon](../img/items/black-flute.png) Black Flute
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.

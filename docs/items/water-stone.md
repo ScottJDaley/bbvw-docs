@@ -1,6 +1,6 @@
 # ![icon](../img/items/water-stone.png) Water Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie.

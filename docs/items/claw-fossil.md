@@ -1,6 +1,6 @@
 # ![icon](../img/items/claw-fossil.png) Claw Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into an Anorith.

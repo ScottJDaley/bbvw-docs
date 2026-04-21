@@ -1,6 +1,6 @@
 # ![icon](../img/items/old-amber.png) Old Amber
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into an Aerodactyl.

@@ -1,4 +1,4 @@
-# Early bird
+# Early Bird
 
 ## Description
 Makes sleep pass twice as quickly.

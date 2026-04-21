@@ -1,4 +1,4 @@
-# Water absorb
+# Water Absorb
 
 ## Description
 Absorbs water moves, healing for 1/4 max HP.

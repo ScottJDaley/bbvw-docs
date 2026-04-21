@@ -1,6 +1,6 @@
 # ![icon](../img/items/soothe-bell.png) Soothe Bell
 
-**Category:** Training
+**Category:** Hold
 
 ## Description
 Held: Doubles the happiness earned by the holder.

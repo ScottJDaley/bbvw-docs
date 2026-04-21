@@ -51,7 +51,7 @@
 | Item |
 | --- |
 | ![Reaper Cloth](../img/items/reaper-cloth.png) [Reaper Cloth](../items/reaper-cloth.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Revive</span> |
-| ![TM19 Telekenesis](../img/items/tm-normal.png) [TM19 Telekenesis](../items/tm19.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
+| ![TM19 Telekenesis](../img/items/tm-psychic.png) [TM19 Telekenesis](../items/tm19.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
 | ![Spell Tag](../img/items/spell-tag.png) [Spell Tag](../items/spell-tag.md) |
 | ![TM61 Will-o-wisp](../img/items/tm-fire.png) [TM61 Will-o-wisp](../items/tm61.md) |
 | ![TM65 Shadow Claw](../img/items/tm-ghost.png) [TM65 Shadow Claw](../items/tm65.md) |

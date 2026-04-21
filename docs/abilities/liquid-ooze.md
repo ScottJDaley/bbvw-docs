@@ -1,4 +1,4 @@
-# Liquid ooze
+# Liquid Ooze
 
 ## Description
 Damages opponents using leeching moves for as much as they would heal.

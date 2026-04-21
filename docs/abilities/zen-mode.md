@@ -1,4 +1,4 @@
-# Zen mode
+# Zen Mode
 
 ## Description
 Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/air-balloon.png) Air Balloon
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.

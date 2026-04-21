@@ -1,6 +1,6 @@
 # ![icon](../img/items/black-belt.png) Black Belt
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.

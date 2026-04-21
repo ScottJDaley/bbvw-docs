@@ -1,6 +1,6 @@
 # ![icon](../img/items/iron-plate.png) Iron Plate
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.

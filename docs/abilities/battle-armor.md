@@ -1,4 +1,4 @@
-# Battle armor
+# Battle Armor
 
 ## Description
 Protects against critical hits.

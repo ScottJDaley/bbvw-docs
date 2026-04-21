@@ -1,6 +1,6 @@
 # ![icon](../img/items/electric-gem.png) Electric Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An Electric-type jewel. It will strengthen the power of an Electric-type move one time if held.

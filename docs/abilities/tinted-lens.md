@@ -1,4 +1,4 @@
-# Tinted lens
+# Tinted Lens
 
 ## Description
 Doubles damage inflicted with not-very-effective moves.

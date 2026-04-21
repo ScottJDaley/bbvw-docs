@@ -1,4 +1,4 @@
-# Poison touch
+# Poison Touch
 
 ## Description
 Has a 30% chance of poisoning target Pokémon upon contact.

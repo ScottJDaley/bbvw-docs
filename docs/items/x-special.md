@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) X Special
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

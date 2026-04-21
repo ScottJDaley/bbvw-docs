@@ -1,4 +1,4 @@
-# Mold breaker
+# Mold Breaker
 
 ## Description
 Bypasses targets' abilities if they could hinder or prevent a move.

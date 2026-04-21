@@ -1,4 +1,4 @@
-# Lightning rod
+# Lightning Rod
 
 ## Description
 Redirects single-target electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage.

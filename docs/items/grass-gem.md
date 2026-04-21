@@ -1,6 +1,6 @@
 # ![icon](../img/items/grass-gem.png) Grass Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Grass-type jewel. It will strengthen the power of a Grass-type move one time if held.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/miracle-seed.png) Miracle Seed
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.

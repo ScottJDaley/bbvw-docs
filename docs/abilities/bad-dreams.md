@@ -1,4 +1,4 @@
-# Bad dreams
+# Bad Dreams
 
 ## Description
 Damages sleeping opponents for 1/8 their max HP after each turn.

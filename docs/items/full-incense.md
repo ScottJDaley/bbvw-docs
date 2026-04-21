@@ -1,6 +1,6 @@
 # ![icon](../img/items/full-incense.png) Full Incense
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving.

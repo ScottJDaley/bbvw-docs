@@ -1,6 +1,6 @@
 # ![icon](../img/items/pal-pad.png) Pal Pad
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 A convenient notepad that is used for registering your friends, Friend Codes, and keeping a record of game play.

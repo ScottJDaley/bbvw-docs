@@ -1,4 +1,4 @@
-# Compound eyes
+# Compound Eyes
 
 ## Description
 Increases moves' accuracy to 1.3×.

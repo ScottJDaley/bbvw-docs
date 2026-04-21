@@ -1,4 +1,4 @@
-# Serene grace
+# Serene Grace
 
 ## Description
 Doubles the chance of moves' extra effects occurring.

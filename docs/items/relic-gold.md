@@ -1,6 +1,6 @@
 # ![icon](../img/items/relic-gold.png) Relic Gold
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A gold coin that was used by an ancient civilization some 3000 years ago. Enthusiasts will buy them for high prices.

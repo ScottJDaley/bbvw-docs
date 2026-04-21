@@ -1,4 +1,4 @@
-# Sand stream
+# Sand Stream
 
 ## Description
 Summons a sandstorm that lasts indefinitely upon entering battle.

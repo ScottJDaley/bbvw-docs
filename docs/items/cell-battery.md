@@ -1,6 +1,6 @@
 # ![icon](../img/items/cell-battery.png) Cell Battery
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A disposable rechargeable battery. If it is held, when the Pokemon receives an Electric-type attack its Attack rises.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/root-fossil.png) Root Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into a Lileep.

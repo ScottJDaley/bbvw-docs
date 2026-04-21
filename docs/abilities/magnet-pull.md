@@ -1,4 +1,4 @@
-# Magnet pull
+# Magnet Pull
 
 ## Description
 Prevents steel opponents from fleeing or switching out.

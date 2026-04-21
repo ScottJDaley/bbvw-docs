@@ -1,6 +1,6 @@
 # ![icon](../img/items/repeat-ball.png) Repeat Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.

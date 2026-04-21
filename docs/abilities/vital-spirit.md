@@ -1,4 +1,4 @@
-# Vital spirit
+# Vital Spirit
 
 ## Description
 Prevents sleep.

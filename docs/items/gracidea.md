@@ -1,6 +1,6 @@
 # ![icon](../img/items/gracidea.png) Gracidea
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.

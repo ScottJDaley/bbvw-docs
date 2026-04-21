@@ -1,6 +1,6 @@
 # ![icon](../img/items/great-ball.png) Great Ball
 
-**Category:** Standard-balls
+**Category:** Miscellaneous
 
 ## Description
 Tries to catch a wild Pokémon.  Success rate is 1.5×.

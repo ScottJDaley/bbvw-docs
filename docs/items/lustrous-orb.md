@@ -1,6 +1,6 @@
 # ![icon](../img/items/lustrous-orb.png) Lustrous Orb
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A beautifully glowing orb to be held by PALKIA. It boosts the power of Dragon- and Water-type moves.

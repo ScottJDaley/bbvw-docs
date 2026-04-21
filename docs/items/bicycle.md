@@ -1,6 +1,6 @@
 # ![icon](../img/items/bicycle.png) Bicycle
 
-**Category:** Gameplay
+**Category:** Key
 
 ## Description
 Use for fast transit.

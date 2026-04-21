@@ -1,6 +1,6 @@
 # ![icon](../img/items/griseous-orb.png) Griseous Orb
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A glowing orb to be held by GIRATINA. It boosts the power of Dragon- and Ghost-type moves.

@@ -1,4 +1,4 @@
-# Toxic boost
+# Toxic Boost
 
 ## Description
 Increases Attack to 1.5× when poisoned.

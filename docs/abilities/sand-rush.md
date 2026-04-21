@@ -1,4 +1,4 @@
-# Sand rush
+# Sand Rush
 
 ## Description
 Doubles Speed during a sandstorm.  Protects against sandstorm damage.

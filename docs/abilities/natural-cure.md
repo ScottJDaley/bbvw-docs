@@ -1,4 +1,4 @@
-# Natural cure
+# Natural Cure
 
 ## Description
 Cures any major status ailment upon switching out.

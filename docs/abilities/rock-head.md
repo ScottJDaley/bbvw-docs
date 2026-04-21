@@ -1,4 +1,4 @@
-# Rock head
+# Rock Head
 
 ## Description
 Protects against recoil damage.

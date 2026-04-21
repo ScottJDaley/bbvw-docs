@@ -1,6 +1,6 @@
 # ![icon](../img/items/fighting-gem.png) Fighting Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Fighting-type jewel. It will strengthen the power of a Fighting-type move one time if held.

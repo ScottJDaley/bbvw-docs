@@ -1,6 +1,6 @@
 # ![icon](../img/items/pretty-wing.png) Pretty Wing
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A very ordinary Wing that is just beautiful without effect.

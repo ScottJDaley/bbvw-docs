@@ -1,4 +1,4 @@
-# Hyper cutter
+# Hyper Cutter
 
 ## Description
 Prevents Attack from being lowered by other Pokémon.

@@ -1,4 +1,4 @@
-# Own tempo
+# Own Tempo
 
 ## Description
 Prevents confusion.

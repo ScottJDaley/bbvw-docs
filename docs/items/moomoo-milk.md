@@ -1,6 +1,6 @@
 # ![icon](../img/items/moomoo-milk.png) Moomoo Milk
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.

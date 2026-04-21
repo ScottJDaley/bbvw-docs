@@ -1,6 +1,6 @@
 # ![icon](../img/items/douse-drive.png) Douse Drive
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Cassette that makes the move called Techno Buster become Water-type if held by Genesect.

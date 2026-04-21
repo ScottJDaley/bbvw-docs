@@ -1,6 +1,6 @@
 # ![icon](../img/items/leaf-stone.png) Leaf Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel.

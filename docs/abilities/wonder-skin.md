@@ -1,4 +1,4 @@
-# Wonder skin
+# Wonder Skin
 
 ## Description
 Lowers incoming non-damaging moves' base accuracy to exactly 50%.

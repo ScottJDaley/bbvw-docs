@@ -1,6 +1,6 @@
 # ![icon](../img/items/thick-club.png) Thick Club
 
-**Category:** Species-specific
+**Category:** Hold
 
 ## Description
 Doubles Cubone or Marowak’s Attack.

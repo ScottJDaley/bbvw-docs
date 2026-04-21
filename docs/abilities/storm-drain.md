@@ -1,4 +1,4 @@
-# Storm drain
+# Storm Drain
 
 ## Description
 Redirects single-target water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage.

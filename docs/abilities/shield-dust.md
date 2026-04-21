@@ -1,4 +1,4 @@
-# Shield dust
+# Shield Dust
 
 ## Description
 Protects against incoming moves' extra effects.

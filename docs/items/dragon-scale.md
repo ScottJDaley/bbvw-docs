@@ -1,6 +1,6 @@
 # ![icon](../img/items/dragon-scale.png) Dragon Scale
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Traded on a Seadra: Holder evolves into Kingdra.

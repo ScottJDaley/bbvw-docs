@@ -1,4 +1,4 @@
-# Big pecks
+# Big Pecks
 
 ## Description
 Protects against Defense drops.

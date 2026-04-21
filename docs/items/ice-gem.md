@@ -1,6 +1,6 @@
 # ![icon](../img/items/ice-gem.png) Ice Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An Ice-type jewel. It will strengthen the power of an Ice-type move one time if held.

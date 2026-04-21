@@ -1,6 +1,6 @@
 # ![icon](../img/items/moon-stone.png) Moon Stone
 
-**Category:** Misc
+**Category:** Evolutionary
 
 ## Description
 A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.

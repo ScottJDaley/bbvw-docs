@@ -1,6 +1,6 @@
 # ![icon](../img/items/damp-rock.png) Damp Rock
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that extends the duration of the move Rain Dance used by the holder.

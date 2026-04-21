@@ -1,6 +1,6 @@
 # ![icon](../img/items/red-flute.png) Red Flute
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.

@@ -132,7 +132,6 @@ def load_data():
                         "category": idata["category"]
                     }
                 else:
-                    # Update category to match Serebii's better ones
                     base["items"][inorm]["category"] = idata["category"]
             base["location_items_serebii"] = serebii["route_items"]
     return base, rom
@@ -140,13 +139,11 @@ def load_data():
 def get_item_icon(name, move_data, base_path="../"):
     norm = normalize_item_name(name)
     if norm.startswith('tm') or norm.startswith('hm'):
-        # Check if the name includes the move name like "TM54 False Swipe"
         m_match = re.search(r'(?:TM|HM)\d+\s+(.*)', name, re.IGNORECASE)
         if m_match:
             m_name = normalize_name(m_match.group(1))
             m_info = move_data.get(m_name)
             if m_info: return f"{base_path}img/items/tm-{m_info['type']}.png"
-        # Fallback to searching move_data by tm_num
         tm_num = norm.upper()
         for m_info in move_data.values():
             if m_info.get('tm_num') == tm_num:
@@ -332,7 +329,6 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         if bn in explicit_removed:
             am.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'})
             processed_base_names.add(bn); continue
-        # If this move is already in am (from a non-REMOVED change), don't add the base one
         if any(normalize_name(rm['name']) == bn for rm in am if rm.get('marker') != 'REMOVED'):
             processed_base_names.add(bn); continue
         if level_shifts and base_idx_for_shift < len(level_shifts) and bm['level'] >= 60:
@@ -355,9 +351,11 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         if not ml: return ""
         res = f"\n## {title}\n| No. | Move | Type | Cat | Power | Acc | PP |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n"
         ml.sort(key=lambda x: x['name'])
+        processed = set()
         for m in ml:
             mn = m['name']; mnn = normalize_name(mn)
-            if not mnn: continue
+            if not mnn or mnn in processed: continue
+            processed.add(mnn)
             rw = get_move_display(mn, move_data, rom_data['move_stat_changes'], show_tm=True)
             if m.get('rom_new'): rp = rw.split('|'); rp[1] = rp[1] + ' <span class="pill pill-new">NEW</span>'; rw = "|".join(rp)
             res += rw + "\n"
@@ -409,7 +407,6 @@ def generate_item_page(norm_name, info, route_locations, pkmn_with_item, move_da
     
     md = f"# ![icon]({icon}) {display_name}\n\n**Category:** {info.get('category', 'Misc').capitalize()}\n\n"
     
-    # Link to move if it's a TM/HM
     tm_match = re.match(r'^(?:TM|HM)(\d+)', display_name, re.IGNORECASE)
     if tm_match:
         move_part = display_name.split(' ', 1)[1] if ' ' in display_name else ""
@@ -489,13 +486,10 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
     for sub in all_subareas:
         md += f"### {sub}\n| Item |\n| --- |\n"
         sub_rom = rom_loc_items.get(sub, []); sub_base = route_base_items.get(sub, [])
-        
         processed_base_indices = set()
         for change in sub_rom:
             old_name = change['old']; old_norm = normalize_item_name(old_name)
             item_link = get_item_display_linked(change['new'], base_data)
-            
-            # Prioritize non-hidden for replacement
             found_idx = -1
             for idx, b in enumerate(sub_base):
                 if idx not in processed_base_indices and normalize_item_name(b['name']) == old_norm and b['method'] != "Hidden":
@@ -504,13 +498,11 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
                 for idx, b in enumerate(sub_base):
                     if idx not in processed_base_indices and normalize_item_name(b['name']) == old_norm:
                         found_idx = idx; break
-            
             if found_idx != -1:
                 processed_base_indices.add(found_idx); b = sub_base[found_idx]
                 old_detail = f" ({b['detail']})" if b.get('detail') else ""
                 md += f"| {item_link} <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{old_name}{old_detail}</span> |\n"
-            else:
-                md += f"| {item_link} |\n"
+            else: md += f"| {item_link} |\n"
         for idx, b in enumerate(sub_base):
             if idx not in processed_base_indices:
                 detail_text = f" ({b['detail']})" if b.get('detail') else ""
@@ -667,7 +659,6 @@ if __name__ == "__main__":
         for inorm in sorted(inorms):
             ii = base_data['items'][inorm]; idisp = get_item_display_name(inorm, base_data)
             icon = get_item_icon(idisp, base_data['moves']); locs = item_route_locs.get(inorm, [])
-            # Filter out removed locations for the category summary
             active_locs = [l for l in locs if not l[3]]
             loc_links = []
             for l in active_locs:

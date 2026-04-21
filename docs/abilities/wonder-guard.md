@@ -1,4 +1,4 @@
-# Wonder guard
+# Wonder Guard
 
 ## Description
 Protects against damaging moves that are not super effective.

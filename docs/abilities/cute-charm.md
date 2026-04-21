@@ -1,4 +1,4 @@
-# Cute charm
+# Cute Charm
 
 ## Description
 Has a 30% chance of infatuating attacking Pokémon on contact.

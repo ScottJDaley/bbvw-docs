@@ -1,6 +1,6 @@
 # ![icon](../img/items/dragon-gem.png) Dragon Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Dragon-type jewel. It will strengthen the power of a Dragon-type move one time if held.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/like-mail.png) Like Mail
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s good to use when you recommend something. Given to a Pokemon to hold.

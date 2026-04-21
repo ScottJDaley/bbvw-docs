@@ -1,6 +1,6 @@
 # ![icon](../img/items/shiny-stone.png) Shiny Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss.

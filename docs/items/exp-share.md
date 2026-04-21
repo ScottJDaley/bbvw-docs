@@ -1,6 +1,6 @@
 # ![icon](../img/items/exp-share.png) Exp Share
 
-**Category:** Training
+**Category:** Hold
 
 ## Description
 Held: Half the experience from a battle is split between Pokémon holding this item.

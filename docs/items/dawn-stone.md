@@ -1,6 +1,6 @@
 # ![icon](../img/items/dawn-stone.png) Dawn Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.

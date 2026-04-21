@@ -1,4 +1,4 @@
-# Sand veil
+# Sand Veil
 
 ## Description
 Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage.

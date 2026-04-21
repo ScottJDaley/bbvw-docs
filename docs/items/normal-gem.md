@@ -1,6 +1,6 @@
 # ![icon](../img/items/normal-gem.png) Normal Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Normal-type jewel. It will strengthen the power of a Normal-type move one time if held.

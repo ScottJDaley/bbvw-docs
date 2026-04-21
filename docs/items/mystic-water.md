@@ -1,6 +1,6 @@
 # ![icon](../img/items/mystic-water.png) Mystic Water
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.

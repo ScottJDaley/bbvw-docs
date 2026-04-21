@@ -1,4 +1,4 @@
-# Suction cups
+# Suction Cups
 
 ## Description
 Prevents being forced out of battle by other Pokémon's moves.

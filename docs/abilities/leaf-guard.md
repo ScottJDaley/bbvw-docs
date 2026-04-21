@@ -1,4 +1,4 @@
-# Leaf guard
+# Leaf Guard
 
 ## Description
 Protects against major status ailments during strong sunlight.

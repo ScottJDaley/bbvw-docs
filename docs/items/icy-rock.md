@@ -1,6 +1,6 @@
 # ![icon](../img/items/icy-rock.png) Icy Rock
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that extends the duration of the move Hail used by the holder.

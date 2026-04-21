@@ -1,6 +1,6 @@
 # ![icon](../img/items/ground-gem.png) Ground Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Ground-type jewel. It will strengthen the power of a Ground-type move one time if held.

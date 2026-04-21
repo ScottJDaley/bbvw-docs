@@ -1,6 +1,6 @@
 # ![icon](../img/items/thanks-mail.png) Thanks Mail
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s good to use when you want to express thanks.

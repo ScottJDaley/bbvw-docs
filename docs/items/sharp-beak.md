@@ -1,6 +1,6 @@
 # ![icon](../img/items/sharp-beak.png) Sharp Beak
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/sea-incense.png) Sea Incense
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves.

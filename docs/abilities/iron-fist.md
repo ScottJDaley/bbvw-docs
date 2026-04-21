@@ -1,4 +1,4 @@
-# Iron fist
+# Iron Fist
 
 ## Description
 Strengthens punch-based moves to 1.2× their power.

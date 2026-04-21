@@ -1,6 +1,6 @@
 # ![icon](../img/items/gram-2.png) Gram 2
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 An important letter delivered by Wingull.

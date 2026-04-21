@@ -1,6 +1,6 @@
 # ![icon](../img/items/master-ball.png) Master Ball
 
-**Category:** Standard-balls
+**Category:** Miscellaneous
 
 ## Description
 Catches a wild Pokémon every time.

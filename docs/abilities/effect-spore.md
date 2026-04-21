@@ -1,4 +1,4 @@
-# Effect spore
+# Effect Spore
 
 ## Description
 Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.

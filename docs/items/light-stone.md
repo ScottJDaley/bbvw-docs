@@ -1,6 +1,6 @@
 # ![icon](../img/items/light-stone.png) Light Stone
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 The form of Reshiram's destroyed body. If a hero appears holding it, it will be restored.

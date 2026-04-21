@@ -1,6 +1,6 @@
 # ![icon](../img/items/luck-incense.png) Luck Incense
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/cover-fossil.png) Cover Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into a tirtouga.

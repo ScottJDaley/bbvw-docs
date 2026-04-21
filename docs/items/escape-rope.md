@@ -1,6 +1,6 @@
 # ![icon](../img/items/escape-rope.png) Escape Rope
 
-**Category:** Spelunking
+**Category:** Miscellaneous
 
 ## Description
 Transports user to the outside entrance of a cave.

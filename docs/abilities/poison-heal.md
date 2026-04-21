@@ -1,4 +1,4 @@
-# Poison heal
+# Poison Heal
 
 ## Description
 Heals for 1/8 max HP after each turn when poisoned in place of damage.

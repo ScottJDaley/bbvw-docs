@@ -1,4 +1,4 @@
-# Marvel scale
+# Marvel Scale
 
 ## Description
 Increases Defense to 1.5× with a major status ailment.

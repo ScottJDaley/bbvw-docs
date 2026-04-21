@@ -1,6 +1,6 @@
 # ![icon](../img/items/dire-hit.png) Dire Hit
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the critical-hit ratio of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

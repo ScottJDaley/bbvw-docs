@@ -1,4 +1,4 @@
-# Inner focus
+# Inner Focus
 
 ## Description
 Prevents flinching.

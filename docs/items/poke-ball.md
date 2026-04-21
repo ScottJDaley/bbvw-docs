@@ -1,6 +1,6 @@
 # ![icon](../img/items/poke-ball.png) Poké Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.

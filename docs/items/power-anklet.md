@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-anklet.png) Power Anklet
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.

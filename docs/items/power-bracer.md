@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-bracer.png) Power Bracer
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/x-accuracy.png) X Accuracy
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

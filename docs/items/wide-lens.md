@@ -1,6 +1,6 @@
 # ![icon](../img/items/wide-lens.png) Wide Lens
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Provides a 1/10 (10%) boost in accuracy to the holder.

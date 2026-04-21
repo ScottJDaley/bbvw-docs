@@ -1,6 +1,6 @@
 # ![icon](../img/items/quick-claw.png) Quick Claw
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/poke-doll.png) Poké Doll
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.

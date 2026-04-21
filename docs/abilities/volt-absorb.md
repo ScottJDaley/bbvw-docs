@@ -1,4 +1,4 @@
-# Volt absorb
+# Volt Absorb
 
 ## Description
 Absorbs electric moves, healing for 1/4 max HP.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/dusk-ball.png) Dusk Ball
 
-**Category:** Special-balls
+**Category:** Miscellaneous
 
 ## Description
 Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.

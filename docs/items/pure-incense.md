@@ -1,6 +1,6 @@
 # ![icon](../img/items/pure-incense.png) Pure Incense
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.

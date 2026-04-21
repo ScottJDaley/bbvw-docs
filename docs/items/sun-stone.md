@@ -1,6 +1,6 @@
 # ![icon](../img/items/sun-stone.png) Sun Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora.

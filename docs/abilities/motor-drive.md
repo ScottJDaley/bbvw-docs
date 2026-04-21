@@ -1,4 +1,4 @@
-# Motor drive
+# Motor Drive
 
 ## Description
 Absorbs electric moves, raising Speed one stage.

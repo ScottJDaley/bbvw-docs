@@ -1,6 +1,6 @@
 # ![icon](../img/items/shell-bell.png) Shell Bell
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.

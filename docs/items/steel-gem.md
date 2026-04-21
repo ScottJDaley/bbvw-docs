@@ -1,6 +1,6 @@
 # ![icon](../img/items/steel-gem.png) Steel Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Poison-type jewel. It will strengthen the power of a Steel-type move one time if held.

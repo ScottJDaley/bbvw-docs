@@ -1,6 +1,6 @@
 # ![icon](../img/items/rock-incense.png) Rock Incense
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/armor-fossil.png) Armor Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into a Shieldon.

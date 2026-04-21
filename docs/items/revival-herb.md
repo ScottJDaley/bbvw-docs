@@ -1,6 +1,6 @@
 # ![icon](../img/items/revival-herb.png) Revival Herb
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.

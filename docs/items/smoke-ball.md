@@ -1,6 +1,6 @@
 # ![icon](../img/items/smoke-ball.png) Smoke Ball
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.

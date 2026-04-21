@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) X Defend
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

@@ -1,4 +1,4 @@
-# Rain dish
+# Rain Dish
 
 ## Description
 Heals for 1/16 max HP after each turn during rain.

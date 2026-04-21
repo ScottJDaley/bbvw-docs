@@ -1,4 +1,4 @@
-# Magma armor
+# Magma Armor
 
 ## Description
 Prevents freezing.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/chill-drive.png) Chill Drive
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Cassette that makes the move called Techno Buster become Ice-type if held by Genesect.

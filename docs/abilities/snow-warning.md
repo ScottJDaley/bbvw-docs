@@ -1,4 +1,4 @@
-# Snow warning
+# Snow Warning
 
 ## Description
 Summons hail that lasts indefinitely upon entering battle.

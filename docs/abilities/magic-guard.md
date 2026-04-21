@@ -1,4 +1,4 @@
-# Magic guard
+# Magic Guard
 
 ## Description
 Protects against damage not directly caused by a move.

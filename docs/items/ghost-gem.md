@@ -1,6 +1,6 @@
 # ![icon](../img/items/ghost-gem.png) Ghost Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Ghost-type jewel. It will strengthen the power of a Ghost-type move one time if held.

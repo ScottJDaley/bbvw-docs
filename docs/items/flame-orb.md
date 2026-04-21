@@ -1,6 +1,6 @@
 # ![icon](../img/items/flame-orb.png) Flame Orb
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.

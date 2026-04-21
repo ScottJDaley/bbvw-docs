@@ -1,4 +1,4 @@
-# Water veil
+# Water Veil
 
 ## Description
 Prevents burns.

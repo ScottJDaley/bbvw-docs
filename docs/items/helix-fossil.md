@@ -1,6 +1,6 @@
 # ![icon](../img/items/helix-fossil.png) Helix Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into an Omanyte.

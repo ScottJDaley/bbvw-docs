@@ -1,6 +1,6 @@
 # ![icon](../img/items/relic-crown.png) Relic Crown
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A crown that was made by an ancient civilization some 3000 years ago. Enthusiasts will buy them for high prices.

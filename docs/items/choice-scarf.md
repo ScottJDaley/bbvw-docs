@@ -1,6 +1,6 @@
 # ![icon](../img/items/choice-scarf.png) Choice Scarf
 
-**Category:** Choice
+**Category:** Hold
 
 ## Description
 Held: Increases Speed by 50%, but restricts the holder to only one move.

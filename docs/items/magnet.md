@@ -1,6 +1,6 @@
 # ![icon](../img/items/magnet.png) Magnet
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.

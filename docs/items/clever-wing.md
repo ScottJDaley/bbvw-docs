@@ -1,6 +1,6 @@
 # ![icon](../img/items/clever-wing.png) Clever Wing
 
-**Category:** Misc
+**Category:** Evolutionary
 
 ## Description
 An item used by Pokémon. It raises the Special Defence EVs of one Pokemon a little.

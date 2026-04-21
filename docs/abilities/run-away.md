@@ -1,4 +1,4 @@
-# Run away
+# Run Away
 
 ## Description
 Ensures success fleeing from wild battles.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/hard-stone.png) Hard Stone
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.

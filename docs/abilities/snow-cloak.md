@@ -1,4 +1,4 @@
-# Snow cloak
+# Snow Cloak
 
 ## Description
 Increases evasion to 1.25× during hail.  Protects against hail damage.

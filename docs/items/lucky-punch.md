@@ -1,6 +1,6 @@
 # ![icon](../img/items/lucky-punch.png) Lucky Punch
 
-**Category:** Species-specific
+**Category:** Hold
 
 ## Description
 Raises Chansey’s critical hit ratio by two stages.

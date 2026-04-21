@@ -1,6 +1,6 @@
 # ![icon](../img/items/town-map.png) Town Map
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 A very convenient map that can be viewed anytime. It even shows your present location.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/heal-ball.png) Heal Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.

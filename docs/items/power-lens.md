@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-lens.png) Power Lens
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.

@@ -1,4 +1,4 @@
-# Flare boost
+# Flare Boost
 
 ## Description
 Increases Special Attack to 1.5× when burned.

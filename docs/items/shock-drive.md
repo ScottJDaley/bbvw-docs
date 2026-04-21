@@ -1,6 +1,6 @@
 # ![icon](../img/items/shock-drive.png) Shock Drive
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Cassette that makes the move called Techno Buster become Electric-type if held by Genesect.

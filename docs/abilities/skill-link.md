@@ -1,4 +1,4 @@
-# Skill link
+# Skill Link
 
 ## Description
 Extends two-to-five-hit moves and triple kick to their full length every time.

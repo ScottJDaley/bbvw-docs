@@ -1,6 +1,6 @@
 # ![icon](../img/items/dark-stone.png) Dark Stone
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 The form of Zekrom's destroyed body. If a hero appears holding it, it will be restored.

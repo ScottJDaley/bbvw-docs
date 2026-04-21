@@ -1,4 +1,4 @@
-# Tangled feet
+# Tangled Feet
 
 ## Description
 Doubles evasion when confused.

@@ -1,4 +1,4 @@
-# Clear body
+# Clear Body
 
 ## Description
 Prevents stats from being lowered by other Pokémon.

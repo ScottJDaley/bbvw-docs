@@ -1,6 +1,6 @@
 # ![icon](../img/items/metronome.png) Metronome
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/plume-fossil.png) Plume Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into an archen.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/wise-glasses.png) Wise Glasses
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Boosts the damage of special moves used by the holder by 1/10 (10%).

@@ -1,6 +1,6 @@
 # ![icon](../img/items/iron-ball.png) Iron Ball
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.

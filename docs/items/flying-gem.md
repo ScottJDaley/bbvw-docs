@@ -1,6 +1,6 @@
 # ![icon](../img/items/flying-gem.png) Flying Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Flying-type jewel. It will strengthen the power of a Flying-type move one time if held.

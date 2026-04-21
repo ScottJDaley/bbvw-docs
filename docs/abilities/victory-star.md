@@ -1,4 +1,4 @@
-# Victory star
+# Victory Star
 
 ## Description
 Increases moves' accuracy to 1.1× for friendly Pokémon.

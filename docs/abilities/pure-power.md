@@ -1,4 +1,4 @@
-# Pure power
+# Pure Power
 
 ## Description
 Doubles Attack in battle.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/up-grade.png) Up Grade
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Traded on a Porygon: Holder evolves into Porygon2.

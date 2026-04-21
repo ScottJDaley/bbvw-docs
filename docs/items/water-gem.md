@@ -1,6 +1,6 @@
 # ![icon](../img/items/water-gem.png) Water Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Water-type jewel. It will strengthen the power of a Water-type move one time if held.

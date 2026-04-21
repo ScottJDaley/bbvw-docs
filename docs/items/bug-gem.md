@@ -1,6 +1,6 @@
 # ![icon](../img/items/bug-gem.png) Bug Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Bug-type jewel. It will strengthen the power of a Bug-type move one time if held.

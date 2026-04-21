@@ -1,4 +1,4 @@
-# Cursed body
+# Cursed Body
 
 ## Description
 Has a 30% chance of Disabling any move that hits the Pokémon.

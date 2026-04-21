@@ -1,4 +1,4 @@
-# Solar power
+# Solar Power
 
 ## Description
 Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.

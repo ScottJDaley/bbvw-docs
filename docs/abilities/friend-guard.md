@@ -1,4 +1,4 @@
-# Friend guard
+# Friend Guard
 
 ## Description
 Decreases all direct damage taken by friendly Pokémon to 0.75×.

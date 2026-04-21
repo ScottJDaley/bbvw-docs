@@ -1,4 +1,4 @@
-# Slow start
+# Slow Start
 
 ## Description
 Halves Attack and Speed for five turns upon entering battle.

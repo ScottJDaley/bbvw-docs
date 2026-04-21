@@ -1,4 +1,4 @@
-# Arena trap
+# Arena Trap
 
 ## Description
 Prevents opponents from fleeing or switching out.  Eluded by flying-types and Pokémon in the air.

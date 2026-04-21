@@ -1,6 +1,6 @@
 # ![icon](../img/items/dragon-fang.png) Dragon Fang
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.

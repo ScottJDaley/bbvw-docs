@@ -1,6 +1,6 @@
 # ![icon](../img/items/fresh-water.png) Fresh Water
 
-**Category:** Healing
+**Category:** Recovery
 
 ## Description
 Restores 50 HP.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/rare-bone.png) Rare Bone
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.

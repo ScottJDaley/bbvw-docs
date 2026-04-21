@@ -1,6 +1,6 @@
 # ![icon](../img/items/psychic-gem.png) Psychic Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Psychic-type jewel. It will strengthen the power of a Pcyhcic-type move one time if held.

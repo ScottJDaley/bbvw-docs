@@ -1,6 +1,6 @@
 # ![icon](../img/items/grip-claw.png) Grip Claw
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Holder’s multi-turn trapping moves last 5 turns.

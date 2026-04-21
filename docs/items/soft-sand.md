@@ -1,6 +1,6 @@
 # ![icon](../img/items/soft-sand.png) Soft Sand
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.

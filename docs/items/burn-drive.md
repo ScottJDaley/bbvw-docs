@@ -1,6 +1,6 @@
 # ![icon](../img/items/burn-drive.png) Burn Drive
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Cassette that makes the move called Techno Buster become Fire-type if held by Genesect.

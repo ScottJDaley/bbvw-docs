@@ -1,4 +1,4 @@
-# Flame body
+# Flame Body
 
 ## Description
 Has a 30% chance of burning attacking Pokémon on contact.

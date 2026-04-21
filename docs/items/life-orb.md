@@ -1,6 +1,6 @@
 # ![icon](../img/items/life-orb.png) Life Orb
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.

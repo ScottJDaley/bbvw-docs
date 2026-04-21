@@ -1,6 +1,6 @@
 # ![icon](../img/items/everstone.png) Everstone
 
-**Category:** Training
+**Category:** Hold
 
 ## Description
 Held: Prevents level-based evolution from occuring.

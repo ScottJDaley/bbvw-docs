@@ -1,6 +1,6 @@
 # ![icon](../img/items/shoal-shell.png) Shoal Shell
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A pretty seashell that was found deep inside the Shoal Cave. It is striped in blue and white.

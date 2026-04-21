@@ -1,6 +1,6 @@
 # ![icon](../img/items/choice-band.png) Choice Band
 
-**Category:** Choice
+**Category:** Hold
 
 ## Description
 Held: Increases Attack by 50%, but restricts the holder to only one move.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/luxury-ball.png) Luxury Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/fire-gem.png) Fire Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Fire-type jewel. It will strengthen the power of a Fire-type move one time if held.

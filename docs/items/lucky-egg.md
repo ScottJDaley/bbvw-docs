@@ -1,6 +1,6 @@
 # ![icon](../img/items/lucky-egg.png) Lucky Egg
 
-**Category:** Training
+**Category:** Hold
 
 ## Description
 Held: Increases EXP earned in battle by 50%.

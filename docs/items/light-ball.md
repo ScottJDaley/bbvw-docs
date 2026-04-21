@@ -1,6 +1,6 @@
 # ![icon](../img/items/light-ball.png) Light Ball
 
-**Category:** Species-specific
+**Category:** Hold
 
 ## Description
 Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.

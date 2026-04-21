@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) RSVP
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s good to use when you want to invite someone. Given to a Pokemon to hold.

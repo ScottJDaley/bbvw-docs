@@ -1,6 +1,6 @@
 # ![icon](../img/items/prism-scale.png) Prism Scale
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Traded on a Feebas: Holder evolves into Milotic.

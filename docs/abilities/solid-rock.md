@@ -1,4 +1,4 @@
-# Solid rock
+# Solid Rock
 
 ## Description
 Decreases damage taken from super-effective moves by 1/4.

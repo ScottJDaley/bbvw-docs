@@ -1,4 +1,4 @@
-# Keen eye
+# Keen Eye
 
 ## Description
 Prevents accuracy from being lowered.

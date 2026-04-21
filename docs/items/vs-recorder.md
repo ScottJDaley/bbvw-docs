@@ -1,6 +1,6 @@
 # ![icon](../img/items/vs-recorder.png) Vs. Recorder
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 An amazing device that can record a battle either between friends or at a special battle facility.

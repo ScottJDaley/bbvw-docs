@@ -1,4 +1,4 @@
-# Swift swim
+# Swift Swim
 
 ## Description
 Doubles Speed during rain.

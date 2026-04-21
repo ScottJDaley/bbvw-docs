@@ -1,6 +1,6 @@
 # ![icon](../img/items/draco-plate.png) Draco Plate
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/skull-fossil.png) Skull Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into a Cranidos.

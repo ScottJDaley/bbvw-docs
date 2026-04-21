@@ -1,6 +1,6 @@
 # ![icon](../img/items/ice-heal.png) Ice Heal
 
-**Category:** Status-cures
+**Category:** Recovery
 
 ## Description
 Cures freezing.

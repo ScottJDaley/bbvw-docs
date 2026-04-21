@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-herb.png) Power Herb
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Both turns of a two-turn charge move happen at once. Consumed upon use.

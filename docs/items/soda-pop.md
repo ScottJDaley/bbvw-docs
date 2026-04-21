@@ -1,6 +1,6 @@
 # ![icon](../img/items/soda-pop.png) Soda Pop
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A fizzy soda drink. It restores the HP of one Pokémon by 60 points.

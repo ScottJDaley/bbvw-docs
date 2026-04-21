@@ -1,6 +1,6 @@
 # ![icon](../img/items/heal-powder.png) Heal Powder
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A very bitter medicine powder. It heals all the status problems of a single Pokémon.

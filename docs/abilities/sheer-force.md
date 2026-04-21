@@ -1,4 +1,4 @@
-# Sheer force
+# Sheer Force
 
 ## Description
 Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.

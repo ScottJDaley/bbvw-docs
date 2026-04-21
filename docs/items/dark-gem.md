@@ -1,6 +1,6 @@
 # ![icon](../img/items/dark-gem.png) Dark Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Dark-type jewel. It will strengthen the power of a Dark-type move one time if held.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/yellow-flute.png) Yellow Flute
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.

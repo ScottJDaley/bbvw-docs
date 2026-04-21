@@ -1,4 +1,4 @@
-# Shed skin
+# Shed Skin
 
 ## Description
 Has a 33% chance of curing any major status ailment after each turn.

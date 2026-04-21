@@ -1,4 +1,4 @@
-# Honey gather
+# Honey Gather
 
 ## Description
 The Pokémon may pick up honey after battle.

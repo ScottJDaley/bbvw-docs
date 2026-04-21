@@ -1,6 +1,6 @@
 # ![icon](../img/items/net-ball.png) Net Ball
 
-**Category:** Special-balls
+**Category:** Miscellaneous
 
 ## Description
 Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.

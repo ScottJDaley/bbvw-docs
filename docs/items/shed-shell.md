@@ -1,6 +1,6 @@
 # ![icon](../img/items/shed-shell.png) Shed Shell
 
-**Category:** Held-items
+**Category:** Hold
 
 ## Description
 Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.

@@ -1,4 +1,4 @@
-# Speed boost
+# Speed Boost
 
 ## Description
 Raises Speed one stage after each turn.

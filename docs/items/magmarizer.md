@@ -1,6 +1,6 @@
 # ![icon](../img/items/magmarizer.png) Magmarizer
 
-**Category:** Evolution
+**Category:** Hold
 
 ## Description
 Traded on a Magmar: Holder evolves into Magmortar.

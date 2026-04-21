@@ -1,6 +1,6 @@
 # ![icon](../img/items/rock-gem.png) Rock Gem
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Rock-type jewel. It will strengthen the power of a Rock-type move one time if held.

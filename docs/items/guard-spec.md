@@ -1,6 +1,6 @@
 # ![icon](../img/items/guard-spec.png) Guard Spec.
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.

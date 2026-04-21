@@ -1,6 +1,6 @@
 # ![icon](../img/items/blue-flute.png) Blue Flute
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.

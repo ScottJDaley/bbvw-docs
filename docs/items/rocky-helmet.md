@@ -1,6 +1,6 @@
 # ![icon](../img/items/rocky-helmet.png) Rocky Helmet
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 If held by a Pokemon it will give the opponent damage if hit with an attacl.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/x-sp-def.png) X Sp. Def
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

@@ -1,4 +1,4 @@
-# Thick fat
+# Thick Fat
 
 ## Description
 Halves damage from fire and ice moves.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-band.png) Power Band
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.

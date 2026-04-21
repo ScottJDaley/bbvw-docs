@@ -1,6 +1,6 @@
 # ![icon](../img/items/power-weight.png) Power Weight
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.

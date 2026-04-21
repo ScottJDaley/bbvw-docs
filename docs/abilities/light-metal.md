@@ -1,4 +1,4 @@
-# Light metal
+# Light Metal
 
 ## Description
 Halves the Pokémon's weight.

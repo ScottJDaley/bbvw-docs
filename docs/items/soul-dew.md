@@ -1,6 +1,6 @@
 # ![icon](../img/items/soul-dew.png) Soul Dew
 
-**Category:** Species-specific
+**Category:** Hold
 
 ## Description
 Raises Latias and Latios’s Special Attack and Special Defense by 50%.

@@ -1,6 +1,6 @@
 # ![icon](../img/items/swift-wing.png) Swift Wing
 
-**Category:** Misc
+**Category:** Evolutionary
 
 ## Description
 An item used by Pokémon. It raises the Speed EVs of one Pokemon a little.

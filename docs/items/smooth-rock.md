@@ -1,6 +1,6 @@
 # ![icon](../img/items/smooth-rock.png) Smooth Rock
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A Pokémon held item that extends the duration of the move Sandstorm used by the holder.

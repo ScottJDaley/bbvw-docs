@@ -1,6 +1,6 @@
 # ![icon](../img/items/prop-case.png) Prop Case
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 A beautiful and cool case that will store the many and various Goods that you attach to Pokemon during Musicals.

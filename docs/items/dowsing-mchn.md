@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) Dowsing MCHN
 
-**Category:** Misc
+**Category:** Key
 
 ## Description
 It checks for unseen items in the area and makes noise and lights when it finds something.

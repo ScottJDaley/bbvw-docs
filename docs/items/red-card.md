@@ -1,6 +1,6 @@
 # ![icon](../img/items/red-card.png) Red Card
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A card with a mysterious power. If held you can cause an opponent who's hit you with a move to exit the field.

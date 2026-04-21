@@ -1,6 +1,6 @@
 # ![icon](../img/items/relic-statue.png) Relic Statue
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A statue that was made by an ancient civilization some 3000 years ago. Enthusiasts will buy them for high prices.

@@ -1,4 +1,4 @@
-# Sticky hold
+# Sticky Hold
 
 ## Description
 Prevents a held item from being removed by other Pokémon.

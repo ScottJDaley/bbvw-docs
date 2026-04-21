@@ -1,6 +1,6 @@
 # ![icon](../img/items/dome-fossil.png) Dome Fossil
 
-**Category:** Dex-completion
+**Category:** Miscellaneous
 
 ## Description
 Can be revived into a Kabuto.

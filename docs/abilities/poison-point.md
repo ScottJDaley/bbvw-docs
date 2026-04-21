@@ -1,4 +1,4 @@
-# Poison point
+# Poison Point
 
 ## Description
 Has a 30% chance of poisoning attacking Pokémon on contact.

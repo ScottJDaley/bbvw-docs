@@ -1,6 +1,6 @@
 # ![icon](../img/items/ring-target.png) Ring Target
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 If a move failed because of the opposing Pokémon's Type, this Bull's Eye will make the move hit.

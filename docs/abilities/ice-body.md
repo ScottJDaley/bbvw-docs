@@ -1,4 +1,4 @@
-# Ice body
+# Ice Body
 
 ## Description
 Heals for 1/16 max HP after each turn during hail.  Protects against hail damage.

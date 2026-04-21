@@ -1,6 +1,6 @@
 # ![icon](../img/items/adamant-orb.png) Adamant Orb
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 A brightly gleaming orb to be held by DIALGA. It boosts the power of Dragon- and Steel-type moves.

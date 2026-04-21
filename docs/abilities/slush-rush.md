@@ -1,4 +1,4 @@
-# Slush rush
+# Slush Rush
 
 ## Description
 During Hail, this Pokémon has double Speed.

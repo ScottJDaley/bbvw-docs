@@ -1,4 +1,4 @@
-# Magic bounce
+# Magic Bounce
 
 ## Description
 Reflects most non-damaging moves back at their user.

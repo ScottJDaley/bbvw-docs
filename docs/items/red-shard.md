@@ -1,6 +1,6 @@
 # ![icon](../img/items/red-shard.png) Red Shard
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A small red shard. It appears to be from some sort of implement made long ago.

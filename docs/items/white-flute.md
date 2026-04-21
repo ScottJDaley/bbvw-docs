@@ -1,6 +1,6 @@
 # ![icon](../img/items/white-flute.png) White Flute
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.

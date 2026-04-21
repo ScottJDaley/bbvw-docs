@@ -1,4 +1,4 @@
-# Weak armor
+# Weak Armor
 
 ## Description
 Raises Speed and lowers Defense by one stage each upon being hit by a physical move.

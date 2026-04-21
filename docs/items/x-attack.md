@@ -1,6 +1,6 @@
 # ![icon](../img/items/x-attack.png) X Attack
 
-**Category:** Misc
+**Category:** Battle effect
 
 ## Description
 An item that raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.

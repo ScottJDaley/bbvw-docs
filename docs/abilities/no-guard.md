@@ -1,4 +1,4 @@
-# No guard
+# No Guard
 
 ## Description
 Ensures all moves used by and against the Pokémon hit.

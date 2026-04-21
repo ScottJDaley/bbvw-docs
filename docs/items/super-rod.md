@@ -1,6 +1,6 @@
 # ![icon](../img/items/super-rod.png) Super Rod
 
-**Category:** Gameplay
+**Category:** Key
 
 ## Description
 Used to catch Pokémon in bodies of water.

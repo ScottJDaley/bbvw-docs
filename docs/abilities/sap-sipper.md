@@ -1,4 +1,4 @@
-# Sap sipper
+# Sap Sipper
 
 ## Description
 Absorbs grass moves, raising Attack one stage.

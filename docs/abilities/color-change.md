@@ -1,4 +1,4 @@
-# Color change
+# Color Change
 
 ## Description
 Changes type to match when hit by a damaging move.

@@ -1,4 +1,4 @@
-# Shadow tag
+# Shadow Tag
 
 ## Description
 Prevents opponents from fleeing or switching out.

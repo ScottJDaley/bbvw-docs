@@ -1,4 +1,4 @@
-# Huge power
+# Huge Power
 
 ## Description
 Doubles Attack in battle.

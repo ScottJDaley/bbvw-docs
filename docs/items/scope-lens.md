@@ -1,6 +1,6 @@
 # ![icon](../img/items/scope-lens.png) Scope Lens
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.

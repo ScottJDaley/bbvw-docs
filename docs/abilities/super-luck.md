@@ -1,4 +1,4 @@
-# Super luck
+# Super Luck
 
 ## Description
 Raises moves' critical hit rates one stage.

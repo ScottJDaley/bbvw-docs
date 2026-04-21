@@ -1,6 +1,6 @@
 # ![icon](../img/items/amulet-coin.png) Amulet Coin
 
-**Category:** Training
+**Category:** Hold
 
 ## Description
 Held: Doubles the money earned from a battle. Does not stack with Luck Incense.

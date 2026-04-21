@@ -1,6 +1,6 @@
 # ![icon](../img/items/dubious-disc.png) Dubious Disc
 
-**Category:** Evolution
+**Category:** Hold
 
 ## Description
 Traded on a Porygon2: Holder evolves into Porygon-Z.

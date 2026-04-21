@@ -1,4 +1,4 @@
-# White smoke
+# White Smoke
 
 ## Description
 Prevents stats from being lowered by other Pokémon.

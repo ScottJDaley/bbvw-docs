@@ -1,4 +1,4 @@
-# Air lock
+# Air Lock
 
 ## Description
 Negates all effects of weather, but does not prevent the weather itself.
