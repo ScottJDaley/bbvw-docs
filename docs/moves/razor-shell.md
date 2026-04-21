@@ -1,6 +1,6 @@
-# Razor shell
+# Razor Shell
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

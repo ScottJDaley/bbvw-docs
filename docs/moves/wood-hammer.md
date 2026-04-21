@@ -1,6 +1,6 @@
-# Wood hammer
+# Wood Hammer
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

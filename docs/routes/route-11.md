@@ -68,8 +68,9 @@
 | --- |
 | ![Air Balloon](../img/items/air-balloon.png) [Air Balloon](../items/air-balloon.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protector</span> |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) (With Dowsing Machine) |
+| ![Protector](../img/items/protector.png) [Protector](../items/protector.md) |
 | ![TM50 Overheat](../img/items/tm-fire.png) [TM50 Overheat](../items/tm50.md) |
 
 ## Trainers

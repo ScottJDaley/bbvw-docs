@@ -1,6 +1,6 @@
-# Rock polish
+# Rock Polish
 
-**TM/HM:** TM69
+**TM/HM:** [TM69](../items/tm69.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

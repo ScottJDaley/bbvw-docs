@@ -1,6 +1,6 @@
-# Lucky chant
+# Lucky Chant
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

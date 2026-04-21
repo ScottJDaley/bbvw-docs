@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BridgeMail S
+# ![icon](../img/items/bridge-mail-s.png) Bridge Mail S
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s printed with the pattern of a bridge that cuts through the sky. Given to a Pokemon to hold.

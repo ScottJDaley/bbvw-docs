@@ -1,6 +1,6 @@
 # ![icon](../img/items/big-pearl.png) Big Pearl
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
@@ -11,7 +11,7 @@ A quite-large pearl that sparkles in a pretty silver color. It can be sold at a 
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Driftveil City](../routes/driftveil-city.md) | General |  |
 | [Route 13](../routes/route-13.md) | General |  |
-| [Route 18](../routes/route-18.md) | General |  |
-| [Route 18](../routes/route-18.md) | General |  |
+| [Route 18](../routes/route-18.md) | General | With Dowsing Machine |
+| [Route 18](../routes/route-18.md) | General | With Dowsing Machine |
 | [Striaton City](../routes/striaton-city.md) | General |  |
 

@@ -1,6 +1,6 @@
 # Retaliate
 
-**TM/HM:** TM67
+**TM/HM:** [TM67](../items/tm67.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

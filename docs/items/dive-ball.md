@@ -1,6 +1,6 @@
 # ![icon](../img/items/dive-ball.png) Dive Ball
 
-**Category:** Special-balls
+**Category:** Miscellaneous
 
 ## Description
 Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.
@@ -8,7 +8,7 @@ Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Cold Storage](../routes/cold-storage.md) | General |  |
+| [Cold Storage](../routes/cold-storage.md) | General | With Dowsing Machine |
 | [Striaton City](../routes/striaton-city.md) | General |  |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |
 | [Village Bridge](../routes/village-bridge.md) | General |  |

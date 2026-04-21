@@ -1,6 +1,6 @@
-# Draco meteor
+# Draco Meteor
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

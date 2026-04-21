@@ -1,6 +1,6 @@
-# Aerial ace
+# Aerial Ace
 
-**TM/HM:** TM40
+**TM/HM:** [TM40](../items/tm40.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

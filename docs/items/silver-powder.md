@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) SilverPowder
+# ![icon](../img/items/silver-powder.png) Silver Powder
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.

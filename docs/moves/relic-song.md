@@ -1,6 +1,6 @@
-# Relic song
+# Relic Song
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -4,11 +4,11 @@
 ### General
 | Item |
 | --- |
-| ![Cherish Ball * 20](../img/items/cherish-ball.png) [Cherish Ball * 20](../items/cherish-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball * 10 (NPC)</span> |
-| ![HM02 Fly](../img/items/tm-flying.png) [HM02 Fly](../items/hm02.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Bicycle (NPC)</span> |
-| ![TM93 Wild Charge](../img/items/tm-electric.png) [TM93 Wild Charge](../items/tm93.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM72 Volt Switch (NPC)</span> |
+| ![Cherish Ball * 20](../img/items/cherish-ball.png) [Cherish Ball * 20](../items/cherish-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ultra Ball * 10 (NPC) (From Professor Juniper)</span> |
+| ![HM02 Fly](../img/items/tm-flying.png) [HM02 Fly](../items/hm02.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Bicycle (NPC) (From Bike Shop Owner)</span> |
+| ![TM93 Wild Charge](../img/items/tm-electric.png) [TM93 Wild Charge](../items/tm93.md) |
 | ![Shiny Stone * 6](../img/items/shiny-stone.png) [Shiny Stone * 6](../items/shiny-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Sun Stone (NPC)</span> |
-| ![ThunderStone * 6](../img/items/unknown.png) [ThunderStone * 6](../items/thunderstone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Attack</span> |
+| ![Thunder Stone * 6](../img/items/thunder-stone.png) [Thunder Stone * 6](../items/thunder-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Attack</span> |
 | ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
 | ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |

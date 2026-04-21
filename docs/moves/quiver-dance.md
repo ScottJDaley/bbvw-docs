@@ -1,6 +1,6 @@
-# Quiver dance
+# Quiver Dance
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

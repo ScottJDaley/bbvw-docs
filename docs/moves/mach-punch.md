@@ -1,6 +1,6 @@
-# Mach punch
+# Mach Punch
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

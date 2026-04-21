@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) DeepSeaTooth
+# ![icon](../img/items/deep-sea-tooth.png) Deep Sea Tooth
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.

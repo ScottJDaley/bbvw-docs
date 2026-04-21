@@ -1,6 +1,6 @@
-# Poison powder
+# Poison Powder
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

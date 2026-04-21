@@ -1,6 +1,6 @@
 # Explosion
 
-**TM/HM:** TM64
+**TM/HM:** [TM64](../items/tm64.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

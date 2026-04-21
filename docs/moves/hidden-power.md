@@ -1,6 +1,6 @@
-# Hidden power
+# Hidden Power
 
-**TM/HM:** TM10
+**TM/HM:** [TM10](../items/tm10.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

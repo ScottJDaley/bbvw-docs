@@ -1,6 +1,6 @@
-# Charge beam
+# Charge Beam
 
-**TM/HM:** TM57
+**TM/HM:** [TM57](../items/tm57.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -120,18 +120,22 @@
 | ![TM09 Venoshock](../img/items/tm-poison.png) [TM09 Venoshock](../items/tm09.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Super Potion</span> |
 | ![TM95 Snarl](../img/items/tm-dark.png) [TM95 Snarl](../items/tm95.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Antidote</span> |
 | ![Miracle Seed](../img/items/miracle-seed.png) [Miracle Seed](../items/miracle-seed.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
-| ![Moon Stone * 6](../img/items/moon-stone.png) [Moon Stone * 6](../items/moon-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Moon Stone (NPC)</span> |
+| ![Moon Stone * 6](../img/items/moon-stone.png) [Moon Stone * 6](../items/moon-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Moon Stone (NPC) (From Lenora)</span> |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) (With Dowsing Machine) |
 | ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
-| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) (With Dowsing Machine) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
+| ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) (With Dowsing Machine) |
 | ![Big Root](../img/items/big-root.png) [Big Root](../items/big-root.md) |
-| ![SilverPowder](../img/items/unknown.png) [SilverPowder](../items/silverpowder.md) |
-| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Silver Powder](../img/items/silver-powder.png) [Silver Powder](../items/silver-powder.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) (With Dowsing Machine) |
 | ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) (Daily) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
 | ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
 | ![Dragon Skull](../img/items/dragon-skull.png) [Dragon Skull](../items/dragon-skull.md) (Defeat Team Plasma) |
-| ![TM22 Solarbeam](../img/items/tm-normal.png) [TM22 Solarbeam](../items/tm22.md) |
+| ![TM22 Solarbeam](../img/items/tm-grass.png) [TM22 Solarbeam](../items/tm22.md) |
 | ![TM86 Grass Knot](../img/items/tm-grass.png) [TM86 Grass Knot](../items/tm86.md) |
 | ![TM94 Rock Smash](../img/items/tm-fighting.png) [TM94 Rock Smash](../items/tm94.md) |
 

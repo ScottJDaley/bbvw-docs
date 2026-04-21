@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) NeverMeltIce
+# ![icon](../img/items/never-melt-ice.png) Never Melt Ice
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.

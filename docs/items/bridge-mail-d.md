@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BridgeMail D
+# ![icon](../img/items/bridge-mail-d.png) Bridge Mail D
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s printed with the pattern of a crimson red draw bridge. Given to a Pokemon to hold.

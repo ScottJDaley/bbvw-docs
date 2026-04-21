@@ -1,6 +1,6 @@
-# Will o wisp
+# Will O Wisp
 
-**TM/HM:** TM61
+**TM/HM:** [TM61](../items/tm61.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

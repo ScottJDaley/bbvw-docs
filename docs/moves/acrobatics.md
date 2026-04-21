@@ -1,6 +1,6 @@
 # Acrobatics
 
-**TM/HM:** TM62
+**TM/HM:** [TM62](../items/tm62.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

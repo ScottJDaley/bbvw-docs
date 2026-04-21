@@ -31,7 +31,7 @@
 ### General
 | Item |
 | --- |
-| ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pok Ball</span> |
+| ![Oval Stone](../img/items/oval-stone.png) [Oval Stone](../items/oval-stone.md) |
 | ![Everstone](../img/items/everstone.png) [Everstone](../items/everstone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
 | ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |

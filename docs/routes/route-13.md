@@ -79,18 +79,21 @@
 | ![Grip Claw](../img/items/grip-claw.png) [Grip Claw](../items/grip-claw.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Claw</span> |
 | ![Shed Shell](../img/items/shed-shell.png) [Shed Shell](../items/shed-shell.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Prism Scale</span> |
 | ![TM32 Double Team](../img/items/tm-normal.png) [TM32 Double Team](../items/tm32.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM29 Psychic</span> |
-| ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC)</span> |
+| ![Metronome](../img/items/metronome.png) [Metronome](../items/metronome.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM89 U-turn (NPC) (Deliver all three goods to Wingull)</span> |
 | ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
 | ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
-| ![DeepSeaScale](../img/items/unknown.png) [DeepSeaScale](../items/deepseascale.md) |
-| ![DeepSeaScale](../img/items/unknown.png) [DeepSeaScale](../items/deepseascale.md) |
-| ![DeepSeaScale](../img/items/unknown.png) [DeepSeaScale](../items/deepseascale.md) |
-| ![DeepSeaScale](../img/items/unknown.png) [DeepSeaScale](../items/deepseascale.md) |
-| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
-| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
+| ![Deep Sea Scale](../img/items/deep-sea-scale.png) [Deep Sea Scale](../items/deep-sea-scale.md) |
+| ![Deep Sea Scale](../img/items/deep-sea-scale.png) [Deep Sea Scale](../items/deep-sea-scale.md) |
+| ![Deep Sea Scale](../img/items/deep-sea-scale.png) [Deep Sea Scale](../items/deep-sea-scale.md) |
+| ![Deep Sea Scale](../img/items/deep-sea-scale.png) [Deep Sea Scale](../items/deep-sea-scale.md) |
+| ![Deep Sea Tooth](../img/items/deep-sea-tooth.png) [Deep Sea Tooth](../items/deep-sea-tooth.md) |
+| ![Deep Sea Tooth](../img/items/deep-sea-tooth.png) [Deep Sea Tooth](../items/deep-sea-tooth.md) |
 | ![Draco Plate](../img/items/draco-plate.png) [Draco Plate](../items/draco-plate.md) |
 | ![Dubious Disc](../img/items/dubious-disc.png) [Dubious Disc](../items/dubious-disc.md) |
 | ![Dubious Disc](../img/items/dubious-disc.png) [Dubious Disc](../items/dubious-disc.md) |
+| ![Electirizer](../img/items/electirizer.png) [Electirizer](../items/electirizer.md) |
+| ![Electirizer](../img/items/electirizer.png) [Electirizer](../items/electirizer.md) |
+| ![Electirizer](../img/items/electirizer.png) [Electirizer](../items/electirizer.md) |
 | ![King's Rock](../img/items/kings-rock.png) [King's Rock](../items/kings-rock.md) |
 | ![King's Rock](../img/items/kings-rock.png) [King's Rock](../items/kings-rock.md) |
 | ![Lucky Egg](../img/items/lucky-egg.png) [Lucky Egg](../items/lucky-egg.md) |
@@ -102,6 +105,9 @@
 | ![Metal Powder](../img/items/metal-powder.png) [Metal Powder](../items/metal-powder.md) |
 | ![Protector](../img/items/protector.png) [Protector](../items/protector.md) |
 | ![Protector](../img/items/protector.png) [Protector](../items/protector.md) |
+| ![Razor Claw](../img/items/razor-claw.png) [Razor Claw](../items/razor-claw.md) |
+| ![Razor Claw](../img/items/razor-claw.png) [Razor Claw](../items/razor-claw.md) |
+| ![Razor Claw](../img/items/razor-claw.png) [Razor Claw](../items/razor-claw.md) |
 | ![Razor Fang](../img/items/razor-fang.png) [Razor Fang](../items/razor-fang.md) |
 | ![Razor Fang](../img/items/razor-fang.png) [Razor Fang](../items/razor-fang.md) |
 | ![Reaper Cloth](../img/items/reaper-cloth.png) [Reaper Cloth](../items/reaper-cloth.md) |
@@ -118,7 +124,7 @@
 | ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
 | ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
 | ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
-| ![Pearl String](../img/items/pearl-string.png) [Pearl String](../items/pearl-string.md) |
+| ![Pearl String](../img/items/pearl-string.png) [Pearl String](../items/pearl-string.md) (With Dowsing Machine) |
 | ![Red Flute](../img/items/red-flute.png) [Red Flute](../items/red-flute.md) |
 | ![Shoal Salt](../img/items/shoal-salt.png) [Shoal Salt](../items/shoal-salt.md) |
 | ![Shoal Shell](../img/items/shoal-shell.png) [Shoal Shell](../items/shoal-shell.md) |

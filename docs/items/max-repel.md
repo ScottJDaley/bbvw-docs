@@ -1,6 +1,6 @@
 # ![icon](../img/items/max-repel.png) Max Repel
 
-**Category:** Spelunking
+**Category:** Miscellaneous
 
 ## Description
 For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon.
@@ -13,14 +13,14 @@ For 250 steps, prevents wild encounters of level lower than your party’s lead 
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
-| [Lacunosa Town](../routes/lacunosa-town.md) | General |  |
+| [Lacunosa Town](../routes/lacunosa-town.md) | General | With Dowsing Machine |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Mistralton Cave</span>](../routes/mistralton-cave.md) | General |  |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
-| [Opelucid City](../routes/opelucid-city.md) | General |  |
+| [Opelucid City](../routes/opelucid-city.md) | General | With Dowsing Machine |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 9](../routes/route-9.md) | Shop |  |

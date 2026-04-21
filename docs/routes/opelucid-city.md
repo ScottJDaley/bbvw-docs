@@ -9,9 +9,9 @@
 | ![Destiny Knot](../img/items/destiny-knot.png) [Destiny Knot](../items/destiny-knot.md) |
 | ![Float Stone](../img/items/float-stone.png) [Float Stone](../items/float-stone.md) |
 | ![Ring Target](../img/items/ring-target.png) [Ring Target](../items/ring-target.md) |
-| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) |
+| ![Max Repel](../img/items/max-repel.png) [Max Repel](../items/max-repel.md) (With Dowsing Machine) |
 | ![Master Ball](../img/items/master-ball.png) [Master Ball](../items/master-ball.md) (From Professor Juniper) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 
 ### PokéMart
 | Item |

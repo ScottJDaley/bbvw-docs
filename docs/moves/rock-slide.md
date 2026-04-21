@@ -1,6 +1,6 @@
-# Rock slide
+# Rock Slide
 
-**TM/HM:** TM80
+**TM/HM:** [TM80](../items/tm80.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

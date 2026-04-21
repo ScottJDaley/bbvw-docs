@@ -47,7 +47,7 @@ FIX_MOVES = {
     'extremespeed': 'extreme-speed', 'grasswhistle': 'grass-whistle', 'softboiled': 'soft-boiled', 'faint-attack': 'feint-attack',
     'thundershock': 'thunder-shock', 'ice-burn': 'ice-burn', 'freeze-shock': 'freeze-shock', 'twinneedle': 'twineedle',
     'v-create': 'v-create', 'wood-horn': 'horn-leech', 'hi-jump-kick': 'high-jump-kick', 'selfdestruct': 'self-destruct',
-    'featherdance': 'feather-dance', 'reflect,-light-screen': 'reflect', 'nothing': '', 'baculin': 'basculin'
+    'featherdance': 'feather-dance', 'reflect,-light-screen': 'reflect', 'nothing': '', 'basculin': 'basculin'
 }
 
 WRITTEN_FILES = set()
@@ -96,7 +96,7 @@ def get_display_name(name):
     if name.lower().startswith('porygon2'): return "Porygon2"
     if name.lower().startswith('nidoran-m'): return "Nidoran♂"
     if name.lower().startswith('nidoran-f'): return "Nidoran♀"
-    res = name.split('-')[0].capitalize()
+    res = name.split('-')[0].replace('-', ' ').title()
     if name.lower().startswith('deoxys'): return "Deoxys"
     if name.lower().startswith('wormadam'): return "Wormadam"
     if name.lower().startswith('giratina'): return "Giratina"
@@ -129,19 +129,28 @@ def load_data():
                     base["items"][inorm] = {
                         "name": iname,
                         "description": idata["description"],
-                        "category": "Misc"
+                        "category": idata["category"]
                     }
+                else:
+                    # Update category to match Serebii's better ones
+                    base["items"][inorm]["category"] = idata["category"]
             base["location_items_serebii"] = serebii["route_items"]
     return base, rom
 
 def get_item_icon(name, move_data, base_path="../"):
     norm = normalize_item_name(name)
     if norm.startswith('tm') or norm.startswith('hm'):
+        # Check if the name includes the move name like "TM54 False Swipe"
         m_match = re.search(r'(?:TM|HM)\d+\s+(.*)', name, re.IGNORECASE)
         if m_match:
             m_name = normalize_name(m_match.group(1))
             m_info = move_data.get(m_name)
             if m_info: return f"{base_path}img/items/tm-{m_info['type']}.png"
+        # Fallback to searching move_data by tm_num
+        tm_num = norm.upper()
+        for m_info in move_data.values():
+            if m_info.get('tm_num') == tm_num:
+                return f"{base_path}img/items/tm-{m_info['type']}.png"
         return f"{base_path}img/items/tm-normal.png"
     icon_path = f"img/items/{norm}.png"
     if os.path.exists(os.path.join(OUTPUT_BASE, icon_path)): return f"{base_path}{icon_path}"
@@ -158,7 +167,7 @@ def get_move_display(m_name, move_data, move_stat_changes, base_path="../", show
     def get_single_link(mn):
         mn_norm = normalize_name(mn); info = move_data.get(mn_norm)
         if not info: return f"[{mn}]({base_path}moves/{mn_norm}.md)" if mn_norm else mn
-        return f"[{mn.replace('-', ' ').capitalize()}]({base_path}moves/{mn_norm}.md)"
+        return f"[{mn.replace('-', ' ').title()}]({base_path}moves/{mn_norm}.md)"
     m_list = [m.strip() for m in m_name.split('/')] if '/' in m_name else ([m.strip() for m in m_name.split(',')] if ',' in m_name and 'TM' not in m_name else [m_name])
     links = [get_single_link(m) for m in m_list if normalize_name(m)]
     link_str = ", ".join(links)
@@ -315,14 +324,21 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         if rm.get('marker') == 'REMOVED': explicit_removed.add(normalize_name(rm['name']))
         elif rm.get('marker') == 'SHIFT_REMAINING': level_shifts = rm.get('level_shifts', [])
         else: am.append(rm)
+    
+    processed_base_names = set()
     base_idx_for_shift = 0
     for bm in blm:
         bn = normalize_name(bm['name'])
-        if bn in explicit_removed: am.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'}); continue
-        if any(normalize_name(rm['name']) == bn for rm in p_moves_rom if rm.get('marker') != 'REMOVED' and rm.get('marker') != 'SHIFT_REMAINING'): continue
+        if bn in explicit_removed:
+            am.append({'level': bm['level'], 'name': bm['name'], 'marker': 'REMOVED'})
+            processed_base_names.add(bn); continue
+        # If this move is already in am (from a non-REMOVED change), don't add the base one
+        if any(normalize_name(rm['name']) == bn for rm in am if rm.get('marker') != 'REMOVED'):
+            processed_base_names.add(bn); continue
         if level_shifts and base_idx_for_shift < len(level_shifts) and bm['level'] >= 60:
-            new_lv = level_shifts[base_idx_for_shift]; am.append({'level': new_lv, 'name': bm['name'], 'marker': '='}); base_idx_for_shift += 1; continue
+            new_lv = level_shifts[base_idx_for_shift]; am.append({'level': new_lv, 'name': bm['name'], 'marker': '='}); base_idx_for_shift += 1; processed_base_names.add(bn); continue
         am.append({'level': bm['level'], 'name': bm['name'], 'marker': ''})
+    
     am.sort(key=lambda x: (x.get('level', 0), x['name']))
     for m in am:
         mn = m['name']; mnn = normalize_name(mn)
@@ -330,6 +346,7 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
         rw = get_move_display(mn, move_data, rom_data['move_stat_changes'])
         mk = m.get('marker', ''); ct = (' <span class="pill pill-new">NEW</span>' if mk in ['+', '-'] else (' <span class="pill pill-removed">REMOVED</span>' if mk == 'REMOVED' else (' <span class="pill pill-shifted">SHIFTED</span>' if mk == '=' else "")))
         md += f"| {m['level']} {ct} {rw}\n"
+    
     learnable = [m for m in p_base['moves'] if m['method'] != 'level-up']
     for rl in p_rom.get('tm_hm', []):
         for pref, num, mn in re.findall(r'(TM|HM)(\d+)\s*,?\s*([^,.\n]+)', rl):
@@ -351,20 +368,26 @@ def generate_pokemon_page(name, base_data, rom_data, move_data, ability_data, lo
     return md
 
 def generate_move_page(name, info, pkmn_list, m_rom, base_data):
-    md = f"# {name.replace('-', ' ').capitalize()}\n\n"
+    md = f"# {name.replace('-', ' ').title()}\n\n"
     def format_stat(stat, val):
         if stat in m_rom: return f'<span style="color:green; font-weight:bold;">{m_rom[stat]["new"]}</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">{m_rom[stat]["old"]}</span>'
         return str(val or '-')
     t_icon = f'![{info["type"]}](../img/types/{info["type"]}.png)'
     if 'type' in m_rom: t_icon = f'![{m_rom["type"]["new"]}](../img/types/{m_rom["type"]["new"]}.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">{info["type"]}</span>'
-    md += f"**TM/HM:** {info.get('tm_num', '-')}\n\n**Type:** {t_icon}  \n**Category:** ![{info['damage_class']}](../img/types/{info['damage_class']}.png){{ style='object-fit:contain;' }}  \n**Power:** {format_stat('power', info['power'])}  \n**Accuracy:** {format_stat('accuracy', info['accuracy'])}  \n**PP:** {format_stat('pp', info['pp'])}  \n\n## Description\n{info['description']}\n\n## Learned by\n| Sprite | Pokemon |\n| --- | --- |\n"
+    
+    tm_link = ""
+    if info.get('tm_num'):
+        tm_norm = info['tm_num'].lower()
+        tm_link = f"**TM/HM:** [{info['tm_num']}](../items/{tm_norm}.md)\n\n"
+
+    md += f"{tm_link}**Type:** {t_icon}  \n**Category:** ![{info['damage_class']}](../img/types/{info['damage_class']}.png){{ style='object-fit:contain;' }}  \n**Power:** {format_stat('power', info['power'])}  \n**Accuracy:** {format_stat('accuracy', info['accuracy'])}  \n**PP:** {format_stat('pp', info['pp'])}  \n\n## Description\n{info['description']}\n\n## Learned by\n| Sprite | Pokemon |\n| --- | --- |\n"
     for p in sorted(pkmn_list):
         pn = normalize_name(p); info_p = base_data['pokemon'].get(pn)
         if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"
     return md
 
 def generate_ability_page(name, info, pkmn_list, base_data):
-    md = f"# {name.replace('-', ' ').capitalize()}\n\n## Description\n{info['description']}\n\n## Pokemon with this Ability\n| Sprite | Pokemon |\n| --- | --- |\n"
+    md = f"# {name.replace('-', ' ').title()}\n\n## Description\n{info['description']}\n\n## Pokemon with this Ability\n| Sprite | Pokemon |\n| --- | --- |\n"
     for p in sorted(pkmn_list):
         pn = normalize_name(p); info_p = base_data['pokemon'].get(pn)
         if info_p: md += f"| ![{pn}](../img/pokemon/{info_p['id']:03}.png) | [{get_display_name(p)}](../pokemon/{pn}.md) |\n"
@@ -383,7 +406,23 @@ def get_item_display_name(norm_name, base_data):
 def generate_item_page(norm_name, info, route_locations, pkmn_with_item, move_data, base_data):
     display_name = get_item_display_name(norm_name, base_data)
     icon = get_item_icon(display_name, move_data)
-    md = f"# ![icon]({icon}) {display_name}\n\n**Category:** {info.get('category', 'Misc').capitalize()}\n\n## Description\n{info.get('description', 'No description available.')}\n\n"
+    
+    md = f"# ![icon]({icon}) {display_name}\n\n**Category:** {info.get('category', 'Misc').capitalize()}\n\n"
+    
+    # Link to move if it's a TM/HM
+    tm_match = re.match(r'^(?:TM|HM)(\d+)', display_name, re.IGNORECASE)
+    if tm_match:
+        move_part = display_name.split(' ', 1)[1] if ' ' in display_name else ""
+        if not move_part:
+            tm_num = f"{tm_match.group(0).upper()}"
+            for m_norm, m_info in base_data['moves'].items():
+                if m_info.get('tm_num') == tm_num:
+                    move_part = m_norm.replace('-', ' ').title()
+                    break
+        if move_part:
+            md += f"**Teaches Move:** [{move_part}](../moves/{normalize_name(move_part)}.md)\n\n"
+
+    md += f"## Description\n{info.get('description', 'No description available.')}\n\n"
     if route_locations:
         md += "## Locations\n| Route | Type | Info |\n| --- | --- | --- |\n"
         for loc_data in sorted(route_locations):
@@ -450,14 +489,30 @@ def generate_route_page(name, r_d, base_data, t_d, rom_item_changes):
     for sub in all_subareas:
         md += f"### {sub}\n| Item |\n| --- |\n"
         sub_rom = rom_loc_items.get(sub, []); sub_base = route_base_items.get(sub, [])
-        processed_base = set()
+        
+        processed_base_indices = set()
         for change in sub_rom:
-            old_name = change['old']; old_norm = normalize_item_name(old_name); item_link = get_item_display_linked(change['new'], base_data)
-            md += f"| {item_link} <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{old_name}</span> |\n"
-            for b in sub_base:
-                if normalize_item_name(b['name']) == old_norm: processed_base.add(b['name'])
-        for b in sub_base:
-            if b['name'] not in processed_base:
+            old_name = change['old']; old_norm = normalize_item_name(old_name)
+            item_link = get_item_display_linked(change['new'], base_data)
+            
+            # Prioritize non-hidden for replacement
+            found_idx = -1
+            for idx, b in enumerate(sub_base):
+                if idx not in processed_base_indices and normalize_item_name(b['name']) == old_norm and b['method'] != "Hidden":
+                    found_idx = idx; break
+            if found_idx == -1:
+                for idx, b in enumerate(sub_base):
+                    if idx not in processed_base_indices and normalize_item_name(b['name']) == old_norm:
+                        found_idx = idx; break
+            
+            if found_idx != -1:
+                processed_base_indices.add(found_idx); b = sub_base[found_idx]
+                old_detail = f" ({b['detail']})" if b.get('detail') else ""
+                md += f"| {item_link} <span style='text-decoration:line-through; color:red; font-size:0.9em;'>{old_name}{old_detail}</span> |\n"
+            else:
+                md += f"| {item_link} |\n"
+        for idx, b in enumerate(sub_base):
+            if idx not in processed_base_indices:
                 detail_text = f" ({b['detail']})" if b.get('detail') else ""
                 md += f"| {get_item_display_linked(b['name'], base_data)}{detail_text} |\n"
         md += "\n"
@@ -545,13 +600,13 @@ if __name__ == "__main__":
         mnn = normalize_name(mn); md = generate_move_page(mn, mi, fmv.get(mnn, []), rom['move_stat_changes'].get(mnn, {}), base_data)
         write_if_changed(os.path.join("docs/moves", f"{mnn}.md"), md)
     mv_idx_md = "# Moves\n\n"
-    for m in sorted(base_data['moves'].keys()): mv_idx_md += f"- [{m.replace('-', ' ').capitalize()}]({normalize_name(m)}.md)\n"
+    for m in sorted(base_data['moves'].keys()): mv_idx_md += f"- [{m.replace('-', ' ').title()}]({normalize_name(m)}.md)\n"
     write_if_changed("docs/moves/index.md", mv_idx_md)
     for an, ai in sorted(base_data['abilities'].items()):
         ann = CLEAN_ABILITIES.get(normalize_name(an), normalize_name(an)); md = generate_ability_page(an, ai, fab.get(ann, []), base_data)
         write_if_changed(os.path.join("docs/abilities", f"{ann}.md"), md)
     ab_idx_md = "# Abilities\n\n"
-    for a in sorted(base_data['abilities'].keys()): ab_idx_md += f"- [{a.replace('-', ' ').capitalize()}]({CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md)\n"
+    for a in sorted(base_data['abilities'].keys()): ab_idx_md += f"- [{a.replace('-', ' ').title()}]({CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md)\n"
     write_if_changed("docs/abilities/index.md", ab_idx_md)
     al = rom['trainer_order']
     for r in rom['wild_pokemon']: (al.append(r['name']) if r['name'] not in al else None)
@@ -561,6 +616,7 @@ if __name__ == "__main__":
     rt_idx_md = "# Routes\n\n"
     for rn in al: rt_idx_md += f"- [{rn}]({normalize_name(rn)}.md)\n"
     write_if_changed("docs/routes/index.md", rt_idx_md)
+    
     item_route_locs, item_pkmn_locs = {}, {}
     removed_item_locations = {}
     for r_n, subareas in rom['item_changes'].items():
@@ -583,25 +639,51 @@ if __name__ == "__main__":
                     if inorm not in item_route_locs: item_route_locs[inorm] = []
                     is_removed = False
                     if inorm in removed_item_locations:
-                        for rem_r, rem_s in removed_item_locations[inorm]:
-                            if rem_r == r_n and (rem_s == sub_n or rem_s == "General"): is_removed = True; break
+                        for idx, (rem_r, rem_s) in enumerate(removed_item_locations[inorm]):
+                            if rem_r == r_n and (rem_s == sub_n or rem_s == "General"):
+                                is_removed = True
+                                removed_item_locations[inorm].pop(idx); break
                     item_route_locs[inorm].append((r_n, sub_n, it.get("detail", ""), is_removed))
     for p_n, p_c in rom['pokemon_changes'].items():
         if p_c.get('items'):
             for i in p_c['items']:
                 inorm = normalize_item_name(i)
                 (item_pkmn_locs[inorm].append(p_n) if inorm in item_pkmn_locs else item_pkmn_locs.update({inorm: [p_n]}))
-    for iname_norm, iinfo in base_data.get('items', {}).items():
-        md = generate_item_page(iname_norm, iinfo, item_route_locs.get(iname_norm, []), item_pkmn_locs.get(iname_norm, []), base_data['moves'], base_data)
-        write_if_changed(os.path.join("docs/items", f"{iname_norm}.md"), md)
+    
+    cats = {}
+    for inorm, iinfo in base_data.get('items', {}).items():
+        c = iinfo.get('category', 'Misc')
+        if c not in cats: cats[c] = []
+        cats[c].append(inorm)
+        md = generate_item_page(inorm, iinfo, item_route_locs.get(inorm, []), item_pkmn_locs.get(inorm, []), base_data['moves'], base_data)
+        write_if_changed(os.path.join("docs/items", f"{inorm}.md"), md)
+    
+    def get_clean_route_name(raw_route):
+        return raw_route.replace('<span style=\'text-decoration:line-through; color:red; font-size:0.9em;\'>', '').replace('</span>', '')
+
+    for c, inorms in cats.items():
+        cn = normalize_name(c)
+        cmd = f"# {c}\n\n| Icon | Item | Description | Locations |\n| --- | --- | --- | --- |\n"
+        for inorm in sorted(inorms):
+            ii = base_data['items'][inorm]; idisp = get_item_display_name(inorm, base_data)
+            icon = get_item_icon(idisp, base_data['moves']); locs = item_route_locs.get(inorm, [])
+            # Filter out removed locations for the category summary
+            active_locs = [l for l in locs if not l[3]]
+            loc_links = []
+            for l in active_locs:
+                clean_r = get_clean_route_name(l[0])
+                loc_links.append(f"[{l[0]}](../routes/{normalize_name(clean_r)}.md)")
+            loc_str = ", ".join(loc_links)
+            cmd += f"| ![{idisp}]({icon}) | [{idisp}]({inorm}.md) | {ii['description']} | {loc_str} |\n"
+        write_if_changed(os.path.join("docs/items", f"{cn}.md"), cmd)
+
     it_idx_md = "# Items\n\n"
-    for inm in sorted(base_data.get('items', {}).keys()): it_idx_md += f"- [{base_data['items'][inm]['name']}]({inm}.md)\n"
+    for c in sorted(cats.keys()):
+        cn = normalize_name(c); it_idx_md += f"## [{c}]({cn}.md)\n"
+        for inorm in sorted(cats[c]): it_idx_md += f"- [{get_item_display_name(inorm, base_data)}]({inorm}.md)\n"
+        it_idx_md += "\n"
     write_if_changed("docs/items/index.md", it_idx_md)
-    for d in ['docs/pokemon', 'docs/moves', 'docs/abilities', 'docs/routes', 'docs/items']:
-        if os.path.exists(d):
-            for f in os.listdir(d):
-                fp = os.path.abspath(os.path.join(d, f))
-                if fp not in WRITTEN_FILES and os.path.isfile(fp): os.remove(fp)
+
     with open("mkdocs.yml", 'r', encoding='utf-8') as f: ls = f.readlines()
     nl, inav = [], False
     for l in ls:
@@ -612,9 +694,12 @@ if __name__ == "__main__":
                 for p in pkmn_to_generate:
                     if s <= p['id'] <= e: pn = normalize_name(p['name']); nl.append(f"      - {get_display_name(p['name'])}: pokemon/{pn}.md\n")
             nl.append('  - Routes:\n    - routes/index.md\n'); [nl.append(f"    - {rn}: routes/{normalize_name(rn)}.md\n") for rn in al]
-            nl.append('  - Items:\n    - items/index.md\n'); [nl.append(f"    - {base_data['items'][inm]['name']}: items/{inm}.md\n") for inm in sorted(base_data.get('items', {}).keys())]
-            nl.append('  - Moves:\n    - moves/index.md\n'); [nl.append(f"    - {m.replace('-', ' ').capitalize()}: moves/{normalize_name(m)}.md\n") for m in sorted(base_data['moves'].keys())]
-            nl.append('  - Abilities:\n    - abilities/index.md\n'); [nl.append(f"    - {a.replace('-', ' ').capitalize()}: abilities/{CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md\n") for a in sorted(base_data['abilities'].keys())]
+            nl.append('  - Items:\n    - items/index.md\n')
+            for c in sorted(cats.keys()):
+                nl.append(f'    - {c}:\n      - items/{normalize_name(c)}.md\n')
+                for inorm in sorted(cats[c]): nl.append(f"      - {get_item_display_name(inorm, base_data)}: items/{inorm}.md\n")
+            nl.append('  - Moves:\n    - moves/index.md\n'); [nl.append(f"    - {m.replace('-', ' ').title()}: moves/{normalize_name(m)}.md\n") for m in sorted(base_data['moves'].keys())]
+            nl.append('  - Abilities:\n    - abilities/index.md\n'); [nl.append(f"    - {a.replace('-', ' ').title()}: abilities/{CLEAN_ABILITIES.get(normalize_name(a), normalize_name(a))}.md\n") for a in sorted(base_data['abilities'].keys())]
         elif not inav: nl.append(l)
     with open("mkdocs.yml", 'w', encoding='utf-8') as f: f.writelines(nl)
     print("Generation complete.")

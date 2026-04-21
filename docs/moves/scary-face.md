@@ -1,6 +1,6 @@
-# Scary face
+# Scary Face
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

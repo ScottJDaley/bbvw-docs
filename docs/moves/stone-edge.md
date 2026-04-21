@@ -1,6 +1,6 @@
-# Stone edge
+# Stone Edge
 
-**TM/HM:** TM71
+**TM/HM:** [TM71](../items/tm71.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

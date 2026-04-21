@@ -1,6 +1,6 @@
-# Low sweep
+# Low Sweep
 
-**TM/HM:** TM47
+**TM/HM:** [TM47](../items/tm47.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

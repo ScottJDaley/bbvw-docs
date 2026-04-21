@@ -1,6 +1,6 @@
 # Return
 
-**TM/HM:** TM27
+**TM/HM:** [TM27](../items/tm27.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

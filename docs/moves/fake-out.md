@@ -1,6 +1,6 @@
-# Fake out
+# Fake Out
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

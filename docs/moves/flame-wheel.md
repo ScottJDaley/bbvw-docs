@@ -1,6 +1,6 @@
-# Flame wheel
+# Flame Wheel
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

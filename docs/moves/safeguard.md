@@ -1,6 +1,6 @@
 # Safeguard
 
-**TM/HM:** TM20
+**TM/HM:** [TM20](../items/tm20.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

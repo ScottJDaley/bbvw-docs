@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BrightPowder
+# ![icon](../img/items/bright-powder.png) Bright Powder
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent's accuracy.

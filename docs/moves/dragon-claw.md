@@ -1,6 +1,6 @@
-# Dragon claw
+# Dragon Claw
 
-**TM/HM:** TM02
+**TM/HM:** [TM02](../items/tm02.md)
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

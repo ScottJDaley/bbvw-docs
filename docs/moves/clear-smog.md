@@ -1,6 +1,6 @@
-# Clear smog
+# Clear Smog
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

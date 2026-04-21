@@ -1,6 +1,6 @@
-# Psych up
+# Psych Up
 
-**TM/HM:** TM77
+**TM/HM:** [TM77](../items/tm77.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

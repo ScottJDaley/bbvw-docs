@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BalmMushroom
+# ![icon](../img/items/balm-mushroom.png) Balm Mushroom
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A rare mushroom that will spread a nice scent around the whole area. Enthusiasts with buy them for high prices.
@@ -9,5 +9,5 @@ A rare mushroom that will spread a nice scent around the whole area. Enthusiasts
 | Route | Type | Info |
 | --- | --- | --- |
 | [Abundant Shrine](../routes/abundant-shrine.md) | General |  |
-| [Striaton City](../routes/striaton-city.md) | General |  |
+| [Striaton City](../routes/striaton-city.md) | General | With Dowsing Machine |
 

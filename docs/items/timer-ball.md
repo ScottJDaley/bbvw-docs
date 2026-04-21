@@ -1,6 +1,6 @@
 # ![icon](../img/items/timer-ball.png) Timer Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A somewhat different Ball that becomes progressively better the more turns there are in a battle.
@@ -8,7 +8,7 @@ A somewhat different Ball that becomes progressively better the more turns there
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [Castelia City](../routes/castelia-city.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Challenger's Cave</span>](../routes/challengers-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |

@@ -1,6 +1,6 @@
 # Scald
 
-**TM/HM:** TM55
+**TM/HM:** [TM55](../items/tm55.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

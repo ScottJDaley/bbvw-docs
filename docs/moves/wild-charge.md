@@ -1,6 +1,6 @@
-# Wild charge
+# Wild Charge
 
-**TM/HM:** TM93
+**TM/HM:** [TM93](../items/tm93.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

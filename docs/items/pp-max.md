@@ -1,6 +1,6 @@
 # ![icon](../img/items/pp-max.png) PP Max
 
-**Category:** Misc
+**Category:** Evolutionary
 
 ## Description
 It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
@@ -12,5 +12,5 @@ It maximally raises the top PP of a selected move that has been learned by the t
 | [Challenger's Cave](../routes/challengers-cave.md) | General |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
-| [Relic Castle](../routes/relic-castle.md) | General |  |
+| [Relic Castle](../routes/relic-castle.md) | General | With Dowsing Machine |
 

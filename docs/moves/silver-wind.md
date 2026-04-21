@@ -1,6 +1,6 @@
-# Silver wind
+# Silver Wind
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

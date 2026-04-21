@@ -1,6 +1,6 @@
 # ![icon](../img/items/hyper-potion.png) Hyper Potion
 
-**Category:** Healing
+**Category:** Recovery
 
 ## Description
 Restores 200 HP.
@@ -17,16 +17,16 @@ Restores 200 HP.
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Cold Storage](../routes/cold-storage.md) | General |  |
-| [Cold Storage](../routes/cold-storage.md) | General |  |
-| [Desert Resort](../routes/desert-resort.md) | General |  |
+| [Cold Storage](../routes/cold-storage.md) | General | With Dowsing Machine |
+| [Desert Resort](../routes/desert-resort.md) | General | With Dowsing Machine |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
 | [Dreamyard](../routes/dreamyard.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
-| [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
-| [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
+| [Mistralton Cave](../routes/mistralton-cave.md) | General | With Dowsing Machine |
+| [Mistralton Cave](../routes/mistralton-cave.md) | General | With Dowsing Machine |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
@@ -35,16 +35,16 @@ Restores 200 HP.
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 10](../routes/route-10.md) | General |  |
 | [Route 11](../routes/route-11.md) | General |  |
-| [Route 11](../routes/route-11.md) | General |  |
+| [Route 11](../routes/route-11.md) | General | With Dowsing Machine |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
+| [Route 4](../routes/route-4.md) | General | With Dowsing Machine |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 5</span>](../routes/route-5.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 6</span>](../routes/route-6.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
-| [Twist Mountain](../routes/twist-mountain.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General | With Dowsing Machine |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |
-| [Victory Road](../routes/victory-road.md) | General |  |
-| [Wellspring Cave](../routes/wellspring-cave.md) | General |  |
+| [Victory Road](../routes/victory-road.md) | General | With Dowsing Machine |
+| [Wellspring Cave](../routes/wellspring-cave.md) | General | With Dowsing Machine |
 | [White Forest](../routes/white-forest.md) | Shop |  |
 

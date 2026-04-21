@@ -1,6 +1,6 @@
 # ![icon](../img/items/full-restore.png) Full Restore
 
-**Category:** Healing
+**Category:** Recovery
 
 ## Description
 Restores HP to full and cures any status ailment and confusion.
@@ -22,8 +22,8 @@ Restores HP to full and cures any status ailment and confusion.
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [Route 10](../routes/route-10.md) | General |  |
-| [Route 8](../routes/route-8.md) | General |  |
 | [Route 8](../routes/route-8.md) | General | From Bianca |
+| [Route 8](../routes/route-8.md) | General | With Dowsing Machine |
 | [Route 9](../routes/route-9.md) | General |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |

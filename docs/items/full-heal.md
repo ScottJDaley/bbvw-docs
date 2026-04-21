@@ -1,6 +1,6 @@
 # ![icon](../img/items/full-heal.png) Full Heal
 
-**Category:** Status-cures
+**Category:** Recovery
 
 ## Description
 Cures any status ailment and confusion.
@@ -31,7 +31,7 @@ Cures any status ailment and confusion.
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |
 | [Victory Road](../routes/victory-road.md) | General |  |
 | [Victory Road](../routes/victory-road.md) | General |  |
-| [Victory Road](../routes/victory-road.md) | General |  |
-| [Wellspring Cave](../routes/wellspring-cave.md) | General |  |
+| [Victory Road](../routes/victory-road.md) | General | With Dowsing Machine |
+| [Wellspring Cave](../routes/wellspring-cave.md) | General | With Dowsing Machine |
 | [White Forest](../routes/white-forest.md) | Shop |  |
 

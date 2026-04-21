@@ -1,6 +1,6 @@
 # Toxic
 
-**TM/HM:** TM06
+**TM/HM:** [TM06](../items/tm06.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

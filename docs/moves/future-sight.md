@@ -1,6 +1,6 @@
-# Future sight
+# Future Sight
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

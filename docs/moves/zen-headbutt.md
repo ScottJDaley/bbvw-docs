@@ -1,6 +1,6 @@
-# Zen headbutt
+# Zen Headbutt
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

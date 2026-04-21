@@ -1,6 +1,6 @@
 # Reflect
 
-**TM/HM:** TM33
+**TM/HM:** [TM33](../items/tm33.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

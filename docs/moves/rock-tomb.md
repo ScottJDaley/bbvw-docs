@@ -1,6 +1,6 @@
-# Rock tomb
+# Rock Tomb
 
-**TM/HM:** TM39
+**TM/HM:** [TM39](../items/tm39.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

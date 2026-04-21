@@ -1,6 +1,6 @@
-# Shadow ball
+# Shadow Ball
 
-**TM/HM:** TM30
+**TM/HM:** [TM30](../items/tm30.md)
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

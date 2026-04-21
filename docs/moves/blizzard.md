@@ -1,6 +1,6 @@
 # Blizzard
 
-**TM/HM:** TM14
+**TM/HM:** [TM14](../items/tm14.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

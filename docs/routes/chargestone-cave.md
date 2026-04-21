@@ -72,19 +72,19 @@
 ### General
 | Item |
 | --- |
-| ![Lucky Egg * 6](../img/items/lucky-egg.png) [Lucky Egg * 6](../items/lucky-egg.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lucky Egg</span> |
-| ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM69 Rock Polish (NPC)</span> |
-| ![Electirizer](../img/items/electirizer.png) [Electirizer](../items/electirizer.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>ThunderStone</span> |
-| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Lucky Egg * 6](../img/items/lucky-egg.png) [Lucky Egg * 6](../items/lucky-egg.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lucky Egg (From Professor Juniper)</span> |
+| ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM69 Rock Polish (NPC) (Gift from Sage)</span> |
+| ![Electirizer](../img/items/electirizer.png) [Electirizer](../items/electirizer.md) |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) (With Dowsing Machine) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
 | ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
-| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) (With Dowsing Machine) |
 | ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
-| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
-| ![BrightPowder](../img/items/unknown.png) [BrightPowder](../items/brightpowder.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) (With Dowsing Machine) |
+| ![Bright Powder](../img/items/bright-powder.png) [Bright Powder](../items/bright-powder.md) |
 | ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
 | ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
 | ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) |
@@ -109,12 +109,14 @@
 | ![Leaf Stone](../img/items/leaf-stone.png) [Leaf Stone](../items/leaf-stone.md) (Dustcloud) |
 | ![Moon Stone](../img/items/moon-stone.png) [Moon Stone](../items/moon-stone.md) (Dustcloud) |
 | ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) |
+| ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
 | ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
-| ![HP Up](../img/items/hp-up.png) [HP Up](../items/hp-up.md) |
+| ![HP Up](../img/items/hp-up.png) [HP Up](../items/hp-up.md) (With Dowsing Machine) |
 | ![Iron](../img/items/iron.png) [Iron](../items/iron.md) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
 | ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
-| ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
+| ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) (With Dowsing Machine) |
 | ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
 | ![Timer Ball](../img/items/timer-ball.png) [Timer Ball](../items/timer-ball.md) |
 
@@ -216,7 +218,7 @@
 ### Ace Trainer Stella
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
-| ![Farfetch'd](../img/pokemon/083.png) | [Farfetch'd](../pokemon/farfetchd.md) | 42 | - | - |  |
+| ![Farfetch'd](../img/pokemon/083.png) | [Farfetch'D](../pokemon/farfetchd.md) | 42 | - | - |  |
 | ![Hypno](../img/pokemon/097.png) | [Hypno](../pokemon/hypno.md) | 42 | - | - |  |
 | ![Arcanine](../img/pokemon/059.png) | [Arcanine](../pokemon/arcanine.md) | 42 | - | - |  |
 

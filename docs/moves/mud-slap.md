@@ -1,6 +1,6 @@
-# Mud slap
+# Mud Slap
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

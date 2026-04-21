@@ -6,8 +6,8 @@
 | --- |
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
 | ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) (From Bianca) |
-| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
-| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) (With Dowsing Machine) |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) (With Dowsing Machine) |
 | ![Damp Rock](../img/items/damp-rock.png) [Damp Rock](../items/damp-rock.md) |
 | ![Heat Rock](../img/items/heat-rock.png) [Heat Rock](../items/heat-rock.md) |
 | ![Icy Rock](../img/items/icy-rock.png) [Icy Rock](../items/icy-rock.md) |

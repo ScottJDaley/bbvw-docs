@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) EnergyPowder
+# ![icon](../img/items/energy-powder.png) Energy Powder
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A very bitter medicine powder. It restores the HP of one Pokémon by 50 points.

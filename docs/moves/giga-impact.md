@@ -1,6 +1,6 @@
-# Giga impact
+# Giga Impact
 
-**TM/HM:** TM68
+**TM/HM:** [TM68](../items/tm68.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

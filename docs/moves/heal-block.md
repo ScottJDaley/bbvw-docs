@@ -1,6 +1,6 @@
-# Heal block
+# Heal Block
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

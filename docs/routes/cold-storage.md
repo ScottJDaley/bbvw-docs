@@ -38,14 +38,14 @@
 | --- |
 | ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
 | ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
-| ![NeverMeltIce](../img/items/unknown.png) [NeverMeltIce](../items/nevermeltice.md) |
+| ![Never Melt Ice](../img/items/never-melt-ice.png) [Never Melt Ice](../items/never-melt-ice.md) |
 | ![Rocky Helmet](../img/items/rocky-helmet.png) [Rocky Helmet](../items/rocky-helmet.md) |
 | ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
 | ![Protein](../img/items/protein.png) [Protein](../items/protein.md) |
 | ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
-| ![Dive Ball](../img/items/dive-ball.png) [Dive Ball](../items/dive-ball.md) |
+| ![Dive Ball](../img/items/dive-ball.png) [Dive Ball](../items/dive-ball.md) (With Dowsing Machine) |
 | ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
 | ![TM01 Hone Claws](../img/items/tm-dark.png) [TM01 Hone Claws](../items/tm01.md) (Gift from Sage) |
 | ![TM55 Scald](../img/items/tm-water.png) [TM55 Scald](../items/tm55.md) |
@@ -53,15 +53,15 @@
 ### Inside
 | Item |
 | --- |
-| ![Metal Coat * 2](../img/items/metal-coat.png) [Metal Coat * 2](../items/metal-coat.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Net Ball</span> |
-| ![Choice Scarf](../img/items/choice-scarf.png) [Choice Scarf](../items/choice-scarf.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM01 Hone Claws (NPC)</span> |
-| ![Razor Claw](../img/items/razor-claw.png) [Razor Claw](../items/razor-claw.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ice Heal</span> |
+| ![Metal Coat * 2](../img/items/metal-coat.png) [Metal Coat * 2](../items/metal-coat.md) |
+| ![Choice Scarf](../img/items/choice-scarf.png) [Choice Scarf](../items/choice-scarf.md) |
+| ![Razor Claw](../img/items/razor-claw.png) [Razor Claw](../items/razor-claw.md) |
 
 ### Outside
 | Item |
 | --- |
-| ![Dawn Stone * 6](../img/items/dawn-stone.png) [Dawn Stone * 6](../items/dawn-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Protein</span> |
-| ![Razor Fang](../img/items/razor-fang.png) [Razor Fang](../items/razor-fang.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Ether</span> |
+| ![Dawn Stone * 6](../img/items/dawn-stone.png) [Dawn Stone * 6](../items/dawn-stone.md) |
+| ![Razor Fang](../img/items/razor-fang.png) [Razor Fang](../items/razor-fang.md) |
 
 ### Shop
 | Item |

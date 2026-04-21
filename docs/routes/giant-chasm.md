@@ -75,7 +75,7 @@
 | Sprite | Pokemon | Rate |
 | --- | --- | --- |
 | ![poliwhirl](../img/pokemon/061.png) | [Poliwhirl](../pokemon/poliwhirl.md) | 65% |
-| ![basculin](../img/pokemon/550.png) | [Baculin](../pokemon/basculin.md) | 30% |
+| | Baculin | 30% |
 | ![poliwrath](../img/pokemon/062.png) | [Poliwrath](../pokemon/poliwrath.md) | 5% |
 
 ### Outside Area
@@ -197,10 +197,10 @@
 | ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
 | ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
 | ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
-| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) (With Dowsing Machine) |
 | ![Comet Shard](../img/items/comet-shard.png) [Comet Shard](../items/comet-shard.md) |
 | ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
 | ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
 

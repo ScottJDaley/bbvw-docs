@@ -1,6 +1,6 @@
 # ![icon](../img/items/revive.png) Revive
 
-**Category:** Revival
+**Category:** Recovery
 
 ## Description
 Revives with half HP.
@@ -15,7 +15,7 @@ Revives with half HP.
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Celestial Tower</span>](../routes/celestial-tower.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
+| [Chargestone Cave](../routes/chargestone-cave.md) | General | With Dowsing Machine |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
 | [Dreamyard](../routes/dreamyard.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
@@ -24,8 +24,8 @@ Revives with half HP.
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | General |  |
-| [Nacrene City](../routes/nacrene-city.md) | General |  |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | General | With Dowsing Machine |
+| [Nacrene City](../routes/nacrene-city.md) | General | With Dowsing Machine |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
@@ -36,9 +36,9 @@ Revives with half HP.
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General |  |
-| [Twist Mountain](../routes/twist-mountain.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General | With Dowsing Machine |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |
-| [Victory Road](../routes/victory-road.md) | General |  |
-| [Wellspring Cave](../routes/wellspring-cave.md) | General |  |
+| [Victory Road](../routes/victory-road.md) | General | With Dowsing Machine |
+| [Wellspring Cave](../routes/wellspring-cave.md) | General | With Dowsing Machine |
 | [White Forest](../routes/white-forest.md) | Shop |  |
 

@@ -1,6 +1,6 @@
-# Aurora beam
+# Aurora Beam
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

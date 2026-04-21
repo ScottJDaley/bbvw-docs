@@ -1,6 +1,6 @@
 # Protect
 
-**TM/HM:** TM17
+**TM/HM:** [TM17](../items/tm17.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

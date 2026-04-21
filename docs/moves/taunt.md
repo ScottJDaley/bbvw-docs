@@ -1,6 +1,6 @@
 # Taunt
 
-**TM/HM:** TM12
+**TM/HM:** [TM12](../items/tm12.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

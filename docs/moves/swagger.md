@@ -1,6 +1,6 @@
 # Swagger
 
-**TM/HM:** TM87
+**TM/HM:** [TM87](../items/tm87.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

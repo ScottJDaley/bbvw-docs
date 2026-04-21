@@ -1,6 +1,6 @@
-# Aqua ring
+# Aqua Ring
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
 # Incinerate
 
-**TM/HM:** TM59
+**TM/HM:** [TM59](../items/tm59.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

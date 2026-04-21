@@ -1,6 +1,6 @@
-# Hydro cannon
+# Hydro Cannon
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

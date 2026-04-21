@@ -1,6 +1,6 @@
 # Pluck
 
-**TM/HM:** TM88
+**TM/HM:** [TM88](../items/tm88.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

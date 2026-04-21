@@ -1,6 +1,6 @@
-# Rain dance
+# Rain Dance
 
-**TM/HM:** TM18
+**TM/HM:** [TM18](../items/tm18.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

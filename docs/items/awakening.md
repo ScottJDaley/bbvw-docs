@@ -1,6 +1,6 @@
 # ![icon](../img/items/awakening.png) Awakening
 
-**Category:** Status-cures
+**Category:** Recovery
 
 ## Description
 Cures sleep.
@@ -11,7 +11,7 @@ Cures sleep.
 | [Accumula Town](../routes/accumula-town.md) | PokéMart |  |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
-| [Dreamyard](../routes/dreamyard.md) | General |  |
+| [Dreamyard](../routes/dreamyard.md) | General | With Dowsing Machine |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |

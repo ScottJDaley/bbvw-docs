@@ -1,6 +1,6 @@
 # ![icon](../img/items/max-revive.png) Max Revive
 
-**Category:** Revival
+**Category:** Recovery
 
 ## Description
 Revives with full HP.
@@ -14,8 +14,8 @@ Revives with full HP.
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Relic Castle](../routes/relic-castle.md) | General |  |
 | [Route 10](../routes/route-10.md) | General | From Bianca |
-| [Route 11](../routes/route-11.md) | General |  |
+| [Route 11](../routes/route-11.md) | General | With Dowsing Machine |
 | [Route 13](../routes/route-13.md) | General |  |
-| [Route 15](../routes/route-15.md) | General |  |
+| [Route 15](../routes/route-15.md) | General | With Dowsing Machine |
 | [Victory Road](../routes/victory-road.md) | General |  |
 

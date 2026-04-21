@@ -1,6 +1,6 @@
 # Snarl
 
-**TM/HM:** TM95
+**TM/HM:** [TM95](../items/tm95.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

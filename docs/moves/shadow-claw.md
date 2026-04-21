@@ -1,6 +1,6 @@
-# Shadow claw
+# Shadow Claw
 
-**TM/HM:** TM65
+**TM/HM:** [TM65](../items/tm65.md)
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

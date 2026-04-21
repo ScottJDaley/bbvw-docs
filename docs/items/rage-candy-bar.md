@@ -5,3 +5,8 @@
 ## Description
 HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.
 
+## Locations
+| Route | Type | Info |
+| --- | --- | --- |
+| [Driftveil City](../routes/driftveil-city.md) | General |  |
+

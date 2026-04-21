@@ -1,6 +1,6 @@
-# Sludge wave
+# Sludge Wave
 
-**TM/HM:** TM34
+**TM/HM:** [TM34](../items/tm34.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

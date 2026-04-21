@@ -1,6 +1,6 @@
-# Dream eater
+# Dream Eater
 
-**TM/HM:** TM85
+**TM/HM:** [TM85](../items/tm85.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

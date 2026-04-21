@@ -1,6 +1,6 @@
-# Thunder wave
+# Thunder Wave
 
-**TM/HM:** TM73
+**TM/HM:** [TM73](../items/tm73.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

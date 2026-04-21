@@ -49,9 +49,9 @@
 | Item |
 | --- |
 | ![Thick Club](../img/items/thick-club.png) [Thick Club](../items/thick-club.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Up-Grade</span> |
-| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock</span> |
-| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Black Sludge](../img/items/black-sludge.png) [Black Sludge](../items/black-sludge.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM09 Venoshock (Gift)</span> |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) (With Dowsing Machine) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 
 ### Shop
 | Item |

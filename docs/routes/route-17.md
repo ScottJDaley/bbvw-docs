@@ -105,10 +105,10 @@
 ### General
 | Item |
 | --- |
-| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
-| ![DeepSeaTooth](../img/items/unknown.png) [DeepSeaTooth](../items/deepseatooth.md) |
-| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
-| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![Deep Sea Tooth](../img/items/deep-sea-tooth.png) [Deep Sea Tooth](../items/deep-sea-tooth.md) |
+| ![Deep Sea Tooth](../img/items/deep-sea-tooth.png) [Deep Sea Tooth](../items/deep-sea-tooth.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) (With Dowsing Machine) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) (With Dowsing Machine) |
 | ![TM06 Toxic](../img/items/tm-poison.png) [TM06 Toxic](../items/tm06.md) |
 
 ## Trainers

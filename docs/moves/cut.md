@@ -1,6 +1,6 @@
 # Cut
 
-**TM/HM:** HM01
+**TM/HM:** [HM01](../items/hm01.md)
 
 **Type:** ![grass](../img/types/grass.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">normal</span>  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -79,7 +79,6 @@
 | ![X Accuracy](../img/items/x-accuracy.png) [X Accuracy](../items/x-accuracy.md) |
 | ![X Attack](../img/items/x-attack.png) [X Attack](../items/x-attack.md) |
 | ![X Defend](../img/items/unknown.png) [X Defend](../items/x-defend.md) |
-| ![X Speed](../img/items/x-speed.png) [X Speed](../items/x-speed.md) |
 | ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) |
 | ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
 | ![HP Up](../img/items/hp-up.png) [HP Up](../items/hp-up.md) |

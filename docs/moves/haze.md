@@ -1,6 +1,6 @@
 # Haze
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

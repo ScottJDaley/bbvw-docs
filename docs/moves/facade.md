@@ -1,6 +1,6 @@
 # Facade
 
-**TM/HM:** TM42
+**TM/HM:** [TM42](../items/tm42.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
-# Dragon tail
+# Dragon Tail
 
-**TM/HM:** TM82
+**TM/HM:** [TM82](../items/tm82.md)
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

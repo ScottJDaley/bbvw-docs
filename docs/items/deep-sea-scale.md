@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) DeepSeaScale
+# ![icon](../img/items/deep-sea-scale.png) Deep Sea Scale
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.

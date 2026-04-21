@@ -1,6 +1,6 @@
 # ![icon](../img/items/iron.png) Iron
 
-**Category:** Misc
+**Category:** Evolutionary
 
 ## Description
 A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
@@ -12,5 +12,5 @@ A nutritious drink for Pokémon. It raises the base Defense stat of a single Pok
 | [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
-| [Twist Mountain](../routes/twist-mountain.md) | General |  |
+| [Twist Mountain](../routes/twist-mountain.md) | General | With Dowsing Machine |
 

@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BlackGlasses
+# ![icon](../img/items/black-glasses.png) Black Glasses
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves.

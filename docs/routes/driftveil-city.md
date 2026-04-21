@@ -34,7 +34,7 @@
 ### General
 | Item |
 | --- |
-| ![RageCandyBar](../img/items/unknown.png) [RageCandyBar](../items/ragecandybar.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM02 Fly (NPC)</span> |
+| ![Rage Candy Bar](../img/items/rage-candy-bar.png) [Rage Candy Bar](../items/rage-candy-bar.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM02 Fly (NPC) (From Bianca)</span> |
 | ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone</span> |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
 | ![Expert Belt](../img/items/expert-belt.png) [Expert Belt](../items/expert-belt.md) (Show Lv. 30 Pokémon in Market) |

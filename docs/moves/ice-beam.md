@@ -1,6 +1,6 @@
-# Ice beam
+# Ice Beam
 
-**TM/HM:** TM13
+**TM/HM:** [TM13](../items/tm13.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

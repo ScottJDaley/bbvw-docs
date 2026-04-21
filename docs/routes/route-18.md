@@ -4,16 +4,16 @@
 ### General
 | Item |
 | --- |
-| ![Zoom Lens](../img/items/zoom-lens.png) [Zoom Lens](../items/zoom-lens.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM32 Double Team (NPC)</span> |
+| ![Zoom Lens](../img/items/zoom-lens.png) [Zoom Lens](../items/zoom-lens.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM32 Double Team (NPC) (Gift from Sage)</span> |
 | ![TM87 Swagger](../img/items/tm-normal.png) [TM87 Swagger](../items/tm87.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM19 Telekenesis</span> |
 | ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
 | ![Dragon Scale](../img/items/dragon-scale.png) [Dragon Scale](../items/dragon-scale.md) |
-| ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) |
-| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) |
-| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) |
+| ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) (With Dowsing Machine) |
+| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) (With Dowsing Machine) |
+| ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) (With Dowsing Machine) |
 | ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
-| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
-| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) (With Dowsing Machine) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) (With Dowsing Machine) |
 | ![HM05 Waterfall](../img/items/tm-water.png) [HM05 Waterfall](../items/hm05.md) |
 
 ## Trainers

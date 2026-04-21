@@ -1,6 +1,6 @@
-# Poison jab
+# Poison Jab
 
-**TM/HM:** TM84
+**TM/HM:** [TM84](../items/tm84.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

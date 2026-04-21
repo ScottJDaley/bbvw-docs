@@ -1,6 +1,6 @@
-# Pin missile
+# Pin Missile
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

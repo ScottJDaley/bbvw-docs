@@ -1,6 +1,6 @@
-# Ice ball
+# Ice Ball
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

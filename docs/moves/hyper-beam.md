@@ -1,6 +1,6 @@
-# Hyper beam
+# Hyper Beam
 
-**TM/HM:** TM15
+**TM/HM:** [TM15](../items/tm15.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
-# Poison tail
+# Poison Tail
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

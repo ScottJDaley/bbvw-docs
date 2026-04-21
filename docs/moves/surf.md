@@ -1,6 +1,6 @@
 # Surf
 
-**TM/HM:** HM03
+**TM/HM:** [HM03](../items/hm03.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

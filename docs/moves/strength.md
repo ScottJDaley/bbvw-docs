@@ -1,6 +1,6 @@
 # Strength
 
-**TM/HM:** HM04
+**TM/HM:** [HM04](../items/hm04.md)
 
 **Type:** ![rock](../img/types/rock.png) <span style="text-decoration:line-through; color:red; font-size:0.9em;">normal</span>  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

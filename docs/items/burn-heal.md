@@ -1,6 +1,6 @@
 # ![icon](../img/items/burn-heal.png) Burn Heal
 
-**Category:** Status-cures
+**Category:** Recovery
 
 ## Description
 Cures a burn.
@@ -20,7 +20,7 @@ Cures a burn.
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 4</span>](../routes/route-4.md) | General |  |
+| [Route 4](../routes/route-4.md) | General | With Dowsing Machine |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |

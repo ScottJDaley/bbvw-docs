@@ -1,6 +1,6 @@
 # ![icon](../img/items/star-piece.png) Star Piece
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
@@ -9,7 +9,7 @@ A shard of a pretty gem that sparkles in a red color. It can be sold at a high p
 | Route | Type | Info |
 | --- | --- | --- |
 | [Black City](../routes/black-city.md) | PokéMart |  |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
+| [Chargestone Cave](../routes/chargestone-cave.md) | General | With Dowsing Machine |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |

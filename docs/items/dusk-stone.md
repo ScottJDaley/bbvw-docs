@@ -1,6 +1,6 @@
 # ![icon](../img/items/dusk-stone.png) Dusk Stone
 
-**Category:** Evolution
+**Category:** Evolutionary
 
 ## Description
 Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow.
@@ -13,7 +13,7 @@ Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow int
 | [Chargestone Cave](../routes/chargestone-cave.md) | General | Dustcloud |
 | [Giant Chasm](../routes/giant-chasm.md) | General | Dustcloud |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Mistralton Cave</span>](../routes/mistralton-cave.md) | General |  |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Mistralton Cave</span>](../routes/mistralton-cave.md) | General | Dustcloud |
+| [Mistralton Cave](../routes/mistralton-cave.md) | General | Dustcloud |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 10</span>](../routes/route-10.md) | General |  |
 | [Route 6](../routes/route-6.md) | General |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General | Dustcloud |

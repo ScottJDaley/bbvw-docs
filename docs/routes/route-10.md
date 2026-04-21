@@ -100,7 +100,7 @@
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
 | ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
 | ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) (From Bianca) |
 | ![TM05 Roar](../img/items/tm-normal.png) [TM05 Roar](../items/tm05.md) |
 

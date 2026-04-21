@@ -1,6 +1,6 @@
-# Focus blast
+# Focus Blast
 
-**TM/HM:** TM52
+**TM/HM:** [TM52](../items/tm52.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

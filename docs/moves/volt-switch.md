@@ -1,6 +1,6 @@
-# Volt switch
+# Volt Switch
 
-**TM/HM:** TM72
+**TM/HM:** [TM72](../items/tm72.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
 # Torment
 
-**TM/HM:** TM41
+**TM/HM:** [TM41](../items/tm41.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

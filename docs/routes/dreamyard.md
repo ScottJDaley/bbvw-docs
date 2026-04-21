@@ -58,16 +58,16 @@
 | --- |
 | ![TM23 Smack Down](../img/items/tm-rock.png) [TM23 Smack Down](../items/tm23.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Repel</span> |
 | ![TM59 Incinerate](../img/items/tm-fire.png) [TM59 Incinerate](../items/tm59.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Poke Ball</span> |
-| ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM75 Swords Dance</span> |
-| ![TM76 Struggle Bug](../img/items/tm-bug.png) [TM76 Struggle Bug](../items/tm76.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Potion</span> |
+| ![Wide Lens](../img/items/wide-lens.png) [Wide Lens](../items/wide-lens.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM75 Swords Dance (Gift from Sage)</span> |
+| ![TM76 Struggle Bug](../img/items/tm-bug.png) [TM76 Struggle Bug](../items/tm76.md) |
 | ![TM88 Pluck](../img/items/tm-flying.png) [TM88 Pluck](../items/tm88.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Parlyz Heal</span> |
-| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) (With Dowsing Machine) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
 | ![X Defend](../img/items/unknown.png) [X Defend](../items/x-defend.md) |
-| ![TwistedSpoon](../img/items/unknown.png) [TwistedSpoon](../items/twistedspoon.md) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Twisted Spoon](../img/items/twisted-spoon.png) [Twisted Spoon](../items/twisted-spoon.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![TM85 Dream Eater](../img/items/tm-psychic.png) [TM85 Dream Eater](../items/tm85.md) |
 
 ## Trainers

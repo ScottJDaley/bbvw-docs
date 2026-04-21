@@ -1,6 +1,6 @@
 # Frustration
 
-**TM/HM:** TM21
+**TM/HM:** [TM21](../items/tm21.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

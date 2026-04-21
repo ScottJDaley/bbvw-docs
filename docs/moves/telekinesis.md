@@ -1,6 +1,6 @@
 # Telekinesis
 
-**TM/HM:** TM19
+**TM/HM:** [TM19](../items/tm19.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

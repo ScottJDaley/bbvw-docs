@@ -1,6 +1,6 @@
 # Substitute
 
-**TM/HM:** TM90
+**TM/HM:** [TM90](../items/tm90.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

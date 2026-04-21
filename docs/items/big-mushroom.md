@@ -1,6 +1,6 @@
 # ![icon](../img/items/big-mushroom.png) Big Mushroom
 
-**Category:** Loot
+**Category:** Miscellaneous
 
 ## Description
 Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.
@@ -8,13 +8,13 @@ Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédoll
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Abundant Shrine](../routes/abundant-shrine.md) | General |  |
+| [Abundant Shrine](../routes/abundant-shrine.md) | General | With Dowsing Machine |
 | [Black City](../routes/black-city.md) | PokéMart |  |
-| [Giant Chasm](../routes/giant-chasm.md) | General |  |
+| [Giant Chasm](../routes/giant-chasm.md) | General | With Dowsing Machine |
 | [Icirrus City](../routes/icirrus-city.md) | General | Winter Only |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lostlorn Forest</span>](../routes/lostlorn-forest.md) | General |  |
-| [Moor of Icirrus](../routes/moor-of-icirrus.md) | General |  |
+| [Moor of Icirrus](../routes/moor-of-icirrus.md) | General | With Dowsing Machine |
 | [Route 1](../routes/route-1.md) | General |  |
-| [Route 12](../routes/route-12.md) | General |  |
-| [Route 6](../routes/route-6.md) | General |  |
+| [Route 12](../routes/route-12.md) | General | With Dowsing Machine |
+| [Route 6](../routes/route-6.md) | General | With Dowsing Machine |
 

@@ -1,6 +1,6 @@
 # Detect
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

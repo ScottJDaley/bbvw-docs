@@ -1,6 +1,6 @@
-# Sunny day
+# Sunny Day
 
-**TM/HM:** TM11
+**TM/HM:** [TM11](../items/tm11.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

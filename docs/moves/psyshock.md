@@ -1,6 +1,6 @@
 # Psyshock
 
-**TM/HM:** TM03
+**TM/HM:** [TM03](../items/tm03.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

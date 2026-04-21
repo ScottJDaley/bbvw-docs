@@ -5,10 +5,10 @@
 | Item |
 | --- |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
-| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
-| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) (With Dowsing Machine) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) (With Dowsing Machine) |
 | ![Sharp Beak](../img/items/sharp-beak.png) [Sharp Beak](../items/sharp-beak.md) |
-| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
+| ![Repel](../img/items/repel.png) [Repel](../items/repel.md) (With Dowsing Machine) |
 | ![TM58 Sky Drop](../img/items/tm-flying.png) [TM58 Sky Drop](../items/tm58.md) |
 
 ### PokéMart
@@ -74,7 +74,7 @@
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Swellow](../img/pokemon/277.png) | [Swellow](../pokemon/swellow.md) | 52 | - | - |  |
-| ![Farfetch'd](../img/pokemon/083.png) | [Farfetch'd](../pokemon/farfetchd.md) | 52 | - | - |  |
+| ![Farfetch'd](../img/pokemon/083.png) | [Farfetch'D](../pokemon/farfetchd.md) | 52 | - | - |  |
 | ![Aerodactyl](../img/pokemon/142.png) | [Aerodactyl](../pokemon/aerodactyl.md) | 52 | - | - |  |
 | ![Archeops](../img/pokemon/567.png) | [Archeops](../pokemon/archeops.md) | 52 | - | - |  |
 | ![Pidgeot](../img/pokemon/018.png) | [Pidgeot](../pokemon/pidgeot.md) | 52 | - | - |  |

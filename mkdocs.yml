@@ -764,1155 +764,1181 @@ nav:
     - Challenger’s Cave: routes/challengers-cave.md
   - Items:
     - items/index.md
-    - Absorb Bulb: items/absorb-bulb.md
-    - Adamant Orb: items/adamant-orb.md
-    - air-balloon: items/air-balloon.md
-    - amulet-coin: items/amulet-coin.md
-    - antidote: items/antidote.md
-    - armor-fossil: items/armor-fossil.md
-    - awakening: items/awakening.md
-    - BalmMushroom: items/balmmushroom.md
-    - Berry Juice: items/berry-juice.md
-    - bicycle: items/bicycle.md
-    - big-mushroom: items/big-mushroom.md
-    - Big Nugget: items/big-nugget.md
-    - Big Pearl: items/big-pearl.md
-    - Big Root: items/big-root.md
-    - binding-band: items/binding-band.md
-    - Black Belt: items/black-belt.md
-    - Black Flute: items/black-flute.md
-    - black-sludge: items/black-sludge.md
-    - BlackGlasses: items/blackglasses.md
-    - Blue Flute: items/blue-flute.md
-    - Blue Scarf: items/blue-scarf.md
-    - Blue Shard: items/blue-shard.md
-    - BridgeMail D: items/bridgemail-d.md
-    - BridgeMail M: items/bridgemail-m.md
-    - BridgeMail S: items/bridgemail-s.md
-    - BridgeMail T: items/bridgemail-t.md
-    - BridgeMail V: items/bridgemail-v.md
-    - BrightPowder: items/brightpowder.md
-    - Bug Gem: items/bug-gem.md
-    - Burn Drive: items/burn-drive.md
-    - burn-heal: items/burn-heal.md
-    - Calcium: items/calcium.md
-    - carbos: items/carbos.md
-    - Casteliacone: items/casteliacone.md
-    - Cell Battery: items/cell-battery.md
-    - Charcoal: items/charcoal.md
-    - Cherish Ball: items/cherish-ball.md
-    - chesto-berry: items/chesto-berry.md
-    - Chill Drive: items/chill-drive.md
-    - choice-band: items/choice-band.md
-    - choice-scarf: items/choice-scarf.md
-    - choice-specs: items/choice-specs.md
-    - claw-fossil: items/claw-fossil.md
-    - Cleanse Tag: items/cleanse-tag.md
-    - Clever Wing: items/clever-wing.md
-    - Comet Shard: items/comet-shard.md
-    - cover-fossil: items/cover-fossil.md
-    - Damp Rock: items/damp-rock.md
-    - Dark Gem: items/dark-gem.md
-    - Dark Stone: items/dark-stone.md
-    - dawn-stone: items/dawn-stone.md
-    - DeepSeaScale: items/deepseascale.md
-    - DeepSeaTooth: items/deepseatooth.md
-    - Destiny Knot: items/destiny-knot.md
-    - Dire Hit: items/dire-hit.md
-    - dive-ball: items/dive-ball.md
-    - dome-fossil: items/dome-fossil.md
-    - Douse Drive: items/douse-drive.md
-    - Dowsing MCHN: items/dowsing-mchn.md
-    - Draco Plate: items/draco-plate.md
-    - Dragon Fang: items/dragon-fang.md
-    - Dragon Gem: items/dragon-gem.md
-    - dragon-scale: items/dragon-scale.md
-    - Dragon Skull: items/dragon-skull.md
-    - Dread Plate: items/dread-plate.md
-    - Dream Ball: items/dream-ball.md
-    - dubious-disc: items/dubious-disc.md
-    - dusk-ball: items/dusk-ball.md
-    - dusk-stone: items/dusk-stone.md
-    - Earth Plate: items/earth-plate.md
-    - Eject Button: items/eject-button.md
-    - electirizer: items/electirizer.md
-    - Electric Gem: items/electric-gem.md
-    - Elixir: items/elixir.md
-    - Energy Root: items/energy-root.md
-    - EnergyPowder: items/energypowder.md
-    - escape-rope: items/escape-rope.md
-    - Ether: items/ether.md
-    - everstone: items/everstone.md
-    - Eviolite: items/eviolite.md
-    - exp-share: items/exp-share.md
-    - expert-belt: items/expert-belt.md
-    - Favored Mail: items/favored-mail.md
-    - Fighting Gem: items/fighting-gem.md
-    - Fire Gem: items/fire-gem.md
-    - fire-stone: items/fire-stone.md
-    - Fist Plate: items/fist-plate.md
-    - Flame Orb: items/flame-orb.md
-    - Flame Plate: items/flame-plate.md
-    - Float Stone: items/float-stone.md
-    - Fluffy Tail: items/fluffy-tail.md
-    - Flying Gem: items/flying-gem.md
-    - focus-band: items/focus-band.md
-    - focus-sash: items/focus-sash.md
-    - fresh-water: items/fresh-water.md
-    - full-heal: items/full-heal.md
-    - Full Incense: items/full-incense.md
-    - full-restore: items/full-restore.md
-    - Genius Wing: items/genius-wing.md
-    - Ghost Gem: items/ghost-gem.md
-    - good-rod: items/good-rod.md
-    - Gracidea: items/gracidea.md
-    - Gram 1: items/gram-1.md
-    - Gram 2: items/gram-2.md
-    - Gram 3: items/gram-3.md
-    - Grass Gem: items/grass-gem.md
-    - great-ball: items/great-ball.md
-    - Green Scarf: items/green-scarf.md
-    - Green Shard: items/green-shard.md
-    - Greet Mail: items/greet-mail.md
-    - grip-claw: items/grip-claw.md
-    - Griseous Orb: items/griseous-orb.md
-    - Ground Gem: items/ground-gem.md
-    - Guard Spec.: items/guard-spec.md
-    - Hard Stone: items/hard-stone.md
-    - Heal Ball: items/heal-ball.md
-    - Heal Powder: items/heal-powder.md
-    - Health Wing: items/health-wing.md
-    - Heart Scale: items/heart-scale.md
-    - Heat Rock: items/heat-rock.md
-    - helix-fossil: items/helix-fossil.md
-    - hm01: items/hm01.md
-    - hm02: items/hm02.md
-    - hm03: items/hm03.md
-    - hm04: items/hm04.md
-    - hm05: items/hm05.md
-    - hm06: items/hm06.md
-    - Honey: items/honey.md
-    - HP Up: items/hp-up.md
-    - hyper-potion: items/hyper-potion.md
-    - Ice Gem: items/ice-gem.md
-    - ice-heal: items/ice-heal.md
-    - Icicle Plate: items/icicle-plate.md
-    - Icy Rock: items/icy-rock.md
-    - Inquiry Mail: items/inquiry-mail.md
-    - Insect Plate: items/insect-plate.md
-    - Iron: items/iron.md
-    - Iron Ball: items/iron-ball.md
-    - Iron Plate: items/iron-plate.md
-    - kings-rock: items/kings-rock.md
-    - Lagging Tail: items/lagging-tail.md
-    - Lava Cookie: items/lava-cookie.md
-    - Lax Incense: items/lax-incense.md
-    - leaf-stone: items/leaf-stone.md
-    - Leftovers: items/leftovers.md
-    - Lemonade: items/lemonade.md
-    - Liberty Pass: items/liberty-pass.md
-    - life-orb: items/life-orb.md
-    - light-ball: items/light-ball.md
-    - light-clay: items/light-clay.md
-    - Light Stone: items/light-stone.md
-    - Like Mail: items/like-mail.md
-    - Lock Capsule: items/lock-capsule.md
-    - Luck Incense: items/luck-incense.md
-    - lucky-egg: items/lucky-egg.md
-    - lucky-punch: items/lucky-punch.md
-    - Lustrous Orb: items/lustrous-orb.md
-    - Luxury Ball: items/luxury-ball.md
-    - Macho Brace: items/macho-brace.md
-    - magmarizer: items/magmarizer.md
-    - Magnet: items/magnet.md
-    - master-ball: items/master-ball.md
-    - Max Elixir: items/max-elixir.md
-    - Max Ether: items/max-ether.md
-    - max-potion: items/max-potion.md
-    - max-repel: items/max-repel.md
-    - max-revive: items/max-revive.md
-    - Meadow Plate: items/meadow-plate.md
-    - mental-herb: items/mental-herb.md
-    - metal-coat: items/metal-coat.md
-    - Metal Powder: items/metal-powder.md
-    - metronome: items/metronome.md
-    - Mind Plate: items/mind-plate.md
-    - Miracle Seed: items/miracle-seed.md
-    - Moomoo Milk: items/moomoo-milk.md
-    - Moon Stone: items/moon-stone.md
-    - muscle-band: items/muscle-band.md
-    - Muscle Wing: items/muscle-wing.md
-    - Mystic Water: items/mystic-water.md
-    - Nest Ball: items/nest-ball.md
-    - net-ball: items/net-ball.md
-    - NeverMeltIce: items/nevermeltice.md
-    - Normal Gem: items/normal-gem.md
-    - Nugget: items/nugget.md
-    - Odd Incense: items/odd-incense.md
-    - old-amber: items/old-amber.md
-    - Old Gateau: items/old-gateau.md
-    - old-rod: items/old-rod.md
-    - oval-stone: items/oval-stone.md
-    - Pal Pad: items/pal-pad.md
-    - paralyze-heal: items/paralyze-heal.md
-    - Parlyz Heal: items/parlyz-heal.md
-    - Pass Orb: items/pass-orb.md
-    - Pearl: items/pearl.md
-    - Pearl String: items/pearl-string.md
-    - Pink Scarf: items/pink-scarf.md
-    - plume-fossil: items/plume-fossil.md
-    - Poison Barb: items/poison-barb.md
-    - Poison Gem: items/poison-gem.md
-    - Poké Ball: items/poke-ball.md
-    - Poké Doll: items/poke-doll.md
-    - Poké Toy: items/poke-toy.md
-    - potion: items/potion.md
-    - Power Anklet: items/power-anklet.md
-    - Power Band: items/power-band.md
-    - Power Belt: items/power-belt.md
-    - Power Bracer: items/power-bracer.md
-    - power-herb: items/power-herb.md
-    - Power Lens: items/power-lens.md
-    - Power Weight: items/power-weight.md
-    - PP Max: items/pp-max.md
-    - PP Up: items/pp-up.md
-    - Premier Ball: items/premier-ball.md
-    - Pretty Wing: items/pretty-wing.md
-    - prism-scale: items/prism-scale.md
-    - Prop Case: items/prop-case.md
-    - protector: items/protector.md
-    - protein: items/protein.md
-    - Psychic Gem: items/psychic-gem.md
-    - Pure Incense: items/pure-incense.md
-    - Quick Ball: items/quick-ball.md
-    - Quick Claw: items/quick-claw.md
-    - quick-powder: items/quick-powder.md
-    - rage-candy-bar: items/rage-candy-bar.md
-    - Ragecandybar: items/ragecandybar.md
-    - Rare Bone: items/rare-bone.md
-    - rare-candy: items/rare-candy.md
-    - razor-claw: items/razor-claw.md
-    - razor-fang: items/razor-fang.md
-    - reaper-cloth: items/reaper-cloth.md
-    - Red Card: items/red-card.md
-    - Red Flute: items/red-flute.md
-    - Red Scarf: items/red-scarf.md
-    - Red Shard: items/red-shard.md
-    - Relic Band: items/relic-band.md
-    - Relic Copper: items/relic-copper.md
-    - Relic Crown: items/relic-crown.md
-    - Relic Gold: items/relic-gold.md
-    - Relic Silver: items/relic-silver.md
-    - Relic Statue: items/relic-statue.md
-    - Relic Vase: items/relic-vase.md
-    - Repeat Ball: items/repeat-ball.md
-    - repel: items/repel.md
-    - Reply Mail: items/reply-mail.md
-    - Resist Wing: items/resist-wing.md
-    - Revival Herb: items/revival-herb.md
-    - revive: items/revive.md
-    - Ring Target: items/ring-target.md
-    - Rock Gem: items/rock-gem.md
-    - Rock Incense: items/rock-incense.md
-    - Rocky Helmet: items/rocky-helmet.md
-    - root-fossil: items/root-fossil.md
-    - Rose Incense: items/rose-incense.md
-    - RSVP: items/rsvp.md
-    - Sacred Ash: items/sacred-ash.md
-    - Safari Ball: items/safari-ball.md
-    - Scope Lens: items/scope-lens.md
-    - Sea Incense: items/sea-incense.md
-    - Sharp Beak: items/sharp-beak.md
-    - shed-shell: items/shed-shell.md
-    - Shell Bell: items/shell-bell.md
-    - shiny-stone: items/shiny-stone.md
-    - Shoal Salt: items/shoal-salt.md
-    - Shoal Shell: items/shoal-shell.md
-    - Shock Drive: items/shock-drive.md
-    - Silk Scarf: items/silk-scarf.md
-    - SilverPowder: items/silverpowder.md
-    - skull-fossil: items/skull-fossil.md
-    - Sky Plate: items/sky-plate.md
-    - Smoke Ball: items/smoke-ball.md
-    - Smooth Rock: items/smooth-rock.md
-    - Soda Pop: items/soda-pop.md
-    - Soft Sand: items/soft-sand.md
-    - soothe-bell: items/soothe-bell.md
-    - soul-dew: items/soul-dew.md
-    - Spell Tag: items/spell-tag.md
-    - Splash Plate: items/splash-plate.md
-    - Spooky Plate: items/spooky-plate.md
-    - Star Piece: items/star-piece.md
-    - Stardust: items/stardust.md
-    - Steel Gem: items/steel-gem.md
-    - stick: items/stick.md
-    - Sticky Barb: items/sticky-barb.md
-    - Stone Plate: items/stone-plate.md
-    - sun-stone: items/sun-stone.md
-    - super-potion: items/super-potion.md
-    - super-repel: items/super-repel.md
-    - super-rod: items/super-rod.md
-    - Sweet Heart: items/sweet-heart.md
-    - Swift Wing: items/swift-wing.md
-    - Thanks Mail: items/thanks-mail.md
-    - thick-club: items/thick-club.md
-    - thunder-stone: items/thunder-stone.md
-    - Thunderstone: items/thunderstone.md
-    - Timer Ball: items/timer-ball.md
-    - TinyMushroom: items/tinymushroom.md
-    - tm01: items/tm01.md
-    - tm02: items/tm02.md
-    - tm03: items/tm03.md
-    - tm04: items/tm04.md
-    - tm05: items/tm05.md
-    - tm06: items/tm06.md
-    - tm07: items/tm07.md
-    - tm08: items/tm08.md
-    - tm09: items/tm09.md
-    - tm10: items/tm10.md
-    - tm100: items/tm100.md
-    - tm11: items/tm11.md
-    - tm12: items/tm12.md
-    - tm13: items/tm13.md
-    - tm14: items/tm14.md
-    - tm15: items/tm15.md
-    - tm16: items/tm16.md
-    - tm17: items/tm17.md
-    - tm18: items/tm18.md
-    - tm19: items/tm19.md
-    - tm20: items/tm20.md
-    - tm21: items/tm21.md
-    - tm22: items/tm22.md
-    - tm23: items/tm23.md
-    - tm24: items/tm24.md
-    - tm25: items/tm25.md
-    - tm26: items/tm26.md
-    - tm27: items/tm27.md
-    - tm28: items/tm28.md
-    - tm29: items/tm29.md
-    - tm30: items/tm30.md
-    - tm31: items/tm31.md
-    - tm32: items/tm32.md
-    - tm33: items/tm33.md
-    - tm34: items/tm34.md
-    - tm35: items/tm35.md
-    - tm36: items/tm36.md
-    - tm37: items/tm37.md
-    - tm38: items/tm38.md
-    - tm39: items/tm39.md
-    - tm40: items/tm40.md
-    - tm41: items/tm41.md
-    - tm42: items/tm42.md
-    - tm43: items/tm43.md
-    - tm44: items/tm44.md
-    - tm45: items/tm45.md
-    - tm46: items/tm46.md
-    - tm47: items/tm47.md
-    - tm48: items/tm48.md
-    - tm49: items/tm49.md
-    - tm50: items/tm50.md
-    - tm51: items/tm51.md
-    - tm52: items/tm52.md
-    - tm53: items/tm53.md
-    - tm54: items/tm54.md
-    - tm55: items/tm55.md
-    - tm56: items/tm56.md
-    - tm57: items/tm57.md
-    - tm58: items/tm58.md
-    - tm59: items/tm59.md
-    - tm60: items/tm60.md
-    - tm61: items/tm61.md
-    - tm62: items/tm62.md
-    - tm63: items/tm63.md
-    - tm64: items/tm64.md
-    - tm65: items/tm65.md
-    - tm66: items/tm66.md
-    - tm67: items/tm67.md
-    - tm68: items/tm68.md
-    - tm69: items/tm69.md
-    - tm70: items/tm70.md
-    - tm71: items/tm71.md
-    - tm72: items/tm72.md
-    - tm73: items/tm73.md
-    - tm74: items/tm74.md
-    - tm75: items/tm75.md
-    - tm76: items/tm76.md
-    - tm77: items/tm77.md
-    - tm78: items/tm78.md
-    - tm79: items/tm79.md
-    - tm80: items/tm80.md
-    - tm81: items/tm81.md
-    - tm82: items/tm82.md
-    - tm83: items/tm83.md
-    - tm84: items/tm84.md
-    - tm85: items/tm85.md
-    - tm86: items/tm86.md
-    - tm87: items/tm87.md
-    - tm88: items/tm88.md
-    - tm89: items/tm89.md
-    - tm90: items/tm90.md
-    - tm91: items/tm91.md
-    - tm92: items/tm92.md
-    - tm93: items/tm93.md
-    - tm94: items/tm94.md
-    - tm95: items/tm95.md
-    - tm96: items/tm96.md
-    - tm97: items/tm97.md
-    - tm98: items/tm98.md
-    - tm99: items/tm99.md
-    - Town Map: items/town-map.md
-    - Toxic Orb: items/toxic-orb.md
-    - Toxic Plate: items/toxic-plate.md
-    - TwistedSpoon: items/twistedspoon.md
-    - ultra-ball: items/ultra-ball.md
-    - up-grade: items/up-grade.md
-    - Vs. Recorder: items/vs-recorder.md
-    - Water Gem: items/water-gem.md
-    - water-stone: items/water-stone.md
-    - Wave Incense: items/wave-incense.md
-    - White Flute: items/white-flute.md
-    - white-herb: items/white-herb.md
-    - wide-lens: items/wide-lens.md
-    - wise-glasses: items/wise-glasses.md
-    - X Accuracy: items/x-accuracy.md
-    - X Attack: items/x-attack.md
-    - X Defend: items/x-defend.md
-    - X Sp. Def: items/x-sp-def.md
-    - X Special: items/x-special.md
-    - X Speed: items/x-speed.md
-    - xtransceiver: items/xtransceiver.md
-    - Yellow Flute: items/yellow-flute.md
-    - Yellow Scarf: items/yellow-scarf.md
-    - Yellow Shard: items/yellow-shard.md
-    - Zap Plate: items/zap-plate.md
-    - zinc: items/zinc.md
-    - zoom-lens: items/zoom-lens.md
+    - Battle Effect:
+      - items/battle-effect.md
+      - Dire Hit: items/dire-hit.md
+      - Guard Spec.: items/guard-spec.md
+      - X Accuracy: items/x-accuracy.md
+      - X Attack: items/x-attack.md
+      - X Defend: items/x-defend.md
+      - X Sp. Def: items/x-sp-def.md
+      - X Special: items/x-special.md
+      - X Speed: items/x-speed.md
+    - Evolutionary:
+      - items/evolutionary.md
+      - Calcium: items/calcium.md
+      - Carbos: items/carbos.md
+      - Clever Wing: items/clever-wing.md
+      - Dawn Stone: items/dawn-stone.md
+      - Dragon Scale: items/dragon-scale.md
+      - Dusk Stone: items/dusk-stone.md
+      - Fire Stone: items/fire-stone.md
+      - Genius Wing: items/genius-wing.md
+      - Health Wing: items/health-wing.md
+      - HP Up: items/hp-up.md
+      - Iron: items/iron.md
+      - Leaf Stone: items/leaf-stone.md
+      - Moon Stone: items/moon-stone.md
+      - Muscle Wing: items/muscle-wing.md
+      - Oval Stone: items/oval-stone.md
+      - PP Max: items/pp-max.md
+      - PP Up: items/pp-up.md
+      - Prism Scale: items/prism-scale.md
+      - Protein: items/protein.md
+      - Rare Candy: items/rare-candy.md
+      - Resist Wing: items/resist-wing.md
+      - Shiny Stone: items/shiny-stone.md
+      - Sun Stone: items/sun-stone.md
+      - Swift Wing: items/swift-wing.md
+      - Thunderstone: items/thunderstone.md
+      - Up Grade: items/up-grade.md
+      - Water Stone: items/water-stone.md
+      - Zinc: items/zinc.md
+    - Hidden Machines:
+      - items/hidden-machines.md
+      - HM01: items/hm01.md
+      - HM02: items/hm02.md
+      - HM03: items/hm03.md
+      - HM04: items/hm04.md
+      - HM05: items/hm05.md
+      - HM06: items/hm06.md
+    - Hold:
+      - items/hold.md
+      - Absorb Bulb: items/absorb-bulb.md
+      - Adamant Orb: items/adamant-orb.md
+      - Air Balloon: items/air-balloon.md
+      - Amulet Coin: items/amulet-coin.md
+      - Big Root: items/big-root.md
+      - Binding Band: items/binding-band.md
+      - Black Belt: items/black-belt.md
+      - Black Glasses: items/black-glasses.md
+      - Black Sludge: items/black-sludge.md
+      - Blue Scarf: items/blue-scarf.md
+      - Bright Powder: items/bright-powder.md
+      - Bug Gem: items/bug-gem.md
+      - Burn Drive: items/burn-drive.md
+      - Cell Battery: items/cell-battery.md
+      - Charcoal: items/charcoal.md
+      - Chill Drive: items/chill-drive.md
+      - Choice Band: items/choice-band.md
+      - Choice Scarf: items/choice-scarf.md
+      - Choice Specs: items/choice-specs.md
+      - Cleanse Tag: items/cleanse-tag.md
+      - Damp Rock: items/damp-rock.md
+      - Dark Gem: items/dark-gem.md
+      - Deep Sea Scale: items/deep-sea-scale.md
+      - Deep Sea Tooth: items/deep-sea-tooth.md
+      - Destiny Knot: items/destiny-knot.md
+      - Douse Drive: items/douse-drive.md
+      - Draco Plate: items/draco-plate.md
+      - Dragon Fang: items/dragon-fang.md
+      - Dragon Gem: items/dragon-gem.md
+      - Dread Plate: items/dread-plate.md
+      - Dubious Disc: items/dubious-disc.md
+      - Earth Plate: items/earth-plate.md
+      - Eject Button: items/eject-button.md
+      - Electirizer: items/electirizer.md
+      - Electric Gem: items/electric-gem.md
+      - Everstone: items/everstone.md
+      - Eviolite: items/eviolite.md
+      - Exp Share: items/exp-share.md
+      - Expert Belt: items/expert-belt.md
+      - Fighting Gem: items/fighting-gem.md
+      - Fire Gem: items/fire-gem.md
+      - Fist Plate: items/fist-plate.md
+      - Flame Orb: items/flame-orb.md
+      - Flame Plate: items/flame-plate.md
+      - Float Stone: items/float-stone.md
+      - Flying Gem: items/flying-gem.md
+      - Focus Band: items/focus-band.md
+      - Focus Sash: items/focus-sash.md
+      - Full Incense: items/full-incense.md
+      - Ghost Gem: items/ghost-gem.md
+      - Grass Gem: items/grass-gem.md
+      - Green Scarf: items/green-scarf.md
+      - Grip Claw: items/grip-claw.md
+      - Griseous Orb: items/griseous-orb.md
+      - Ground Gem: items/ground-gem.md
+      - Hard Stone: items/hard-stone.md
+      - Heat Rock: items/heat-rock.md
+      - Ice Gem: items/ice-gem.md
+      - Icicle Plate: items/icicle-plate.md
+      - Icy Rock: items/icy-rock.md
+      - Insect Plate: items/insect-plate.md
+      - Iron Ball: items/iron-ball.md
+      - Iron Plate: items/iron-plate.md
+      - Kings Rock: items/kings-rock.md
+      - Lagging Tail: items/lagging-tail.md
+      - Lax Incense: items/lax-incense.md
+      - Leftovers: items/leftovers.md
+      - Life Orb: items/life-orb.md
+      - Light Ball: items/light-ball.md
+      - Light Clay: items/light-clay.md
+      - Luck Incense: items/luck-incense.md
+      - Lucky Egg: items/lucky-egg.md
+      - Lucky Punch: items/lucky-punch.md
+      - Lustrous Orb: items/lustrous-orb.md
+      - Macho Brace: items/macho-brace.md
+      - Magmarizer: items/magmarizer.md
+      - Magnet: items/magnet.md
+      - Meadow Plate: items/meadow-plate.md
+      - Mental Herb: items/mental-herb.md
+      - Metal Coat: items/metal-coat.md
+      - Metal Powder: items/metal-powder.md
+      - Metronome: items/metronome.md
+      - Mind Plate: items/mind-plate.md
+      - Miracle Seed: items/miracle-seed.md
+      - Muscle Band: items/muscle-band.md
+      - Mystic Water: items/mystic-water.md
+      - Never Melt Ice: items/never-melt-ice.md
+      - Normal Gem: items/normal-gem.md
+      - Odd Incense: items/odd-incense.md
+      - Pink Scarf: items/pink-scarf.md
+      - Poison Barb: items/poison-barb.md
+      - Poison Gem: items/poison-gem.md
+      - Power Anklet: items/power-anklet.md
+      - Power Band: items/power-band.md
+      - Power Belt: items/power-belt.md
+      - Power Bracer: items/power-bracer.md
+      - Power Herb: items/power-herb.md
+      - Power Lens: items/power-lens.md
+      - Power Weight: items/power-weight.md
+      - Protector: items/protector.md
+      - Psychic Gem: items/psychic-gem.md
+      - Pure Incense: items/pure-incense.md
+      - Quick Claw: items/quick-claw.md
+      - Quick Powder: items/quick-powder.md
+      - Razor Claw: items/razor-claw.md
+      - Razor Fang: items/razor-fang.md
+      - Reaper Cloth: items/reaper-cloth.md
+      - Red Card: items/red-card.md
+      - Red Scarf: items/red-scarf.md
+      - Ring Target: items/ring-target.md
+      - Rock Gem: items/rock-gem.md
+      - Rock Incense: items/rock-incense.md
+      - Rocky Helmet: items/rocky-helmet.md
+      - Rose Incense: items/rose-incense.md
+      - Scope Lens: items/scope-lens.md
+      - Sea Incense: items/sea-incense.md
+      - Sharp Beak: items/sharp-beak.md
+      - Shed Shell: items/shed-shell.md
+      - Shell Bell: items/shell-bell.md
+      - Shock Drive: items/shock-drive.md
+      - Silk Scarf: items/silk-scarf.md
+      - Silver Powder: items/silver-powder.md
+      - Sky Plate: items/sky-plate.md
+      - Smoke Ball: items/smoke-ball.md
+      - Smooth Rock: items/smooth-rock.md
+      - Soft Sand: items/soft-sand.md
+      - Soothe Bell: items/soothe-bell.md
+      - Soul Dew: items/soul-dew.md
+      - Spell Tag: items/spell-tag.md
+      - Splash Plate: items/splash-plate.md
+      - Spooky Plate: items/spooky-plate.md
+      - Steel Gem: items/steel-gem.md
+      - Stick: items/stick.md
+      - Sticky Barb: items/sticky-barb.md
+      - Stone Plate: items/stone-plate.md
+      - Thick Club: items/thick-club.md
+      - Toxic Orb: items/toxic-orb.md
+      - Toxic Plate: items/toxic-plate.md
+      - Twisted Spoon: items/twisted-spoon.md
+      - Water Gem: items/water-gem.md
+      - Wave Incense: items/wave-incense.md
+      - White Herb: items/white-herb.md
+      - Wide Lens: items/wide-lens.md
+      - Wise Glasses: items/wise-glasses.md
+      - Yellow Scarf: items/yellow-scarf.md
+      - Zap Plate: items/zap-plate.md
+      - Zoom Lens: items/zoom-lens.md
+    - Key:
+      - items/key.md
+      - Bicycle: items/bicycle.md
+      - Dark Stone: items/dark-stone.md
+      - Dowsing MCHN: items/dowsing-mchn.md
+      - Dragon Skull: items/dragon-skull.md
+      - Gracidea: items/gracidea.md
+      - Gram 1: items/gram-1.md
+      - Gram 2: items/gram-2.md
+      - Gram 3: items/gram-3.md
+      - Liberty Pass: items/liberty-pass.md
+      - Light Stone: items/light-stone.md
+      - Lock Capsule: items/lock-capsule.md
+      - Pal Pad: items/pal-pad.md
+      - Prop Case: items/prop-case.md
+      - Super Rod: items/super-rod.md
+      - Town Map: items/town-map.md
+      - Vs. Recorder: items/vs-recorder.md
+      - Xtransceiver: items/xtransceiver.md
+    - Miscellaneous:
+      - items/miscellaneous.md
+      - Armor Fossil: items/armor-fossil.md
+      - Balm Mushroom: items/balm-mushroom.md
+      - Big Mushroom: items/big-mushroom.md
+      - Big Nugget: items/big-nugget.md
+      - Big Pearl: items/big-pearl.md
+      - Black Flute: items/black-flute.md
+      - Blue Flute: items/blue-flute.md
+      - Blue Shard: items/blue-shard.md
+      - Bridge Mail D: items/bridge-mail-d.md
+      - Bridge Mail M: items/bridge-mail-m.md
+      - Bridge Mail S: items/bridge-mail-s.md
+      - Bridge Mail T: items/bridge-mail-t.md
+      - Bridge Mail V: items/bridge-mail-v.md
+      - Cherish Ball: items/cherish-ball.md
+      - Claw Fossil: items/claw-fossil.md
+      - Comet Shard: items/comet-shard.md
+      - Cover Fossil: items/cover-fossil.md
+      - Dive Ball: items/dive-ball.md
+      - Dome Fossil: items/dome-fossil.md
+      - Dream Ball: items/dream-ball.md
+      - Dusk Ball: items/dusk-ball.md
+      - Escape Rope: items/escape-rope.md
+      - Favored Mail: items/favored-mail.md
+      - Fluffy Tail: items/fluffy-tail.md
+      - Great Ball: items/great-ball.md
+      - Green Shard: items/green-shard.md
+      - Greet Mail: items/greet-mail.md
+      - Heal Ball: items/heal-ball.md
+      - Heart Scale: items/heart-scale.md
+      - Helix Fossil: items/helix-fossil.md
+      - Honey: items/honey.md
+      - Inquiry Mail: items/inquiry-mail.md
+      - Like Mail: items/like-mail.md
+      - Luxury Ball: items/luxury-ball.md
+      - Master Ball: items/master-ball.md
+      - Max Repel: items/max-repel.md
+      - Nest Ball: items/nest-ball.md
+      - Net Ball: items/net-ball.md
+      - Nugget: items/nugget.md
+      - Old Amber: items/old-amber.md
+      - Pass Orb: items/pass-orb.md
+      - Pearl: items/pearl.md
+      - Pearl String: items/pearl-string.md
+      - Plume Fossil: items/plume-fossil.md
+      - Poké Ball: items/poke-ball.md
+      - Poké Doll: items/poke-doll.md
+      - Poké Toy: items/poke-toy.md
+      - Premier Ball: items/premier-ball.md
+      - Pretty Wing: items/pretty-wing.md
+      - Quick Ball: items/quick-ball.md
+      - Rare Bone: items/rare-bone.md
+      - Red Flute: items/red-flute.md
+      - Red Shard: items/red-shard.md
+      - Relic Band: items/relic-band.md
+      - Relic Copper: items/relic-copper.md
+      - Relic Crown: items/relic-crown.md
+      - Relic Gold: items/relic-gold.md
+      - Relic Silver: items/relic-silver.md
+      - Relic Statue: items/relic-statue.md
+      - Relic Vase: items/relic-vase.md
+      - Repeat Ball: items/repeat-ball.md
+      - Repel: items/repel.md
+      - Reply Mail: items/reply-mail.md
+      - Root Fossil: items/root-fossil.md
+      - RSVP: items/rsvp.md
+      - Safari Ball: items/safari-ball.md
+      - Shoal Salt: items/shoal-salt.md
+      - Shoal Shell: items/shoal-shell.md
+      - Skull Fossil: items/skull-fossil.md
+      - Star Piece: items/star-piece.md
+      - Stardust: items/stardust.md
+      - Super Repel: items/super-repel.md
+      - Thanks Mail: items/thanks-mail.md
+      - Timer Ball: items/timer-ball.md
+      - Tiny Mushroom: items/tiny-mushroom.md
+      - Ultra Ball: items/ultra-ball.md
+      - White Flute: items/white-flute.md
+      - Yellow Flute: items/yellow-flute.md
+      - Yellow Shard: items/yellow-shard.md
+    - Recovery:
+      - items/recovery.md
+      - Antidote: items/antidote.md
+      - Awakening: items/awakening.md
+      - Berry Juice: items/berry-juice.md
+      - Burn Heal: items/burn-heal.md
+      - Casteliacone: items/casteliacone.md
+      - Elixir: items/elixir.md
+      - Energy Powder: items/energy-powder.md
+      - Energy Root: items/energy-root.md
+      - Ether: items/ether.md
+      - Fresh Water: items/fresh-water.md
+      - Full Heal: items/full-heal.md
+      - Full Restore: items/full-restore.md
+      - Heal Powder: items/heal-powder.md
+      - Hyper Potion: items/hyper-potion.md
+      - Ice Heal: items/ice-heal.md
+      - Lava Cookie: items/lava-cookie.md
+      - Lemonade: items/lemonade.md
+      - Max Elixir: items/max-elixir.md
+      - Max Ether: items/max-ether.md
+      - Max Potion: items/max-potion.md
+      - Max Revive: items/max-revive.md
+      - Moomoo Milk: items/moomoo-milk.md
+      - Old Gateau: items/old-gateau.md
+      - Parlyz Heal: items/parlyz-heal.md
+      - Potion: items/potion.md
+      - Ragecandybar: items/ragecandybar.md
+      - Revival Herb: items/revival-herb.md
+      - Revive: items/revive.md
+      - Sacred Ash: items/sacred-ash.md
+      - Soda Pop: items/soda-pop.md
+      - Super Potion: items/super-potion.md
+      - Sweet Heart: items/sweet-heart.md
+    - Technical Machines:
+      - items/technical-machines.md
+      - TM01: items/tm01.md
+      - TM02: items/tm02.md
+      - TM03: items/tm03.md
+      - TM04: items/tm04.md
+      - TM05: items/tm05.md
+      - TM06: items/tm06.md
+      - TM07: items/tm07.md
+      - TM08: items/tm08.md
+      - TM09: items/tm09.md
+      - TM10: items/tm10.md
+      - TM11: items/tm11.md
+      - TM12: items/tm12.md
+      - TM13: items/tm13.md
+      - TM14: items/tm14.md
+      - TM15: items/tm15.md
+      - TM16: items/tm16.md
+      - TM17: items/tm17.md
+      - TM18: items/tm18.md
+      - TM19: items/tm19.md
+      - TM20: items/tm20.md
+      - TM21: items/tm21.md
+      - TM22: items/tm22.md
+      - TM23: items/tm23.md
+      - TM24: items/tm24.md
+      - TM25: items/tm25.md
+      - TM26: items/tm26.md
+      - TM27: items/tm27.md
+      - TM28: items/tm28.md
+      - TM29: items/tm29.md
+      - TM30: items/tm30.md
+      - TM31: items/tm31.md
+      - TM32: items/tm32.md
+      - TM33: items/tm33.md
+      - TM34: items/tm34.md
+      - TM35: items/tm35.md
+      - TM36: items/tm36.md
+      - TM37: items/tm37.md
+      - TM38: items/tm38.md
+      - TM39: items/tm39.md
+      - TM40: items/tm40.md
+      - TM41: items/tm41.md
+      - TM42: items/tm42.md
+      - TM43: items/tm43.md
+      - TM44: items/tm44.md
+      - TM45: items/tm45.md
+      - TM46: items/tm46.md
+      - TM47: items/tm47.md
+      - TM48: items/tm48.md
+      - TM49: items/tm49.md
+      - TM50: items/tm50.md
+      - TM51: items/tm51.md
+      - TM52: items/tm52.md
+      - TM53: items/tm53.md
+      - TM54: items/tm54.md
+      - TM55: items/tm55.md
+      - TM56: items/tm56.md
+      - TM57: items/tm57.md
+      - TM58: items/tm58.md
+      - TM59: items/tm59.md
+      - TM60: items/tm60.md
+      - TM61: items/tm61.md
+      - TM62: items/tm62.md
+      - TM63: items/tm63.md
+      - TM64: items/tm64.md
+      - TM65: items/tm65.md
+      - TM66: items/tm66.md
+      - TM67: items/tm67.md
+      - TM68: items/tm68.md
+      - TM69: items/tm69.md
+      - TM70: items/tm70.md
+      - TM71: items/tm71.md
+      - TM72: items/tm72.md
+      - TM73: items/tm73.md
+      - TM74: items/tm74.md
+      - TM75: items/tm75.md
+      - TM76: items/tm76.md
+      - TM77: items/tm77.md
+      - TM78: items/tm78.md
+      - TM79: items/tm79.md
+      - TM80: items/tm80.md
+      - TM81: items/tm81.md
+      - TM82: items/tm82.md
+      - TM83: items/tm83.md
+      - TM84: items/tm84.md
+      - TM85: items/tm85.md
+      - TM86: items/tm86.md
+      - TM87: items/tm87.md
+      - TM88: items/tm88.md
+      - TM89: items/tm89.md
+      - TM90: items/tm90.md
+      - TM91: items/tm91.md
+      - TM92: items/tm92.md
+      - TM93: items/tm93.md
+      - TM94: items/tm94.md
+      - TM95: items/tm95.md
+    - all-machines:
+      - items/all-machines.md
+      - TM100: items/tm100.md
+      - TM96: items/tm96.md
+      - TM97: items/tm97.md
+      - TM98: items/tm98.md
+      - TM99: items/tm99.md
+    - evolution:
+      - items/evolution.md
+      - Thunder Stone: items/thunder-stone.md
+    - gameplay:
+      - items/gameplay.md
+      - Good Rod: items/good-rod.md
+      - Old Rod: items/old-rod.md
+      - Rage Candy Bar: items/rage-candy-bar.md
+    - medicine:
+      - items/medicine.md
+      - Chesto Berry: items/chesto-berry.md
+    - status-cures:
+      - items/status-cures.md
+      - Paralyze Heal: items/paralyze-heal.md
   - Moves:
     - moves/index.md
     - Absorb: moves/absorb.md
     - Acid: moves/acid.md
-    - Acid armor: moves/acid-armor.md
-    - Acid spray: moves/acid-spray.md
+    - Acid Armor: moves/acid-armor.md
+    - Acid Spray: moves/acid-spray.md
     - Acrobatics: moves/acrobatics.md
     - Acupressure: moves/acupressure.md
-    - Aerial ace: moves/aerial-ace.md
+    - Aerial Ace: moves/aerial-ace.md
     - Aeroblast: moves/aeroblast.md
-    - After you: moves/after-you.md
+    - After You: moves/after-you.md
     - Agility: moves/agility.md
-    - Air cutter: moves/air-cutter.md
-    - Air slash: moves/air-slash.md
-    - Ally switch: moves/ally-switch.md
+    - Air Cutter: moves/air-cutter.md
+    - Air Slash: moves/air-slash.md
+    - Ally Switch: moves/ally-switch.md
     - Amnesia: moves/amnesia.md
-    - Ancient power: moves/ancient-power.md
-    - Aqua jet: moves/aqua-jet.md
-    - Aqua ring: moves/aqua-ring.md
-    - Aqua tail: moves/aqua-tail.md
-    - Arm thrust: moves/arm-thrust.md
+    - Ancient Power: moves/ancient-power.md
+    - Aqua Jet: moves/aqua-jet.md
+    - Aqua Ring: moves/aqua-ring.md
+    - Aqua Tail: moves/aqua-tail.md
+    - Arm Thrust: moves/arm-thrust.md
     - Aromatherapy: moves/aromatherapy.md
     - Assist: moves/assist.md
     - Assurance: moves/assurance.md
     - Astonish: moves/astonish.md
-    - Attack order: moves/attack-order.md
+    - Attack Order: moves/attack-order.md
     - Attract: moves/attract.md
-    - Aura sphere: moves/aura-sphere.md
-    - Aurora beam: moves/aurora-beam.md
+    - Aura Sphere: moves/aura-sphere.md
+    - Aurora Beam: moves/aurora-beam.md
     - Autotomize: moves/autotomize.md
     - Avalanche: moves/avalanche.md
     - Barrage: moves/barrage.md
     - Barrier: moves/barrier.md
-    - Baton pass: moves/baton-pass.md
-    - Beat up: moves/beat-up.md
-    - Belly drum: moves/belly-drum.md
+    - Baton Pass: moves/baton-pass.md
+    - Beat Up: moves/beat-up.md
+    - Belly Drum: moves/belly-drum.md
     - Bestow: moves/bestow.md
     - Bide: moves/bide.md
     - Bind: moves/bind.md
     - Bite: moves/bite.md
-    - Blast burn: moves/blast-burn.md
-    - Blaze kick: moves/blaze-kick.md
+    - Blast Burn: moves/blast-burn.md
+    - Blaze Kick: moves/blaze-kick.md
     - Blizzard: moves/blizzard.md
     - Block: moves/block.md
-    - Blue flare: moves/blue-flare.md
-    - Body slam: moves/body-slam.md
-    - Bolt strike: moves/bolt-strike.md
-    - Bone club: moves/bone-club.md
-    - Bone rush: moves/bone-rush.md
+    - Blue Flare: moves/blue-flare.md
+    - Body Slam: moves/body-slam.md
+    - Bolt Strike: moves/bolt-strike.md
+    - Bone Club: moves/bone-club.md
+    - Bone Rush: moves/bone-rush.md
     - Bonemerang: moves/bonemerang.md
     - Bounce: moves/bounce.md
-    - Brave bird: moves/brave-bird.md
-    - Brick break: moves/brick-break.md
+    - Brave Bird: moves/brave-bird.md
+    - Brick Break: moves/brick-break.md
     - Brine: moves/brine.md
     - Bubble: moves/bubble.md
-    - Bubble beam: moves/bubble-beam.md
-    - Bug bite: moves/bug-bite.md
-    - Bug buzz: moves/bug-buzz.md
-    - Bulk up: moves/bulk-up.md
+    - Bubble Beam: moves/bubble-beam.md
+    - Bug Bite: moves/bug-bite.md
+    - Bug Buzz: moves/bug-buzz.md
+    - Bulk Up: moves/bulk-up.md
     - Bulldoze: moves/bulldoze.md
-    - Bullet punch: moves/bullet-punch.md
-    - Bullet seed: moves/bullet-seed.md
-    - Calm mind: moves/calm-mind.md
+    - Bullet Punch: moves/bullet-punch.md
+    - Bullet Seed: moves/bullet-seed.md
+    - Calm Mind: moves/calm-mind.md
     - Camouflage: moves/camouflage.md
     - Captivate: moves/captivate.md
     - Charge: moves/charge.md
-    - Charge beam: moves/charge-beam.md
+    - Charge Beam: moves/charge-beam.md
     - Charm: moves/charm.md
     - Chatter: moves/chatter.md
-    - Chip away: moves/chip-away.md
-    - Circle throw: moves/circle-throw.md
+    - Chip Away: moves/chip-away.md
+    - Circle Throw: moves/circle-throw.md
     - Clamp: moves/clamp.md
-    - Clear smog: moves/clear-smog.md
-    - Close combat: moves/close-combat.md
+    - Clear Smog: moves/clear-smog.md
+    - Close Combat: moves/close-combat.md
     - Coil: moves/coil.md
-    - Comet punch: moves/comet-punch.md
-    - Confuse ray: moves/confuse-ray.md
+    - Comet Punch: moves/comet-punch.md
+    - Confuse Ray: moves/confuse-ray.md
     - Confusion: moves/confusion.md
     - Constrict: moves/constrict.md
     - Conversion: moves/conversion.md
     - Conversion 2: moves/conversion-2.md
     - Copycat: moves/copycat.md
-    - Cosmic power: moves/cosmic-power.md
-    - Cotton guard: moves/cotton-guard.md
-    - Cotton spore: moves/cotton-spore.md
+    - Cosmic Power: moves/cosmic-power.md
+    - Cotton Guard: moves/cotton-guard.md
+    - Cotton Spore: moves/cotton-spore.md
     - Counter: moves/counter.md
     - Covet: moves/covet.md
     - Crabhammer: moves/crabhammer.md
-    - Cross chop: moves/cross-chop.md
-    - Cross poison: moves/cross-poison.md
+    - Cross Chop: moves/cross-chop.md
+    - Cross Poison: moves/cross-poison.md
     - Crunch: moves/crunch.md
-    - Crush claw: moves/crush-claw.md
-    - Crush grip: moves/crush-grip.md
+    - Crush Claw: moves/crush-claw.md
+    - Crush Grip: moves/crush-grip.md
     - Curse: moves/curse.md
     - Cut: moves/cut.md
-    - Dark pulse: moves/dark-pulse.md
-    - Dark void: moves/dark-void.md
-    - Defend order: moves/defend-order.md
-    - Defense curl: moves/defense-curl.md
+    - Dark Pulse: moves/dark-pulse.md
+    - Dark Void: moves/dark-void.md
+    - Defend Order: moves/defend-order.md
+    - Defense Curl: moves/defense-curl.md
     - Defog: moves/defog.md
-    - Destiny bond: moves/destiny-bond.md
+    - Destiny Bond: moves/destiny-bond.md
     - Detect: moves/detect.md
     - Dig: moves/dig.md
     - Disable: moves/disable.md
     - Discharge: moves/discharge.md
     - Dive: moves/dive.md
-    - Dizzy punch: moves/dizzy-punch.md
-    - Doom desire: moves/doom-desire.md
-    - Double edge: moves/double-edge.md
-    - Double hit: moves/double-hit.md
-    - Double kick: moves/double-kick.md
-    - Double slap: moves/double-slap.md
-    - Double team: moves/double-team.md
-    - Draco meteor: moves/draco-meteor.md
-    - Dragon breath: moves/dragon-breath.md
-    - Dragon claw: moves/dragon-claw.md
-    - Dragon dance: moves/dragon-dance.md
-    - Dragon pulse: moves/dragon-pulse.md
-    - Dragon rage: moves/dragon-rage.md
-    - Dragon rush: moves/dragon-rush.md
-    - Dragon tail: moves/dragon-tail.md
-    - Drain punch: moves/drain-punch.md
-    - Dream eater: moves/dream-eater.md
-    - Drill peck: moves/drill-peck.md
-    - Drill run: moves/drill-run.md
-    - Dual chop: moves/dual-chop.md
-    - Dynamic punch: moves/dynamic-punch.md
-    - Earth power: moves/earth-power.md
+    - Dizzy Punch: moves/dizzy-punch.md
+    - Doom Desire: moves/doom-desire.md
+    - Double Edge: moves/double-edge.md
+    - Double Hit: moves/double-hit.md
+    - Double Kick: moves/double-kick.md
+    - Double Slap: moves/double-slap.md
+    - Double Team: moves/double-team.md
+    - Draco Meteor: moves/draco-meteor.md
+    - Dragon Breath: moves/dragon-breath.md
+    - Dragon Claw: moves/dragon-claw.md
+    - Dragon Dance: moves/dragon-dance.md
+    - Dragon Pulse: moves/dragon-pulse.md
+    - Dragon Rage: moves/dragon-rage.md
+    - Dragon Rush: moves/dragon-rush.md
+    - Dragon Tail: moves/dragon-tail.md
+    - Drain Punch: moves/drain-punch.md
+    - Dream Eater: moves/dream-eater.md
+    - Drill Peck: moves/drill-peck.md
+    - Drill Run: moves/drill-run.md
+    - Dual Chop: moves/dual-chop.md
+    - Dynamic Punch: moves/dynamic-punch.md
+    - Earth Power: moves/earth-power.md
     - Earthquake: moves/earthquake.md
-    - Echoed voice: moves/echoed-voice.md
-    - Egg bomb: moves/egg-bomb.md
-    - Electro ball: moves/electro-ball.md
+    - Echoed Voice: moves/echoed-voice.md
+    - Egg Bomb: moves/egg-bomb.md
+    - Electro Ball: moves/electro-ball.md
     - Electroweb: moves/electroweb.md
     - Embargo: moves/embargo.md
     - Ember: moves/ember.md
     - Encore: moves/encore.md
     - Endeavor: moves/endeavor.md
     - Endure: moves/endure.md
-    - Energy ball: moves/energy-ball.md
+    - Energy Ball: moves/energy-ball.md
     - Entrainment: moves/entrainment.md
     - Eruption: moves/eruption.md
     - Explosion: moves/explosion.md
     - Extrasensory: moves/extrasensory.md
-    - Extreme speed: moves/extreme-speed.md
+    - Extreme Speed: moves/extreme-speed.md
     - Facade: moves/facade.md
-    - Fake out: moves/fake-out.md
-    - Fake tears: moves/fake-tears.md
-    - False swipe: moves/false-swipe.md
-    - Feather dance: moves/feather-dance.md
+    - Fake Out: moves/fake-out.md
+    - Fake Tears: moves/fake-tears.md
+    - False Swipe: moves/false-swipe.md
+    - Feather Dance: moves/feather-dance.md
     - Feint: moves/feint.md
-    - Feint attack: moves/feint-attack.md
-    - Fiery dance: moves/fiery-dance.md
-    - Final gambit: moves/final-gambit.md
-    - Fire blast: moves/fire-blast.md
-    - Fire fang: moves/fire-fang.md
-    - Fire pledge: moves/fire-pledge.md
-    - Fire punch: moves/fire-punch.md
-    - Fire spin: moves/fire-spin.md
+    - Feint Attack: moves/feint-attack.md
+    - Fiery Dance: moves/fiery-dance.md
+    - Final Gambit: moves/final-gambit.md
+    - Fire Blast: moves/fire-blast.md
+    - Fire Fang: moves/fire-fang.md
+    - Fire Pledge: moves/fire-pledge.md
+    - Fire Punch: moves/fire-punch.md
+    - Fire Spin: moves/fire-spin.md
     - Fissure: moves/fissure.md
     - Flail: moves/flail.md
-    - Flame burst: moves/flame-burst.md
-    - Flame charge: moves/flame-charge.md
-    - Flame wheel: moves/flame-wheel.md
+    - Flame Burst: moves/flame-burst.md
+    - Flame Charge: moves/flame-charge.md
+    - Flame Wheel: moves/flame-wheel.md
     - Flamethrower: moves/flamethrower.md
-    - Flare blitz: moves/flare-blitz.md
+    - Flare Blitz: moves/flare-blitz.md
     - Flash: moves/flash.md
-    - Flash cannon: moves/flash-cannon.md
+    - Flash Cannon: moves/flash-cannon.md
     - Flatter: moves/flatter.md
     - Fling: moves/fling.md
     - Fly: moves/fly.md
-    - Focus blast: moves/focus-blast.md
-    - Focus energy: moves/focus-energy.md
-    - Focus punch: moves/focus-punch.md
-    - Follow me: moves/follow-me.md
-    - Force palm: moves/force-palm.md
+    - Focus Blast: moves/focus-blast.md
+    - Focus Energy: moves/focus-energy.md
+    - Focus Punch: moves/focus-punch.md
+    - Follow Me: moves/follow-me.md
+    - Force Palm: moves/force-palm.md
     - Foresight: moves/foresight.md
-    - Foul play: moves/foul-play.md
-    - Frenzy plant: moves/frenzy-plant.md
-    - Frost breath: moves/frost-breath.md
+    - Foul Play: moves/foul-play.md
+    - Frenzy Plant: moves/frenzy-plant.md
+    - Frost Breath: moves/frost-breath.md
     - Frustration: moves/frustration.md
-    - Fury attack: moves/fury-attack.md
-    - Fury cutter: moves/fury-cutter.md
-    - Fury swipes: moves/fury-swipes.md
-    - Fusion bolt: moves/fusion-bolt.md
-    - Fusion flare: moves/fusion-flare.md
-    - Future sight: moves/future-sight.md
-    - Gastro acid: moves/gastro-acid.md
-    - Gear grind: moves/gear-grind.md
-    - Giga drain: moves/giga-drain.md
-    - Giga impact: moves/giga-impact.md
+    - Fury Attack: moves/fury-attack.md
+    - Fury Cutter: moves/fury-cutter.md
+    - Fury Swipes: moves/fury-swipes.md
+    - Fusion Bolt: moves/fusion-bolt.md
+    - Fusion Flare: moves/fusion-flare.md
+    - Future Sight: moves/future-sight.md
+    - Gastro Acid: moves/gastro-acid.md
+    - Gear Grind: moves/gear-grind.md
+    - Giga Drain: moves/giga-drain.md
+    - Giga Impact: moves/giga-impact.md
     - Glaciate: moves/glaciate.md
     - Glare: moves/glare.md
-    - Grass knot: moves/grass-knot.md
-    - Grass pledge: moves/grass-pledge.md
-    - Grass whistle: moves/grass-whistle.md
+    - Grass Knot: moves/grass-knot.md
+    - Grass Pledge: moves/grass-pledge.md
+    - Grass Whistle: moves/grass-whistle.md
     - Gravity: moves/gravity.md
     - Growl: moves/growl.md
     - Growth: moves/growth.md
     - Grudge: moves/grudge.md
-    - Guard split: moves/guard-split.md
-    - Guard swap: moves/guard-swap.md
+    - Guard Split: moves/guard-split.md
+    - Guard Swap: moves/guard-swap.md
     - Guillotine: moves/guillotine.md
-    - Gunk shot: moves/gunk-shot.md
+    - Gunk Shot: moves/gunk-shot.md
     - Gust: moves/gust.md
-    - Gyro ball: moves/gyro-ball.md
+    - Gyro Ball: moves/gyro-ball.md
     - Hail: moves/hail.md
-    - Hammer arm: moves/hammer-arm.md
+    - Hammer Arm: moves/hammer-arm.md
     - Harden: moves/harden.md
     - Haze: moves/haze.md
-    - Head charge: moves/head-charge.md
-    - Head smash: moves/head-smash.md
+    - Head Charge: moves/head-charge.md
+    - Head Smash: moves/head-smash.md
     - Headbutt: moves/headbutt.md
-    - Heal bell: moves/heal-bell.md
-    - Heal block: moves/heal-block.md
-    - Heal order: moves/heal-order.md
-    - Heal pulse: moves/heal-pulse.md
-    - Healing wish: moves/healing-wish.md
-    - Heart stamp: moves/heart-stamp.md
-    - Heart swap: moves/heart-swap.md
-    - Heat crash: moves/heat-crash.md
-    - Heat wave: moves/heat-wave.md
-    - Heavy slam: moves/heavy-slam.md
-    - Helping hand: moves/helping-hand.md
+    - Heal Bell: moves/heal-bell.md
+    - Heal Block: moves/heal-block.md
+    - Heal Order: moves/heal-order.md
+    - Heal Pulse: moves/heal-pulse.md
+    - Healing Wish: moves/healing-wish.md
+    - Heart Stamp: moves/heart-stamp.md
+    - Heart Swap: moves/heart-swap.md
+    - Heat Crash: moves/heat-crash.md
+    - Heat Wave: moves/heat-wave.md
+    - Heavy Slam: moves/heavy-slam.md
+    - Helping Hand: moves/helping-hand.md
     - Hex: moves/hex.md
-    - Hidden power: moves/hidden-power.md
-    - High jump kick: moves/high-jump-kick.md
-    - Hone claws: moves/hone-claws.md
-    - Horn attack: moves/horn-attack.md
-    - Horn drill: moves/horn-drill.md
-    - Horn leech: moves/horn-leech.md
+    - Hidden Power: moves/hidden-power.md
+    - High Jump Kick: moves/high-jump-kick.md
+    - Hone Claws: moves/hone-claws.md
+    - Horn Attack: moves/horn-attack.md
+    - Horn Drill: moves/horn-drill.md
+    - Horn Leech: moves/horn-leech.md
     - Howl: moves/howl.md
     - Hurricane: moves/hurricane.md
-    - Hydro cannon: moves/hydro-cannon.md
-    - Hydro pump: moves/hydro-pump.md
-    - Hyper beam: moves/hyper-beam.md
-    - Hyper fang: moves/hyper-fang.md
-    - Hyper voice: moves/hyper-voice.md
+    - Hydro Cannon: moves/hydro-cannon.md
+    - Hydro Pump: moves/hydro-pump.md
+    - Hyper Beam: moves/hyper-beam.md
+    - Hyper Fang: moves/hyper-fang.md
+    - Hyper Voice: moves/hyper-voice.md
     - Hypnosis: moves/hypnosis.md
-    - Ice ball: moves/ice-ball.md
-    - Ice beam: moves/ice-beam.md
-    - Ice fang: moves/ice-fang.md
-    - Ice punch: moves/ice-punch.md
-    - Ice shard: moves/ice-shard.md
-    - Icicle crash: moves/icicle-crash.md
-    - Icicle spear: moves/icicle-spear.md
-    - Icy wind: moves/icy-wind.md
+    - Ice Ball: moves/ice-ball.md
+    - Ice Beam: moves/ice-beam.md
+    - Ice Fang: moves/ice-fang.md
+    - Ice Punch: moves/ice-punch.md
+    - Ice Shard: moves/ice-shard.md
+    - Icicle Crash: moves/icicle-crash.md
+    - Icicle Spear: moves/icicle-spear.md
+    - Icy Wind: moves/icy-wind.md
     - Imprison: moves/imprison.md
     - Incinerate: moves/incinerate.md
     - Inferno: moves/inferno.md
     - Ingrain: moves/ingrain.md
-    - Iron defense: moves/iron-defense.md
-    - Iron head: moves/iron-head.md
-    - Iron tail: moves/iron-tail.md
+    - Iron Defense: moves/iron-defense.md
+    - Iron Head: moves/iron-head.md
+    - Iron Tail: moves/iron-tail.md
     - Judgment: moves/judgment.md
-    - Jump kick: moves/jump-kick.md
-    - Karate chop: moves/karate-chop.md
+    - Jump Kick: moves/jump-kick.md
+    - Karate Chop: moves/karate-chop.md
     - Kinesis: moves/kinesis.md
-    - Knock off: moves/knock-off.md
-    - Last resort: moves/last-resort.md
-    - Lava plume: moves/lava-plume.md
-    - Leaf blade: moves/leaf-blade.md
-    - Leaf storm: moves/leaf-storm.md
-    - Leaf tornado: moves/leaf-tornado.md
-    - Leech life: moves/leech-life.md
-    - Leech seed: moves/leech-seed.md
+    - Knock Off: moves/knock-off.md
+    - Last Resort: moves/last-resort.md
+    - Lava Plume: moves/lava-plume.md
+    - Leaf Blade: moves/leaf-blade.md
+    - Leaf Storm: moves/leaf-storm.md
+    - Leaf Tornado: moves/leaf-tornado.md
+    - Leech Life: moves/leech-life.md
+    - Leech Seed: moves/leech-seed.md
     - Leer: moves/leer.md
     - Lick: moves/lick.md
-    - Light screen: moves/light-screen.md
-    - Lock on: moves/lock-on.md
-    - Lovely kiss: moves/lovely-kiss.md
-    - Low kick: moves/low-kick.md
-    - Low sweep: moves/low-sweep.md
-    - Lucky chant: moves/lucky-chant.md
-    - Lunar dance: moves/lunar-dance.md
-    - Luster purge: moves/luster-purge.md
-    - Mach punch: moves/mach-punch.md
-    - Magic coat: moves/magic-coat.md
-    - Magic room: moves/magic-room.md
-    - Magical leaf: moves/magical-leaf.md
-    - Magma storm: moves/magma-storm.md
-    - Magnet bomb: moves/magnet-bomb.md
-    - Magnet rise: moves/magnet-rise.md
+    - Light Screen: moves/light-screen.md
+    - Lock On: moves/lock-on.md
+    - Lovely Kiss: moves/lovely-kiss.md
+    - Low Kick: moves/low-kick.md
+    - Low Sweep: moves/low-sweep.md
+    - Lucky Chant: moves/lucky-chant.md
+    - Lunar Dance: moves/lunar-dance.md
+    - Luster Purge: moves/luster-purge.md
+    - Mach Punch: moves/mach-punch.md
+    - Magic Coat: moves/magic-coat.md
+    - Magic Room: moves/magic-room.md
+    - Magical Leaf: moves/magical-leaf.md
+    - Magma Storm: moves/magma-storm.md
+    - Magnet Bomb: moves/magnet-bomb.md
+    - Magnet Rise: moves/magnet-rise.md
     - Magnitude: moves/magnitude.md
-    - Me first: moves/me-first.md
-    - Mean look: moves/mean-look.md
+    - Me First: moves/me-first.md
+    - Mean Look: moves/mean-look.md
     - Meditate: moves/meditate.md
-    - Mega drain: moves/mega-drain.md
-    - Mega kick: moves/mega-kick.md
-    - Mega punch: moves/mega-punch.md
+    - Mega Drain: moves/mega-drain.md
+    - Mega Kick: moves/mega-kick.md
+    - Mega Punch: moves/mega-punch.md
     - Megahorn: moves/megahorn.md
     - Memento: moves/memento.md
-    - Metal burst: moves/metal-burst.md
-    - Metal claw: moves/metal-claw.md
-    - Metal sound: moves/metal-sound.md
-    - Meteor mash: moves/meteor-mash.md
+    - Metal Burst: moves/metal-burst.md
+    - Metal Claw: moves/metal-claw.md
+    - Metal Sound: moves/metal-sound.md
+    - Meteor Mash: moves/meteor-mash.md
     - Metronome: moves/metronome.md
-    - Milk drink: moves/milk-drink.md
+    - Milk Drink: moves/milk-drink.md
     - Mimic: moves/mimic.md
-    - Mind reader: moves/mind-reader.md
+    - Mind Reader: moves/mind-reader.md
     - Minimize: moves/minimize.md
-    - Miracle eye: moves/miracle-eye.md
-    - Mirror coat: moves/mirror-coat.md
-    - Mirror move: moves/mirror-move.md
-    - Mirror shot: moves/mirror-shot.md
+    - Miracle Eye: moves/miracle-eye.md
+    - Mirror Coat: moves/mirror-coat.md
+    - Mirror Move: moves/mirror-move.md
+    - Mirror Shot: moves/mirror-shot.md
     - Mist: moves/mist.md
-    - Mist ball: moves/mist-ball.md
+    - Mist Ball: moves/mist-ball.md
     - Moonlight: moves/moonlight.md
-    - Morning sun: moves/morning-sun.md
-    - Mud bomb: moves/mud-bomb.md
-    - Mud shot: moves/mud-shot.md
-    - Mud slap: moves/mud-slap.md
-    - Mud sport: moves/mud-sport.md
-    - Muddy water: moves/muddy-water.md
-    - Nasty plot: moves/nasty-plot.md
-    - Natural gift: moves/natural-gift.md
-    - Nature power: moves/nature-power.md
-    - Needle arm: moves/needle-arm.md
-    - Night daze: moves/night-daze.md
-    - Night shade: moves/night-shade.md
-    - Night slash: moves/night-slash.md
+    - Morning Sun: moves/morning-sun.md
+    - Mud Bomb: moves/mud-bomb.md
+    - Mud Shot: moves/mud-shot.md
+    - Mud Slap: moves/mud-slap.md
+    - Mud Sport: moves/mud-sport.md
+    - Muddy Water: moves/muddy-water.md
+    - Nasty Plot: moves/nasty-plot.md
+    - Natural Gift: moves/natural-gift.md
+    - Nature Power: moves/nature-power.md
+    - Needle Arm: moves/needle-arm.md
+    - Night Daze: moves/night-daze.md
+    - Night Shade: moves/night-shade.md
+    - Night Slash: moves/night-slash.md
     - Nightmare: moves/nightmare.md
     - Octazooka: moves/octazooka.md
-    - Odor sleuth: moves/odor-sleuth.md
-    - Ominous wind: moves/ominous-wind.md
+    - Odor Sleuth: moves/odor-sleuth.md
+    - Ominous Wind: moves/ominous-wind.md
     - Outrage: moves/outrage.md
     - Overheat: moves/overheat.md
-    - Pain split: moves/pain-split.md
-    - Pay day: moves/pay-day.md
+    - Pain Split: moves/pain-split.md
+    - Pay Day: moves/pay-day.md
     - Payback: moves/payback.md
     - Peck: moves/peck.md
-    - Perish song: moves/perish-song.md
-    - Petal dance: moves/petal-dance.md
-    - Pin missile: moves/pin-missile.md
+    - Perish Song: moves/perish-song.md
+    - Petal Dance: moves/petal-dance.md
+    - Pin Missile: moves/pin-missile.md
     - Pluck: moves/pluck.md
-    - Poison fang: moves/poison-fang.md
-    - Poison gas: moves/poison-gas.md
-    - Poison jab: moves/poison-jab.md
-    - Poison powder: moves/poison-powder.md
-    - Poison sting: moves/poison-sting.md
-    - Poison tail: moves/poison-tail.md
+    - Poison Fang: moves/poison-fang.md
+    - Poison Gas: moves/poison-gas.md
+    - Poison Jab: moves/poison-jab.md
+    - Poison Powder: moves/poison-powder.md
+    - Poison Sting: moves/poison-sting.md
+    - Poison Tail: moves/poison-tail.md
     - Pound: moves/pound.md
-    - Powder snow: moves/powder-snow.md
-    - Power gem: moves/power-gem.md
-    - Power split: moves/power-split.md
-    - Power swap: moves/power-swap.md
-    - Power trick: moves/power-trick.md
-    - Power whip: moves/power-whip.md
+    - Powder Snow: moves/powder-snow.md
+    - Power Gem: moves/power-gem.md
+    - Power Split: moves/power-split.md
+    - Power Swap: moves/power-swap.md
+    - Power Trick: moves/power-trick.md
+    - Power Whip: moves/power-whip.md
     - Present: moves/present.md
     - Protect: moves/protect.md
     - Psybeam: moves/psybeam.md
-    - Psych up: moves/psych-up.md
+    - Psych Up: moves/psych-up.md
     - Psychic: moves/psychic.md
-    - Psycho boost: moves/psycho-boost.md
-    - Psycho cut: moves/psycho-cut.md
-    - Psycho shift: moves/psycho-shift.md
+    - Psycho Boost: moves/psycho-boost.md
+    - Psycho Cut: moves/psycho-cut.md
+    - Psycho Shift: moves/psycho-shift.md
     - Psyshock: moves/psyshock.md
     - Psystrike: moves/psystrike.md
     - Psywave: moves/psywave.md
     - Punishment: moves/punishment.md
     - Pursuit: moves/pursuit.md
     - Quash: moves/quash.md
-    - Quick attack: moves/quick-attack.md
-    - Quick guard: moves/quick-guard.md
-    - Quiver dance: moves/quiver-dance.md
+    - Quick Attack: moves/quick-attack.md
+    - Quick Guard: moves/quick-guard.md
+    - Quiver Dance: moves/quiver-dance.md
     - Rage: moves/rage.md
-    - Rage powder: moves/rage-powder.md
-    - Rain dance: moves/rain-dance.md
-    - Rapid spin: moves/rapid-spin.md
-    - Razor leaf: moves/razor-leaf.md
-    - Razor shell: moves/razor-shell.md
-    - Razor wind: moves/razor-wind.md
+    - Rage Powder: moves/rage-powder.md
+    - Rain Dance: moves/rain-dance.md
+    - Rapid Spin: moves/rapid-spin.md
+    - Razor Leaf: moves/razor-leaf.md
+    - Razor Shell: moves/razor-shell.md
+    - Razor Wind: moves/razor-wind.md
     - Recover: moves/recover.md
     - Recycle: moves/recycle.md
     - Reflect: moves/reflect.md
-    - Reflect type: moves/reflect-type.md
+    - Reflect Type: moves/reflect-type.md
     - Refresh: moves/refresh.md
-    - Relic song: moves/relic-song.md
+    - Relic Song: moves/relic-song.md
     - Rest: moves/rest.md
     - Retaliate: moves/retaliate.md
     - Return: moves/return.md
     - Revenge: moves/revenge.md
     - Reversal: moves/reversal.md
     - Roar: moves/roar.md
-    - Roar of time: moves/roar-of-time.md
-    - Rock blast: moves/rock-blast.md
-    - Rock climb: moves/rock-climb.md
-    - Rock polish: moves/rock-polish.md
-    - Rock slide: moves/rock-slide.md
-    - Rock smash: moves/rock-smash.md
-    - Rock throw: moves/rock-throw.md
-    - Rock tomb: moves/rock-tomb.md
-    - Rock wrecker: moves/rock-wrecker.md
-    - Role play: moves/role-play.md
-    - Rolling kick: moves/rolling-kick.md
+    - Roar Of Time: moves/roar-of-time.md
+    - Rock Blast: moves/rock-blast.md
+    - Rock Climb: moves/rock-climb.md
+    - Rock Polish: moves/rock-polish.md
+    - Rock Slide: moves/rock-slide.md
+    - Rock Smash: moves/rock-smash.md
+    - Rock Throw: moves/rock-throw.md
+    - Rock Tomb: moves/rock-tomb.md
+    - Rock Wrecker: moves/rock-wrecker.md
+    - Role Play: moves/role-play.md
+    - Rolling Kick: moves/rolling-kick.md
     - Rollout: moves/rollout.md
     - Roost: moves/roost.md
     - Round: moves/round.md
-    - Sacred fire: moves/sacred-fire.md
-    - Sacred sword: moves/sacred-sword.md
+    - Sacred Fire: moves/sacred-fire.md
+    - Sacred Sword: moves/sacred-sword.md
     - Safeguard: moves/safeguard.md
-    - Sand attack: moves/sand-attack.md
-    - Sand tomb: moves/sand-tomb.md
+    - Sand Attack: moves/sand-attack.md
+    - Sand Tomb: moves/sand-tomb.md
     - Sandstorm: moves/sandstorm.md
     - Scald: moves/scald.md
-    - Scary face: moves/scary-face.md
+    - Scary Face: moves/scary-face.md
     - Scratch: moves/scratch.md
     - Screech: moves/screech.md
-    - Searing shot: moves/searing-shot.md
-    - Secret power: moves/secret-power.md
-    - Secret sword: moves/secret-sword.md
-    - Seed bomb: moves/seed-bomb.md
-    - Seed flare: moves/seed-flare.md
-    - Seismic toss: moves/seismic-toss.md
-    - Self destruct: moves/self-destruct.md
-    - Shadow ball: moves/shadow-ball.md
-    - Shadow claw: moves/shadow-claw.md
-    - Shadow force: moves/shadow-force.md
-    - Shadow punch: moves/shadow-punch.md
-    - Shadow sneak: moves/shadow-sneak.md
+    - Searing Shot: moves/searing-shot.md
+    - Secret Power: moves/secret-power.md
+    - Secret Sword: moves/secret-sword.md
+    - Seed Bomb: moves/seed-bomb.md
+    - Seed Flare: moves/seed-flare.md
+    - Seismic Toss: moves/seismic-toss.md
+    - Self Destruct: moves/self-destruct.md
+    - Shadow Ball: moves/shadow-ball.md
+    - Shadow Claw: moves/shadow-claw.md
+    - Shadow Force: moves/shadow-force.md
+    - Shadow Punch: moves/shadow-punch.md
+    - Shadow Sneak: moves/shadow-sneak.md
     - Sharpen: moves/sharpen.md
-    - Sheer cold: moves/sheer-cold.md
-    - Shell smash: moves/shell-smash.md
-    - Shift gear: moves/shift-gear.md
-    - Shock wave: moves/shock-wave.md
-    - Signal beam: moves/signal-beam.md
-    - Silver wind: moves/silver-wind.md
-    - Simple beam: moves/simple-beam.md
+    - Sheer Cold: moves/sheer-cold.md
+    - Shell Smash: moves/shell-smash.md
+    - Shift Gear: moves/shift-gear.md
+    - Shock Wave: moves/shock-wave.md
+    - Signal Beam: moves/signal-beam.md
+    - Silver Wind: moves/silver-wind.md
+    - Simple Beam: moves/simple-beam.md
     - Sing: moves/sing.md
     - Sketch: moves/sketch.md
-    - Skill swap: moves/skill-swap.md
-    - Skull bash: moves/skull-bash.md
-    - Sky attack: moves/sky-attack.md
-    - Sky drop: moves/sky-drop.md
-    - Sky uppercut: moves/sky-uppercut.md
-    - Slack off: moves/slack-off.md
+    - Skill Swap: moves/skill-swap.md
+    - Skull Bash: moves/skull-bash.md
+    - Sky Attack: moves/sky-attack.md
+    - Sky Drop: moves/sky-drop.md
+    - Sky Uppercut: moves/sky-uppercut.md
+    - Slack Off: moves/slack-off.md
     - Slam: moves/slam.md
     - Slash: moves/slash.md
-    - Sleep powder: moves/sleep-powder.md
-    - Sleep talk: moves/sleep-talk.md
+    - Sleep Powder: moves/sleep-powder.md
+    - Sleep Talk: moves/sleep-talk.md
     - Sludge: moves/sludge.md
-    - Sludge bomb: moves/sludge-bomb.md
-    - Sludge wave: moves/sludge-wave.md
-    - Smack down: moves/smack-down.md
-    - Smelling salts: moves/smelling-salts.md
+    - Sludge Bomb: moves/sludge-bomb.md
+    - Sludge Wave: moves/sludge-wave.md
+    - Smack Down: moves/smack-down.md
+    - Smelling Salts: moves/smelling-salts.md
     - Smog: moves/smog.md
     - Smokescreen: moves/smokescreen.md
     - Snarl: moves/snarl.md
     - Snatch: moves/snatch.md
     - Snore: moves/snore.md
     - Soak: moves/soak.md
-    - Soft boiled: moves/soft-boiled.md
-    - Solar beam: moves/solar-beam.md
-    - Sonic boom: moves/sonic-boom.md
-    - Spacial rend: moves/spacial-rend.md
+    - Soft Boiled: moves/soft-boiled.md
+    - Solar Beam: moves/solar-beam.md
+    - Sonic Boom: moves/sonic-boom.md
+    - Spacial Rend: moves/spacial-rend.md
     - Spark: moves/spark.md
-    - Spider web: moves/spider-web.md
-    - Spike cannon: moves/spike-cannon.md
+    - Spider Web: moves/spider-web.md
+    - Spike Cannon: moves/spike-cannon.md
     - Spikes: moves/spikes.md
-    - Spit up: moves/spit-up.md
+    - Spit Up: moves/spit-up.md
     - Spite: moves/spite.md
     - Splash: moves/splash.md
     - Spore: moves/spore.md
-    - Stealth rock: moves/stealth-rock.md
+    - Stealth Rock: moves/stealth-rock.md
     - Steamroller: moves/steamroller.md
-    - Steel wing: moves/steel-wing.md
+    - Steel Wing: moves/steel-wing.md
     - Stockpile: moves/stockpile.md
     - Stomp: moves/stomp.md
-    - Stone edge: moves/stone-edge.md
-    - Stored power: moves/stored-power.md
-    - Storm throw: moves/storm-throw.md
+    - Stone Edge: moves/stone-edge.md
+    - Stored Power: moves/stored-power.md
+    - Storm Throw: moves/storm-throw.md
     - Strength: moves/strength.md
-    - String shot: moves/string-shot.md
-    - Struggle bug: moves/struggle-bug.md
-    - Stun spore: moves/stun-spore.md
+    - String Shot: moves/string-shot.md
+    - Struggle Bug: moves/struggle-bug.md
+    - Stun Spore: moves/stun-spore.md
     - Submission: moves/submission.md
     - Substitute: moves/substitute.md
-    - Sucker punch: moves/sucker-punch.md
-    - Sunny day: moves/sunny-day.md
-    - Super fang: moves/super-fang.md
+    - Sucker Punch: moves/sucker-punch.md
+    - Sunny Day: moves/sunny-day.md
+    - Super Fang: moves/super-fang.md
     - Superpower: moves/superpower.md
     - Supersonic: moves/supersonic.md
     - Surf: moves/surf.md
     - Swagger: moves/swagger.md
     - Swallow: moves/swallow.md
-    - Sweet kiss: moves/sweet-kiss.md
-    - Sweet scent: moves/sweet-scent.md
+    - Sweet Kiss: moves/sweet-kiss.md
+    - Sweet Scent: moves/sweet-scent.md
     - Swift: moves/swift.md
     - Switcheroo: moves/switcheroo.md
-    - Swords dance: moves/swords-dance.md
+    - Swords Dance: moves/swords-dance.md
     - Synchronoise: moves/synchronoise.md
     - Synthesis: moves/synthesis.md
     - Tackle: moves/tackle.md
-    - Tail glow: moves/tail-glow.md
-    - Tail slap: moves/tail-slap.md
-    - Tail whip: moves/tail-whip.md
+    - Tail Glow: moves/tail-glow.md
+    - Tail Slap: moves/tail-slap.md
+    - Tail Whip: moves/tail-whip.md
     - Tailwind: moves/tailwind.md
-    - Take down: moves/take-down.md
+    - Take Down: moves/take-down.md
     - Taunt: moves/taunt.md
-    - Techno blast: moves/techno-blast.md
-    - Teeter dance: moves/teeter-dance.md
+    - Techno Blast: moves/techno-blast.md
+    - Teeter Dance: moves/teeter-dance.md
     - Telekinesis: moves/telekinesis.md
     - Teleport: moves/teleport.md
     - Thief: moves/thief.md
     - Thrash: moves/thrash.md
     - Thunder: moves/thunder.md
-    - Thunder fang: moves/thunder-fang.md
-    - Thunder punch: moves/thunder-punch.md
-    - Thunder shock: moves/thunder-shock.md
-    - Thunder wave: moves/thunder-wave.md
+    - Thunder Fang: moves/thunder-fang.md
+    - Thunder Punch: moves/thunder-punch.md
+    - Thunder Shock: moves/thunder-shock.md
+    - Thunder Wave: moves/thunder-wave.md
     - Thunderbolt: moves/thunderbolt.md
     - Tickle: moves/tickle.md
     - Torment: moves/torment.md
     - Toxic: moves/toxic.md
-    - Toxic spikes: moves/toxic-spikes.md
+    - Toxic Spikes: moves/toxic-spikes.md
     - Transform: moves/transform.md
-    - Tri attack: moves/tri-attack.md
+    - Tri Attack: moves/tri-attack.md
     - Trick: moves/trick.md
-    - Trick room: moves/trick-room.md
-    - Triple kick: moves/triple-kick.md
-    - Trump card: moves/trump-card.md
+    - Trick Room: moves/trick-room.md
+    - Triple Kick: moves/triple-kick.md
+    - Trump Card: moves/trump-card.md
     - Twineedle: moves/twineedle.md
     - Twister: moves/twister.md
-    - U turn: moves/u-turn.md
+    - U Turn: moves/u-turn.md
     - Uproar: moves/uproar.md
-    - Vacuum wave: moves/vacuum-wave.md
+    - Vacuum Wave: moves/vacuum-wave.md
     - Venoshock: moves/venoshock.md
-    - Vice grip: moves/vice-grip.md
-    - Vine whip: moves/vine-whip.md
-    - Vital throw: moves/vital-throw.md
-    - Volt switch: moves/volt-switch.md
-    - Volt tackle: moves/volt-tackle.md
-    - Wake up slap: moves/wake-up-slap.md
-    - Water gun: moves/water-gun.md
-    - Water pledge: moves/water-pledge.md
-    - Water pulse: moves/water-pulse.md
-    - Water sport: moves/water-sport.md
-    - Water spout: moves/water-spout.md
+    - Vice Grip: moves/vice-grip.md
+    - Vine Whip: moves/vine-whip.md
+    - Vital Throw: moves/vital-throw.md
+    - Volt Switch: moves/volt-switch.md
+    - Volt Tackle: moves/volt-tackle.md
+    - Wake Up Slap: moves/wake-up-slap.md
+    - Water Gun: moves/water-gun.md
+    - Water Pledge: moves/water-pledge.md
+    - Water Pulse: moves/water-pulse.md
+    - Water Sport: moves/water-sport.md
+    - Water Spout: moves/water-spout.md
     - Waterfall: moves/waterfall.md
-    - Weather ball: moves/weather-ball.md
+    - Weather Ball: moves/weather-ball.md
     - Whirlpool: moves/whirlpool.md
     - Whirlwind: moves/whirlwind.md
-    - Wide guard: moves/wide-guard.md
-    - Wild charge: moves/wild-charge.md
-    - Will o wisp: moves/will-o-wisp.md
-    - Wing attack: moves/wing-attack.md
+    - Wide Guard: moves/wide-guard.md
+    - Wild Charge: moves/wild-charge.md
+    - Will O Wisp: moves/will-o-wisp.md
+    - Wing Attack: moves/wing-attack.md
     - Wish: moves/wish.md
     - Withdraw: moves/withdraw.md
-    - Wonder room: moves/wonder-room.md
-    - Wood hammer: moves/wood-hammer.md
-    - Work up: moves/work-up.md
-    - Worry seed: moves/worry-seed.md
+    - Wonder Room: moves/wonder-room.md
+    - Wood Hammer: moves/wood-hammer.md
+    - Work Up: moves/work-up.md
+    - Worry Seed: moves/worry-seed.md
     - Wrap: moves/wrap.md
-    - Wring out: moves/wring-out.md
-    - X scissor: moves/x-scissor.md
+    - Wring Out: moves/wring-out.md
+    - X Scissor: moves/x-scissor.md
     - Yawn: moves/yawn.md
-    - Zap cannon: moves/zap-cannon.md
-    - Zen headbutt: moves/zen-headbutt.md
+    - Zap Cannon: moves/zap-cannon.md
+    - Zen Headbutt: moves/zen-headbutt.md
   - Abilities:
     - abilities/index.md
     - Adaptability: abilities/adaptability.md
     - Aftermath: abilities/aftermath.md
-    - Air lock: abilities/air-lock.md
+    - Air Lock: abilities/air-lock.md
     - Analytic: abilities/analytic.md
-    - Anger point: abilities/anger-point.md
+    - Anger Point: abilities/anger-point.md
     - Anticipation: abilities/anticipation.md
-    - Arena trap: abilities/arena-trap.md
-    - Bad dreams: abilities/bad-dreams.md
-    - Battle armor: abilities/battle-armor.md
-    - Big pecks: abilities/big-pecks.md
+    - Arena Trap: abilities/arena-trap.md
+    - Bad Dreams: abilities/bad-dreams.md
+    - Battle Armor: abilities/battle-armor.md
+    - Big Pecks: abilities/big-pecks.md
     - Blaze: abilities/blaze.md
     - Chlorophyll: abilities/chlorophyll.md
-    - Clear body: abilities/clear-body.md
-    - Cloud nine: abilities/cloud-nine.md
-    - Color change: abilities/color-change.md
+    - Clear Body: abilities/clear-body.md
+    - Cloud Nine: abilities/cloud-nine.md
+    - Color Change: abilities/color-change.md
     - Competitive: abilities/competitive.md
-    - Compound eyes: abilities/compound-eyes.md
+    - Compound Eyes: abilities/compound-eyes.md
     - Contrary: abilities/contrary.md
-    - Cursed body: abilities/cursed-body.md
-    - Cute charm: abilities/cute-charm.md
+    - Cursed Body: abilities/cursed-body.md
+    - Cute Charm: abilities/cute-charm.md
     - Damp: abilities/damp.md
     - Defeatist: abilities/defeatist.md
     - Defiant: abilities/defiant.md
     - Download: abilities/download.md
     - Drizzle: abilities/drizzle.md
     - Drought: abilities/drought.md
-    - Dry skin: abilities/dry-skin.md
-    - Early bird: abilities/early-bird.md
-    - Effect spore: abilities/effect-spore.md
+    - Dry Skin: abilities/dry-skin.md
+    - Early Bird: abilities/early-bird.md
+    - Effect Spore: abilities/effect-spore.md
     - Filter: abilities/filter.md
-    - Flame body: abilities/flame-body.md
-    - Flare boost: abilities/flare-boost.md
-    - Flash fire: abilities/flash-fire.md
-    - Flower gift: abilities/flower-gift.md
+    - Flame Body: abilities/flame-body.md
+    - Flare Boost: abilities/flare-boost.md
+    - Flash Fire: abilities/flash-fire.md
+    - Flower Gift: abilities/flower-gift.md
     - Forecast: abilities/forecast.md
     - Forewarn: abilities/forewarn.md
-    - Friend guard: abilities/friend-guard.md
+    - Friend Guard: abilities/friend-guard.md
     - Frisk: abilities/frisk.md
     - Gluttony: abilities/gluttony.md
     - Guts: abilities/guts.md
     - Harvest: abilities/harvest.md
     - Healer: abilities/healer.md
     - Heatproof: abilities/heatproof.md
-    - Heavy metal: abilities/heavy-metal.md
-    - Honey gather: abilities/honey-gather.md
-    - Huge power: abilities/huge-power.md
+    - Heavy Metal: abilities/heavy-metal.md
+    - Honey Gather: abilities/honey-gather.md
+    - Huge Power: abilities/huge-power.md
     - Hustle: abilities/hustle.md
     - Hydration: abilities/hydration.md
-    - Hyper cutter: abilities/hyper-cutter.md
-    - Ice body: abilities/ice-body.md
+    - Hyper Cutter: abilities/hyper-cutter.md
+    - Ice Body: abilities/ice-body.md
     - Illuminate: abilities/illuminate.md
     - Illusion: abilities/illusion.md
     - Immunity: abilities/immunity.md
     - Imposter: abilities/imposter.md
     - Infiltrator: abilities/infiltrator.md
-    - Inner focus: abilities/inner-focus.md
+    - Inner Focus: abilities/inner-focus.md
     - Insomnia: abilities/insomnia.md
     - Intimidate: abilities/intimidate.md
-    - Iron barbs: abilities/iron-barbs.md
-    - Iron fist: abilities/iron-fist.md
+    - Iron Barbs: abilities/iron-barbs.md
+    - Iron Fist: abilities/iron-fist.md
     - Justified: abilities/justified.md
-    - Keen eye: abilities/keen-eye.md
+    - Keen Eye: abilities/keen-eye.md
     - Klutz: abilities/klutz.md
-    - Leaf guard: abilities/leaf-guard.md
+    - Leaf Guard: abilities/leaf-guard.md
     - Levitate: abilities/levitate.md
-    - Light metal: abilities/light-metal.md
-    - Lightning rod: abilities/lightning-rod.md
+    - Light Metal: abilities/light-metal.md
+    - Lightning Rod: abilities/lightning-rod.md
     - Limber: abilities/limber.md
-    - Liquid ooze: abilities/liquid-ooze.md
-    - Magic bounce: abilities/magic-bounce.md
-    - Magic guard: abilities/magic-guard.md
-    - Magma armor: abilities/magma-armor.md
-    - Magnet pull: abilities/magnet-pull.md
-    - Marvel scale: abilities/marvel-scale.md
+    - Liquid Ooze: abilities/liquid-ooze.md
+    - Magic Bounce: abilities/magic-bounce.md
+    - Magic Guard: abilities/magic-guard.md
+    - Magma Armor: abilities/magma-armor.md
+    - Magnet Pull: abilities/magnet-pull.md
+    - Marvel Scale: abilities/marvel-scale.md
     - Minus: abilities/minus.md
-    - Mold breaker: abilities/mold-breaker.md
+    - Mold Breaker: abilities/mold-breaker.md
     - Moody: abilities/moody.md
-    - Motor drive: abilities/motor-drive.md
+    - Motor Drive: abilities/motor-drive.md
     - Moxie: abilities/moxie.md
     - Multiscale: abilities/multiscale.md
     - Multitype: abilities/multitype.md
     - Mummy: abilities/mummy.md
-    - Natural cure: abilities/natural-cure.md
-    - Neutralizing gas: abilities/neutralizing-gas.md
-    - No guard: abilities/no-guard.md
+    - Natural Cure: abilities/natural-cure.md
+    - Neutralizing Gas: abilities/neutralizing-gas.md
+    - No Guard: abilities/no-guard.md
     - Normalize: abilities/normalize.md
     - Oblivious: abilities/oblivious.md
     - Overcoat: abilities/overcoat.md
     - Overgrow: abilities/overgrow.md
-    - Own tempo: abilities/own-tempo.md
+    - Own Tempo: abilities/own-tempo.md
     - Pickpocket: abilities/pickpocket.md
     - Pickup: abilities/pickup.md
     - Plus: abilities/plus.md
-    - Poison heal: abilities/poison-heal.md
-    - Poison point: abilities/poison-point.md
-    - Poison touch: abilities/poison-touch.md
+    - Poison Heal: abilities/poison-heal.md
+    - Poison Point: abilities/poison-point.md
+    - Poison Touch: abilities/poison-touch.md
     - Prankster: abilities/prankster.md
     - Pressure: abilities/pressure.md
     - Protean: abilities/protean.md
-    - Pure power: abilities/pure-power.md
-    - Quick feet: abilities/quick-feet.md
-    - Rain dish: abilities/rain-dish.md
+    - Pure Power: abilities/pure-power.md
+    - Quick Feet: abilities/quick-feet.md
+    - Rain Dish: abilities/rain-dish.md
     - Rattled: abilities/rattled.md
     - Reckless: abilities/reckless.md
     - Regenerator: abilities/regenerator.md
     - Rivalry: abilities/rivalry.md
-    - Rock head: abilities/rock-head.md
-    - Rough skin: abilities/rough-skin.md
-    - Run away: abilities/run-away.md
-    - Sand force: abilities/sand-force.md
-    - Sand rush: abilities/sand-rush.md
-    - Sand stream: abilities/sand-stream.md
-    - Sand veil: abilities/sand-veil.md
-    - Sap sipper: abilities/sap-sipper.md
+    - Rock Head: abilities/rock-head.md
+    - Rough Skin: abilities/rough-skin.md
+    - Run Away: abilities/run-away.md
+    - Sand Force: abilities/sand-force.md
+    - Sand Rush: abilities/sand-rush.md
+    - Sand Stream: abilities/sand-stream.md
+    - Sand Veil: abilities/sand-veil.md
+    - Sap Sipper: abilities/sap-sipper.md
     - Scrappy: abilities/scrappy.md
-    - Serene grace: abilities/serene-grace.md
-    - Shadow tag: abilities/shadow-tag.md
+    - Serene Grace: abilities/serene-grace.md
+    - Shadow Tag: abilities/shadow-tag.md
     - Sharpness: abilities/sharpness.md
-    - Shed skin: abilities/shed-skin.md
-    - Sheer force: abilities/sheer-force.md
-    - Shell armor: abilities/shell-armor.md
-    - Shield dust: abilities/shield-dust.md
+    - Shed Skin: abilities/shed-skin.md
+    - Sheer Force: abilities/sheer-force.md
+    - Shell Armor: abilities/shell-armor.md
+    - Shield Dust: abilities/shield-dust.md
     - Simple: abilities/simple.md
-    - Skill link: abilities/skill-link.md
-    - Slow start: abilities/slow-start.md
-    - Slush rush: abilities/slush-rush.md
+    - Skill Link: abilities/skill-link.md
+    - Slow Start: abilities/slow-start.md
+    - Slush Rush: abilities/slush-rush.md
     - Sniper: abilities/sniper.md
-    - Snow cloak: abilities/snow-cloak.md
-    - Snow warning: abilities/snow-warning.md
-    - Solar power: abilities/solar-power.md
-    - Solid rock: abilities/solid-rock.md
+    - Snow Cloak: abilities/snow-cloak.md
+    - Snow Warning: abilities/snow-warning.md
+    - Solar Power: abilities/solar-power.md
+    - Solid Rock: abilities/solid-rock.md
     - Soundproof: abilities/soundproof.md
-    - Speed boost: abilities/speed-boost.md
+    - Speed Boost: abilities/speed-boost.md
     - Stall: abilities/stall.md
     - Static: abilities/static.md
     - Steadfast: abilities/steadfast.md
     - Stench: abilities/stench.md
-    - Sticky hold: abilities/sticky-hold.md
-    - Storm drain: abilities/storm-drain.md
+    - Sticky Hold: abilities/sticky-hold.md
+    - Storm Drain: abilities/storm-drain.md
     - Sturdy: abilities/sturdy.md
-    - Suction cups: abilities/suction-cups.md
-    - Super luck: abilities/super-luck.md
+    - Suction Cups: abilities/suction-cups.md
+    - Super Luck: abilities/super-luck.md
     - Swarm: abilities/swarm.md
-    - Swift swim: abilities/swift-swim.md
+    - Swift Swim: abilities/swift-swim.md
     - Synchronize: abilities/synchronize.md
-    - Tangled feet: abilities/tangled-feet.md
+    - Tangled Feet: abilities/tangled-feet.md
     - Technician: abilities/technician.md
     - Telepathy: abilities/telepathy.md
     - Teravolt: abilities/teravolt.md
-    - Thick fat: abilities/thick-fat.md
-    - Tinted lens: abilities/tinted-lens.md
+    - Thick Fat: abilities/thick-fat.md
+    - Tinted Lens: abilities/tinted-lens.md
     - Torrent: abilities/torrent.md
-    - Toxic boost: abilities/toxic-boost.md
+    - Toxic Boost: abilities/toxic-boost.md
     - Trace: abilities/trace.md
     - Truant: abilities/truant.md
     - Turboblaze: abilities/turboblaze.md
     - Unaware: abilities/unaware.md
     - Unburden: abilities/unburden.md
     - Unnerve: abilities/unnerve.md
-    - Victory star: abilities/victory-star.md
-    - Vital spirit: abilities/vital-spirit.md
-    - Volt absorb: abilities/volt-absorb.md
-    - Water absorb: abilities/water-absorb.md
-    - Water veil: abilities/water-veil.md
-    - Weak armor: abilities/weak-armor.md
-    - White smoke: abilities/white-smoke.md
-    - Wind rider: abilities/wind-rider.md
-    - Wonder guard: abilities/wonder-guard.md
-    - Wonder skin: abilities/wonder-skin.md
-    - Zen mode: abilities/zen-mode.md
+    - Victory Star: abilities/victory-star.md
+    - Vital Spirit: abilities/vital-spirit.md
+    - Volt Absorb: abilities/volt-absorb.md
+    - Water Absorb: abilities/water-absorb.md
+    - Water Veil: abilities/water-veil.md
+    - Weak Armor: abilities/weak-armor.md
+    - White Smoke: abilities/white-smoke.md
+    - Wind Rider: abilities/wind-rider.md
+    - Wonder Guard: abilities/wonder-guard.md
+    - Wonder Skin: abilities/wonder-skin.md
+    - Zen Mode: abilities/zen-mode.md

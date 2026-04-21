@@ -4,14 +4,14 @@
 ### General
 | Item |
 | --- |
-| ![Sun Stone * 6](../img/items/sun-stone.png) [Sun Stone * 6](../items/sun-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Chesto Berry * 3</span> |
+| ![Sun Stone * 6](../img/items/sun-stone.png) [Sun Stone * 6](../items/sun-stone.md) |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (In Gym Entrance) |
-| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) (With Dowsing Machine) |
 | ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) (Wednesday Only) |
 | ![Charcoal](../img/items/charcoal.png) [Charcoal](../items/charcoal.md) (If you answer Tepig) |
 | ![Miracle Seed](../img/items/miracle-seed.png) [Miracle Seed](../items/miracle-seed.md) (If you answer Snivy) |
 | ![Mystic Water](../img/items/mystic-water.png) [Mystic Water](../items/mystic-water.md) (If you answer Oshawott) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![Dark Stone](../img/items/dark-stone.png) [Dark Stone](../items/dark-stone.md) (From Lenora) |
 | ![Dowsing MCHN](../img/items/unknown.png) [Dowsing MCHN](../items/dowsing-mchn.md) (From Bianca) |
 | ![Light Stone](../img/items/light-stone.png) [Light Stone](../items/light-stone.md) (From Lenora) |

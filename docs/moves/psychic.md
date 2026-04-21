@@ -1,6 +1,6 @@
 # Psychic
 
-**TM/HM:** TM29
+**TM/HM:** [TM29](../items/tm29.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

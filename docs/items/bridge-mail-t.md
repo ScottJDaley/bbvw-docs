@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BridgeMail T
+# ![icon](../img/items/bridge-mail-t.png) Bridge Mail T
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s printed with the pattern of a steel suspension bridge. Given to a Pokemon to hold.

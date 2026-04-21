@@ -1,6 +1,6 @@
-# Mirror move
+# Mirror Move
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

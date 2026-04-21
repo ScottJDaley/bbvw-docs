@@ -1,6 +1,6 @@
 # Hail
 
-**TM/HM:** TM07
+**TM/HM:** [TM07](../items/tm07.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

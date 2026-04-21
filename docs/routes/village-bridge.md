@@ -77,7 +77,7 @@
 ### General
 | Item |
 | --- |
-| ![Leftovers](../img/items/leftovers.png) [Leftovers](../items/leftovers.md) |
+| ![Leftovers](../img/items/leftovers.png) [Leftovers](../items/leftovers.md) (With Dowsing Machine) |
 | ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) |
 | ![Dive Ball](../img/items/dive-ball.png) [Dive Ball](../items/dive-ball.md) |
 

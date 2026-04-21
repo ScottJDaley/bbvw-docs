@@ -1,6 +1,6 @@
 # Lick
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![ghost](../img/types/ghost.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
-# Bullet punch
+# Bullet Punch
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

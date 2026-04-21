@@ -55,12 +55,12 @@
 ### General
 | Item |
 | --- |
-| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) (With Dowsing Machine) |
 | ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
-| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
 | ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
-| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) (With Dowsing Machine) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
 | ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
 | ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
@@ -88,16 +88,16 @@
 | ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
 | ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
 | ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
-| ![Iron](../img/items/iron.png) [Iron](../items/iron.md) |
+| ![Iron](../img/items/iron.png) [Iron](../items/iron.md) (With Dowsing Machine) |
 | ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
-| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) |
-| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) (With Dowsing Machine) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) (With Dowsing Machine) |
 | ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
-| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
-| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
-| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) (With Dowsing Machine) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) (With Dowsing Machine) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) (With Dowsing Machine) |
 | ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![Armor Fossil](../img/items/armor-fossil.png) [Armor Fossil](../items/armor-fossil.md) |
 | ![Claw Fossil](../img/items/claw-fossil.png) [Claw Fossil](../items/claw-fossil.md) |
 | ![Dome Fossil](../img/items/dome-fossil.png) [Dome Fossil](../items/dome-fossil.md) |
@@ -160,7 +160,7 @@
 | Sprite | Pokemon | Level | Ability | Item | Moves |
 | --- | --- | --- | --- | --- | --- |
 | ![Jynx](../img/pokemon/124.png) | [Jynx](../pokemon/jynx.md) | 53 | - | - |  |
-| ![Mr. Mime](../img/pokemon/122.png) | [Mr. mime](../pokemon/mr-mime.md) | 53 | - | - |  |
+| ![Mr. Mime](../img/pokemon/122.png) | [Mr. Mime](../pokemon/mr-mime.md) | 53 | - | - |  |
 | ![Wobbuffet](../img/pokemon/202.png) | [Wobbuffet](../pokemon/wobbuffet.md) | 53 | - | - |  |
 
 ### Hiker Neil

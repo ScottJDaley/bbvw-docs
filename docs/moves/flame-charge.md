@@ -1,6 +1,6 @@
-# Flame charge
+# Flame Charge
 
-**TM/HM:** TM43
+**TM/HM:** [TM43](../items/tm43.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

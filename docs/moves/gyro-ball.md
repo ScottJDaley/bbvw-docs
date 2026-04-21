@@ -1,6 +1,6 @@
-# Gyro ball
+# Gyro Ball
 
-**TM/HM:** TM74
+**TM/HM:** [TM74](../items/tm74.md)
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

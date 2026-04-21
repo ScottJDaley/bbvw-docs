@@ -1,6 +1,6 @@
 # Venoshock
 
-**TM/HM:** TM09
+**TM/HM:** [TM09](../items/tm09.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

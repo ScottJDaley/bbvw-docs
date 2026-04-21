@@ -1,6 +1,6 @@
 # Flamethrower
 
-**TM/HM:** TM35
+**TM/HM:** [TM35](../items/tm35.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

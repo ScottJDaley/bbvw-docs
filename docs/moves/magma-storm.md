@@ -1,6 +1,6 @@
-# Magma storm
+# Magma Storm
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

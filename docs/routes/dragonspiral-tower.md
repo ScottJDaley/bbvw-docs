@@ -145,7 +145,7 @@
 | ![Old Gateau](../img/items/old-gateau.png) [Old Gateau](../items/old-gateau.md) (Gift from Professor Juniper) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
 | ![Dragon Fang](../img/items/dragon-fang.png) [Dragon Fang](../items/dragon-fang.md) |
-| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) (With Dowsing Machine) |
 | ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) (Winter Only) |
 | ![Star Piece](../img/items/star-piece.png) [Star Piece](../items/star-piece.md) |
 | ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |

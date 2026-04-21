@@ -4,6 +4,14 @@ import os
 
 DATA_DIR = "scripts/data"
 
+def fix_item_name(name):
+    if not name: return ""
+    name = name.strip()
+    # Fix BalmMushroom -> Balm Mushroom, BlackGlasses -> Black Glasses etc
+    # Matches lowercase followed by uppercase
+    name = re.sub(r'([a-z])([A-Z])', r'\1 \2', name)
+    return name
+
 def normalize_name(name):
     if not name: return ""
     # Handle CamelCase (e.g., PoisonPowder -> Poison-Powder)
@@ -216,12 +224,9 @@ def parse_move_changes():
         if not line or "General Attack Changes" in line: continue
         
         # Determine which moves this line applies to
-        # e.g. "Fire, Water and Grass Pledge are now 100 power."
-        # or "Pin Missile is now 25 power."
         moves_part = line.split(" is now ")[0].split(" are now ")[0]
         moves_to_update = [m.strip() for m in re.split(r',| and ', moves_part) if m.strip()]
         
-        # Parse what changed
         stats = {}
         # Power
         p_match = re.search(r'(\d+)\s+power', line)
@@ -240,7 +245,6 @@ def parse_move_changes():
             mn_norm = normalize_name(mname)
             if not mn_norm: continue
             
-            # Find original values from base_data
             base_info = base_data['moves'].get(mn_norm)
             if not base_info: continue
             
@@ -270,7 +274,6 @@ def parse_move_changes():
                     current_sub_group = target_group[1::2]
                 continue
 
-            # Handle removal comments: * Exploud loses Fire Fang, Ice Fang and Thunder Fang from its movelist.
             lose_match = re.match(r'\*\s*(.*?)\s+loses\s+(.*?)\s+from\s+its\s+movelist', line)
             if lose_match:
                 who, what = lose_match.groups()
@@ -282,7 +285,6 @@ def parse_move_changes():
                         move_changes[p].append({'level': 0, 'name': normalize_name(m), 'marker': 'REMOVED'})
                 continue
 
-            # Handle substitution comments: * Fire Blast replaces the Imprison at Level 64.
             replace_match = re.match(r'\*\s*(.*?)\s+replaces\s+the\s+(.*?)\s+at\s+Level\s+(\d+)', line)
             if replace_match:
                 new_m, old_m, lv = replace_match.groups()
@@ -292,17 +294,14 @@ def parse_move_changes():
                     move_changes[p].append({'level': int(lv), 'name': normalize_name(new_m), 'marker': '+'})
                 continue
 
-            # Handle level shift comments: * All remaining moves have their level at 78, 85, 92.
             shift_match = re.match(r'\*\s*All\s+remaining\s+moves\s+have\s+their\s+level\s+at\s+([\d\s,]+)', line)
             if shift_match:
                 lvs = [int(l.strip()) for l in shift_match.group(1).split(',')]
                 for p in current_sub_group:
                     if p not in move_changes: move_changes[p] = []
-                    # Special marker for generation script to handle "remaining" moves
                     move_changes[p].append({'level_shifts': lvs, 'marker': 'SHIFT_REMAINING'})
                 continue
 
-            # Sunkern style "between" moves: + Nature Power between ... and ..., Level 20 (Sunkern, Sunflora)
             between_match = re.match(r'([+\-=]?)\s*(.*?)\s+between\s+.*?\s+and\s+.*?,?\s*Level\s+(\d+)\s*[(\[](.+)[)\]]', line)
             if between_match:
                 marker, mname, lv, filter_text = between_match.groups()
@@ -314,8 +313,6 @@ def parse_move_changes():
                         move_changes[p].append({'level': int(lv), 'name': normalize_name(mname), 'marker': marker})
                 continue
 
-            # Support both (...) and [...] for pokemon filters, and allow spaces in move names
-            # Refined filter split to handle "Pikachu and Raichu only"
             move_match = re.match(r'([+\-=]?)\s*Level\s+([\d\s/–-]+)\s*[-–]\s*(.*?)(?:\s*[(\[](.+)[)\]])?\s*$', line)
 
             if move_match:
@@ -327,7 +324,6 @@ def parse_move_changes():
 
                 levels = [l.strip() for l in re.split(r'[/–-]', lv_str) if l.strip()]
                 moves = [m.strip() for m in mname_str.split('/')]
-                # Split filter text by comma or " and "
                 filters = [f.strip().lower() for f in re.split(r',| and ', filter_text)] if filter_text else []
                 
                 same_for_all = False
@@ -360,7 +356,6 @@ def parse_trainers():
     with open(os.path.join(DATA_DIR, "Important Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         imp_content = f.read().replace('Straition', 'Striaton').replace('Striation', 'Striaton')
     
-    # Split by major groups (spoiler headers)
     groups = re.split(r'\n\s*\n(?=Rival|Gym Leader|PKMN Trainer|Elite Four|Team Plasma|Champion|GAME Freak)', imp_content)
     for group in groups:
         lines = [l.strip() for l in group.strip().split('\n') if l.strip()]
@@ -385,11 +380,8 @@ def parse_trainers():
             def parse_table(text):
                 rows = [l.strip() for l in text.split('\n') if '|' in l]
                 if not rows: return []
-                
                 label_sequence = []
                 data_storage = {}
-                
-                # First pass: identify the sequence of labels
                 for r in rows:
                     parts = [p.strip() for p in r.split('|')]
                     label = parts[0]
@@ -397,25 +389,19 @@ def parse_trainers():
                         if label not in label_sequence:
                             label_sequence.append(label)
                             data_storage[label] = []
-                
                 if not label_sequence: return []
-                
-                # Second pass: fill values correctly
                 current_label_idx = -1
                 for r in rows:
                     parts = [p.strip() for p in r.split('|')]
                     label = parts[0]
                     vals = [p for p in parts[1:] if p]
-                    
                     if label and label in data_storage:
                         data_storage[label].extend(vals)
                         current_label_idx = label_sequence.index(label)
                     elif (not label or label == "") and vals:
-                        # Anonymous row: use next label in sequence
                         current_label_idx = (current_label_idx + 1) % len(label_sequence)
                         target_label = label_sequence[current_label_idx]
                         data_storage[target_label].extend(vals)
-                
                 species = data_storage.get('Species', [])
                 pokemon = []
                 for i in range(len(species)):
@@ -432,7 +418,6 @@ def parse_trainers():
                     if i < len(abs_clean): p['ability'] = abs_clean[i]
                     elif i < len(abs_gen): p['ability'] = abs_gen[i]
                     elif i < len(abs_reg): p['ability'] = abs_reg[i]
-                    
                     for m_lab in ['Move #1', 'Move #2', 'Move #3', 'Move #4']:
                         m_list = data_storage.get(m_lab, [])
                         if i < len(m_list): p['moves'].append(m_list[i])
@@ -441,7 +426,6 @@ def parse_trainers():
 
             pokemon = parse_table(block)
             if not pokemon: continue
-            
             if not team_location:
                 loc_match = re.search(r'Location:\s+(.+)', block)
                 if loc_match: team_location = loc_match.group(1).strip()
@@ -449,11 +433,9 @@ def parse_trainers():
                     for l in lines:
                         if "Location:" in l: team_location = l.replace("Location:", "").strip(); break
             if not team_location: continue
-            
             norm_loc = team_location.replace(' Gym', ' City').replace(' Gym', ' Town')
             for city in ['Nacrene', 'Striaton', 'Castelia', 'Nimbasa', 'Driftveil', 'Mistralton', 'Icirrus', 'Opelucid']:
                 if city in norm_loc: norm_loc = city + " City"; break
-            
             trainer_data = {'name': team_name, 'pokemon': pokemon, 'important': True, 'battle_type': battle_type, 'reward': reward, 'group_header': main_header}
             if norm_loc not in important_rosters: important_rosters[norm_loc] = []
             important_rosters[norm_loc].append(trainer_data)
@@ -461,7 +443,6 @@ def parse_trainers():
     trainers, trainer_locations_ordered = {}, []
     with open(os.path.join(DATA_DIR, "Trainer Rosters.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         gen_content = f.read().replace('Straition', 'Striaton').replace('Striation', 'Striaton')
-    
     sections = gen_content.split('\n---\n')
     for i in range(0, len(sections)-1):
         location = sections[i].strip().split('\n')[-1].strip()
@@ -491,13 +472,11 @@ def parse_trainers():
                          if pk_match: trainer_data['pokemon'].append({'name': pk_match.group(1).strip(), 'level': pk_match.group(2).strip(), 'moves': [], 'item': '-', 'ability': '-'})
                      if location not in trainers: trainers[location] = []
                      trainers[location].append(trainer_data)
-    
     for loc, teams in important_rosters.items():
         if loc not in trainers: trainers[loc] = teams
         else:
             for team in teams:
                 if not any(t['name'] == team['name'] for t in trainers[loc]): trainers[loc].append(team)
-
     return trainers, trainer_locations_ordered
 
 def parse_item_changes():
@@ -505,36 +484,31 @@ def parse_item_changes():
     with open(os.path.join("Documentation", "Item & Trade Changes.txt"), 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
     
-    # Parse items edited into "Use" items
     use_items_match = re.search(r'edited into "Use" items:\n---\n(.*?)\n\n\+ \+ \+ \+ \+', content, re.DOTALL)
     use_items = []
     if use_items_match:
-        use_items = [i.strip() for i in use_items_match.group(1).strip().split('\n') if i.strip()]
+        use_items = [fix_item_name(i.strip()) for i in use_items_match.group(1).strip().split('\n') if i.strip()]
 
-    # Parse location item changes
     loc_sections = re.split(r'\n\s*\n', content.split('+ + + + +')[1].split('-------------')[0])
     for section in loc_sections:
         lines = [l.strip() for l in section.strip().split('\n') if l.strip()]
         if len(lines) < 3: continue
         location_raw = lines[0]
-        
-        # Normalize location: split base route and subarea
-        # e.g. "Cold Storage Outside" -> base="Cold Storage", sub="Outside"
-        # e.g. "Dreamyard" -> base="Dreamyard", sub="General"
         base_route = re.split(r' (Inside|Outside|Spring|Summer|Autumn|Winter)', location_raw)[0].strip()
         sub_area = location_raw.replace(base_route, '').strip() or "General"
-        
         changes = []
         for line in lines[2:]:
+            # Support both --> and ->
             if ' -> ' in line:
-                old, new = line.split(' -> ', 1)
+                sep = ' -> '
+                if ' --> ' in line: sep = ' --> '
+                old, new = line.split(sep, 1)
+                # Clean up trailing > if it was -->
                 new = new.replace('>', '').strip()
-                changes.append({'old': old.strip(), 'new': new.strip()})
+                changes.append({'old': fix_item_name(old.strip()), 'new': fix_item_name(new.strip())})
         if changes:
-            if base_route not in item_changes:
-                item_changes[base_route] = {}
+            if base_route not in item_changes: item_changes[base_route] = {}
             item_changes[base_route][sub_area] = changes
-            
     return item_changes, use_items
 
 if __name__ == "__main__":

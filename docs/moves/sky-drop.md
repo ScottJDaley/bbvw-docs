@@ -1,6 +1,6 @@
-# Sky drop
+# Sky Drop
 
-**TM/HM:** TM58
+**TM/HM:** [TM58](../items/tm58.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

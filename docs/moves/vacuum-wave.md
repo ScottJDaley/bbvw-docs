@@ -1,6 +1,6 @@
-# Vacuum wave
+# Vacuum Wave
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

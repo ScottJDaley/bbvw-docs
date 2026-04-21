@@ -8,10 +8,10 @@
 | ![TM04 Calm Mind](../img/items/tm-psychic.png) [TM04 Calm Mind](../items/tm04.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Quick Ball * 3</span> |
 | ![TM08 Bulk Up](../img/items/tm-fighting.png) [TM08 Bulk Up](../items/tm08.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Timer Ball * 3</span> |
 | ![TM48 Round](../img/items/tm-normal.png) [TM48 Round](../items/tm48.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Lemonade (NPC)</span> |
-| ![TM89 U-turn](../img/items/tm-bug.png) [TM89 U-turn](../items/tm89.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM76 Struggle Bug (NPC)</span> |
-| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC)</span> |
-| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone (NPC)</span> |
-| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone (NPC)</span> |
+| ![TM89 U-turn](../img/items/tm-bug.png) [TM89 U-turn](../items/tm89.md) |
+| ![Leaf Stone * 6](../img/items/leaf-stone.png) [Leaf Stone * 6](../items/leaf-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Leaf Stone (NPC) (Answer Pansage)</span> |
+| ![Fire Stone * 6](../img/items/fire-stone.png) [Fire Stone * 6](../items/fire-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Fire Stone (NPC) (Answer Pansear)</span> |
+| ![Water Stone * 6](../img/items/water-stone.png) [Water Stone * 6](../items/water-stone.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Water Stone (NPC) (Answer Panpour)</span> |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
@@ -30,6 +30,8 @@
 | ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) |
 | ![Master Ball](../img/items/master-ball.png) [Master Ball](../items/master-ball.md) |
 | ![Net Ball](../img/items/net-ball.png) [Net Ball](../items/net-ball.md) |
+| ![Quick Ball](../img/items/quick-ball.png) [Quick Ball](../items/quick-ball.md) |
+| ![Timer Ball](../img/items/timer-ball.png) [Timer Ball](../items/timer-ball.md) |
 | ![TM44 Rest](../img/items/tm-psychic.png) [TM44 Rest](../items/tm44.md) (11th Floor of Building) |
 | ![TM45 Attract](../img/items/tm-normal.png) [TM45 Attract](../items/tm45.md) (Party) |
 | ![TM95 Snarl](../img/items/tm-dark.png) [TM95 Snarl](../items/tm95.md) (Give Mr. Lock the Lock Capsule) |
@@ -113,7 +115,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ![Pikachu](../img/pokemon/025.png) | [Pikachu](../pokemon/pikachu.md) | 23 | - | - |  |
 | ![Trapinch](../img/pokemon/328.png) | [Trapinch](../pokemon/trapinch.md) | 23 | - | - |  |
-| ![Mime Jr.](../img/pokemon/439.png) | [Mime jr.](../pokemon/mime-jr.md) | 23 | - | - |  |
+| ![Mime Jr.](../img/pokemon/439.png) | [Mime Jr.](../pokemon/mime-jr.md) | 23 | - | - |  |
 | ![Spoink](../img/pokemon/325.png) | [Spoink](../pokemon/spoink.md) | 23 | - | - |  |
 
 ### Scientist Steve

@@ -1,6 +1,6 @@
 # Quash
 
-**TM/HM:** TM60
+**TM/HM:** [TM60](../items/tm60.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

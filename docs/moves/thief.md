@@ -1,6 +1,6 @@
 # Thief
 
-**TM/HM:** TM46
+**TM/HM:** [TM46](../items/tm46.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

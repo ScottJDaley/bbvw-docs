@@ -1,6 +1,6 @@
-# Bulk up
+# Bulk Up
 
-**TM/HM:** TM08
+**TM/HM:** [TM08](../items/tm08.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

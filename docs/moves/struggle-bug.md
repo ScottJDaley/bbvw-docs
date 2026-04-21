@@ -1,6 +1,6 @@
-# Struggle bug
+# Struggle Bug
 
-**TM/HM:** TM76
+**TM/HM:** [TM76](../items/tm76.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
 # Fly
 
-**TM/HM:** HM02
+**TM/HM:** [HM02](../items/hm02.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

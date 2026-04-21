@@ -1,6 +1,6 @@
-# Smack down
+# Smack Down
 
-**TM/HM:** TM23
+**TM/HM:** [TM23](../items/tm23.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

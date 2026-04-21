@@ -1,6 +1,6 @@
-# Foul play
+# Foul Play
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

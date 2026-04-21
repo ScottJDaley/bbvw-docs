@@ -1,6 +1,6 @@
-# Dark pulse
+# Dark Pulse
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

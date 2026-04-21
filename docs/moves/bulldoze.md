@@ -1,6 +1,6 @@
 # Bulldoze
 
-**TM/HM:** TM78
+**TM/HM:** [TM78](../items/tm78.md)
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

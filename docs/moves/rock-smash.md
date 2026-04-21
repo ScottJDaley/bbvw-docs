@@ -1,6 +1,6 @@
-# Rock smash
+# Rock Smash
 
-**TM/HM:** TM94
+**TM/HM:** [TM94](../items/tm94.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

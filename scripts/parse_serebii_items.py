@@ -47,15 +47,37 @@ def normalize_location(loc):
         
     return clean_loc
 
+def fix_item_name(name):
+    if not name: return ""
+    name = name.strip()
+    # Fix BalmMushroom -> Balm Mushroom, BlackGlasses -> Black Glasses etc
+    # Matches lowercase followed by uppercase
+    name = re.sub(r'([a-z])([A-Z])', r'\1 \2', name)
+    return name
+
 def parse_items_csv():
     with open("Documentation/items.csv", "r", encoding="utf-8") as f:
         content = f.read()
     
-    items = {} # name -> {description, locations: {area: [{method, detail}]}, shops: [locations]}
+    items = {} # name -> {description, category, locations: {area: [{method, detail}]}, shops: [locations]}
     
-    sections = re.split(r'\n(?=[A-Z][a-z]+ Items)', content)
+    # Split by section headers (e.g. "Recovery Items")
+    sections = re.split(r'\n(?=[A-Z][\w\s/&]+ Items)', content)
     for section in sections:
         lines = section.strip().split('\n')
+        if not lines: continue
+        
+        category = "Misc"
+        # Find category from the first line or a known header
+        for line in lines:
+            cat_match = re.match(r'([A-Z][\w\s/&]+) Items', line)
+            if cat_match:
+                category = cat_match.group(1).strip()
+                break
+        
+        # Special case for TM header which might not say "Items"
+        if "Technical Machine" in lines[0]: category = "Technical Machines"
+
         for i in range(len(lines)):
             l = lines[i]
             if not l.startswith('\t'): continue
@@ -63,12 +85,12 @@ def parse_items_csv():
             parts = l.split('\t')
             if len(parts) < 2: continue
             
-            name = parts[1].strip()
+            name = fix_item_name(parts[1].strip())
             effect = parts[2].strip() if len(parts) > 2 else ""
             loc_str = parts[3].strip() if len(parts) > 3 else ""
             
             if name not in items:
-                items[name] = {"description": effect, "locations": {}, "shops": []}
+                items[name] = {"description": effect, "category": category, "locations": {}, "shops": []}
             
             # Handle locations
             if loc_str:
@@ -78,6 +100,7 @@ def parse_items_csv():
                     
                     if "(With Dowsing Machine)" in loc:
                         method = "Hidden"
+                        detail = "With Dowsing Machine"
                         loc = loc.replace("(With Dowsing Machine)", "").strip()
                     elif "Gift" in loc:
                         method = "NPC"
@@ -126,7 +149,7 @@ def parse_tmhm_csv():
         effect = parts[7]
         loc_str = parts[8]
         
-        tmhm[name] = {"description": effect, "locations": {}, "shops": []}
+        tmhm[name] = {"description": effect, "category": "Technical Machines" if num.startswith('TM') else "Hidden Machines", "locations": {}, "shops": []}
         
         loc_parts = re.split(r' - | – ', loc_str)
         loc_name = loc_parts[0].strip()

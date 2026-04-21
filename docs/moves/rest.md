@@ -1,6 +1,6 @@
 # Rest
 
-**TM/HM:** TM44
+**TM/HM:** [TM44](../items/tm44.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

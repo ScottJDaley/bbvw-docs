@@ -29,14 +29,14 @@
 ### General
 | Item |
 | --- |
-| ![Dive Ball * 10](../img/items/dive-ball.png) [Dive Ball * 10](../items/dive-ball.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dusk Ball</span> |
-| ![HM01 Cut](../img/items/tm-normal.png) [HM01 Cut](../items/hm01.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Oran Berries * 3</span> |
-| ![TM10 Hidden Power](../img/items/tm-normal.png) [TM10 Hidden Power](../items/tm10.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM01 Cut</span> |
+| ![Dive Ball * 10](../img/items/dive-ball.png) [Dive Ball * 10](../items/dive-ball.md) |
+| ![HM01 Cut](../img/items/tm-normal.png) [HM01 Cut](../items/hm01.md) |
+| ![TM10 Hidden Power](../img/items/tm-normal.png) [TM10 Hidden Power](../items/tm10.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HM01 Cut (From Mokomo)</span> |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) (Gift in Entrance to Gym) |
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
 | ![X Speed](../img/items/x-speed.png) [X Speed](../items/x-speed.md) |
-| ![Zinc](../img/items/zinc.png) [Zinc](../items/zinc.md) |
-| ![BalmMushroom](../img/items/unknown.png) [BalmMushroom](../items/balmmushroom.md) |
+| ![Zinc](../img/items/zinc.png) [Zinc](../items/zinc.md) (With Dowsing Machine) |
+| ![Balm Mushroom](../img/items/balm-mushroom.png) [Balm Mushroom](../items/balm-mushroom.md) (With Dowsing Machine) |
 | ![Big Pearl](../img/items/big-pearl.png) [Big Pearl](../items/big-pearl.md) |
 | ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
 | ![Pal Pad](../img/items/pal-pad.png) [Pal Pad](../items/pal-pad.md) (Gift from Fennel's Assistant) |

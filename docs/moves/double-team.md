@@ -1,6 +1,6 @@
-# Double team
+# Double Team
 
-**TM/HM:** TM32
+**TM/HM:** [TM32](../items/tm32.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

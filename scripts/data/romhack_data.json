@@ -38153,7 +38153,7 @@
           "new": "Claw Fossil"
         },
         {
-          "old": "BlackGlasses",
+          "old": "Black Glasses",
           "new": "Dome Fossil"
         },
         {
@@ -38174,11 +38174,11 @@
         },
         {
           "old": "Cover Fossil (NPC)",
-          "new": "DeepSeaTooth"
+          "new": "Deep Sea Tooth"
         },
         {
           "old": "Plume Fossil (NPC)",
-          "new": "DeepSeaScale"
+          "new": "Deep Sea Scale"
         },
         {
           "old": "TM04 Calm Mind (NPC)",
@@ -38214,7 +38214,7 @@
         },
         {
           "old": "X Attack",
-          "new": "ThunderStone * 6"
+          "new": "Thunder Stone * 6"
         }
       ]
     },
@@ -38230,7 +38230,7 @@
         },
         {
           "old": "Great Ball",
-          "new": "BlackGlasses"
+          "new": "Black Glasses"
         }
       ]
     },
@@ -38264,7 +38264,7 @@
       "General": [
         {
           "old": "HM02 Fly (NPC)",
-          "new": "RageCandyBar"
+          "new": "Rage Candy Bar"
         },
         {
           "old": "Water Stone",
@@ -38303,7 +38303,7 @@
           "new": "Life Orb"
         },
         {
-          "old": "ThunderStone",
+          "old": "Thunder Stone",
           "new": "Electirizer"
         }
       ]

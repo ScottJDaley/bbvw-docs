@@ -80,12 +80,13 @@
 | ![Enigma Berry](../img/items/enigma-berry.png) Enigma Berry <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Razor Fang</span> |
 | ![Soul Dew](../img/items/soul-dew.png) [Soul Dew](../items/soul-dew.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM35 Flamethrower</span> |
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Razor Fang](../img/items/razor-fang.png) [Razor Fang](../items/razor-fang.md) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
-| ![BalmMushroom](../img/items/unknown.png) [BalmMushroom](../items/balmmushroom.md) |
-| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) |
+| ![Balm Mushroom](../img/items/balm-mushroom.png) [Balm Mushroom](../items/balm-mushroom.md) |
+| ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) (With Dowsing Machine) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (With Dowsing Machine) |
 | ![TM92 Trick Room](../img/items/tm-psychic.png) [TM92 Trick Room](../items/tm92.md) |
 
 ## Trainers

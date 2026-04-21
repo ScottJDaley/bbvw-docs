@@ -1,6 +1,6 @@
-# Power gem
+# Power Gem
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

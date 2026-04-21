@@ -93,11 +93,11 @@
 | Item |
 | --- |
 | ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
-| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
-| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
-| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
-| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) (With Dowsing Machine) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) (With Dowsing Machine) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) (With Dowsing Machine) |
 | ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
 | ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
 | ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) |
@@ -124,7 +124,7 @@
 | ![Shiny Stone](../img/items/shiny-stone.png) [Shiny Stone](../items/shiny-stone.md) (Dustcloud) |
 | ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
 | ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
-| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) |
+| ![PP Up](../img/items/pp-up.png) [PP Up](../items/pp-up.md) (With Dowsing Machine) |
 | ![Escape Rope](../img/items/escape-rope.png) [Escape Rope](../items/escape-rope.md) |
 | ![Dive Ball](../img/items/dive-ball.png) [Dive Ball](../items/dive-ball.md) |
 | ![TM46 Thief](../img/items/tm-dark.png) [TM46 Thief](../items/tm46.md) |

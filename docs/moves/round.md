@@ -1,6 +1,6 @@
 # Round
 
-**TM/HM:** TM48
+**TM/HM:** [TM48](../items/tm48.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

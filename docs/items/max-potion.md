@@ -1,6 +1,6 @@
 # ![icon](../img/items/max-potion.png) Max Potion
 
-**Category:** Healing
+**Category:** Recovery
 
 ## Description
 Restores HP to full.
@@ -11,8 +11,8 @@ Restores HP to full.
 | [Accumula Town](../routes/accumula-town.md) | PokéMart |  |
 | [Black City](../routes/black-city.md) | PokéMart |  |
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
-| [Dreamyard](../routes/dreamyard.md) | General |  |
+| [Chargestone Cave](../routes/chargestone-cave.md) | General | With Dowsing Machine |
+| [Dreamyard](../routes/dreamyard.md) | General | With Dowsing Machine |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |
 | [Icirrus City](../routes/icirrus-city.md) | General | Winter Only |
@@ -26,12 +26,12 @@ Restores HP to full.
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Relic Castle</span>](../routes/relic-castle.md) | General |  |
-| [Route 10](../routes/route-10.md) | General |  |
+| [Route 10](../routes/route-10.md) | General | With Dowsing Machine |
 | [Route 9](../routes/route-9.md) | Shop |  |
 | [Striaton City](../routes/striaton-city.md) | PokéMart |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General |  |
 | [Undella Town](../routes/undella-town.md) | PokéMart |  |
-| [Victory Road](../routes/victory-road.md) | General |  |
-| [Wellspring Cave](../routes/wellspring-cave.md) | General |  |
+| [Victory Road](../routes/victory-road.md) | General | With Dowsing Machine |
+| [Wellspring Cave](../routes/wellspring-cave.md) | General | With Dowsing Machine |
 | [White Forest](../routes/white-forest.md) | Shop |  |
 

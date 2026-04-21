@@ -1,6 +1,6 @@
-# Light screen
+# Light Screen
 
-**TM/HM:** TM16
+**TM/HM:** [TM16](../items/tm16.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

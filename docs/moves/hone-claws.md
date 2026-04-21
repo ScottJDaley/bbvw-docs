@@ -1,6 +1,6 @@
-# Hone claws
+# Hone Claws
 
-**TM/HM:** TM01
+**TM/HM:** [TM01](../items/tm01.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

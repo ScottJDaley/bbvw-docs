@@ -1,6 +1,6 @@
 # Waterfall
 
-**TM/HM:** HM05
+**TM/HM:** [HM05](../items/hm05.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

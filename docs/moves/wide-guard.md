@@ -1,6 +1,6 @@
-# Wide guard
+# Wide Guard
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

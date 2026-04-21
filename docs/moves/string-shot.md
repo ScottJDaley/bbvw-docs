@@ -1,6 +1,6 @@
-# String shot
+# String Shot
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

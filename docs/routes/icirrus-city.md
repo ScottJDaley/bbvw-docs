@@ -4,7 +4,7 @@
 ### General
 | Item |
 | --- |
-| ![TM13 Ice Beam](../img/items/tm-ice.png) [TM13 Ice Beam](../items/tm13.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM79 Frost Breath (NPC)</span> |
+| ![TM13 Ice Beam](../img/items/tm-ice.png) [TM13 Ice Beam](../items/tm13.md) |
 | ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
 | ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (Winter Only) |
@@ -14,9 +14,9 @@
 | ![Exp. Share](../img/items/exp-share.png) [Exp. Share](../items/exp-share.md) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) (Winter Only) |
 | ![Big Mushroom](../img/items/big-mushroom.png) [Big Mushroom](../items/big-mushroom.md) (Winter Only) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) (Winter Only) |
-| ![TinyMushroom](../img/items/unknown.png) [TinyMushroom](../items/tinymushroom.md) (Winter Only) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (Winter Only) |
+| ![Tiny Mushroom](../img/items/tiny-mushroom.png) [Tiny Mushroom](../items/tiny-mushroom.md) (Winter Only) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![TM31 Brick Break](../img/items/tm-fighting.png) [TM31 Brick Break](../items/tm31.md) |
 
 ### PokéMart
@@ -98,7 +98,7 @@
 | ![Abomasnow](../img/pokemon/460.png) | [Abomasnow](../pokemon/abomasnow.md) | 61 | Snow Warning | ![Expert Belt](../img/items/expert-belt.png) [Expert Belt](../items/expert-belt.md) | Blizzard, Ice Shard |
 | ![Glaceon](../img/pokemon/471.png) | [Glaceon](../pokemon/glaceon.md) | 61 | Snow Cloak | ![Choice Scarf](../img/items/choice-scarf.png) [Choice Scarf](../items/choice-scarf.md) | Blizzard, Baton Pass |
 | ![Froslass](../img/pokemon/478.png) | [Froslass](../pokemon/froslass.md) | 61 | Snow Cloak | ![Life Orb](../img/items/life-orb.png) [Life Orb](../items/life-orb.md) | Blizzard, Disable |
-| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 63 | Ice Body | ![NeverMeltIce](../img/items/unknown.png) [NeverMeltIce](../items/nevermeltice.md) | Blizzard, Autotomize |
+| ![Vanilluxe](../img/pokemon/584.png) | [Vanilluxe](../pokemon/vanilluxe.md) | 63 | Ice Body | ![NeverMeltIce](../img/items/unknown.png) NeverMeltIce | Blizzard, Autotomize |
 | ![Cryogonal](../img/pokemon/615.png) | [Cryogonal](../pokemon/cryogonal.md) | 61 | Levitate | ![Focus Sash](../img/items/focus-sash.png) [Focus Sash](../items/focus-sash.md) | Blizzard, Protect |
 | ![Beartic](../img/pokemon/614.png) | [Beartic](../pokemon/beartic.md) | 63 | Snow Cloak | ![White Herb](../img/items/white-herb.png) [White Herb](../items/white-herb.md) | Icicle Crash, Rock Slide |
 

@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) Ragecandybar
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A delicacy from the Johto Region. Heals all status problems.
@@ -10,7 +10,6 @@ A delicacy from the Johto Region. Heals all status problems.
 | --- | --- | --- |
 | [Desert Resort](../routes/desert-resort.md) | General | From Professor Juniper |
 | [Desert Resort](../routes/desert-resort.md) | General | From Professor Juniper |
-| [Driftveil City](../routes/driftveil-city.md) | General |  |
 | [Icirrus City](../routes/icirrus-city.md) | General |  |
 | [Icirrus City](../routes/icirrus-city.md) | General |  |
 

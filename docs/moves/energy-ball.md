@@ -1,6 +1,6 @@
-# Energy ball
+# Energy Ball
 
-**TM/HM:** TM53
+**TM/HM:** [TM53](../items/tm53.md)
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

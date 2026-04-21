@@ -1,6 +1,6 @@
 # ![icon](../img/items/super-potion.png) Super Potion
 
-**Category:** Healing
+**Category:** Recovery
 
 ## Description
 Restores 50 HP.
@@ -19,11 +19,11 @@ Restores 50 HP.
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
+| [Pinwheel Forest](../routes/pinwheel-forest.md) | General | With Dowsing Machine |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |
-| [Relic Castle](../routes/relic-castle.md) | General |  |
+| [Relic Castle](../routes/relic-castle.md) | General | With Dowsing Machine |
 | [Route 2](../routes/route-2.md) | General |  |
 | [Route 3](../routes/route-3.md) | General | From Cheren |
 | [Route 4](../routes/route-4.md) | General |  |

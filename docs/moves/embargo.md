@@ -1,6 +1,6 @@
 # Embargo
 
-**TM/HM:** TM63
+**TM/HM:** [TM63](../items/tm63.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

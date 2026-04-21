@@ -41,7 +41,7 @@
 ### General
 | Item |
 | --- |
-| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) |
-| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
-| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) |
+| ![Heart Scale](../img/items/heart-scale.png) [Heart Scale](../items/heart-scale.md) (With Dowsing Machine) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) (With Dowsing Machine) |
+| ![Stardust](../img/items/stardust.png) [Stardust](../items/stardust.md) (With Dowsing Machine) |
 

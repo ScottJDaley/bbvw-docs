@@ -1,6 +1,6 @@
-# Metal sound
+# Metal Sound
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

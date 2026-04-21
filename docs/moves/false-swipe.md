@@ -1,6 +1,6 @@
-# False swipe
+# False Swipe
 
-**TM/HM:** TM54
+**TM/HM:** [TM54](../items/tm54.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

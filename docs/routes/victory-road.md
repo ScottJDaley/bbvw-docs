@@ -107,13 +107,13 @@
 | Item |
 | --- |
 | ![Power Herb](../img/items/power-herb.png) [Power Herb](../items/power-herb.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>TM93 Wild Charge</span> |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) (With Dowsing Machine) |
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
 | ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
-| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
-| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
-| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
 | ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
-| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) (With Dowsing Machine) |
 | ![Bug Gem](../img/items/bug-gem.png) [Bug Gem](../items/bug-gem.md) |
 | ![Dark Gem](../img/items/dark-gem.png) [Dark Gem](../items/dark-gem.md) |
 | ![Dragon Gem](../img/items/dragon-gem.png) [Dragon Gem](../items/dragon-gem.md) |
@@ -140,10 +140,10 @@
 | ![Thunderstone](../img/items/unknown.png) [Thunderstone](../items/thunderstone.md) (Dustcloud) |
 | ![Water Stone](../img/items/water-stone.png) [Water Stone](../items/water-stone.md) (Dustcloud) |
 | ![Calcium](../img/items/calcium.png) [Calcium](../items/calcium.md) |
-| ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) |
+| ![Carbos](../img/items/carbos.png) [Carbos](../items/carbos.md) (With Dowsing Machine) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
 | ![Nugget](../img/items/nugget.png) [Nugget](../items/nugget.md) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
 | ![TM02 Dragon Claw](../img/items/tm-dragon.png) [TM02 Dragon Claw](../items/tm02.md) |
 | ![TM12 Taunt](../img/items/tm-dark.png) [TM12 Taunt](../items/tm12.md) |

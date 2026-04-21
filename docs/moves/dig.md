@@ -1,6 +1,6 @@
 # Dig
 
-**TM/HM:** TM28
+**TM/HM:** [TM28](../items/tm28.md)
 
 **Type:** ![ground](../img/types/ground.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

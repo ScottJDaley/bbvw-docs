@@ -1,6 +1,6 @@
 # Thunder
 
-**TM/HM:** TM25
+**TM/HM:** [TM25](../items/tm25.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

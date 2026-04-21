@@ -75,14 +75,14 @@
 ### General
 | Item |
 | --- |
-| ![Super Rod](../img/items/super-rod.png) [Super Rod](../items/super-rod.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Heal Balls * 3</span> |
+| ![Super Rod](../img/items/super-rod.png) [Super Rod](../items/super-rod.md) |
 | ![TM75 Swords Dance](../img/items/tm-normal.png) [TM75 Swords Dance](../items/tm75.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>HP Up</span> |
 | ![TM77 Psych Up](../img/items/tm-normal.png) [TM77 Psych Up](../items/tm77.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Full Heal</span> |
 | ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
 | ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
 | ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
 | ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) (From Cheren) |
-| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
+| ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) (With Dowsing Machine) |
 | ![Repel](../img/items/repel.png) [Repel](../items/repel.md) |
 | ![Great Ball](../img/items/great-ball.png) [Great Ball](../items/great-ball.md) |
 | ![Heal Ball](../img/items/heal-ball.png) [Heal Ball](../items/heal-ball.md) (From children in Nursery) |

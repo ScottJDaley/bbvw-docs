@@ -1,6 +1,6 @@
 # ![icon](../img/items/quick-ball.png) Quick Ball
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter.
@@ -8,7 +8,7 @@ A somewhat different Poké Ball that provides a better catch rate if it is used 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [Castelia City](../routes/castelia-city.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
 | [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
 | [Pokémon League](../routes/pokémon-league.md) | Shop |  |

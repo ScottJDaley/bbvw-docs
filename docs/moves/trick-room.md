@@ -1,6 +1,6 @@
-# Trick room
+# Trick Room
 
-**TM/HM:** TM92
+**TM/HM:** [TM92](../items/tm92.md)
 
 **Type:** ![psychic](../img/types/psychic.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

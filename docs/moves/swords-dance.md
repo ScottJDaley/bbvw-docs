@@ -1,6 +1,6 @@
-# Swords dance
+# Swords Dance
 
-**TM/HM:** TM75
+**TM/HM:** [TM75](../items/tm75.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

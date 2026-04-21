@@ -1,6 +1,6 @@
 # Bounce
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

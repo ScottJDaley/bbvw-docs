@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BridgeMail M
+# ![icon](../img/items/bridge-mail-m.png) Bridge Mail M
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s printed with the pattern of a bridge that Arty drew. Given to a Pokemon to hold.

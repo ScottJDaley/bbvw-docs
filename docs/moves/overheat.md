@@ -1,6 +1,6 @@
 # Overheat
 
-**TM/HM:** TM50
+**TM/HM:** [TM50](../items/tm50.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

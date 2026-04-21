@@ -1,6 +1,6 @@
-# Brick break
+# Brick Break
 
-**TM/HM:** TM31
+**TM/HM:** [TM31](../items/tm31.md)
 
 **Type:** ![fighting](../img/types/fighting.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

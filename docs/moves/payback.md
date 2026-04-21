@@ -1,6 +1,6 @@
 # Payback
 
-**TM/HM:** TM66
+**TM/HM:** [TM66](../items/tm66.md)
 
 **Type:** ![dark](../img/types/dark.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

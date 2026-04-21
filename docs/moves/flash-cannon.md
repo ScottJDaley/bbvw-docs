@@ -1,6 +1,6 @@
-# Flash cannon
+# Flash Cannon
 
-**TM/HM:** TM91
+**TM/HM:** [TM91](../items/tm91.md)
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

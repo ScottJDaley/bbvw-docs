@@ -1,6 +1,6 @@
 # Sandstorm
 
-**TM/HM:** TM37
+**TM/HM:** [TM37](../items/tm37.md)
 
 **Type:** ![rock](../img/types/rock.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

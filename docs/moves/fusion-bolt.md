@@ -1,6 +1,6 @@
-# Fusion bolt
+# Fusion Bolt
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
-# ![icon](../img/items/unknown.png) BridgeMail V
+# ![icon](../img/items/bridge-mail-v.png) Bridge Mail V
 
-**Category:** Misc
+**Category:** Miscellaneous
 
 ## Description
 Letter paper that’s printed with the pattern of a bridge made of bricks. Given to a Pokemon to hold.

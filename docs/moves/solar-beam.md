@@ -1,6 +1,6 @@
-# Solar beam
+# Solar Beam
 
-**TM/HM:** TM22
+**TM/HM:** [TM22](../items/tm22.md)
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -87,6 +87,6 @@
 | Item |
 | --- |
 | ![TM01 Hone Claws](../img/items/tm-dark.png) [TM01 Hone Claws](../items/tm01.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Big Mushroom</span> |
-| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) |
+| ![Protein](../img/items/protein.png) [Protein](../items/protein.md) (With Dowsing Machine) |
 | ![Rare Candy](../img/items/rare-candy.png) [Rare Candy](../items/rare-candy.md) |
 

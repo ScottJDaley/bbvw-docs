@@ -51,13 +51,15 @@
 | ![Cover Fossil](../img/items/cover-fossil.png) [Cover Fossil](../items/cover-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
 | ![Plume Fossil](../img/items/plume-fossil.png) [Plume Fossil](../items/plume-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
 | ![Root Fossil](../img/items/root-fossil.png) [Root Fossil](../items/root-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Burn Heal</span> |
-| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>X Accuarcy</span> |
+| ![Skull Fossil](../img/items/skull-fossil.png) [Skull Fossil](../items/skull-fossil.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) (With Dowsing Machine) |
 | ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
-| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) (With Dowsing Machine) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) (With Dowsing Machine) |
 | ![Super Potion](../img/items/super-potion.png) [Super Potion](../items/super-potion.md) |
 | ![X Accuracy](../img/items/x-accuracy.png) [X Accuracy](../items/x-accuracy.md) |
-| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) |
-| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) |
+| ![Pearl](../img/items/pearl.png) [Pearl](../items/pearl.md) (With Dowsing Machine) |
+| ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![TM28 Dig](../img/items/tm-ground.png) [TM28 Dig](../items/tm28.md) |
 | ![TM41 Torment](../img/items/tm-dark.png) [TM41 Torment](../items/tm41.md) |
 

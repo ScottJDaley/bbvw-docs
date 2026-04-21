@@ -1,6 +1,6 @@
-# Work up
+# Work Up
 
-**TM/HM:** TM83
+**TM/HM:** [TM83](../items/tm83.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

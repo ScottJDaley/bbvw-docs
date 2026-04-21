@@ -1,6 +1,6 @@
-# Fire blast
+# Fire Blast
 
-**TM/HM:** TM38
+**TM/HM:** [TM38](../items/tm38.md)
 
 **Type:** ![fire](../img/types/fire.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

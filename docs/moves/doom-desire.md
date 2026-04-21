@@ -1,6 +1,6 @@
-# Doom desire
+# Doom Desire
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![steel](../img/types/steel.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

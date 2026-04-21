@@ -1,6 +1,6 @@
 # Chatter
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![flying](../img/types/flying.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

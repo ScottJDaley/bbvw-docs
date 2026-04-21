@@ -46,7 +46,7 @@
 | --- |
 | ![Up-Grade](../img/items/up-grade.png) [Up-Grade](../items/up-grade.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Zinc</span> |
 | ![TM72 Volt Switch](../img/items/tm-electric.png) [TM72 Volt Switch](../items/tm72.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Hyper Potion</span> |
-| ![BlackGlasses](../img/items/unknown.png) [BlackGlasses](../items/blackglasses.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
+| ![Black Glasses](../img/items/black-glasses.png) [Black Glasses](../items/black-glasses.md) <span style='text-decoration:line-through; color:red; font-size:0.9em;'>Great Ball</span> |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
 
 ## Trainers

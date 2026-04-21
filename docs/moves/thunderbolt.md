@@ -1,6 +1,6 @@
 # Thunderbolt
 
-**TM/HM:** TM24
+**TM/HM:** [TM24](../items/tm24.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

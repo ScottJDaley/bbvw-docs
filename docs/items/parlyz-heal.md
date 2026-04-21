@@ -1,6 +1,6 @@
 # ![icon](../img/items/unknown.png) Parlyz Heal
 
-**Category:** Misc
+**Category:** Recovery
 
 ## Description
 A spray-type medicine. It eliminates paralysis from a single Pokémon.
@@ -13,12 +13,12 @@ A spray-type medicine. It eliminates paralysis from a single Pokémon.
 | [Castelia City](../routes/castelia-city.md) | PokéMart |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
-| [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
+| [Chargestone Cave](../routes/chargestone-cave.md) | General | With Dowsing Machine |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Dreamyard</span>](../routes/dreamyard.md) | General |  |
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
-| [Mistralton City](../routes/mistralton-city.md) | General |  |
+| [Mistralton City](../routes/mistralton-city.md) | General | With Dowsing Machine |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |

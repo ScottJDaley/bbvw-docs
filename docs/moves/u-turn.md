@@ -1,6 +1,6 @@
-# U turn
+# U Turn
 
-**TM/HM:** TM89
+**TM/HM:** [TM89](../items/tm89.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

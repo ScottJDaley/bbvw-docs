@@ -1,6 +1,6 @@
-# Grass knot
+# Grass Knot
 
-**TM/HM:** TM86
+**TM/HM:** [TM86](../items/tm86.md)
 
 **Type:** ![grass](../img/types/grass.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

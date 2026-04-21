@@ -1,6 +1,6 @@
-# X scissor
+# X Scissor
 
-**TM/HM:** TM81
+**TM/HM:** [TM81](../items/tm81.md)
 
 **Type:** ![bug](../img/types/bug.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

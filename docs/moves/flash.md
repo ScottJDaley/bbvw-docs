@@ -1,6 +1,6 @@
 # Flash
 
-**TM/HM:** TM70
+**TM/HM:** [TM70](../items/tm70.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

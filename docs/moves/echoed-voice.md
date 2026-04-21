@@ -1,6 +1,6 @@
-# Echoed voice
+# Echoed Voice
 
-**TM/HM:** TM49
+**TM/HM:** [TM49](../items/tm49.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

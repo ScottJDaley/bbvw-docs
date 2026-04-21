@@ -1,6 +1,6 @@
-# Frost breath
+# Frost Breath
 
-**TM/HM:** TM79
+**TM/HM:** [TM79](../items/tm79.md)
 
 **Type:** ![ice](../img/types/ice.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

@@ -1,6 +1,6 @@
-# Zap cannon
+# Zap Cannon
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![electric](../img/types/electric.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

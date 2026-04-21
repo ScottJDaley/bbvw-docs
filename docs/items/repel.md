@@ -1,6 +1,6 @@
 # ![icon](../img/items/repel.png) Repel
 
-**Category:** Spelunking
+**Category:** Miscellaneous
 
 ## Description
 For 100 steps, prevents wild encounters of level lower than your party’s lead Pokémon.
@@ -15,7 +15,7 @@ For 100 steps, prevents wild encounters of level lower than your party’s lead 
 | [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
 | [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
 | [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
-| [Mistralton City](../routes/mistralton-city.md) | General |  |
+| [Mistralton City](../routes/mistralton-city.md) | General | With Dowsing Machine |
 | [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
 | [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |

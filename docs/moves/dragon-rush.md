@@ -1,6 +1,6 @@
-# Dragon rush
+# Dragon Rush
 
-**TM/HM:** -
+**TM/HM:** [-](../items/-.md)
 
 **Type:** ![dragon](../img/types/dragon.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  

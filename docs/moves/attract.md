@@ -1,6 +1,6 @@
 # Attract
 
-**TM/HM:** TM45
+**TM/HM:** [TM45](../items/tm45.md)
 
 **Type:** ![normal](../img/types/normal.png)  
 **Category:** ![status](../img/types/status.png){ style='object-fit:contain;' }  

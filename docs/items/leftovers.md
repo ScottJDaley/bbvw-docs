@@ -1,6 +1,6 @@
 # ![icon](../img/items/leftovers.png) Leftovers
 
-**Category:** Misc
+**Category:** Hold
 
 ## Description
 An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
@@ -8,5 +8,5 @@ An item to be held by a Pokémon. The holder's HP is gradually restored during b
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Village Bridge](../routes/village-bridge.md) | General |  |
+| [Village Bridge](../routes/village-bridge.md) | General | With Dowsing Machine |
 

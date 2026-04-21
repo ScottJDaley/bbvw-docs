@@ -1,6 +1,6 @@
-# Sludge bomb
+# Sludge Bomb
 
-**TM/HM:** TM36
+**TM/HM:** [TM36](../items/tm36.md)
 
 **Type:** ![poison](../img/types/poison.png)  
 **Category:** ![special](../img/types/special.png){ style='object-fit:contain;' }  

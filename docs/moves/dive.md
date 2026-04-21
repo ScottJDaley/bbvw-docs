@@ -1,6 +1,6 @@
 # Dive
 
-**TM/HM:** HM06
+**TM/HM:** [HM06](../items/hm06.md)
 
 **Type:** ![water](../img/types/water.png)  
 **Category:** ![physical](../img/types/physical.png){ style='object-fit:contain;' }  
