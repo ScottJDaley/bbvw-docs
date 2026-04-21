@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Deepseatooth
+# ![icon](../img/items/unknown.png) DeepSeaTooth
 
 **Category:** Misc
 

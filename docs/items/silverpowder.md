@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Silverpowder
+# ![icon](../img/items/unknown.png) SilverPowder
 
 **Category:** Misc
 

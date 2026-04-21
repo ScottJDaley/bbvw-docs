@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Brightpowder
+# ![icon](../img/items/unknown.png) BrightPowder
 
 **Category:** Misc
 

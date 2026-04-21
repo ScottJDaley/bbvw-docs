@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Tinymushroom
+# ![icon](../img/items/unknown.png) TinyMushroom
 
 **Category:** Misc
 

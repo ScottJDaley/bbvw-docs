@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Energypowder
+# ![icon](../img/items/unknown.png) EnergyPowder
 
 **Category:** Misc
 

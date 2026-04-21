@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Bridgemail D
+# ![icon](../img/items/unknown.png) BridgeMail D
 
 **Category:** Misc
 

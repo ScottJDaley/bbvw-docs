@@ -1,4 +1,4 @@
-# ![icon](../img/items/pp-max.png) Pp Max
+# ![icon](../img/items/pp-max.png) PP Max
 
 **Category:** Misc
 

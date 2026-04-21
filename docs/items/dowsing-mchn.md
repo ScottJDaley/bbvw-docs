@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Dowsing Mchn
+# ![icon](../img/items/unknown.png) Dowsing MCHN
 
 **Category:** Misc
 

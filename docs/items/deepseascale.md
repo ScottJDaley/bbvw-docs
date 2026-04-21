@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Deepseascale
+# ![icon](../img/items/unknown.png) DeepSeaScale
 
 **Category:** Misc
 

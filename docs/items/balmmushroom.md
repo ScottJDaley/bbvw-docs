@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Balmmushroom
+# ![icon](../img/items/unknown.png) BalmMushroom
 
 **Category:** Misc
 

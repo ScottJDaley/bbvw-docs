@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Nevermeltice
+# ![icon](../img/items/unknown.png) NeverMeltIce
 
 **Category:** Misc
 

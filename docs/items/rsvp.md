@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Rsvp
+# ![icon](../img/items/unknown.png) RSVP
 
 **Category:** Misc
 

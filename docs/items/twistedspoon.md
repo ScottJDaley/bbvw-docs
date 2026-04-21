@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) Twistedspoon
+# ![icon](../img/items/unknown.png) TwistedSpoon
 
 **Category:** Misc
 
