@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Petaya Berry (100%)](../img/items/unknown.png) Petaya Berry (100%)
+- ![Petaya Berry (100%)](../img/items/petaya-berry.png) Petaya Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

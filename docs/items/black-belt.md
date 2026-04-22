@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a belt that boosts determination and Fig
 | Route | Type | Info |
 | --- | --- | --- |
 | [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

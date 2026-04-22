@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is a stiff and heavy brace that promotes st
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 

@@ -8,5 +8,6 @@ An item to be held by a Pokémon. A light, sharp claw that lets the bearer move 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Skyarrow Bridge](../routes/skyarrow-bridge.md) | General |  |
 

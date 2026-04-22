@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is a shiny, silver powder that ups the powe
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
 

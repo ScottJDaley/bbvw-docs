@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Lansat Berry (100%)](../img/items/unknown.png) Lansat Berry (100%)
+- ![Lansat Berry (100%)](../img/items/lansat-berry.png) Lansat Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

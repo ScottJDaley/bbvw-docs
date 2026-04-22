@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is a small, poisonous barb that ups the pow
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 8](../routes/route-8.md) | General |  |
 

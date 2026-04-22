@@ -8,5 +8,6 @@ A long, thin, bright red string to be held by a Pokémon. If the holder becomes 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Opelucid City](../routes/opelucid-city.md) | General |  |
 

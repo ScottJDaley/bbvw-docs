@@ -8,5 +8,6 @@ An item to be held by a Pokémon. The tricky aroma of this incense lowers the fo
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Driftveil City](../routes/driftveil-city.md) | Shop |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

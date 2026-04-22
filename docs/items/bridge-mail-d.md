@@ -8,5 +8,5 @@ Letter paper that’s printed with the pattern of a crimson red draw bridge. Giv
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Driftveil City](../routes/driftveil-city.md) | Shop |  |
 

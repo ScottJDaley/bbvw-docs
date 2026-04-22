@@ -10,7 +10,9 @@ It maximally raises the top PP of a selected move that has been learned by the t
 | --- | --- | --- |
 | [Castelia City](../routes/castelia-city.md) | General |  |
 | [Challenger's Cave](../routes/challengers-cave.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Nimbasa City](../routes/nimbasa-city.md) | General |  |
 | [Relic Castle](../routes/relic-castle.md) | General | With Dowsing Machine |
+| [Route 9](../routes/route-9.md) | Shop |  |
 

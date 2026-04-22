@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It enables the holder to flee from any wild Po
 | Route | Type | Info |
 | --- | --- | --- |
 | [Castelia City](../routes/castelia-city.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

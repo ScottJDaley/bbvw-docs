@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Thick Club (50%)](../img/items/unknown.png) Thick Club (50%)
+- ![Thick Club (50%)](../img/items/thick-club.png) [Thick Club (50%)](../items/thick-club.md)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -73,6 +73,8 @@
 | 43  | [Double Edge](../moves/double-edge.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 120 | 100 | 15 |
 | 47  | [Retaliate](../moves/retaliate.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 70 | 100 | 5 |
 | 51  <span class="pill pill-new">NEW</span> | [Belly Drum](../moves/belly-drum.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 51  <span class="pill pill-new">NEW</span> | [Belly Drum](../moves/belly-drum.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 10 |
+| 55  <span class="pill pill-new">NEW</span> | [Perish Song](../moves/perish-song.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 | 55  <span class="pill pill-new">NEW</span> | [Perish Song](../moves/perish-song.md) | ![normal](../img/types/normal.png) | ![status](../img/types/status.png){ style="vertical-align:middle; object-fit:contain;" } | - | - | 5 |
 
 ## TM Moves

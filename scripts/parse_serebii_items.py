@@ -93,44 +93,59 @@ def parse_items_csv():
                 items[name] = {"description": effect, "category": category, "locations": {}, "shops": []}
             
             # Handle locations
+            shop_mode = False
             if loc_str:
-                for loc in loc_str.split(', '):
-                    method = "Ground"
-                    detail = ""
-                    
-                    if "(With Dowsing Machine)" in loc:
-                        method = "Hidden"
-                        detail = "With Dowsing Machine"
-                        loc = loc.replace("(With Dowsing Machine)", "").strip()
-                    elif "Gift" in loc:
-                        method = "NPC"
-                    
-                    # Capture parenthetical detail if it exists
-                    det_match = re.search(r'\((.*?)\)', loc)
-                    if det_match:
-                        detail = det_match.group(1)
-                    
-                    norm_loc = normalize_location(loc)
-                    if norm_loc not in items[name]["locations"]:
-                        items[name]["locations"][norm_loc] = []
-                    
-                    items[name]["locations"][norm_loc].append({"method": method, "detail": detail})
+                if loc_str.strip() == "Shop":
+                    shop_mode = True
+                else:
+                    for loc in loc_str.split(', '):
+                        method = "Ground"
+                        detail = ""
+                        
+                        if "(With Dowsing Machine)" in loc:
+                            method = "Hidden"
+                            detail = "With Dowsing Machine"
+                            loc = loc.replace("(With Dowsing Machine)", "").strip()
+                        elif "Gift" in loc:
+                            method = "NPC"
+                        
+                        # Capture parenthetical detail if it exists
+                        det_match = re.search(r'\((.*?)\)', loc)
+                        if det_match:
+                            detail = det_match.group(1)
+                        
+                        norm_loc = normalize_location(loc)
+                        if norm_loc not in items[name]["locations"]:
+                            items[name]["locations"][norm_loc] = []
+                        
+                        items[name]["locations"][norm_loc].append({"method": method, "detail": detail})
             
-            # Peek at next line for "Shop"
+            # Peek at next line for "Shop" or shop locations
             j = i + 1
             while j < len(lines):
-                next_l = lines[j]
+                next_l = lines[j].strip()
+                if not next_l: 
+                    j += 1
+                    continue
                 if next_l.startswith('\t'): break
-                if "Shop" in next_l:
-                    if j + 1 < len(lines):
-                        shop_locs = lines[j+1].split(', ')
-                        for sl in shop_locs:
-                            norm_sl = normalize_location(sl)
-                            if norm_sl not in items[name]["shops"]:
-                                items[name]["shops"].append(norm_sl)
-                        j += 2
-                    else: j += 1
+                
+                if next_l == "Shop":
+                    shop_mode = True
+                    j += 1
+                    continue
+                
+                if shop_mode:
+                    # This line should be shop locations
+                    shop_locs = next_l.split(', ')
+                    for sl in shop_locs:
+                        norm_sl = normalize_location(sl)
+                        if norm_sl not in items[name]["shops"]:
+                            items[name]["shops"].append(norm_sl)
+                    shop_mode = False # Assume one line of shop locs for now
+                    j += 1
                 else:
+                    # If not in shop mode and doesn't start with \t, might be a continuation of locations?
+                    # Serebii items.csv seems to have shop locations on the next line often.
                     j += 1
     return items
 
@@ -190,7 +205,7 @@ if __name__ == "__main__":
         
         for loc in data["shops"]:
             if loc not in route_items: route_items[loc] = {}
-            area = "PokéMart" if any(x in loc for x in ["City", "Town", "Mart"]) else "Shop"
+            area = "Shop"
             if area not in route_items[loc]: route_items[loc][area] = []
             route_items[loc][area].append({"name": name, "method": "Shop", "detail": ""})
 

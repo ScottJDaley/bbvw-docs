@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a hard and sharp fang that ups the power
 | Route | Type | Info |
 | --- | --- | --- |
 | [Dragonspiral Tower](../routes/dragonspiral-tower.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

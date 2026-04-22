@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Flame Orb (50%)](../img/items/unknown.png) Flame Orb (50%)
+- ![Flame Orb (50%)](../img/items/flame-orb.png) [Flame Orb (50%)](../items/flame-orb.md)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |
@@ -65,6 +65,7 @@ No known wild location.
 | 52  | [Body Slam](../moves/body-slam.md) | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png){ style="vertical-align:middle; object-fit:contain;" } | 85 | 100 | 15 |
 | 59  | [Flamethrower](../moves/flamethrower.md) | ![fire](../img/types/fire.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 95 | 100 | 15 |
 | 67  | [Earth Power](../moves/earth-power.md) | ![ground](../img/types/ground.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | 90 | 100 | 10 |
+| 74  <span class="pill pill-new">NEW</span> | [Power Gem](../moves/power-gem.md) | ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | 100 | 20 |
 | 74  <span class="pill pill-new">NEW</span> | [Power Gem](../moves/power-gem.md) | ![rock](../img/types/rock.png) | ![special](../img/types/special.png){ style="vertical-align:middle; object-fit:contain;" } | <span style="color:green; font-weight:bold;">90</span> <span style="text-decoration:line-through; color:red; font-size:0.9em;">70</span> | 100 | 20 |
 
 ## TM Moves

@@ -8,5 +8,10 @@ An item to be held by a Pokémon. It is a bizarre orb that badly poisons the hol
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 
+## Held by Wild Pokemon
+| Sprite | Pokemon |
+| --- | --- |
+| ![grimer](../img/pokemon/088.png) | [Grimer](../pokemon/grimer.md) |
+| ![muk](../img/pokemon/089.png) | [Muk](../pokemon/muk.md) |

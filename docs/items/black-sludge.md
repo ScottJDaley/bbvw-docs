@@ -8,5 +8,6 @@ Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Type
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 15](../routes/route-15.md) | General |  |
 

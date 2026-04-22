@@ -8,5 +8,5 @@ Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

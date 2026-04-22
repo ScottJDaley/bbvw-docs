@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the po
 | Route | Type | Info |
 | --- | --- | --- |
 | [Celestial Tower](../routes/celestial-tower.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

@@ -8,5 +8,5 @@ A Pokémon held item that cuts Speed. It makes Flying-type and levitating holder
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

@@ -8,5 +8,6 @@ Raises Chansey’s critical hit ratio by two stages.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 13](../routes/route-13.md) | General |  |
 

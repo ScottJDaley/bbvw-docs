@@ -8,5 +8,5 @@ Letter paper that’s printed with the pattern of a bridge that cuts through the
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Castelia City](../routes/castelia-city.md) | Shop |  |
 

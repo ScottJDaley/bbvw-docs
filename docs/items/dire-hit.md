@@ -8,5 +8,5 @@ An item that raises the critical-hit ratio of a Pokémon in battle. It wears off
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Route 9](../routes/route-9.md) | Shop |  |
 

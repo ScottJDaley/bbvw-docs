@@ -8,5 +8,5 @@ Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

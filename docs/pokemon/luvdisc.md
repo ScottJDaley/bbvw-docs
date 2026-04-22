@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Heart Scale (100%)](../img/items/unknown.png) Heart Scale (100%)
+- ![Heart Scale (100%)](../img/items/heart-scale.png) [Heart Scale (100%)](../items/heart-scale.md)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

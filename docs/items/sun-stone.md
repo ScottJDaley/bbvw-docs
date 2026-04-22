@@ -8,8 +8,10 @@ Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilli
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Black City](../routes/black-city.md) | PokéMart |  |
+| [Black City](../routes/black-city.md) | Shop |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Nacrene City](../routes/nacrene-city.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Nimbasa City</span>](../routes/nimbasa-city.md) | General |  |
 | [Relic Castle](../routes/relic-castle.md) | General |  |
+| [Route 9](../routes/route-9.md) | Shop |  |
 

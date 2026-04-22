@@ -8,5 +8,5 @@ An item that prevents stat reduction among the Trainer's party Pokémon for five
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Route 9](../routes/route-9.md) | Shop |  |
 

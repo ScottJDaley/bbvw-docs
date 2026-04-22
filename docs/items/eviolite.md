@@ -9,4 +9,5 @@ A piece of Evolutions wonder. If held, a pre-evolved Pokemon's Defence and Speci
 | Route | Type | Info |
 | --- | --- | --- |
 | [Castelia City](../routes/castelia-city.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

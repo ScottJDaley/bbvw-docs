@@ -8,5 +8,6 @@ A brightly gleaming orb to be held by DIALGA. It boosts the power of Dragon- and
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Marvelous Bridge](../routes/marvelous-bridge.md) | General | Gift from Dark Trinity |
 

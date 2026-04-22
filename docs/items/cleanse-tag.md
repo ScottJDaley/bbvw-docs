@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Icirrus City](../routes/icirrus-city.md) | General |  |
 

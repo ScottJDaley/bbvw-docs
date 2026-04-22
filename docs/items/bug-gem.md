@@ -10,6 +10,7 @@ A Bug-type jewel. It will strengthen the power of a Bug-type move one time if he
 | --- | --- | --- |
 | [Challenger's Cave](../routes/challengers-cave.md) | General |  |
 | [Chargestone Cave](../routes/chargestone-cave.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Giant Chasm](../routes/giant-chasm.md) | General |  |
 | [Mistalton Cave Dirtclouds](../routes/mistalton-cave-dirtclouds.md) | General |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General |  |

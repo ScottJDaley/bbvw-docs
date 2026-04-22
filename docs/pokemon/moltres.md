@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Liechi Berry (100%)](../img/items/unknown.png) Liechi Berry (100%)
+- ![Liechi Berry (100%)](../img/items/liechi-berry.png) Liechi Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

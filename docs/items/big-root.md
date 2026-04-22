@@ -8,5 +8,6 @@ A Pokémon held item that boosts the power of HP-stealing moves to let the holde
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
 

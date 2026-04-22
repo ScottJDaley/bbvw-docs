@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is an exotic-smelling incense that boosts t
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Driftveil City](../routes/driftveil-city.md) | Shop |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

@@ -10,5 +10,6 @@ Held: Half the experience from a battle is split between Pokémon holding this i
 | --- | --- | --- |
 | [Castelia City](../routes/castelia-city.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Castelia City</span>](../routes/castelia-city.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Icirrus City](../routes/icirrus-city.md) | General |  |
 

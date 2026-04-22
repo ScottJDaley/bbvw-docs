@@ -20,7 +20,7 @@
 70
 
 ## Held Items
-- ![Starf Berry (100%)](../img/items/unknown.png) Starf Berry (100%)
+- ![Starf Berry (100%)](../img/items/starf-berry.png) Starf Berry (100%)
 
 ## Type Defenses
 | 0x | 0.5x | 1x | 2x | 4x |

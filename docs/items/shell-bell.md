@@ -9,4 +9,5 @@ An item to be held by a Pokémon. The holder's HP is restored a little every tim
 | Route | Type | Info |
 | --- | --- | --- |
 | [Driftveil City](../routes/driftveil-city.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

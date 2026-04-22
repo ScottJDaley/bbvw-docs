@@ -765,7 +765,6 @@ nav:
   - Items:
     - items/index.md
     - Battle Effect:
-      - items/battle-effect.md
       - Dire Hit: items/dire-hit.md
       - Guard Spec.: items/guard-spec.md
       - X Accuracy: items/x-accuracy.md
@@ -775,7 +774,6 @@ nav:
       - X Special: items/x-special.md
       - X Speed: items/x-speed.md
     - Evolutionary:
-      - items/evolutionary.md
       - Calcium: items/calcium.md
       - Carbos: items/carbos.md
       - Clever Wing: items/clever-wing.md
@@ -805,7 +803,6 @@ nav:
       - Water Stone: items/water-stone.md
       - Zinc: items/zinc.md
     - Hidden Machines:
-      - items/hidden-machines.md
       - HM01: items/hm01.md
       - HM02: items/hm02.md
       - HM03: items/hm03.md
@@ -813,7 +810,6 @@ nav:
       - HM05: items/hm05.md
       - HM06: items/hm06.md
     - Hold:
-      - items/hold.md
       - Absorb Bulb: items/absorb-bulb.md
       - Adamant Orb: items/adamant-orb.md
       - Air Balloon: items/air-balloon.md
@@ -962,7 +958,6 @@ nav:
       - Zap Plate: items/zap-plate.md
       - Zoom Lens: items/zoom-lens.md
     - Key:
-      - items/key.md
       - Bicycle: items/bicycle.md
       - Dark Stone: items/dark-stone.md
       - Dowsing MCHN: items/dowsing-mchn.md
@@ -981,7 +976,6 @@ nav:
       - Vs. Recorder: items/vs-recorder.md
       - Xtransceiver: items/xtransceiver.md
     - Miscellaneous:
-      - items/miscellaneous.md
       - Armor Fossil: items/armor-fossil.md
       - Balm Mushroom: items/balm-mushroom.md
       - Big Mushroom: items/big-mushroom.md
@@ -1062,7 +1056,6 @@ nav:
       - Yellow Flute: items/yellow-flute.md
       - Yellow Shard: items/yellow-shard.md
     - Recovery:
-      - items/recovery.md
       - Antidote: items/antidote.md
       - Awakening: items/awakening.md
       - Berry Juice: items/berry-juice.md
@@ -1096,7 +1089,6 @@ nav:
       - Super Potion: items/super-potion.md
       - Sweet Heart: items/sweet-heart.md
     - Technical Machines:
-      - items/technical-machines.md
       - TM01: items/tm01.md
       - TM02: items/tm02.md
       - TM03: items/tm03.md
@@ -1193,25 +1185,20 @@ nav:
       - TM94: items/tm94.md
       - TM95: items/tm95.md
     - all-machines:
-      - items/all-machines.md
       - TM100: items/tm100.md
       - TM96: items/tm96.md
       - TM97: items/tm97.md
       - TM98: items/tm98.md
       - TM99: items/tm99.md
     - evolution:
-      - items/evolution.md
       - Thunder Stone: items/thunder-stone.md
     - gameplay:
-      - items/gameplay.md
       - Good Rod: items/good-rod.md
       - Old Rod: items/old-rod.md
       - Rage Candy Bar: items/rage-candy-bar.md
     - medicine:
-      - items/medicine.md
       - Chesto Berry: items/chesto-berry.md
     - status-cures:
-      - items/status-cures.md
       - Paralyze Heal: items/paralyze-heal.md
   - Moves:
     - moves/index.md

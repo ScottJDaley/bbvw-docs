@@ -8,5 +8,5 @@ Letter paper that’s printed with the pattern of a bridge made of bricks. Given
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Lacunosa Town](../routes/lacunosa-town.md) | Shop |  |
 

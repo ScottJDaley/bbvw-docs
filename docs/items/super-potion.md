@@ -8,17 +8,17 @@ Restores 50 HP.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Accumula Town](../routes/accumula-town.md) | PokéMart |  |
-| [Black City](../routes/black-city.md) | PokéMart |  |
-| [Castelia City](../routes/castelia-city.md) | PokéMart |  |
+| [Accumula Town](../routes/accumula-town.md) | Shop |  |
+| [Black City](../routes/black-city.md) | Shop |  |
+| [Castelia City](../routes/castelia-city.md) | Shop |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
-| [Driftveil City](../routes/driftveil-city.md) | PokéMart |  |
-| [Icirrus City](../routes/icirrus-city.md) | PokéMart |  |
-| [Lacunosa Town](../routes/lacunosa-town.md) | PokéMart |  |
-| [Mistralton City](../routes/mistralton-city.md) | PokéMart |  |
-| [Nacrene City](../routes/nacrene-city.md) | PokéMart |  |
-| [Nimbasa City](../routes/nimbasa-city.md) | PokéMart |  |
-| [Opelucid City](../routes/opelucid-city.md) | PokéMart |  |
+| [Driftveil City](../routes/driftveil-city.md) | Shop |  |
+| [Icirrus City](../routes/icirrus-city.md) | Shop |  |
+| [Lacunosa Town](../routes/lacunosa-town.md) | Shop |  |
+| [Mistralton City](../routes/mistralton-city.md) | Shop |  |
+| [Nacrene City](../routes/nacrene-city.md) | Shop |  |
+| [Nimbasa City](../routes/nimbasa-city.md) | Shop |  |
+| [Opelucid City](../routes/opelucid-city.md) | Shop |  |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General |  |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Pinwheel Forest</span>](../routes/pinwheel-forest.md) | General |  |
 | [Pinwheel Forest](../routes/pinwheel-forest.md) | General | With Dowsing Machine |
@@ -28,7 +28,7 @@ Restores 50 HP.
 | [Route 3](../routes/route-3.md) | General | From Cheren |
 | [Route 4](../routes/route-4.md) | General |  |
 | [Route 9](../routes/route-9.md) | Shop |  |
-| [Striaton City](../routes/striaton-city.md) | PokéMart |  |
-| [Undella Town](../routes/undella-town.md) | PokéMart |  |
+| [Striaton City](../routes/striaton-city.md) | Shop |  |
+| [Undella Town](../routes/undella-town.md) | Shop |  |
 | [White Forest](../routes/white-forest.md) | Shop |  |
 

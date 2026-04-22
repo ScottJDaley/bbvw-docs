@@ -8,5 +8,6 @@ Held: Consectutive uses of the same attack have a cumulative damage boost of 10%
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 13](../routes/route-13.md) | General |  |
 

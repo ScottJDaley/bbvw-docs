@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is an unbreakable stone that ups the power 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Mistralton Cave](../routes/mistralton-cave.md) | General |  |
 

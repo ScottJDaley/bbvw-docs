@@ -8,5 +8,5 @@ A Pokémon held item that promotes HP gain on leveling, but reduces the Speed st
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

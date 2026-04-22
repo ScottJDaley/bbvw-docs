@@ -8,6 +8,6 @@ Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed w
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 11](../routes/route-11.md) | General |  |
-| [Shop](../routes/shop.md) | General |  |
 

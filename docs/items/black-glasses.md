@@ -9,5 +9,6 @@ An item to be held by a Pokémon. It is a shady-looking pair of glasses that boo
 | Route | Type | Info |
 | --- | --- | --- |
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Desert Resort</span>](../routes/desert-resort.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 5](../routes/route-5.md) | General |  |
 

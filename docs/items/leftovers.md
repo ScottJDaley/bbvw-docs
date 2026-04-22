@@ -8,5 +8,6 @@ An item to be held by a Pokémon. The holder's HP is gradually restored during b
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Village Bridge](../routes/village-bridge.md) | General | With Dowsing Machine |
 

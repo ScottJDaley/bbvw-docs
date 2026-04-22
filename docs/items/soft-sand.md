@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a loose, silky sand that boosts the powe
 | Route | Type | Info |
 | --- | --- | --- |
 | [Desert Resort](../routes/desert-resort.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

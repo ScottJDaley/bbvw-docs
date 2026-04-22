@@ -112,8 +112,35 @@
 ### Shop
 | Item |
 | --- |
+| ![Antidote](../img/items/antidote.png) [Antidote](../items/antidote.md) |
+| ![Awakening](../img/items/awakening.png) [Awakening](../items/awakening.md) |
+| ![Berry Juice](../img/items/berry-juice.png) [Berry Juice](../items/berry-juice.md) |
+| ![Burn Heal](../img/items/burn-heal.png) [Burn Heal](../items/burn-heal.md) |
+| ![Casteliacone](../img/items/casteliacone.png) [Casteliacone](../items/casteliacone.md) |
+| ![Elixir](../img/items/elixir.png) [Elixir](../items/elixir.md) |
+| ![Energy Root](../img/items/energy-root.png) [Energy Root](../items/energy-root.md) |
+| ![Energy Powder](../img/items/energy-powder.png) [Energy Powder](../items/energy-powder.md) |
+| ![Ether](../img/items/ether.png) [Ether](../items/ether.md) |
 | ![Fresh Water](../img/items/fresh-water.png) [Fresh Water](../items/fresh-water.md) |
+| ![Full Heal](../img/items/full-heal.png) [Full Heal](../items/full-heal.md) |
+| ![Full Restore](../img/items/full-restore.png) [Full Restore](../items/full-restore.md) |
+| ![Heal Powder](../img/items/heal-powder.png) [Heal Powder](../items/heal-powder.md) |
+| ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
+| ![Ice Heal](../img/items/ice-heal.png) [Ice Heal](../items/ice-heal.md) |
+| ![Lava Cookie](../img/items/lava-cookie.png) [Lava Cookie](../items/lava-cookie.md) |
 | ![Lemonade](../img/items/lemonade.png) [Lemonade](../items/lemonade.md) |
+| ![Max Elixir](../img/items/max-elixir.png) [Max Elixir](../items/max-elixir.md) |
+| ![Max Ether](../img/items/max-ether.png) [Max Ether](../items/max-ether.md) |
+| ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) |
+| ![Max Revive](../img/items/max-revive.png) [Max Revive](../items/max-revive.md) |
+| ![Moomoo Milk](../img/items/moomoo-milk.png) [Moomoo Milk](../items/moomoo-milk.md) |
+| ![Old Gateau](../img/items/old-gateau.png) [Old Gateau](../items/old-gateau.md) |
+| ![Parlyz Heal](../img/items/unknown.png) [Parlyz Heal](../items/parlyz-heal.md) |
+| ![Potion](../img/items/potion.png) [Potion](../items/potion.md) |
+| ![Ragecandybar](../img/items/unknown.png) [Ragecandybar](../items/ragecandybar.md) |
+| ![Revival Herb](../img/items/revival-herb.png) [Revival Herb](../items/revival-herb.md) |
+| ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
+| ![Sacred Ash](../img/items/sacred-ash.png) [Sacred Ash](../items/sacred-ash.md) |
 | ![Soda Pop](../img/items/soda-pop.png) [Soda Pop](../items/soda-pop.md) |
 
 ## Trainers

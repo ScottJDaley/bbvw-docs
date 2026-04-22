@@ -24,6 +24,7 @@ Causes a level-up and raises happiness.
 | [<span style='text-decoration:line-through; color:red; font-size:0.9em;'>Route 16</span>](../routes/route-16.md) | General |  |
 | [Route 2](../routes/route-2.md) | General |  |
 | [Route 3](../routes/route-3.md) | General | With Dowsing Machine |
+| [Route 9](../routes/route-9.md) | Shop |  |
 | [Twist Mountain](../routes/twist-mountain.md) | General | With Dowsing Machine |
 | [Victory Road](../routes/victory-road.md) | General |  |
 

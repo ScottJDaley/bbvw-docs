@@ -8,5 +8,6 @@ If a move failed because of the opposing Pokémon's Type, this Bull's Eye will m
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Opelucid City](../routes/opelucid-city.md) | General |  |
 

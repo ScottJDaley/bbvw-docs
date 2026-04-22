@@ -65,7 +65,7 @@
 | ![Hyper Potion](../img/items/hyper-potion.png) [Hyper Potion](../items/hyper-potion.md) |
 | ![Max Potion](../img/items/max-potion.png) [Max Potion](../items/max-potion.md) (With Dowsing Machine) |
 | ![Revive](../img/items/revive.png) [Revive](../items/revive.md) |
-| ![X Defend](../img/items/unknown.png) [X Defend](../items/x-defend.md) |
+| ![X Defend](../img/items/x-defense.png) [X Defend](../items/x-defend.md) |
 | ![Twisted Spoon](../img/items/twisted-spoon.png) [Twisted Spoon](../items/twisted-spoon.md) |
 | ![Ultra Ball](../img/items/ultra-ball.png) [Ultra Ball](../items/ultra-ball.md) (With Dowsing Machine) |
 | ![TM85 Dream Eater](../img/items/tm-psychic.png) [TM85 Dream Eater](../items/tm85.md) |

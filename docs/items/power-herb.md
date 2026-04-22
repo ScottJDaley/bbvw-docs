@@ -8,6 +8,6 @@ Held: Both turns of a two-turn charge move happen at once. Consumed upon use.
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Victory Road](../routes/victory-road.md) | General |  |
 

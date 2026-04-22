@@ -8,5 +8,5 @@ Letter paper that’s printed with the pattern of a steel suspension bridge. Giv
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Opelucid City](../routes/opelucid-city.md) | Shop |  |
 

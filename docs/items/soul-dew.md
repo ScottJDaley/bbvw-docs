@@ -9,4 +9,5 @@ Raises Latias and Latios’s Special Attack and Special Defense by 50%.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Abundant Shrine](../routes/abundant-shrine.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

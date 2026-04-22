@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) X Defend
+# ![icon](../img/items/x-defense.png) X Defend
 
 **Category:** Battle effect
 

@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a piece of ice that repels heat and boos
 | Route | Type | Info |
 | --- | --- | --- |
 | [Cold Storage](../routes/cold-storage.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

@@ -8,5 +8,5 @@ If it is held, when you are hit by an attack the Pokemon can escape the battle-f
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

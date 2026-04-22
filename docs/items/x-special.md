@@ -1,4 +1,4 @@
-# ![icon](../img/items/unknown.png) X Special
+# ![icon](../img/items/x-sp-atk.png) X Special
 
 **Category:** Battle effect
 
@@ -8,5 +8,5 @@ An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if th
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Route 9](../routes/route-9.md) | Shop |  |
 

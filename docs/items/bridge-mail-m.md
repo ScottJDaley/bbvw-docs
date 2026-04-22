@@ -8,5 +8,6 @@ Letter paper that’s printed with the pattern of a bridge that Arty drew. Given
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
-| [Shop](../routes/shop.md) | General |  |
+| [Black City](../routes/black-city.md) | Shop |  |
+| [White Forest](../routes/white-forest.md) | Shop |  |
 

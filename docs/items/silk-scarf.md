@@ -8,5 +8,6 @@ An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power 
 ## Locations
 | Route | Type | Info |
 | --- | --- | --- |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 | [Route 6](../routes/route-6.md) | General |  |
 

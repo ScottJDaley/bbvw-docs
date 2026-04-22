@@ -9,4 +9,5 @@ An item to be held by a Pokémon. It is a spoon imbued with telekinetic power th
 | Route | Type | Info |
 | --- | --- | --- |
 | [Dreamyard](../routes/dreamyard.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 

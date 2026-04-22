@@ -9,4 +9,5 @@ If held by a Pokemon it will give the opponent damage if hit with an attacl.
 | Route | Type | Info |
 | --- | --- | --- |
 | [Cold Storage](../routes/cold-storage.md) | General |  |
+| [Gear Station](../routes/gear-station.md) | Shop |  |
 
